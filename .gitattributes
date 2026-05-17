@@ -1,2 +1,5 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+backend/training/saved_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+backend/pipeline2_basic_rag/vector_store/faiss_index.bin filter=lfs diff=lfs merge=lfs -text
+backend/pipeline2_basic_rag/vector_store/chunks.npy filter=lfs diff=lfs merge=lfs -text

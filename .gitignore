@@ -19,13 +19,15 @@ env/
 *.ckpt
 *.pth
 
-# Training artifacts
+# Training artifacts (ignore checkpoints, but allow final saved_model)
 backend/training/results/
-backend/training/saved_model/
 
-# Vector store binaries
-backend/pipeline2_basic_rag/vector_store/*.bin
-backend/pipeline2_basic_rag/vector_store/*.npy
+# Allow specific binary and model files that are already built
+!backend/pipeline2_basic_rag/vector_store/faiss_index.bin
+!backend/pipeline2_basic_rag/vector_store/chunks.npy
+!backend/training/saved_model/
+!backend/training/saved_model/*
+
 
 # Node modules
 node_modules/

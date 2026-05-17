@@ -35,7 +35,7 @@ function submitQuery() {
     ['responsesSection','metricsSummary','chartsSection','verdictBanner','summarySection'].forEach(id =>
         document.getElementById(id).classList.add('hidden'));
         
-    fetch('http://localhost:8000/evaluate', {
+    fetch('/evaluate', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ query: input.value.trim() })

@@ -15,6 +15,9 @@ from pipeline3_graphrag.graph_rag import GraphRAGPipeline
 
 app = FastAPI()
 
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"], 
@@ -22,6 +25,8 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Static files will be mounted at the end of the file to prevent route conflicts
 
 print("Initializing Pipelines... This may take a minute.")
 pipe1 = LLMBaselinePipeline()
@@ -235,3 +240,8 @@ async def evaluate_query(request: QueryRequest):
     except Exception as e:
         print(f"Error during evaluation: {e}")
         raise HTTPException(status_code=500, detail=str(e))
+
+# Mount frontend static files at root
+frontend_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend")
+if os.path.exists(frontend_path):
+    app.mount("/", StaticFiles(directory=frontend_path, html=True), name="static")

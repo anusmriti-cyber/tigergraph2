@@ -1,0 +1,1584 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz14096" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11497686</article-id><article-id pub-id-type="pmcid-ver">PMC11497686.1</article-id><article-id pub-id-type="pmcaid">11497686</article-id><article-id pub-id-type="pmcaiid">11497686</article-id><article-id pub-id-type="pmid">39073684</article-id><article-id pub-id-type="doi">10.1002/alz.14096</article-id><article-id pub-id-type="publisher-id">ALZ14096</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Alzheimer's disease genetic pathways impact cerebrospinal fluid biomarkers and imaging endophenotypes in non‐demented individuals</article-title><alt-title alt-title-type="left-running-head">LORENZINI <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz14096-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lorenzini</surname><given-names initials="L">Luigi</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9756-881X</contrib-id><xref rid="alz14096-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz14096-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>l.lorenzini@amsterdamumc.nl</email></address></contrib><contrib id="alz14096-cr-0002" contrib-type="author"><name name-style="western"><surname>Collij</surname><given-names initials="LE">Lyduine E.</given-names></name><xref rid="alz14096-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz14096-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz14096-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz14096-cr-0003" contrib-type="author"><name name-style="western"><surname>Tesi</surname><given-names initials="N">Niccoló</given-names></name><xref rid="alz14096-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz14096-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="alz14096-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz14096-cr-0004" contrib-type="author"><name name-style="western"><surname>Vilor‐Tejedor</surname><given-names initials="N">Natàlia</given-names></name><xref rid="alz14096-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="alz14096-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="alz14096-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="alz14096-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="alz14096-cr-0005" contrib-type="author"><name name-style="western"><surname>Ingala</surname><given-names initials="S">Silvia</given-names></name><xref rid="alz14096-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref><xref rid="alz14096-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="alz14096-cr-0006" contrib-type="author"><name name-style="western"><surname>Blennow</surname><given-names initials="K">Kaj</given-names></name><xref rid="alz14096-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref><xref rid="alz14096-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="alz14096-cr-0007" contrib-type="author"><name name-style="western"><surname>Foley</surname><given-names initials="C">Christopher</given-names></name><xref rid="alz14096-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="alz14096-cr-0008" contrib-type="author"><name name-style="western"><surname>Frisoni</surname><given-names initials="GB">Giovanni B.</given-names></name><xref rid="alz14096-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref><xref rid="alz14096-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="alz14096-cr-0009" contrib-type="author"><name name-style="western"><surname>Haller</surname><given-names initials="S">Sven</given-names></name><xref rid="alz14096-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref><xref rid="alz14096-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref><xref rid="alz14096-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref></contrib><contrib id="alz14096-cr-0010" contrib-type="author"><name name-style="western"><surname>Holstege</surname><given-names initials="H">Henne</given-names></name><xref rid="alz14096-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz14096-cr-0011" contrib-type="author"><name name-style="western"><surname>van der van der Lee</surname><given-names initials="S">Sven</given-names></name><xref rid="alz14096-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="alz14096-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref></contrib><contrib id="alz14096-cr-0012" contrib-type="author"><name name-style="western"><surname>Martinez‐Lage</surname><given-names initials="P">Pablo</given-names></name><xref rid="alz14096-aff-0021" ref-type="aff">
+<sup>21</sup>
+</xref></contrib><contrib id="alz14096-cr-0013" contrib-type="author"><name name-style="western"><surname>Marioni</surname><given-names initials="RE">Riccardo E.</given-names></name><xref rid="alz14096-aff-0022" ref-type="aff">
+<sup>22</sup>
+</xref></contrib><contrib id="alz14096-cr-0014" contrib-type="author"><name name-style="western"><surname>McCartney</surname><given-names initials="DL">Daniel L.</given-names></name><xref rid="alz14096-aff-0022" ref-type="aff">
+<sup>22</sup>
+</xref></contrib><contrib id="alz14096-cr-0015" contrib-type="author"><name name-style="western"><surname>O’ Brien</surname><given-names initials="J">John</given-names></name><xref rid="alz14096-aff-0023" ref-type="aff">
+<sup>23</sup>
+</xref></contrib><contrib id="alz14096-cr-0016" contrib-type="author"><name name-style="western"><surname>Oliveira</surname><given-names initials="TG">Tiago Gil</given-names></name><xref rid="alz14096-aff-0024" ref-type="aff">
+<sup>24</sup>
+</xref><xref rid="alz14096-aff-0025" ref-type="aff">
+<sup>25</sup>
+</xref></contrib><contrib id="alz14096-cr-0017" contrib-type="author"><name name-style="western"><surname>Payoux</surname><given-names initials="P">Pierre</given-names></name><xref rid="alz14096-aff-0026" ref-type="aff">
+<sup>26</sup>
+</xref><xref rid="alz14096-aff-0027" ref-type="aff">
+<sup>27</sup>
+</xref></contrib><contrib id="alz14096-cr-0018" contrib-type="author"><name name-style="western"><surname>Reinders</surname><given-names initials="M">Marcel</given-names></name><xref rid="alz14096-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz14096-cr-0019" contrib-type="author"><name name-style="western"><surname>Ritchie</surname><given-names initials="C">Craig</given-names></name><xref rid="alz14096-aff-0028" ref-type="aff">
+<sup>28</sup>
+</xref><xref rid="alz14096-aff-0029" ref-type="aff">
+<sup>29</sup>
+</xref></contrib><contrib id="alz14096-cr-0020" contrib-type="author"><name name-style="western"><surname>Scheltens</surname><given-names initials="P">Philip</given-names></name><xref rid="alz14096-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref></contrib><contrib id="alz14096-cr-0021" contrib-type="author"><name name-style="western"><surname>Schwarz</surname><given-names initials="AJ">Adam J.</given-names></name><xref rid="alz14096-aff-0030" ref-type="aff">
+<sup>30</sup>
+</xref></contrib><contrib id="alz14096-cr-0022" contrib-type="author"><name name-style="western"><surname>Sudre</surname><given-names initials="CH">Carole H.</given-names></name><xref rid="alz14096-aff-0031" ref-type="aff">
+<sup>31</sup>
+</xref><xref rid="alz14096-aff-0032" ref-type="aff">
+<sup>32</sup>
+</xref><xref rid="alz14096-aff-0033" ref-type="aff">
+<sup>33</sup>
+</xref></contrib><contrib id="alz14096-cr-0023" contrib-type="author"><name name-style="western"><surname>Waldman</surname><given-names initials="AD">Adam D.</given-names></name><xref rid="alz14096-aff-0034" ref-type="aff">
+<sup>34</sup>
+</xref><xref rid="alz14096-aff-0035" ref-type="aff">
+<sup>35</sup>
+</xref></contrib><contrib id="alz14096-cr-0024" contrib-type="author"><name name-style="western"><surname>Wolz</surname><given-names initials="R">Robin</given-names></name><xref rid="alz14096-aff-0036" ref-type="aff">
+<sup>36</sup>
+</xref></contrib><contrib id="alz14096-cr-0025" contrib-type="author"><name name-style="western"><surname>Chatelat</surname><given-names initials="G">Gael</given-names></name><xref rid="alz14096-aff-0037" ref-type="aff">
+<sup>37</sup>
+</xref></contrib><contrib id="alz14096-cr-0026" contrib-type="author"><name name-style="western"><surname>Ewers</surname><given-names initials="M">Michael</given-names></name><xref rid="alz14096-aff-0038" ref-type="aff">
+<sup>38</sup>
+</xref></contrib><contrib id="alz14096-cr-0027" contrib-type="author"><name name-style="western"><surname>Wink</surname><given-names initials="AM">Alle Meije</given-names></name><xref rid="alz14096-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz14096-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz14096-cr-0028" contrib-type="author"><name name-style="western"><surname>Mutsaerts</surname><given-names initials="HJMM">Henk J. M. M.</given-names></name><xref rid="alz14096-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz14096-aff-0039" ref-type="aff">
+<sup>39</sup>
+</xref></contrib><contrib id="alz14096-cr-0029" contrib-type="author"><name name-style="western"><surname>Gispert</surname><given-names initials="JD">Juan Domingo</given-names></name><xref rid="alz14096-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="alz14096-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="alz14096-aff-0040" ref-type="aff">
+<sup>40</sup>
+</xref><xref rid="alz14096-aff-0041" ref-type="aff">
+<sup>41</sup>
+</xref></contrib><contrib id="alz14096-cr-0030" contrib-type="author"><name name-style="western"><surname>Visser</surname><given-names initials="PJ">Pieter Jelle</given-names></name><xref rid="alz14096-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref><xref rid="alz14096-aff-0042" ref-type="aff">
+<sup>42</sup>
+</xref><xref rid="alz14096-aff-0043" ref-type="aff">
+<sup>43</sup>
+</xref><xref rid="alz14096-aff-0044" ref-type="aff">
+<sup>44</sup>
+</xref></contrib><contrib id="alz14096-cr-0031" contrib-type="author"><name name-style="western"><surname>Tijms</surname><given-names initials="BM">Betty M.</given-names></name><xref rid="alz14096-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref><xref rid="alz14096-aff-0042" ref-type="aff">
+<sup>42</sup>
+</xref></contrib><contrib id="alz14096-cr-0032" contrib-type="author"><name name-style="western"><surname>Altmann</surname><given-names initials="A">Andre</given-names></name><xref rid="alz14096-aff-0045" ref-type="aff">
+<sup>45</sup>
+</xref></contrib><contrib id="alz14096-cr-0033" contrib-type="author"><name name-style="western"><surname>Barkhof</surname><given-names initials="F">Frederik</given-names></name><xref rid="alz14096-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz14096-aff-0046" ref-type="aff">
+<sup>46</sup>
+</xref></contrib></contrib-group><aff id="alz14096-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology and Nuclear Medicine</named-content>
+<institution>Amsterdam University Medical Centre, Vrije Universiteit</institution>
+<city>Amsterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz14096-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Amsterdam Neuroscience, Brain Imaging</institution>
+<city>Amsterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz14096-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Memory Research Unit</named-content>
+<named-content content-type="organisation-division">Department of Clinical Sciences Malmö</named-content>
+<institution>Lund University</institution>
+<city>Lund</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz14096-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Genomics of Neurodegenerative Diseases and Aging, Human Genetics</named-content>
+<institution>Vrije Universiteit Amsterdam</institution>
+<city>Amsterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz14096-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Delft Bioinformatics Lab</named-content>
+<institution>Delft University of Technology</institution>
+<city>Delft</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz14096-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Barcelonaβeta Brain Research Center (BBRC)</named-content>
+<institution>Pasqual Maragall Foundation</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz14096-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<institution>Universitat Pompeu Fabra</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz14096-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Centre for Genomic Regulation (CRG)</named-content>
+<institution>The Barcelona Institute for Science and Technology</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz14096-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Genetics</named-content>
+<institution>Erasmus University Medical Center</institution>
+<city>Rotterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz14096-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology</named-content>
+<institution>Copenhagen University Hospital Rigshospitalet</institution>
+<city>Copenhagen</city>
+<country country="DK">Denmark</country>
+</aff><aff id="alz14096-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<institution>Cerebriu A/S</institution>
+<city>Copenhagen</city>
+<country country="DK">Denmark</country>
+</aff><aff id="alz14096-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry and Neurochemistry</named-content>
+<named-content content-type="organisation-division">Institute of Neuroscience and Physiology</named-content>
+<institution>the Sahlgrenska Academy at the University of Gothenburg</institution>
+<city>Mölndal</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz14096-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Neurochemistry Laboratory</named-content>
+<institution>Sahlgrenska University Hospital</institution>
+<city>Mölndal</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz14096-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<institution>GE Healthcare</institution>
+<city>Amersham</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14096-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<named-content content-type="organisation-division">Laboratory Alzheimer's Neuroimaging &amp; Epidemiology</named-content>
+<institution>IRCCS Istituto Centro San Giovanni di Dio Fatebenefratelli</institution>
+<city>Brescia</city>
+<country country="IT">Italy</country>
+</aff><aff id="alz14096-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<institution>University Hospitals and University of Geneva</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="alz14096-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<institution>CIMC ‐ Centre d'Imagerie Médicale de Cornavin</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="alz14096-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<named-content content-type="organisation-division">Department of Surgical Sciences, Radiology</named-content>
+<institution>Uppsala University</institution>
+<city>Uppsala</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz14096-aff-0019">
+<label>
+<sup>19</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology</named-content>
+<institution>Beijing Tiantan Hospital</institution>
+<institution>Capital Medical University</institution>
+<city>Beijing</city>
+<country country="CN">P. R. China</country>
+</aff><aff id="alz14096-aff-0020">
+<label>
+<sup>20</sup>
+</label>
+<named-content content-type="organisation-division">Alzheimer Center Amsterdam</named-content>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Amsterdam Neuroscience, Vrije Universiteit Amsterdam</institution>
+<city>Amsterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz14096-aff-0021">
+<label>
+<sup>21</sup>
+</label>
+<institution>Centro de Investigación y Terapias Avanzadas, Neurología, CITA‐Alzheimer Foundation</institution>
+<city>San Sebastián</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz14096-aff-0022">
+<label>
+<sup>22</sup>
+</label>
+<named-content content-type="organisation-division">Centre for Genomic and Experimental Medicine</named-content>
+<named-content content-type="organisation-division">Institute of Genetics and Cancer</named-content>
+<institution>University of Edinburgh</institution>
+<city>Edinburgh</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14096-aff-0023">
+<label>
+<sup>23</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<named-content content-type="organisation-division">School of Clinical Medicine</named-content>
+<institution>University of Cambridge</institution>
+<city>Cambridge</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14096-aff-0024">
+<label>
+<sup>24</sup>
+</label>
+<named-content content-type="organisation-division">Life and Health Sciences Research Institute (ICVS)</named-content>
+<named-content content-type="organisation-division">School of Medicine</named-content>
+<institution>University of Minho</institution>
+<city>Braga</city>
+<country country="PT">Portugal</country>
+</aff><aff id="alz14096-aff-0025">
+<label>
+<sup>25</sup>
+</label>
+<institution>ICVS/3B's ‐ PT Government Associate Laboratory</institution>
+<city>Braga/Guimarães</city>
+<country country="PT">Portugal</country>
+</aff><aff id="alz14096-aff-0026">
+<label>
+<sup>26</sup>
+</label>
+<named-content content-type="organisation-division">Department of Nuclear Medicine</named-content>
+<institution>Toulouse University Hospital</institution>
+<city>Toulouse</city>
+<country country="FR">France</country>
+</aff><aff id="alz14096-aff-0027">
+<label>
+<sup>27</sup>
+</label>
+<named-content content-type="organisation-division">ToNIC, Toulouse NeuroImaging Center</named-content>
+<institution>University of Toulouse, Inserm</institution>
+<city>Toulouse</city>
+<country country="FR">France</country>
+</aff><aff id="alz14096-aff-0028">
+<label>
+<sup>28</sup>
+</label>
+<named-content content-type="organisation-division">Edinburgh Dementia Prevention, Centre for Clinical Brain Sciences, Outpatient Department 2</named-content>
+<institution>Western General Hospital</institution>
+<institution>University of Edinburgh</institution>
+<city>Edinburgh</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14096-aff-0029">
+<label>
+<sup>29</sup>
+</label>
+<institution>Brain Health Scotland</institution>
+<city>Edinburgh</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14096-aff-0030">
+<label>
+<sup>30</sup>
+</label>
+<institution>Takeda Pharmaceuticals Ltd.</institution>
+<city>Cambridge</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14096-aff-0031">
+<label>
+<sup>31</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Physics and Biomedical Engineering</named-content>
+<named-content content-type="organisation-division">Centre for Medical Image Computing (CMIC)</named-content>
+<institution>University College London (UCL)</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14096-aff-0032">
+<label>
+<sup>32</sup>
+</label>
+<named-content content-type="organisation-division">MRC Unit for Lifelong Health &amp; Ageing at UCL</named-content>
+<institution>University College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14096-aff-0033">
+<label>
+<sup>33</sup>
+</label>
+<named-content content-type="organisation-division">School of Biomedical Engineering and Imaging Sciences</named-content>
+<institution>King's College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14096-aff-0034">
+<label>
+<sup>34</sup>
+</label>
+<named-content content-type="organisation-division">Centre for Clinical Brain Sciences</named-content>
+<institution>The University of Edinburgh</institution>
+<city>Edinburgh</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14096-aff-0035">
+<label>
+<sup>35</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>Imperial College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14096-aff-0036">
+<label>
+<sup>36</sup>
+</label>
+<institution>IXICO</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14096-aff-0037">
+<label>
+<sup>37</sup>
+</label>
+<institution>Université de Normandie, Unicaen, Inserm, U1237, PhIND “Physiopathology and Imaging of Neurological Disorders”, institut Blood‐and‐Brain @ Caen‐Normandie, Cyceron</institution>
+<city>Caen</city>
+<country country="FR">France</country>
+</aff><aff id="alz14096-aff-0038">
+<label>
+<sup>38</sup>
+</label>
+<institution>German Center for Neurodegenerative Diseases (DZNE)</institution>
+<city>Munich</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz14096-aff-0039">
+<label>
+<sup>39</sup>
+</label>
+<named-content content-type="organisation-division">Ghent Institute for Functional and Metabolic Imaging (GIfMI)</named-content>
+<institution>Ghent University</institution>
+<city>Ghent</city>
+<country country="BE">Belgium</country>
+</aff><aff id="alz14096-aff-0040">
+<label>
+<sup>40</sup>
+</label>
+<institution>CIBER Bioingeniería, Biomateriales y Nanomedicina (CIBER‐BBN)</institution>
+<city>Madrid</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz14096-aff-0041">
+<label>
+<sup>41</sup>
+</label>
+<institution>IMIM (Hospital del Mar Medical Research Institute)</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz14096-aff-0042">
+<label>
+<sup>42</sup>
+</label>
+<institution>Amsterdam Neuroscience, Neurodegeneration</institution>
+<city>Amsterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz14096-aff-0043">
+<label>
+<sup>43</sup>
+</label>
+<named-content content-type="organisation-division">Alzheimer Center Limburg</named-content>
+<named-content content-type="organisation-division">Department of Psychiatry &amp; Neuropsychology</named-content>
+<named-content content-type="organisation-division">School of Mental Health and Neuroscience</named-content>
+<institution>Maastricht University</institution>
+<city>Maastricht</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz14096-aff-0044">
+<label>
+<sup>44</sup>
+</label>
+<named-content content-type="organisation-division">Division of Neurogeriatrics</named-content>
+<named-content content-type="organisation-division">Department of Neurobiology, Care Sciences and Society</named-content>
+<institution>Karolinska Institutet</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz14096-aff-0045">
+<label>
+<sup>45</sup>
+</label>
+<named-content content-type="organisation-division">Centre for Medical Image Computing</named-content>
+<named-content content-type="organisation-division">Department of Medical Physics and Biomedical Engineering</named-content>
+<institution>University College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14096-aff-0046">
+<label>
+<sup>46</sup>
+</label>
+<named-content content-type="organisation-division">Institutes of Neurology and Healthcare Engineering</named-content>
+<institution>University College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Luigi Lorenzini, Department of Radiology and Nuclear Medicine, De Boelelaan 1117, 1081 HV Amsterdam, the Netherlands.<break/> Email: <email>l.lorenzini@amsterdamumc.nl</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>7</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2024</year></pub-date><volume>20</volume><issue seq="240">9</issue><issue-id pub-id-type="pmc-issue-id">473307</issue-id><issue-id pub-id-type="doi">10.1002/alz.v20.9</issue-id><fpage>6146</fpage><lpage>6160</lpage><history><date date-type="rev-recd"><day>20</day><month>3</month><year>2024</year></date><date date-type="received"><day>31</day><month>10</month><year>2023</year></date><date date-type="accepted"><day>03</day><month>6</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>29</day><month>07</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>24</day><month>10</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-02-25 09:25:16.523"><day>25</day><month>02</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-20-6146.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-20-6146.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="correction-forward" xml:lang="en" xlink:title="correction" vol="21" journal-id="Alzheimers Dement" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC11848326"><article-title>Correction to “Alzheimer's disease genetic pathways impact cerebrospinal fluid biomarkers and imaging endophenotypes in non‐demented individuals”</article-title><volume>21</volume><issue seq="770">2</issue><date><day>30</day><month>12</month><year>2024</year></date><elocation-id>e14427</elocation-id><source>Alzheimer's &amp; Dementia</source><pub-id pub-id-type="doi">10.1002/alz.14427</pub-id><pub-id pub-id-type="pmcid">PMC11848326</pub-id><pub-id pub-id-type="pmid">39737543</pub-id></related-article><abstract><title>Abstract</title><sec id="alz14096-sec-0010"><title>INTRODUCTION</title><p>Unraveling how Alzheimer's disease (AD) genetic risk is related to neuropathological heterogeneity, and whether this occurs through specific biological pathways, is a key step toward precision medicine.</p></sec><sec id="alz14096-sec-0020"><title>METHODS</title><p>We computed pathway‐specific genetic risk scores (GRSs) in non‐demented individuals and investigated how AD risk variants predict cerebrospinal fluid (CSF) and imaging biomarkers reflecting AD pathology, cardiovascular, white matter integrity, and brain connectivity.</p></sec><sec id="alz14096-sec-0030"><title>RESULTS</title><p>CSF amyloidbeta and phosphorylated tau were related to most GRSs. Inflammatory pathways were associated with cerebrovascular disease, whereas quantitative measures of white matter lesion and microstructure integrity were predicted by clearance and migration pathways. Functional connectivity alterations were related to genetic variants involved in signal transduction and synaptic communication.</p></sec><sec id="alz14096-sec-0040"><title>DISCUSSION</title><p>This study reveals distinct genetic risk profiles in association with specific pathophysiological aspects in predementia stages of AD, unraveling the biological substrates of the heterogeneity of AD‐associated endophenotypes and promoting a step forward in disease understanding and development of personalized therapies.</p></sec><sec id="alz14096-sec-0050"><title>Highlights</title><p>
+<list list-type="bullet" id="alz14096-list-0001"><list-item><p>Polygenic risk for Alzheimer's disease encompasses six biological pathways that can be quantified with pathway‐specific genetic risk scores, and differentially relate to cerebrospinal fluid and imaging biomarkers.</p></list-item><list-item><p>Inflammatory pathways are mostly related to cerebrovascular burden.</p></list-item><list-item><p>White matter health is associated with pathways of clearance and membrane integrity, whereas functional connectivity measures are related to signal transduction and synaptic communication pathways.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz14096-kwd-0001">biological pathways</kwd><kwd id="alz14096-kwd-0002">magnetic resonance imaging</kwd><kwd id="alz14096-kwd-0003">polygenic risk</kwd><kwd id="alz14096-kwd-0004">preclinical Alzheimer's disease</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>EU/EFPIA Innovative Medicines Initiative Joint Undertaking EPAD</funding-source><award-id>115736</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="1"/><page-count count="15"/><word-count count="8512"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.9 mode:remove_FC converted:23.10.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz14096-cit-0070">
+<string-name name-style="western">
+<surname>Lorenzini</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Collij</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tesi</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Alzheimer's disease genetic pathways impact cerebrospinal fluid biomarkers and imaging endophenotypes in non‐demented individuals</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>6146</fpage>–<lpage>6160</lpage>. <pub-id pub-id-type="doi">10.1002/alz.14096</pub-id>
+<pub-id pub-id-type="pmcid">PMC11497686</pub-id><pub-id pub-id-type="pmid">39073684</pub-id></mixed-citation>
+</p></notes></front><body><sec id="alz14096-sec-0060"><label>1</label><title>BACKGROUND</title><p>Recent genome‐wide association studies (GWASs) of sporadic Alzheimer's disease (AD) and related dementias<xref rid="alz14096-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> have identified more than 70 genetic variants that modify the risk of developing AD, beyond apolipoprotein E (<italic toggle="yes">APOE</italic>) ε2/ε4. These risk variants are involved in several pathophysiological pathways, such as amyloid‐beta 1‐42 (Aβ<sub>1‐42</sub>) production and clearance, lipid metabolism, endocytosis, immune function, and inflammatory response.<xref rid="alz14096-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> The multitude of pathophysiological processes involved in AD pathogenesis may explain heterogeneity in neuropathological features of AD that are already present in the pre‐dementia stage.<xref rid="alz14096-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz14096-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> For example, individuals along the AD clinical spectrum can present with heterogeneous profiles of brain functional, structural, and cerebrovascular alterations observed through magnetic resonance imaging (MRI) techniques.<xref rid="alz14096-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz14096-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Neuropathological heterogeneity further exacerbates disease complexity and may contribute to the partial efficacy of anti‐amyloid compounds investigated in clinical trials for AD.<xref rid="alz14096-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Individuals in the early stages of the AD continuum might indeed present alterations in different biological pathways, eventually leading to heterogeneous neuroimaging and clinical manifestations.<xref rid="alz14096-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Characterizing how genotype influences heterogeneity in these imaging phenotypes is essential for understanding individual differences in disease cause, presentation, trajectory, and response to treatment,<xref rid="alz14096-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> thus will be necessary for patients’ selection and stratification in clinical trials.</p><p>One way to link genetic variants to biological pathways and neuropathological features is through determining total and pathway‐specific genetic risk scores (GRSs). GRSs are weighted scores that quantify the individual genetic predisposition to develop a disease, such as AD, calculated by computing the sum of risk alleles that an individual has, weighted by the risk allele effect sizes as estimated by a GWASs.<xref rid="alz14096-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Furthermore, by linking variants to genes, and genes to associated biological pathways, one can compute pathway‐specific GRSs (pathway‐GRSs), which retain information about how the burden of genetic risk varies across biological processes.<xref rid="alz14096-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</p><p>The <italic toggle="yes">APOE‐</italic>ε4 genotype promotes amyloid deposition during the stages preceding dementia onset,<xref rid="alz14096-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> and has been associated, although less consistently, with tau deposition,<xref rid="alz14096-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> hippocampal atrophy,<xref rid="alz14096-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>,</sup> and alterations of functional connectivity (FC).<xref rid="alz14096-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> In contrast, there is scant evidence linking early fluid and imaging AD‐related traits to genetic pathways beyond <italic toggle="yes">APOE</italic>. It has been demonstrated that the cerebrospinal fluid (CSF) phosphorylated tau (p‐tau) and total tau (t‐tau) levels are correlated with GRSs for AD that did not include the <italic toggle="yes">APOE</italic> variants.<xref rid="alz14096-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Moreover, GRSs have been associated with higher rates of tau‐PET (positron emission tomography) and amyloid‐PET uptake in patients with AD, independently of <italic toggle="yes">APOE</italic> genotype.<xref rid="alz14096-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Pathway‐GRSs of endocytosis and immune response have been found to be associated with AD clinical progression, and to a lower extent with imaging markers of white matter damage.<xref rid="alz14096-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Although this suggests that certain AD phenotypes may be preferentially associated with accumulated genetic risk along particular biological pathways, current research has mostly focused on specific aspects, failing to capture genetic bases and pathways that regulate the broad spectrum of imaging and molecular biomarkers changes in preclinical AD stages.</p><p>To assess the genetic vulnerability underlying early AD‐associated changes in brain pathology, structure, and function, we tested whether GRSs and pathways‐GRSs of Alzheimer's disease and related dementias<xref rid="alz14096-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> relate to (1) CSF levels of Aβ<sub>1‐42</sub> and p‐tau<sub>181</sub>, (2) radiological features of cerebral small‐vessel disease (cSVD), and (3) a broad set of quantitative imaging phenotypes from multimodal MRI.</p></sec><sec id="alz14096-sec-0070"><label>2</label><title>METHODS</title><sec id="alz14096-sec-0080"><label>2.1</label><title>Participants</title><p>Data were drawn from the latest data release from the European Prevention of Alzheimer's Dementia (EPAD) multicenter study.<xref rid="alz14096-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> EPAD general inclusion criteria were age older than (or equal to) 50 years and no diagnosis of dementia (Clinical Dementia Rating [CDR] scale score &lt;1). Exclusion criteria were the presence of conditions associated with neurodegeneration or affecting cognition, contraindication to MRI or lumbar puncture, and cancer or history of cancer in the preceding 5 years. A total of 1835 participants were included in the EPAD study. Demographic, cognitive, neuroimaging, fluid biomarker, and genetic outcome data were collected.<xref rid="alz14096-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> For this work, we excluded participants with unavailable or low‐quality (see below) genetic data, resulting in a final sample of <italic toggle="yes">n</italic> = 1738.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz14096-sec-0090"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz14096-list-0002"><list-item><p>
+<bold>Systematic review</bold>: Polygenic risk for Alzheimer's disease (AD) comprises genetic variants that play a role in various biological processes, extending beyond amyloid production and clearance. This broader genetic influence may account for the heterogeneity of neuropathological observed from the early stages of the disease. Understanding these distinct pathophysiological pathways is crucial for comprehending the disease and tailoring treatments to individual patients.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: Using data from a large multicenter cohort study, we demonstrate that distinct genetic profiles determine specific imaging abnormalities and promote disease heterogeneity, through differential biological pathways.</p></list-item><list-item><p>
+<bold>Future directions</bold>: Pathway‐specific genetic profiling may offer novel perspectives for patient stratification and precision medicine.</p></list-item></list>
+</p></sec></boxed-text></sec><sec id="alz14096-sec-0100"><label>2.2</label><title>Genetic data acquisition and processing</title><p>DNA samples were genotyped using Illumina Infinium Global Screening Array‐24 v3.0. Standard quality control procedures were applied using PLINK (<underline underline-style="single">www.cog‐genomics.org</underline>) and are available online (<underline underline-style="single">https://github.com/marioni‐group/epad‐gwas</underline>). Briefly, quality control ensured high‐quality genotypes in all individuals (individual call rate &gt;99%, variant call rate &gt;99%), excluding single nucleotide polymorphisms (SNPs) with a significant departure from Hardy–Weinberg equilibrium (<italic toggle="yes">p</italic> &lt; 1<sup>x10</sup>) and keeping SNPs with minor allele frequency &gt;0.5%. Before imputation, individuals of non‐European ancestry (<italic toggle="yes">n</italic> = 19, based on clustering with HapMap III reference data) and individuals with a family relation (<italic toggle="yes">n</italic> = 46, identity‐by‐descent &gt;0.1875) were excluded. Genotypes were imputed using the Michigan Imputation Server (<underline underline-style="single">https://imputationserver.sph.umich.edu</underline>)<xref rid="alz14096-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> against European sample data from the Haplotype Reference Consortium (HRC, v1.1, GRCh37). Analyses were restricted to SNPs with imputation quality scores (RSq) ≥0.6 and minor allele frequencies (MAFs) ≥0.0005.</p></sec><sec id="alz14096-sec-0110"><label>2.3</label><title>Genetic risk scores calculation</title><p>We constructed GRSs using 85 variants that were previously significantly associated (genome‐wide threshold) with AD and related dementias,<xref rid="alz14096-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> in a sample of individuals that had no overlap with the EPAD cohort. The variant effect sizes (log of odds ratio) reported in the original work (Table <xref rid="alz14096-supitem-0001" ref-type="supplementary-material">S1</xref>) were used as weights for the GRS. Given a subject <italic toggle="yes">s</italic>, the GRS is defined as:
+<disp-formula id="alz14096-disp-0001">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block"><mml:mrow><mml:mrow><mml:mi>P</mml:mi><mml:mi>R</mml:mi><mml:mi>S</mml:mi><mml:mo linebreak="badbreak">=</mml:mo><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>k</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>K</mml:mi></mml:munderover><mml:mrow><mml:mi>d</mml:mi><mml:mi>o</mml:mi><mml:mi>s</mml:mi><mml:mi>a</mml:mi><mml:mi>g</mml:mi><mml:msub><mml:mi>e</mml:mi><mml:mrow><mml:mi>k</mml:mi><mml:mi>s</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo linebreak="goodbreak">×</mml:mo><mml:mi>l</mml:mi><mml:mi>n</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>O</mml:mi><mml:msub><mml:mi>R</mml:mi><mml:mi>k</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <italic toggle="yes">K</italic> represents the full set of genetic variants, <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-2" display="inline"><mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>o</mml:mi><mml:mi>s</mml:mi><mml:mi>a</mml:mi><mml:mi>g</mml:mi><mml:msubsup><mml:mi>e</mml:mi><mml:mi>s</mml:mi><mml:mi>k</mml:mi></mml:msubsup></mml:mrow></mml:mrow></mml:math> denotes the allele dosage from the (imputed) genotype of variant <italic toggle="yes">k</italic> in subject <italic toggle="yes">s</italic>, and ln(<italic toggle="yes">OR</italic>
+<sub>k</sub>) is the logarithmically transformed odds ratio of variant <italic toggle="yes">k</italic>.</p><p>To investigate the effects of genetic variants beyond <italic toggle="yes">APOE</italic>, GRSs were computed both with and without the two alleles (rs7412 and rs429358) from the <italic toggle="yes">APOE</italic> gene (denoted as GRS<sub>APOE</sub> and GRS<sub>noAPOE</sub>, respectively).</p></sec><sec id="alz14096-sec-0120"><label>2.4</label><title>Pathway‐GRS</title><p>In order to construct pathway‐specific GRSs, SNPs were mapped to pathways. We used a previously developed data‐driven method,<xref rid="alz14096-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> which has no a priori pathway definition and consists of two fundamental steps: first, single SNPs were linked to likely affected genes (variant‐gene mapping); then, identified genes were associated with biological pathways (gene‐pathway mapping). This method has previously demonstrated its capability to identify canonical disease pathways as identified in prior studies.<xref rid="alz14096-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> The pathway analysis was performed on the set of SNPs excluding the <italic toggle="yes">APOE</italic> region, to specifically evaluate <italic toggle="yes">APOE</italic>‐independent pathways.</p><sec id="alz14096-sec-0130"><label>2.4.1</label><title>Variant‐gene mapping</title><p>To perform the first step of this procedure we relied on the variant‐gene mapping reported in the reference GWAS study.<xref rid="alz14096-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Briefly, to prioritize candidate genes in the new loci, the authors integrated variant annotation, quantitative‐trait‐loci (QTL) (such as expression‐QTL, protein‐QTL, splicing‐QTL, methylation‐QTL, and histone acetylation‐QTL), and β‐amyloid precursor protein (APP) metabolism. Detailed information about the annotation procedure is reported in the original work. Prioritized genes are reported in Table <xref rid="alz14096-supitem-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="alz14096-sec-0140"><label>2.4.2</label><title>Gene‐pathway mapping</title><p>A gene‐set enrichment analysis was then performed with snpXplorer<xref rid="alz14096-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> to find biological pathways enriched within the set of identified genes. The <italic toggle="yes">Gost</italic> function from the R package gprofiler2<xref rid="alz14096-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> was used with gene ontology<xref rid="alz14096-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> as a reference gene source for functional profiling. Briefly, snpXplorer calculates a semantic similarity matrix between all enriched pathways, which is then used in a hierarchical clustering framework to obtain clusters of similar pathways. Lin distance<xref rid="alz14096-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> is used as a semantic similarity metric, whereas the number of clusters is estimated with a dynamic cut‐tree algorithm. By counting the number of times each SNP was associated with each cluster of pathways, and dividing by the total number of associations per SNP, we obtained a weighted mapping factor of each SNP to each cluster of pathways, varying between 0 and 1 and reflecting the contribution of that SNP to that cluster of pathways (Figure <xref rid="alz14096-fig-0001" ref-type="fig">1</xref>). In case no mapping to any of the pathways was found, we excluded the gene from further analyses.</p><fig position="float" fig-type="FIGURE" id="alz14096-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Results of the pathway analysis. The upper part of the figure shows the results of the clustering performed on identified pathways relating to the selected set of genes. The most frequent words from the pathways description within each cluster of pathways are visualized using word clouds. The lower part of the figure shows the contribution of each gene to each identified cluster, expressed as a log of odds ratios.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-20-6146-g003.jpg"/></fig></sec><sec id="alz14096-sec-0150"><label>2.4.3</label><title>Pathway‐GRSs</title><p>For the pathway‐GRSs, we extended the definition of the GRS by adding as a multiplicative factor the variant‐pathway‐mapping weight of each variant:
+<disp-formula id="alz14096-disp-0002">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-3" display="block"><mml:mrow><mml:mrow><mml:mi>G</mml:mi><mml:mi>R</mml:mi><mml:mi>S</mml:mi><mml:mo linebreak="badbreak">=</mml:mo><mml:msubsup><mml:mo>∑</mml:mo><mml:mrow><mml:mi>k</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>K</mml:mi></mml:msubsup><mml:mrow><mml:mi>d</mml:mi><mml:mi>o</mml:mi><mml:mi>s</mml:mi><mml:mi>a</mml:mi><mml:mi>g</mml:mi><mml:msubsup><mml:mi>e</mml:mi><mml:mi>s</mml:mi><mml:mi>k</mml:mi></mml:msubsup></mml:mrow><mml:mo linebreak="goodbreak">×</mml:mo><mml:mi>l</mml:mi><mml:mi>n</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>O</mml:mi><mml:msub><mml:mi>R</mml:mi><mml:mi>k</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo linebreak="goodbreak">×</mml:mo><mml:msubsup><mml:mi>M</mml:mi><mml:mi>k</mml:mi><mml:mi>p</mml:mi></mml:msubsup></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-4" display="inline"><mml:mrow><mml:msubsup><mml:mi>M</mml:mi><mml:mi>k</mml:mi><mml:mi>p</mml:mi></mml:msubsup></mml:mrow></mml:math> is the variant‐pathway mapping of variant <italic toggle="yes">k</italic> to pathway <italic toggle="yes">p</italic>, thus obtaining <italic toggle="yes">N</italic> pathway GRSs estimates per subject, with <italic toggle="yes">N</italic> being the number of identified clusters.</p></sec></sec><sec id="alz14096-sec-0160"><label>2.5</label><title>CSF analysis and AT classification</title><p>CSF biomarkers were quantified using a harmonized pre‐analytical protocol. Analyses were performed with the fully automatized Roche cobas Elecsys System at the Clinical Neurochemistry Laboratory, Mölndal, Sweden.<xref rid="alz14096-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Concentrations of Aβ<sub>1‐42</sub> were determined using the manufacturer's guidelines. Following a previous study on the same cohort,<xref rid="alz14096-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> CSF Aβ<sub>1‐42</sub> levels &lt;1000 pg/mL were used to define amyloid positivity (A+), and CSF p‐tau levels &gt;27 pg/mL were used to define tau positivity (T+). Four AT groups were derived to define A−T−, A+T−, A+T+, and A−T+ participants.</p></sec><sec id="alz14096-sec-0170"><label>2.6</label><title>MRI acquisition and processing</title><p>EPAD MRI acquisition and pre‐processing details are given in<xref rid="alz14096-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> and in supplementary materials. Briefly, at all sites the MRI protocol included acquisition of three‐dimensional (3D) T1‐weighted (3D T1w) and 3D fluid‐attenuated inversion recovery (FLAIR), 2D T2w, and 2D T2 star images. In a subset of sites, advanced MRI sequences were also acquired including resting‐state functional MRI (rs‐fMRI) and diffusion‐weighted imaging (DWI). From T1w sequences, the learning embeddings for atlas propagation (LEAP)<xref rid="alz14096-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> framework was used to compute gray matter (GM) volumes in the hippocampus, normalized by the total intracranial volume (TIV). White matter hyperintensities (WMHs) were computed using Bayesian model selection (BaMoS)<xref rid="alz14096-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> on FLAIR sequences. Periventricular and deep WMH volumes were obtained globally and for the frontal, parietal, temporal, and occipital lobes,<xref rid="alz14096-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> and corrected for TIV to account for interindividual differences in total brain size. For rs‐fMRI sequences, a dual regression approach<xref rid="alz14096-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> was used to compute resting‐state network FC within three subsystems of the default mode network (DMN),<xref rid="alz14096-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> including a medial, dorsal, and ventral component, according to a previous study.<xref rid="alz14096-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> For DWI sequences, a tract‐based spatial statistics (TBSS) approach was used to obtain regional values of fractional anisotropy (FA) and mean diffusivity (MD) in 10 WM tracts that have been shown previously to relate to Alzheimer's pathology. Examined WM tracts included commissural (genu, body, and splenium of corpus callosum), limbic (cingulum and fornix), associative (superior and inferior longitudinal fasciculus and superior fronto‐occipital fasciculus), and projection (corona radiata and internal capsule) fibers.</p></sec><sec id="alz14096-sec-0180"><label>2.7</label><title>Radiological assessment</title><p>MRI radiological reads were centrally performed for all EPAD participants, following the STandards for ReportIng Vascular changes on nEuroimaging (STRIVE) criteria<xref rid="alz14096-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> to evaluate cSVD burden. Enlarged perivascular spaces (PVSs) in the basal ganglia (PVS‐BG) and centrum semiovale (PVS‐CS) were rated separately using a 0–4 interval scale on the 2D T2w images.<xref rid="alz14096-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> Visual rating of deep and periventricular WMH (DWMH and PVH, respectively) was performed using the 0–3 Fazekas scale on the FLAIR images.<xref rid="alz14096-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> Cortical microbleeds (CMBs) were classified as ≥2 or &lt;2. A more detailed description of the used scales can be found in the supplementary materials.</p></sec><sec id="alz14096-sec-0190"><label>2.8</label><title>Statistical analyses</title><p>Data distributions were normalized before statistical analysis to meet linear model assumptions. Normalization steps are described in the supplementary materials. All the statistical models described below were corrected for age, sex, and population substructure (using the first five principal components computed on the genomic data). Models with the GRS<sub>noAPOE</sub> and the pathway‐GRSs as predictors were further corrected for <italic toggle="yes">APOE</italic> ε4 allele carriership to study independent effects. Participants in the A−T+ group were only included in the analysis of GRS differences across AT stages and otherwise excluded as considered suspected non‐Alzheimer's pathology (SNAP).</p><sec id="alz14096-sec-0200"><label>2.8.1</label><title>Association of GRSs with core AD features</title><p>First, we looked at the relationship between GRS and CSF biomarkers of AD. We used separate linear models to evaluate the association of global and pathway‐GRSs with CSF Aβ<sub>1‐42</sub> and p‐tau<sub>181</sub> levels. Multinomial regression was used to study the association of global and pathway‐GRSs with AT groups. In addition to the aforementioned corrections, models predicting CSF p‐tau<sub>181</sub> were further corrected for Aβ<sub>1‐42</sub>. <italic toggle="yes">p</italic>‐Values were corrected for multiple comparisons (Benjamini–Hochberg false discovery rate [FDR]).</p></sec><sec id="alz14096-sec-0210"><label>2.8.2</label><title>Association of GRSs with radiological imaging markers</title><p>The association of global and pathway‐GRSs with radiological imaging markers, including radiological evaluation of the Fazekas score (PVH and DWMH; <italic toggle="yes">n</italic> = 1595), enlarged PVSs (BG and CS; <italic toggle="yes">n</italic> = 1595), and microbleeds (<italic toggle="yes">n</italic> = 1595) was investigated using multinomial and logistic (for microbleeds) regression models. The models were further adjusted for AT status.</p></sec><sec id="alz14096-sec-0220"><label>2.8.3</label><title>Association of GRSs with quantitative imaging markers</title><p>Quantitative imaging markers included hippocampal GM volumes (TIV normalized; <italic toggle="yes">n</italic> = 1568), global and lobar WMH volumes (10 regions; <italic toggle="yes">n</italic> = 1334), WM integrity (FA and MD) measures in the 10 selected tracts (<italic toggle="yes">n</italic> = 790), and FC within the three DMN subsystems (<italic toggle="yes">n</italic> = 776). Separate linear regression models were used to study the effect of global and pathway‐GRSs on these variables. Besides the aforementioned corrections, models were adjusted for AT status and MRI scanner type. <italic toggle="yes">p</italic>‐Values were corrected for multiple comparisons (Benjamini–Hochberg false discovery rate).</p></sec><sec id="alz14096-sec-0230"><label>2.8.4</label><title>Sensitivity analyses</title><p>Sensitivity analyses were performed to investigate the association between pathway‐GRSs, the relationship of global and pathway‐GRSs with age and sex, and the association of genetic scores with CSF biomarkers stratified by AT status.</p></sec></sec></sec><sec id="alz14096-sec-0240"><label>3</label><title>RESULTS</title><sec id="alz14096-sec-0250"><label>3.1</label><title>Participants</title><p>Baseline demographics and clinical characteristics are shown in Table <xref rid="alz14096-tbl-0001" ref-type="table">1</xref>. In total, 1738 participants were included in the study. Based on CSF Aβ<sub>1‐42</sub> and p‐tau<sub>181</sub> levels, 58.5% (<italic toggle="yes">n</italic> = 1016) were defined as A−T−, 25.1% (<italic toggle="yes">n</italic> = 436) as A+T−, 9.2% (<italic toggle="yes">n</italic> = 160) as A+T+, and 7.2% (<italic toggle="yes">n</italic> = 126) as A−T+.<xref rid="alz14096-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> The 126 participants with SNAP, that is, A−T+, were used only in the analysis comparing AT groups, and excluded from subsequent analyses that focused on AD‐related processes, resulting in a final sample of 1612 individuals. Imaging‐derived phenotype distributions and data availability are reported in Table <xref rid="alz14096-supitem-0001" ref-type="supplementary-material">S2</xref> and Figures <xref rid="alz14096-supitem-0001" ref-type="supplementary-material">S1 and S2</xref>.</p><table-wrap position="float" id="alz14096-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Cohort characteristics.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Overall</th><th align="left" rowspan="1" colspan="1">A−T−</th><th align="left" rowspan="1" colspan="1">A−T+</th><th align="left" rowspan="1" colspan="1">A+T−</th><th align="left" rowspan="1" colspan="1">A+T+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">1738</th><th align="left" rowspan="1" colspan="1">1016</th><th align="left" rowspan="1" colspan="1">126</th><th align="left" rowspan="1" colspan="1">436</th><th align="left" rowspan="1" colspan="1">160</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<p>Age, years</p>
+<p>, mean ± SD</p>
+</td><td align="left" rowspan="1" colspan="1">65.72 ± 7.31</td><td align="left" rowspan="1" colspan="1">64.58 ± 7.05</td><td align="left" rowspan="1" colspan="1">69.54 ± 6.56</td><td align="left" rowspan="1" colspan="1">65.75 ± 7.41</td><td align="left" rowspan="1" colspan="1">70.31 ± 6.45</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Sex, male,</p>
+<p>
+<italic toggle="yes">N</italic> (%)</p>
+</td><td align="left" rowspan="1" colspan="1">767 (44.1)</td><td align="left" rowspan="1" colspan="1">425 (41.8)</td><td align="left" rowspan="1" colspan="1">55 (43.7)</td><td align="left" rowspan="1" colspan="1">208 (47.7)</td><td align="left" rowspan="1" colspan="1">79 (49.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>MMSE,</p>
+<p>mean ± SD</p>
+</td><td align="left" rowspan="1" colspan="1">28.41 ± 1.87</td><td align="left" rowspan="1" colspan="1">28.74 ± 1.47</td><td align="left" rowspan="1" colspan="1">28.27 ± 1.71</td><td align="left" rowspan="1" colspan="1">28.38 ± 1.85</td><td align="left" rowspan="1" colspan="1">26.54 ± 2.94</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>CDR = 0.5,</p>
+<p>
+<italic toggle="yes">N</italic> (%)</p>
+</td><td align="left" rowspan="1" colspan="1">474 (27.4)</td><td align="left" rowspan="1" colspan="1">185 (18.3)</td><td align="left" rowspan="1" colspan="1">49 (38.9)</td><td align="left" rowspan="1" colspan="1">131 (30.0)</td><td align="left" rowspan="1" colspan="1">109 (68.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Education, years,</p>
+<p>mean ± SD</p>
+</td><td align="left" rowspan="1" colspan="1">14.37 ± 3.71</td><td align="left" rowspan="1" colspan="1">14.49 ± 3.57</td><td align="left" rowspan="1" colspan="1">13.95 ± 3.81</td><td align="left" rowspan="1" colspan="1">14.55 ± 3.80</td><td align="left" rowspan="1" colspan="1">13.44 ± 4.09</td></tr><tr><td align="left" rowspan="1" colspan="1">GRS<sub>APOE</sub>, mean ± SD</td><td align="left" rowspan="1" colspan="1">0.22 ± 0.72</td><td align="left" rowspan="1" colspan="1">0.04 ± 0.63</td><td align="left" rowspan="1" colspan="1">0.30 ± 0.74</td><td align="left" rowspan="1" colspan="1">0.38 ± 0.75</td><td align="left" rowspan="1" colspan="1">0.79 ± 0.75</td></tr><tr><td align="left" rowspan="1" colspan="1">GRS<sub>noAPOE</sub>, mean ± SD</td><td align="left" rowspan="1" colspan="1">−0.14 ± 0.36</td><td align="left" rowspan="1" colspan="1">−0.16 ± 0.35</td><td align="left" rowspan="1" colspan="1">−0.06 ± 0.37</td><td align="left" rowspan="1" colspan="1">−0.14 ± 0.37</td><td align="left" rowspan="1" colspan="1">−0.03 ± 0.36</td></tr><tr><td align="left" rowspan="1" colspan="1">Aβ<sub>1‐42</sub>, mean ± SD</td><td align="left" rowspan="1" colspan="1">1378.99 ± 729.30</td><td align="left" rowspan="1" colspan="1">1672.06 ± 496.43</td><td align="left" rowspan="1" colspan="1">2181.13 ± 1320.89</td><td align="left" rowspan="1" colspan="1">724.48 ± 186.27</td><td align="left" rowspan="1" colspan="1">669.82 ± 177.00</td></tr><tr><td align="left" rowspan="1" colspan="1">p‐tau<sub>181</sub>, mean ± SD</td><td align="left" rowspan="1" colspan="1">19.76 ± 10.61</td><td align="left" rowspan="1" colspan="1">16.44 ± 4.02</td><td align="left" rowspan="1" colspan="1">35.09 ± 10.10</td><td align="left" rowspan="1" colspan="1">15.49 ± 5.72</td><td align="left" rowspan="1" colspan="1">40.44 ± 14.82</td></tr><tr><td align="left" rowspan="1" colspan="1">t‐tau, mean ± SD</td><td align="left" rowspan="1" colspan="1">226.85 ± 99.33</td><td align="left" rowspan="1" colspan="1">198.27 ± 45.87</td><td align="left" rowspan="1" colspan="1">392.01 ± 101.13</td><td align="left" rowspan="1" colspan="1">181.01 ± 58.60</td><td align="left" rowspan="1" colspan="1">399.96 ± 117.78</td></tr></tbody></table><table-wrap-foot><fn id="alz14096-tbl1-note-0001"><p>Abbreviations: Aβ, amyloid beta; CDR, Clinical Dementia Rating (scale); MMSE, Mini‐Mental State Examination; N, number; GRS, Genetic risk score; p‐tau, phosphorylated tau; SD, standard deviation.9</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz14096-sec-0260"><label>3.2</label><title>Pathways in Alzheimer's disease genetic risk</title><p>Global GRSs for AD was built using 85 SNPs that were identified previously.<xref rid="alz14096-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> We assigned two global GRSs to each participant, one including the weighted effect of all the 85 SNPs (GRS<sub>APOE</sub>), and a second one excluding the effect of the two <italic toggle="yes">APOE</italic> SNPs (rs7412 and rs429358; GRS<sub>noAPOE</sub>). The variant‐pathway mapping yielded six significant clusters (Figure <xref rid="alz14096-fig-0001" ref-type="fig">1</xref>), referred to as (1) immune activation (no. of SNPs = 27), (2) signal transduction (no. of SNPs = 48), (3) inflammation (no. of SNPs = 52), (4) migration (cholesterol and lipid related, no. of SNPs = 47), (5) amyloid (no. of SNPs = 50), and (6) clearance (no. of SNPs = 70; Figure <xref rid="alz14096-fig-0001" ref-type="fig">1</xref>). Individual pathway‐GRSs were derived for each of the identified clusters. The correlation between scores in different pathway‐GRSs is illustrated in Figure <xref rid="alz14096-supitem-0001" ref-type="supplementary-material">S3</xref>. Mapped Gene Ontology terms and relative assigned clusters are reported in Table <xref rid="alz14096-supitem-0002" ref-type="supplementary-material">S3</xref>. The percentages of contribution of each SNP to each pathway are reported in Table <xref rid="alz14096-supitem-0003" ref-type="supplementary-material">S4</xref>.</p></sec><sec id="alz14096-sec-0270"><label>3.3</label><title>Genetic risk and pathways determine AD CSF biomarkers</title><p>First, we assessed the influence of the GRSs on the CSF measures and the AT group classification using linear models. All models’ coefficients are illustrated in Figure <xref rid="alz14096-fig-0002" ref-type="fig">2</xref> and reported in Table <xref rid="alz14096-supitem-0001" ref-type="supplementary-material">S5</xref>. Association of pathway‐GRSs with age and sex is illustrated in Figure <xref rid="alz14096-supitem-0001" ref-type="supplementary-material">S4 and S5</xref>. Higher GRS<sub>APOE</sub> was significantly related to decreased CSF Aβ<sub>1‐42</sub> (<italic toggle="yes">β</italic> = −0.48; FDR adjusted <italic toggle="yes">p</italic> &lt; 0.001) and increased CSF p‐tau<sub>181</sub> (<italic toggle="yes">β</italic> = 0.36; FDR adjusted <italic toggle="yes">p</italic> &lt; 0.001). GRS<sub>noAPOE</sub> showed a reduced, but still significant, association with decreased Aβ<sub>1‐42</sub> levels (<italic toggle="yes">β</italic> = −0.07; FDR adjusted <italic toggle="yes">p</italic> &lt; 0.001), and with higher levels of p‐tau<sub>181</sub> (β = 0.11; FDR adjusted p &lt; 0.001). All pathway‐GRSs were associated with CSF Aβ<sub>1‐42</sub> (all FDR adjusted <italic toggle="yes">p</italic> &lt; 0.05), except for the migration pathway that showed a trend‐level association only (FDR adjusted <italic toggle="yes">p</italic> = 0.08). All pathway‐GRSs were also significantly associated with CSF p‐tau<sub>181</sub>, even when correcting for CSF Aβ<sub>1‐42</sub> (all FDR adjusted <italic toggle="yes">p</italic> &lt; 0.05), except for the inflammation pathway that showed a trend‐level association (FDR adjusted <italic toggle="yes">p</italic> = 0.08). When stratifying this analysis per AT group (Figure <xref rid="alz14096-supitem-0001" ref-type="supplementary-material">S6</xref>), we observed a stage‐independent association of GRS<sub>APOE</sub> with CSF Aβ<sub>1‐42</sub>, while most pathways were more strongly associated with CSF p‐tau<sub>181</sub> in A+T− participants.</p><fig position="float" fig-type="FIGURE" id="alz14096-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Association of global and pathway‐specific genetic risk scores (pathway‐GRSs) with cerebrospinal fluid (CSF) biomarkers. Forest plot reporting illustrating the association (standardized β coefficients, confidence intervals and <italic toggle="yes">p</italic>‐values) of GRS (with and without apolipoprotein E [<italic toggle="yes">APOE</italic>]) and the six pathway‐GRSs with CSF amyloid beta 1‐42 (Aβ<sub>1‐42</sub>) phosphorylated tau (p‐tau<sub>181</sub>). * = <italic toggle="yes">p</italic> &lt; 0.05; ** = <italic toggle="yes">p</italic> &lt; 0.005; *** = <italic toggle="yes">p</italic> &lt; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-20-6146-g005.jpg"/></fig><p>We then compared the global and pathway‐GRSs between the AT groups using multinomial logistic regressions. Compared to the reference group (A−T−), all AT groups showed higher GRS<sub>APOE</sub> values (all <italic toggle="yes">p</italic> &lt; 0.001). Moreover, higher GRS<sub>noAPOE</sub> values were observed in the A−T+ (odds ratio [OR] = 1.28; confidence interval [CI] = 1.04–1.58; <italic toggle="yes">p</italic> = 0.016) and in the A+T+ group (OR = 1.45; CI = 1.20–1.77; <italic toggle="yes">p</italic> &lt; 0.001). Regarding the pathway‐GRSs, the A−T+ group had significantly higher scores in the immune activation (OR = 1.29; CI = 1.05–1.58; <italic toggle="yes">p</italic> = 0.015), signal transduction (OR = 1.42; CI = 1.17–1.74; <italic toggle="yes">p</italic> = 0.001), and inflammatory (OR = 1.32; CI = 1.09–1.61; <italic toggle="yes">p</italic> = 0.014) pathway‐GRSs compared to A−T−. Furthermore, the A+T− group had significantly higher clearance pathway scores (OR = 1.12; CI = 0.99–1.26; <italic toggle="yes">p</italic> = 0.041), whereas the A+T+ group showed significantly higher pathway‐GRSs for the migration (OR = 1.26; CI = 1.04–1.53; <italic toggle="yes">p</italic> = 0.007), amyloid (OR = 1.45; CI = 1.19–1.76; <italic toggle="yes">p</italic> &lt; 0.001), clearance (OR = 1.35; CI = 1.11–1.63; <italic toggle="yes">p</italic> &lt; 0.001), and signal transduction scores (OR = 1.38; CI = 1.13–1.67; <italic toggle="yes">p</italic> = 0.004) compared to A−T−.</p></sec><sec id="alz14096-sec-0280"><label>3.4</label><title>Pathways of inflammation determine cSVD radiological indices</title><p>We then investigated whether global and pathway‐GRSs were related to radiological indices of cSVD, independently of AT stage. The cSVD indices included Fazekas deep (DWMH) and periventricular (PVH) enlarged perivascular spaces in basal ganglia (PVS‐BG) and centrum semiovale (PVS‐CS), and CMBs (supplementary materials). All model coefficients are reported in Tables <xref rid="alz14096-supitem-0002" ref-type="supplementary-material">S6</xref> and S<xref rid="alz14096-supitem-0002" ref-type="supplementary-material">7</xref>, and illustrated in Figure <xref rid="alz14096-fig-0003" ref-type="fig">3</xref>. Briefly, participants with a Fazekas DWMH score of 2 had higher scores in GRS<sub>noAPOE</sub> (OR = 1.24; CI = 1.03–1.47; <italic toggle="yes">p</italic> = 0.02) and in pathway‐GRSs of signal transduction (OR = 1.26; CI = 1.05–1.50; <italic toggle="yes">p</italic> = 0.01), inflammation (OR = 1.29; CI = 1.08–1.53; <italic toggle="yes">p</italic> &lt; 0.01), and amyloid (OR = 1.24; CI = 1.04–1.49; <italic toggle="yes">p</italic> &lt; 0.01), compared to Fazekas DWMH = 0. A score of 1 and 2 of PVS‐BG (compared to 0) was related to higher pathway‐GRSs of immune activation (PVS‐BG1: OR = 1.36; CI = 1.04–1.79; <italic toggle="yes">p</italic> = 0.02; PVS‐BG2: OR = 1.40; CI = 1.02–1.92; <italic toggle="yes">p</italic> = 0.04); and a score of 3 of PVS‐CS (compared to 0) was related to higher GRS<sub>APOE</sub> (OR = 1.58; CI = 1.09–2.31; <italic toggle="yes">p</italic> = 0.02). Finally, CMBs (&gt;2) were significantly higher in GRS<sub>noAPOE</sub> (OR = 1.54; CI = 1.02–2.32; <italic toggle="yes">p</italic> = 0.04) and in pathway‐GRSs of immune activation (OR = 1.32; CI = 1.03–1.70; <italic toggle="yes">p</italic> = 0.02) and signal transduction (OR = 1.31; CI = 1.02–1.68; <italic toggle="yes">p</italic> = 0.04). GRS<sub>APOE</sub> (OR = 1.94; CI = 1.38–2.72; <italic toggle="yes">p</italic> = 0.07) and pathway‐GRSs inflammation (OR = 1.28; CI = 1.01–2.62; <italic toggle="yes">p</italic> = 0.07) showed a statistical trend in these groups.</p><fig position="float" fig-type="FIGURE" id="alz14096-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Association of global and pathway‐specific genetic risk scores (pathway‐GRSs) with radiological visual scores of cerebral small vessel disease (cSVD). Boxplots represent the association of GRS (with and without apolipoprotein E) and the six pathway‐GRSs with Fazekas deep white matter hyperintensities (DWMHs; upper‐row), microbleeds (middle‐row), perivascular spaces (PVSs) in the basal ganglia (lower‐row). APOE, apolipoprotein E.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-20-6146-g004.jpg"/></fig></sec><sec id="alz14096-sec-0290"><label>3.5</label><title>Distinct genetic pathways regulate quantitative imaging biomarkers</title><p>Next, we assessed whether global and pathway‐GRSs determine alterations in quantitative MRI‐derived phenotypes, independently of AT stage. Model coefficients of T1w and FLAIR MRI‐derived phenotypes are illustrated in Figure <xref rid="alz14096-fig-0004" ref-type="fig">4</xref> and Table <xref rid="alz14096-supitem-0001" ref-type="supplementary-material">S7</xref>. Lower hippocampal volumes showed a mild association with higher pathway‐GRSs of migration and clearance, which did not survive multiple testing corrections. For WMH volumes, higher clearance pathway‐GRSs were associated with higher WMH volumes in most regions. The effect was most pronounced in global, frontal, and temporal periventricular and parietal deep white matter. The association of higher GRS<sub>noAPOE</sub> with higher burden of WMHs in temporal (periventricular and deep) and parietal (deep) WMHs did not survive FDR correction.</p><fig position="float" fig-type="FIGURE" id="alz14096-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Association (<italic toggle="yes">n</italic> = 1334) of global and pathway‐GRSs with FLAIR and T1w MRI‐derived phenotypes. Upper‐left: shows FLAIR‐derived phenotypes as computed using BaMoS.<xref rid="alz14096-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> From left to right, first WMH segmentation was performed, followed by grouping WMH volumes into the four major lobes, and finally in periventricular (blue and green) and deep (yellow and red) regions, effectively providing eight regions of interest. Lower‐left: T1w‐derived phenotypes are obtained from the LEAP pipeline.<xref rid="alz14096-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Right: β coefficients (colors) and <italic toggle="yes">p</italic>‐values (circles) of linear models with global (GRS<sub>noAPOE</sub>) and pathway‐GRSs predicting MRI‐derived phenotypes. APOE, apolipoprotein E; FLAIR, fluid‐attenuated inversion recovery; T1w, T1‐weighted; HCV, hippocampal volume; PeriVent, global periventricular; PV, periventricular; D, deep; Front, frontal; Temp, temporal; Parie, parietal; Occ, occipital; uncorr, uncorrected; FDR, false discovery rate; GRS, genetic risk score; MRI, magnetic resonance imaging; BaMoS, Bayesian model selection; LEAP, learning embeddings for atlas propagation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ALZ-20-6146-g006.jpg"/></fig><p>Model coefficients of rs‐fMRI and DWI‐derived phenotypes are illustrated in Figures <xref rid="alz14096-fig-0005" ref-type="fig">5</xref> and <xref rid="alz14096-fig-0006" ref-type="fig">6</xref>, respectively. Lower FC within the ventral DMN was associated with higher scores in the pathway‐GRSs of signal transduction. The association of ventral DMN FC with the inflammatory pathway‐GRSs did not survive multiple testing corrections.</p><fig position="float" fig-type="FIGURE" id="alz14096-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Association (<italic toggle="yes">n</italic> = 776) of global and pathway GRSs with rs‐fMRI derived phenotypes. Top panel: rs‐fMRI–derived phenotypes are computed as the mean within network functional connectivity in three subsystems of the DMN defined as dorsal DMN (yellow), medial DMN (orange), and ventral DMN (red). Bottom panel: the heatmap shows β coefficients (colors) and <italic toggle="yes">p</italic>‐values (circles) of linear models with global (GRS<sub>noAPOE</sub>) and pathway‐GRSs predicting rs‐fMRI–derived phenotypes. <italic toggle="yes">DMN, default mode network; GRS, genetic risk score; Uncorr, uncorrected; FDR, false discovery rate; rs‐fMRI, resting‐state functional magnetic resonance imaging</italic>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ALZ-20-6146-g002.jpg"/></fig><fig position="float" fig-type="FIGURE" id="alz14096-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Association (<italic toggle="yes">n</italic> = 790) of global and pathway‐GRSs with DWI‐derived phenotypes. Left panel: DWI‐derived phenotypes are computed through TBSS pipeline as mean FA and MD within 10 regions of interest including commissural (genu, body, and splenium of CC), limbic (fornix and cingulum), associative (superior longitudinal, fronto‐occipital and inferior longitudinal fasciculi), and projection (corona radiata and internal capsule) white matter tracts. Right panel: the heatmap shows β coefficients (colors) and <italic toggle="yes">p</italic> values (circles) of linear models with global (GRS<sub>noAPOE</sub>) and pathway‐GRSs predicting DWI‐derived phenotypes. <italic toggle="yes">CC, corpus callosum; Sup‐Long(SL), superior longitudinal; Front‐Occ(SFO), fronto‐occipital; Inf‐Long(IL), inferior longitudinal; Fasc, fasciculus; Uncorr, uncorrected; FDR, false discovery rate; DWI, diffusion‐weighted imaging; TBSS, tract‐based spatial statistics; FA, fractional anisotropy; MD, mean diffusivity; GRS, genetic risk score</italic>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="ALZ-20-6146-g001.jpg"/></fig><p>Higher GRS<sub>noAPOE</sub> was associated with higher FA in the genu and lower MD in the splenium of the corpus callosum. Moreover, FA and MD were distinctively related to the migration pathway‐GRSs. Specifically, increases in FA in all commissural regions of interest (ROIs; genu, body, and splenium of corpus callosum) and in the corona radiata, and decreases of MD in the cingulum, genu, and splenium of corpus callosum associated significantly with higher migration pathway‐GRSs. Lower MD in the splenium of the corpus callosum also exhibited a significant association with higher scores in the immune activation and inflammation pathway‐GRSs.</p></sec></sec><sec id="alz14096-sec-0300"><label>4</label><title>DISCUSSION</title><p>We identified and quantified global and pathway‐GRSs from genetic data in a large cohort of non‐demented individuals and assessed their association with AD biomarkers. Our findings confirm the involvement of several biological pathways beyond <italic toggle="yes">APOE</italic> within the genetic risk of AD and demonstrate their influence on fluid and imaging biomarkers. <italic toggle="yes">APOE</italic>‐dependent genetic risk of AD is mostly related to core AD CSF biomarkers. Beyond <italic toggle="yes">APOE</italic>, pathways of inflammation and immune activation are specifically related to vascular imaging markers, whereas WM integrity and functional connectivity measures are mostly determined by membrane‐related and signal transduction pathways, respectively.</p><p>The pathway analysis used in this work for the quantification of pathway‐GRSs identified six biological pathways that are known to occur in the pathogenesis of AD from other previous studies.<xref rid="alz14096-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="alz14096-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="alz14096-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="alz14096-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> These pathways could be grouped into two high‐level clusters (Figure <xref rid="alz14096-fig-0001" ref-type="fig">1</xref>). The first cluster, comprising immune activation, signal transduction, and inflammation pathways, mostly represents processes linked to neuroinflammatory and chronic immune activation states.<xref rid="alz14096-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> This confirms previous studies that reported the contribution of inflammation‐related genetic variants to the development of AD,<xref rid="alz14096-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> with a particular interest in the genes regulating microglial function, such as <italic toggle="yes">TREM2</italic> and <italic toggle="yes">PLCG2</italic>,<xref rid="alz14096-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> suggesting that these pathways may constitute major non–Aβ‐dependent polygenetic vulnerability to AD. The second cluster, comprising the migration (related to membrane integrity and lipids), amyloid, and clearance pathways, could be representative of more AD‐specific processes. Genes mostly expressed in these pathways, such as <italic toggle="yes">APP</italic>, <italic toggle="yes">BIN1</italic>, and <italic toggle="yes">SORL1</italic>, regulate processes linked to Aβ production, metabolism, and endocytosis. The results of our pathway enrichment analysis provide genetic evidence of the two major pathological components in AD, namely, inflammatory and amyloid‐related processes. These results are particularly interesting in light of recent clinical trials effort, which mostly comprise Aβ‐targeting drugs but also see an increase of anti‐inflammatory agents.<xref rid="alz14096-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+</p><p>We found that global GRSs, irrespective of <italic toggle="yes">APOE</italic> genstatus, and most pathway‐GRSs were related to CSF Aβ<sub>1‐42</sub> burden. Whereas the early influence of the <italic toggle="yes">APOE</italic> ε4 allele and AD GRSs on amyloid burden is known,<xref rid="alz14096-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="alz14096-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="alz14096-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="alz14096-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="alz14096-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> little evidence on the <italic toggle="yes">APOE</italic>‐independent genetic influence exists.<xref rid="alz14096-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> Pathways of clearance and cholesterol have previously been shown to relate to CSF Aβ<sub>1‐42</sub> in individuals genetically enriched for AD.<xref rid="alz14096-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Endocytosis and immune response pathways have in turn often been associated with clinical and cognitive status,<xref rid="alz14096-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> and with resilience to AD.<xref rid="alz14096-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> We showed that all GRSs and pathway‐GRSs were significantly associated with CSF p‐tau<sub>181</sub> levels, independently of CSF Aβ<sub>1‐42</sub>. Furthermore, pathway‐GRSs of inflammation were specifically higher in the SNAP group, that is, the A−T+ participants, having only high CSF p‐tau<sub>181</sub> levels and not CSF Aβ<sub>1‐42</sub>. Recent studies have demonstrated that AD GRSs excluding <italic toggle="yes">APOE</italic> are associated with higher CSF p‐tau<sub>181</sub>.<xref rid="alz14096-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="alz14096-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="alz14096-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="alz14096-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> A combined tau and amyloid PET study showed that the spread of tau pathology was regulated by “axon‐related” genes, whereas the spread of amyloid was linked to “dendrite‐related” genes.<xref rid="alz14096-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> Furthermore, “lipid metabolism‐related” genes were driving the spread of both pathologies.<xref rid="alz14096-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> Human and animal studies have reported evidence of inflammation being present in both primary and secondary tauopathies.<xref rid="alz14096-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>, <xref rid="alz14096-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> A state of chronic neuroinflammation and immune activation might not only be a reaction to neural death and misfolded proteins, but also a driver in neurodegenerative diseases. In light of these previous studies, our findings suggest that amyloid and tau deposition might be driven by alterations in several biological processes, through correlated but independent pathways, and further demonstrate that AD risk genes regulating these processes might act in parallel and upstream of both amyloid and tau. Results of our sensitivity analysis (Figure <xref rid="alz14096-supitem-0001" ref-type="supplementary-material">S6</xref>), further suggest that genetic pathways might have a stage‐dependent influence on AD CSF biomarkers, with APOE driving initial amyloid deposition and non‐APOE pathways regulating downstream processes such as tau deposition.<xref rid="alz14096-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> Future longitudinal studies should better investigate temporal dynamics of genetic vulnerability.</p><p>Concomitant cSVD pathology is observed in 60%–80% of patients with AD.<xref rid="alz14096-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> We showed the involvement of AD‐related inflammatory pathways, namely, immune activation, signal transduction, and inflammation, in promoting brain vascular damage, providing evidence of a genetic overlap between cSVD and AD, and suggesting an intrinsic relationship between the two. Animal studies have demonstrated that genes coding for pro‐inflammatory cytokine production led to endothelium dysfunction and damage to the brain vasculature.<xref rid="alz14096-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> The vulnerability of the blood–brain barrier (BBB) to the effects of chronic immune activation and inflammation<xref rid="alz14096-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> results in alterations of the neurovascular unit with advancing age. This observation suggests that innate inflammatory processes might foster AD pathology by promoting vascular damage and BBB disruption, from the early stages of the disease. Of note, these associations were stronger for intermediate radiological scores. This could be due to the limited number of participants with significant cerebrovascular burden. However, specific inflammation‐related pathways may play a role in the initial onset of cSVD, whereas a combination of various altered biological processes could be at play in later stages.</p><p>Using quantitative MRI markers, we found that specific imaging biomarkers might be influenced by distinct genetic pathways. Recent research has linked several pathway‐GRSs with cortical thinning and in several brain regions, including the hippocampus.<xref rid="alz14096-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> We found that lower volumes in the hippocampus were mildly associated with higher scores in pathway‐GRSs of migration and clearance. In addition, WM lesion volumes—reflecting demyelination and axonal loss,<xref rid="alz14096-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> commonly considered a result of heterogeneous causes, primarily cSVD<xref rid="alz14096-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>—were specifically determined by the clearance pathway‐GRSs. The glymphatic system plays a central role in maintaining WM integrity by preserving the flow of interstitial fluid and exchanging metabolic waste.<xref rid="alz14096-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> In previous works, the <italic toggle="yes">CLU</italic> gene, associated with the clearance of cellular debris and apoptosis, and the <italic toggle="yes">PICALM</italic> gene, involved in clathrin‐mediated endocytosis, were associated with WMHs.<xref rid="alz14096-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Polygenic variants regulating the glymphatic system might promote AD pathology through WM damage, and WMHs could be both the consequence and the cause of glymphatic dysfunction.<xref rid="alz14096-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> DWI‐derived imaging—reflecting WM microstructural integrity—were mostly determined by the migration GRSs, linked to cholesterol and lipid dysfunction. Previous work has shown that levels of local cholesterol and lipid metabolism can regulate WM integrity, as measured on DWI, by regulating WM myelination.<xref rid="alz14096-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref> Cholesterol dysmetabolism is thought to interact with WM demyelination to promote and worsen initial amyloid pathology.<xref rid="alz14096-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref> Our results provide genetic evidence for the role of early cholesterol and lipid dysmetabolism and WM injury in the pre‐dementia stages of AD.</p><p>The signal transduction pathway‐GRS, involving synaptic function and intracellular communication, was related to rs‐fMRI as reduced FC in the dorsal portion of the DMN. Among the genes mostly contributing to this pathway, <italic toggle="yes">SORL1</italic>, <italic toggle="yes">BIN1</italic>, and <italic toggle="yes">CD2AP</italic> are functionally expressed in pre‐ and post‐synaptic compartments and promote synaptic formation, transmission, and plasticity. Alterations of synaptic function (and functional connectivity on fMRI) are observable early in the AD continuum,<xref rid="alz14096-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref>, <xref rid="alz14096-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref> and have been proposed to be a driving event in the disease course.<xref rid="alz14096-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> In this framework, large‐scale reconfiguration of functional networks in aging brains would influence biological processes linked to amyloid production.<xref rid="alz14096-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> We, therefore, showed that a specific cluster of variants could promote AD pathology by acting on functional brain alterations and neuronal activity.</p><p>Some limitations should be noted. First, the computation of GRSs is based on a reference GWAS that used “Alzheimer's disease and related dementias” as a phenotype, However, this method was shown to be sensitive and effective in increasing the number of included participants in the GWAS, thereby increasing the sensitivity (more loci) and precision of the obtained estimates. Second, the method used to identify pathways‐GRSs did not constrain genes' contribution to only one cluster (one gene could contribute to multiple pathways). As such, some pathway‐GRSs were more related to each other (supplementary materials). Other methods exist for computation of pathway‐GRSs, often assigning genes to a priori selected sets of pathways.<xref rid="alz14096-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="alz14096-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> However, single genes can contribute to multiple biological processes. Moreover, the observation that GRSs had different profiles of associations with outcome biomarkers advocates for distinct underlying processes. Future studies should assess the independent contribution of pathway‐GRSs to imaging phenotypes. Moreover, future works should also investigate the cell‐type expression profiles of at‐risk genes.<xref rid="alz14096-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref>, <xref rid="alz14096-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref> Finally, we only considered one gene per SNP, as reported in the original GWAS. Although snpXplorer is robust in pathway identification over a series of annotation strategies,<xref rid="alz14096-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> more studies are needed to evaluate different gene identification approaches and compare the results.</p><p>Taken together, our results demonstrate that the genetic risk for AD is associated with a broad range of neuropathological features in non‐demented individuals that can be tracked in vivo through neuroimaging techniques, and that distinct AD biomarkers are preferentially associated with specific genetic profiles. Our findings are a step forward in the understanding of the biological alterations that determine brain functional and structural dysregulation in the early stages of the AD continuum. Moreover, these results provide genetic evidence of the biological pathways promoting disease heterogeneity and offer novel insights into the use of individual risk profiles for patient selection in clinical trials and personalized interventions, encompassing a combination of strategies targeting modifiable risk factors, alongside non–amyloid‐targeting drugs.</p></sec><sec sec-type="COI-statement" id="alz14096-sec-0320"><title>CONFLICT OF INTEREST STATEMENT</title><p>EPAD is supported by the EU/EFPIA Innovative Medicines Initiative (IMI) grant agreement 115736.</p><p>The project leading to this paper has received funding from the Innovative Medicines Initiative (IMI) 2 Joint Undertaking under grant agreement No 115952. This Joint Undertaking receives the support from the European Union's Horizon 2020 research and innovation programme and European Federation of Pharmaceutical Industries Association (EFPIA). This communication reflects the views of the authors, and neither IMI nor the European Union (EU) and EFPIA are liable for any use that may be made of the information contained herein. A.M.W., H.M., L.E.C., and F.B. are supported by AMYPAD (IMI 115952). H.M. is supported by the Dutch Heart Foundation (2020T049), the Eurostars‐2 joint programme with co‐funding from the European Union Horizon 2020 research and innovation programme (ASPIRE E!113701), provided by the Netherlands Enterprise Agency (RvO), and by the EU Joint Program for Neurodegenerative Disease Research, provided by the Netherlands Organisation for Health Research and Development and Alzheimer Nederland (DEBBIE JPND2020‐568‐106). F.B. is supported by Engineering and Physical Sciences Research Council (EPSRC), EU‐JU (IMI), National Institute for Health and Care Research ‐ Biomedical Research Center (NIHR‐BRC), General Eletronic (GE) HealthCare, and Alzheimer's Disease Data Initiative (ADDI; paid to institution); is a consultant for Combinostics, IXICO, and Roche; participates on advisory boards of Biogen, Prothena, and Merck; and is a co‐founder of Queen Square Analytics. L.E.C. has received research support from GE HealthCare Ltd. (paid to institution). C.F. is an employee of GE HealthCare Ltd. P.H.S. is a full‐time employee of EQT Life Sciences (formerly LSP) and professor emeritus at Amsterdam University Medical Centers. He has received consultancy fees (paid to the university) from Alzheon, Brainstorm Cell, and Green Valley. Within his university affiliation, he is global principal investigator of the Phase 1b study of AC Immune, Phase 2b study with FUJI‐film/Toyama, and Phase 2 study of UCB. He is past chair of the EU steering committee of the Phase 2b program of Vivoryon and the Phase 2b study of Novartis Cardiology, and he is presently co‐chair of the Phase 3 study with NOVO‐Nordisk. R.W. is an employee of IXICO. C.R. has done paid consultancy work in the last 3 years for Eli Lilly, Biogen, Actinogen, Brain Health Scotland, Roche, Roche Diagnostics, Novo Nordisk, Eisai, Signant, Merck, Alchemab, Sygnature, and Abbvie. His group has received Research Income for his Research Unit from Biogen, AC Immune, and Roche. He has out‐licensed IP developed at the University of Edinburgh to Linus Health and is chief executive officer (CEO) and Founder of Scottish Brain Sciences. S.H. is a consultant for WYSS Center, Geneva, Switzerland, and a consultant for SPINEART, Geneva, Switzerland. G.C. has received research support from the European Union's Horizon 2020 research and innovation programme (grant agreement number 667696), Fondation d'entreprise MMA des Entrepreneurs du Futur, Fondation Alzheimer, Agence Nationale de la Recherche, Région Normandie, Association France Alzheimer et maladies apparentées, Fondation Vaincre Alzheimer, Fondation Recherche Alzheimer, and Fondation pour la Recherche Médicale (all to Inserm), and personal fees from Inserm and Fondation Alzheimer. A.J.S. is an employee and minor shareholder of Takeda Pharmaceutical Company Ltd. J.O.B. has acted as a consultant for TauRx, Novo Nordisk, Biogen, Roche, Lilly, and GE Healthcare; and received grant support from Avid/ Lilly, Merck, and Alliance Medical.</p><p>R.E.M. has received a speaker fee from Illumina; is an advisor to the Epigenetic Clock Development Foundation; and has received consultant fees from Optima partners. Author disclosures are available in the <xref rid="alz14096-supitem-0004" ref-type="supplementary-material">supporting information</xref>.</p></sec><sec id="alz14096-sec-0330"><title>CONSENT STATEMENT</title><p>All EPAD participants provided written informed consent.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz14096-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-6146-s001.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14096-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-6146-s002.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14096-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-6146-s003.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14096-supitem-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-6146-s004.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz14096-sec-0310"><title>ACKNOWLEDGMENTS</title><p>This work is part of the EPAD LCS (European Prevention of Alzheimer's Dementia Longitudinal Cohort Study). The authors would like to express their most sincere gratitude to the EPAD LCS participants, without whom this research would have not been possible. This work has received support from the EU/EFPIA Innovative Medicines Initiative Joint Undertaking EPAD grant agreement nr. 115736</p></ack><ref-list id="alz14096-bibl-0001"><title>REFERENCES</title><ref id="alz14096-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz14096-cit-0001">
+<string-name name-style="western">
+<surname>Bellenguez</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Küçükali</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, et al. <article-title>New insights into the genetic etiology of Alzheimer's disease and related dementias</article-title>. <source>Nat Genet</source>. <year>2022</year>;<volume>54</volume>:<fpage>412</fpage>‐<lpage>436</lpage>.<pub-id pub-id-type="pmid">35379992</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41588-022-01024-z</pub-id><pub-id pub-id-type="pmcid">PMC9005347</pub-id></mixed-citation></ref><ref id="alz14096-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz14096-cit-0002">
+<string-name name-style="western">
+<surname>Sims</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hill</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The multiplex model of the genetics of Alzheimer's disease</article-title>. <source>Nat Neurosci</source>. <year>2020</year>;<volume>23</volume>:<fpage>311</fpage>‐<lpage>322</lpage>.<pub-id pub-id-type="pmid">32112059</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41593-020-0599-5</pub-id></mixed-citation></ref><ref id="alz14096-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz14096-cit-0003">
+<string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nordberg</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Westman</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Biological subtypes of Alzheimer disease: a systematic review and meta‐analysis</article-title>. <source>Neurology</source>. <year>2020</year>;<volume>94</volume>:<fpage>436</fpage>‐<lpage>448</lpage>.<pub-id pub-id-type="pmid">32047067</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0000000000009058</pub-id><pub-id pub-id-type="pmcid">PMC7238917</pub-id></mixed-citation></ref><ref id="alz14096-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz14096-cit-0004">
+<string-name name-style="western">
+<surname>Dong</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toledo</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Honnorat</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Heterogeneity of neuroanatomical patterns in prodromal Alzheimer's disease: links to cognition, progression and biomarkers</article-title>. <source>Brain</source>. <year>2017</year>;<volume>140</volume>:<fpage>735</fpage>‐<lpage>747</lpage>.<pub-id pub-id-type="pmid">28003242</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/aww319</pub-id><pub-id pub-id-type="pmcid">PMC5837514</pub-id></mixed-citation></ref><ref id="alz14096-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz14096-cit-0005">
+<string-name name-style="western">
+<surname>Scheltens</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Breteler</surname>
+<given-names>MMB</given-names>
+</string-name>, et al. <article-title>Alzheimer's disease</article-title>. <source>Lancet</source>. <year>2016</year>;<volume>388</volume>:<fpage>505</fpage>‐<lpage>517</lpage>.<pub-id pub-id-type="pmid">26921134</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(15)01124-1</pub-id></mixed-citation></ref><ref id="alz14096-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz14096-cit-0006">
+<string-name name-style="western">
+<surname>Ten Kate</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dicks</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Visser</surname>
+<given-names>PJ</given-names>
+</string-name>, et al. <article-title>Atrophy subtypes in prodromal Alzheimer's disease are associated with cognitive decline</article-title>. <source>Brain</source>. <year>2018</year>;<volume>141</volume>:<fpage>3443</fpage>‐<lpage>3456</lpage>.<pub-id pub-id-type="pmid">30351346</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awy264</pub-id><pub-id pub-id-type="pmcid">PMC6669409</pub-id></mixed-citation></ref><ref id="alz14096-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz14096-cit-0007">
+<string-name name-style="western">
+<surname>Mehta</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jackson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paul</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabbagh</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Why do trials for Alzheimer's disease drugs keep failing? A discontinued drug perspective for 2010‐2015</article-title>. <source>Expert Opin Investig Drugs</source>. <year>2017</year>;<volume>26</volume>:<fpage>735</fpage>‐<lpage>739</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/13543784.2017.1323868</pub-id><pub-id pub-id-type="pmcid">PMC5576861</pub-id><pub-id pub-id-type="pmid">28460541</pub-id></mixed-citation></ref><ref id="alz14096-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz14096-cit-0008">
+<string-name name-style="western">
+<surname>Wesenhagen</surname>
+<given-names>KEJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Teunissen</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Visser</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tijms</surname>
+<given-names>BM</given-names>
+</string-name>. <article-title>Cerebrospinal fluid proteomics and biological heterogeneity in Alzheimer's disease: a literature review</article-title>. <source>Crit Rev Clin Lab Sci</source>. <year>2020</year>;<volume>57</volume>:<fpage>86</fpage>‐<lpage>98</lpage>.<pub-id pub-id-type="pmid">31694431</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/10408363.2019.1670613</pub-id></mixed-citation></ref><ref id="alz14096-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz14096-cit-0009">
+<string-name name-style="western">
+<surname>Lam</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masellis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Freedman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stuss</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Black</surname>
+<given-names>SE</given-names>
+</string-name>. <article-title>Clinical, imaging, and pathological heterogeneity of the Alzheimer's disease syndrome</article-title>. <source>Alzheimer's Res Ther</source>. <year>2013</year>;<volume>5</volume>:<fpage>1</fpage>. doi:<pub-id pub-id-type="doi">10.1186/alzrt155</pub-id>
+<pub-id pub-id-type="pmid">23302773</pub-id>
+<pub-id pub-id-type="pmcid">PMC3580331</pub-id></mixed-citation></ref><ref id="alz14096-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz14096-cit-0010">
+<string-name name-style="western">
+<surname>Choi</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mak</surname>
+<given-names>TS‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Reilly</surname>
+<given-names>PF</given-names>
+</string-name>. <article-title>Tutorial: a guide to performing polygenic risk score analyses</article-title>. <source>Nat Protoc</source>. <year>2020</year>;<volume>15</volume>:<fpage>2759</fpage>‐<lpage>2772</lpage>.<pub-id pub-id-type="pmid">32709988</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41596-020-0353-1</pub-id><pub-id pub-id-type="pmcid">PMC7612115</pub-id></mixed-citation></ref><ref id="alz14096-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz14096-cit-0011">
+<string-name name-style="western">
+<surname>Darst</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koscik</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Racine</surname>
+<given-names>AM</given-names>
+</string-name>, et al. <article-title>Pathway‐specific polygenic risk scores as predictors of amyloid‐β deposition and cognitive function in a sample at increased risk for Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2017</year>;<volume>55</volume>:<fpage>473</fpage>‐<lpage>484</lpage>.<pub-id pub-id-type="pmid">27662287</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-160195</pub-id><pub-id pub-id-type="pmcid">PMC5123972</pub-id></mixed-citation></ref><ref id="alz14096-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz14096-cit-0012">
+<string-name name-style="western">
+<surname>Morris</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roe</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiong</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>
+<italic toggle="yes">APOE</italic>predicts amyloid‐beta but not tau Alzheimer pathology in cognitively normal aging</article-title>. <source>Annals of Neurology</source>. <year>2010</year>;<volume>67</volume>:<fpage>122</fpage>‐<lpage>131</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ana.21843</pub-id>
+<pub-id pub-id-type="pmid">20186853</pub-id>
+<pub-id pub-id-type="pmcid">PMC2830375</pub-id></mixed-citation></ref><ref id="alz14096-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz14096-cit-0013">
+<string-name name-style="western">
+<surname>Benson</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bauer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hausner</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Don't forget about tau: the effects of ApoE4 genotype on Alzheimer's disease cerebrospinal fluid biomarkers in subjects with mild cognitive impairment—data from the dementia competence network</article-title>. <source>J Neural Transm</source>. <year>2022</year>;<volume>129</volume>:<fpage>477</fpage>‐<lpage>486</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00702-022-02461-0</pub-id>
+<pub-id pub-id-type="pmid">35061102</pub-id>
+<pub-id pub-id-type="pmcid">PMC9188507</pub-id></mixed-citation></ref><ref id="alz14096-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz14096-cit-0014">
+<string-name name-style="western">
+<surname>Mishra</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blazey</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holtzman</surname>
+<given-names>DM</given-names>
+</string-name>, et al. <article-title>Longitudinal brain imaging in preclinical Alzheimer disease: impact of APOE ε4 genotype</article-title>. <source>Brain</source>. <year>2018</year>;<volume>141</volume>:<fpage>1828</fpage>‐<lpage>1839</lpage>.<pub-id pub-id-type="pmid">29672664</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awy103</pub-id><pub-id pub-id-type="pmcid">PMC5972633</pub-id></mixed-citation></ref><ref id="alz14096-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz14096-cit-0015">
+<string-name name-style="western">
+<surname>Cacciaglia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Operto</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Falcón</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Genotypic effects of APOE‐ε4 on resting‐state connectivity in cognitively intact individuals support functional brain compensation</article-title>. <source>Cereb Cortex</source>. <year>2022</year>;<volume>33</volume>:<fpage>2748</fpage>‐<lpage>2760</lpage>. doi:<pub-id pub-id-type="doi">10.1093/cercor/bhac239</pub-id>
+<pub-id pub-id-type="pmcid">PMC10016049</pub-id><pub-id pub-id-type="pmid">35753703</pub-id></mixed-citation></ref><ref id="alz14096-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz14096-cit-0016">
+<string-name name-style="western">
+<surname>Altmann</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scelsi</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shoai</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>A comprehensive analysis of methods for assessing polygenic burden on Alzheimer's disease pathology and risk beyond APOE</article-title>. <source>Brain Commun</source>. <year>2020</year>;<volume>2</volume>:<elocation-id>fcz047</elocation-id>.<pub-id pub-id-type="pmid">32226939</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/braincomms/fcz047</pub-id><pub-id pub-id-type="pmcid">PMC7100005</pub-id></mixed-citation></ref><ref id="alz14096-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz14096-cit-0017">
+<string-name name-style="western">
+<surname>Rubinski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frerich</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malik</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Polygenic effect on tau pathology progression in Alzheimer's disease</article-title>. <source>Ann Neurol</source>. <year>2023</year>;<volume>93</volume>:<fpage>819</fpage>‐<lpage>829</lpage>.<pub-id pub-id-type="pmid">36571564</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.26588</pub-id></mixed-citation></ref><ref id="alz14096-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz14096-cit-0018">
+<string-name name-style="western">
+<surname>Ahmad</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bannister</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van der Lee</surname>
+<given-names>SJ</given-names>
+</string-name>, et al. <article-title>Disentangling the biological pathways involved in early features of Alzheimer's disease in the Rotterdam Study</article-title>. <source>Alzheimers Dement</source>. <year>2018</year>;<volume>14</volume>:<fpage>848</fpage>‐<lpage>857</lpage>.<pub-id pub-id-type="pmid">29494809</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2018.01.005</pub-id></mixed-citation></ref><ref id="alz14096-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz14096-cit-0019">
+<string-name name-style="western">
+<surname>Ritchie</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muniz‐Terrera</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kivipelto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solomon</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tom</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Molinuevo</surname>
+<given-names>JL</given-names>
+</string-name>. <article-title>The European Prevention of Alzheimer's Dementia (EPAD) longitudinal cohort study: baseline data release V500.0</article-title>. <source>J Prev Alzheimers Dis</source>. <year>2020</year>;<volume>7</volume>:<fpage>8</fpage>‐<lpage>13</lpage>.<pub-id pub-id-type="pmid">32010920</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.14283/jpad.2019.46</pub-id></mixed-citation></ref><ref id="alz14096-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz14096-cit-0020">
+<string-name name-style="western">
+<surname>Solomon</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kivipelto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Molinuevo</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tom</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ritchie</surname>
+<given-names>CW</given-names>
+</string-name>, <collab collab-type="authors">EPAD Consortium</collab>
+. <article-title>European Prevention of Alzheimer's Dementia Longitudinal Cohort Study (EPAD LCS): study protocol</article-title>. <source>BMJ Open</source>. <year>2019</year>;<volume>8</volume>:<elocation-id>e021017</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjopen-2017-021017</pub-id><pub-id pub-id-type="pmcid">PMC6318591</pub-id><pub-id pub-id-type="pmid">30782589</pub-id></mixed-citation></ref><ref id="alz14096-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz14096-cit-0021">
+<string-name name-style="western">
+<surname>Das</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Forer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schönherr</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Next‐generation genotype imputation service and methods</article-title>. <source>Nat Genet</source>. <year>2016</year>;<volume>48</volume>:<fpage>1284</fpage>‐<lpage>1287</lpage>.<pub-id pub-id-type="pmid">27571263</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ng.3656</pub-id><pub-id pub-id-type="pmcid">PMC5157836</pub-id></mixed-citation></ref><ref id="alz14096-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz14096-cit-0022">
+<string-name name-style="western">
+<surname>Tesi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van der Lee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hulsman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holstege</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reinders</surname>
+<given-names>MJT</given-names>
+</string-name>. <article-title>snpXplorer: a web application to explore human SNP‐associations and annotate SNP‐sets</article-title>. <source>Nucleic Acids Res</source>. <year>2021</year>;<volume>49</volume>:<fpage>W603</fpage>‐<lpage>W612</lpage>.<pub-id pub-id-type="pmid">34048563</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkab410</pub-id><pub-id pub-id-type="pmcid">PMC8262737</pub-id></mixed-citation></ref><ref id="alz14096-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz14096-cit-0023">
+<string-name name-style="western">
+<surname>Raudvere</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kolberg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuzmin</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>g:Profiler: a web server for functional enrichment analysis and conversions of gene lists (2019 update)</article-title>. <source>Nucleic Acids Res</source>. <year>2019</year>;<volume>47</volume>:<fpage>W191</fpage>‐<lpage>W198</lpage>. doi:<pub-id pub-id-type="doi">10.1093/nar/gkz369</pub-id>
+<pub-id pub-id-type="pmid">31066453</pub-id>
+<pub-id pub-id-type="pmcid">PMC6602461</pub-id></mixed-citation></ref><ref id="alz14096-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz14096-cit-0024">
+<string-name name-style="western">
+<surname>Ashburner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ball</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blake</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>Gene ontology: tool for the unification of biology</article-title>. <source>Nat Genet</source>. <year>2000</year>;<volume>25</volume>:<fpage>25</fpage>‐<lpage>29</lpage>.<pub-id pub-id-type="pmid">10802651</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/75556</pub-id><pub-id pub-id-type="pmcid">PMC3037419</pub-id></mixed-citation></ref><ref id="alz14096-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz14096-cit-0025">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>An information‐theoretic definition of similarity</article-title>. <source>ICML</source>. <year>1998</year>;<volume>98</volume>:<fpage>296</fpage>‐<lpage>304</lpage>.</mixed-citation></ref><ref id="alz14096-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz14096-cit-0026">
+<string-name name-style="western">
+<surname>Ingala</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Boer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masselink</surname>
+<given-names>LA</given-names>
+</string-name>, et al. <article-title>Application of the ATN classification scheme in a population without dementia: findings from the EPAD cohort</article-title>. <source>Alzheimers Dement</source>. <year>2021</year>;<volume>17</volume>:<fpage>1189</fpage>‐<lpage>1204</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12292</pub-id>
+<pub-id pub-id-type="pmid">33811742</pub-id>
+<pub-id pub-id-type="pmcid">PMC8359976</pub-id></mixed-citation></ref><ref id="alz14096-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz14096-cit-0027">
+<string-name name-style="western">
+<surname>Lorenzini</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ingala</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wink</surname>
+<given-names>AM</given-names>
+</string-name>, et al. <article-title>The Open‐Access European Prevention of Alzheimer's Dementia (EPAD) MRI dataset and processing workflow</article-title>. <source>Neuroimage Clin</source>. <year>2022</year>;<volume>35</volume>:<elocation-id>103106</elocation-id>.<pub-id pub-id-type="pmid">35839659</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.nicl.2022.103106</pub-id><pub-id pub-id-type="pmcid">PMC9421463</pub-id></mixed-citation></ref><ref id="alz14096-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz14096-cit-0028">
+<string-name name-style="western">
+<surname>Wolz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aljabar</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hajnal</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hammers</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rueckert</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Alzheimer's Disease Neuroimaging Initiative. LEAP: learning embeddings for atlas propagation</article-title>. <source>Neuroimage</source>. <year>2010</year>;<volume>49</volume>:<fpage>1316</fpage>‐<lpage>1325</lpage>.<pub-id pub-id-type="pmid">19815080</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroimage.2009.09.069</pub-id><pub-id pub-id-type="pmcid">PMC3068618</pub-id></mixed-citation></ref><ref id="alz14096-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz14096-cit-0029">
+<string-name name-style="western">
+<surname>Sudre</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cardoso</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bouvy</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Biessels</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barnes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ourselin</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Bayesian model selection for pathological neuroimaging data applied to white matter lesion segmentation</article-title>. <source>IEEE Trans Med Imaging</source>. <year>2015</year>;<volume>34</volume>:<fpage>2079</fpage>‐<lpage>2102</lpage>.<pub-id pub-id-type="pmid">25850086</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1109/TMI.2015.2419072</pub-id></mixed-citation></ref><ref id="alz14096-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz14096-cit-0030">
+<string-name name-style="western">
+<surname>Pålhaugen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sudre</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tecelao</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Brain amyloid and vascular risk are related to distinct white matter hyperintensity patterns</article-title>. <source>J Cereb Blood Flow Metab</source>. <year>2020;</year>
+<volume>41</volume>:<fpage>1162</fpage>‐<lpage>1174</lpage>. <pub-id pub-id-type="doi">10.1177/0271678X20957604</pub-id>
+<pub-id pub-id-type="pmid">32955960</pub-id>
+<pub-id pub-id-type="pmcid">PMC8054718</pub-id></mixed-citation></ref><ref id="alz14096-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz14096-cit-0031">
+<string-name name-style="western">
+<surname>Nickerson</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Öngür</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beckmann</surname>
+<given-names>CF</given-names>
+</string-name>. <article-title>Using dual regression to investigate network shape and amplitude in functional connectivity analyses</article-title>. <source>Front Neurosci</source>. <year>2017</year>;<volume>11</volume>:<fpage>115</fpage>. doi:<pub-id pub-id-type="doi">10.3389/fnins.2017.00115</pub-id>
+<pub-id pub-id-type="pmid">28348512</pub-id>
+<pub-id pub-id-type="pmcid">PMC5346569</pub-id></mixed-citation></ref><ref id="alz14096-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz14096-cit-0032">
+<string-name name-style="western">
+<surname>Yeo</surname>
+<given-names>BTT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomas Yeo</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krienen</surname>
+<given-names>FM</given-names>
+</string-name>, et al. <article-title>The organization of the human cerebral cortex estimated by intrinsic functional connectivity</article-title>. <source>J Neurophysiol</source>. <year>2011</year>;<volume>106</volume>:<fpage>1125</fpage>‐<lpage>1165</lpage>. doi:<pub-id pub-id-type="doi">10.1152/jn.00338.2011</pub-id>
+<pub-id pub-id-type="pmid">21653723</pub-id>
+<pub-id pub-id-type="pmcid">PMC3174820</pub-id></mixed-citation></ref><ref id="alz14096-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz14096-cit-0033">
+<string-name name-style="western">
+<surname>Jones</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knopman</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gunter</surname>
+<given-names>JL</given-names>
+</string-name>, et al. <article-title>Cascading network failure across the Alzheimer's disease spectrum</article-title>. <source>Brain</source>. <year>2016</year>;<volume>139</volume>:<fpage>547</fpage>‐<lpage>562</lpage>.<pub-id pub-id-type="pmid">26586695</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awv338</pub-id><pub-id pub-id-type="pmcid">PMC4805086</pub-id></mixed-citation></ref><ref id="alz14096-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz14096-cit-0034">
+<string-name name-style="western">
+<surname>Wardlaw</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Biessels</surname>
+<given-names>GJ</given-names>
+</string-name>, et al. <article-title>Neuroimaging standards for research into small vessel disease and its contribution to ageing and neurodegeneration</article-title>. <source>Lancet Neurol</source>. <year>2013</year>;<volume>12</volume>:<fpage>822</fpage>‐<lpage>838</lpage>. doi:<pub-id pub-id-type="doi">10.1016/s1474-4422(13)70124-8</pub-id>
+<pub-id pub-id-type="pmid">23867200</pub-id>
+<pub-id pub-id-type="pmcid">PMC3714437</pub-id></mixed-citation></ref><ref id="alz14096-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz14096-cit-0035">
+<string-name name-style="western">
+<surname>MacLullich</surname>
+<given-names>AMJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wardlaw</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferguson</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Starr</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seckl</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deary</surname>
+<given-names>IJ</given-names>
+</string-name>. <article-title>Enlarged perivascular spaces are associated with cognitive function in healthy elderly men</article-title>. <source>J Neurol Neurosurg Psychiatry</source>. <year>2004</year>;<volume>75</volume>:<fpage>1519</fpage>‐<lpage>1523</lpage>.<pub-id pub-id-type="pmid">15489380</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jnnp.2003.030858</pub-id><pub-id pub-id-type="pmcid">PMC1738797</pub-id></mixed-citation></ref><ref id="alz14096-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz14096-cit-0036">
+<string-name name-style="western">
+<surname>Fazekas</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chawluk</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alavi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hurtig</surname>
+<given-names>HI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zimmerman</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>MR signal abnormalities at 1.5 T in Alzheimer's dementia and normal aging</article-title>. <source>AJR Am J Roentgenol</source>. <year>1987</year>;<volume>149</volume>:<fpage>351</fpage>‐<lpage>356</lpage>.<pub-id pub-id-type="pmid">3496763</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2214/ajr.149.2.351</pub-id></mixed-citation></ref><ref id="alz14096-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz14096-cit-0037">
+<string-name name-style="western">
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bogdanovic</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winblad</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Pathways to Alzheimer's disease</article-title>. <source>J Intern Med</source>. <year>2014</year>;<volume>275</volume>:<fpage>296</fpage>‐<lpage>303</lpage>.<pub-id pub-id-type="pmid">24749173</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/joim.12192</pub-id></mixed-citation></ref><ref id="alz14096-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz14096-cit-0038">
+<string-name name-style="western">
+<surname>Van Cauwenberghe</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Broeckhoven</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sleegers</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>The genetic landscape of Alzheimer disease: clinical implications and perspectives</article-title>. <source>Genet Med</source>. <year>2016</year>;<volume>18</volume>:<fpage>421</fpage>‐<lpage>430</lpage>.<pub-id pub-id-type="pmid">26312828</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/gim.2015.117</pub-id><pub-id pub-id-type="pmcid">PMC4857183</pub-id></mixed-citation></ref><ref id="alz14096-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz14096-cit-0039">
+<string-name name-style="western">
+<surname>Tesi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Der Lee</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hulsman</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Immune response and endocytosis pathways are associated with the <italic toggle="yes">resilience</italic> against Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2020</year>;<volume>16</volume>:<fpage>332</fpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.042614</pub-id>
+<pub-id pub-id-type="pmcid">PMC7524800</pub-id><pub-id pub-id-type="pmid">32994401</pub-id></mixed-citation></ref><ref id="alz14096-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz14096-cit-0040">
+<string-name name-style="western">
+<surname>Newcombe</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Camats‐Perna</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silva</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Valmas</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huat</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Medeiros</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Inflammation: the link between comorbidities, genetics, and Alzheimer's disease</article-title>. <source>J Neuroinflammation</source>. <year>2018</year>;<volume>15</volume>:<fpage>276</fpage>.<pub-id pub-id-type="pmid">30249283</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12974-018-1313-3</pub-id><pub-id pub-id-type="pmcid">PMC6154824</pub-id></mixed-citation></ref><ref id="alz14096-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz14096-cit-0041">
+<string-name name-style="western">
+<surname>Naj</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schellenberg</surname>
+<given-names>GD</given-names>
+</string-name>, <collab collab-type="authors">Alzheimer's Disease Genetics Consortium (ADGC)</collab>
+. <article-title>Genomic variants, genes, and pathways of Alzheimer's disease: an overview</article-title>. <source>Am J Med Genet B Neuropsychiatr Genet</source>. <year>2017</year>;<volume>174</volume>:<fpage>5</fpage>‐<lpage>26</lpage>.<pub-id pub-id-type="pmid">27943641</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ajmg.b.32499</pub-id><pub-id pub-id-type="pmcid">PMC6179157</pub-id></mixed-citation></ref><ref id="alz14096-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz14096-cit-0042">
+<string-name name-style="western">
+<surname>Efthymiou</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goate</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Late onset Alzheimer's disease genetics implicates microglial pathways in disease risk</article-title>. <source>Mol Neurodegener</source>. <year>2017</year>;<volume>12</volume>:<fpage>43</fpage>.<pub-id pub-id-type="pmid">28549481</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13024-017-0184-x</pub-id><pub-id pub-id-type="pmcid">PMC5446752</pub-id></mixed-citation></ref><ref id="alz14096-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz14096-cit-0043">
+<string-name name-style="western">
+<surname>Cummings</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhong</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fonseca</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Alzheimer's disease drug development pipeline: 2023</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>9</volume>:<elocation-id>e12385</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/trc2.12385</pub-id><pub-id pub-id-type="pmcid">PMC10210334</pub-id><pub-id pub-id-type="pmid">37251912</pub-id></mixed-citation></ref><ref id="alz14096-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz14096-cit-0044">
+<string-name name-style="western">
+<surname>Toledo</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Habes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sotiras</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>APOE effect on amyloid‐β PET spatial distribution, deposition rate, and cut‐points</article-title>. <source>J Alzheimers Dis</source>. <year>2019</year>;<volume>69</volume>:<fpage>783</fpage>‐<lpage>793</lpage>.<pub-id pub-id-type="pmid">31127775</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-181282</pub-id><pub-id pub-id-type="pmcid">PMC8634544</pub-id></mixed-citation></ref><ref id="alz14096-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz14096-cit-0045">
+<string-name name-style="western">
+<surname>Lim</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mormino</surname>
+<given-names>EC</given-names>
+</string-name>. <article-title>Alzheimer's disease neuroimaging initiative. APOE genotype and early β‐amyloid accumulation in older adults without dementia</article-title>. <source>Neurology</source>. <year>2017</year>;<volume>89</volume>:<fpage>1028</fpage>‐<lpage>1034</lpage>.<pub-id pub-id-type="pmid">28794245</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0000000000004336</pub-id><pub-id pub-id-type="pmcid">PMC5589795</pub-id></mixed-citation></ref><ref id="alz14096-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz14096-cit-0046">
+<string-name name-style="western">
+<surname>Luckett</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abakkouy</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reinartz</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Association of Alzheimer's disease polygenic risk scores with amyloid accumulation in cognitively intact older adults</article-title>. <source>Alzheimers Res Ther</source>. <year>2022</year>;<volume>14</volume>:<fpage>138</fpage>.<pub-id pub-id-type="pmid">36151568</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-022-01079-4</pub-id><pub-id pub-id-type="pmcid">PMC9508733</pub-id></mixed-citation></ref><ref id="alz14096-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="alz14096-cit-0047">
+<string-name name-style="western">
+<surname>Leonenko</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shoai</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bellou</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Genetic risk for Alzheimer disease is distinct from genetic risk for amyloid deposition</article-title>. <source>Ann Neurol</source>. <year>2019</year>;<volume>86</volume>:<fpage>427</fpage>‐<lpage>435</lpage>.<pub-id pub-id-type="pmid">31199530</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.25530</pub-id><pub-id pub-id-type="pmcid">PMC6771864</pub-id></mixed-citation></ref><ref id="alz14096-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="alz14096-cit-0048">
+<string-name name-style="western">
+<surname>Belloy</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Napolioni</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Greicius</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>A quarter century of APOE and Alzheimer's disease: progress to date and the path forward</article-title>. <source>Neuron</source>. <year>2019</year>;<volume>101</volume>:<fpage>820</fpage>‐<lpage>838</lpage>.<pub-id pub-id-type="pmid">30844401</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuron.2019.01.056</pub-id><pub-id pub-id-type="pmcid">PMC6407643</pub-id></mixed-citation></ref><ref id="alz14096-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="alz14096-cit-0049">
+<string-name name-style="western">
+<surname>Xicota</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gyorgy</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grenier‐Boley</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Association of <italic toggle="yes">APOE</italic>‐independent Alzheimer disease polygenic risk score with brain amyloid deposition in asymptomatic older adults</article-title>. <source>Neurology</source>. <year>2022</year>;<volume>99</volume>:<fpage>e462</fpage>‐<lpage>e475</lpage>.<pub-id pub-id-type="pmid">35606148</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0000000000200544</pub-id><pub-id pub-id-type="pmcid">PMC9421597</pub-id></mixed-citation></ref><ref id="alz14096-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="alz14096-cit-0050">
+<string-name name-style="western">
+<surname>Louwersheimer</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolfsgruber</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Espinosa</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Alzheimer's disease risk variants modulate endophenotypes in mild cognitive impairment</article-title>. <source>Alzheimers Dement</source>. <year>2016</year>;<volume>12</volume>:<fpage>872</fpage>‐<lpage>881</lpage>.<pub-id pub-id-type="pmid">26921674</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2016.01.006</pub-id></mixed-citation></ref><ref id="alz14096-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="alz14096-cit-0051">
+<string-name name-style="western">
+<surname>Zettergren</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lord</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, et al. <article-title>Association between polygenic risk score of Alzheimer's disease and plasma phosphorylated tau in individuals from the Alzheimer's disease neuroimaging initiative</article-title>. <source>Alzheimers Res Ther</source>. <year>2021</year>;<volume>13</volume>:<fpage>17</fpage>.<pub-id pub-id-type="pmid">33419453</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-020-00754-8</pub-id><pub-id pub-id-type="pmcid">PMC7792087</pub-id></mixed-citation></ref><ref id="alz14096-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="alz14096-cit-0052">
+<string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stomrud</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>β‐Amyloid‐dependent and ‐independent genetic pathways regulating CSF tau biomarkers in Alzheimer disease</article-title>. <source>Neurology</source>. <year>2022</year>;<volume>99</volume>:<fpage>e476</fpage>‐<lpage>e487</lpage>. doi:<pub-id pub-id-type="doi">10.1212/wnl.0000000000200605</pub-id>
+<pub-id pub-id-type="pmid">35641311</pub-id>
+<pub-id pub-id-type="pmcid">PMC9421595</pub-id></mixed-citation></ref><ref id="alz14096-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="alz14096-cit-0053">
+<string-name name-style="western">
+<surname>Sepulcre</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grothe</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>d'Oleire Uquillas</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Neurogenetic contributions to amyloid beta and tau spreading in the human cortex</article-title>. <source>Nat Med</source>. <year>2018</year>;<volume>24</volume>:<fpage>1910</fpage>‐<lpage>1918</lpage>.<pub-id pub-id-type="pmid">30374196</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-018-0206-4</pub-id><pub-id pub-id-type="pmcid">PMC6518398</pub-id></mixed-citation></ref><ref id="alz14096-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="alz14096-cit-0054">
+<string-name name-style="western">
+<surname>Ising</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heneka</surname>
+<given-names>MT</given-names>
+</string-name>. <article-title>Chronic inflammation: a potential target in tauopathies</article-title>. <source>Lancet Neurol</source>. <year>2023</year>;<volume>22</volume>:<fpage>371</fpage>‐<lpage>373</lpage>.<pub-id pub-id-type="pmid">37059499</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(23)00116-3</pub-id></mixed-citation></ref><ref id="alz14096-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="alz14096-cit-0055">
+<string-name name-style="western">
+<surname>Langworth‐Green</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jaunmuktane</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Chronic effects of inflammation on tauopathies</article-title>. <source>Lancet Neurol</source>. <year>2023</year>;<volume>22</volume>:<fpage>430</fpage>‐<lpage>442</lpage>.<pub-id pub-id-type="pmid">37059510</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(23)00038-8</pub-id></mixed-citation></ref><ref id="alz14096-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="alz14096-cit-0056">
+<string-name name-style="western">
+<surname>Altmann</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aksman</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oxtoby</surname>
+<given-names>NP</given-names>
+</string-name>,… &amp; <string-name name-style="western">
+<surname>Oxtoby</surname>
+<given-names>NP</given-names>
+</string-name>. <article-title>Towards cascading genetic risk in Alzheimer's disease</article-title>. <source>Brain</source>. <year>2024</year>, awae176.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awae176</pub-id><pub-id pub-id-type="pmcid">PMC11292901</pub-id><pub-id pub-id-type="pmid">38820112</pub-id></mixed-citation></ref><ref id="alz14096-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="alz14096-cit-0057">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jang</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Interaction between Alzheimer's disease and cerebral small vessel disease: a review focused on neuroimaging markers</article-title>. <source>Int J Mol Sci</source>. <year>2022</year>;<volume>23</volume>:<elocation-id>10490</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/ijms231810490</pub-id>
+<pub-id pub-id-type="pmid">36142419</pub-id>
+<pub-id pub-id-type="pmcid">PMC9499680</pub-id></mixed-citation></ref><ref id="alz14096-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="alz14096-cit-0058">
+<string-name name-style="western">
+<surname>Theofilis</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sagris</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oikonomou</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Inflammatory mechanisms contributing to endothelial dysfunction</article-title>. <source>Biomedicines</source>. <year>2021</year>;<volume>9</volume>:<fpage>781</fpage>. doi:<pub-id pub-id-type="doi">10.3390/biomedicines9070781</pub-id>
+<pub-id pub-id-type="pmid">34356845</pub-id>
+<pub-id pub-id-type="pmcid">PMC8301477</pub-id></mixed-citation></ref><ref id="alz14096-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="alz14096-cit-0059">
+<string-name name-style="western">
+<surname>Harrison</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foley</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baker</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Pathway‐specific polygenic scores for Alzheimer's disease are associated with changes in brain structure in younger and older adults</article-title>. <source>Brain Commun</source>. <year>2023</year>;<volume>5</volume>:<elocation-id>fcad229</elocation-id>.<pub-id pub-id-type="pmid">37744023</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/braincomms/fcad229</pub-id><pub-id pub-id-type="pmcid">PMC10517196</pub-id></mixed-citation></ref><ref id="alz14096-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="alz14096-cit-0060">
+<string-name name-style="western">
+<surname>Prins</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scheltens</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>White matter hyperintensities, cognitive impairment and dementia: an update</article-title>. <source>Nat Rev Neurol</source>. <year>2015</year>;<volume>11</volume>:<fpage>157</fpage>‐<lpage>165</lpage>.<pub-id pub-id-type="pmid">25686760</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrneurol.2015.10</pub-id></mixed-citation></ref><ref id="alz14096-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="alz14096-cit-0061">
+<string-name name-style="western">
+<surname>Sabayan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Westendorp</surname>
+<given-names>RGJ</given-names>
+</string-name>. <article-title>Neurovascular‐glymphatic dysfunction and white matter lesions</article-title>. <source>GeroScience</source>. <year>2021</year>;<volume>43</volume>:<fpage>1635</fpage>‐<lpage>1642</lpage>.<pub-id pub-id-type="pmid">33851307</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11357-021-00361-x</pub-id><pub-id pub-id-type="pmcid">PMC8492845</pub-id></mixed-citation></ref><ref id="alz14096-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="alz14096-cit-0062">
+<string-name name-style="western">
+<surname>Williams</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leritz</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shepel</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Interindividual variation in serum cholesterol is associated with regional white matter tissue integrity in older adults</article-title>. <source>Hum Brain Mapp</source>. <year>2013</year>;<volume>34</volume>:<fpage>1826</fpage>‐<lpage>1841</lpage>.<pub-id pub-id-type="pmid">22438182</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hbm.22030</pub-id><pub-id pub-id-type="pmcid">PMC3707964</pub-id></mixed-citation></ref><ref id="alz14096-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="alz14096-cit-0063">
+<string-name name-style="western">
+<surname>Sharp</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeCarli</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>L‐W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhan</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>White matter injury, cholesterol dysmetabolism, and APP/Abeta dysmetabolism interact to produce Alzheimer's disease (AD) neuropathology: a hypothesis and review</article-title>. <source>Front Aging Neurosci</source>. <year>2023</year>;<volume>15</volume>:<elocation-id>1096206</elocation-id>.<pub-id pub-id-type="pmid">36845656</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2023.1096206</pub-id><pub-id pub-id-type="pmcid">PMC9950279</pub-id></mixed-citation></ref><ref id="alz14096-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="alz14096-cit-0064">
+<string-name name-style="western">
+<surname>Lorenzini</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ingala</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Collij</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wottschel</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haller</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>,… &amp; <string-name name-style="western">
+<surname>Wink</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Eigenvector centrality dynamics are related to Alzheimer.s disease pathological changes in non-demented individuals</article-title>. <source>Brain communications</source>. <year>2023</year>;<volume>5</volume>(3):<fpage>fcad088</fpage>.<pub-id pub-id-type="pmid">37151225</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/braincomms/fcad088</pub-id><pub-id pub-id-type="pmcid">PMC10156145</pub-id></mixed-citation></ref><ref id="alz14096-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="alz14096-cit-0065">
+<string-name name-style="western">
+<surname>Damoiseaux</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beckmann</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arigita</surname>
+<given-names>EJS</given-names>
+</string-name>, et al. <article-title>Reduced resting‐state brain activity in the “default network” in normal aging</article-title>. <source>Cereb Cortex</source>. <year>2007</year>;<volume>18</volume>:<fpage>1856</fpage>‐<lpage>1864</lpage>.<pub-id pub-id-type="pmid">18063564</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cercor/bhm207</pub-id></mixed-citation></ref><ref id="alz14096-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="alz14096-cit-0066">
+<string-name name-style="western">
+<surname>Bero</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roh</surname>
+<given-names>JH</given-names>
+</string-name>, et al. <article-title>Neuronal activity regulates the regional vulnerability to amyloid‐β deposition</article-title>. <source>Nat Neurosci</source>. <year>2011</year>;<volume>14</volume>:<fpage>750</fpage>‐<lpage>756</lpage>.<pub-id pub-id-type="pmid">21532579</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nn.2801</pub-id><pub-id pub-id-type="pmcid">PMC3102784</pub-id></mixed-citation></ref><ref id="alz14096-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="alz14096-cit-0067">
+<string-name name-style="western">
+<surname>Choi</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>García‐González</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruan</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>PRSet: pathway‐based polygenic risk score analyses and software</article-title>. <source>PLoS Genet</source>. <year>2023</year>;<volume>19</volume>:<elocation-id>e1010624</elocation-id>.<pub-id pub-id-type="pmid">36749789</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pgen.1010624</pub-id><pub-id pub-id-type="pmcid">PMC9937466</pub-id></mixed-citation></ref><ref id="alz14096-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="alz14096-cit-0068">
+<string-name name-style="western">
+<surname>Blumenfeld</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yip</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Cell type‐specific roles of APOE4 in Alzheimer disease</article-title>. <source>Nat Rev Neurosci</source>. <year>2024</year>;<volume>25</volume>:<fpage>91</fpage>‐<lpage>110</lpage>.<pub-id pub-id-type="pmid">38191720</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41583-023-00776-9</pub-id><pub-id pub-id-type="pmcid">PMC11073858</pub-id></mixed-citation></ref><ref id="alz14096-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="alz14096-cit-0069">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>H‐S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Teng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kang</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Cell‐type‐specific Alzheimer's disease polygenic risk scores are associated with distinct disease processes in Alzheimer's disease</article-title>. <source>Nat Commun</source>. <year>2023</year>;<volume>14</volume>:<fpage>7659</fpage>.<pub-id pub-id-type="pmid">38036535</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-023-43132-2</pub-id><pub-id pub-id-type="pmcid">PMC10689816</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

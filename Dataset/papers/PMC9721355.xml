@@ -1,0 +1,1274 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">IEEE J Transl Eng Health Med</journal-id><journal-id journal-id-type="iso-abbrev">IEEE J Transl Eng Health Med</journal-id><journal-id journal-id-type="pmc-domain-id">2946</journal-id><journal-id journal-id-type="pmc-domain">jtehm</journal-id><journal-id journal-id-type="publisher-id">0063400</journal-id><journal-id journal-id-type="publisher-id">JTEHM</journal-id><journal-title-group><journal-title>IEEE Journal of Translational Engineering in Health and Medicine</journal-title></journal-title-group><issn pub-type="epub">2168-2372</issn><publisher><publisher-name>Institute of Electrical and Electronics Engineers</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9721355</article-id><article-id pub-id-type="pmcid-ver">PMC9721355.1</article-id><article-id pub-id-type="pmcaid">9721355</article-id><article-id pub-id-type="pmcaiid">9721355</article-id><article-id pub-id-type="pmid">36478772</article-id><article-id pub-id-type="doi">10.1109/JTEHM.2022.3219775</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Explainable Tensor Multi-Task Ensemble Learning Based on Brain Structure Variation for Alzheimer’s Disease Dynamic Prediction</article-title></title-group><contrib-group><contrib id="contrib1" contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7377-1194</contrib-id><name-alternatives><name content-type="display" name-style="western"><surname>Zhang</surname><given-names initials="Y">Yu</given-names></name><name content-type="index" name-style="western"><surname>Zhang</surname><given-names initials="Y">Yu</given-names></name></name-alternatives><xref rid="aff1" ref-type="aff"/></contrib><contrib id="contrib2" contrib-type="author"><name-alternatives><name content-type="display" name-style="western"><surname>Liu</surname><given-names initials="T">Tong</given-names></name><name content-type="index" name-style="western"><surname>Liu</surname><given-names initials="T">Tong</given-names></name></name-alternatives><xref rid="aff1" ref-type="aff"/></contrib><contrib id="contrib3" contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3148-2535</contrib-id><name-alternatives><name content-type="display" name-style="western"><surname>Lanfranchi</surname><given-names initials="V">Vitaveska</given-names></name><name content-type="index" name-style="western"><surname>Lanfranchi</surname><given-names initials="V">Vitaveska</given-names></name></name-alternatives><xref rid="aff1" ref-type="aff"/></contrib><contrib id="contrib4" contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8553-7127</contrib-id><name-alternatives><name content-type="display" name-style="western"><surname>Yang</surname><given-names initials="P">Po</given-names></name><name content-type="index" name-style="western"><surname>Yang</surname><given-names initials="P">Po</given-names></name></name-alternatives><email>poyangcn@gmail.com</email><xref rid="aff1" ref-type="aff"/></contrib><author-comment><p>Corresponding Author: P. Yang</p><p>Clinical and Translational Impact Statement: The model utilises magnetic resonance imaging data to calculate cognitive scores at different stages of patients to predict and diagnose AD progression. The important brain biomarker correlation information revealed in experiments can be utilised as potential indicators for early identification of AD.</p></author-comment></contrib-group><aff id="aff1">
+<institution-wrap><institution content-type="department">Department of Computer Science</institution><institution content-type="institution">The University of Sheffield</institution><institution-id content-type="institution" institution-id-type="ringgold">7315</institution-id></institution-wrap>
+<city>Sheffield</city>
+<postal-code>S10 2TN</postal-code>
+<country>U.K.</country>
+</aff><pub-date pub-type="collection" iso-8601-date="2023"><year>2023</year></pub-date><pub-date pub-type="epub" iso-8601-date="2022-11-04"><day>04</day><month>11</month><year>2022</year></pub-date><volume>11</volume><issue-id pub-id-type="pmc-issue-id">422988</issue-id><fpage>1</fpage><lpage>12</lpage><history><date date-type="received" iso-8601-date="2022-06-29"><day>29</day><month>6</month><year>2022</year></date><date date-type="rev-recd" iso-8601-date="2022-10-11"><day>11</day><month>10</month><year>2022</year></date><date date-type="accepted" iso-8601-date="2022-10-29"><day>29</day><month>10</month><year>2022</year></date><date date-type="currentversion" iso-8601-date="2022-11-18"><day>18</day><month>11</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>11</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>06</day><month>12</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-07-02 01:25:27.697"><day>02</day><month>07</month><year>2024</year></date></event></pub-history><permissions><copyright-year>2022</copyright-year><copyright-holder content-type="Author">Author</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="jtehm-yang-3219775.pdf"/><self-uri content-type="xml">jtehm-yang-3219775.xml</self-uri><self-uri content-type="print">jtehm-yang-3219775.pdf</self-uri><self-uri content-type="online">jtehm-yang-3219775.pdf</self-uri><abstract><p>Machine learning approaches for predicting Alzheimer’s disease (AD) progression can substantially assist researchers and clinicians in developing effective AD preventive and treatment strategies. This study proposes a novel machine learning algorithm to predict the AD progression utilising a multi-task ensemble learning approach. Specifically, we present a novel tensor multi-task learning (MTL) algorithm based on similarity measurement of spatio-temporal variability of brain biomarkers to model AD progression. In this model, the prediction of each patient sample in the tensor is set as one task, where all tasks share a set of latent factors obtained through tensor decomposition. Furthermore, as subjects have continuous records of brain biomarker testing, the model is extended to ensemble the subjects’ temporally continuous prediction results utilising a gradient boosting kernel to find more accurate predictions. We have conducted extensive experiments utilising data from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) to evaluate the performance of the proposed algorithm and model. Results demonstrate that the proposed model have superior accuracy and stability in predicting AD progression compared to benchmarks and state-of-the-art multi-task regression methods in terms of the Mini Mental State Examination (MMSE) questionnaire and The Alzheimer’s Disease Assessment Scale-Cognitive Subscale (ADAS-Cog) cognitive scores. Brain biomarker correlation information can be utilised to identify variations in individual brain structures and the model can be utilised to effectively predict the progression of AD with magnetic resonance imaging (MRI) data and cognitive scores of AD patients at different stages.</p></abstract><kwd-group kwd-group-type="AuthorFree"><kwd>Alzheimer’s disease</kwd><kwd>multi-task learning</kwd><kwd>brain biomarker spatio-temporal correlation</kwd><kwd>tensor decomposition</kwd><kwd>gradient boosting ensemble learning</kwd></kwd-group><funding-group><award-group><funding-source>
+<institution-wrap><institution>Innovate UK</institution><institution-id institution-id-type="fundref">10.13039/501100006041</institution-id></institution-wrap>
+</funding-source><award-id>107462</award-id><award-id>10002902</award-id></award-group><award-group><funding-source>
+<institution-wrap><institution>EPSRC Industrial Cooperative Awards in Science and Technology</institution></institution-wrap>
+</funding-source><award-id>165332</award-id></award-group><funding-statement>This work was supported in part by the Innovate UK under Project 107462 and Project 10002902; and in part by the EPSRC Industrial Cooperative Awards in Science and Technology under Project 165332.</funding-statement></funding-group><counts><fig-count count="4"/><table-count count="7"/><equation-count count="88"/><ref-count count="51"/><page-count count="12"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>I.</label><title>Introduction</title><p>Alzheimers’s disease (AD) is a severe primary neurodegenerative disease in which neurons and their connections deteriorate over time, leading to a full spectrum of dementia including cognitive decline, memory loss and executive dysfunction <xref rid="ref1" ref-type="bibr">[1]</xref>. There is currently no cure to treat or reverse the progression of the disease and it puts patients and their families under enormous psychological and emotional stress. Numerous studies have been conducted to recognize sensitive and precise biomarkers of early Alzheimer’s disease progression that will assistance in early AD diagnosis to create, evaluate and validate current and new treatments.</p><p>Utilising machine learning methods to predict AD progression can greatly support clinicians and researchers in making effective disease prevention and treatment decisions. Standard AD prediction methods rely on quantifying and extracting important biomarkers from diverse modalities (e.g., Magnetic Resonance Imaging (MRI) and Positron Emission Tomography (PET)), and then learning the model as a regression problem to calculate cognitive scores at different time points. Existing AD progression models mainly utilise machine learning regression algorithms <xref rid="ref2" ref-type="bibr">[2]</xref>, <xref rid="ref3" ref-type="bibr">[3]</xref>, statistical probability-based survival models <xref rid="ref4" ref-type="bibr">[4]</xref>, <xref rid="ref5" ref-type="bibr">[5]</xref> and deep learning methods based on neural networks <xref rid="ref6" ref-type="bibr">[6]</xref>, <xref rid="ref7" ref-type="bibr">[7]</xref>. The input features of the above models are signified as second-order matrices containing patient and biomarker information, and this data representation makes it difficult to predict and analyse disease progress from multiple dimensions (e.g., spatial and temporal dimensions). At the same time, the second-order matrix can only focus on a single biomarker, which will lose the correlation information between different AD biomarkers.</p><p>Therefore, instead of applying a second-order matrix with two components for each index, we constructed a third-order tensor with three components for each index (<xref rid="fig1" ref-type="fig">Fig. 1</xref>). The paper proposes to build a third-order tensor to build an AD prediction model to better present numerous aspects of AD data in both spatial and temporal dimensions. With the enhanced presentation of AD biomarker features, the utilise of the tensor in regression algorithms can improve prediction accuracy, stability and interpretability. Secondly, for AD prediction models, multi-task learning (MTL) can share information across tasks, outperforms traditional single-task learning methods in terms of prediction accuracy, interpretability and generalisation, and is most effective when the number of samples is small <xref rid="ref8" ref-type="bibr">[8]</xref>. Therefore, we designed a tensor-based MTL approach to predict AD progression by incorporating spatio-temporal information on brain structural variations. Specifically, we first propose a method for quantifying structural variations in the brain based on similarity calculations, which expresses the similarity of morphological variation trends between biomarkers as a third-order tensor with dimensions corresponding to the first biomarker, the second biomarker and the patient sample. Subsequently, the proposed algorithm performs a CANDECOMP/PARAFAC (CP) decomposition of the tensor <xref rid="ref9" ref-type="bibr">[9]</xref> and extracts a set of rank-one latent factors from the data. As shown in <xref rid="fig1" ref-type="fig">Fig. 1</xref>, the similarity in morphological variation trends between biomarkers can be decomposed into a set of rank-one tensors, each calculated from the outer product of three rank-one latent factors. Each latent factor is described by its first biomarker, second biomarker and patient sample dimension, resulting in an interpretable way to describe the latent factors controlling the variability of the data, and the latent factors can be utilised as predictors for training the MTL model.
+<fig position="float" id="fig1" orientation="portrait"><label>FIGURE 1.</label><caption><p>CP decomposition on a spatio-temporal tensor representation based on the similarity of the morphological variation trend between brain biomarkers.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="yang1-3219775.jpg"/></fig></p><p>In addition to the above challenges, in real-life applications, patients with suspected AD will continue to go to hospital for testing, which is a waste of subsequent incremental data if only a baseline model is utilised or if continuous testing records of the patient cannot be reasonably integrated. To address this problem, we utilise a gradient boosting ensemble learning approach to integrate consecutive test records of subjects to further improve prediction accuracy.</p><p>The contributions of this article are summarized as follows:
+<list list-type="simple"><list-item><label>1)</label><p>A similarity measurement method for quantifying and understanding variability in AD brain structure data is proposed to extract temporal and spatial information between biomarkers, further combined with tensor decomposition to obtain latent factors.</p></list-item><list-item><label>2)</label><p>The proposed tensor-based MTL algorithm seamlessly integrates spatio-temporal information based on brain structural variations and its biomarker latent factors, thus significantly improving the predictive accuracy and stability of AD progression.</p></list-item><list-item><label>3)</label><p>Identified and analysed important spatio-temporal variation correlations between brain biomarkers in the AD progression.</p></list-item><list-item><label>4)</label><p>The proposed AD dynamic prediction utilises gradient boosting ensemble learning to combine multiple consecutive MRI detections and the experimental results demonstrate that the prediction accuracy continues to improve as the number of MRI detections increases.</p></list-item></list></p></sec><sec id="sec2"><label>II.</label><title>Related Work</title><p>Numerous preceding brain science studies have focused on the differences in brain structure variation of AD, CN (cognitively normal older individuals) and MCI (mild cognitive impairment). <xref rid="ref10" ref-type="bibr">[10]</xref> developed a distortion-based framework for modelling the properties of AD and aging on the morphological progression of the brain, emphasizing specific morphological changes in the brain to help identify clinical conditions. <xref rid="ref11" ref-type="bibr">[11]</xref> evaluated the correlation of CSF and MRI biomarkers with clinical diagnosis and cognitive functioning in patients with CN, AD and aMCI (amnestic mild cognitive impairment). It was concluded that MRI provided stronger cross-sectional grouping, discrimination and correlated better with cross-sectional integrated cognitive and functional abilities. <xref rid="ref12" ref-type="bibr">[12]</xref> used automated MRI analysis to evaluate cortical thickness in healthy older adults, MCI patients and AD patients. Patterns of cortical thinning were identified as a function of disease progression, and it was discovered that as the disease marched from MCI to AD, the whole cortex thinned and extended appreciably into the lateral temporal cortex.</p><p>In addition, the research on correlations between AD MRI biomarkers has been a focus of brain structural variation research, <xref rid="ref13" ref-type="bibr">[13]</xref> used correlation of multi-kernel support vector machines and regional mean cortical thickness to combine relevant information with ROI-based data to advance the classification performance of AD and its precursor stages. <xref rid="ref14" ref-type="bibr">[14]</xref> structured brain networks by thresholding the cortical thickness correlation matrix for different regions and analysed them using graph theory. The above study evaluated and analysed the relationship between AD progression and brain biomarkers and showed that there are differences between brain biomarkers for AD, MCI and CN. However, the above studies only focus on a particular biomarker or the same category of biomarker, lacking the linkage and correlation of spatio-temporal variation between dissimilar categories of biomarkers, which is important for AD feature representation.</p><p>The AD prediction can be considered as a multi-task regression problem <xref rid="ref15" ref-type="bibr">[15]</xref>. The primary assumption of the model is that there is an intrinsic link between a large number of data records and that capturing the intrinsic link enhances the generalizability of the predictive model. The sharing of information between different patient prediction tasks promises advance achievable performance. This advantage is particularly pronounced when the number of input features (e.g., AD biomarkers) exceeds the number of samples (e.g., patient samples) <xref rid="ref16" ref-type="bibr">[16]</xref>. In the field of MTL for AD, existing approaches have focused on modelling relationships between tasks using novel regularisation techniques <xref rid="ref17" ref-type="bibr">[17]</xref>, <xref rid="ref18" ref-type="bibr">[18]</xref>. Kernel methods were added to the technique to enable it to fit non-linear relationships <xref rid="ref19" ref-type="bibr">[19]</xref>, <xref rid="ref20" ref-type="bibr">[20]</xref>. The aforementioned study and experiments demonstrated that the regularised MTL technique performs well in a diversity of AD prediction applications.</p><p>To the best of our knowledge, there is no commonly exercised tensor regression algorithm that exploits the multidimensional properties of biomarker data to predict AD progression. Current third-order tensor-based algorithms in AD are mainly used for images (e.g., MRI) <xref rid="ref21" ref-type="bibr">[21]</xref> and electroencephalograms (EEG), as the images themselves are third-order tensors and each patient’s EEG can be composed of a third-order tensor in the time and frequency domains. But in terms of the form of the data, MRI brain biomarker data can be formed into a third-order tensor. The first characteristic of data that can be constructed as a tensor is that it is multidimensional data, and the second characteristic is that the original data is inherently a tensor, for example as an RGB image it is innately a three-dimensional tensor. Brain biomarker data are multidimensional data that fit the first characteristic of tensor data. Based on this fact, we have pioneered a tensor-based MTL method for accurate AD progression prediction.</p></sec><sec id="sec3"><label>III.</label><title>Methodology</title><sec id="sec3a"><label>A.</label><title>Denotation</title><p>For brevity, we represent tensors as italic capital letters, such as <inline-formula>
+<tex-math notation="LaTeX" id="M1">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$X$
+\end{document}</tex-math></inline-formula> or <inline-formula>
+<tex-math notation="LaTeX" id="M2">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$Y$
+\end{document}</tex-math></inline-formula>, and matrices by capital letters, such as A or B. Vectors are denoted by lowercase letters such as x whereas Scalars are denoted by italic lowercase letters such as <inline-formula>
+<tex-math notation="LaTeX" id="M3">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$a$
+\end{document}</tex-math></inline-formula>.</p></sec><sec id="sec3b"><label>B.</label><title>Spatio-Temporal Variation Similarity Calculation of MRI Biomarkers</title><p>Two successive MRI tests were utilised to calculate the spatio-temporal variation in brain biomarkers. The quantitative approach has been reported in its preliminary versions <xref rid="ref22" ref-type="bibr">[22]</xref>, <xref rid="ref23" ref-type="bibr">[23]</xref>, and this research expands and exploits it across number of successive time points (BL to M06, M06 to M12, M12 to M24). For instance, at time points baseline (the date the patient was first screened in hospital) and M06 (the time point six months after the first visit), we utilised MRI at the corresponding time points to calculate the rate of change and velocity for each biomarker, where <inline-formula>
+<tex-math notation="LaTeX" id="M4">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$x$
+\end{document}</tex-math></inline-formula> is the test value of brain biomarkers and <inline-formula>
+<tex-math notation="LaTeX" id="M5">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$t$
+\end{document}</tex-math></inline-formula> is the MRI detection dates. The rate of change is <inline-formula>
+<tex-math notation="LaTeX" id="M6">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\frac {x_{M06}-x_{BL}}{x_{BL}}$
+\end{document}</tex-math></inline-formula>, the velocity is <inline-formula>
+<tex-math notation="LaTeX" id="M7">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\frac {x_{M06}-x_{BL}}{t_{M06}-t_{BL}}$
+\end{document}</tex-math></inline-formula> per month. The rate of change and velocity were then utilised to create a vector which describes the morphological variation trend of brain biomarker.</p><p>In this study, the similarity between two vectors was calculated utilising the Mahalanobis distance as a method to indicate the similarity of the spatio-temporal variation of two MRI biomarkers. The Mahalanobis distance was utilised because it is scale-independent when the covariance matrix is divided <xref rid="ref24" ref-type="bibr">[24]</xref>. The Mahalanobis distance between the vectors <inline-formula>
+<tex-math notation="LaTeX" id="M8">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {x}_{i}$
+\end{document}</tex-math></inline-formula> and <inline-formula>
+<tex-math notation="LaTeX" id="M9">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {x}_{j}$
+\end{document}</tex-math></inline-formula> is defined as: <inline-formula>
+<tex-math notation="LaTeX" id="M10">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {Ma}\left ({\mathrm {x}_{i},\mathrm {x}_{j} }\right)=\sqrt {\left ({\mathrm {x}_{i}-\mathrm {x}_{j} }\right)^{\mathrm {T}}\mathrm {S}^{-1}(\mathrm {x}_{i}-\mathrm {x}_{j})}$
+\end{document}</tex-math></inline-formula>, where S is covariance matrix.</p><p><xref rid="fig2" ref-type="fig">Fig. 2</xref> shows the spatio-temporal correlations of brain biomarkers of AD, CN and MCI calculated by Mahalanobis distances. Although similarity calculations can demonstrate differences in the spatio-temporal correlation of AD, CN and MCI brain biomarkers, there is a unifying problem that half of the data is duplicated due to pairings of biomarker association, it may increase the computational complexity and this study addresses this problem utilising the duplicate data correction matrix in the algorithm design.
+<fig position="float" id="fig2" orientation="portrait"><label>FIGURE 2.</label><caption><p>Examples of Mahalanobis distance matrix distribution for AD, CN and MCI brain biomarker relationships. The difference in the matrix areas is evident in the figure, which indicates the difference in spatial changes in the brains of AD, CN and MCI as time progresses. (The scale from top to bottom is 1.0, 0.8, 0.6, 0.4, 0.2, 0.0).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="yang2-3219775.jpg"/></fig></p></sec><sec id="sec3c"><label>C.</label><title>Tensor Decomposition</title><p>Our proposed formula requires an understanding of the latent factors of the correlation tensor of morphological variation trends between MRI biomarkers. These latent factors are represented by factor matrices A and B, which can be derived utilising tensor decomposition methods. There are two mainstream standard approaches for tensor decomposition, specifically Tucker and CANDECOMP/PARAFAC (CP) decomposition <xref rid="ref9" ref-type="bibr">[9]</xref>. The Tucker decomposition decomposes the tensor into the result of the core tensor and the factor matrix for each mode. Although it expresses a more inclusive statement, it is problematic to interpret the latent factors, as the amount of latent factors may differ for different model. By comparison, CP decomposition decomposes the tensor into a set of rank-one tensors. i.e., <inline-formula>
+<tex-math notation="LaTeX" id="M11">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$X\mathrm {\approx }\left [{\left [{ \mathrm {A \times B \times C} }\right]}\right]=\sum \nolimits _{i=1}^{r} {\mathrm {a}_{i}\circ \mathrm {b}_{i}\circ \mathrm {c}_{i}}$
+\end{document}</tex-math></inline-formula>, where <inline-formula>
+<tex-math notation="LaTeX" id="M12">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\circ $
+\end{document}</tex-math></inline-formula> denote the outer product operation between two vectors, while <inline-formula>
+<tex-math notation="LaTeX" id="M13">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {a}_{i}\mathrm {, }\mathrm {b}_{i}~\mathrm {and}~\mathrm {c}_{i}$
+\end{document}</tex-math></inline-formula> correspond to the vectors related with the <inline-formula>
+<tex-math notation="LaTeX" id="M14">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$i$
+\end{document}</tex-math></inline-formula>-th latent factor. Given a tensor <inline-formula>
+<tex-math notation="LaTeX" id="M15">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$X$
+\end{document}</tex-math></inline-formula> of the size <inline-formula>
+<tex-math notation="LaTeX" id="M16">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$n_{1}\times n_{2}\mathrm {\times }n_{3}$
+\end{document}</tex-math></inline-formula>, the size of matrix A, B and C is <inline-formula>
+<tex-math notation="LaTeX" id="M17">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$n_{1}\times r,n_{2}\mathrm { \times }r\,\,\mathrm {and}\,\,n_{3}\times r$
+\end{document}</tex-math></inline-formula> respectively.</p></sec><sec id="sec3d"><label>D.</label><title>Tensor Multi-Task Regression</title><p>To predict cognitive scores (e.g., MMSE and ADAS-Cog) at future time points. Consider a tensor multi-task regression problem with <inline-formula>
+<tex-math notation="LaTeX" id="M18">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$t$
+\end{document}</tex-math></inline-formula> time points, <inline-formula>
+<tex-math notation="LaTeX" id="M19">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$n$
+\end{document}</tex-math></inline-formula> training samples with <inline-formula>
+<tex-math notation="LaTeX" id="M20">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$d_{1}$
+\end{document}</tex-math></inline-formula> and <inline-formula>
+<tex-math notation="LaTeX" id="M21">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$d_{2}$
+\end{document}</tex-math></inline-formula> features. Let <inline-formula>
+<tex-math notation="LaTeX" id="M22">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$X\,\,\in \mathrm {\mathbb {R}}^{d_{1}\mathrm {\times }d_{2}\times n}$
+\end{document}</tex-math></inline-formula> be the input tensor from two consecutive MRI tests and the it is the amalgamation of similarity matrix of all <inline-formula>
+<tex-math notation="LaTeX" id="M23">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$n$
+\end{document}</tex-math></inline-formula> samples <inline-formula>
+<tex-math notation="LaTeX" id="M24">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {X}_{n}\mathrm {\in }\mathrm {\mathbb {R}}^{d_{1}\times d_{2}}$
+\end{document}</tex-math></inline-formula>, <inline-formula>
+<tex-math notation="LaTeX" id="M25">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {Y=[}\mathrm {y}_{1}\mathrm {,\cdots,}\mathrm {y}_{t}\mathrm {]\in }\mathrm {\mathbb {R}}^{n\times t}$
+\end{document}</tex-math></inline-formula> be the targets and <inline-formula>
+<tex-math notation="LaTeX" id="M26">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {y}_{t}=[y_{1}\mathrm {,\cdots,}y_{n}\mathrm {]\in }\mathrm {\mathbb {R}}^{n}$
+\end{document}</tex-math></inline-formula> is the corresponding target (clinical scores) at different time points. We utilise the operator <inline-formula>
+<tex-math notation="LaTeX" id="M27">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${\odot }$
+\end{document}</tex-math></inline-formula> as follows: <inline-formula>
+<tex-math notation="LaTeX" id="M28">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${\mathrm {Z=M}} \odot {\mathrm {N}}$
+\end{document}</tex-math></inline-formula> denotes <inline-formula>
+<tex-math notation="LaTeX" id="M29">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$z_{ij}=m_{ij}n_{ij}$
+\end{document}</tex-math></inline-formula>, for all <italic toggle="yes">i, j.</italic></p><p>The input tensor for the similarity of morphological variation trends in brain biomarkers is a symmetric tensor because the relationships between biomarkers are paired and therefore half of the data are duplicated. The research further proposes a duplicate data correction matrix to resolve the problem of duplicate data and it states as follows:<disp-formula id="deqn1">
+<tex-math notation="LaTeX" id="M30">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{align*} \text {K} = \left [{ {\begin{array}{cccccccccccccccccccc} 0 &amp; ~{\begin{array}{cccccccccccccccccccc} 1 &amp;~\cdots \\ \end{array}} &amp;~1\\ \vdots &amp;~\ddots &amp; ~{\begin{array}{l} \vdots \\ 1 \\ \end{array}}\\ 0 &amp;~\cdots &amp;~0\\ \end{array}} }\right]\in \mathbb {R}^{d_{1}\times d_{2}}\tag{1}\end{align*}
+\end{document}</tex-math></disp-formula></p><p>For <inline-formula>
+<tex-math notation="LaTeX" id="M31">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$t$
+\end{document}</tex-math></inline-formula>-th prediction time point, the objective function of the proposed approach can be stated as follows:<disp-formula>
+<tex-math notation="LaTeX" id="M32">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{align*} L_{t}\left ({X, y_{t}}\right)=&amp;\min _{W_{t}, A_{t}, \mathrm {B}_{t}, \mathrm {c}_{t}} \frac {1}{2}\left \|{\hat {y}_{t}-y_{t}}\right \|_{\mathrm {F}}^{2}+\frac {\lambda }{2} \\[-2pt]&amp;\left \|{X-[\![\mathrm {A}_{t}, \mathrm {~B}_{t}, \mathrm {C}_{t}]\!]}\right \|_{\mathrm {F}}^{2} +\beta \left \|{\mathrm {W}_{t}, \mathrm {~A}_{t}, \mathrm {~B}_{t}, \mathrm {C}_{t}}\right \|_{1} \\[-2pt] \hat {y}_{n}=&amp;\sum \nolimits _{i=1}^{d_{1}} \sum \nolimits _{j=1}^{d_{2}} \mathrm {U}_{i j},\end{align*}
+\end{document}</tex-math></disp-formula> where <disp-formula id="deqn2">
+<tex-math notation="LaTeX" id="M33">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{equation*} \mathrm {U}=(\mathrm {A}_{t}\mathrm {B}_{t}^{\mathrm {T}})\odot \mathrm {K\odot }\mathrm {W}_{t}\mathrm {\odot }\mathrm {X}_{n}, \mathrm {U}\in \mathbb {R}^{d_{1}\times \acute{\text{A}}d_{2}}.\tag{2}\end{equation*}
+\end{document}</tex-math></disp-formula> where the first term computes the empirical error for the training data, <inline-formula>
+<tex-math notation="LaTeX" id="M34">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\hat {y}_{t}=\left [{ \hat {y}_{1}\mathrm {,\cdots,}\hat {y}_{n} }\right]\in \mathrm {\mathbb {R}}^{n}$
+\end{document}</tex-math></inline-formula> are the predicted values, <inline-formula>
+<tex-math notation="LaTeX" id="M35">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {A}_{t}\in \mathrm {\mathbb {R}}^{d_{1}\times r}$
+\end{document}</tex-math></inline-formula> is the latent factor matrix for first biomarker dimension and <inline-formula>
+<tex-math notation="LaTeX" id="M36">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {B}_{t}\in \mathrm {\mathbb {R}}^{d_{2}\times r}$
+\end{document}</tex-math></inline-formula> is the latent factor matrix for second biomarker dimension with r latent factors, <inline-formula>
+<tex-math notation="LaTeX" id="M37">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {W}_{t}\mathrm {\in }\mathrm {\mathbb {R}}^{d_{1}\times d_{2}}$
+\end{document}</tex-math></inline-formula> is the model parameter matrix for <inline-formula>
+<tex-math notation="LaTeX" id="M38">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$t$
+\end{document}</tex-math></inline-formula>-th prediction time point, <inline-formula>
+<tex-math notation="LaTeX" id="M39">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\lambda $
+\end{document}</tex-math></inline-formula> and <inline-formula>
+<tex-math notation="LaTeX" id="M40">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\beta $
+\end{document}</tex-math></inline-formula> are the regularization parameters. Obtaining latent factors by optimising objective function <inline-formula>
+<tex-math notation="LaTeX" id="M41">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\left \|{ X-\left [{\left [{ \mathrm {A, B, C} }\right]}\right] }\right \|_{\mathrm {F}}^{2}$
+\end{document}</tex-math></inline-formula>, where <inline-formula>
+<tex-math notation="LaTeX" id="M42">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$X=\left [{\left [{ \mathrm {A, B, C} }\right]}\right]=\sum \nolimits _{i=1}^{r} {\mathrm {a}_{i}\circ \mathrm {b}_{i}\circ \mathrm {c}_{i}}$
+\end{document}</tex-math></inline-formula> where <inline-formula>
+<tex-math notation="LaTeX" id="M43">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\circ $
+\end{document}</tex-math></inline-formula> denote the outer product operation between two vectors. <inline-formula>
+<tex-math notation="LaTeX" id="M44">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\left \|{ \mathrm {W}_{t},\mathrm {A}_{t},\mathrm {B}_{t},\mathrm {C}_{t} }\right \|_{1}$
+\end{document}</tex-math></inline-formula> employing an <inline-formula>
+<tex-math notation="LaTeX" id="M45">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$l1$
+\end{document}</tex-math></inline-formula>-norm on the W<sub><italic toggle="yes">t</italic></sub>, A<sub><italic toggle="yes">t</italic></sub>, B<sub><italic toggle="yes">t</italic></sub> and C<sub><italic toggle="yes">t</italic></sub> matrices respectively.</p><p>For all prediction time points, the objective function can be stated as follows:<disp-formula id="deqn3">
+<tex-math notation="LaTeX" id="M46">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{equation*} L(X, \mathrm {Y})=\min _{\mathrm {W}_{f}} \sum \nolimits _{1}^{t} L_{t}\left ({X, \mathrm {y}_{t}}\right)+\theta \left \|{\mathrm {W}_{f} \mathrm {P}(\alpha)}\right \|_{\mathrm {F}}^{2}\tag{3}\end{equation*}
+\end{document}</tex-math></disp-formula> where <inline-formula>
+<tex-math notation="LaTeX" id="M47">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\left \|{\mathrm {W}_{f} \mathrm {P}(\alpha)}\right \|_{\mathrm {F}}^{2}$
+\end{document}</tex-math></inline-formula> is the generalized temporal smoothness term, model parameter matrix <inline-formula>
+<tex-math notation="LaTeX" id="M48">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {W}_{f}\mathrm {\in }\mathrm {\mathbb {R}}^{(d_{1}\times d_{2}\mathrm {)\times }t}$
+\end{document}</tex-math></inline-formula>is the temporal dimension unfolding for model parameter tensor <inline-formula>
+<tex-math notation="LaTeX" id="M49">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$W\,\,\in \mathrm {\mathbb {R}}^{d_{1}\times d_{2}\mathrm {\times }t}$
+\end{document}</tex-math></inline-formula>, <inline-formula>
+<tex-math notation="LaTeX" id="M50">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\theta $
+\end{document}</tex-math></inline-formula> is the regularization parameter. The generalised temporal smoothing states the fact that in actually diagnosing AD, the specialist not only relies on the patient’s current symptoms, but also takes into account their previous symptoms. Therefore, we assume that the <inline-formula>
+<tex-math notation="LaTeX" id="M51">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$i$
+\end{document}</tex-math></inline-formula>-th progression in an individual AD patient is related to all preceding progressions. The generalized temporal smoothness prior describe as follows:<disp-formula id="deqn4">
+<tex-math notation="LaTeX" id="M52">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{align*} {\begin{cases} \Delta w_{1}=\delta w_{1} \\[-2pt] \Delta w_{2}=\alpha _{1}\Delta w_{1}+(1-\alpha _{1})\delta w_{2} \\[-2pt] \Delta w_{3}=\alpha _{2}\Delta w_{2}+(1-\alpha _{2})\delta w_{3} \\[-2pt] \cdots \\[-2pt] \Delta w_{t-1}=\alpha _{t-2}\mathrm {\Delta }w_{t-2}+(1-\alpha _{t-2})\delta w_{t-1} \\[-2pt] \end{cases}}\tag{4}\end{align*}
+\end{document}</tex-math></disp-formula> where <inline-formula>
+<tex-math notation="LaTeX" id="M53">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\Delta w$
+\end{document}</tex-math></inline-formula> denoted the progression with preceding progression information. <inline-formula>
+<tex-math notation="LaTeX" id="M54">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$w_{i}$
+\end{document}</tex-math></inline-formula> is the <inline-formula>
+<tex-math notation="LaTeX" id="M55">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$i$
+\end{document}</tex-math></inline-formula>-th column of W. where the parameter <inline-formula>
+<tex-math notation="LaTeX" id="M56">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\alpha $
+\end{document}</tex-math></inline-formula> represents the relational degree of the <inline-formula>
+<tex-math notation="LaTeX" id="M57">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$i$
+\end{document}</tex-math></inline-formula>-th progression and all preceding progressions. In addition, the impact of each stage of disease progression on the following stage may not be consistent, and therefore the relational degree parameters differ for each disease progression stage. The definition of the <inline-formula>
+<tex-math notation="LaTeX" id="M58">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$i$
+\end{document}</tex-math></inline-formula>-th progression <inline-formula>
+<tex-math notation="LaTeX" id="M59">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\delta w_{i}$
+\end{document}</tex-math></inline-formula> for one patient is:<disp-formula id="deqn5">
+<tex-math notation="LaTeX" id="M60">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{equation*} \delta w_{i}=w_{i}-w_{i+1},i=1,2,\cdots,t-1\tag{5}\end{equation*}
+\end{document}</tex-math></disp-formula> As a result, we can describe the more realistic temporal smoothness assumption with matrix multiplication:<disp-formula id="deqn6">
+<tex-math notation="LaTeX" id="M61">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{equation*} \text {WP}(\alpha \mathrm {)=WH}\mathrm {D}_{1}(\alpha _{1})\mathrm {D}_{2}(\alpha _{2}\mathrm {)\cdots }\mathrm {D}_{t-2}(\alpha _{t-2})\tag{6}\end{equation*}
+\end{document}</tex-math></disp-formula> where <inline-formula>
+<tex-math notation="LaTeX" id="M62">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {H\in }\mathrm {\mathbb {R}}^{t\times \acute{\text{A}}(t\mathrm {-1)}}$
+\end{document}</tex-math></inline-formula> has the following definition: <inline-formula>
+<tex-math notation="LaTeX" id="M63">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}${\mathrm {H}_{ij}=1 \,\,\text {if} } i=j,\mathrm {H}_{i}=-1$
+\end{document}</tex-math></inline-formula> if <inline-formula>
+<tex-math notation="LaTeX" id="M64">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$i=j+1$
+\end{document}</tex-math></inline-formula> and <inline-formula>
+<tex-math notation="LaTeX" id="M65">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {H}_{ij}\mathrm {=0}$
+\end{document}</tex-math></inline-formula> otherwise. <inline-formula>
+<tex-math notation="LaTeX" id="M66">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {P(}\alpha)$
+\end{document}</tex-math></inline-formula> denotes the correlation between progress, it comprises the hyperparameters <inline-formula>
+<tex-math notation="LaTeX" id="M67">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\alpha $
+\end{document}</tex-math></inline-formula>, which depends on the result of cross-validation. <inline-formula>
+<tex-math notation="LaTeX" id="M68">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {D}_{i}(\alpha _{i}\mathrm {)\in }\mathrm {\mathbb {R}}^{(t-1)\times \acute{\text{A}}(t\mathrm {-1)}}$
+\end{document}</tex-math></inline-formula> is an identity matrix and the value of <inline-formula>
+<tex-math notation="LaTeX" id="M69">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {D}_{i_{m,n}}(\alpha _{i})$
+\end{document}</tex-math></inline-formula> is substituted by <inline-formula>
+<tex-math notation="LaTeX" id="M70">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\alpha _{i}$
+\end{document}</tex-math></inline-formula> if <inline-formula>
+<tex-math notation="LaTeX" id="M71">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$m=i,n=i+1$
+\end{document}</tex-math></inline-formula>, the value of <inline-formula>
+<tex-math notation="LaTeX" id="M72">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\mathrm {D}_{i_{m,n}}(\alpha _{i})$
+\end{document}</tex-math></inline-formula> is substituted by <inline-formula>
+<tex-math notation="LaTeX" id="M73">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$1-\alpha _{i}$
+\end{document}</tex-math></inline-formula> if <inline-formula>
+<tex-math notation="LaTeX" id="M74">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$m=n=i+1$
+\end{document}</tex-math></inline-formula>.</p><p>Latent factors <inline-formula>
+<tex-math notation="LaTeX" id="M75">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$A \in \mathrm {\mathbb {R}}^{d_{1}\mathrm {\times }r\times t}$
+\end{document}</tex-math></inline-formula>, <inline-formula>
+<tex-math notation="LaTeX" id="M76">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$B \in \mathrm {\mathbb {R}}^{d_{2}\mathrm {\times }r\times t}$
+\end{document}</tex-math></inline-formula>, <inline-formula>
+<tex-math notation="LaTeX" id="M77">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$C \in \mathrm {\mathbb {R}}^{d_{3}\mathrm {\times }r\times t}$
+\end{document}</tex-math></inline-formula> and the model parameter <inline-formula>
+<tex-math notation="LaTeX" id="M78">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$W\mathrm {\in }\mathrm {R}^{d_{1}\times d_{2}\times t}$
+\end{document}</tex-math></inline-formula> can be learned by iteratively optimising the objective function for each set of variables to be solved. Because not all components of the objective function are differentiable, we utilise proximal gradient descent to solve each subproblem. Specifically, the terms in our objective function involving Frobenius norms are differentiable, but those involving the sparsity-inducing <inline-formula>
+<tex-math notation="LaTeX" id="M79">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$l1$
+\end{document}</tex-math></inline-formula>-norms are not differentiable. In the MTL model, the proximal approach is frequently utilised to construct the proximal issue for the non-smooth objective function <xref rid="ref25" ref-type="bibr">[25]</xref>, <xref rid="ref26" ref-type="bibr">[26]</xref>, <xref rid="ref27" ref-type="bibr">[27]</xref>, <xref rid="ref28" ref-type="bibr">[28]</xref>, by replacing the smooth function with the quadratic function, we get the sum of the smooth and non-smooth functions. Its quadratic functions can be constructed in a variety of ways based on Taylor series, and the resulting proximal problems are usually easier to solve than the original ones. The strategy can simplify the design of distributed optimisation algorithms or accelerate the convergence of the optimisation process.</p></sec><sec id="sec3e"><label>E.</label><title>Gradient Boosting</title><p>Ensemble learning has been proven to be effective in a variety of prediction tasks by grouping a set of weak learners together to build stronger learners. Boosting is the dominant technique in ensemble learning methods, which produces a set of weak learners in which predictors are trained sequentially rather than individually, with the aim of utilising the errors of the previous learner to develop a more effective model for the next learner.</p><p>Gradient Boosting (GB) is an extension of the boosting method which utilises gradient descent optimisation techniques to identify global or local minima of the cost function. It trains the machine to fit the model on the input feature space through a series of weak learners, each of which improves the prediction accuracy of the previous learner. GB trains powerful learners by combining numerous weak learners in multiple iterations <xref rid="ref29" ref-type="bibr">[29]</xref>, <xref rid="ref30" ref-type="bibr">[30]</xref>. The proposed method enhances prediction accuracy by sequentially fitting a more accurate model to the residuals of the preceding step in the final stage of the GB construction framework. This process will continue until a highly accurate model is obtained. The flowchart of the proposed method in the training stage is illustrated in <xref rid="fig3" ref-type="fig">Fig. 3</xref>.
+<fig position="float" id="fig3" orientation="portrait"><label>FIGURE 3.</label><caption><p>The flowchart of the proposed method in the training stage.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="yang3-3219775.jpg"/></fig></p></sec></sec><sec id="sec4"><label>IV.</label><title>Experimental Settings</title><sec id="sec4a"><label>A.</label><title>Dataset</title><p>Data used in the preparation of this article were obtained from the Alzheimer s Disease Neuroimaging Initiative (ADNI) database (adni.loni.usc.edu). The ADNI was launched in 2003 as a public-private partnership, led by Principal Investigator Michael W. Weiner, MD. The primary goal of ADNI has been to test whether serial magnetic resonance imaging (MRI), positron emission tomography (PET), other biological markers, and clinical and neuropsychological assessment can be combined to measure the progression of mild cognitive impairment (MCI) and early Alzheimer s disease (AD). The FreeSurfer image analysis software (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://surfer.nmr.mgh.harvard.edu/">https://surfer.nmr.mgh.harvard.edu/</uri>) was used by a team from the University of California, San Francisco (UCSF) to conduct volumetric segmentations and cortical reconstruction using imaging data from the ADNI database, which includes all ADNI subprojects (ADNI 1, 2, GO, 3). We gained the MRI data from the ADNI website and continued to implement the subsequent pre-processing steps:
+<list list-type="simple"><list-item><label>•</label><p>Removal of features with missing values in more than half of the sample;</p></list-item><list-item><label>•</label><p>Exclusion of individual participants who did not have BL and M06 MRI;</p></list-item><list-item><label>•</label><p>Missing data were filled with average of the features;</p></list-item><list-item><label>•</label><p>Removal of cognitive function assessments for individuals with missing follow-up points in longitudinal studies;</p></list-item><list-item><label>•</label><p>For AD dynamic prediction, exclude individuals who did not have follow-up MRI detections.</p></list-item></list>After the pre-processing steps, there are a total of 313 MRI features. which can be classified into five categories: the volumes of cortical parcellations (CV), the volumes of specific white matter parcellations (SV), the total surface area of the cortex (SA), average cortical thickness (TA) and standard deviation in cortical thickness (TS). <xref rid="table1" ref-type="table">Table 1</xref> depicts the demographic features of the ADNI MRI data utilised in this research.<table-wrap position="float" id="table1" orientation="portrait"><label>TABLE 1</label><caption><title>Demographic Characteristic of the Studied Subjects Valued are Specified as Mean ± Standard Deviation. (The Notation “M12” Indicates the Time Point 12 Months After the First Visit, “M24” Indicates the Time Point 24 Months After the First Visit, etc)</title></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="yang.t1-3219775.jpg"/><table frame="box" rules="all" cellpadding="5"><colgroup span="1"><col span="4"/></colgroup><thead><tr><th colspan="1" rowspan="1">Time point</th><th colspan="1" rowspan="1">Attribute</th><th colspan="1" rowspan="1">MMSE</th><th colspan="1" rowspan="1">ADAS-Cog</th></tr></thead><tbody><tr><td colspan="1" rowspan="3">M12</td><td colspan="1" rowspan="1">Sample size (CN, MCI, AD)</td><td colspan="1" rowspan="1">1332 (358, 725,249)</td><td colspan="1" rowspan="1">1299 (351, 716,232)</td></tr><tr><td colspan="1" rowspan="1">Gender(f/m)</td><td colspan="1" rowspan="1">579/753</td><td colspan="1" rowspan="1">565/734</td></tr><tr><td colspan="1" rowspan="1">Age</td><td colspan="1" rowspan="1">75.0±7.1</td><td colspan="1" rowspan="1">75.1±7.1</td></tr><tr><td colspan="1" rowspan="3">M24</td><td colspan="1" rowspan="1">Sample size (CN, MCI, AD)</td><td colspan="1" rowspan="1">1110(330, 617,163)</td><td colspan="1" rowspan="1">1066 (321, 602,143)</td></tr><tr><td colspan="1" rowspan="1">Gender(f/m)</td><td colspan="1" rowspan="1">484/626</td><td colspan="1" rowspan="1">464/602</td></tr><tr><td colspan="1" rowspan="1">Age</td><td colspan="1" rowspan="1">76.0±7.2</td><td colspan="1" rowspan="1">73.±7.1</td></tr><tr><td colspan="1" rowspan="3">M36</td><td colspan="1" rowspan="1">Sample size (CN, MCI, AD)</td><td colspan="1" rowspan="1">710 (192,509, 9)</td><td colspan="1" rowspan="1">677 (186,485, 6)</td></tr><tr><td colspan="1" rowspan="1">Gender(f/m)</td><td colspan="1" rowspan="1">307/403</td><td colspan="1" rowspan="1">292/385</td></tr><tr><td colspan="1" rowspan="1">Age</td><td colspan="1" rowspan="1">76.7±7.0</td><td colspan="1" rowspan="1">73.5±7.0</td></tr><tr><td colspan="1" rowspan="3">M48</td><td colspan="1" rowspan="1">Sample size (CN, MCI, AD)</td><td colspan="1" rowspan="1">456 (120, 334, 2)</td><td colspan="1" rowspan="1">431 (114,315, 2)</td></tr><tr><td colspan="1" rowspan="1">Gender(f/m)</td><td colspan="1" rowspan="1">195/261</td><td colspan="1" rowspan="1">185/246</td></tr><tr><td colspan="1" rowspan="1">Age</td><td colspan="1" rowspan="1">77.1±6.9</td><td colspan="1" rowspan="1">73.1±6.9</td></tr></tbody></table></alternatives></table-wrap></p><p>For the predictive target of the approach, cognitive scores (MMSE and ADAS-Cog) can be used to precisely differentiate between CN, MCI and AD in the clinical scenarios. For MMSE with score range 0–30, 30 is represented as cognitively no dementia, 29–26 is represented as questionable dementia, 25–21 is represented as mild dementia, 20–11 is represented as moderate dementia, 10–0 is represented as severe dementia. For ADAS-Cog with score range 0–70, where higher scores indicate greater cognitive impairment.</p></sec><sec id="sec4b"><label>B.</label><title>Evaluation Metrics</title><p>The similarity tensor of morphological variation trends between MRI brain biomarkers was utilised to build predictive models for each target. The data was randomly divided into a training set and a test set in a ratio of 9:1. As the number of model parameters (<inline-formula>
+<tex-math notation="LaTeX" id="M80">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\lambda $
+\end{document}</tex-math></inline-formula>, <inline-formula>
+<tex-math notation="LaTeX" id="M81">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\beta $
+\end{document}</tex-math></inline-formula> and <inline-formula>
+<tex-math notation="LaTeX" id="M82">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\theta$
+\end{document}</tex-math></inline-formula>), the hyperparameters <inline-formula>
+<tex-math notation="LaTeX" id="M83">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\alpha $
+\end{document}</tex-math></inline-formula> and the latent factor <inline-formula>
+<tex-math notation="LaTeX" id="M84">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$r$
+\end{document}</tex-math></inline-formula> must be designated during the training phase, we utilise 5-fold cross-validation on the training data to select them. The research evaluates the prediction performance of various methods for each single time point utilising the root mean square error (rMSE) as the major evaluation metric. We use normalised mean square error (nMSE) for the overall regression performance metrics, which is commonly utilised in multi-task learning research <xref rid="ref31" ref-type="bibr">[31]</xref>. The rMSE and nMSE are stated as follows:<disp-formula id="deqn7-deqn8">
+<tex-math notation="LaTeX" id="M85">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}\begin{align*} \mathrm {rMSE}(\mathrm {y}, \hat {y})=&amp;\sqrt {\frac {\| \mathrm {y}-\hat {\mathrm {y}}_{2}^{2}}{n}} \tag{7}\\ \mathrm {nMSE}(\mathrm {Y}, \hat {\mathrm {Y}})=&amp;\frac {\sum _{i=1}^{t}\left \|{\mathrm {Y}_{i}-, \widehat {\mathrm {Y}}_{i}}\right \|_{2}^{2} / \sigma \left ({\mathrm {Y}_{i}}\right)}{\sum _{i=1}^{t} n_{i}}\tag{8}\end{align*}
+\end{document}</tex-math></disp-formula> where for rMSE, y is the ground truth of target at a single time point and <inline-formula>
+<tex-math notation="LaTeX" id="M86">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\hat {y}$
+\end{document}</tex-math></inline-formula> is the corresponding prediction by a model. For nMSE, Y<sub><italic toggle="yes">i</italic></sub> is the target’s ground truth at time point <inline-formula>
+<tex-math notation="LaTeX" id="M87">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$i$
+\end{document}</tex-math></inline-formula> and <inline-formula>
+<tex-math notation="LaTeX" id="M88">\documentclass[12pt]{minimal}
+\usepackage{amsmath}
+\usepackage{wasysym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\setlength{\oddsidemargin}{-69pt}
+\begin{document}
+}{}$\hat {Y}_{i}$
+\end{document}</tex-math></inline-formula> is the corresponding prediction from a model. We reported the mean and standard deviation based on 20 iterations of experiments on dissimilar splits of data.</p></sec></sec><sec id="sec5"><label>V.</label><title>Results and Discussion</title><sec id="sec5a"><label>A.</label><title>Comparison With the Benchmarks and State-of-the-Arts</title><p>We utilised the Mahalanobis distance to construct a tensor of morphological variations in the brain, combined with the proposed tensor multi-task ensemble learning (TMTL-GB) algorithm to compare with single task learning, benchmarks and state-of-the-art multi-task learning algorithms that were chosen as competitive methods in studies to predict clinical deterioration, including Ridge regression (Ridge) <xref rid="ref32" ref-type="bibr">[32]</xref>, Lasso regression (Lasso) <xref rid="ref33" ref-type="bibr">[33]</xref>, Temporal Group Lasso (TGL) <xref rid="ref8" ref-type="bibr">[8]</xref>, Non-convex Fused Sparse Group Lasso (nFSGL1) <xref rid="ref34" ref-type="bibr">[34]</xref>, Convex Fused Sparse Group Lasso (cFSGL) <xref rid="ref8" ref-type="bibr">[8]</xref>, Non-Convex Calibrated Multi-Task Learning (NC-CMTL) <xref rid="ref35" ref-type="bibr">[35]</xref>, Fused Laplacian Sparse Group Lasso (FL-SGL) <xref rid="ref36" ref-type="bibr">[36]</xref>, Joint feature and task aware multi-task feature learning (FTS-MTFL) <xref rid="ref37" ref-type="bibr">[37]</xref>, Group Asymmetric Multi-Task Learning (GAMTL) <xref rid="ref38" ref-type="bibr">[38]</xref> and Dual feature correlation guided multi-task feature learning (dMTLc) <xref rid="ref39" ref-type="bibr">[39]</xref>. The experimental results of MMSE and ADAS-Cog predictions are shown in <xref rid="table2" ref-type="table">Table 2</xref> and <xref rid="table3" ref-type="table">3</xref>.<table-wrap position="float" id="table2" orientation="portrait"><label>TABLE 2</label><caption><title>Comparison of the Results From Our Proposed Methods With Benchmarks and State-of-the-Art Methods for MMSE at Time Points M12 to M48. The Best Results are Bolded</title></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="yang.t2-3219775.jpg"/><table frame="box" rules="all" cellpadding="5"><colgroup span="1"><col span="7"/></colgroup><thead><tr><th colspan="1" rowspan="1">Target: MMSE</th><th colspan="1" rowspan="1">Input MRI data</th><th colspan="1" rowspan="1">nMSE</th><th colspan="1" rowspan="1">M12 rMSE</th><th colspan="1" rowspan="1">M24 rMSE</th><th colspan="1" rowspan="1">M36 rMSE</th><th colspan="1" rowspan="1">M48 rMSE</th></tr></thead><tbody><tr><td colspan="1" rowspan="3">Ridge</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">3.1052±0.5803</td><td colspan="1" rowspan="1">4.5980±0.5196</td><td colspan="1" rowspan="1">5.0259±0.4925</td><td colspan="1" rowspan="1">5.5803±0.4948</td><td colspan="1" rowspan="1">6.3998±0.7111</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">7.5077±1.8073</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">7.8248±1.0884</td><td colspan="1" rowspan="1">8.3919±1.1916</td><td colspan="1" rowspan="1">8.6505±0.7495</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">10.1467±4.9847</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">12.5386=1=1.4103</td><td colspan="1" rowspan="1">12.0900±1.9673</td></tr><tr><td colspan="1" rowspan="3">Lasso</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">1.0635±0.1408</td><td colspan="1" rowspan="1">2.4041±0.2048</td><td colspan="1" rowspan="1">2.8315±0.2728</td><td colspan="1" rowspan="1">3.3494±0.4011</td><td colspan="1" rowspan="1">4.6762±0.5320</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">1.1887±0.3307</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.0930±0.6897</td><td colspan="1" rowspan="1">3.5850±0.8825</td><td colspan="1" rowspan="1">4.2383±0.6208</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">1.1931±0.4177</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.5953±0.7182</td><td colspan="1" rowspan="1">4.1443±0.9627</td></tr><tr><td colspan="1" rowspan="3">TGL</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.7557±0.0948</td><td colspan="1" rowspan="1">2.3491±0.2496</td><td colspan="1" rowspan="1">2.3924±0.1822</td><td colspan="1" rowspan="1">2.6532±0.4482</td><td colspan="1" rowspan="1">3.1915±0.2351</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.6448±0.1526</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">2.2461±0.1647</td><td colspan="1" rowspan="1">2.4579±0.2869</td><td colspan="1" rowspan="1">2.7096±0.4303</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">1.6408±0.2564</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.9806±0.5370</td><td colspan="1" rowspan="1">5.1047±0.4786</td></tr><tr><td colspan="1" rowspan="3">nCFGLl</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.4609±0.0694</td><td colspan="1" rowspan="1">1.5990±0.2039</td><td colspan="1" rowspan="1">1.9405±0.2753</td><td colspan="1" rowspan="1">2.2243±0.4086</td><td colspan="1" rowspan="1">3.1998±0.4022</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.3970±0.0257</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">1.5791±0.2059</td><td colspan="1" rowspan="1">1.7253±0.1967</td><td colspan="1" rowspan="1">2.3118±0.5327</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.4456±0.1265</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">2.0062±0.3586</td><td colspan="1" rowspan="1">2.6751±0.5949</td></tr><tr><td colspan="1" rowspan="3">cFSGL</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.6899±0.1378</td><td colspan="1" rowspan="1">1.9939±0.2025</td><td colspan="1" rowspan="1">2.2874±0.2635</td><td colspan="1" rowspan="1">2.4874±0.2099</td><td colspan="1" rowspan="1">3.1284±0.4442</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.5472±0.0330</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">1.8646±0.2345</td><td colspan="1" rowspan="1">2.0759±0.3413</td><td colspan="1" rowspan="1">2.9894±0.3671</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">1.1483±0.4289</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.8737±0.7312</td><td colspan="1" rowspan="1">4.1492±1.0407</td></tr><tr><td colspan="1" rowspan="3">NC-CMTL</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.4923±0.0990</td><td colspan="1" rowspan="1">1.5901±0.2152</td><td colspan="1" rowspan="1">1.7454±0.2432</td><td colspan="1" rowspan="1">1.9506±0.2389</td><td colspan="1" rowspan="1">2.8301±0.4291</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.5309±0.0547</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">1.8492±0.3216</td><td colspan="1" rowspan="1">2.1096±0.3341</td><td colspan="1" rowspan="1">3.1799±0.3126</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.5095±0.0916</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">2.1880±0.4971</td><td colspan="1" rowspan="1">3.3899±0.2483</td></tr><tr><td colspan="1" rowspan="3">FL-SGL</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.6186±0.1324</td><td colspan="1" rowspan="1">1.5949±0.2362</td><td colspan="1" rowspan="1">1.8812±0.2813</td><td colspan="1" rowspan="1">2.0049±0.2533</td><td colspan="1" rowspan="1">2.9717±0.5587</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.5658±0.1009</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">1.8750±0.2796</td><td colspan="1" rowspan="1">2.1844±0.2363</td><td colspan="1" rowspan="1">3.5419±0.2596</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.5135±0.0647</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">2.4659±0.2989</td><td colspan="1" rowspan="1">3.4615±0.5029</td></tr><tr><td colspan="1" rowspan="3">FTS-MTFL</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.4434±0.0477</td><td colspan="1" rowspan="1">1.6019±0.2208</td><td colspan="1" rowspan="1">1.8825±0.2288</td><td colspan="1" rowspan="1">2.1584±0.3356</td><td colspan="1" rowspan="1">2.7485±0.2815</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.5166±0.1385</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">1.7910±0.2323</td><td colspan="1" rowspan="1">2.1124±0.3644</td><td colspan="1" rowspan="1">2.9670±0.6952</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.4725±0.0982</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">2.0178±0.2423</td><td colspan="1" rowspan="1">3.1199±0.4141</td></tr><tr><td colspan="1" rowspan="3">GAMTL</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.4212±0.0224</td><td colspan="1" rowspan="1">1.6861±0.1608</td><td colspan="1" rowspan="1">1.7414±0.1827</td><td colspan="1" rowspan="1">2.1726±0.3309</td><td colspan="1" rowspan="1">3.1652±0.4937</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.4837±0.0378</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">1.9608±0.2191</td><td colspan="1" rowspan="1">2.0752±0.3493</td><td colspan="1" rowspan="1">3.0218±0.6099</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.4327±0.1646</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">1.9180±0.1201</td><td colspan="1" rowspan="1">2.9964±0.5195</td></tr><tr><td colspan="1" rowspan="3">dMTLc</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.4211 ±0.0670</td><td colspan="1" rowspan="1">1.4728±0.1852</td><td colspan="1" rowspan="1">1.7208±0.0741</td><td colspan="1" rowspan="1">2.0877±0.4341</td><td colspan="1" rowspan="1">2.7384±0.4462</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.4459±0.0502</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">1.7908±0.1423</td><td colspan="1" rowspan="1">2.1016±0.3219</td><td colspan="1" rowspan="1">3.1987±0.2949</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.4179±0.0387</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">2.2954±0.3773</td><td colspan="1" rowspan="1">2.7465±0.6070</td></tr><tr><td colspan="1" rowspan="3">TMTL-GB</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.3119±0.0421</td><td colspan="1" rowspan="1">1.4577±0.1665</td><td colspan="1" rowspan="1">1.4959±0.1587</td><td colspan="1" rowspan="1">1.5520±0.1450</td><td colspan="1" rowspan="1">2.2129±0.2111</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.3014±0.0574</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">1.2534±0.0561</td><td colspan="1" rowspan="1">1.3919±0.0809</td><td colspan="1" rowspan="1">2.0594±0.1549</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.2552±0.0283</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">1.2963±0.0584</td><td colspan="1" rowspan="1">1.9356±0.0146</td></tr></tbody></table></alternatives></table-wrap><table-wrap position="float" id="table3" orientation="portrait"><label>TABLE 3</label><caption><title>Comparison of the Results From Our Proposed Methods With Benchmarks and State-of-the-Art Methods for ADAS-Cog at Time Points M12 to M48. The Best Results are Bolded</title></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="yang.t3-3219775.jpg"/><table frame="box" rules="all" cellpadding="5"><colgroup span="1"><col span="7"/></colgroup><thead><tr><th colspan="1" rowspan="1">Target: ADAS-Cog</th><th colspan="1" rowspan="1">Input MRI data</th><th colspan="1" rowspan="1">nMSE</th><th colspan="1" rowspan="1">M12 rMSE</th><th colspan="1" rowspan="1">M24 rMSE</th><th colspan="1" rowspan="1">M36 rMSE</th><th colspan="1" rowspan="1">M48 rMSE</th></tr></thead><tbody><tr><td colspan="1" rowspan="3">Ridge</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">1.3773±0.1298</td><td colspan="1" rowspan="1">9.4358±0.9725</td><td colspan="1" rowspan="1">9.7975±1.1718</td><td colspan="1" rowspan="1">10.9876±1.3781</td><td colspan="1" rowspan="1">14.6598±1.8363</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">1.5331±0.2192</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">10.4089±1.4291</td><td colspan="1" rowspan="1">11.5586±1.5590</td><td colspan="1" rowspan="1">15.1463±1.9747</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">1.7338±0.1754</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">12.1387±1.5305</td><td colspan="1" rowspan="1">14.8322±1.3309</td></tr><tr><td colspan="1" rowspan="3">Lasso</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.7974±0.0917</td><td colspan="1" rowspan="1">6.4992±0.5238</td><td colspan="1" rowspan="1">6.9227±1.1271</td><td colspan="1" rowspan="1">8.6765±1.0948</td><td colspan="1" rowspan="1">11.9426±1.6025</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.7631±0.0937</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">6.6594±0.5650</td><td colspan="1" rowspan="1">8.9510±1.2444</td><td colspan="1" rowspan="1">11.3838±1.4890</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.7186±0.0912</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">8.4415±1.2726</td><td colspan="1" rowspan="1">10.4232±1.6738</td></tr><tr><td colspan="1" rowspan="3">TGL</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.3688±0.0424</td><td colspan="1" rowspan="1">4.7842±0.3764</td><td colspan="1" rowspan="1">4.6610±0.5169</td><td colspan="1" rowspan="1">5.7494±0.5775</td><td colspan="1" rowspan="1">7.7067±1.2795</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.4229±0.0806</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">5.4470±0.5740</td><td colspan="1" rowspan="1">5.5116±0.7395</td><td colspan="1" rowspan="1">8.5023±1.8449</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.2772±0.0315</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">4.4827±0.3285</td><td colspan="1" rowspan="1">7.1983±1.1176</td></tr><tr><td colspan="1" rowspan="3">nCFGLl</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.2255±0.0256</td><td colspan="1" rowspan="1">3.6844±0.2590</td><td colspan="1" rowspan="1">3.4506±0.2410</td><td colspan="1" rowspan="1">3.8452±0.1968</td><td colspan="1" rowspan="1">7.5590±1.5356</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.2144±0.0462</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.8132±0.7284</td><td colspan="1" rowspan="1">3.6613±0.2673</td><td colspan="1" rowspan="1">6.4116±0.8013</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.2327±0.0443</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.9810L0.4929</td><td colspan="1" rowspan="1">6.5759±1.9124</td></tr><tr><td colspan="1" rowspan="3">cFSGL</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.3623±0.0488</td><td colspan="1" rowspan="1">4.1972±0.2893</td><td colspan="1" rowspan="1">5.0202±0.5373</td><td colspan="1" rowspan="1">5.3536±0.5622</td><td colspan="1" rowspan="1">8.2545±2.1690</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.2801±0.0532</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">4.1486±0.4266</td><td colspan="1" rowspan="1">5.0682±0.3117</td><td colspan="1" rowspan="1">6.3823±1.0508</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.2359±0.0343</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">4.3043±0.5869</td><td colspan="1" rowspan="1">6.9518±1.6547</td></tr><tr><td colspan="1" rowspan="3">NC-CMTL</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.2386±0.0351</td><td colspan="1" rowspan="1">3.7329±0.4119</td><td colspan="1" rowspan="1">4.0644±0.6422</td><td colspan="1" rowspan="1">4.2489±0.4014</td><td colspan="1" rowspan="1">5.6502±0.9988</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.1757±0.0226</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.3772±0.2310</td><td colspan="1" rowspan="1">4.0025±0.3989</td><td colspan="1" rowspan="1">4.9068±0.2093</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.1955±0.0217</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.9598±0.2237</td><td colspan="1" rowspan="1">5.9555±1.1476</td></tr><tr><td colspan="1" rowspan="3">FL-SGL</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.2505±0.0423</td><td colspan="1" rowspan="1">4.4357±0.6086</td><td colspan="1" rowspan="1">4.1841±0.3426</td><td colspan="1" rowspan="1">4.7807±0.5122</td><td colspan="1" rowspan="1">6.8256±0.3117</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.3197±0.0457</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">4.9369±0.4912</td><td colspan="1" rowspan="1">4.3522±0.7789</td><td colspan="1" rowspan="1">6.8449±0.5871</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.2666±0.0140</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">4.7754±0.3305</td><td colspan="1" rowspan="1">8.1430L0.8817</td></tr><tr><td colspan="1" rowspan="3">FTS-MTFL</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.2360±0.0306</td><td colspan="1" rowspan="1">3.9568±0.3706</td><td colspan="1" rowspan="1">4.0168±0.5553</td><td colspan="1" rowspan="1">4.1329±0.2210</td><td colspan="1" rowspan="1">6.4760±1.4213</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.2051±0.0226</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.6510±0.3699</td><td colspan="1" rowspan="1">4.3284±0.5781</td><td colspan="1" rowspan="1">6.0530±1.4375</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.2252±0.0539</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.8780±0.4388</td><td colspan="1" rowspan="1">5.6164±1.0738</td></tr><tr><td colspan="1" rowspan="3">GAMTL</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.2146±0.0381</td><td colspan="1" rowspan="1">3.9110±0.3454</td><td colspan="1" rowspan="1">3.1081±0.5278</td><td colspan="1" rowspan="1">3.7255±0.4643</td><td colspan="1" rowspan="1">6.4080±0.9305</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.1963±0.0089</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.7110±0.4135</td><td colspan="1" rowspan="1">4.3212±0.9916</td><td colspan="1" rowspan="1">5.8161±0.9832</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.2066±0.0341</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">4.5519±0.3304</td><td colspan="1" rowspan="1">6.5930±0.9055</td></tr><tr><td colspan="1" rowspan="3">dMTLc</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.2139±0.0286</td><td colspan="1" rowspan="1">4.0192±0.1445</td><td colspan="1" rowspan="1">3.4101±0.4066</td><td colspan="1" rowspan="1">3.8021±0.5264</td><td colspan="1" rowspan="1">6.6308±1.1940</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.1959±0.0270</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.6894±0.2469</td><td colspan="1" rowspan="1">3.7553±0.8032</td><td colspan="1" rowspan="1">6.7850±0.5438</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.2007±0.0408</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">4.1612±0.6067</td><td colspan="1" rowspan="1">6.4822±0.8864</td></tr><tr><td colspan="1" rowspan="3">TMTL-GB</td><td colspan="1" rowspan="1">BL, M06</td><td colspan="1" rowspan="1">0.1919±0.0160</td><td colspan="1" rowspan="1">3.4351±03292</td><td colspan="1" rowspan="1">3.2926±0.1513</td><td colspan="1" rowspan="1">3.6045±0.2307</td><td colspan="1" rowspan="1">4.91 ll±0.3109</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12</td><td colspan="1" rowspan="1">0.1673±0.0152</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.2294±0.1870</td><td colspan="1" rowspan="1">3.6290±0.5421</td><td colspan="1" rowspan="1">4.5516±0.6506</td></tr><tr><td colspan="1" rowspan="1">BL, M06, M12, M24</td><td colspan="1" rowspan="1">0.1584±0.0254</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">–</td><td colspan="1" rowspan="1">3.5645±0.3680</td><td colspan="1" rowspan="1">4.2781±0.5841</td></tr></tbody></table></alternatives></table-wrap></p><p>For overall regression performance, our proposed approach outperforms benchmarks and state-of-the-art approaches in terms of nMSE for both cognitive scores MMSE and ADAS-Cog. And for all individual time points, the proposed approach obtains a smaller rMSE than other approaches. The followings are our main observations: 1) The proposed tensor MTL model outperforms single-task learning models, benchmarks and state-of-the-art MTL models, demonstrating the utilise of morphological variation trend similarity calculations and tensor latent factor hypothesis in our MTL formulation. 2) The proposed tensor MTL method significantly improves the prediction stability. The results obtained through 20 iterations have a lower standard deviation compared to other comparative methods. This may be due to the addition of biomarker latent factors to the prediction algorithm to increase stability. 3) The proposed tensor multi-task ensemble learning can effectively aggregate the temporally continuous MRI records of subjects to improve the prediction accuracy, and with the increase of temporally continuous MRI records, the prediction accuracy increases for subsequent time points. In contrast, the addition of temporally continuous MRI records had no significant effect on benchmarks and state-of-the-art competitive methods.</p></sec><sec id="sec5b"><label>B.</label><title>Interpretability of Spatio-Temporal Relationships Between Biomarkers</title><p>Currently, there is no cure for AD, therefore the key to current treatment is early detection and prevention of AD, therefore, identifying important spatio-temporal biomarker relationships in early MRI data can help clinicians to identify patients with suspected AD for early prevention. <xref rid="table4" ref-type="table">Tables 4</xref>, <xref rid="table5" ref-type="table">5</xref>, <xref rid="table6" ref-type="table">6</xref> and <xref rid="table7" ref-type="table">7</xref> provide the top 10 brain biomarker relationships in descending order of weighted parameter values for MMSE prediction (since the MMSE sample size was higher than the ADAS-Cog at all time points) at different time points for the proposed TMTL-GB model. Higher values indicate a greater impact on the final prediction.<table-wrap position="float" id="table4" orientation="portrait"><label>TABLE 4</label><caption><title>The Top-10 Rank Brain Biomarker Relationships With Time Point M12 for the Proposed TMTL-GB Model on MMSE Prediction</title></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="yang.t4-3219775.jpg"/><table frame="box" rules="all" cellpadding="5"><colgroup span="1"><col span="3"/></colgroup><thead><tr><th colspan="1" rowspan="1">Rank</th><th colspan="1" rowspan="1">Biomarker relationship</th><th colspan="1" rowspan="1">Weight parameter value</th></tr></thead><tbody><tr><td colspan="1" rowspan="1">1</td><td colspan="1" rowspan="1">Vol(C). of R.RostralMiddleFrontal (RMF.R) - Surf. Area of R.InferiorTemporal (ITG.R)</td><td colspan="1" rowspan="1">0.4560</td></tr><tr><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">CTA. of L.SuperiorParietal (SPG.L) - Vol(C). of R.InferiorParietal (IPL.R)</td><td colspan="1" rowspan="1">0.4452</td></tr><tr><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">CTA. of R.ParsTriangularis (PTRI.R) - CTA. of L.Bankssts (BAN.L)</td><td colspan="1" rowspan="1">0.4434</td></tr><tr><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">Vol(WM). of CorpusCallosumMidAnterior (CCMA) - CTA. of L.TransverseTemporal (TTEM.L)</td><td colspan="1" rowspan="1">0.4402</td></tr><tr><td colspan="1" rowspan="1">5</td><td colspan="1" rowspan="1">Vol(WM). of L.Caudate (CAU.L) - CTStd. of R.InferiorTemporal (ITG.R)</td><td colspan="1" rowspan="1">0.4274</td></tr><tr><td colspan="1" rowspan="1">6</td><td colspan="1" rowspan="1">Vol(C). of L.SuperiorFrontal (SFGdor.L) - Surf. Area of L.SuperiorTemporal (STG.L)</td><td colspan="1" rowspan="1">0.4154</td></tr><tr><td colspan="1" rowspan="1">7</td><td colspan="1" rowspan="1">Surf. Area of R.Pericalcarine (CAL.R) - Surf. Area of R.LateralOrbitofrontal (LORB.R)</td><td colspan="1" rowspan="1">0.4076</td></tr><tr><td colspan="1" rowspan="1">8</td><td colspan="1" rowspan="1">Surf. Area of R.Postcentral (PoCG.R) - CTStd. of R.Insula (INS.R)</td><td colspan="1" rowspan="1">0.4057</td></tr><tr><td colspan="1" rowspan="1">9</td><td colspan="1" rowspan="1">Vol(C). of L.ParsTriangularis (PTRI.L) - Vol(WM). of CorpusCallosumMidAnterior (CCMA)</td><td colspan="1" rowspan="1">0.4039</td></tr><tr><td colspan="1" rowspan="1">10</td><td colspan="1" rowspan="1">Surf. Area of R.Paracentral (PCL.R) - Surf. Area of L.Precuneus (PCUN.L)</td><td colspan="1" rowspan="1">0.4010</td></tr></tbody></table></alternatives></table-wrap><table-wrap position="float" id="table5" orientation="portrait"><label>TABLE 5</label><caption><title>The Top-10 Rank Brain Biomarker Relationships With Time Point M24 for the Proposed TMTL-GB Model on MMSE Prediction</title></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="yang.t5-3219775.jpg"/><table frame="box" rules="all" cellpadding="5"><colgroup span="1"><col span="3"/></colgroup><thead><tr><th colspan="1" rowspan="1">Rank</th><th colspan="1" rowspan="1">Biomarker relationship</th><th colspan="1" rowspan="1">Weight parameter value</th></tr></thead><tbody><tr><td colspan="1" rowspan="1">1</td><td colspan="1" rowspan="1">CTA. of R.ParsTriangularis (PTRI.R) - CTA. of L.Bankssts (BAN.L)</td><td colspan="1" rowspan="1">0.4707</td></tr><tr><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">Vol(C). of R.RostralMiddleFrontal (RMF.R) - Surf. Area of R.InferiorTemporal (ITG.R)</td><td colspan="1" rowspan="1">0.4698</td></tr><tr><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">Vol(C). of L.SuperiorFrontal (SFGdor.L) - Surf. Area of L.SuperiorTemporal (STG.L)</td><td colspan="1" rowspan="1">0.4671</td></tr><tr><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">Vol(WM). of L.Caudate (CAU.L) - CTStd. of R.InferiorTemporal (ITG.R)</td><td colspan="1" rowspan="1">0.4576</td></tr><tr><td colspan="1" rowspan="1">5</td><td colspan="1" rowspan="1">Vol(WM). of CorpusCallosumMidAnterior (CCMA) - CTA. of L.TransverseTemporal (TTEM.L)</td><td colspan="1" rowspan="1">0.4492</td></tr><tr><td colspan="1" rowspan="1">6</td><td colspan="1" rowspan="1">Surf. Area of R.Paracentral (PCL.R) - Surf. Area of L.Precuneus (PCUN.L)</td><td colspan="1" rowspan="1">0.4482</td></tr><tr><td colspan="1" rowspan="1">7</td><td colspan="1" rowspan="1">CTA. of L.SuperiorParietal (SPG.L) - Vol(C). of R.InferiorParietal (IPL.R)</td><td colspan="1" rowspan="1">0.4380</td></tr><tr><td colspan="1" rowspan="1">8</td><td colspan="1" rowspan="1">Surf. Area of R.Postcentral (PoCG.R) - CTStd. of R.Insula (INS.R)</td><td colspan="1" rowspan="1">0.4312</td></tr><tr><td colspan="1" rowspan="1">9</td><td colspan="1" rowspan="1">Vol(WM). of CorpusCallosumMidAnterior (CCMA) - Surf. Area of R.MiddleTemporal (MTG.R)</td><td colspan="1" rowspan="1">0.4196</td></tr><tr><td colspan="1" rowspan="1">10</td><td colspan="1" rowspan="1">Surf. Area of L.CaudalMiddleFrontal (CMF.L) - CTA. of R.Bankssts (BAN.R)</td><td colspan="1" rowspan="1">0.4192</td></tr></tbody></table></alternatives></table-wrap><table-wrap position="float" id="table6" orientation="portrait"><label>TABLE 6</label><caption><title>The Top-10 Rank Brain Biomarker Relationships With Time Point M36 for the Proposed TMTL-GB Model on MMSE Prediction</title></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="yang.t6-3219775.jpg"/><table frame="box" rules="all" cellpadding="5"><colgroup span="1"><col span="3"/></colgroup><thead><tr><th colspan="1" rowspan="1">Rank</th><th colspan="1" rowspan="1">Biomarker relationship</th><th colspan="1" rowspan="1">Weight parameter value</th></tr></thead><tbody><tr><td colspan="1" rowspan="1">1</td><td colspan="1" rowspan="1">Vol(C). of R.RostralMiddleFrontal (RMF.R) - Surf. Area of R.InferiorTemporal (ITG.R)</td><td colspan="1" rowspan="1">0.5619</td></tr><tr><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">CTA. of L.SuperiorParietal (SPG.L) - Vol(C). of R.InferiorParietal (IPL.R)</td><td colspan="1" rowspan="1">0.5093</td></tr><tr><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">CTA. of R.ParsTriangularis (PTRI.R) - CTA. of L.Bankssts (BAN.L)</td><td colspan="1" rowspan="1">0.5080</td></tr><tr><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">Vol(WM). of L.Caudate (CAU.L) - CTStd. of R.InferiorTemporal (ITG.R)</td><td colspan="1" rowspan="1">0.5049</td></tr><tr><td colspan="1" rowspan="1">5</td><td colspan="1" rowspan="1">Vol(C). of L.SuperiorFrontal (SFGdor.L) - Surf. Area of L.SuperiorTemporal (STG.L)</td><td colspan="1" rowspan="1">0.4962</td></tr><tr><td colspan="1" rowspan="1">6</td><td colspan="1" rowspan="1">Vol(WM). of CorpusCallosumMidAnterior (CCMA) - CTA. of L.TransverseTemporal (TTEM.L)</td><td colspan="1" rowspan="1">0.4851</td></tr><tr><td colspan="1" rowspan="1">7</td><td colspan="1" rowspan="1">CTA. of R.ParsTriangularis (PTRI.R) - Surf. Area of R.Lingual (LING.R)</td><td colspan="1" rowspan="1">0.4739</td></tr><tr><td colspan="1" rowspan="1">8</td><td colspan="1" rowspan="1">Surf. Area of R.Paracentral (PCL.R) - Surf. Area of L.Precuneus (PCUN.L)</td><td colspan="1" rowspan="1">0.4697</td></tr><tr><td colspan="1" rowspan="1">9</td><td colspan="1" rowspan="1">Surf. Area of R.Postcentral (PoCG.R) - CTStd. of R.Insula (INS.R)</td><td colspan="1" rowspan="1">0.4660</td></tr><tr><td colspan="1" rowspan="1">10</td><td colspan="1" rowspan="1">Vol(WM). of CorpusCallosumMidAnterior (CCMA) - Surf. Area of R.MiddleTemporal (MTG.R)</td><td colspan="1" rowspan="1">0.4659</td></tr></tbody></table></alternatives></table-wrap><table-wrap position="float" id="table7" orientation="portrait"><label>TABLE 7</label><caption><title>The Top-10 Rank Brain Biomarker Relationships With Time Point M48 for the Proposed TMTL-GB Model on MMSE Prediction</title></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="yang.t7-3219775.jpg"/><table frame="box" rules="all" cellpadding="5"><colgroup span="1"><col span="3"/></colgroup><thead><tr><th colspan="1" rowspan="1">Rank</th><th colspan="1" rowspan="1">Biomarker relationship</th><th colspan="1" rowspan="1">Weight parameter value</th></tr></thead><tbody><tr><td colspan="1" rowspan="1">1</td><td colspan="1" rowspan="1">Vol(C). of R.RostralMiddleFrontal (RMF.R) - Surf. Area of R.InferiorTemporal (ITG.R)</td><td colspan="1" rowspan="1">0.6197</td></tr><tr><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">CTA. of R.ParsTriangularis (PTRI.R) - CTA. of L.Bankssts (BAN.L)</td><td colspan="1" rowspan="1">0.5943</td></tr><tr><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">Vol(WM). of L.Caudate (CAU.L) - CTStd. of R.InferiorTemporal (ITG.R)</td><td colspan="1" rowspan="1">0.5679</td></tr><tr><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">CTA. of R.ParsTriangularis (PTRI.R) - Surf. Area of R.Lingual (LING.R)</td><td colspan="1" rowspan="1">0.5444</td></tr><tr><td colspan="1" rowspan="1">5</td><td colspan="1" rowspan="1">Vol(C). of L.SuperiorFrontal (SFGdor.L) - Surf. Area of L.SuperiorTemporal (STG.L)</td><td colspan="1" rowspan="1">0.5428</td></tr><tr><td colspan="1" rowspan="1">6</td><td colspan="1" rowspan="1">Vol(WM). of CorpusCallosumMidAnterior (CCMA) - CTA. of L.TransverseTemporal (TTEM.L)</td><td colspan="1" rowspan="1">0.5420</td></tr><tr><td colspan="1" rowspan="1">7</td><td colspan="1" rowspan="1">CTA. of R.ParsTriangularis (PTRI.R) - Vol(C). of R.LateralOccipital (LOCC.R)</td><td colspan="1" rowspan="1">0.5396</td></tr><tr><td colspan="1" rowspan="1">8</td><td colspan="1" rowspan="1">CTA. of R.ParsTriangularis (PTRI.R) - Vol(WM). of R.Putamen (PUT.R)</td><td colspan="1" rowspan="1">0.5131</td></tr><tr><td colspan="1" rowspan="1">9</td><td colspan="1" rowspan="1">CTA. of L.SuperiorParietal (SPG.L) - Vol(C). of R.InferiorParietal (IPL.R)</td><td colspan="1" rowspan="1">0.5111</td></tr><tr><td colspan="1" rowspan="1">10</td><td colspan="1" rowspan="1">Surf. Area of R.Postcentral (PoCG.R) - CTStd. of R.Insula (INS.R)</td><td colspan="1" rowspan="1">0.5106</td></tr></tbody></table></alternatives></table-wrap></p><p>In <xref rid="fig4" ref-type="fig">Fig. 4</xref>, we observed a certain similarity in the plots of important brain biomarker relationships at different time points, indicating that there are a number of brain biomarker relationships that are consistently important in the progression of AD and that they can be utilised as potential indicators for the early identification of AD, and in combination with the above tables we discovered that several spatio-temporal relationships between brain biomarkers were significant at all time points. Specifically, they are Vol(C). of R.RostralMiddleFrontal - Surf. Area of R.InferiorTemporal, CTA. of L.SuperiorParietal - Vol(C). of R.InferiorParietal, CTA. of R.ParsTriangularis - CTA. of L.Bankssts, Vol(WM). of CorpusCallosumMidAnterior - CTA. of L.TransverseTemporal, Vol(WM). of L.Caudate - CTStd. of R.InferiorTemporal, Vol(C). of L.SuperiorFrontal - Surf. Area of L.SuperiorTemporal and Surf. Area of R.Postcentral - CTStd. of R.Insula.
+<fig position="float" id="fig4" orientation="portrait"><label>FIGURE 4.</label><caption><p>Visualization for the top-10 rank brain biomarker relationships with different time points for the proposed TMTL-GB model on MMSE prediction. Visualization was performed by the toolkit of BrainNet Viewer <xref rid="ref40" ref-type="bibr">[40]</xref>. The colors of the nodes represent the different biomarker categories and the thickness of the edges represents the importance of the relationship between the biomarkers, with thicker edges representing more important relationships between the biomarkers.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="yang4-3219775.jpg"/></fig></p><p>For Vol(C). of R.RostralMiddleFrontal - Surf. Area of R.InferiorTemporal, the frontal gyrus is related to a person’s literacy and numeracy skills <xref rid="ref41" ref-type="bibr">[41]</xref>; The inferior temporal gyrus is closely related to visual information processing, and abnormalities of the inferior temporal gyrus are associated with semantic memory disorders (e.g. AD), face blindness and cortical color blindness <xref rid="ref42" ref-type="bibr">[42]</xref>. Both are related to the processing and implementation of information in the brain.</p><p>For CTA. of L.SuperiorParietal - Vol(C). of R.InferiorParietal, the superior parietal lobule is associated with spatially oriented brain functions; The inferior parietal lobule is associated with emotional cognition and the interpretation of sensory information, as well as with language, mathematical operations and bodily imagery <xref rid="ref43" ref-type="bibr">[43]</xref>. This correlation can be a factor in causing decline estimation and analytical ability in AD.</p><p>For CTA. of R.ParsTriangularis - CTA. of L.Bankssts, the pars triangularis is associated with the ability to translate from a second or third language back into the mother tongue, with its involvement in semantic processing <xref rid="ref44" ref-type="bibr">[44]</xref>; Bankssts is the posterior part of the superior temporal gyrus, which is responsible for processing auditory signals, including speech, and the comprehension of language <xref rid="ref45" ref-type="bibr">[45]</xref>. Both are correlated with the brain’s linguistic response and semantic processing.</p><p>For Vol(WM). of CorpusCallosumMidAnterior - CTA. of L.TransverseTemporal, the corpus callosum is a fibrous bundle of fibers linking the left and right hemispheres. It maintains coordinated activity between the two hemispheres and connects the corresponding parts of the left and right hemispheres, coordinating the activity between the two halves of the brain and making the brain function as one. If the corpus callosum is impaired, the activity of the two hemispheres is not coordinated <xref rid="ref46" ref-type="bibr">[46]</xref>; The transverse temporal gyrus is the first cortical structure to process auditory information and is part of the primary auditory cortex <xref rid="ref47" ref-type="bibr">[47]</xref>. This correlation can be one of the factors causing reduced physical coordination in AD.</p><p>For Vol(WM). of L.Caudate - CTStd. of R.InferiorTemporal, the caudate nucleus is an important part of the brain’s learning and memory system <xref rid="ref48" ref-type="bibr">[48]</xref>; The inferior temporal gyrus is closely related to visual information processing. This correlation can be one of the factors that cause the decline of learning ability and memory in AD.</p><p>For Vol(C). of L.SuperiorFrontal - Surf. Area of L.SuperiorTemporal, the superior frontal gyrus is involved in higher order cognitive functions of the brain, particularly working memory <xref rid="ref49" ref-type="bibr">[49]</xref>; The superior temporal gyrus includes parts of the auditory cortex as well as the main areas of the language center <xref rid="ref45" ref-type="bibr">[45]</xref>. This correlation can be a factor that causes the co-occurrence of language function and cognitive dysfunction in AD patients.</p><p>For Surf. Area of R.Postcentral - CTStd. of R.Insula, the postcentral gyrus is the seat of the primary somatosensory cortex and is the nerve center of the somatosensory system <xref rid="ref50" ref-type="bibr">[50]</xref>; The insula is thought to be associated with consciousness and to play a role in a variety of functions normally associated with the regulation of emotion or bodily homeostasis, these functions include perception, motor control, self-awareness, cognitive functions <xref rid="ref51" ref-type="bibr">[51]</xref>. This correlation can be one of the factors that cause physical activity impairment in AD.</p><p>AD is clinically characterized by generalized dementia manifestations such as memory impairment, agnosia, aphasia, apraxia, impairment of visuospatial skills, personality and behavioural changes, and executive dysfunction. We can observe that the important spatio-temporal relationships between brain biomarkers indicative of brain functions are all related to the clinical manifestations of AD.</p></sec><sec id="sec5c"><label>C.</label><title>Clinical Application</title><p>In clinical application, our proposed approach can be utilised to obtain a patient’s current MRI data and predict the patient’s cognitive scores at multiple time points in the future, thereby helping clinicians and patients to detect the disease and implement intervention treatment in early stages. Moreover, patients suspected of AD will continue to go to the hospital for MRI testing in real-word application. Subsequent incremental MRI data is wasted if only the baseline model is used or if the patient’s serial examination records cannot be properly integrated. To address this problem, we have applied the concept of ensemble learning to our approach, which allows the model to continuously receive MRI data from subjects and continuously update predictions of future cognitive scores with improved accuracy.</p></sec></sec><sec id="sec6"><label>VI.</label><title>Conclusion</title><p>We proposed a tensor multi-task ensemble learning method based on tensor decomposition for predicting AD progression at different time points to overcome variability and instability in prediction accuracy. In our framework, a prediction model is developed based on spatio-temporal morphological variation trend correlations across biomarkers and multi-task regression, utilising tensor latent factors as multi-task relationships to transfer knowledge and calculate final prediction results. Furthermore, the proposed approach utilises gradient boosting ensemble learning technique integrate temporally continuous MRI recordings to consistently improve predictive accuracy of AD progression. The results of the experiment demonstrate that correlation information can be utilised to identify variations in individual brain structures underlying AD, MCI, and CN, and support the utilisation of correlation data to predict and diagnose AD progression.</p></sec></body><back><ack><title>Acknowledgment</title><p>Alzheimer’s Disease Neuroimaging Initiative is funded by the National Institute on Aging, the National Institute of Biomedical Imaging and Bioengineering, and through generous contributions from the following: AbbVie, Alzheimer’s Association; Alzheimer s Drug Discovery Foundation; Araclon Biotech; BioClinica Inc.; Biogen; Bristol-Myers Squibb Company; CereSpir Inc.; Cogstate; Eisai Inc.; Elan Pharmaceuticals Inc.; Eli Lilly and Company; EuroImmun; F. Hoffmann-La Roche Ltd and its affiliated company Genentech Inc.; Fujirebio; GE Healthcare; IXICO Ltd.; Janssen Alzheimer Immunotherapy Research &amp;amp; Development, LLC; Johnson &amp;amp; Johnson Pharmaceutical Research &amp;amp; Development LLC; Lumosity; Lundbeck; Merck &amp;amp; Company Inc.; Meso Scale Diagnostics, LLC; NeuroRx Research; Neurotrack Technologies; Novartis Pharmaceuticals Corporation; Pfizer Inc.; Piramal Imaging; Servier; Takeda Pharmaceutical Company; and Transition Therapeutics. The Canadian Institutes of Health Research is providing funds to support ADNI clinical sites in Canada. Private sector contributions are facilitated by the Foundation for the National Institutes of Health (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.fnih.org">https://www.fnih.org</uri>). The grantee organization is the Northern California Institute for Research and Education, and the study is coordinated by the Alzheimer s Therapeutic Research Institute at the University of Southern California. ADNI data are disseminated by the Laboratory for Neuro Imaging at the University of Southern California.</p></ack><ref-list><title>References</title><ref id="ref1"><label>[1]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>Z. S.</given-names>
+<surname>Khachaturian</surname></string-name></person-group>, “<article-title>Diagnosis of Alzheimer’s disease</article-title>,” <source>Arch. Neurol.</source>, vol. <volume>42</volume>, no. <issue>11</issue>, pp. <fpage>1097</fpage>–<lpage>1105</lpage>, <year>1985</year>.<pub-id pub-id-type="pmid">2864910</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archneur.1985.04060100083029</pub-id></mixed-citation></ref><ref id="ref2"><label>[2]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>S.</given-names>
+<surname>Tabarestani</surname></string-name></person-group><etal/>, “<article-title>A distributed multitask multimodal approach for the prediction of Alzheimer’s disease in a longitudinal study</article-title>,” <source>NeuroImage</source>, vol. <volume>206</volume>, pp. <fpage>1</fpage>–<lpage>15</lpage>, <month>Feb.</month>
+<year>2020</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroimage.2019.116317</pub-id><pub-id pub-id-type="pmcid">PMC11167621</pub-id><pub-id pub-id-type="pmid">31678502</pub-id></mixed-citation></ref><ref id="ref3"><label>[3]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>X.</given-names>
+<surname>Wang</surname></string-name>, <string-name name-style="western"><given-names>X.</given-names>
+<surname>Zhen</surname></string-name>, <string-name name-style="western"><given-names>Q.</given-names>
+<surname>Li</surname></string-name>, <string-name name-style="western"><given-names>D.</given-names>
+<surname>Shen</surname></string-name>, and <string-name name-style="western"><given-names>H.</given-names>
+<surname>Huang</surname></string-name></person-group>, “<article-title>Cognitive assessment prediction in Alzheimer’s disease by multi-layer multi-target regression</article-title>,” <source>Neuroinformatics</source>, vol. <volume>16</volume>, nos. <issue>3</issue>–<issue>4</issue>, pp. <fpage>285</fpage>–<lpage>294</lpage>, <month>Oct.</month>
+<year>2018</year>.<pub-id pub-id-type="pmid">29802511</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12021-018-9381-1</pub-id><pub-id pub-id-type="pmcid">PMC6378694</pub-id></mixed-citation></ref><ref id="ref4"><label>[4]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>R. S.</given-names>
+<surname>Doody</surname></string-name>, <string-name name-style="western"><given-names>V.</given-names>
+<surname>Pavlik</surname></string-name>, <string-name name-style="western"><given-names>P.</given-names>
+<surname>Massman</surname></string-name>, <string-name name-style="western"><given-names>S.</given-names>
+<surname>Rountree</surname></string-name>, <string-name name-style="western"><given-names>E.</given-names>
+<surname>Darby</surname></string-name>, and <string-name name-style="western"><given-names>W.</given-names>
+<surname>Chan</surname></string-name></person-group>, “<article-title>Predicting progression of Alzheimer’s disease</article-title>,” <source>Nature BMC</source>, vol. <volume>2</volume>, no. <issue>1</issue>, pp. <fpage>1</fpage>–<lpage>9</lpage>, <year>2010</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/alzrt25</pub-id><pub-id pub-id-type="pmcid">PMC2874261</pub-id><pub-id pub-id-type="pmid">20178566</pub-id></mixed-citation></ref><ref id="ref5"><label>[5]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>P.</given-names>
+<surname>Fenn</surname></string-name> and <string-name name-style="western"><given-names>A.</given-names>
+<surname>Gray</surname></string-name></person-group>, “<article-title>Estimating long term cost savings from treatment of Alzheimer’s disease</article-title>,” <source>Pharmacoeconomics</source>, vol. <volume>16</volume>, no. <issue>2</issue>, pp. <fpage>165</fpage>–<lpage>174</lpage>, <year>1999</year>.<pub-id pub-id-type="pmid">10539397</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2165/00019053-199916020-00005</pub-id></mixed-citation></ref><ref id="ref6"><label>[6]</label><mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>S.</given-names>
+<surname>Liu</surname></string-name>, <string-name name-style="western"><given-names>S.</given-names>
+<surname>Liu</surname></string-name>, <string-name name-style="western"><given-names>W.</given-names>
+<surname>Cai</surname></string-name>, <string-name name-style="western"><given-names>S.</given-names>
+<surname>Pujol</surname></string-name>, <string-name name-style="western"><given-names>R.</given-names>
+<surname>Kikinis</surname></string-name>, and <string-name name-style="western"><given-names>D.</given-names>
+<surname>Feng</surname></string-name></person-group>, “<article-title>Early diagnosis of Alzheimer’s disease with deep learning</article-title>,” in <source specific-use="IEEE">Proc. IEEE 11th Int. Symp. Biomed. Imag. (ISBI)</source>, <conf-date>May 2014</conf-date>, pp. <fpage>1015</fpage>–<lpage>1018</lpage>.</mixed-citation></ref><ref id="ref7"><label>[7]</label><mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>M.</given-names>
+<surname>Nguyen</surname></string-name>, <string-name name-style="western"><given-names>N.</given-names>
+<surname>Sun</surname></string-name>, <string-name name-style="western"><given-names>D. C.</given-names>
+<surname>Alexander</surname></string-name>, <string-name name-style="western"><given-names>J.</given-names>
+<surname>Feng</surname></string-name>, and <string-name name-style="western"><given-names>B. T. T.</given-names>
+<surname>Yeo</surname></string-name></person-group>, “<article-title>Modeling Alzheimer’s disease progression using deep recurrent neural networks</article-title>,” in <source>Proc. Int. Workshop Pattern Recognit. Neuroimag. (PRNI)</source>, <conf-date>Jun. 2018</conf-date>, pp. <fpage>1</fpage>–<lpage>4</lpage>.</mixed-citation></ref><ref id="ref8"><label>[8]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>J.</given-names>
+<surname>Zhou</surname></string-name>, <string-name name-style="western"><given-names>J.</given-names>
+<surname>Liu</surname></string-name>, <string-name name-style="western"><given-names>V. A.</given-names>
+<surname>Narayan</surname></string-name>, and <string-name name-style="western"><given-names>J.</given-names>
+<surname>Ye</surname></string-name></person-group>, “<article-title>Modeling disease progression via multi-task learning</article-title>,” <source>NeuroImage</source>, vol. <volume>78</volume>, pp. <fpage>233</fpage>–<lpage>248</lpage>, <month>Jun.</month>
+<year>2013</year>.<pub-id pub-id-type="pmid">23583359</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroimage.2013.03.073</pub-id></mixed-citation></ref><ref id="ref9"><label>[9]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>T. G.</given-names>
+<surname>Kolda</surname></string-name> and <string-name name-style="western"><given-names>B. W.</given-names>
+<surname>Bader</surname></string-name></person-group>, “<article-title>Tensor decompositions and applications</article-title>,” <source>SIAM Rev.</source>, vol. <volume>51</volume>, pp. <fpage>455</fpage>–<lpage>500</lpage>, <month>Aug.</month>
+<year>2008</year>.</mixed-citation></ref><ref id="ref10"><label>[10]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>R.</given-names>
+<surname>Sivera</surname></string-name>, <string-name name-style="western"><given-names>H.</given-names>
+<surname>Delingette</surname></string-name>, <string-name name-style="western"><given-names>M.</given-names>
+<surname>Lorenzi</surname></string-name>, <string-name name-style="western"><given-names>X.</given-names>
+<surname>Pennec</surname></string-name>, and <string-name name-style="western"><given-names>N.</given-names>
+<surname>Ayache</surname></string-name></person-group>, “<article-title>A model of brain morphological changes related to aging and Alzheimer’s disease from cross-sectional assessments</article-title>,” <source>NeuroImage</source>, vol. <volume>198</volume>, pp. <fpage>255</fpage>–<lpage>270</lpage>, <month>Sep.</month>
+<year>2019</year>.<pub-id pub-id-type="pmid">31121298</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroimage.2019.05.040</pub-id></mixed-citation></ref><ref id="ref11"><label>[11]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>P.</given-names>
+<surname>Vemuri</surname></string-name></person-group><etal/>, “<article-title>MRI and CSF biomarkers in normal, MCI, and AD subjects</article-title>,” <source>Neurology</source>, vol. <volume>73</volume>, no. <issue>4</issue>, pp. <fpage>294</fpage>–<lpage>301</lpage>, <year>2009</year>.<pub-id pub-id-type="pmid">19636049</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0b013e3181af79fb</pub-id><pub-id pub-id-type="pmcid">PMC2715214</pub-id></mixed-citation></ref><ref id="ref12"><label>[12]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>V.</given-names>
+<surname>Singh</surname></string-name>, <string-name name-style="western"><given-names>H.</given-names>
+<surname>Chertkow</surname></string-name>, <string-name name-style="western"><given-names>J. P.</given-names>
+<surname>Lerch</surname></string-name>, <string-name name-style="western"><given-names>A. C.</given-names>
+<surname>Evans</surname></string-name>, <string-name name-style="western"><given-names>A. E.</given-names>
+<surname>Dorr</surname></string-name>, and <string-name name-style="western"><given-names>N. J.</given-names>
+<surname>Kabani</surname></string-name></person-group>, “<article-title>Spatial patterns of cortical thinning in mild cognitive impairment and Alzheimer’s disease</article-title>,” <source>Brain</source>, vol. <volume>129</volume>, no. <issue>11</issue>, pp. <fpage>2885</fpage>–<lpage>2893</lpage>, <month>Sep.</month>
+<year>2006</year>.<pub-id pub-id-type="pmid">17008332</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awl256</pub-id></mixed-citation></ref><ref id="ref13"><label>[13]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>C.-Y.</given-names>
+<surname>Wee</surname></string-name>, <string-name name-style="western"><given-names>P.-T.</given-names>
+<surname>Yap</surname></string-name>, and <string-name name-style="western"><given-names>D.</given-names>
+<surname>Shen</surname></string-name></person-group>, “<article-title>Prediction of Alzheimer’s disease and mild cognitive impairment using cortical morphological patterns</article-title>,” <source>Hum. Brain Mapp.</source>, vol. <volume>34</volume>, no. <issue>12</issue>, pp. <fpage>3411</fpage>–<lpage>3425</lpage>, <month>Dec.</month>
+<year>2013</year>.<pub-id pub-id-type="pmid">22927119</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hbm.22156</pub-id><pub-id pub-id-type="pmcid">PMC3511623</pub-id></mixed-citation></ref><ref id="ref14"><label>[14]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>Y.</given-names>
+<surname>He</surname></string-name>, <string-name name-style="western"><given-names>Z.</given-names>
+<surname>Chen</surname></string-name>, and <string-name name-style="western"><given-names>A.</given-names>
+<surname>Evans</surname></string-name></person-group>, “<article-title>Structural insights into aberrant topological patterns of large-scale cortical networks in Alzheimer’s disease</article-title>,” <source>J. Neurosci.</source>, vol. <volume>28</volume>, no. <issue>18</issue>, pp. <fpage>4756</fpage>–<lpage>4766</lpage>, <month>Apr.</month>
+<year>2008</year>.<pub-id pub-id-type="pmid">18448652</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.0141-08.2008</pub-id><pub-id pub-id-type="pmcid">PMC6670444</pub-id></mixed-citation></ref><ref id="ref15"><label>[15]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>P.</given-names>
+<surname>Cao</surname></string-name>, <string-name name-style="western"><given-names>X.</given-names>
+<surname>Shan</surname></string-name>, <string-name name-style="western"><given-names>D.</given-names>
+<surname>Zhao</surname></string-name>, <string-name name-style="western"><given-names>M.</given-names>
+<surname>Huang</surname></string-name>, and <string-name name-style="western"><given-names>O.</given-names>
+<surname>Zaiane</surname></string-name></person-group>, “<article-title>Sparse shared structure based multi-task learning for MRI based cognitive performance prediction of Alzheimer’s disease</article-title>,” <source>Pattern Recognit.</source>, vol. <volume>72</volume>, pp. <fpage>219</fpage>–<lpage>235</lpage>, <month>Dec.</month>
+<year>2017</year>.</mixed-citation></ref><ref id="ref16"><label>[16]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>X.</given-names>
+<surname>Liu</surname></string-name>, <string-name name-style="western"><given-names>A. R.</given-names>
+<surname>Goncalves</surname></string-name>, <string-name name-style="western"><given-names>P.</given-names>
+<surname>Cao</surname></string-name>, <string-name name-style="western"><given-names>D.</given-names>
+<surname>Zhao</surname></string-name>, and <string-name name-style="western"><given-names>A.</given-names>
+<surname>Banerjee</surname></string-name></person-group>, “<article-title>Modeling Alzheimer’s disease cognitive scores using multi-task sparse group lasso</article-title>,” <source>Computerized Med. Imag. Graph.</source>, vol. <volume>66</volume>, pp. <fpage>100</fpage>–<lpage>114</lpage>, <month>Jun.</month>
+<year>2018</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.compmedimag.2017.11.001</pub-id><pub-id pub-id-type="pmid">29602022</pub-id></mixed-citation></ref><ref id="ref17"><label>[17]</label><mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>M.</given-names>
+<surname>Zhou</surname></string-name>, <string-name name-style="western"><given-names>Y.</given-names>
+<surname>Zhang</surname></string-name>, <string-name name-style="western"><given-names>T.</given-names>
+<surname>Liu</surname></string-name>, <string-name name-style="western"><given-names>Y.</given-names>
+<surname>Yang</surname></string-name>, and <string-name name-style="western"><given-names>P.</given-names>
+<surname>Yang</surname></string-name></person-group>, “<article-title>Multi-task learning with adaptive global temporal structure for predicting Alzheimer’s disease progression</article-title>,” in <source>Proc. 31st ACM Int. Conf. Inf. Knowl. Manage.</source>, <conf-date>Oct. 2022</conf-date>, pp. <fpage>2743</fpage>–<lpage>2752</lpage>.</mixed-citation></ref><ref id="ref18"><label>[18]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>M.</given-names>
+<surname>Wang</surname></string-name>, <string-name name-style="western"><given-names>D.</given-names>
+<surname>Zhang</surname></string-name>, <string-name name-style="western"><given-names>D.</given-names>
+<surname>Shen</surname></string-name>, and <string-name name-style="western"><given-names>M.</given-names>
+<surname>Liu</surname></string-name></person-group>, “<article-title>Multi-task exclusive relationship learning for Alzheimer’s disease progression prediction with longitudinal data</article-title>,” <source>Med. Image Anal.</source>, vol. <volume>53</volume>, pp. <fpage>111</fpage>–<lpage>122</lpage>, <month>Apr.</month>
+<year>2019</year>.<pub-id pub-id-type="pmid">30763830</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.media.2019.01.007</pub-id><pub-id pub-id-type="pmcid">PMC6397780</pub-id></mixed-citation></ref><ref id="ref19"><label>[19]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>P.</given-names>
+<surname>Cao</surname></string-name>, <string-name name-style="western"><given-names>X.</given-names>
+<surname>Liu</surname></string-name>, <string-name name-style="western"><given-names>J.</given-names>
+<surname>Yang</surname></string-name>, <string-name name-style="western"><given-names>D.</given-names>
+<surname>Zhao</surname></string-name>, <string-name name-style="western"><given-names>M.</given-names>
+<surname>Huang</surname></string-name>, and <string-name name-style="western"><given-names>O.</given-names>
+<surname>Zaiane</surname></string-name></person-group>, “<article-title><italic toggle="yes">l<sub>2,1</sub></italic>–<italic toggle="yes">l<sub>1</sub></italic> regularized nonlinear multi-task representation learning based cognitive performance prediction of Alzheimer’s disease</article-title>,” <source>Pattern Recognit.</source>, vol. <volume>79</volume>, pp. <fpage>195</fpage>–<lpage>215</lpage>, <month>Jul.</month>
+<year>2018</year>.</mixed-citation></ref><ref id="ref20"><label>[20]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>J.</given-names>
+<surname>Peng</surname></string-name>, <string-name name-style="western"><given-names>X.</given-names>
+<surname>Zhu</surname></string-name>, <string-name name-style="western"><given-names>Y.</given-names>
+<surname>Wang</surname></string-name>, <string-name name-style="western"><given-names>L.</given-names>
+<surname>An</surname></string-name>, and <string-name name-style="western"><given-names>D.</given-names>
+<surname>Shen</surname></string-name></person-group>, “<article-title>Structured sparsity regularized multiple kernel learning for Alzheimer’s disease diagnosis</article-title>,” <source>Pattern Recognit.</source>, vol. <volume>88</volume>, pp. <fpage>370</fpage>–<lpage>382</lpage>, <month>Apr.</month>
+<year>2018</year>.<pub-id pub-id-type="pmid">30872866</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.patcog.2018.11.027</pub-id><pub-id pub-id-type="pmcid">PMC6410562</pub-id></mixed-citation></ref><ref id="ref21"><label>[21]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>Z.</given-names>
+<surname>Li</surname></string-name>, <string-name name-style="western"><given-names>H.-I.</given-names>
+<surname>Suk</surname></string-name>, <string-name name-style="western"><given-names>D.</given-names>
+<surname>Shen</surname></string-name>, and <string-name name-style="western"><given-names>L.</given-names>
+<surname>Li</surname></string-name></person-group>, “<article-title>Sparse multi-response tensor regression for Alzheimer’s disease study with multivariate clinical assessments</article-title>,” <source specific-use="IEEE">IEEE Trans. Med. Imag.</source>, vol. <volume>35</volume>, no. <issue>8</issue>, pp. <fpage>1927</fpage>–<lpage>1936</lpage>, <month>Aug.</month>
+<year>2016</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1109/TMI.2016.2538289</pub-id><pub-id pub-id-type="pmcid">PMC5154176</pub-id><pub-id pub-id-type="pmid">26960221</pub-id></mixed-citation></ref><ref id="ref22"><label>[22]</label><mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>Y.</given-names>
+<surname>Zhang</surname></string-name>, <string-name name-style="western"><given-names>P.</given-names>
+<surname>Yang</surname></string-name>, and <string-name name-style="western"><given-names>V.</given-names>
+<surname>Lanfranchi</surname></string-name></person-group>, “<article-title>Tensor multi-task learning for predicting Alzheimer’s disease progression using MRI data with spatio–temporal similarity measurement</article-title>,” in <source specific-use="IEEE">Proc. IEEE 19th Int. Conf. Ind. Informat. (INDIN)</source>, <conf-date>Jul. 2021</conf-date>, pp. <fpage>1</fpage>–<lpage>8</lpage>.</mixed-citation></ref><ref id="ref23"><label>[23]</label><mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>Y.</given-names>
+<surname>Zhang</surname></string-name>, <string-name name-style="western"><given-names>M.</given-names>
+<surname>Zhou</surname></string-name>, <string-name name-style="western"><given-names>T.</given-names>
+<surname>Liu</surname></string-name>, <string-name name-style="western"><given-names>V.</given-names>
+<surname>Lanfranchi</surname></string-name>, and <string-name name-style="western"><given-names>P.</given-names>
+<surname>Yang</surname></string-name></person-group>, “<article-title>Spatio–temporal tensor multi-task learning for predicting Alzheimer’s disease in a longitudinal study</article-title>,” in <source specific-use="IEEE">Proc. 44th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc. (EMBC)</source>, <conf-date>Jul. 2022</conf-date>, pp. <fpage>979</fpage>–<lpage>985</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1109/EMBC48229.2022.9870882</pub-id><pub-id pub-id-type="pmid">36086566</pub-id></mixed-citation></ref><ref id="ref24"><label>[24]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>R.</given-names>
+<surname>De Maesschalck</surname></string-name>, <string-name name-style="western"><given-names>D.</given-names>
+<surname>Jouan-Rimbaud</surname></string-name>, and <string-name name-style="western"><given-names>D. L.</given-names>
+<surname>Massart</surname></string-name></person-group>, “<article-title>The Mahalanobis distance</article-title>,” <source>Chemometrics Intell. Lab. Syst.</source>, vol. <volume>50</volume>, no. <issue>1</issue>, pp. <fpage>1</fpage>–<lpage>18</lpage>, <month>Apr.</month>
+<year>2000</year>.</mixed-citation></ref><ref id="ref25"><label>[25]</label><mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>P.</given-names>
+<surname>Gong</surname></string-name>, <string-name name-style="western"><given-names>J.</given-names>
+<surname>Zhou</surname></string-name>, <string-name name-style="western"><given-names>W.</given-names>
+<surname>Fan</surname></string-name>, and <string-name name-style="western"><given-names>J.</given-names>
+<surname>Ye</surname></string-name></person-group>, “<article-title>Efficient multi-task feature learning with calibration</article-title>,” in <source>Proc. KDD</source>, <conf-date>2014</conf-date>, pp. <fpage>761</fpage>–<lpage>770</lpage>.</mixed-citation></ref><ref id="ref26"><label>[26]</label><mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>L.</given-names>
+<surname>Han</surname></string-name> and <string-name name-style="western"><given-names>Y.</given-names>
+<surname>Zhang</surname></string-name></person-group>, “<article-title>Learning multi-level task groups in multi-task learning</article-title>,” in <source>Proc. AAAI</source>, <conf-date>2015</conf-date>, pp. <fpage>2638</fpage>–<lpage>2644</lpage>.</mixed-citation></ref><ref id="ref27"><label>[27]</label><mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>L.</given-names>
+<surname>Zhao</surname></string-name>, <string-name name-style="western"><given-names>Q.</given-names>
+<surname>Sun</surname></string-name>, <string-name name-style="western"><given-names>J.</given-names>
+<surname>Ye</surname></string-name>, <string-name name-style="western"><given-names>F.</given-names>
+<surname>Chen</surname></string-name>, <string-name name-style="western"><given-names>C.-T.</given-names>
+<surname>Lu</surname></string-name>, and <string-name name-style="western"><given-names>N.</given-names>
+<surname>Ramakrishnan</surname></string-name></person-group>, “<article-title>Multi-task learning for spatio–temporal event forecasting</article-title>,” in <source>Proc. 21st ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining</source>, <conf-date>Aug. 2015</conf-date>, pp. <fpage>1503</fpage>–<lpage>1512</lpage>.</mixed-citation></ref><ref id="ref28"><label>[28]</label><mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>M.</given-names>
+<surname>Zhou</surname></string-name></person-group><etal/>, “<article-title>Modeling disease progression flexibly with nonlinear disease structure via multi-task learning</article-title>,” in <source>Proc. 17th Int. Conf. Mobility, Sens. Netw. (MSN)</source>, <conf-date>2021</conf-date>, pp. <fpage>366</fpage>–<lpage>373</lpage>.</mixed-citation></ref><ref id="ref29"><label>[29]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>J. H.</given-names>
+<surname>Friedman</surname></string-name></person-group>, “<article-title>Greedy function approximation: A gradient boosting machine</article-title>,” <source>Ann. Statist.</source>, vol. <volume>29</volume>, no. <issue>5</issue>, pp. <fpage>1189</fpage>–<lpage>1232</lpage>, <month>Oct.</month>
+<year>2001</year>.</mixed-citation></ref><ref id="ref30"><label>[30]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>J. O.</given-names>
+<surname>Ogutu</surname></string-name>, <string-name name-style="western"><given-names>H.-P.</given-names>
+<surname>Piepho</surname></string-name>, and <string-name name-style="western"><given-names>T.</given-names>
+<surname>Schulz-Streeck</surname></string-name></person-group>, “<article-title>A comparison of random forests, boosting and support vector machines for genomic selection</article-title>,” <source>BMC Proc.</source>, vol. <volume>5</volume>, no. <issue>S3</issue>, pp. <fpage>1</fpage>–<lpage>5</lpage>, <month>Dec.</month>
+<year>2011</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1753-6561-5-S3-S11</pub-id><pub-id pub-id-type="pmcid">PMC3103196</pub-id><pub-id pub-id-type="pmid">21624167</pub-id></mixed-citation></ref><ref id="ref31"><label>[31]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>A.</given-names>
+<surname>Argyriou</surname></string-name>, <string-name name-style="western"><given-names>T.</given-names>
+<surname>Evgeniou</surname></string-name>, and <string-name name-style="western"><given-names>M.</given-names>
+<surname>Pontil</surname></string-name></person-group>, “<article-title>Convex multi-task feature learning</article-title>,” <source>Mach. Learn.</source>, vol. <volume>73</volume>, no. <issue>3</issue>, pp. <fpage>243</fpage>–<lpage>272</lpage>, <year>2008</year>.</mixed-citation></ref><ref id="ref32"><label>[32]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>A. E.</given-names>
+<surname>Hoerl</surname></string-name> and <string-name name-style="western"><given-names>R. W.</given-names>
+<surname>Kennard</surname></string-name></person-group>, “<article-title>Ridge regression: Biased estimation for nonorthogonal problems</article-title>,” <source>Technometrics</source>, vol. <volume>12</volume>, no. <issue>1</issue>, pp. <fpage>55</fpage>–<lpage>67</lpage>, <year>1970</year>.</mixed-citation></ref><ref id="ref33"><label>[33]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>R.</given-names>
+<surname>Tibshirani</surname></string-name></person-group>, “<article-title>Regression shrinkage and selection via the lasso</article-title>,” <source>J. Roy. Statist. Soc., B, Methodol.</source>, vol. <volume>58</volume>, no. <issue>1</issue>, pp. <fpage>267</fpage>–<lpage>288</lpage>, <year>1996</year>.</mixed-citation></ref><ref id="ref34"><label>[34]</label><mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>J.</given-names>
+<surname>Zhou</surname></string-name>, <string-name name-style="western"><given-names>J.</given-names>
+<surname>Liu</surname></string-name>, <string-name name-style="western"><given-names>V. A.</given-names>
+<surname>Narayan</surname></string-name>, and <string-name name-style="western"><given-names>J.</given-names>
+<surname>Ye</surname></string-name></person-group>, “<article-title>Modeling disease progression via fused sparse group lasso</article-title>,” in <source>Proc. 18th ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining</source>, <conf-date>2012</conf-date>, pp. <fpage>1095</fpage>–<lpage>1103</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1145/2339530.2339702</pub-id><pub-id pub-id-type="pmcid">PMC4191837</pub-id><pub-id pub-id-type="pmid">25309808</pub-id></mixed-citation></ref><ref id="ref35"><label>[35]</label><mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>F.</given-names>
+<surname>Nie</surname></string-name>, <string-name name-style="western"><given-names>Z.</given-names>
+<surname>Hu</surname></string-name>, and <string-name name-style="western"><given-names>X.</given-names>
+<surname>Li</surname></string-name></person-group>, “<article-title>Calibrated multi-task learning</article-title>,” in <source>Proc. 24th ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining</source>, <conf-date>Jul. 2018</conf-date>, pp. <fpage>19</fpage>–<lpage>23</lpage>.</mixed-citation></ref><ref id="ref36"><label>[36]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>X.</given-names>
+<surname>Liu</surname></string-name>, <string-name name-style="western"><given-names>P.</given-names>
+<surname>Cao</surname></string-name>, <string-name name-style="western"><given-names>A.</given-names>
+<surname>Gonçalves</surname></string-name>, <string-name name-style="western"><given-names>D.</given-names>
+<surname>Zhao</surname></string-name>, and <string-name name-style="western"><given-names>J.</given-names>
+<surname>Banerjee</surname></string-name></person-group>, “<article-title>Modeling Alzheimer’s disease progression with fused Laplacian sparse group LASSO</article-title>,” <source>ACM Trans. Knowl. Discovery Data</source>, vol. <volume>12</volume>, no. <issue>6</issue>, pp. <fpage>1</fpage>–<lpage>35</lpage>, <year>2018</year>.</mixed-citation></ref><ref id="ref37"><label>[37]</label><mixed-citation publication-type="confproc" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>P.</given-names>
+<surname>Cao</surname></string-name>, <string-name name-style="western"><given-names>W.</given-names>
+<surname>Liang</surname></string-name>, <string-name name-style="western"><given-names>K.</given-names>
+<surname>Zhang</surname></string-name>, <string-name name-style="western"><given-names>S.</given-names>
+<surname>Tang</surname></string-name>, and <string-name name-style="western"><given-names>J.</given-names>
+<surname>Yang</surname></string-name></person-group>, “<article-title>Joint feature and task aware multi-task feature learning for Alzheimer’s disease diagnosis</article-title>,” in <source specific-use="IEEE">Proc. IEEE Int. Conf. Bioinf. Biomed. (BIBM)</source>, <conf-date>Dec. 2021</conf-date>, pp. <fpage>2643</fpage>–<lpage>2650</lpage>.</mixed-citation></ref><ref id="ref38"><label>[38]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>S. H. G.</given-names>
+<surname>Oliveira</surname></string-name>, <string-name name-style="western"><given-names>A. R.</given-names>
+<surname>Gonçalves</surname></string-name>, and <string-name name-style="western"><given-names>F. J.</given-names>
+<surname>Von Zuben</surname></string-name></person-group>, “<article-title>Asymmetric multi-task learning with local transference</article-title>,” <source>ACM Trans. Knowl. Discovery Data</source>, vol. <volume>16</volume>, no. <issue>5</issue>, pp. <fpage>1</fpage>–<lpage>30</lpage>, <month>Oct.</month>
+<year>2022</year>.</mixed-citation></ref><ref id="ref39"><label>[39]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>S.</given-names>
+<surname>Tang</surname></string-name>, <string-name name-style="western"><given-names>P.</given-names>
+<surname>Cao</surname></string-name>, <string-name name-style="western"><given-names>M.</given-names>
+<surname>Huang</surname></string-name>, <string-name name-style="western"><given-names>X.</given-names>
+<surname>Liu</surname></string-name>, and <string-name name-style="western"><given-names>O.</given-names>
+<surname>Zaiane</surname></string-name></person-group>, “<article-title>Dual feature correlation guided multi-task learning for Alzheimer’s disease prediction</article-title>,” <source>Comput. Biol. Med.</source>, vol. <volume>140</volume>, <month>Jan.</month>
+<year>2022</year>, Art. no. 105090.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.compbiomed.2021.105090</pub-id><pub-id pub-id-type="pmid">34875406</pub-id></mixed-citation></ref><ref id="ref40"><label>[40]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>M.</given-names>
+<surname>Xia</surname></string-name>, <string-name name-style="western"><given-names>J.</given-names>
+<surname>Wang</surname></string-name>, and <string-name name-style="western"><given-names>Y.</given-names>
+<surname>He</surname></string-name></person-group>, “<article-title>BrainNet viewer: A network visualization tool for human brain connectomics</article-title>,” <source>PLoS ONE</source>, vol. <volume>8</volume>, no. <issue>7</issue>, <month>Jul.</month>
+<year>2013</year>, Art. no. e68910.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0068910</pub-id><pub-id pub-id-type="pmcid">PMC3701683</pub-id><pub-id pub-id-type="pmid">23861951</pub-id></mixed-citation></ref><ref id="ref41"><label>[41]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>S. T.</given-names>
+<surname>DeKosky</surname></string-name> and <string-name name-style="western"><given-names>S. W.</given-names>
+<surname>Scheff</surname></string-name></person-group>, “<article-title>Synapse loss in frontal cortex biopsies in Alzheimer’s disease: Correlation with cognitive severity</article-title>,” <source>Ann. Neurol.</source>, vol. <volume>27</volume>, no. <issue>5</issue>, pp. <fpage>457</fpage>–<lpage>464</lpage>, <month>May</month>
+<year>1990</year>.<pub-id pub-id-type="pmid">2360787</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.410270502</pub-id></mixed-citation></ref><ref id="ref42"><label>[42]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>S. W.</given-names>
+<surname>Scheff</surname></string-name>, <string-name name-style="western"><given-names>D. A.</given-names>
+<surname>Price</surname></string-name>, <string-name name-style="western"><given-names>F. A.</given-names>
+<surname>Schmitt</surname></string-name>, <string-name name-style="western"><given-names>M. A.</given-names>
+<surname>Scheff</surname></string-name>, and <string-name name-style="western"><given-names>E. J.</given-names>
+<surname>Mufson</surname></string-name></person-group>, “<article-title>Synaptic loss in the inferior temporal gyrus in mild cognitive impairment and Alzheimer’s disease</article-title>,” <source>J. Alzheimer’s Disease</source>, vol. <volume>24</volume>, no. <issue>3</issue>, pp. <fpage>547</fpage>–<lpage>557</lpage>, <month>May</month>
+<year>2011</year>.<pub-id pub-id-type="pmid">21297265</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-2011-101782</pub-id><pub-id pub-id-type="pmcid">PMC3098316</pub-id></mixed-citation></ref><ref id="ref43"><label>[43]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>H. I. L.</given-names>
+<surname>Jacobs</surname></string-name>, <string-name name-style="western"><given-names>M. P. J.</given-names>
+<surname>Van Boxtel</surname></string-name>, <string-name name-style="western"><given-names>J.</given-names>
+<surname>Jolles</surname></string-name>, <string-name name-style="western"><given-names>F. R. J.</given-names>
+<surname>Verhey</surname></string-name>, and <string-name name-style="western"><given-names>H. B. M.</given-names>
+<surname>Uylings</surname></string-name></person-group>, “<article-title>Parietal cortex matters in Alzheimer’s disease: An overview of structural, functional and metabolic findings</article-title>,” <source>Neurosci. Biobehav. Rev.</source>, vol. <volume>36</volume>, no. <issue>1</issue>, pp. <fpage>297</fpage>–<lpage>309</lpage>, <month>Jan.</month>
+<year>2012</year>.<pub-id pub-id-type="pmid">21741401</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neubiorev.2011.06.009</pub-id></mixed-citation></ref><ref id="ref44"><label>[44]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>A. L.</given-names>
+<surname>Foundas</surname></string-name>, <string-name name-style="western"><given-names>A.</given-names>
+<surname>Weisberg</surname></string-name>, <string-name name-style="western"><given-names>C. A.</given-names>
+<surname>Browning</surname></string-name>, and <string-name name-style="western"><given-names>D. R.</given-names>
+<surname>Weinberger</surname></string-name></person-group>, “<article-title>Morphology of the frontal operculum: A volumetric magnetic resonance imaging study of the pars triangularis</article-title>,” <source>J. Neuroimag.</source>, vol. <volume>11</volume>, no. <issue>2</issue>, pp. <fpage>153</fpage>–<lpage>159</lpage>, <month>Apr.</month>
+<year>2001</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1552-6569.2001.tb00026.x</pub-id><pub-id pub-id-type="pmid">11296585</pub-id></mixed-citation></ref><ref id="ref45"><label>[45]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>E. D.</given-names>
+<surname>Bigler</surname></string-name></person-group><etal/>, “<article-title>Superior temporal gyrus, language function, and autism</article-title>,” <source>Develop. Neuropsychol.</source>, vol. <volume>31</volume>, no. <issue>2</issue>, pp. <fpage>217</fpage>–<lpage>238</lpage>, <year>2007</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/87565640701190841</pub-id><pub-id pub-id-type="pmid">17488217</pub-id></mixed-citation></ref><ref id="ref46"><label>[46]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>S. J.</given-names>
+<surname>Teipel</surname></string-name></person-group><etal/>, “<article-title>Progression of corpus callosum atrophy in Alzheimer Disease</article-title>,” <source>Arch. Neurol.</source>, vol. <volume>59</volume>, no. <issue>2</issue>, pp. <fpage>243</fpage>–<lpage>248</lpage>, <year>2002</year>.<pub-id pub-id-type="pmid">11843695</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archneur.59.2.243</pub-id></mixed-citation></ref><ref id="ref47"><label>[47]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>M. A.</given-names>
+<surname>Howard</surname></string-name></person-group><etal/>, “<article-title>Auditory cortex on the human posterior superior temporal gyrus</article-title>,” <source>J. Comparative Neurol.</source>, vol. <volume>416</volume>, no. <issue>1</issue>, pp. <fpage>79</fpage>–<lpage>92</lpage>, <year>2000</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/(sici)1096-9861(20000103)416:1&lt;79::aid-cne6&gt;3.0.co;2-2</pub-id><pub-id pub-id-type="pmid">10578103</pub-id></mixed-citation></ref><ref id="ref48"><label>[48]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>J. A.</given-names>
+<surname>Grahn</surname></string-name>, <string-name name-style="western"><given-names>J. A.</given-names>
+<surname>Parkinson</surname></string-name>, and <string-name name-style="western"><given-names>A. M.</given-names>
+<surname>Owen</surname></string-name></person-group>, “<article-title>The cognitive functions of the caudate nucleus</article-title>,” <source>Prog. Neurobiol.</source>, vol. <volume>86</volume>, no. <issue>3</issue>, pp. <fpage>141</fpage>–<lpage>155</lpage>, <month>Nov.</month>
+<year>2008</year>.<pub-id pub-id-type="pmid">18824075</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pneurobio.2008.09.004</pub-id></mixed-citation></ref><ref id="ref49"><label>[49]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>W.</given-names>
+<surname>Li</surname></string-name></person-group><etal/>, “<article-title>Subregions of the human superior frontal gyrus and their connections</article-title>,” <source>NeuroImage</source>, vol. <volume>78</volume>, pp. <fpage>46</fpage>–<lpage>58</lpage>, <month>Jan.</month>
+<year>2013</year>.<pub-id pub-id-type="pmid">23587692</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroimage.2013.04.011</pub-id></mixed-citation></ref><ref id="ref50"><label>[50]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>Y.</given-names>
+<surname>Iwamura</surname></string-name></person-group>, “<article-title>Hierarchical somatosensory processing</article-title>,” <source>Current Opinion Neurobiol.</source>, vol. <volume>8</volume>, no. <issue>4</issue>, pp. <fpage>522</fpage>–<lpage>528</lpage>, <year>1998</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0959-4388(98)80041-x</pub-id><pub-id pub-id-type="pmid">9751655</pub-id></mixed-citation></ref><ref id="ref51"><label>[51]</label><mixed-citation publication-type="journal" publication-format="print"><person-group person-group-type="author"><string-name name-style="western"><given-names>L. Q.</given-names>
+<surname>Uddin</surname></string-name>, <string-name name-style="western"><given-names>J. S.</given-names>
+<surname>Nomi</surname></string-name>, <string-name name-style="western"><given-names>B.</given-names>
+<surname>Hébert-Seropian</surname></string-name>, <string-name name-style="western"><given-names>J.</given-names>
+<surname>Ghaziri</surname></string-name>, and <string-name name-style="western"><given-names>O.</given-names>
+<surname>Boucher</surname></string-name></person-group>, “<article-title>Structure and function of the human insula</article-title>,” <source>J. Clin. Neurophysiol.</source>, vol. <volume>34</volume>, no. <issue>4</issue>, pp. <fpage>300</fpage>–<lpage>306</lpage>, <month>Jul.</month>
+<year>2017</year>.<pub-id pub-id-type="pmid">28644199</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/WNP.0000000000000377</pub-id><pub-id pub-id-type="pmcid">PMC6032992</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

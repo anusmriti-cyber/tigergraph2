@@ -1,0 +1,1334 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz13754" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11032577</article-id><article-id pub-id-type="pmcid-ver">PMC11032577.1</article-id><article-id pub-id-type="pmcaid">11032577</article-id><article-id pub-id-type="pmcaiid">11032577</article-id><article-id pub-id-type="pmid">38450831</article-id><article-id pub-id-type="doi">10.1002/alz.13754</article-id><article-id pub-id-type="publisher-id">ALZ13754</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Genetic modifiers of cognitive decline in <italic toggle="yes">PSEN1</italic> E280A Alzheimer's disease</article-title><alt-title alt-title-type="left-running-head">SEPULVEDA‐FALLA <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz13754-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Sepulveda‐Falla</surname><given-names initials="D">Diego</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0176-2042</contrib-id><xref rid="alz13754-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz13754-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>dsepulve@uke.de</email></address></contrib><contrib id="alz13754-cr-0002" contrib-type="author"><name name-style="western"><surname>Vélez</surname><given-names initials="JI">Jorge I.</given-names></name><xref rid="alz13754-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz13754-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz13754-cr-0003" contrib-type="author"><name name-style="western"><surname>Acosta‐Baena</surname><given-names initials="N">Natalia</given-names></name><xref rid="alz13754-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz13754-cr-0004" contrib-type="author"><name name-style="western"><surname>Baena</surname><given-names initials="A">Ana</given-names></name><xref rid="alz13754-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz13754-cr-0005" contrib-type="author"><name name-style="western"><surname>Moreno</surname><given-names initials="S">Sonia</given-names></name><xref rid="alz13754-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz13754-cr-0006" contrib-type="author"><name name-style="western"><surname>Krasemann</surname><given-names initials="S">Susanne</given-names></name><xref rid="alz13754-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz13754-cr-0007" contrib-type="author"><name name-style="western"><surname>Lopera</surname><given-names initials="F">Francisco</given-names></name><xref rid="alz13754-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz13754-cr-0008" contrib-type="author"><name name-style="western"><surname>Mastronardi</surname><given-names initials="CA">Claudio A.</given-names></name><xref rid="alz13754-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="alz13754-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz13754-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Arcos‐Burgos</surname><given-names initials="M">Mauricio</given-names></name><xref rid="alz13754-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>mauricio.arcos@udea.edu.co</email></address></contrib></contrib-group><aff id="alz13754-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Neuropathology</named-content>
+<institution>University Medical Center Hamburg‐Eppendorf</institution>
+<city>Hamburg</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz13754-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Grupo de Neurociencias de Antioquia</named-content>
+<institution>Universidad de Antioquia</institution>
+<city>Medellín</city>
+<country country="CO">Colombia</country>
+</aff><aff id="alz13754-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Universidad del Norte</institution>
+<city>Barranquilla</city>
+<country country="CO">Colombia</country>
+</aff><aff id="alz13754-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Genomics and Predictive Medicine Group</named-content>
+<named-content content-type="organisation-division">Department of Genome Sciences</named-content>
+<institution>John Curtin School of Medical Research</institution>
+<institution>The Australian National University</institution>
+<city>Canberra</city>
+<country country="AU">Australia</country>
+</aff><aff id="alz13754-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>INPAC Research Group, Fundación Universitaria Sanitas</institution>
+<city>Bogotá</city>
+<country country="CO">Colombia</country>
+</aff><aff id="alz13754-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Grupo de Investigación en Psiquiatría (GIPSI)</named-content>
+<named-content content-type="organisation-division">Departamento de Psiquiatría</named-content>
+<institution>Facultad de Medicina</institution>
+<institution>Instituto de Investigaciones Médicas</institution>
+<institution>Universidad de Antioquia</institution>
+<city>Medellín</city>
+<country country="CO">Colombia</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Diego Sepulveda‐Falla, Molecular Neuropathology of Alzheimer's Disease, Institute of Neuropathology, University Medical Center Hamburg‐Eppendorf, Hamburg, Germany.<break/> Email: <email>dsepulve@uke.de</email>
+<break/>Mauricio Arcos‐Burgos, GIPSI Group, Department of Psychiatry, Medical Research Institute, University of Antioquia, Medellín, Colombia.<break/> Email: <email>mauricio.arcos@udea.edu.co</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>07</day><month>3</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2024</year></pub-date><volume>20</volume><issue seq="450">4</issue><issue-id pub-id-type="pmc-issue-id">460500</issue-id><issue-id pub-id-type="doi">10.1002/alz.v20.4</issue-id><fpage>2873</fpage><lpage>2885</lpage><history><date date-type="rev-recd"><day>22</day><month>1</month><year>2024</year></date><date date-type="received"><day>28</day><month>3</month><year>2023</year></date><date date-type="accepted"><day>29</day><month>1</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>07</day><month>03</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>22</day><month>04</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-04-25 07:25:25.883"><day>25</day><month>04</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Authors. <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-20-2873.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-20-2873.pdf"/><abstract><title>Abstract</title><sec id="alz13754-sec-0010"><title>INTRODUCTION</title><p>Rate of cognitive decline (RCD) in Alzheimer's disease (AD) determines the degree of impairment for patients and of burden for caretakers. We studied the association of RCD with genetic variants in AD.</p></sec><sec id="alz13754-sec-0020"><title>METHODS</title><p>RCD was evaluated in 62 familial AD (FAD) and 53 sporadic AD (SAD) cases, and analyzed by whole‐exome sequencing for association with common exonic functional variants. Findings were validated in <italic toggle="yes">post mortem</italic> brain tissue.</p></sec><sec id="alz13754-sec-0030"><title>RESULTS</title><p>One hundred seventy‐two gene variants in FAD, and 227 gene variants in SAD associated with RCD. In FAD, performance decline of the immediate recall of the Rey‐Osterrieth figure test associated with 122 genetic variants. Olfactory receptor <italic toggle="yes">OR51B6</italic> showed the highest number of associated variants. Its expression was detected in temporal cortex neurons.</p></sec><sec id="alz13754-sec-0040"><title>DISCUSSION</title><p>Impaired olfactory function has been associated with cognitive impairment in AD. Genetic variants in these or other genes could help to identify risk of faster memory decline in FAD and SAD patients.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz13754-kwd-0001">Alzheimer's disease</kwd><kwd id="alz13754-kwd-0002">genetic variants</kwd><kwd id="alz13754-kwd-0003">olfactory receptors</kwd><kwd id="alz13754-kwd-0004">prognosis</kwd><kwd id="alz13754-kwd-0005">progression disease</kwd><kwd id="alz13754-kwd-0006"><italic toggle="yes">PSEN1</italic></kwd><kwd id="alz13754-kwd-0007">rate of cognitive progression</kwd><kwd id="alz13754-kwd-0008">whole exome sequencing</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>US National Institute of Neurological Disorders and Stroke and National Institute on Aging co‐funded</funding-source><award-id>RF1NS110048</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Australian National University
+</institution><institution-id institution-id-type="doi">10.13039/501100000995</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0003"><funding-source>MINCIENCIAS Colombia</funding-source><award-id>1115‐408‐20543</award-id></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>University of Antioquia
+</institution><institution-id institution-id-type="doi">10.13039/501100005278</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="13"/><word-count count="8709"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.0 mode:remove_FC converted:21.04.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz13754-cit-0080">
+<string-name name-style="western">
+<surname>Sepulveda‐Falla</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vélez</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Acosta‐Baena</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Genetic modifiers of cognitive decline in <italic toggle="yes">PSEN1</italic> E280A Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>2873</fpage>–<lpage>2885</lpage>. <pub-id pub-id-type="doi">10.1002/alz.13754</pub-id>
+<pub-id pub-id-type="pmcid">PMC11032577</pub-id><pub-id pub-id-type="pmid">38450831</pub-id></mixed-citation>
+</p><fn-group><fn id="alz13754-note-0001" fn-type="equal"><p>Diego Sepulveda‐Falla and Jorge I. Vélez contributed equally to this work.</p></fn><fn id="alz13754-note-0002"><p>[Correction added on 05 April 2024, after first online publication: The first author's affiliation was corrected, which caused the affiliations 2 and 3 to be interchanged. All author affiliations have been renumbered accordingly.]</p></fn></fn-group></notes></front><body><sec id="alz13754-sec-0050"><label>1</label><title>BACKGROUND</title><p>Alzheimer's disease (AD) is the main cause of dementia with ≈ 40 million affected individuals worldwide.<xref rid="alz13754-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> The great majority of AD cases are of sporadic nature, and &lt; 1% of AD cases present with autosomal dominant inheritance with mutations in <italic toggle="yes">APP</italic>, <italic toggle="yes">PSEN1</italic>, and <italic toggle="yes">PSEN2</italic> genes, leading to familial AD (FAD). From a clinical point of view, FAD is mainly distinguished from sporadic AD (SAD) by its earlier age of onset, while other clinical features including dementia duration and cognitive decline,+ are fairly similar between both types of AD.<xref rid="alz13754-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="alz13754-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> In <italic toggle="yes">PSEN1</italic> mutation–associated FAD, cognitive decline starts with memory complaints ≈ 11 years before dementia, leading to amnestic mild cognitive impairment (MCI), and eventually to dementia.<xref rid="alz13754-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> In sporadic cases, not all MCI–affected individuals develop AD dementia,<xref rid="alz13754-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> but once dementia starts, it generally follows a characteristic clinical course that would lead to death within 10 years in average.<xref rid="alz13754-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz13754-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Memory loss is the main cognitive feature in AD clinical progression.<xref rid="alz13754-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> However, other cognitive domains such as language and executive function have shown to be also severely impaired in AD.<xref rid="alz13754-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> The rate of progression of cognitive decline in AD, considered the speed at which cognitive decline occurs, has shown to be variable in SAD,<xref rid="alz13754-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> and less so in FAD.<xref rid="alz13754-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> In both cases, rate of decline can be affected by other factors such as years of education<xref rid="alz13754-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> or apolipoprotein E (<italic toggle="yes">APOE</italic>) haplotype.<xref rid="alz13754-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="alz13754-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Not all cognitive domains decline at the same rate, and more rapidly declining domains can be disease specific, with memory, language, and executive function showing faster decline rates in AD.<xref rid="alz13754-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Some attempts have been made to find genetic markers for cognitive decline progression in AD, with variable success.<xref rid="alz13754-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz13754-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Some known markers for AD risk have been identified as associating with more severe cognitive decline using whole cognitive test batteries,<xref rid="alz13754-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz13754-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> but so far not even <italic toggle="yes">APOE</italic> ε4 has shown to have a clear impact in the progression of cognitive decline.<xref rid="alz13754-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+</p><p>During the last 30 years we have been successfully characterizing the largest pedigree carrying a single mutation (E280A) in the <italic toggle="yes">PSEN1</italic> gene and suffering from FAD. This characterization includes long‐term clinical follow‐up, cognitive<xref rid="alz13754-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz13754-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> and neuropathological characterization,<xref rid="alz13754-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz13754-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> together with genetic and genomic studies for specific endophenotypes such as age of disease onset.<xref rid="alz13754-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz13754-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="alz13754-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> This population is ideally suited for association studies given sample size and the wealth of clinical data collected during &gt; 20 years of follow‐up. Longitudinal studies in this population identified ages of onset and rate of progression based on cognitive tests, detecting a median age of MCI and dementia at 44 and 49 years old, respectively.<xref rid="alz13754-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> A subsequent study determined that in the majority of carriers, the recall of the word list was the earliest test to determine the preclinical onset of the disease at 32 years of age.<xref rid="alz13754-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> In this study, we asked if individuals who showed faster cognitive decline on cognitive tests had differences in common genetic variants compared to individuals who did not progress as quickly, and if these genetic variants could be associated with rapid progression of specific cognitive domains. We considered this likely given the current record of genetic variants with high impact as disease modifiers in the <italic toggle="yes">PSEN1</italic> E280A FAD population.<xref rid="alz13754-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz13754-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> In this study, we take advantage of whole‐exome sequencing (WES) data and of cognitive follow‐up data collected from a subset of <italic toggle="yes">PSEN1</italic> E280A FAD and SAD patients, and expand our previous association studies to identify genetic variant associated with rate of cognitive decline (RCD) in specific cognitive domains and tests. We identified genes associated with accelerated RCD, particularly memory function and specific memory cognitive tests.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz13754-sec-0060"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz13754-list-0001"><list-item><p>
+<bold>Systematic review</bold>: A review was carried out in PubMed identifying possible genetic variants associated with the severity of the disease. The search terms were: (rate cognitive progression) AND (((((progression) OR (prognosis)) OR (disease progression)) AND (genetic variants)) AND (Alzheimer's disease)). Thirty‐seven results were returned. Although the genetic variants associated with Alzheimer's disease (AD) have been studied, the genetic variants associated with the rate of cognitive progression are not known with certainty.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: Our findings contribute to generating new hypotheses regarding olfactory receptors and their possible roles in AD pathophysiology.</p></list-item><list-item><p>
+<bold>Future directions</bold>: This study, and other evidence references in the manuscript, show that olfactory receptors may act as modifiers of AD progression, and may be pivotal to better understanding cognition from a biological and functional perspective.</p></list-item></list>
+</p></sec></boxed-text></sec><sec id="alz13754-sec-0070"><label>2</label><title>METHODS</title><sec id="alz13754-sec-0080"><label>2.1</label><title>Patients</title><p>All participants of the study signed informed consent for clinical evaluations and genetic assessment, according to international regulations and<xref rid="alz13754-tbl-0001" ref-type="table"> </xref> approved by the ethical board of the School of Medicine of the University of Antioquia, Medellín, Colombia. As a first selection criterion we included a subset of patients carrying the <italic toggle="yes">PSEN1</italic> E280A mutation with clinical and neuropsychological follow‐up, composed by several evaluations from MCI up to late stages of dementia. Detailed clinical assessment and evaluation of these patients is described elsewhere;<xref rid="alz13754-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> in brief, each patient underwent medical, neurological, and neuropsychological evaluations as often as necessary during the course of their clinical follow‐up until their death or closure of the study. For cognitive assessment, we used the Spanish version of The Consortium to Establish a Registry for Alzheimer's disease (CERAD) evaluation battery,<xref rid="alz13754-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> adapted for the cultural and linguistic characteristics specific to this population as previously described.<xref rid="alz13754-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz13754-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> The second selection criterion was to include patients with the <italic toggle="yes">PSEN1</italic> E280A mutation that had WES data available (see genotyping methods) and met the first selection criteria. Using these two criteria, we studied 62 <italic toggle="yes">PSEN1</italic> E280A patients with an average of 3.8 evaluations (Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S1</xref> in supporting information). We also studied 53 SAD cases that fulfilled the same selection criteria. Some of these SAD patients belong also to the <italic toggle="yes">PSEN1</italic> E280A genealogies but were tested as non‐carriers for the mutation and eventually developed SAD. Given that SAD patients are only identified after the onset of dementia, they presented a significantly lower average number of neurological and neuropsychological evaluations that started at a later stage of dementia (Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S1</xref>). As these SAD cases presented with AD dementia, cognitive decline, and share the same genetic background and genealogy as the population with the E280A mutation, they were used as a control population in this study.</p></sec><sec id="alz13754-sec-0090"><label>2.2</label><title>Assessment of cognitive domains and progression of decline</title><p>The CERAD battery includes different tests that can be grouped according to different cognitive domains (memory, language, executive function, attention, and praxis; Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S2</xref> in supporting information). We have used this grouping method previously to assess cognitive decline in different cognitive domains from asymptomatic to demented <italic toggle="yes">PSEN1</italic> E280A carriers. Briefly, the value obtained in each test was normalized with a <italic toggle="yes">Z</italic> score and averaged with other tests belonging to a particular cognitive domain, as indicated<xref rid="alz13754-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> (Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S2</xref>). For the present study, we selected only language, memory, praxis, attention, and executive function domains because they include more than one neuropsychological test (Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S2</xref>). Normalized values from each neuropsychological test and cognitive domains were considered independent variables for genetic association analysis. Missing data, a common feature of clinical studies, were handled using the imputation method implemented in the “missForest”<xref rid="alz13754-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="alz13754-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> package for R.<xref rid="alz13754-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Subsequent statistical analyses were performed on the imputed data set.</p><p>Another factor to be considered regarding cognitive decline progression is that FAD and SAD patients show variable ages of onset, and not all patients started to be evaluated at the same stage of disease. Therefore, cognitive domains decline does not show a uniform pattern in these populations (Figure <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S1A, B</xref> in supporting information), unless the stage of dementia is assessed for each evaluation point. We combined the Mini‐Mental State Examination (MMSE)<xref rid="alz13754-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> and the Global Deterioration Scale (GDS)<xref rid="alz13754-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> for determining disease progression in our samples. Both scales are generally applied in our service and each one of them brings a general view, whether of cognitive status with the MMSE, or about the general status of the patient at a given moment with daily living assessment using the GDS. By combining both scales, we established a cognitive decline progression scale (Table <xref rid="alz13754-tbl-0001" ref-type="table">1</xref>; Figure <xref rid="alz13754-fig-0001" ref-type="fig">1A</xref>) that not only reflects cognitive decline in the patients (Figure <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S2</xref> in supporting information), but also allows us to normalize cognitive decline, independent of age or point of entry into cognitive assessment, for all evaluated cognitive domains (Figure <xref rid="alz13754-fig-0001" ref-type="fig">1B</xref>).</p><table-wrap position="float" id="alz13754-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Stratification of cognitive decline in Alzheimer's disease patients according to Mini‐Mental State Examination (MMSE) and Global Deterioration Scale (GDS) and their assigned cognitive decline ranks.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Cognitive decline rank</th><th align="left" rowspan="1" colspan="1">MMSE</th><th align="left" rowspan="1" colspan="1">GDS</th><th align="left" rowspan="1" colspan="1">Description</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">&gt; 22</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">Normal</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Subjective memory complaints</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">&gt; 25</td><td align="left" rowspan="1" colspan="1">3–4</td><td align="left" rowspan="1" colspan="1">Mild cognitive impairment, high performance</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">24–20</td><td align="left" rowspan="1" colspan="1">3–4</td><td align="left" rowspan="1" colspan="1">Mild cognitive impairment</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">&gt; 20</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">Mild dementia, high performance</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">19–15</td><td align="left" rowspan="1" colspan="1">3–4</td><td align="left" rowspan="1" colspan="1">Mild dementia</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">&lt; 14</td><td align="left" rowspan="1" colspan="1">3–4</td><td align="left" rowspan="1" colspan="1">Moderate dementia</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">Moderately severe dementia</td></tr><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">any</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">Severe dementia</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="FIGURE" id="alz13754-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Line graphs for averaged <italic toggle="yes">Z</italic> normalized in all cognitive domains during progression of cognitive impairment, according to CoDR in <italic toggle="yes">PSEN1</italic> E280A FAD (FAD) and SAD. A, Line graph of the validation of CoDR in AD cases, (<italic toggle="yes">n</italic> = 115, SAD <italic toggle="yes">n</italic> = 53, and <italic toggle="yes">PSEN1</italic> E280A FAD <italic toggle="yes">n</italic> = 62) according to cognitive domains; lines depict average values for executive function, attention, praxis, memory, and language. B, Line graphs of average values for <italic toggle="yes">Z</italic> normalized cognitive domains evaluated in SAD (blue, <italic toggle="yes">n</italic> = 53) and FAD (red, <italic toggle="yes">n</italic> = 62) cases plotted against CoDR. Shaded areas represent 95% confidence interval. All cognitive domains show decline in both groups, with FAD showing a clearer decline pattern and attention and executive function showing irregular patterns in SAD. AD, Alzheimer's disease; CoDR, Cognitive Decline Rank; FAD, familial Alzheimer's disease; SAD, sporadic Alzheimer's disease.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-20-2873-g001.jpg"/></fig></sec><sec id="alz13754-sec-0100"><label>2.3</label><title>Genotyping</title><sec id="alz13754-sec-0110"><label>2.3.1</label><title>Whole‐exome sequencing</title><p>One hundred fifteen individuals (62 with FAD from the E280A pedigree and 53 individuals with SAD) were whole‐exome genotyped using Illumina HumanExome BeadChip‐12v1_A. This single nucleotide polymorphism (*SNP) chip covers putative functional exonic variants selected from &gt; 12,000 individual exome and whole‐genome sequences and consists of ≈ 250,000 markers representing diverse populations (including European, African, Chinese, and Hispanic individuals) and a range of common conditions such as type 2 diabetes, cancer, and metabolic and psychiatric disorders. In addition to pure exonic variation, the HumanExome BeadChip‐12v1_A chip covers SNPs in splice sites, in stop variants, in promoter regions, genome‐wide association study tag markers, among other potentially functional variations. Samples with calls below Illumina's expected 99% SNP call rates were excluded.</p></sec><sec id="alz13754-sec-0120"><label>2.3.2</label><title>Whole‐exome capture</title><p>We performed also whole‐exome capture (WEC) on 14 individuals with AD from the E280A sample. Genomic DNA was extracted from peripheral blood from all patients and processed by the Australian Genome Facility. DNA libraries were constructed from 1 μg of genomic DNA using an Illumina TruSeq genomic DNA library kit (Illumina Inc.), and libraries were multiplexed with six samples pooled together (500 ng each). Exons were enriched from 3 μg of pooled library DNA using an Illumina TruSeq Exome enrichment kit (Illumina Inc.), and ran on a 100‐base‐pair paired‐end run on an Illumina HiSeq 2000 sequencer (Illumina Inc.). A total of 201,071 genomic regions (sampled at ≈ 50X coverage) were surveyed using the WEC platform.</p><p>Subsequently, sequencing image data were processed in real time using Illumina's Real Time Analysis software and converted to FASTQ files using the CASAVA pipeline (Illumina Inc.). The resulting FASTQ files were further processed for variant analysis using Golden Helix's SNP variation suite (SVS) 8.3.0 (Golden Helix, Inc.).</p></sec></sec><sec id="alz13754-sec-0130"><label>2.4</label><title>Genetic, statistical, and bioinformatics analysis</title><sec id="alz13754-sec-0140"><label>2.4.1</label><title>Quality control, filtering, and classification of functional variants</title><p>Genotypes for all individuals from the <italic toggle="yes">PSEN1</italic> E280A pedigree and SAD cases were obtained, and quality control subsequently performed using the following criteria: (1) deviations from Hardy–Weinberg equilibrium with <italic toggle="yes">P</italic> values &lt; 0.05/m (where m is the number of markers included for analysis), (2) a minimum genotype call rate of 90%, (3) the presence of more than two alleles, and (4) monoallelic markers. Markers meeting any of these criteria were excluded from analyses. Genotype and allelic frequencies were estimated by maximum likelihood. To define the presence of population stratification between these cohorts we explored the effect of genetic differentiation between and within (populations and individuals, respectively) these cohorts and found non‐significant deviations from expectations of the Fst parameter (Fst for these cohorts was 0.0187).<xref rid="alz13754-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Considering that Fst values &gt; 0.17 suggest potential stratification between cohorts, we can confidently say these cohorts are unrelated. In addition, we also estimated kinship relatedness, that is, pairs of FAD and SAD cases with Fst values &gt; 0.025 were discarded. Following previous recommendations,<xref rid="alz13754-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> variants with a minor allele frequency (MAF) ≥ 0.01 were classified as common and as rare otherwise. Exonic variants with potential functional effect were determined using the functional prediction information available in the dbNSFP_NS_Functional_Predictions GRCh_37 annotation track, which uses SIFT, PolyPhen‐2, Mutation Taster, Gerp++, and PhyloP19‐21 and is fully implemented in the Golden Helix SVS 8.9.1 Variant Classification module.<xref rid="alz13754-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="alz13754-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="alz13754-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="alz13754-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="alz13754-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> This module was also used to examine interactions between variants and gene transcripts to classify variants based on their potential effect on genes. For filtering of variants in the FAD cohort, Filter 1 included common and uncommon variants captured by the whole‐exome sequencing. Filter 2 excluded variants with a genotype call rate &gt; 90% in Hardy–Weinberg disequilibrium and with one or more than two alleles. Filter 3 excluded variants with MAF &lt; 1% of the functional effect. Therefore, in FAD, Filter 1 resulted in 242,545 variants and Filter 2 in 49,187. After Filter 3, 39,753 variants remained for analysis.<xref rid="alz13754-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> For the SAD cohort submitted to quality control, Filter 1 excluded variants with a genotype call rate &lt; 90%, in Hardy–Weinberg disequilibrium and with one or more than two alleles and with a MAF &lt; 1%, and Filter 2 excluded those not functional. After Filter 1, 38,157 variants remained for analysis, while after applying Filter 2, 11,544 remained.<xref rid="alz13754-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> In all these processes, pruning was applied, and redundant common markers were used for the estimation of relatedness among individuals to control mixed models of association. Variants were classified according to their position in a gene transcript. In addition, variants in coding exons were further classified according to their effect on the gene's protein sequence.</p></sec><sec id="alz13754-sec-0150"><label>2.4.2</label><title>Exonic variants modifying rate of cognitive decline</title><p>Because of the longitudinal nature of the clinical assessment, linear mixed‐effects models (LMEMs)<xref rid="alz13754-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> were fitted to test for associations between common exonic functional variants (CEFVs) and our clinical phenotypes. For a given cognitive domain, a LMEM was initially fitted using sex, years of education, and age at the time of clinical assessment as fixed effects, and individuals as random effects (i.e., the null model). Subsequently, each CEFV was independently included as part of the fixed effects and a new LMEM was fitted (i.e., the alternative model). The contribution of each CEFV to model fitting was determined using a likelihood ratio test (LRT), which expresses how many times more likely the data are under the alternative than on the null model.<xref rid="alz13754-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> Variants for which the LRT disclosed a significant contribution were considered to potentially contribute to clinical performance in our sample based on the specific clinical measure. Model fitting and testing was implemented in R using the lmer4<xref rid="alz13754-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> package. Within each phenotype, <italic toggle="yes">P</italic> values were corrected for multiple testing using the false discovery rate (FDR)<xref rid="alz13754-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> and a method based on extremes‐value theory.<xref rid="alz13754-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>
+</p></sec><sec id="alz13754-sec-0160"><label>2.4.3</label><title>Gene‐based association tests</title><p>Given the presence of genes with more than one variant associating with cognitive variables, we performed gene‐based analysis using Versatile Gene‐Based Test for Genome‐wide Association Studies version 2 (VEGAS2)<xref rid="alz13754-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> under the default settings in our AD groups. VEGAS2 is a freely available software to perform gene‐based association analysis. As implemented, VEGAS2 produces a gene‐based test statistic and an empirical gene‐based <italic toggle="yes">P</italic> value obtained using a simulation‐based approach while correcting by linkage disequilibrium (LD) patterns for each gene. By default, LD patterns are estimated using the HapMap2 Centre d'Etude du Polymorphism Humain/Utah population. SNPs and/or genes shown to be statistically significant using VEGAS2 were classified as cognitive decline modifiers in AD.</p></sec></sec><sec id="alz13754-sec-0170"><label>2.5</label><title>Histological analysis</title><sec id="alz13754-sec-0180"><label>2.5.1</label><title>In situ hybridization</title><p>Human brain tissue from healthy controls without evidence of neurodegeneration and donated to the brain bank of the University of Antioquia after informed consent signature by next of kin was obtained, and in agreement with local ethical laws, were fixed with 4% buffered formalin and processed for paraffin embedding. Sections (3 μm) were subjected to in situ hybridization. OR51B6 RNA was detected in formalin‐fixed paraffin‐embedded brain tissue with formalin fixation time of &lt; 48 hours with the RNAscope 2.5 HD Assay and Detection Reagent Kit Red (Advanced Cell Diagnostics [ACD]) following the manufacturer's instructions. Briefly, brain sections were deparaffinized, incubated with the hybridization probe, enhanced with amplification buffer, washed several times, and detected with Fast Red substrate before counterstaining with hematoxylin. As positive and negative control probes, we used ACD's Hs‐PPIB or DapB probes, respectively. We used a custom‐made probe produced and validated by ACD to detect <italic toggle="yes">OR51B6</italic> RNA.</p></sec></sec></sec><sec id="alz13754-sec-0190"><label>3</label><title>RESULTS</title><sec id="alz13754-sec-0200"><label>3.1</label><title>Clinical characterization of individuals with FAD and SAD</title><p>We have reported previously<xref rid="alz13754-tbl-0002" ref-type="table"> </xref> the cognitive decline progress profile in <italic toggle="yes">PSEN1</italic> E280A patients according to cognitive domains evaluated in the CERAD battery test<xref rid="alz13754-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> (Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S1</xref>). However, when analyzing the impact of genetic variation in cognitive decline in AD, two aspects should be considered. First, even among <italic toggle="yes">PSEN1</italic> E280A FAD patients there is a wide spread of age of onset.<xref rid="alz13754-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Second, the cognitive decline of AD patients as evaluated on a first examination can vary depending on the stage of deterioration of each patient at that point (Figure <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S1A</xref>).</p><p>To uniformize cognitive decline in FAD and SAD patients for association analyses, controlling for age of onset of symptoms and accounting for the introduction of patients at different stage of decline to the follow‐up analysis, we stratified them using the MMSE as a direct overview of cognitive impairment and the GDS for assessing dementia severity progression. By combining the scales, we obtained a stepwise assessment of cognitive decline (Table <xref rid="alz13754-tbl-0001" ref-type="table">1</xref>). The GDS provided differentiation between patients otherwise judged to be similar according to the MMSE. The application of this Cognitive Decline Rank (CoDR) allowed us to successfully stratify the progression of cognitive decline in our AD patients in all assessed domains, independently of age of onset (Figure <xref rid="alz13754-fig-0001" ref-type="fig">1A</xref>; Figure <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S1B‐C</xref>). In general, FAD showed a clearer progression in decline compared to SAD patients, particularly for attention and executive function domains (Figure <xref rid="alz13754-fig-0001" ref-type="fig">1B</xref>).</p></sec><sec id="alz13754-sec-0210"><label>3.2</label><title>Genetic association analyses</title><p>For genetic association studies in both FAD and SAD patients we took 28 variables, corresponding to 23 outputs from 12 tests and their resulting cognitive domains. For each variable a <italic toggle="yes">Z</italic> score was calculated, and its progression during the longitudinal follow‐up of the patients (Figures <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S2‐S3</xref> in supporting information) was calculated as a slope (Figure <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S4</xref> in supporting information) that was used as the final variable for genetic association analyses. A total of 11 variables showed statistically significant association hits in both groups. Memory was the only cognitive domain showing positive association results in all tests and variables. Six out of eleven variables correspond to three memory‐related tests (i.e., the word list test, line recall test, and Rey–Osterrieth Complex Figure [R‐OFR] Immediate Recall). The highest significant associations after FDR and Bonferroni corrections for multiple testing were identified for R‐OFR and the memory domain (Table <xref rid="alz13754-tbl-0002" ref-type="table">2</xref>, Figure <xref rid="alz13754-fig-0002" ref-type="fig">2A</xref>).</p><table-wrap position="float" id="alz13754-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Number of genetic variants associated with the progress of decline according to different cognitive tests in <italic toggle="yes">PSEN1</italic> E280A FAD (FAD) and sporadic AD (SAD).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1"/><th colspan="2" style="border-bottom:solid 1px #000000" align="left" rowspan="1"># variants</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Domain</th><th align="left" rowspan="1" colspan="1">Test</th><th align="left" rowspan="1" colspan="1">FAD</th><th align="left" rowspan="1" colspan="1">SAD</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Language</td><td align="left" rowspan="1" colspan="1">Total verbal fluidity</td><td align="left" rowspan="1" colspan="1">4</td><td align="char" rowspan="1" colspan="1">10</td></tr><tr><td align="left" rowspan="1" colspan="1">Memory</td><td align="left" rowspan="1" colspan="1">Word list test—Total intrusions</td><td align="left" rowspan="1" colspan="1">10</td><td align="char" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">Memory</td><td align="left" rowspan="1" colspan="1">Word list test—Words recall</td><td align="left" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">3</td></tr><tr><td align="left" rowspan="1" colspan="1">Memory</td><td align="left" rowspan="1" colspan="1">Word list test—Words intrusions</td><td align="left" rowspan="1" colspan="1">2</td><td align="char" rowspan="1" colspan="1">72</td></tr><tr><td align="left" rowspan="1" colspan="1">Memory</td><td align="left" rowspan="1" colspan="1">Word list test—Words recall positive</td><td align="left" rowspan="1" colspan="1">1</td><td align="char" rowspan="1" colspan="1">8</td></tr><tr><td align="left" rowspan="1" colspan="1">Memory</td><td align="left" rowspan="1" colspan="1">Line recall</td><td align="left" rowspan="1" colspan="1">8</td><td align="char" rowspan="1" colspan="1">17</td></tr><tr><td align="left" rowspan="1" colspan="1">Memory</td><td align="left" rowspan="1" colspan="1">Rey–Osterrieth complex figure evocation</td><td align="left" rowspan="1" colspan="1">122</td><td align="char" rowspan="1" colspan="1">53</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>
+<italic toggle="yes">Memory</italic>
+</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>
+<italic toggle="yes">Memory domain</italic>
+</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>
+<italic toggle="yes">15</italic>
+</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>
+<italic toggle="yes">9</italic>
+</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Praxis</td><td align="left" rowspan="1" colspan="1">Rey–Osterrieth complex figure copy</td><td align="left" rowspan="1" colspan="1">1</td><td align="char" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">Attention</td><td align="left" rowspan="1" colspan="1">Letter A cancellation test</td><td align="left" rowspan="1" colspan="1">1</td><td align="char" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Executive function</td><td align="left" rowspan="1" colspan="1">Total FAS</td><td align="left" rowspan="1" colspan="1">1</td><td align="char" rowspan="1" colspan="1">50</td></tr><tr><td align="left" rowspan="1" colspan="1">Executive function</td><td align="left" rowspan="1" colspan="1">Wisconsin test categories</td><td align="left" rowspan="1" colspan="1">—</td><td align="char" rowspan="1" colspan="1">3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Total</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">172</td><td align="char" rowspan="1" colspan="1">227</td></tr></tbody></table><table-wrap-foot><fn id="alz13754-tbl2-note-0001"><p>Abbreviations: FAD, familial Alzheimer's disease; FAS, FAS Verbal Fluency Test; SAD, sporadic Alzheimer's disease.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="FIGURE" id="alz13754-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Genetic association analysis of cognitive decline in <italic toggle="yes">PSEN1</italic> E280A FAD. A, Manhattan plots for genetic variants associated with <italic toggle="yes">Z</italic> normalized cognitive tests or domains for all evaluated <italic toggle="yes">PSEN1</italic> E280A FAD patients (<italic toggle="yes">n</italic> = 62). ZWLTintru = <italic toggle="yes">Z</italic> normalized word list total intrusions, ZLR = <italic toggle="yes">Z</italic> normalized line recall, ZR‐OFR = <italic toggle="yes">Z</italic> normalized Rey–Osterrieth immediate figure recall, ZscoreMem = <italic toggle="yes">Z</italic> normalized memory cognitive domain. The x axis represents chromosomal positions and red lines indicate statistical significance thresholds for association. B, Line graphs for normalized <italic toggle="yes">Z</italic> scores for all evaluated <italic toggle="yes">PSEN1</italic> E280A FAD patients for cognitive variables decline progression according to age (x axis). FAD, familial Alzheimer's disease; SAD, sporadic Alzheimer's disease.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-20-2873-g003.jpg"/></fig><p>In total 172 gene variants showed association with RCD in FAD, and 227 gene variants associated with RCD in SAD. Of these, 122 gene variants in FAD were associated to R‐OFR (Table <xref rid="alz13754-tbl-0002" ref-type="table">2</xref>; Tables <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S3, S4</xref>; Data file S<xref rid="alz13754-supitem-0002" ref-type="supplementary-material">1</xref>; Figures <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S5, S6</xref> in supporting information). It should be noted that memory tests and the memory cognitive domain showed a clear decline during dementia in FAD cases (Figure <xref rid="alz13754-fig-0002" ref-type="fig">2B</xref>; Figures <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S2‐S4</xref>). We replicated these analyses in our SAD sample (Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S5</xref> in supporting information) and identified 227 gene variants that were associated with 11 cognitive variables, 10 of them already identified in the FAD (Table <xref rid="alz13754-tbl-0002" ref-type="table">2</xref>, Data file S<xref rid="alz13754-supitem-0002" ref-type="supplementary-material">2</xref> and Figure <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S6</xref>).</p><p>Some differences in genetic association and cognitive decline between FAD and SAD became apparent. Although many genetic markers were associated to R‐OFR in our SAD sample, this is not the variable showing the largest number of associations. In fact, 72 genetic variants were found to be associated with the number of intrusions in the word list test (Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S5</xref>), followed by the executive function domain, for which we found that 50 genetic markers were associated with the fast total test (Table <xref rid="alz13754-tbl-0002" ref-type="table">2</xref>). Even though the cognitive variables showing genetic association were similar between FAD and SAD, we were not able to identify a gene or gene variant associated in both groups. Nevertheless, there were families of proteins commonly associated with decline in specific cognitive tests (Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S4</xref>). Among the wide assortment of genes associated with memory decline in both groups, olfactory receptors were shown to be prominent, with 11 subtypes identified (Tables <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S6, S7</xref> in supporting information). Finally, several genes identified as associated with R‐OFR in FAD make part of protein functional networks (Figure <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S7</xref> in supporting information).</p><p>We also identified that some genes harbored a high number of SNPs associated with specific variables such as R‐OFR or the memory domain in FAD (Figure <xref rid="alz13754-fig-0003" ref-type="fig">3A</xref> and Table <xref rid="alz13754-tbl-0003" ref-type="table">3</xref>). Of these, <italic toggle="yes">DDR1</italic> for R‐OFR and <italic toggle="yes">C6orf10</italic> for the memory domain showed a remarkably high number of SNPs, with 122 and 114, respectively. Other genes associated with R‐OFR and the memory domain decline were located in the 21.34p region of chromosome 6, and on a cluster of olfactory receptors in the 15.4p region in chromosome 11 (Figure <xref rid="alz13754-fig-0003" ref-type="fig">3B</xref> and Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S7</xref>). Interestingly, 508 genetic variants associated with RCD in the FAD group were located in in chromosome 6, while 126 genetic variants closely linked to olfactory receptors were identified in chromosome 11 (Table <xref rid="alz13754-tbl-0003" ref-type="table">3</xref> and Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S7</xref>).</p><fig position="float" fig-type="FIGURE" id="alz13754-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>VEGAS analysis of genetic variants associated with accelerated cognitive decline in <italic toggle="yes">PSEN1</italic> E280A FAD. A, Density plot for identified SNPs associating with <italic toggle="yes">Z</italic> normalized memory domain (Z‐score Memory), x axis represents number of SNPs, and y axis represents statistical significance of association. Red line represents statistical significance threshold. B, Localization of genes with the higher number of associating SNPs in chromosomes 6 and 11. Note the cluster of olfactory receptor (OR) genes. C, Heatmap graphs for depicting gene variants distribution according to averaged <italic toggle="yes">Z</italic> normalized Rey–Osterrieth complex figure immediate recall (R‐OFR) slope of decline in <italic toggle="yes">PSEN1</italic> E280A FAD. <italic toggle="yes">DDR1</italic>, <italic toggle="yes">GTF2H4, VARS2, SFTA2, OR51B6</italic>, and <italic toggle="yes">CD248</italic> gene variants depicted as homozygous normal (HoNor, blue), heterozygous (HeNor, green), homozygous abnormal variants (HeVar, light green), and homozygous abnormal variants (HoVar, yellow). On the side, an accompanying heatmap depicting the number of abnormal variants identified in each gene and each patient. More acute R‐OFR slope of decline is associated with higher number of abnormal variants. AD, Alzheimer's disease; FAD, familial Alzheimer's disease; SAD, sporadic Alzheimer's disease; SNP, single nucleotide polymorphism; VEGAS, Versatile Gene‐Based Test for Genome‐wide Association Studies.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-20-2873-g004.jpg"/></fig><table-wrap position="float" id="alz13754-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Number of SNPs and chromosomal location of genes associated with Rey–Osterrieth complex figure Copy <italic toggle="yes">PSEN1</italic> E280A FAD using VEGAS.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1"/><th colspan="2" style="border-bottom:solid 1px #000000" align="char" rowspan="1">VEGAS</th><th align="left" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Genes</th><th align="left" rowspan="1" colspan="1">Function</th><th align="left" rowspan="1" colspan="1">Association</th><th align="char" rowspan="1" colspan="1">Chr</th><th align="left" rowspan="1" colspan="1">Position</th><th align="char" rowspan="1" colspan="1">nSNPs</th><th align="left" rowspan="1" colspan="1">nSNPs</th><th align="left" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">DDR1</italic>
+</td><td align="left" rowspan="1" colspan="1">Cell adhesion</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">30,850,694–30,867,933</td><td align="char" rowspan="1" colspan="1">122</td><td align="left" rowspan="5" colspan="1">355</td><td align="left" rowspan="5" colspan="1">
+<bold>Chr 6</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">GTF2H4</italic>
+</td><td align="left" rowspan="1" colspan="1">Transcription</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">30,875,957–30,881,883</td><td align="char" rowspan="1" colspan="1">57</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">VARS2</italic>
+</td><td align="left" rowspan="1" colspan="1">Metabolism</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">30,881,982–30,894,236</td><td align="char" rowspan="1" colspan="1">62</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">SFAT2</italic>
+</td><td align="left" rowspan="1" colspan="1">Immune response</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">30,899,127–30,899,952</td><td align="char" rowspan="1" colspan="1">58</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">DPCR1</italic>
+</td><td align="left" rowspan="1" colspan="1">Mitochondria</td><td align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">30,908,777–30,921,998</td><td align="char" rowspan="1" colspan="1">56</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">C6orf10</italic>
+</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">32,260,475–32,339,705</td><td align="char" rowspan="1" colspan="1">114</td><td align="left" rowspan="2" colspan="1">153</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">HLA‐DQB1</italic>
+</td><td align="left" rowspan="1" colspan="1">Immune response</td><td align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">32,627,241–32,634,466</td><td align="char" rowspan="1" colspan="1">39</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">OR51B4</italic>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">5,322,244–5,323,176</td><td align="char" rowspan="1" colspan="1">18</td><td align="left" rowspan="6" colspan="1">126</td><td align="left" rowspan="6" colspan="1">
+<bold>Chr 11</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">OR51B2</italic>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">5,344,528–5,345,582</td><td align="char" rowspan="1" colspan="1">22</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">OR51B5</italic>
+</td><td align="left" rowspan="1" colspan="1">Olfaction</td><td align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">5,362,113–5,368,140</td><td align="char" rowspan="1" colspan="1">25</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">OR51B6</italic>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">5,372,738–5,373,676</td><td align="char" rowspan="1" colspan="1">25</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">OR51M1</italic>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">5,410,607–5,411,664</td><td align="char" rowspan="1" colspan="1">25</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">OR5R1</italic>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">56,184,734–56,185,708</td><td align="char" rowspan="1" colspan="1">11</td></tr></tbody></table><table-wrap-foot><fn id="alz13754-tbl3-note-0001"><p>Abbreviations: FAD, familial Alzheimer's disease; SNP, single nucleotide polymorphism; VEGAS, Versatile Gene‐Based Test for Genome‐wide Association Studies.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Subsequently, we analyzed the impact of genetic variants in the progression of R‐OFR performance in our FAD sample. We assessed those genes with both the strongest association on our SNP‐based analyses and the highest number of SNPs according to VEGAS2 (Figure <xref rid="alz13754-fig-0003" ref-type="fig">3C</xref>). Interestingly, once the effect of abnormal variants on R‐OFR longitudinal performance was assessed, their contribution to R‐OFR decline became clear. In the case of the olfactory receptor <italic toggle="yes">OR51B6</italic>, a single patient could contain as many as six variants in this gene, and the accumulation of variants shows an effect on R‐OFR decline. In addition, several patients presented variants in more than one gene, possibly generating a cumulative effect (Figure <xref rid="alz13754-fig-0003" ref-type="fig">3C</xref>). The accumulation of &gt; 80 variants in these genes has a direct impact on R‐OFR performance in normal to MCI FAD patients. We repeated the association analysis in FAD patients taking into consideration cognitive decline evaluated only when patients were assessed normal or with MCI. The number of cognitive variables showing association was reduced to eight, with memory tests and the memory domain still showing relevant associations (Figure <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S8</xref> in supporting information). We identified that only 32 genetic variants were preserved from the previous association analysis but not necessarily to the same cognitive test, with R‐OFR and the memory domain showing more reproducibility between analyses (Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S8</xref> in supporting information). Finally, eight new variants belonged to gene families already described in the previous analysis whether for FAD or SAD (Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S9</xref> in supporting information).</p><p>As a validation of our results, we consulted the GEO:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE147528">GSE147528</ext-link> dataset and its graphical representation (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://kampmannlab.ucsf.edu/ad-brain" ext-link-type="uri">https://kampmannlab.ucsf.edu/ad‐brain</ext-link>)<xref rid="alz13754-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> for the cellular distribution and expression of the main genes identified in the VEGAS2 analyses (<italic toggle="yes">VARS2</italic>, <italic toggle="yes">DDR1</italic>, <italic toggle="yes">CD248</italic>, and <italic toggle="yes">OR51B6</italic>). <italic toggle="yes">VARS2</italic> and <italic toggle="yes">DDR1</italic> showed contrasting expression distribution, with predominant expression of <italic toggle="yes">VARS2</italic> in neurons (Figure <xref rid="alz13754-fig-0004" ref-type="fig">4A‐C</xref>), and predominant expression of <italic toggle="yes">DDR1</italic> in glial cells. On the other hand, <italic toggle="yes">CD248</italic> showed almost no expression in any cell type cluster and <italic toggle="yes">OR51B6</italic> was not present in the dataset. Olfaction and olfactory receptors have been previously associated with AD progression.<xref rid="alz13754-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> However, there is not a clear role for olfactory receptors in the cellular biology of neurons not directly involved with olfactory function.<xref rid="alz13754-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> Given that among olfactory receptors <italic toggle="yes">OR51B6</italic> was the one that presented with the highest number of variants affecting R‐OFR performance, and that we could not analyze its expression in the GEO: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE147528">GSE147528</ext-link> dataset, we used in situ hybridization to verify the expression of <italic toggle="yes">OR51B6</italic> in brain tissue (Figure <xref rid="alz13754-fig-0004" ref-type="fig">4D‐E</xref>). We detected scarce <italic toggle="yes">OR51B6</italic> signal in neurons from all cortices, although it was more evident in large pyramidal neurons, particularly in the temporal cortex (Figure <xref rid="alz13754-fig-0004" ref-type="fig">4D‐E</xref>). Thus, there is a potential functional role of <italic toggle="yes">VARS2</italic> and <italic toggle="yes">OR51B6</italic> genetic variants in neurons and of <italic toggle="yes">DDR1</italic> in glial cells, that could have an impact in cognitive function and its decline in <italic toggle="yes">PSEN1</italic> E280A FAD patients.</p><fig position="float" fig-type="FIGURE" id="alz13754-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>
+<italic toggle="yes">VARS2</italic>, <italic toggle="yes">DDR1</italic>, <italic toggle="yes">CD248</italic>, and <italic toggle="yes">OR51B6</italic> cellular expression in human cortex. A, t‐SNE clusters for cell populations as determined by single nuclei RNA sequencing from superior frontal gyrus from control and AD cases from the dataset GEO:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE147528">GSE147528</ext-link>, obtained from the Kapmann's lab website (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://kampmannlab.ucsf.edu/ad-brain" ext-link-type="uri">https://kampmannlab.ucsf.edu/ad‐brain</ext-link>) and modified to show <italic toggle="yes">VARS2</italic> expression. Higher expression levels are visible in neuronal populations. B, In contrast, t‐SNE clusters portraying <italic toggle="yes">DDR1</italic> expression levels show higher expression in glial cells. C, t‐SNE clusters portraying <italic toggle="yes">CD248</italic> expression levels in a very low number of cells. D, In situ hybridization (red) detects level of expression of peptidylprolyl isomerase B (<italic toggle="yes">PPIB</italic>)/ positive control in human temporal cortex. Abundant intracellular signal could be observed in neurons (yellow arrowheads). E, In situ hybridization (red) detects expression of <italic toggle="yes">OR51B6</italic> in human temporal cortex. Only scant intracellular signal could be observed in some neurons (yellow arrowheads). AD, Alzheimer's disease; Astr, astrocytes; EC, endothelial cells; InhNeu, inhibitory neurons; Mcg, microglia; Olig, oligodendrocytes; P‐Olig, oligodendrocyte precursor cells; t‐SNE, t‐distributed stochastic neighbor embedding.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ALZ-20-2873-g002.jpg"/></fig></sec></sec><sec id="alz13754-sec-0220"><label>4</label><title>DISCUSSION</title><p>Cognitive decline in AD has been mainly characterized by progressive memory impairment.<xref rid="alz13754-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Accordingly, we found that the memory domain and more specifically, verbal and visual memory, present with progressive decline in both <italic toggle="yes">PSEN1</italic> FAD and SAD. Furthermore, the rate of verbal and visual memory decline was shown to be strongly influenced by genetic variants (Figure <xref rid="alz13754-fig-0002" ref-type="fig">2</xref>). Although the specific genes identified for <italic toggle="yes">PSEN1</italic> FAD differ from those identified in SAD, common families of proteins were detected and might play a role in memory decline (Tables <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S4</xref> and S<xref rid="alz13754-supitem-0002" ref-type="supplementary-material">9</xref>). Interestingly, among memory tests in the CERAD battery, the immediate recall of the R‐OFR showed the clearest susceptibility for performance modification by genetic variants. The complexity of this test involving praxis and visual memory may result in higher sensitivity to cognitive decline, allowing the influence of genetic variability to become evident.<xref rid="alz13754-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="alz13754-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> In addition, R‐OFR immediate recall has been used previously to assess visual memory in the <italic toggle="yes">PSEN1</italic> E280A population. Carriers showed an association between visual memory performance and AD pathology in vivo, evaluated by positron emission tomography (PET).<xref rid="alz13754-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>
+</p><p>We also found that in <italic toggle="yes">PSEN1</italic> E280A FAD patients, a cluster of genes localized in chromosomes 6 and 11 showed highly statistically significant association to visual memory decline, as evaluated by R‐OFR, and to memory decline in general. The 6p21.33 region showed five genes (i.e., <italic toggle="yes">DDR1</italic>, <italic toggle="yes">GTF2H4</italic>, <italic toggle="yes">VARS2</italic>, <italic toggle="yes">DPCR1</italic>, and <italic toggle="yes">SFTA2</italic>) strongly associated to memory performance. Of these, <italic toggle="yes">DDR1</italic> has been previously associated with AD playing a role in amyloid beta (Aβ) degradation;<xref rid="alz13754-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>
+<italic toggle="yes">GTF2H4</italic> has been associated with multiple sclerosis,<xref rid="alz13754-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> lung cancer,<xref rid="alz13754-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> amyotrophic lateral sclerosis,<xref rid="alz13754-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> and schizophrenia;<xref rid="alz13754-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> mutations in <italic toggle="yes">VARS2</italic> have been identified in patients suffering from mitochondrial encephalomyopathies;<xref rid="alz13754-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> and <italic toggle="yes">DPCR1</italic> belongs to a subset of genes found to be associated with major neuropsychiatric disorders.<xref rid="alz13754-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> Conversely, genetic variants in <italic toggle="yes">SFTA2</italic> have not been reported as associated with central nervous system disorders. On the other hand, the 6p21.32 region in chromosome 6 showed two relevant genes, <italic toggle="yes">HLA‐DQB1</italic> and <italic toggle="yes">C6orf10</italic>. Genetic variants in <italic toggle="yes">HLA‐DQB1</italic> have been described as modulating susceptibility for AD,<xref rid="alz13754-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> and <italic toggle="yes">C6orf10</italic>, also known as testis specific basic protein 1 (TSBP1), has been associated with schizophrenia.<xref rid="alz13754-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref>
+</p><p>Genes identified in chromosome 11 belong to an olfactory receptors (OR) gene cluster. Interestingly, several genetic variants harbored in other OR genes located in the same region were associated to visual memory and memory in general, for both FAD and SAD groups (Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S6</xref>). It has been suggested that OR could play a role in non‐chemosensory organs, including the brain,<xref rid="alz13754-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="alz13754-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref> and their gene expression has been detected as altered in several neurological and neurodegenerative diseases,<xref rid="alz13754-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> including AD.<xref rid="alz13754-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> In fact, olfactory impairment has been shown to be an early marker in AD and other neurodegenerative diseases,<xref rid="alz13754-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>, <xref rid="alz13754-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> and it could be associated with its pathogenesis.<xref rid="alz13754-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref> A decrease in smell perception has been detected in people with AD in 90% of cases,<xref rid="alz13754-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref>, <xref rid="alz13754-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref> and several animal models have been developed to study the role of the olfactory epithelium in the pathways related to the pathogenesis of AD.<xref rid="alz13754-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> In addition, there seems to be a correlation between amyloid load and olfactory impairment, in contrast to the lack of correlation between amyloid load and cognitive impairment.<xref rid="alz13754-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref>
+</p><p>Copy number variants of olfactory genes associated with age of SAD onset<xref rid="alz13754-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref> and olfactory tests are widely used as a diagnostic and predictive tool in AD clinical assessment.<xref rid="alz13754-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref>, <xref rid="alz13754-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref> From a pathological perspective, the olfactory bulb is involved in the early Braak stages<xref rid="alz13754-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref> and correlates with cortical pathology.<xref rid="alz13754-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref>, <xref rid="alz13754-bib-0073" ref-type="bibr">
+<sup>73</sup>
+</xref> Aβ plaques and tau neurofibrillary tangles have been identified in olfactory structures in the brain, and it should be noted that limbic structures, affected early in AD, provide direct afferent and efferent pathways to olfactory structures such as the olfactory bulb and piriform cortex.<xref rid="alz13754-bib-0074" ref-type="bibr">
+<sup>74</sup>
+</xref> It has also been postulated that the APP machinery in the olfactory epithelium differs from other parts of the brain. This is because accumulation of Aβ*56 has been found in the olfactory epithelium before transgenic mice show cognitive deficits.<xref rid="alz13754-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref> Ectopic olfactory receptors, which are expressed in tissues other than the olfactory epithelium, have been frequently reported in recent years, and it is possible that they have functions other than those related to smell.<xref rid="alz13754-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref> There are reports of detection of olfactory receptors in the frontal, entorhinal, and cerebellum cortex in <italic toggle="yes">post mortem</italic> brains of subjects with neurodegenerative diseases.<xref rid="alz13754-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> Recently, 35 individuals belonging to the <italic toggle="yes">PSEN1</italic> E280A cohort, 16 of them non‐demented mutation carriers, were assessed for olfactory and cognitive tests contrasted to tau PET imaging. An association between worse olfactory performance and higher tau burden was identified in <italic toggle="yes">PSEN1</italic> E280A carriers.<xref rid="alz13754-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref> There is also evidence of inflammatory changes and altered myelination in the olfactory tract of <italic toggle="yes">post mortem</italic> tissue from <italic toggle="yes">PSEN1</italic> E280A carriers.<xref rid="alz13754-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref> The timeline of neurodegenerative events in the olfactory bulb of this population still needs to be determined. Once it is clarified, the evaluation of the association between smell perception dysfunction and the genetic variants identified in this study will be possible.</p><p>Expression of OR in non‐sensory neurons has been previously identified in substantia nigra and specifically <italic toggle="yes">OR2H2</italic>, <italic toggle="yes">OR2A4</italic>, and <italic toggle="yes">OR6K3</italic> have been detected in other cortical and subcortical structures.<xref rid="alz13754-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> In <italic toggle="yes">post mortem</italic> transcriptome analysis of the olfactory bulb in humans with varying degrees of AD pathology, negatively regulated <italic toggle="yes">OR2T2</italic> and <italic toggle="yes">OR5M1</italic> olfactory receptors were observed in intermediate stages, and positively regulated <italic toggle="yes">OR2T8</italic> and <italic toggle="yes">OR6J1</italic> genes in advanced stages, indicating different receptor regulation in the olfactory bulb for AD.<xref rid="alz13754-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref>, <xref rid="alz13754-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> Studies in human carriers of <italic toggle="yes">APOE</italic> ε4 have shown early olfactory dysfunction, impaired smell identification, and altered olfactory‐related evoked potentials.<xref rid="alz13754-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> The possible role of an olfactory receptor as a proinflammatory chemosensor is raised by identifying <italic toggle="yes">Olfr110</italic> differentially regulated according to <italic toggle="yes">APOE</italic> alleles during induced microglia activation.<xref rid="alz13754-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref>, <xref rid="alz13754-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref> Here we showed that <italic toggle="yes">OR51B6</italic>, one of the genes with the strongest association between genetic variants and rate of memory decline, is expressed in low amounts in cortical neurons. However, the functional role <italic toggle="yes">OR516B</italic> plays in these neurons and their possible impact in memory processes remains to be explored.</p><p>Finally, acceleration of memory decline associated with a specific genetic profile was shown to be higher in early stages of dementia. It is possible that in later stages of AD the memory tests in use for dementia assessment are no longer sensitive enough to detect the effect of the genetic variants identified in this study. Recently, in a larger sample of <italic toggle="yes">PSEN1</italic> E280A carriers, an association between <italic toggle="yes">APOE</italic> ε4 allele and faster cognitive decline was identified.<xref rid="alz13754-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Sample size could be considered a limitation of the present study. For that finding, we did not identify an association between slope of cognitive decline and <italic toggle="yes">APOE</italic> alleles (Table <xref rid="alz13754-supitem-0002" ref-type="supplementary-material">S10</xref> in supporting information). Finding a larger sample of FAD patients with the genetic homogeneity and structured follow‐up of those of the <italic toggle="yes">PSEN1</italic> E280A population represents a challenge. We believe that the methodological and analytic approaches of this study compensate for sample size up to a point and that they support the conclusions. Other limitations of this study include the heterogeneity of pharmacological intervention in both populations during their follow‐up, and its possible impact in RCD. Previously we have identified that FAD cases receive more often antiepileptic medication than SAD patients.<xref rid="alz13754-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Because a positive effect on cognitive decline of these drugs has been reported for AD,<xref rid="alz13754-bib-0078" ref-type="bibr">
+<sup>78</sup>
+</xref> and FAD cases showed a more severe cognitive decline than SAD patients, we consider that a drug‐related effect in our findings is unlikely.</p><p>Even though progressive and severe memory impairment is a main feature in AD, RCD varies between patients, with some patients showing accelerated decline and reaching dependency earlier in their disease.<xref rid="alz13754-bib-0079" ref-type="bibr">
+<sup>79</sup>
+</xref> Recently we have identified two <italic toggle="yes">PSEN1</italic> E280A carriers presenting with dementia onset &gt; 25 years later than the average for <italic toggle="yes">PSEN1</italic> E280A carriers, together with distinct neuropathological profile. Notably, disease protection in each case was associated with a different mutation in another gene.<xref rid="alz13754-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz13754-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> This degree of protection is an indicator of the impact of genetic variants in the heterogeneity of disease presentation in this population, and of its suitability as a disease model for discovering relevant phenotype modifiers. Thus, the identification of genetic markers in accelerated memory decline in both FAD and SAD not only could bring us a clue for other pathological mechanisms in AD but also become targets of future multi‐stage therapies for addressing cognitive decline in this disorder.</p></sec><sec id="alz13754-sec-0230"><title>AUTHOR CONTRIBUTIONS</title><p>Diego Sepulveda‐Falla, Jorge I. Vélez, Francisco Lopera, Claudio A. Mastronardi, and Mauricio Arcos‐Burgos have full access to all the data in the study. Diego Sepulveda‐Falla performed data and statistical analyses. Jorge I. Vélez, Claudio A. Mastronardi, and Mauricio Arcos‐Burgos performed genetic, statistical, and bioinformatic analyses. Ana Baena, Sonia Moreno, and Francisco Lopera performed neurological or cognitive evaluations and collected the data. Diego Sepulveda‐Falla and Susanne Krasemann performed and analyzed histological studies. Diego Sepulveda‐Falla, Jorge I. Vélez, Natalia Acosta‐Baena, Claudio A. Mastronardi, and Mauricio Arcos‐Burgos drafted the manuscript. Diego Sepulveda‐Falla, Jorge I. Vélez, and Mauricio Arcos‐Burgos are responsible for submitting this work for publication.</p></sec><sec sec-type="COI-statement" id="alz13754-sec-0250"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors have no financial relationships relevant to this article to disclose. Author disclosures are available in the <xref rid="alz13754-supitem-0001" ref-type="supplementary-material">supporting information</xref>.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz13754-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supplement Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-2873-s001.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz13754-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supplement Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-2873-s002.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz13754-sec-0240"><title>ACKNOWLEDGMENTS</title><p>The authors express their highest appreciation to the patients and relatives enrolled in this study for more than 30 years. DS‐F was supported by the US National Institute of Neurological Disorders and Stroke and National Institute on Aging co‐funded grant RF1NS110048. This study was financed by a research grant from Australian National University (ANU) to MAB to launch his laboratory, and MINCIENCIAS grant 1115‐408‐20543 and Universidad de Antioquia. The sponsor of the study has no role in the study design, data collection, data analysis, data interpretation, or writing of the reports.</p><p>Open access funding enabled and organized by Projekt DEAL.</p></ack><ref-list id="alz13754-bibl-0001"><title>REFERENCES</title><ref id="alz13754-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz13754-cit-0001">
+<string-name name-style="western">
+<surname>Wimo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jönsson</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bond</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prince</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winblad</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Alzheimer Disease International. The worldwide economic impact of dementia 2010</article-title>. <source>Alzheimers Dement J Alzheimers Assoc</source>. <year>2013</year>;<volume>9</volume>:<fpage>1</fpage>‐<lpage>11</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2012.11.006</pub-id>
+<pub-id pub-id-type="pmid">23305821</pub-id></mixed-citation></ref><ref id="alz13754-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz13754-cit-0002">
+<string-name name-style="western">
+<surname>Scheltens</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Breteler</surname>
+<given-names>MMB</given-names>
+</string-name>, et al. <article-title>Alzheimer's disease</article-title>. <source>Lancet Lond Engl</source>. <year>2016</year>;<volume>388</volume>:<fpage>505</fpage>‐<lpage>517</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S0140-6736(15)01124-1</pub-id>
+<pub-id pub-id-type="pmid">26921134</pub-id></mixed-citation></ref><ref id="alz13754-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz13754-cit-0003">
+<string-name name-style="western">
+<surname>Sepulveda‐Falla</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glatzel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopera</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Phenotypic profile of early‐onset familial Alzheimer's disease caused by presenilin‐1 E280A mutation</article-title>. <source>J Alzheimers Dis JAD</source>. <year>2012</year>;<volume>32</volume>:<fpage>1</fpage>‐<lpage>12</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-2012-120907</pub-id>
+<pub-id pub-id-type="pmid">22766738</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz13754-cit-0004">
+<string-name name-style="western">
+<surname>Acosta‐Baena</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sepulveda‐Falla</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopera‐Gómez</surname>
+<given-names>CM</given-names>
+</string-name>, et al. <article-title>Pre‐dementia clinical stages in presenilin 1 E280A familial early‐onset Alzheimer's disease: a retrospective cohort study</article-title>. <source>Lancet Neurol</source>. <year>2011</year>;<volume>10</volume>:<fpage>213</fpage>‐<lpage>220</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(10)70323-9</pub-id>
+<pub-id pub-id-type="pmid">21296022</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz13754-cit-0005">
+<string-name name-style="western">
+<surname>Petersen</surname>
+<given-names>RC</given-names>
+</string-name>. <article-title>Clinical practice. Mild cognitive impairment</article-title>. <source>N Engl J Med</source>. <year>2011</year>;<volume>364</volume>:<fpage>2227</fpage>‐<lpage>2234</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJMcp0910237</pub-id>
+<pub-id pub-id-type="pmid">21651394</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz13754-cit-0006">
+<string-name name-style="western">
+<surname>Sperling</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mormino</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>The evolution of preclinical Alzheimer's disease: implications for prevention trials</article-title>. <source>Neuron</source>. <year>2014</year>;<volume>84</volume>:<fpage>608</fpage>‐<lpage>622</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neuron.2014.10.038</pub-id>
+<pub-id pub-id-type="pmid">25442939</pub-id>
+<pub-id pub-id-type="pmcid">PMC4285623</pub-id></mixed-citation></ref><ref id="alz13754-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz13754-cit-0007">
+<string-name name-style="western">
+<surname>Weiler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fukuda</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Massabki</surname>
+<given-names>LHP</given-names>
+</string-name>, et al. <article-title>Default mode, executive function, and language functional connectivity networks are compromised in mild Alzheimer's disease</article-title>. <source>Curr Alzheimer Res</source>. <year>2014</year>;<volume>11</volume>:<fpage>274</fpage>‐<lpage>282</lpage>.<pub-id pub-id-type="pmid">24484280</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1567205011666140131114716</pub-id></mixed-citation></ref><ref id="alz13754-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz13754-cit-0008">
+<string-name name-style="western">
+<surname>Canevelli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kelaiditi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Campo</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Predicting the rate of cognitive decline in Alzheimer disease: data From the ICTUS Study</article-title>. <source>Alzheimer Dis Assoc Disord</source>. <year>2016</year>;<volume>30</volume>:<fpage>237</fpage>‐<lpage>242</lpage>. doi:<pub-id pub-id-type="doi">10.1097/WAD.0000000000000124</pub-id>
+<pub-id pub-id-type="pmid">27556936</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz13754-cit-0009">
+<string-name name-style="western">
+<surname>Aguirre‐Acevedo</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopera</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henao</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Cognitive decline in a colombian kindred with autosomal dominant Alzheimer disease: a retrospective cohort study</article-title>. <source>JAMA Neurol</source>. <year>2016</year>;<volume>73</volume>:<fpage>431</fpage>‐<lpage>438</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2015.4851</pub-id>
+<pub-id pub-id-type="pmid">26902171</pub-id>
+<pub-id pub-id-type="pmcid">PMC5505685</pub-id></mixed-citation></ref><ref id="alz13754-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz13754-cit-0010">
+<string-name name-style="western">
+<surname>Amieva</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mokri</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le Goff</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Compensatory mechanisms in higher‐educated subjects with Alzheimer's disease: a study of 20 years of cognitive decline</article-title>. <source>Brain J Neurol</source>. <year>2014</year>;<volume>137</volume>:<fpage>1167</fpage>‐<lpage>1175</lpage>. doi:<pub-id pub-id-type="doi">10.1093/brain/awu035</pub-id>
+<pub-id pub-id-type="pmid">24578544</pub-id></mixed-citation></ref><ref id="alz13754-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz13754-cit-0011">
+<string-name name-style="western">
+<surname>Albrecht</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szoeke</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maruff</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Longitudinal cognitive decline in the AIBL cohort: the role of APOE ε4 status</article-title>. <source>Neuropsychologia</source>. <year>2015</year>;<volume>75</volume>:<fpage>411</fpage>‐<lpage>419</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neuropsychologia.2015.06.008</pub-id>
+<pub-id pub-id-type="pmid">26102189</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz13754-cit-0012">
+<string-name name-style="western">
+<surname>Langella</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barksdale</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vasquez</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Effect of apolipoprotein genotype and educational attainment on cognitive function in autosomal dominant Alzheimer's disease</article-title>. <source>Nat Commun</source>. <year>2023</year>;<volume>14</volume>:<fpage>5120</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41467-023-40775-z</pub-id>
+<pub-id pub-id-type="pmid">37612284</pub-id>
+<pub-id pub-id-type="pmcid">PMC10447560</pub-id></mixed-citation></ref><ref id="alz13754-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz13754-cit-0013">
+<string-name name-style="western">
+<surname>Wicklund</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rademaker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weitner</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weintraub</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Rate of cognitive change measured by neuropsychologic test performance in 3 distinct dementia syndromes</article-title>. <source>Alzheimer Dis Assoc Disord</source>. <year>2007</year>;<volume>21</volume>:<fpage>S70</fpage>‐<lpage>S78</lpage>. doi:<pub-id pub-id-type="doi">10.1097/WAD.0b013e31815bf8a5</pub-id>
+<pub-id pub-id-type="pmid">18090428</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz13754-cit-0014">
+<string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Das</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cherbuin</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anstey</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Easteal</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Association of genetic risk factors with cognitive decline: the PATH through life project</article-title>. <source>Neurobiol Aging</source>. <year>2016</year>;<volume>41</volume>:<fpage>150</fpage>‐<lpage>158</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2016.02.016</pub-id>
+<pub-id pub-id-type="pmid">27103528</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz13754-cit-0015">
+<string-name name-style="western">
+<surname>Carrasquillo</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crook</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pedraza</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Late‐onset Alzheimer's risk variants in memory decline, incident mild cognitive impairment, and Alzheimer's disease</article-title>. <source>Neurobiol Aging</source>. <year>2015</year>;<volume>36</volume>:<fpage>60</fpage>‐<lpage>67</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2014.07.042</pub-id>
+<pub-id pub-id-type="pmid">25189118</pub-id>
+<pub-id pub-id-type="pmcid">PMC4268433</pub-id></mixed-citation></ref><ref id="alz13754-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz13754-cit-0016">
+<string-name name-style="western">
+<surname>Hohman</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dumitrescu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cox</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jefferson</surname>
+<given-names>AL</given-names>
+</string-name>. <article-title>Alzheimer's Neuroimaging Initiative. Genetic resilience to amyloid related cognitive decline</article-title>. <source>Brain Imaging Behav</source>. <year>2017</year>;<volume>11</volume>:<fpage>401</fpage>‐<lpage>409</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s11682-016-9615-5</pub-id>
+<pub-id pub-id-type="pmid">27743375</pub-id>
+<pub-id pub-id-type="pmcid">PMC5392179</pub-id></mixed-citation></ref><ref id="alz13754-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz13754-cit-0017">
+<string-name name-style="western">
+<surname>Umlauf</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rappold</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schiller</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Careful neuropsychological testing reveals a novel genetic marker, GSTO1*C, linked to the pre‐stage of Alzheimer's disease</article-title>. <source>Oncotarget</source>. <year>2016</year>;<volume>7</volume>:<fpage>39108</fpage>‐<lpage>39117</lpage>. doi:<pub-id pub-id-type="doi">10.18632/oncotarget.9773</pub-id>
+<pub-id pub-id-type="pmid">27259244</pub-id>
+<pub-id pub-id-type="pmcid">PMC5129917</pub-id></mixed-citation></ref><ref id="alz13754-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz13754-cit-0018">
+<string-name name-style="western">
+<surname>Suzuki</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hirakawa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ihara</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Effect of apolipoprotein E ε4 allele on the progression of cognitive decline in the early stage of Alzheimer's disease</article-title>. <source>Alzheimers Dement N Y N</source>. <year>2020</year>;<volume>6</volume>:<elocation-id>e12007</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/trc2.12007</pub-id>
+<pub-id pub-id-type="pmcid">PMC7087431</pub-id><pub-id pub-id-type="pmid">32211510</pub-id></mixed-citation></ref><ref id="alz13754-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz13754-cit-0019">
+<string-name name-style="western">
+<surname>Sepulveda‐Falla</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matschke</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bernreuther</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Deposition of hyperphosphorylated tau in cerebellum of PS1 E280A Alzheimer's disease</article-title>. <source>Brain Pathol Zurich Switz</source>. <year>2011</year>;<volume>21</volume>:<fpage>452</fpage>‐<lpage>463</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1750-3639.2010.00469.x</pub-id>
+<pub-id pub-id-type="pmcid">PMC8094246</pub-id><pub-id pub-id-type="pmid">21159009</pub-id></mixed-citation></ref><ref id="alz13754-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz13754-cit-0020">
+<string-name name-style="western">
+<surname>Sepulveda‐Falla</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barrera‐Ocampo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hagel</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Familial Alzheimer's disease‐associated presenilin‐1 alters cerebellar activity and calcium homeostasis</article-title>. <source>J Clin Invest</source>. <year>2014</year>;<volume>124</volume>:<fpage>1552</fpage>‐<lpage>1567</lpage>. doi:<pub-id pub-id-type="doi">10.1172/JCI66407</pub-id>
+<pub-id pub-id-type="pmid">24569455</pub-id>
+<pub-id pub-id-type="pmcid">PMC3973081</pub-id></mixed-citation></ref><ref id="alz13754-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz13754-cit-0021">
+<string-name name-style="western">
+<surname>Vélez</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chandrasekharappa</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henao</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Pooling/bootstrap‐based GWAS (pbGWAS) identifies new loci modifying the age of onset in PSEN1 p.Glu280Ala Alzheimer's disease</article-title>. <source>Mol Psychiatry</source>. <year>2013</year>;<volume>18</volume>:<fpage>568</fpage>‐<lpage>575</lpage>. doi:<pub-id pub-id-type="doi">10.1038/mp.2012.81</pub-id>
+<pub-id pub-id-type="pmid">22710270</pub-id>
+<pub-id pub-id-type="pmcid">PMC3596442</pub-id></mixed-citation></ref><ref id="alz13754-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz13754-cit-0022">
+<string-name name-style="western">
+<surname>Vélez</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopera</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sepulveda‐Falla</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>APOE*E2 allele delays age of onset in PSEN1 E280A Alzheimer's disease</article-title>. <source>Mol Psychiatry</source>. <year>2016</year>;<volume>21</volume>:<fpage>916</fpage>‐<lpage>924</lpage>. doi:<pub-id pub-id-type="doi">10.1038/mp.2015.177</pub-id>
+<pub-id pub-id-type="pmid">26619808</pub-id>
+<pub-id pub-id-type="pmcid">PMC5414071</pub-id></mixed-citation></ref><ref id="alz13754-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz13754-cit-0023">
+<string-name name-style="western">
+<surname>Vélez</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rivera</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mastronardi</surname>
+<given-names>CA</given-names>
+</string-name>, et al. <article-title>A mutation in DAOA modifies the age of onset in PSEN1 E280A Alzheimer's Disease</article-title>. <source>Neural Plast</source>. <year>2016</year>;<volume>2016</volume>:<elocation-id>9760314</elocation-id>. doi:<pub-id pub-id-type="doi">10.1155/2016/9760314</pub-id>
+<pub-id pub-id-type="pmid">26949549</pub-id>
+<pub-id pub-id-type="pmcid">PMC4753688</pub-id></mixed-citation></ref><ref id="alz13754-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz13754-cit-0024">
+<string-name name-style="western">
+<surname>Guzmán‐Vélez</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martínez</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Papp</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Associative memory and in vivo brain pathology in asymptomatic presenilin‐1 E280A carriers</article-title>. <source>Neurology</source>. <year>2020</year>;<volume>95</volume>:<fpage>e1312</fpage>‐<lpage>e1321</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000010177</pub-id>
+<pub-id pub-id-type="pmid">32611637</pub-id>
+<pub-id pub-id-type="pmcid">PMC7538214</pub-id></mixed-citation></ref><ref id="alz13754-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz13754-cit-0025">
+<string-name name-style="western">
+<surname>Sepulveda‐Falla</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sanchez</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almeida</surname>
+<given-names>MC</given-names>
+</string-name>, et al. <article-title>Distinct tau neuropathology and cellular profiles of an APOE3 Christchurch homozygote protected against autosomal dominant Alzheimer's dementia</article-title>. <source>Acta Neuropathol (Berl)</source>. <year>2022</year>;<volume>144</volume>:<fpage>589</fpage>‐<lpage>601</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00401-022-02467-8</pub-id>
+<pub-id pub-id-type="pmid">35838824</pub-id>
+<pub-id pub-id-type="pmcid">PMC9381462</pub-id></mixed-citation></ref><ref id="alz13754-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz13754-cit-0026">
+<string-name name-style="western">
+<surname>Lopera</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marino</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chandrahas</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Hare</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Resilience to autosomal dominant Alzheimer's disease in a Reelin‐COLBOS heterozygous man</article-title>. <source>Nat Med</source>. <year>2023</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-023-02318-3</pub-id><pub-id pub-id-type="pmcid">PMC10202812</pub-id><pub-id pub-id-type="pmid">37188781</pub-id></mixed-citation></ref><ref id="alz13754-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz13754-cit-0027">
+<string-name name-style="western">
+<surname>Morris</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heyman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohs</surname>
+<given-names>RC</given-names>
+</string-name>, et al. <article-title>The consortium to establish a registry for Alzheimer's Disease (CERAD). Part I. Clinical and neuropsychological assessment of Alzheimer's disease</article-title>. <source>Neurology</source>. <year>1989</year>;<volume>39</volume>:<fpage>1159</fpage>‐<lpage>1165</lpage>.<pub-id pub-id-type="pmid">2771064</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.39.9.1159</pub-id></mixed-citation></ref><ref id="alz13754-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz13754-cit-0028">
+<string-name name-style="western">
+<surname>Aguirre‐Acevedo</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gómez</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moreno</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>[Validity and reliability of the CERAD‐Col neuropsychological battery]</article-title>. <source>Rev Neurol</source>. <year>2007</year>;<volume>45</volume>:<fpage>655</fpage>‐<lpage>660</lpage>.<pub-id pub-id-type="pmid">18050096</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz13754-cit-0029">
+<string-name name-style="western">
+<given-names>StekhovenDJ</given-names>
+</string-name>. <article-title>missForest: nonparametric missing value imputation using random forest</article-title>. <source>Astrophys Source Code Libr</source>. <year>2015</year>. ascl:1505.011.</mixed-citation></ref><ref id="alz13754-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz13754-cit-0030">
+<string-name name-style="western">
+<surname>Stekhoven</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bühlmann</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>MissForest–non‐parametric missing value imputation for mixed‐type data</article-title>. <source>Bioinforma Oxf Engl</source>. <year>2012</year>;<volume>28</volume>:<fpage>112</fpage>‐<lpage>118</lpage>. doi:<pub-id pub-id-type="doi">10.1093/bioinformatics/btr597</pub-id>
+<pub-id pub-id-type="pmid">22039212</pub-id></mixed-citation></ref><ref id="alz13754-bib-0031"><label>31</label><mixed-citation publication-type="miscellaneous" id="alz13754-cit-0031">
+<string-name name-style="western">
+<surname>Team</surname>
+<given-names>RC</given-names>
+</string-name>, <article-title>R: a language and environment for statistical computing</article-title>
+<year>2013</year>.</mixed-citation></ref><ref id="alz13754-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz13754-cit-0032">
+<string-name name-style="western">
+<surname>Folstein</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Folstein</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McHugh</surname>
+<given-names>PR</given-names>
+</string-name>. <article-title>Mini‐mental state’’. A practical method for grading the cognitive state of patients for the clinician</article-title>. <source>J Psychiatr Res</source>. <year>1975</year>;<volume>12</volume>:<fpage>189</fpage>‐<lpage>198</lpage>.<pub-id pub-id-type="pmid">1202204</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0022-3956(75)90026-6</pub-id></mixed-citation></ref><ref id="alz13754-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz13754-cit-0033">
+<string-name name-style="western">
+<surname>Reisberg</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferris</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Leon</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crook</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>The Global Deterioration Scale for assessment of primary degenerative dementia</article-title>. <source>Am J Psychiatry</source>. <year>1982</year>;<volume>139</volume>:<fpage>1136</fpage>‐<lpage>1139</lpage>. doi:<pub-id pub-id-type="doi">10.1176/ajp.139.9.1136</pub-id>
+<pub-id pub-id-type="pmid">7114305</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz13754-cit-0034">
+<string-name name-style="western">
+<surname>Bansal</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Libiger</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torkamani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schork</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>Statistical analysis strategies for association studies involving rare variants</article-title>. <source>Nat Rev Genet</source>. <year>2010</year>;<volume>11</volume>:<fpage>773</fpage>‐<lpage>785</lpage>. doi:<pub-id pub-id-type="doi">10.1038/nrg2867</pub-id>
+<pub-id pub-id-type="pmid">20940738</pub-id>
+<pub-id pub-id-type="pmcid">PMC3743540</pub-id></mixed-citation></ref><ref id="alz13754-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz13754-cit-0035">
+<string-name name-style="western">
+<surname>Adzhubei</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmidt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peshkin</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>A method and server for predicting damaging missense mutations</article-title>. <source>Nat Methods</source>. <year>2010</year>;<volume>7</volume>:<fpage>248</fpage>‐<lpage>249</lpage>. doi:<pub-id pub-id-type="doi">10.1038/nmeth0410-248</pub-id>
+<pub-id pub-id-type="pmid">20354512</pub-id>
+<pub-id pub-id-type="pmcid">PMC2855889</pub-id></mixed-citation></ref><ref id="alz13754-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz13754-cit-0036">
+<string-name name-style="western">
+<surname>Davydov</surname>
+<given-names>EV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goode</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sirota</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cooper</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sidow</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Batzoglou</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Identifying a high fraction of the human genome to be under selective constraint using GERP++</article-title>. <source>PLoS Comput Biol</source>. <year>2010</year>;<volume>6</volume>:<elocation-id>e1001025</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.pcbi.1001025</pub-id>
+<pub-id pub-id-type="pmid">21152010</pub-id>
+<pub-id pub-id-type="pmcid">PMC2996323</pub-id></mixed-citation></ref><ref id="alz13754-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz13754-cit-0037">
+<string-name name-style="western">
+<surname>Ng</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henikoff</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>SIFT: predicting amino acid changes that affect protein function</article-title>. <source>Nucleic Acids Res</source>. <year>2003</year>;<volume>31</volume>:<fpage>3812</fpage>‐<lpage>3814</lpage>. doi:<pub-id pub-id-type="doi">10.1093/nar/gkg509</pub-id>
+<pub-id pub-id-type="pmid">12824425</pub-id>
+<pub-id pub-id-type="pmcid">PMC168916</pub-id></mixed-citation></ref><ref id="alz13754-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz13754-cit-0038">
+<string-name name-style="western">
+<surname>Pollard</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hubisz</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosenbloom</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siepel</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Detection of nonneutral substitution rates on mammalian phylogenies</article-title>. <source>Genome Res</source>. <year>2010</year>;<volume>20</volume>:<fpage>110</fpage>‐<lpage>121</lpage>. doi:<pub-id pub-id-type="doi">10.1101/gr.097857.109</pub-id>
+<pub-id pub-id-type="pmid">19858363</pub-id>
+<pub-id pub-id-type="pmcid">PMC2798823</pub-id></mixed-citation></ref><ref id="alz13754-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz13754-cit-0039">
+<string-name name-style="western">
+<surname>Schwarz</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rödelsperger</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schuelke</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seelow</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>MutationTaster evaluates disease‐causing potential of sequence alterations</article-title>. <source>Nat Methods</source>. <year>2010</year>;<volume>7</volume>:<fpage>575</fpage>‐<lpage>576</lpage>. doi:<pub-id pub-id-type="doi">10.1038/nmeth0810-575</pub-id>
+<pub-id pub-id-type="pmid">20676075</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz13754-cit-0040">
+<string-name name-style="western">
+<surname>Vélez</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopera</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>HR</given-names>
+</string-name>, et al. <article-title>Mutations modifying sporadic Alzheimer's disease age of onset</article-title>. <source>Am J Med Genet Part B Neuropsychiatr Genet Off Publ Int Soc Psychiatr Genet</source>. <year>2016</year>;<volume>171</volume>:<fpage>1116</fpage>‐<lpage>1130</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ajmg.b.32493</pub-id>
+<pub-id pub-id-type="pmid">27573710</pub-id></mixed-citation></ref><ref id="alz13754-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz13754-cit-0041">
+<string-name name-style="western">
+<surname>Segura</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vilhjálmsson</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Platt</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>An efficient multi‐locus mixed‐model approach for genome‐wide association studies in structured populations</article-title>. <source>Nat Genet</source>. <year>2012</year>;<volume>44</volume>:<fpage>825</fpage>‐<lpage>830</lpage>. doi:<pub-id pub-id-type="doi">10.1038/ng.2314</pub-id>
+<pub-id pub-id-type="pmid">22706313</pub-id>
+<pub-id pub-id-type="pmcid">PMC3386481</pub-id></mixed-citation></ref><ref id="alz13754-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz13754-cit-0042">
+<string-name name-style="western">
+<surname>Wilks</surname>
+<given-names>SS</given-names>
+</string-name>. <article-title>The large‐sample distribution of the likelihood ratio for testing composite hypotheses</article-title>. <source>Ann Math Stat</source>. <year>1938</year>;<volume>9</volume>:<fpage>60</fpage>‐<lpage>62</lpage>.</mixed-citation></ref><ref id="alz13754-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz13754-cit-0043">
+<string-name name-style="western">
+<surname>Bates</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mächler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bolker</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walker</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Fitting linear mixed‐effects models using lme4</article-title>. <source>J Stat Softw</source>. <year>2015</year>;<volume>67</volume>:<fpage>1</fpage>‐<lpage>48</lpage>. doi:<pub-id pub-id-type="doi">10.18637/jss.v067.i01</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz13754-cit-0044">
+<string-name name-style="western">
+<surname>Benjamini</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hochberg</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Controlling the false discovery rate: a practical and powerful approach to multiple testing</article-title>. <source>J R Stat Soc Ser B Methodol</source>. <year>1995</year>;<volume>57</volume>:<fpage>289</fpage>‐<lpage>300</lpage>.</mixed-citation></ref><ref id="alz13754-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz13754-cit-0045">
+<string-name name-style="western">
+<surname>Vélez</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Correa</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arcos‐Burgos</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Un nuevo método para la detección de valores p significativos y su aplicación a datos genéticos</article-title>. <source>Rev Colomb Estad</source>. <year>2014</year>;<volume>37</volume>:<fpage>69</fpage>‐<lpage>78</lpage>. doi:<pub-id pub-id-type="doi">10.15446/rce.v37n1.44358</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz13754-cit-0046">
+<string-name name-style="western">
+<surname>Mishra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Macgregor</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>VEGAS2: software for more flexible gene‐based testing</article-title>. <source>Twin Res Hum Genet Off J Int Soc Twin Stud</source>. <year>2015</year>;<volume>18</volume>:<fpage>86</fpage>‐<lpage>91</lpage>. doi:<pub-id pub-id-type="doi">10.1017/thg.2014.79</pub-id>
+<pub-id pub-id-type="pmid">25518859</pub-id></mixed-citation></ref><ref id="alz13754-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="alz13754-cit-0047">
+<string-name name-style="western">
+<surname>Leng</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eser</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Molecular characterization of selectively vulnerable neurons in Alzheimer's disease</article-title>. <source>Nat Neurosci</source>. <year>2021</year>;<volume>24</volume>:<fpage>276</fpage>‐<lpage>287</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41593-020-00764-7</pub-id>
+<pub-id pub-id-type="pmid">33432193</pub-id>
+<pub-id pub-id-type="pmcid">PMC7854528</pub-id></mixed-citation></ref><ref id="alz13754-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="alz13754-cit-0048">
+<string-name name-style="western">
+<surname>Piras</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krate</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delvaux</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Transcriptome changes in the Alzheimer's disease middle temporal gyrus: importance of RNA metabolism and mitochondria‐associated membrane genes</article-title>. <source>J Alzheimers Dis JAD</source>. <year>2019</year>;<volume>70</volume>:<fpage>691</fpage>‐<lpage>713</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-181113</pub-id>
+<pub-id pub-id-type="pmid">31256118</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="alz13754-cit-0049">
+<string-name name-style="western">
+<surname>Ferrer</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia‐Esparcia</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carmona</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Olfactory receptors in non‐chemosensory organs: the nervous system in health and disease</article-title>. <source>Front Aging Neurosci</source>. <year>2016</year>;<volume>8</volume>:<fpage>163</fpage>. doi:<pub-id pub-id-type="doi">10.3389/fnagi.2016.00163</pub-id>
+<pub-id pub-id-type="pmid">27458372</pub-id>
+<pub-id pub-id-type="pmcid">PMC4932117</pub-id></mixed-citation></ref><ref id="alz13754-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="alz13754-cit-0050">
+<string-name name-style="western">
+<surname>Matías‐Guiu</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cabrera‐Martín</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Valles‐Salgado</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Neural basis of cognitive assessment in alzheimer disease, amnestic mild cognitive impairment, and subjective memory complaints</article-title>. <source>Am J Geriatr Psychiatry Off J Am Assoc Geriatr Psychiatry</source>. <year>2017</year>;<volume>25</volume>:<fpage>730</fpage>‐<lpage>740</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jagp.2017.02.002</pub-id>
+<pub-id pub-id-type="pmid">28238814</pub-id></mixed-citation></ref><ref id="alz13754-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="alz13754-cit-0051">
+<string-name name-style="western">
+<surname>Salimi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Irish</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foxe</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hodges</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piguet</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burrell</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>Can visuospatial measures improve the diagnosis of Alzheimer's disease?</article-title>
+<source>Alzheimers Dement Amst Neth</source>. <year>2018</year>;<volume>10</volume>:<fpage>66</fpage>‐<lpage>74</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.dadm.2017.10.004</pub-id>
+<pub-id pub-id-type="pmcid">PMC5956809</pub-id><pub-id pub-id-type="pmid">29780858</pub-id></mixed-citation></ref><ref id="alz13754-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="alz13754-cit-0052">
+<string-name name-style="western">
+<surname>Bocanegra</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fox‐Fuller</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baena</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Association between visual memory and in vivo amyloid and tau pathology in preclinical autosomal dominant Alzheimer's disease</article-title>. <source>J Int Neuropsychol Soc JINS</source>. <year>2020</year>:<fpage>1</fpage>‐<lpage>9</lpage>. doi:<pub-id pub-id-type="doi">10.1017/S1355617720000673</pub-id>
+<pub-id pub-id-type="pmcid">PMC8101259</pub-id><pub-id pub-id-type="pmid">32762790</pub-id></mixed-citation></ref><ref id="alz13754-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="alz13754-cit-0053">
+<string-name name-style="western">
+<surname>Hebron</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peyton</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Discoidin domain receptor inhibition reduces neuropathology and attenuates inflammation in neurodegeneration models</article-title>. <source>J Neuroimmunol</source>. <year>2017</year>;<volume>311</volume>:<fpage>1</fpage>‐<lpage>9</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jneuroim.2017.07.009</pub-id>
+<pub-id pub-id-type="pmid">28863860</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="alz13754-cit-0054">
+<string-name name-style="western">
+<surname>Briggs</surname>
+<given-names>FBS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goldstein</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCauley</surname>
+<given-names>JL</given-names>
+</string-name>, et al. <article-title>Variation within DNA repair pathway genes and risk of multiple sclerosis</article-title>. <source>Am J Epidemiol</source>. <year>2010</year>;<volume>172</volume>:<fpage>217</fpage>‐<lpage>224</lpage>. doi:<pub-id pub-id-type="doi">10.1093/aje/kwq086</pub-id>
+<pub-id pub-id-type="pmid">20522537</pub-id>
+<pub-id pub-id-type="pmcid">PMC3658128</pub-id></mixed-citation></ref><ref id="alz13754-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="alz13754-cit-0055">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Genetic variant in DNA repair gene GTF2H4 is associated with lung cancer risk: a large‐scale analysis of six published GWAS datasets in the TRICL consortium</article-title>. <source>Carcinogenesis</source>. <year>2016</year>;<volume>37</volume>:<fpage>888</fpage>‐<lpage>896</lpage>. doi:<pub-id pub-id-type="doi">10.1093/carcin/bgw070</pub-id>
+<pub-id pub-id-type="pmid">27288692</pub-id>
+<pub-id pub-id-type="pmcid">PMC5008248</pub-id></mixed-citation></ref><ref id="alz13754-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="alz13754-cit-0056">
+<string-name name-style="western">
+<surname>Steinberg</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koboldt</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mardis</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pamphlett</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Exome sequencing of case‐unaffected‐parents trios reveals recessive and de novo genetic variants in sporadic ALS</article-title>. <source>Sci Rep</source>. <year>2015</year>;<volume>5</volume>:<fpage>9124</fpage>. doi:<pub-id pub-id-type="doi">10.1038/srep09124</pub-id>
+<pub-id pub-id-type="pmid">25773295</pub-id>
+<pub-id pub-id-type="pmcid">PMC4360641</pub-id></mixed-citation></ref><ref id="alz13754-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="alz13754-cit-0057">
+<string-name name-style="western">
+<surname>Walker</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sussmann</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whalley</surname>
+<given-names>HC</given-names>
+</string-name>, et al. <article-title>Preliminary assessment of pre‐morbid DNA methylation in individuals at high genetic risk of mood disorders</article-title>. <source>Bipolar Disord</source>. <year>2016</year>;<volume>18</volume>:<fpage>410</fpage>‐<lpage>422</lpage>. doi:<pub-id pub-id-type="doi">10.1111/bdi.12415</pub-id>
+<pub-id pub-id-type="pmid">27440233</pub-id>
+<pub-id pub-id-type="pmcid">PMC5006843</pub-id></mixed-citation></ref><ref id="alz13754-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="alz13754-cit-0058">
+<string-name name-style="western">
+<surname>Diodato</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melchionda</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haack</surname>
+<given-names>TB</given-names>
+</string-name>, et al. <article-title>VARS2 and TARS2 mutations in patients with mitochondrial encephalomyopathies</article-title>. <source>Hum Mutat</source>. <year>2014</year>;<volume>35</volume>:<fpage>983</fpage>‐<lpage>989</lpage>. doi:<pub-id pub-id-type="doi">10.1002/humu.22590</pub-id>
+<pub-id pub-id-type="pmid">24827421</pub-id>
+<pub-id pub-id-type="pmcid">PMC4140549</pub-id></mixed-citation></ref><ref id="alz13754-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="alz13754-cit-0059">
+<string-name name-style="western">
+<surname>Lotan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fenckova</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bralten</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Neuroinformatic analyses of common and distinct genetic components associated with major neuropsychiatric disorders</article-title>. <source>Front Neurosci</source>. <year>2014</year>;<volume>8</volume>:<fpage>331</fpage>. doi:<pub-id pub-id-type="doi">10.3389/fnins.2014.00331</pub-id>
+<pub-id pub-id-type="pmid">25414627</pub-id>
+<pub-id pub-id-type="pmcid">PMC4222236</pub-id></mixed-citation></ref><ref id="alz13754-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="alz13754-cit-0060">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Z‐X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>H‐F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Effects of HLA‐DRB1/DQB1 genetic variants on neuroimaging in healthy, mild cognitive impairment, and Alzheimer's Disease cohorts</article-title>. <source>Mol Neurobiol</source>. <year>2017</year>;<volume>54</volume>:<fpage>3181</fpage>‐<lpage>3188</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s12035-016-9890-6</pub-id>
+<pub-id pub-id-type="pmid">27056075</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="alz13754-cit-0061">
+<string-name name-style="western">
+<surname>Malavia</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chaparala</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wood</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Generating testable hypotheses for schizophrenia and rheumatoid arthritis pathogenesis by integrating epidemiological, genomic, and protein interaction data</article-title>. <source>NPJ Schizophr</source>. <year>2017</year>;<volume>3</volume>:<fpage>11</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41537-017-0010-z</pub-id>
+<pub-id pub-id-type="pmid">28560257</pub-id>
+<pub-id pub-id-type="pmcid">PMC5441529</pub-id></mixed-citation></ref><ref id="alz13754-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="alz13754-cit-0062">
+<string-name name-style="western">
+<surname>Maßberg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hatt</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Human olfactory receptors: novel cellular functions outside of the nose</article-title>. <source>Physiol Rev</source>. <year>2018</year>;<volume>98</volume>:<fpage>1739</fpage>‐<lpage>1763</lpage>. doi:<pub-id pub-id-type="doi">10.1152/physrev.00013.2017</pub-id>
+<pub-id pub-id-type="pmid">29897292</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="alz13754-cit-0063">
+<string-name name-style="western">
+<surname>Daulatzai</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Olfactory dysfunction: its early temporal relationship and neural correlates in the pathogenesis of Alzheimer's disease</article-title>. <source>J Neural Transm Vienna Austria</source>. <year>2015</year>;<volume>122</volume>:<fpage>1475</fpage>‐<lpage>1497</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00702-015-1404-6</pub-id>
+<pub-id pub-id-type="pmid">25944089</pub-id></mixed-citation></ref><ref id="alz13754-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="alz13754-cit-0064">
+<string-name name-style="western">
+<surname>Attems</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walker</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jellinger</surname>
+<given-names>KA</given-names>
+</string-name>. <article-title>Olfactory bulb involvement in neurodegenerative diseases</article-title>. <source>Acta Neuropathol (Berl)</source>. <year>2014</year>;<volume>127</volume>:<fpage>459</fpage>‐<lpage>475</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00401-014-1261-7</pub-id>
+<pub-id pub-id-type="pmid">24554308</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="alz13754-cit-0065">
+<string-name name-style="western">
+<surname>Lachen‐Montes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zelaya</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Segura</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernández‐Irigoyen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santamaría</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Progressive modulation of the human olfactory bulb transcriptome during Alzheimer´s disease evolution: novel insights into the olfactory signaling across proteinopathies</article-title>. <source>Oncotarget</source>. <year>2017</year>;<volume>8</volume>:<fpage>69663</fpage>‐<lpage>69679</lpage>. doi:<pub-id pub-id-type="doi">10.18632/oncotarget.18193</pub-id>
+<pub-id pub-id-type="pmid">29050232</pub-id>
+<pub-id pub-id-type="pmcid">PMC5642507</pub-id></mixed-citation></ref><ref id="alz13754-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="alz13754-cit-0066">
+<string-name name-style="western">
+<surname>Dibattista</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pifferi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Menini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reisert</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Alzheimer's disease: what can we learn from the peripheral olfactory system?</article-title>
+<source>Front Neurosci</source>. <year>2020</year>;<volume>14</volume>:<fpage>440</fpage>. doi:<pub-id pub-id-type="doi">10.3389/fnins.2020.00440</pub-id>
+<pub-id pub-id-type="pmid">32508565</pub-id>
+<pub-id pub-id-type="pmcid">PMC7248389</pub-id></mixed-citation></ref><ref id="alz13754-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="alz13754-cit-0067">
+<string-name name-style="western">
+<surname>Wesson</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levy</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nixon</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Olfactory dysfunction correlates with amyloid‐beta burden in an Alzheimer's disease mouse model</article-title>. <source>J Neurosci Off J Soc Neurosci</source>. <year>2010</year>;<volume>30</volume>:<fpage>505</fpage>‐<lpage>514</lpage>. doi:<pub-id pub-id-type="doi">10.1523/JNEUROSCI.4622-09.2010</pub-id>
+<pub-id pub-id-type="pmcid">PMC2826174</pub-id><pub-id pub-id-type="pmid">20071513</pub-id></mixed-citation></ref><ref id="alz13754-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="alz13754-cit-0068">
+<string-name name-style="western">
+<surname>Ramirez‐Gomez</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Albers</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baena</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Olfactory function and markers of brain pathology in non‐demented individuals with autosomal dominant Alzheimer's disease</article-title>. <source>J Alzheimers Dis JAD</source>. <year>2022</year>;<volume>88</volume>:<fpage>721</fpage>‐<lpage>729</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-220075</pub-id>
+<pub-id pub-id-type="pmid">35694921</pub-id>
+<pub-id pub-id-type="pmcid">PMC9851278</pub-id></mixed-citation></ref><ref id="alz13754-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="alz13754-cit-0069">
+<string-name name-style="western">
+<surname>Devanand</surname>
+<given-names>DP</given-names>
+</string-name>. <article-title>Olfactory identification deficits, cognitive decline, and dementia in older adults</article-title>. <source>Am J Geriatr Psychiatry Off J Am Assoc Geriatr Psychiatry</source>. <year>2016</year>;<volume>24</volume>:<fpage>1151</fpage>‐<lpage>1157</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jagp.2016.08.010</pub-id>
+<pub-id pub-id-type="pmcid">PMC5136312</pub-id><pub-id pub-id-type="pmid">27745824</pub-id></mixed-citation></ref><ref id="alz13754-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="alz13754-cit-0070">
+<string-name name-style="western">
+<surname>Shaw</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wiszniewska</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Olfactory copy number association with age at onset of Alzheimer disease</article-title>. <source>Neurology</source>. <year>2011</year>;<volume>76</volume>:<fpage>1302</fpage>‐<lpage>1309</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0b013e3182166df5</pub-id>
+<pub-id pub-id-type="pmid">21482944</pub-id>
+<pub-id pub-id-type="pmcid">PMC3090061</pub-id></mixed-citation></ref><ref id="alz13754-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="alz13754-cit-0071">
+<string-name name-style="western">
+<surname>Tebrügge</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winkler</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gerards</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Olfactory function is associated with cognitive performance: results of the heinz nixdorf recall study</article-title>. <source>J Alzheimers Dis JAD</source>. <year>2018</year>;<volume>63</volume>:<fpage>319</fpage>‐<lpage>329</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-170863</pub-id>
+<pub-id pub-id-type="pmid">29578482</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="alz13754-cit-0072">
+<string-name name-style="western">
+<surname>Attems</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jellinger</surname>
+<given-names>KA</given-names>
+</string-name>. <article-title>Olfactory tau pathology in Alzheimer disease and mild cognitive impairment</article-title>. <source>Clin Neuropathol</source>. <year>2006</year>;<volume>25</volume>:<fpage>265</fpage>‐<lpage>271</lpage>.<pub-id pub-id-type="pmid">17140156</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="alz13754-cit-0073">
+<string-name name-style="western">
+<surname>Kovács</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cairns</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lantos</surname>
+<given-names>PL</given-names>
+</string-name>. <article-title>Olfactory centres in Alzheimer's disease: olfactory bulb is involved in early Braak's stages</article-title>. <source>Neuroreport</source>. <year>2001</year>;<volume>12</volume>:<fpage>285</fpage>‐<lpage>288</lpage>. doi:<pub-id pub-id-type="doi">10.1097/00001756-200102120-00021</pub-id>
+<pub-id pub-id-type="pmid">11209936</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="alz13754-cit-0074">
+<string-name name-style="western">
+<surname>Talamo</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rudel</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kosik</surname>
+<given-names>KS</given-names>
+</string-name>, et al. <article-title>Pathological changes in olfactory neurons in patients with Alzheimer's disease</article-title>. <source>Nature</source>. <year>1989</year>;<volume>337</volume>:<fpage>736</fpage>‐<lpage>739</lpage>. doi:<pub-id pub-id-type="doi">10.1038/337736a0</pub-id>
+<pub-id pub-id-type="pmid">2465496</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="alz13754-cit-0075">
+<string-name name-style="western">
+<surname>Bubak</surname>
+<given-names>AN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Merle</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niemeyer</surname>
+<given-names>CS</given-names>
+</string-name>, et al. <article-title>Signatures for viral infection and inflammation in the proximal olfactory system in familial Alzheimer's disease</article-title>. <source>Neurobiol Aging</source>. <year>2023</year>;<volume>123</volume>:<fpage>75</fpage>‐<lpage>82</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2022.12.004</pub-id>
+<pub-id pub-id-type="pmid">36638683</pub-id>
+<pub-id pub-id-type="pmcid">PMC9889108</pub-id></mixed-citation></ref><ref id="alz13754-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="alz13754-cit-0076">
+<string-name name-style="western">
+<surname>Saiz‐Sanchez</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flores‐Cuadrado</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ubeda‐Bañon</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de la Rosa‐Prieto</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinez‐Marcos</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Interneurons in the human olfactory system in Alzheimer's disease</article-title>. <source>Exp Neurol</source>. <year>2016</year>;<volume>276</volume>:<fpage>13</fpage>‐<lpage>21</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.expneurol.2015.11.009</pub-id>
+<pub-id pub-id-type="pmid">26616239</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="alz13754-cit-0077">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rasheed</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yoo</surname>
+<given-names>S‐J</given-names>
+</string-name>, et al. <article-title>Distinct amyloid precursor protein processing machineries of the olfactory system</article-title>. <source>Biochem Biophys Res Commun</source>. <year>2018</year>;<volume>495</volume>:<fpage>533</fpage>‐<lpage>538</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.bbrc.2017.10.153</pub-id>
+<pub-id pub-id-type="pmid">29097202</pub-id>
+</mixed-citation></ref><ref id="alz13754-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="alz13754-cit-0078">
+<string-name name-style="western">
+<surname>Vossel</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tartaglia</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nygaard</surname>
+<given-names>HB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeman</surname>
+<given-names>AZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>BL</given-names>
+</string-name>. <article-title>Epileptic activity in Alzheimer's disease: causes and clinical relevance</article-title>. <source>Lancet Neurol</source>. <year>2017</year>;<volume>16</volume>:<fpage>311</fpage>‐<lpage>322</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(17)30044-3</pub-id>
+<pub-id pub-id-type="pmid">28327340</pub-id>
+<pub-id pub-id-type="pmcid">PMC5973551</pub-id></mixed-citation></ref><ref id="alz13754-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="alz13754-cit-0079">
+<string-name name-style="western">
+<surname>Flegel</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manteniotis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Osthold</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hatt</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gisselmann</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Expression profile of ectopic olfactory receptors determined by deep sequencing</article-title>. <source>PloS One</source>. <year>2013</year>;<volume>8</volume>:<elocation-id>e55368</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0055368</pub-id>
+<pub-id pub-id-type="pmid">23405139</pub-id>
+<pub-id pub-id-type="pmcid">PMC3566163</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

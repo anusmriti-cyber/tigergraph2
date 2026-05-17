@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Model checkpoints & large binary files
+*.pt
+*.safetensors
+*.bin
+*.npy
+*.h5
+*.ckpt
+*.pth
+
+# Training artifacts
+backend/training/results/
+backend/training/saved_model/
+
+# Vector store binaries
+backend/pipeline2_basic_rag/vector_store/*.bin
+backend/pipeline2_basic_rag/vector_store/*.npy
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

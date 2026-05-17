@@ -1,0 +1,855 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz13904" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11247678</article-id><article-id pub-id-type="pmcid-ver">PMC11247678.1</article-id><article-id pub-id-type="pmcaid">11247678</article-id><article-id pub-id-type="pmcaiid">11247678</article-id><article-id pub-id-type="pmid">38824433</article-id><article-id pub-id-type="doi">10.1002/alz.13904</article-id><article-id pub-id-type="publisher-id">ALZ13904</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>The presenilin 1 mutation P436S causes familial Alzheimer's disease with elevated Aβ43 and atypical clinical manifestations</article-title><alt-title alt-title-type="left-running-head">ARBER <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz13904-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Arber</surname><given-names initials="C">Charles</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9743-8134</contrib-id><xref rid="alz13904-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>c.arber@ucl.ac.uk</email></address></contrib><contrib id="alz13904-cr-0002" contrib-type="author"><name name-style="western"><surname>Belder</surname><given-names initials="CRS">Christopher R. S.</given-names></name><xref rid="alz13904-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz13904-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz13904-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz13904-cr-0003" contrib-type="author"><name name-style="western"><surname>Tomczuk</surname><given-names initials="F">Filip</given-names></name><xref rid="alz13904-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz13904-cr-0004" contrib-type="author"><name name-style="western"><surname>Gabriele</surname><given-names initials="R">Rebecca</given-names></name><xref rid="alz13904-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz13904-cr-0005" contrib-type="author"><name name-style="western"><surname>Buhidma</surname><given-names initials="Y">Yazead</given-names></name><xref rid="alz13904-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz13904-cr-0006" contrib-type="author"><name name-style="western"><surname>Farrell</surname><given-names initials="C">Clíona</given-names></name><xref rid="alz13904-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz13904-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz13904-cr-0007" contrib-type="author"><name name-style="western"><surname>O'Connor</surname><given-names initials="A">Antoinette</given-names></name><xref rid="alz13904-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz13904-cr-0008" contrib-type="author"><name name-style="western"><surname>Rice</surname><given-names initials="H">Helen</given-names></name><xref rid="alz13904-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz13904-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz13904-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz13904-cr-0009" contrib-type="author"><name name-style="western"><surname>Lashley</surname><given-names initials="T">Tammaryn</given-names></name><xref rid="alz13904-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz13904-cr-0010" contrib-type="author"><name name-style="western"><surname>Fox</surname><given-names initials="NC">Nick C.</given-names></name><xref rid="alz13904-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz13904-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz13904-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz13904-cr-0011" contrib-type="author"><name name-style="western"><surname>Ryan</surname><given-names initials="NS">Natalie S.</given-names></name><xref rid="alz13904-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz13904-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz13904-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz13904-cr-0012" contrib-type="author" corresp="yes"><name name-style="western"><surname>Wray</surname><given-names initials="S">Selina</given-names></name><xref rid="alz13904-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>selina.wray@ucl.ac.uk</email></address></contrib></contrib-group><aff id="alz13904-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurodegenerative Disease</named-content>
+<institution>UCL Queen Square Institute of Neurology</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz13904-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Dementia Research Centre</named-content>
+<institution>UCL Queen Square Institute of Neurology</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz13904-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">UCL Queen Square Institute of Neurology</named-content>
+<institution>UK Dementia Research Institute at UCL</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz13904-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Adelaide Medical School</named-content>
+<institution>The University of Adelaide</institution>
+<city>Adelaide</city>
+<named-content content-type="country-part">South Australia</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="alz13904-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Genetics</named-content>
+<institution>Institute of Psychiatry and Neurology</institution>
+<city>Warsaw</city>
+<country country="PL">Poland</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Selina Wray and Charles Arber, Department of Neurodegenerative Disease, UCL Queen Square Institute of Neurology, London, WC1N 3BG, UK.<break/> Email: <email>selina.wray@ucl.ac.uk</email> and <email>c.arber@ucl.ac.uk</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>6</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>7</month><year>2024</year></pub-date><volume>20</volume><issue seq="270">7</issue><issue-id pub-id-type="pmc-issue-id">466779</issue-id><issue-id pub-id-type="doi">10.1002/alz.v20.7</issue-id><fpage>4717</fpage><lpage>4726</lpage><history><date date-type="rev-recd"><day>22</day><month>4</month><year>2024</year></date><date date-type="received"><day>07</day><month>12</month><year>2023</year></date><date date-type="accepted"><day>24</day><month>4</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>02</day><month>06</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>16</day><month>07</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-07-16 10:25:16.393"><day>16</day><month>07</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-20-4717.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-20-4717.pdf"/><abstract><title>Abstract</title><sec id="alz13904-sec-0010"><title>INTRODUCTION</title><p>Familial Alzheimer's disease (fAD) is heterogeneous in terms of age at onset and clinical presentation. A greater understanding of the pathogenicity of fAD variants and how these contribute to heterogeneity will enhance our understanding of the mechanisms of AD more widely.</p></sec><sec id="alz13904-sec-0020"><title>METHODS</title><p>To determine the pathogenicity of the unclassified <italic toggle="yes">PSEN1</italic> P436S mutation, we studied an expanded kindred of eight affected individuals, with magnetic resonance imaging (MRI) (two individuals), patient‐derived induced pluripotent stem cell (iPSC) models (two donors), and post‐mortem histology (one donor).</p></sec><sec id="alz13904-sec-0030"><title>RESULTS</title><p>An autosomal dominant pattern of inheritance of fAD was seen, with an average age at symptom onset of 46 years and atypical features. iPSC models and post‐mortem tissue supported high production of amyloid beta 43 (Aβ43). PSEN1 peptide maturation was unimpaired.</p></sec><sec id="alz13904-sec-0040"><title>DISCUSSION</title><p>We confirm that the P436S mutation in <italic toggle="yes">PSEN1</italic> causes atypical fAD. The location of the mutation in the critical PSEN1 proline‐alanine‐leucine‐proline (PALP) motif may explain the early age at onset despite appropriate protein maturation.</p></sec><sec id="alz13904-sec-0050"><title>Highlights</title><p>
+<list list-type="bullet" id="alz13904-list-0001"><list-item><p>
+<italic toggle="yes">PSEN1</italic> P436S mutations cause familial Alzheimer's disease.</p></list-item><list-item><p>This mutation is associated with atypical clinical presentation.</p></list-item><list-item><p>Induced pluripotent stem cells (iPSCs) and post‐mortem studies support increased amyloid beta (Aβ43) production.</p></list-item><list-item><p>Early age at onset highlights the importance of the PALP motif in PSEN1 function.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz13904-kwd-0001">AD</kwd><kwd id="alz13904-kwd-0002">Aβ</kwd><kwd id="alz13904-kwd-0003">familial Alzheimer's disease</kwd><kwd id="alz13904-kwd-0004">iPSC</kwd><kwd id="alz13904-kwd-0005">PALP</kwd><kwd id="alz13904-kwd-0006">PSEN1</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Alzheimer's Society fellowship</funding-source><award-id>AS‐JF‐18‐008</award-id></award-group><award-group id="funding-0002"><funding-source>Alzheimer's Research UK</funding-source><award-id>ARUK‐SRF2016B‐2</award-id></award-group><award-group id="funding-0003"><funding-source>EMBO scientific exchange</funding-source><award-id>9297</award-id></award-group><award-group id="funding-0004"><funding-source>The Sigrid Rausing Trust</funding-source></award-group><award-group id="funding-0005"><funding-source>Association of Frontotemporal Dementia</funding-source></award-group><award-group id="funding-0006"><funding-source><institution-wrap><institution>UK Dementia Research Institute
+</institution><institution-id institution-id-type="doi">10.13039/501100017510</institution-id></institution-wrap></funding-source><award-id>UKDRI‐1014</award-id></award-group><award-group id="funding-0007"><funding-source>UK Medical Research Council</funding-source></award-group><award-group id="funding-0008"><funding-source>University of London Chadburn Academic Clinical Lectureship</funding-source></award-group><award-group id="funding-0009"><funding-source><institution-wrap><institution>Medical Research Council
+</institution><institution-id institution-id-type="doi">10.13039/501100000265</institution-id></institution-wrap></funding-source><award-id>MR/M02492X/1</award-id></award-group><award-group id="funding-0010"><funding-source>Alzheimer's Society and ARUK</funding-source></award-group><award-group id="funding-0011"><funding-source>National Institute for Health and Care Research University College London Hospitals Biomedical Research Centre</funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="2"/><page-count count="10"/><word-count count="6201"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.5 mode:remove_FC converted:15.07.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz13904-cit-0046">
+<string-name name-style="western">
+<surname>Arber</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Belder</surname>
+<given-names>CRS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tomczuk</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>The presenilin 1 mutation P436S causes familial Alzheimer's disease with elevated Aβ43 and atypical clinical manifestations</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>4717</fpage>–<lpage>4726</lpage>. <pub-id pub-id-type="doi">10.1002/alz.13904</pub-id>
+<pub-id pub-id-type="pmcid">PMC11247678</pub-id><pub-id pub-id-type="pmid">38824433</pub-id></mixed-citation>
+</p></notes></front><body><sec id="alz13904-sec-0060"><label>1</label><title>BACKGROUND</title><p>Familial Alzheimer's disease (fAD) is caused by autosomal dominantly inherited mutations in the amyloid precursor protein (APP) and presenilin 1 or 2 (<italic toggle="yes">PSEN1/2</italic>) genes.<xref rid="alz13904-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="alz13904-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="alz13904-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> The normal cleavage of APP by PSEN1/2 (the catalytic subunit of γ‐secretase) is disrupted by fAD‐associated mutations, leading to changes in amyloid beta (Aβ) production, and predisposing the deposition of Aβ into amyloid plaques. Plaques composed of Aβ are characteristic of AD, and Aβ is thought to initiate a disease cascade.<xref rid="alz13904-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>Biochemically, fAD mutations can lead to either (1) increased overall production of Aβ or (2) elevated production of longer, more aggregation prone species such as Aβ42 and Aβ43 in relation to shorter species such as Aβ40 and Aβ38.<xref rid="alz13904-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Aβ has been shown to be cleaved by γ‐secretase in two major carboxypeptidase cleavage pathways: Aβ49 &gt; 46 &gt; 43 &gt; 40 and Aβ48 &gt; 45 &gt; 42 &gt; 38.<xref rid="alz13904-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz13904-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Mutations in <italic toggle="yes">PSEN1</italic> destabilize the Aβ to γ‐secretase complex, thereby releasing longer forms of Aβ prior to the final processing step.<xref rid="alz13904-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</p><p>More than 300 mutations in <italic toggle="yes">PSEN1</italic> have been described (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://alzforum.org" ext-link-type="uri">alzforum.org</ext-link>). Mutations are distributed along the entire PSEN1 peptide and commonly cause single amino acid substitutions. Different mutations display remarkable heterogeneity in (1) age at symptom onset, which can range from 24 to over 65 years of age<xref rid="alz13904-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz13904-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>; and (2) clinical presentation: most mutations present with cognitive decline, whereas others may present with additional motor features, such as spastic paraparesis, which can precede cognitive decline.<xref rid="alz13904-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz13904-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</p><p>Induced pluripotent stem cells (iPSCs) offer a unique opportunity to study patient‐derived neurons expressing physiological doses of mutant proteins in the cell type affected by disease.<xref rid="alz13904-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Our previous work has shown that different mutations in <italic toggle="yes">PSEN1</italic> can have distinct effects on APP processing and Aβ production, with PSEN1 protein stability and maturity affected by different mutations.<xref rid="alz13904-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> It is notable that alterations in Aβ processing are conserved between iPSC models and patient plasma,<xref rid="alz13904-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> validating the relevance of iPSCs to model Aβ production in patients.</p><p>Aβ43 is a particularly aggregation‐prone species,<xref rid="alz13904-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> which is commonly overlooked. Employing iPSC models, work by us and by others has demonstrated that mutations in <italic toggle="yes">PSEN1</italic>, such as R278I, E280G, and L435F, lead to an increased relative production of Aβ43 compared to shorter peptides.<xref rid="alz13904-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz13904-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz13904-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="alz13904-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> These mutations frequently have atypical clinical presentations, with prominent motor features including spastic paraparesis or extrapyramidal signs.<xref rid="alz13904-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p><p>In this study, we set out to investigate the P436S mutation in <italic toggle="yes">PSEN1</italic>. Despite two individuals with memory impairment having been previously described with this mutation,<xref rid="alz13904-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> the pathogenicity of P436S remains unclassified (alzforum.org). Here, using an expanded kindred, clinical findings, post‐mortem brain tissue, and iPSC models, we tested the hypothesis that <italic toggle="yes">PSEN1</italic> P436S is associated with fAD, and further characterize its clinical manifestations.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz13904-sec-0070"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz13904-list-0002"><list-item><p>
+<bold>Systematic review</bold>: Relatively little is known regarding the <italic toggle="yes">PSEN1</italic> P436S mutation in familial Alzheimer's disease (fAD). The authors performed a literature search on the P436S mutation and mutations in proximity. The relevance of mutations in the PALP motif of <italic toggle="yes">PSEN1</italic>, in which this mutation lies, is reviewed.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: Findings confirm the pathogenicity of the <italic toggle="yes">PSEN1</italic> P436S mutation in fAD. Atypical clinical manifestations and elevated amyloid beta 43 (Aβ43) production are described. The early age at clinical onset supports the importance of the PALP motif in proper PSEN1 function.</p></list-item><list-item><p>
+<bold>Future directions</bold>: This study reinforces the need for further clinical and molecular studies into the heterogeneity of fAD. Investigations may compare the biochemical effects of P436S with P436Q, fAD mutations with ages at onset that differ by 18 years. Future work is required to confirm and investigate the finding that generation of all Aβ species is increased by the P436S mutation.</p></list-item></list>
+</p></sec></boxed-text></sec><sec id="alz13904-sec-0080"><label>2</label><title>METHODS</title><sec id="alz13904-sec-0090"><label>2.1</label><title>Subjects</title><p>We provide an updated three‐generation pedigree of a family with <italic toggle="yes">PSEN1</italic> P436S associated fAD. Clinical information was obtained from research and clinical contact. Post‐mortem results were available for one individual (individual II‐4, Figure <xref rid="alz13904-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="FIGURE" id="alz13904-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>
+<italic toggle="yes">PSEN1</italic> P436S expanded family kindred and MRI findings support autosomal dominant fAD. (A) Updated kindred of family. II‐4 is the individual reported previously by Palmer et al.<xref rid="alz13904-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> (B) Example MRI images from individual III‐5. T1 axial and coronal images are shown at age 48, demonstrating generalized atrophy and low‐volume hippocampi. (C) Example MRI images from individual III‐8. T1 axial and coronal images are shown at age 51, demonstrating posterior cerebral atrophy, widening of the left Sylvian fissure, and relatively preserved hippocampal volume.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-20-4717-g002.jpg"/></fig><p>Fibroblast biopsies were taken with research ethics approval (11/LO/0753) and with informed consent. Biopsies were donated by individuals III‐5 and III‐8, both female. III‐5 was 44 years at symptom onset and 48 years at the time of biopsy. III‐8 was 48 years at symptom onset and 52 years at time of biopsy.</p></sec><sec id="alz13904-sec-0100"><label>2.2</label><title>Cell culture</title><p>Fibroblasts were grown in Dulbecco's modified eagle media (DMEM) with 10% fetal bovine serum and passaged using 0.05% trypsin. Fibroblasts were reprogrammed using Epi5 plasmids, obtained from Thermo Fisher. A Lonza P2 nucleofector was used to electroporate the plasmids into 750,000 fibroblasts. Media was changed from fibroblast media to Essential 8 iPSC media after passaging the fibroblasts onto Geltrex substrate on day 7. Colonies emerged after 4–5 weeks and were picked, expanded, and banked for characterization. iPSCs were cultured routinely in Essential 8 media on Geltrex substrate and passaged using 0.5 mM EDTA at a ratio of around 1:6 every 5 days.</p><p>Details of the control iPSC lines and fAD patient‐derived lines are shown in Table <xref rid="alz13904-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="alz13904-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>iPSC lines used in this study.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Line</th><th align="left" rowspan="1" colspan="1">Details and reference</th><th align="left" rowspan="1" colspan="1">Female/male</th><th align="left" rowspan="1" colspan="1">Age at biopsy</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> status</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Control 1</td><td align="left" rowspan="1" colspan="1">KOLF2.1J <xref rid="alz13904-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">55–59</td><td align="left" rowspan="1" colspan="1">3/3</td></tr><tr><td align="left" rowspan="1" colspan="1">Control 2</td><td align="left" rowspan="1" colspan="1">RBi01 (Sigma) <xref rid="alz13904-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">45–49</td><td align="left" rowspan="1" colspan="1">3/3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">PSEN1</italic> int4del</td><td align="left" rowspan="1" colspan="1">EBiSC <xref rid="alz13904-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">3/3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">PSEN1</italic> Y115H</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">PSEN1</italic> Y115H <xref rid="alz13904-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">39</td><td align="left" rowspan="1" colspan="1">3/3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">PSEN1</italic> R278I</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">PSEN1</italic> R278I cA <xref rid="alz13904-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">60</td><td align="left" rowspan="1" colspan="1">2/4</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">PSEN1</italic> E280G</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">PSEN1</italic> E280G.A <xref rid="alz13904-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">45</td><td align="left" rowspan="1" colspan="1">3/3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">PSEN1</italic> P436S #1</td><td align="left" rowspan="1" colspan="1">III‐5–this study</td><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">52</td><td align="left" rowspan="1" colspan="1">2/3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">PSEN1</italic> P436S #2</td><td align="left" rowspan="1" colspan="1">III‐8–this study</td><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">48</td><td align="left" rowspan="1" colspan="1">3/3</td></tr></tbody></table><table-wrap-foot><fn id="alz13904-tbl1-note-0001"><p>Abbreviation: iPSC, induced pluripotent stem cell.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Neuronal differentiation was performed as reported previously.<xref rid="alz13904-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz13904-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz13904-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Briefly, iPSCs were grown to confluence and then switched to N2B27 media with 10 µM SB431542 and 1 µM dorsomorphin. After 10 days of neural induction, neural precursors were passaged onto laminin in N2B27 media. A final passage of progenitors was performed on day 35 onto laminin and poly‐ornithine coated wells. The cells were allowed to terminally differentiate and mature until day 100, which was taken as the final time point.</p><p>All reagents were Thermo Fisher unless stated otherwise.</p></sec><sec id="alz13904-sec-0110"><label>2.3</label><title>Sanger sequencing</title><p>Sanger sequencing was performed with SourceBio on polymerase chain reaction (PCR) amplicons (GoTaq, Promega) of genomic DNA using the following primers: forward primer GTCTTTCCCATCTTCTCCAC and reverse primer GGGATTCTAACCGCAAATAT.</p></sec><sec id="alz13904-sec-0120"><label>2.4</label><title>qPCR‐based karyotyping</title><p>Quantitative PCR (qPCR)–based karyotyping was performed using the Stem Cell Technology human pluripotent stem cell genetic analysis kit. This tests for the eight most common chromosomal amplifications/deletions in stem cell cultures.</p></sec><sec id="alz13904-sec-0130"><label>2.5</label><title>qPCR</title><p>RNA was extracted from neurons using Trizol and RNA precipitation. A total of 2 µg of RNA was reverse transcribed to complementary DNA using Superscript IV following manufacturer's instructions. qPCR was performed using POWER Sybr green using the following primers all with annealing temperatures at 60°C: housekeeping gene <italic toggle="yes">RPL18A</italic> forward CCCACAACATGTACCGGGAA and <italic toggle="yes">RPL18A</italic> reverse TCTTGGAGTCGTGGAACTGC; <italic toggle="yes">TBR1</italic> forward AGCAGCAAGATCAAAAGTGAGC and <italic toggle="yes">TBR1</italic> reverse ATCCACAGACCCCCTCACTAG; <italic toggle="yes">CTIP2</italic> forward CTCCGAGCTCAGGAAAGTGTC and <italic toggle="yes">CTIP2</italic> reverse TCATCTTTACCTGCAATGTTCTCC; <italic toggle="yes">TUBB3</italic> forward CATGGACAGTGTCCGCTCAG and <italic toggle="yes">TUBB3</italic> reverse CAGGCAGTCGCAGTTTTCAC; <italic toggle="yes">APP</italic> forward GGTACCCACTGATGGTAAT and <italic toggle="yes">APP</italic> reverse GGTAGACTTCTTGGCAATAC; <italic toggle="yes">PSEN1</italic> forward TATCAAGTACCTCCCTGAAT and <italic toggle="yes">PSEN1</italic> reverse ACCATTGTTGAGGAGTAAAT; and <italic toggle="yes">PSEN2</italic> forward GACTCCTATGACAGTTTTGG and <italic toggle="yes">PSEN2</italic> reverse GCACACTGTAGAAGATGAAGT.</p></sec><sec id="alz13904-sec-0140"><label>2.6</label><title>Immunocytochemistry</title><p>Cells were plated on glass coverslips and fixed using 4% paraformaldehyde for 15 min at room temperature. Cells were then permeabilized in phosphate‐buffered saline (PBS) with 0.3% Triton‐X‐100 (hereafter PBSTx) via three washes. Cells were then blocked in 3% bovine serum albumin (BSA) in PBSTx for 30 min at room temperature. Primary antibodies were added in blocking solution overnight at 4°C. Cells were then washed three times in PBSTx, and secondary antibodies (AlexaFluor) were added in blocking solution for 1 h at room temperature. Cells were washed a final three times in PBSTx and counterstained using DAPI. Finally, cells were mounted, using DAKO fluorescence mounting media and imaged on a Zeiss LSM microscope with no post hoc adjustments to the images.</p><p>Primary antibodies were: SSEA4 Biolegend 330401 RRID:AB_1089209; NANOG Cell Signalling Technology 4903 RRID:AB_10559205; TBR1 Abcam ab31940 RRID:AB_2200219; and TUJ1 Biolegend 801201 RRID:AB_2313773.</p></sec><sec id="alz13904-sec-0150"><label>2.7</label><title>Immunohistochemistry</title><p>Post‐mortem brain tissue from individual II‐4 assessed in this study was obtained through the brain donation program of the London Neurodegenerative Diseases Brain Bank. The protocols used for brain donation and ethical approval for this study were approved by a London Research Ethics Committee and tissue is stored for research under a license from the Human Tissue Authority. The standard diagnostic criteria for the neuropathological diagnosis of AD were used.<xref rid="alz13904-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="alz13904-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz13904-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Slides with 8 µm paraffin‐embedded tissue sections from the temporal cortex were incubated at 60°C overnight. Sections were deparaffinized in xylene and rehydrated in decreasing grades of alcohol. Slides were incubated in methanol/hydrogen peroxide (0.3%) solution for 10 min to block endogenous peroxidase activity. Slides were then incubated in 98% formic acid for 15 min. For heat‐induced antigen retrieval, slides were then transferred to a boiling solution of 0.1 M citrate buffer (pH 6.0) and pressure cooked at maximum pressure for 10 min. Subsequently sections were incubated in 1% BSA for 30 min at room temperature to block non‐specific binding. Sections were incubated with primary antibody for 2 h at room temperature. The antibodies used for immunohistochemistry in this study were mouse‐derived monoclonal anti‐β‐amyloid, 1‐43 (BioLegend 805607, 1:500), anti‐β‐amyloid, clone 6F/3D (DAKO, M0872, 1:200) and AT8 anti‐phosphorylated tau (Thermo Scientific MN1020, 1:600). After three 5 min washes in tris‐buffered saline with 0.1% Tween‐20 (TBS‐Tw), slides were incubated for 1 h in biotinylated goat anti‐mouse IgG secondary antibody (Vector Laboratories BA 9200, 1:200). Slides were washed as before and then incubated in pre‐conjugated Strept(avidin)–Biotin Complex (ABC; DAKO) for signal amplification. The slides were then washed for a final time before being submerged in 3,3ʹ‐diaminobenzidine (DAB) chromogen and then counterstained in Mayer's haematoxylin (BDH). Finally, slides were dehydrated in increasing grades of alcohol (70, 90, and 100% IMS), cleared in xylene, and mounted. Tissue sections were digitally scanned using an Olympus VS120 slide scanner at 20 × magnification.</p></sec><sec id="alz13904-sec-0160"><label>2.8</label><title>Western blotting</title><p>Cells were lysed in RIPA buffer containing protease and phosphatase inhibitors (Roche). Lysates were centrifuged to remove insoluble debris and protein content was quantified using BCA assay (BioRad). Samples were standardized for protein content and denatured using LDS buffer and dithiothreitol with boiling at 95°C for 5 min. Proteins were separated using 4%–12% precast polyacrylamide gels and transferred onto nitrocellulose membranes. Membranes were blocked in PBS with 0.1% Tween‐20 (PBSTw) with 3% BSA. Primary antibodies were added overnight at 4°C in blocking solution. Membranes were then washed three times and secondary antibodies (Licor) were added for 1 h in blocking solution. A final three washes were performed prior to imaging on a Licor Odyssey scanner.</p><p>Primary antibodies were: PSEN1 NTF Millipore MAB1563 RRID: B_11215630; sAPPβ IBL JP18957 RRID:AB_1630824; sAPP total (22c11) Millipore MAB348 RRID:AB_94882; APP ctf Thermo A8717 RRID:AB_258409; PSEN2 Cell Signalling Technology 9979 RRID:AB_10829910; and Actin Sigma A1978 RRID:AB_476692.</p></sec><sec id="alz13904-sec-0170"><label>2.9</label><title>Aβ ELISAs</title><p>Media was harvested after 48 h conditioning on iPSC‐derived neurons. Conditioned media was centrifuged at 2000 × <italic toggle="yes">g</italic> for 5 min to remove cellular debris. Aβ38, Aβ40, and Aβ42 were quantified simultaneously via Meso Scale Discovery V‐PLEX Aβ peptide panel (6E10). Samples were diluted two‐fold and measurements were made against standard curves on an MSD Sector 6000. Aβ43 was quantified using IBL Amyloid Beta (1‐43) (FL) enzyme‐linked immunosorbent assay (ELISA). Media was run undiluted against a standard curve following manufacturer's protocols. Measurements were made on a TECAN SPARK 10 M plate reader.</p></sec><sec id="alz13904-sec-0180"><label>2.10</label><title>Statistical analyses</title><p>Statistical comparisons were performed using Microsoft Excel and GraphPad Prism. Normality was tested using Shapiro–Wilk test and data were compared to pooled controls using one‐way analysis of variance (ANOVA) with Dunnett's multiple comparison test. Data are shown as * = <italic toggle="yes">p</italic> &lt; .05 , ** = <italic toggle="yes">p</italic> &lt; .01, *** = <italic toggle="yes">p</italic> &lt; .001, and **** = .<italic toggle="yes">p</italic> &lt; .0001</p></sec></sec><sec id="alz13904-sec-0190"><label>3</label><title>RESULTS</title><sec id="alz13904-sec-0200"><label>3.1</label><title>Expanded kindred and case descriptions</title><p>We provide an updated three‐generation pedigree of a family with <italic toggle="yes">PSEN1</italic> P436S (Figure <xref rid="alz13904-fig-0001" ref-type="fig">1A</xref>). Clinical information was obtained from research and clinical contact (Table <xref rid="alz13904-tbl-0002" ref-type="table">2</xref>).</p><table-wrap position="float" id="alz13904-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Case descriptions of the expanded <italic toggle="yes">PSEN1</italic> P436S kindred.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Individual</th><th align="left" rowspan="1" colspan="1">Age at onset</th><th align="left" rowspan="1" colspan="1">Age at death</th><th align="left" rowspan="1" colspan="1">Clinical observations</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">I‐1</td><td align="left" rowspan="1" colspan="1">Unknown</td><td align="left" rowspan="1" colspan="1">49</td><td align="left" rowspan="1" colspan="1">Diagnosed with “pre‐senile dementia.”</td></tr><tr><td align="left" rowspan="1" colspan="1">II‐1</td><td align="left" rowspan="1" colspan="1">45</td><td align="left" rowspan="1" colspan="1">50</td><td align="left" rowspan="1" colspan="1">Initial memory led to decline and apraxia. On examination at age 47, pathologic hyperreflexia in the lower limbs and diffuse cortical atrophy noted on CT scan.</td></tr><tr><td align="left" rowspan="1" colspan="1">II‐2</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">68</td><td align="left" rowspan="1" colspan="1">Initial memory impairment. MMSE at age 53 was 22/30, with impaired recall, calculation, sentence and figure copying. There was late development of hallucinations and seizures.</td></tr><tr><td align="left" rowspan="1" colspan="1">II‐4</td><td align="left" rowspan="1" colspan="1">44</td><td align="left" rowspan="1" colspan="1">52</td><td align="left" rowspan="1" colspan="1">Initial memory impairment. MMSE age 47 was 7/30, with severe verbal, visual and general memory, and attention impairment on psychometry. CT of the brain demonstrated moderate generalized atrophy. Post‐mortem confirmation of AD neuropathologic change (see Figure <xref rid="alz13904-fig-0003" ref-type="fig">3</xref>). Confirmed carrier of <italic toggle="yes">PSEN1</italic> P436S. <italic toggle="yes">APOE</italic> status ε3/ε3.</td></tr><tr><td align="left" rowspan="1" colspan="1">II‐7</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="left" rowspan="1" colspan="1">Limited information.</td></tr><tr><td align="left" rowspan="1" colspan="1">III‐3</td><td align="left" rowspan="1" colspan="1">46</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="left" rowspan="1" colspan="1">Initial impairment in memory with word‐finding difficulties and apraxia.</td></tr><tr><td align="left" rowspan="1" colspan="1">III‐5</td><td align="left" rowspan="1" colspan="1">44</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="left" rowspan="1" colspan="1">Initial memory impairment. At age 46 they developed apraxia and dyscalculia. On examination age 48 there was apraxia, myoclonus, increased tone in the lower limbs with hyper‐reflexia and downgoing plantar responses, and no parkinsonism or cerebellar signs. MRI at age 48 demonstrated generalized atrophy including the hippocampi (Figure <xref rid="alz13904-fig-0001" ref-type="fig">1B</xref>). At age 49 they developed word‐finding difficulty and a stutter. Confirmed carrier of <italic toggle="yes">PSEN1</italic> P436S. <italic toggle="yes">APOE</italic> status ε2/ε3.</td></tr><tr><td align="left" rowspan="1" colspan="1">III‐8</td><td align="left" rowspan="1" colspan="1">48</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="left" rowspan="1" colspan="1">Initial executive dysfunction with slowed processing and planning, and then developed topographic memory dysfunction, apraxia, and language dysfunction with word‐finding difficulties. On examination at age 51 there was apraxia, spasticity, and hyper‐reflexia in the lower limbs with downgoing plantar responses and subtle myoclonus. MMSE was 14/30. MRI at age 51 demonstrated posterior atrophy (Figure <xref rid="alz13904-fig-0001" ref-type="fig">1C</xref>). They developed agitation at age 53 treated with risperidone, and on examination at age 54 there was parkinsonism with hypomimia, right‐sided rest tremor, rigidity, and bradykinesia. They developed seizures at age 55. Confirmed carrier of <italic toggle="yes">PSEN1</italic> P436S. <italic toggle="yes">APOE</italic> status ε3/ε3.</td></tr></tbody></table><table-wrap-foot><fn id="alz13904-tbl2-note-0001"><p>Abbreviations: MMSE, mini mental state examination; CT, computed tomography; MRI, magnetic resonance imaging.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>The kindred are consistent with an autosomal dominant pattern of inheritance (Figure <xref rid="alz13904-fig-0001" ref-type="fig">1A</xref>). The average age onset is 46 years (44–50), most commonly with a memory led decline, and with apraxia as a common associated feature. Leading executive dysfunction was observed in one individual. Lower limb pyramidal signs or spastic paraparesis as a late manifestation was observed frequently, in three of the five affected individuals with documented neurological examinations. MRI was available for two individuals (Figure <xref rid="alz13904-fig-0001" ref-type="fig">1B,C</xref>) and demonstrated generalized cerebral atrophy including the hippocampi for individual III‐5, and marked posterior atrophy with relatively preserved hippocampal volume for individual III‐8. Neither had white matter hyperintensities on fluid‐attenuated inversion recovery (FLAIR) or cerebral microbleeds on susceptibility‐weighted imaging (SWI). Together, these findings support the hypothesis that <italic toggle="yes">PSEN1</italic> P436S mutations cause fAD, with observed atypical features in some individuals including late spastic paraparesis. Additionally, one individual showed non‐episodic memory lead cognitive decline in combination with significant posterior atrophy on imaging.</p></sec><sec id="alz13904-sec-0210"><label>3.2</label><title>iPSC models demonstrate elevated Aβ43:40 ratios in P436S mutant neurons</title><p>In order to generate a human neuronal model of the P436S mutation, fibroblasts from two donors were reprogrammed to iPSCs (III‐5 and III‐8, see <xref rid="alz13904-sec-0080" ref-type="sec">Methods</xref>). Newly generated iPSCs were confirmed to have iPSC morphology and expression of pluripotency‐associated factors NANOG and SSEA4 by immunocytochemistry (Figure <xref rid="alz13904-fig-0002" ref-type="fig">2A</xref>). The presence of the P436S mutation was confirmed by Sanger sequencing and the iPSC lines were shown to have a stable karyotype (Figure <xref rid="alz13904-supitem-0001" ref-type="supplementary-material">S1A,B</xref>). Together with two control iPSC lines, cells were differentiated to cortical, glutamatergic neurons. Patient‐derived lines generated iPSC‐derived neurons with a similar efficiency to control lines, suggesting that the mutation did not affect neuronal differentiation (Figure <xref rid="alz13904-fig-0002" ref-type="fig">2A</xref> and Figure <xref rid="alz13904-supitem-0001" ref-type="supplementary-material">S1C–E</xref>).</p><fig position="float" fig-type="FIGURE" id="alz13904-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>
+<italic toggle="yes">PSEN1</italic> P436S patient‐derived iPSC neuron models display fAD‐associated Aβ profiles. (A) Immunocytochemical analysis of iPSCs (top) confirming expression of pluripotency markers NANOG and SSEA4. Immunocytochemical analysis of iPSC‐derived neurons at day 50 of differentiation, bottom, displaying neuronal morphology, expression of deep layer cortical marker TBR1, and neuronal‐specific tubulin TUJ1. (B) Western blot analysis of PSEN1 maturation in neuronal lysates collected after 100 days of differentiation. Immature PSEN1 at 48 kDa (*) is cleaved to a mature N‐terminal fragment (NTF) at around 28 kDa. <italic toggle="yes">PSEN1</italic> R278I is displayed as a mutation that causes maturation defects. Actin is used as a loading control. Two (of three) independent inductions are shown (all three replicates are shown in Figure <xref rid="alz13904-supitem-0001" ref-type="supplementary-material">S2A</xref>). (C–E) Aβ peptide analysis by electrochemiluminescence to depict the disease‐associated Aβ42:40 ratio, the Aβ43:40 ratio, and the processivity ratio Aβ42:38. Int4del and Y115H (green) display typical <italic toggle="yes">PSEN1</italic> mutation‐associated ratio changes; R278I and E280G (yellow) are shown as high Aβ43 producing mutations, each serving as comparators to control (gray) and P436S (red) lines. P436S lines display significantly increased Aβ42:40 and Aβ43:40 ratios. Data represent three independent inductions for each line. Significance represents one‐way ANOVA and Dunnett's multiple comparisons test for each patient‐derived line versus pooled controls, ** = <italic toggle="yes">p</italic> &lt; .01, *** = <italic toggle="yes">p</italic> &lt; .001, **** = <italic toggle="yes">p</italic> &lt; .0001. fAD, Familial Alzheimer's disease; iPSC, induced pluripotent stem cells.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-20-4717-g001.jpg"/></fig><p>PSEN1 undergoes autoproteolysis from an immature full‐length peptide of ∼48 kDa to two mature peptides of ∼28 and 18 kDa. Some mutations associated with atypical presentations of fAD have shown deficits in PSEN1 protein maturation.<xref rid="alz13904-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz13904-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> To investigate the maturation of P436S‐variant PSEN1, western blotting of neuronal lysates was performed. Uncleaved, immature PSEN1 is observed at ∼48 kDa, whereas mature, cleaved PSEN1 is observed at ∼28 kDa. In contrast to PSEN1 R278I, results suggested appropriate processing of the PSEN1 P436S peptide to mature peptide fragments (Figure <xref rid="alz13904-fig-0002" ref-type="fig">2B</xref>).</p><p>Analysis of Aβ species released into the culture media by the iPSC‐derived neurons demonstrated that both lines with the P436S mutation displayed a raised Aβ42:40 ratio and a large increase in the Aβ43:40 ratio (Figure <xref rid="alz13904-fig-0002" ref-type="fig">2C,D</xref>). The processivity‐associated Aβ42:38 ratio was similar in P436S neurons compared with controls (Figure <xref rid="alz13904-fig-0002" ref-type="fig">2E</xref>). When normalized for cell numbers, all Aβ species measured showed an increased concentration in the cell culture media compared to other mutations (Figure <xref rid="alz13904-supitem-0001" ref-type="supplementary-material">S1F–I</xref>). This contrasts with previously studied <italic toggle="yes">PSEN1</italic> mutations, which show decreased generation of shorter Aβ peptides such as Aβ38, attributable to reduced processivity (Figure <xref rid="alz13904-supitem-0001" ref-type="supplementary-material">S1F,I</xref>). <italic toggle="yes">APP</italic> expression, <italic toggle="yes">PSEN1</italic> expression, and amyloidogenic versus non‐amyloidogenic processing were not altered and, therefore, could not explain this finding (Figure <xref rid="alz13904-supitem-0001" ref-type="supplementary-material">S2</xref>). We do, however, note a degree of variability between control lines.</p><p>Together, these data support the finding that <italic toggle="yes">PSEN1</italic> P436S leads to impaired Aβ processing and high Aβ43 production, similar to some other fAD mutations with atypical clinical presentations.</p></sec><sec id="alz13904-sec-0220"><label>3.3</label><title>Pathological diagnosis and confirmation of Aβ43 pathology in a P436S carrier</title><p>Microscopic investigation of individual II‐4 confirmed the presence of severe AD‐type pathology, using the National Institute on Aging/Alzheimer's Association (NIA/AA) criteria. Microscopic investigations demonstrated frequent and widespread deposition of Aβ in parenchymal plaques (corresponding to Thal phase 5); the neuritic plaque pathology was of CERAD ‘frequent’ degree and also present in leptomeningeal and parenchymal blood vessels, indicative of severe cerebral amyloid angiopathy (Figure <xref rid="alz13904-fig-0003" ref-type="fig">3</xref>). Hemorrhagic events were not noted. The tau pathology was very severe throughout including the striate and peristriate cortices. The neurofibrillary tangle pathology, therefore, corresponded to Braak stage VI. In summary, this case had “High” AD neuropathological change with an NIA/AA score of A3B3C3. In addition, there was also evidence of amygdala predominant Lewy body disease. There was no evidence of TDP43 pathology.</p><fig position="float" fig-type="FIGURE" id="alz13904-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Immunohistochemical staining of post‐mortem tissue displays Aβ43 deposition. (A–C) Total Aβ staining shows plaque pathology (A, B) and amyloid angiopathy (C). Cotton wool plaques (black single arrow), senile/cored plaques (black double arrow), and leptomeningeal cerebral amyloid angiopathy (CAA; red arrows) are depicted. (D–E) Aβ43‐specific staining demonstrates substantial Aβ43 deposition in both parenchymal plaques and in vessels as cerebral amyloid angiopathy. Senile cored plaques (black double arrows) and leptomeningeal CAA (red arrows) are depicted. (G–I) AT8 immunostaining for phosphorylated tau, demonstrating neuritic plaques (purple arrows) and neurofibrillary tangles (blue arrows). Scale bar represents 500 µm in A, D, and G; and 50 µm in B, C, E, F, H, and I.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-20-4717-g003.jpg"/></fig><p>To confirm the finding that <italic toggle="yes">PSEN1</italic> P436S mutant neurons produce high levels of Aβ43, we also performed immunohistochemical analysis for total Aβ and Aβ43 on post‐mortem brain tissue from the temporal cortex (Figure <xref rid="alz13904-fig-0003" ref-type="fig">3</xref>). Analysis suggests that Aβ43 represents a major component of the amyloid plaques in P436S‐associated tissue. Aβ43 staining highlighted dense cores within plaques as well as extensive cerebral amyloid angiopathy. There was also evidence for cotton wool plaque pathology (round lesions that lack central dense cores that have been linked with atypical <italic toggle="yes">PSEN1</italic> mutations), although cotton wool plaques and dense core plaques were present with similar abundance. These data confirm that Aβ43 pathology is associated with the <italic toggle="yes">PSEN1</italic> P436S mutation.</p></sec></sec><sec id="alz13904-sec-0230"><label>4</label><title>DISCUSSION</title><p>Making use of an expanded family history, MRI brain scans, iPSC models, and post‐mortem tissue, we confirm that the P436S mutation in <italic toggle="yes">PSEN1</italic> is causative of fAD and describe its atypical clinical features.</p><p>This kindred highlights the heterogeneity that can be observed in fAD despite a common causative mutation, and the potential atypical cognitive presentations and motor syndromes, particularly with certain <italic toggle="yes">PSEN1</italic> mutations.<xref rid="alz13904-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Although the age at symptom onset was relatively consistent (range 44–48), the disease duration (range 5–21) and age at death (range 49–68) varied widely. This is in keeping with previous work in fAD demonstrating that survival time is influenced by mutation to a lesser extent than age at onset.<xref rid="alz13904-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> In most cases, the cognitive syndrome was memory led (4/5), but one individual (III‐8) presented with an atypical cognitive manifestation of initial executive dysfunction (a clinical phenotype that can be seen as an atypical manifestation of fAD and sporadic early onset AD),<xref rid="alz13904-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz13904-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="alz13904-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> and demonstrated significant posterior cerebral atrophy on imaging with relative preservation of the hippocampi (radiologically similar to that which is seen in posterior cortical atrophy [PCA], another atypical clinical phenotype of early onset AD that is held to be sporadic,<xref rid="alz13904-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> although notably, this individual did not have the clinical syndrome of PCA). Distinct from sporadic AD and fAD caused by <italic toggle="yes">APP</italic> mutations, in this kindred, spastic paraparesis was observed as a late manifestation in a majority of cases with documented neurological examinations (3/5), and this study further reinforces the need to consider <italic toggle="yes">PSEN1</italic> mutations in individuals presenting with cognitive decline and spastic paraparesis.<xref rid="alz13904-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Late parkinsonism was seen in one individual, although this could be confounded by neuroleptic exposure. Hemorrhage was not noted on the neuropathological report, and although CAA is commonly observed on neuropathological examination of individuals with fAD, cerebral microbleeds are seen on MRI in a far smaller proportion of patients and hemorrhagic events are rare.<xref rid="alz13904-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+</p><p>The link between Aβ43 and atypical motor manifestations warrants attention in future clinical studies. Elevated Aβ43 has been reported in other fAD mutations that are associated with spastic paraparesis, including E280G and R278I,<xref rid="alz13904-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz13904-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> and with parkinsonism, including L435F.<xref rid="alz13904-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="alz13904-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Our study also supports the correlation between <italic toggle="yes">PSEN1</italic> mutations associated with spastic paraparesis and cotton wool plaque pathology, which in turn has been shown to correlate with cerebral amyloid angiopathy in some, but not all, cases.<xref rid="alz13904-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="alz13904-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> The pathophysiology of spastic paraparesis in <italic toggle="yes">PSEN1</italic>‐associated fAD is not well understood and may relate to altered processing of γ‐secretase substrates other than APP.<xref rid="alz13904-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> The apparent association between increased Aβ43 and spastic paraparesis may potentially represent a signature of altered γ‐secretase function as it relates to these other substrates. Relevant substrates may become clear as knowledge of γ‐secretase substrates continues to expand.<xref rid="alz13904-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> The two individuals from whom iPSCs were derived exhibited differing clinical and radiologic manifestations despite similar Aβ peptide profiles. This reinforces the need to consider factors other than Aβ processing in the clinical heterogeneity of fAD in general.</p><p>The PSEN1 P436S peptide variant shows appropriate autoproteolysis and maturation, shown via the absence of an immature PSEN1 band by western blotting. This replicates findings in mouse embryonic fibroblasts and cell models, whereby P436S shows largely normal processing, which is in contrast to the P436Q mutation.<xref rid="alz13904-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="alz13904-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> The current work disputes a previous correlation between incomplete PSEN1 peptide maturation and Aβ43 production for the R278I and E280G mutations.<xref rid="alz13904-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz13904-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+</p><p>The P436 residue of PSEN1 lies within the PALP motif (residues P433, A434, L435, and P436; reviewed by Bagaria, Bagyinszky, and An, 2022<xref rid="alz13904-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>). Stereologically, the PALP motif lies close to the catalytic pore of PSEN1 and is critical for proper enzymatic function.<xref rid="alz13904-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="alz13904-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> The importance of this region may explain the early age at onset of mutations associated with this motif. P433S leads to age at onset of 34 years,<xref rid="alz13904-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> A434C and A434T have ages of onset between 29 and 35 years, respectively,<xref rid="alz13904-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="alz13904-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> L435F has an age of onset of 47,<xref rid="alz13904-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> and P436Q has an age at onset of 28.<xref rid="alz13904-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> Therefore, we theorize that the P436S mutation may have a less severe impact on PSEN1 function compared to P436Q (which shows defective PSEN1 autoproteolysis, a very early age at onset, and is also associated with spastic paraparesis and posterior cerebral clinical features <xref rid="alz13904-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="alz13904-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>) yet still cause fAD with a relatively early age at onset due to the importance of the PALP motif. Proline residues provide structural rigidity and are often crucial to peptide turns. This potentially highlights (1) the importance of the PALP motif close to the ninth transmembrane domain of PSEN1, and (2) a more detrimental effect of the larger glutamine residue in P436Q compared to the smaller serine substitution in P436S. Finally, we were surprised to see increased levels of all Aβ species measured in P436S conditioned media. This finding supports data from cell models,<xref rid="alz13904-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> which show increased Aβ40, Aβ42, and Aβ43 production, but contradicts data in <italic toggle="yes">PSEN1/2</italic> double knockout fibroblasts.<xref rid="alz13904-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> The presence/absence of the healthy <italic toggle="yes">PSEN1</italic> allele represents a point of difference between the studies. Further experiments are required to test the basis of this finding.</p><p>One of the limitations of this study is the rarity of fAD and of the <italic toggle="yes">PSEN1</italic> P436S mutation, affecting the number of patient‐derived iPSC lines and post‐mortem tissue available. The use of isogenic control lines would further confirm the findings. Further experiments are required to confirm and determine the mechanism of raised total Aβ species in the media of P436S neurons; these may include investigating intracellular Aβ levels or measuring Aβ flux using methods such as stable isotope labeling.<xref rid="alz13904-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> Finally, it has been suggested that fAD mutations associated with high Aβ43 cause processing pathway switching, and that Aβ43 is generated from Aβ48 rather than Aβ46.<xref rid="alz13904-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> Further work may assess this phenomenon in <italic toggle="yes">PSEN1</italic> P436S patient‐derived neurons.</p><p>In summary, this study confirms the pathogenicity of the <italic toggle="yes">PSEN1</italic> P436S mutation, validating a causative effect for fAD. The data further underscore the relevance of Aβ43 in the pathogenesis of fAD and the association between Aβ43 and atypical motor manifestations, and support a critical importance of the PALP domain in PSEN1 enzymatic function. Together these findings further develop our molecular understanding of fAD and highlight the importance of considering clinical heterogeneity when designing clinical studies.</p></sec><sec sec-type="COI-statement" id="alz13904-sec-0250"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors have no conflicts to declare. Author disclosures are available in the <xref rid="alz13904-supitem-0002" ref-type="supplementary-material">supporting information</xref>
+</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz13904-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-4717-s001.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz13904-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-4717-s002.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz13904-sec-0240"><title>ACKNOWLEDGMENTS</title><p>We wish to thank the individuals and their families for contributing to this work and the London Neurodegenerative Diseases Brain Bank for access to the post‐mortem brain tissue. The London Neurodegenerative Diseases Brain Bank receives funding from the MRC and as part of the Brains for Dementia Research program, jointly funded by Alzheimer's Research UK and Alzheimer's Society. C.A. was supported by an Alzheimer's Society fellowship (AS‐JF‐18‐008). S.W. was supported by a senior research fellowship from Alzheimer's Research UK (ARUK‐SRF2016B‐2). F.T. was supported by an EMBO scientific exchange grant (No. 9297). R.G. was part of the of the UCL Neurogenetic Therapies Programme, generously funded by The Sigrid Rausing Trust. Y.B. is supported by the Association of Frontotemporal Dementia. C.F. is supported by the UK Dementia Research Institute (UKDRI‐1014) through UK DRI Ltd, principally funded by the UK Medical Research Council. N.S.R. was supported by a University of London Chadburn Academic Clinical Lectureship. This work was supported by the Medical Research Council (MR/M02492X/1), the UK Dementia Research Institute at UCL (which receives its funding from UK DRI Ltd, funded by the UK Medical Research Council, Alzheimer's Society and ARUK), and by the National Institute for Health and Care Research University College London Hospitals Biomedical Research Centre.</p></ack><ref-list id="alz13904-bibl-0001"><title>REFERENCES</title><ref id="alz13904-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz13904-cit-0001">
+<string-name name-style="western">
+<surname>Goate</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chartier‐Harlin</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mullan</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Segregation of a missense mutation in the amyloid precursor protein gene with familial Alzheimer's disease</article-title>. <source>Nature</source>. <year>1991</year>;<volume>349</volume>(<issue>6311</issue>):<fpage>704</fpage>‐<lpage>706</lpage>. doi:<pub-id pub-id-type="doi">10.1038/349704a0</pub-id>
+<pub-id pub-id-type="pmid">1671712</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz13904-cit-0002">
+<string-name name-style="western">
+<surname>Levy‐Lahad</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wasco</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poorkaj</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Candidate gene for the chromosome 1 familial Alzheimer's disease locus</article-title>. <source>Science</source>. <year>1995</year>;<volume>269</volume>(<issue>5226</issue>):<fpage>973</fpage>‐<lpage>977</lpage>. doi:<pub-id pub-id-type="doi">10.1126/science.7638622</pub-id>
+<pub-id pub-id-type="pmid">7638622</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz13904-cit-0003">
+<string-name name-style="western">
+<surname>Sherrington</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rogaev</surname>
+<given-names>EI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Cloning of a gene bearing missense mutations in early‐onset familial Alzheimer's disease</article-title>. <source>Nature</source>. <year>1995</year>;<volume>375</volume>(<issue>6534</issue>):<fpage>754</fpage>‐<lpage>760</lpage>. doi:<pub-id pub-id-type="doi">10.1038/375754a0</pub-id>
+<pub-id pub-id-type="pmid">7596406</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz13904-cit-0004">
+<string-name name-style="western">
+<surname>Selkoe</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The amyloid hypothesis of Alzheimer's disease at 25 years</article-title>. <source>EMBO Mol Med</source>. <year>2016</year>;<volume>8</volume>(<issue>6</issue>):<fpage>595</fpage>‐<lpage>608</lpage>. doi:<pub-id pub-id-type="doi">10.15252/emmm.201606210</pub-id>
+<pub-id pub-id-type="pmid">27025652</pub-id>
+<pub-id pub-id-type="pmcid">PMC4888851</pub-id></mixed-citation></ref><ref id="alz13904-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz13904-cit-0005">
+<string-name name-style="western">
+<surname>Chávez‐Gutiérrez</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bammens</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benilova</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>The mechanism of γ‐Secretase dysfunction in familial Alzheimer disease</article-title>. <source>EMBO J</source>. <year>2012</year>;<volume>31</volume>(<issue>10</issue>):<fpage>2261</fpage>‐<lpage>2274</lpage>. doi:<pub-id pub-id-type="doi">10.1038/emboj.2012.79</pub-id>
+<pub-id pub-id-type="pmid">22505025</pub-id>
+<pub-id pub-id-type="pmcid">PMC3364747</pub-id></mixed-citation></ref><ref id="alz13904-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz13904-cit-0006">
+<string-name name-style="western">
+<surname>Matsumura</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takami</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okochi</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>γ‐Secretase associated with lipid rafts: multiple interactive pathways in the stepwise processing of β‐carboxyl‐terminal fragment</article-title>. <source>J Biol Chem</source>. <year>2014</year>;<volume>289</volume>(<issue>8</issue>):<fpage>5109</fpage>‐<lpage>5121</lpage>. doi:<pub-id pub-id-type="doi">10.1074/jbc.M113.510131</pub-id>
+<pub-id pub-id-type="pmid">24375443</pub-id>
+<pub-id pub-id-type="pmcid">PMC3931069</pub-id></mixed-citation></ref><ref id="alz13904-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz13904-cit-0007">
+<string-name name-style="western">
+<surname>Takami</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nagashima</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sano</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>gamma‐Secretase: successive tripeptide and tetrapeptide release from the transmembrane domain of beta‐carboxyl terminal fragment</article-title>. <source>J Neurosci</source>. <year>2009</year>;<volume>29</volume>(<issue>41</issue>):<fpage>13042</fpage>‐<lpage>13052</lpage>. doi:<pub-id pub-id-type="doi">10.1523/JNEUROSCI.2362-09.2009</pub-id>
+<pub-id pub-id-type="pmid">19828817</pub-id>
+<pub-id pub-id-type="pmcid">PMC6665297</pub-id></mixed-citation></ref><ref id="alz13904-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz13904-cit-0008">
+<string-name name-style="western">
+<surname>Szaruga</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munteanu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lismont</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Alzheimer's‐causing mutations shift Aβ length by destabilizing γ‐Secretase‐Aβn interactions</article-title>. <source>Cell</source>. <year>2017</year>;<volume>170</volume>(<issue>3</issue>):<fpage>443</fpage>‐<lpage>456</lpage>. e14. doi:<pub-id pub-id-type="doi">10.1016/j.cell.2017.07.004</pub-id>
+<pub-id pub-id-type="pmid">28753424</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz13904-cit-0009">
+<string-name name-style="western">
+<surname>Ryan</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicholas</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weston</surname>
+<given-names>PSJ</given-names>
+</string-name>, et al. <article-title>Clinical phenotype and genetic associations in autosomal dominant familial Alzheimer's disease: a case series</article-title>. <source>Lancet Neurol</source>. <year>2016</year>;<volume>15</volume>(<issue>13</issue>):<fpage>1326</fpage>‐<lpage>1335</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(16)30193-4</pub-id>
+<pub-id pub-id-type="pmid">27777022</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz13904-cit-0010">
+<string-name name-style="western">
+<surname>Ryman</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Acosta‐Baena</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aisen</surname>
+<given-names>PS</given-names>
+</string-name>, et al. <article-title>Symptom onset in autosomal dominant Alzheimer disease: a systematic review and meta‐analysis</article-title>. <source>Neurology</source>. <year>2014</year>;<volume>83</volume>(<issue>3</issue>):<fpage>253</fpage>‐<lpage>260</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000000596</pub-id>
+<pub-id pub-id-type="pmid">24928124</pub-id>
+<pub-id pub-id-type="pmcid">PMC4117367</pub-id></mixed-citation></ref><ref id="alz13904-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz13904-cit-0011">
+<string-name name-style="western">
+<surname>Verkkoniemi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Somer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rinne</surname>
+<given-names>JO</given-names>
+</string-name>, et al. <article-title>Variant Alzheimer's disease with spastic paraparesis: clinical characterization</article-title>. <source>Neurology</source>. <year>2000</year>;<volume>54</volume>(<issue>5</issue>):<fpage>1103</fpage>‐<lpage>1109</lpage>. doi:<pub-id pub-id-type="doi">10.1212/wnl.54.5.1103</pub-id>
+<pub-id pub-id-type="pmid">10720282</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz13904-cit-0012">
+<string-name name-style="western">
+<surname>Arber</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lovejoy</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wray</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Stem cell models of Alzheimer's disease: progress and challenges</article-title>. <source>Alzheimers Res Ther</source>. <year>2017</year>;<volume>9</volume>(<issue>1</issue>):<fpage>42</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-017-0268-4</pub-id>
+<pub-id pub-id-type="pmid">28610595</pub-id>
+<pub-id pub-id-type="pmcid">PMC5470327</pub-id></mixed-citation></ref><ref id="alz13904-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz13904-cit-0013">
+<string-name name-style="western">
+<surname>Arber</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toombs</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lovejoy</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Familial Alzheimer's disease patient‐derived neurons reveal distinct mutation‐specific effects on amyloid beta</article-title>. <source>Mol Psychiatry</source>. <year>2020</year>;<volume>25</volume>(<issue>11</issue>):<fpage>2919</fpage>‐<lpage>2931</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41380-019-0410-8</pub-id>
+<pub-id pub-id-type="pmid">30980041</pub-id>
+<pub-id pub-id-type="pmcid">PMC7577860</pub-id></mixed-citation></ref><ref id="alz13904-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz13904-cit-0014">
+<string-name name-style="western">
+<surname>O'Connor</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pannee</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poole</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Plasma amyloid‐β ratios in autosomal dominant Alzheimer's disease: the influence of genotype</article-title>. <source>Brain</source>. <year>2021</year>;<volume>144</volume>(<issue>10</issue>):<fpage>2964</fpage>‐<lpage>2970</lpage>. doi:<pub-id pub-id-type="doi">10.1093/brain/awab166</pub-id>
+<pub-id pub-id-type="pmid">33892504</pub-id>
+<pub-id pub-id-type="pmcid">PMC8634092</pub-id></mixed-citation></ref><ref id="alz13904-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz13904-cit-0015">
+<string-name name-style="western">
+<surname>Saito</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suemoto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brouwers</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Potent amyloidogenicity and pathogenicity of Aβ43</article-title>. <source>Nat Neurosci</source>. <year>2011</year>;<volume>14</volume>(<issue>8</issue>):<fpage>1023</fpage>‐<lpage>1032</lpage>. doi:<pub-id pub-id-type="doi">10.1038/nn.2858</pub-id>
+<pub-id pub-id-type="pmid">21725313</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz13904-cit-0016">
+<string-name name-style="western">
+<surname>Oakley</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chung</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klickstein</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Commins</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hyman</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frosch</surname>
+<given-names>MP</given-names>
+</string-name>. <article-title>The Alzheimer disease‐causing presenilin‐1 L435F mutation causes increased production of soluble Aβ43 species in patient‐derived iPSC‐neurons, closely mimicking matched patient brain tissue</article-title>. <source>J Neuropathol Exp Neurol</source>. <year>2020</year>;<volume>79</volume>(<issue>6</issue>):<fpage>592</fpage>‐<lpage>604</lpage>. doi:<pub-id pub-id-type="doi">10.1093/jnen/nlaa025</pub-id>
+<pub-id pub-id-type="pmid">32388561</pub-id>
+<pub-id pub-id-type="pmcid">PMC7241938</pub-id></mixed-citation></ref><ref id="alz13904-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz13904-cit-0017">
+<string-name name-style="western">
+<surname>Willumsen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arber</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lovejoy</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>The PSEN1 E280G mutation leads to increased amyloid‐β43 production in induced pluripotent stem cell neurons and deposition in brain tissue</article-title>. <source>Brain Commun</source>. <year>2022</year>;<volume>5</volume>(<issue>1</issue>):<elocation-id>fcac321</elocation-id>. doi:<pub-id pub-id-type="doi">10.1093/braincomms/fcac321</pub-id>
+<pub-id pub-id-type="pmid">36687397</pub-id>
+<pub-id pub-id-type="pmcid">PMC9847549</pub-id></mixed-citation></ref><ref id="alz13904-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz13904-cit-0018">
+<string-name name-style="western">
+<surname>Hurley</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mozolewski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dobrowolski</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsieh</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Familial Alzheimer's disease‐associated PSEN1 mutations affect neurodevelopment through increased Notch signaling</article-title>. <source>Stem Cell Reports</source>. <year>2023</year>;<volume>18</volume>(<issue>7</issue>):<fpage>1516</fpage>‐<lpage>1533</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.stemcr.2023.05.018</pub-id>
+<pub-id pub-id-type="pmid">37352850</pub-id>
+<pub-id pub-id-type="pmcid">PMC10362499</pub-id></mixed-citation></ref><ref id="alz13904-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz13904-cit-0019">
+<string-name name-style="western">
+<surname>Palmer</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beck</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Campbell</surname>
+<given-names>TA</given-names>
+</string-name>, et al. <article-title>Pathogenic presenilin 1 mutations (P436S &amp; I143F) in early‐onset Alzheimer's disease in the UK</article-title>. <source>Hum Mutat</source>. <year>1999</year>;<volume>13</volume>(<issue>3</issue>):<fpage>256</fpage>‐<lpage>256</lpage>. doi:<pub-id pub-id-type="doi">10.1002/(SICI)1098-1004(1999)13:3&lt;;256::AID-HUMU11&gt;;3.0.CO;2-P</pub-id>
+<pub-id pub-id-type="pmid">10090481</pub-id></mixed-citation></ref><ref id="alz13904-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz13904-cit-0020">
+<string-name name-style="western">
+<surname>Pantazis</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lara</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>A reference human induced pluripotent stem cell line for large‐scale collaborative studies</article-title>. <source>Cell Stem Cell</source>. <year>2022</year>;<volume>29</volume>(<issue>12</issue>):<fpage>1685</fpage>‐<lpage>1702</lpage>. e22 doi:<pub-id pub-id-type="doi">10.1016/j.stem.2022.11.004</pub-id>
+<pub-id pub-id-type="pmid">36459969</pub-id>
+<pub-id pub-id-type="pmcid">PMC9782786</pub-id></mixed-citation></ref><ref id="alz13904-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz13904-cit-0021">
+<string-name name-style="western">
+<surname>Arber</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Villegas‐Llerena</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toombs</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Amyloid precursor protein processing in human neurons with an allelic series of the PSEN1 intron 4 deletion mutation and total presenilin‐1 knockout</article-title>. <source>Brain Commun</source>. <year>2019</year>;<volume>1</volume>(<issue>1</issue>):<elocation-id>fcz024</elocation-id>. doi:<pub-id pub-id-type="doi">10.1093/braincomms/fcz024</pub-id>
+<pub-id pub-id-type="pmid">32395715</pub-id>
+<pub-id pub-id-type="pmcid">PMC7212081</pub-id></mixed-citation></ref><ref id="alz13904-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz13904-cit-0022">
+<string-name name-style="western">
+<surname>Arber</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lovejoy</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harris</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Familial Alzheimer's disease mutations in PSEN1 lead to premature human stem cell neurogenesis</article-title>. <source>Cell Rep</source>. <year>2021</year>;<volume>34</volume>(<issue>2</issue>):<elocation-id>108615</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.celrep.2020.108615</pub-id>
+<pub-id pub-id-type="pmid">33440141</pub-id>
+<pub-id pub-id-type="pmcid">PMC7809623</pub-id></mixed-citation></ref><ref id="alz13904-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz13904-cit-0023">
+<string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Braak</surname>
+<given-names>E</given-names>
+</string-name>, <article-title>Neuropathological stageing of Alzheimer‐related changes</article-title>. <source>Acta Neuropathol</source>
+<year>1991</year>;<volume>82</volume>(<issue>4</issue>):<fpage>239</fpage>‐<lpage>259</lpage>. doi:<pub-id pub-id-type="doi">10.1007/BF00308809</pub-id>
+<pub-id pub-id-type="pmid">1759558</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz13904-cit-0024">
+<string-name name-style="western">
+<surname>Hyman</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phelps</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, et al. <article-title>National Institute on Aging‐Alzheimer's Association guidelines for the neuropathologic assessment of Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2012</year>;<volume>8</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>13</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2011.10.007</pub-id>
+<pub-id pub-id-type="pmid">22265587</pub-id>
+<pub-id pub-id-type="pmcid">PMC3266529</pub-id></mixed-citation></ref><ref id="alz13904-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz13904-cit-0025">
+<string-name name-style="western">
+<surname>Thal</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rüb</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orantes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Phases of A beta‐deposition in the human brain and its relevance for the development of AD</article-title>. <source>Neurology</source>. <year>2002</year>;<volume>58</volume>(<issue>12</issue>):<fpage>1791</fpage>‐<lpage>1800</lpage>. doi:<pub-id pub-id-type="doi">10.1212/wnl.58.12.1791</pub-id>
+<pub-id pub-id-type="pmid">12084879</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz13904-cit-0026">
+<string-name name-style="western">
+<surname>Pavisic</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicholas</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Connor</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Disease duration in autosomal dominant familial Alzheimer disease: a survival analysis</article-title>. <source>Neurol Genet</source>. <year>2020</year>;<volume>6</volume>(<issue>5</issue>):<elocation-id>e507</elocation-id>. doi:<pub-id pub-id-type="doi">10.1212/NXG.0000000000000507</pub-id>
+<pub-id pub-id-type="pmid">33225064</pub-id>
+<pub-id pub-id-type="pmcid">PMC7673285</pub-id></mixed-citation></ref><ref id="alz13904-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz13904-cit-0027">
+<string-name name-style="western">
+<surname>Townley</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Graff‐Radford</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mantyh</surname>
+<given-names>WG</given-names>
+</string-name>, et al. <article-title>Progressive dysexecutive syndrome due to Alzheimer's disease: a description of 55 cases and comparison to other phenotypes</article-title>. <source>Brain Commun</source>. <year>2020</year>;<volume>2</volume>(<issue>1</issue>):<elocation-id>fcaa068</elocation-id>. doi:<pub-id pub-id-type="doi">10.1093/braincomms/fcaa068</pub-id>
+<pub-id pub-id-type="pmid">32671341</pub-id>
+<pub-id pub-id-type="pmcid">PMC7325839</pub-id></mixed-citation></ref><ref id="alz13904-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz13904-cit-0028">
+<string-name name-style="western">
+<surname>Ossenkoppele</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pijnenburg</surname>
+<given-names>YAL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perry</surname>
+<given-names>DC</given-names>
+</string-name>, et al. <article-title>The behavioural/dysexecutive variant of Alzheimer's disease: clinical, neuroimaging and pathological features</article-title>. <source>Brain</source>. <year>2015</year>;<volume>138</volume>(Pt. <issue>9</issue>):<fpage>2732</fpage>‐<lpage>2749</lpage>. doi:<pub-id pub-id-type="doi">10.1093/brain/awv191</pub-id>
+<pub-id pub-id-type="pmid">26141491</pub-id>
+<pub-id pub-id-type="pmcid">PMC4623840</pub-id></mixed-citation></ref><ref id="alz13904-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz13904-cit-0029">
+<string-name name-style="western">
+<surname>Schott</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crutch</surname>
+<given-names>SJ</given-names>
+</string-name>. <article-title>Posterior Cortical Atrophy</article-title>. <source>Continuum</source>. <year>2019</year>;<volume>25</volume>(<issue>1</issue>):<fpage>52</fpage>‐<lpage>75</lpage>. doi:<pub-id pub-id-type="doi">10.1212/CON.0000000000000696</pub-id>
+<pub-id pub-id-type="pmid">30707187</pub-id>
+<pub-id pub-id-type="pmcid">PMC6548537</pub-id></mixed-citation></ref><ref id="alz13904-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz13904-cit-0030">
+<string-name name-style="western">
+<surname>Chelban</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Breza</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szaruga</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Spastic paraplegia preceding PSEN1‐related familial Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2021</year>;<volume>13</volume>(<issue>1</issue>):<elocation-id>e12186</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/dad2.12186</pub-id>
+<pub-id pub-id-type="pmcid">PMC8088589</pub-id><pub-id pub-id-type="pmid">33969176</pub-id></mixed-citation></ref><ref id="alz13904-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz13904-cit-0031">
+<string-name name-style="western">
+<surname>Banerjee</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Collinge</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fox</surname>
+<given-names>NC</given-names>
+</string-name>, et al. <article-title>Clinical considerations in early‐onset cerebral amyloid angiopathy</article-title>. <source>Brain</source>. <year>2023</year>;<volume>146</volume>(<issue>10</issue>):<fpage>3991</fpage>‐<lpage>4014</lpage>. doi:<pub-id pub-id-type="doi">10.1093/brain/awad193</pub-id>
+<pub-id pub-id-type="pmid">37280119</pub-id>
+<pub-id pub-id-type="pmcid">PMC10545523</pub-id></mixed-citation></ref><ref id="alz13904-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz13904-cit-0032">
+<string-name name-style="western">
+<surname>Kretner</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trambauer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fukumori</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Generation and deposition of Aβ43 by the virtually inactive presenilin‐1 L435F mutant contradicts the presenilin loss‐of‐function hypothesis of Alzheimer's disease</article-title>. <source>EMBO Mol Med</source>. <year>2016</year>;<volume>8</volume>(<issue>5</issue>):<fpage>458</fpage>‐<lpage>465</lpage>. doi:<pub-id pub-id-type="doi">10.15252/emmm.201505952</pub-id>
+<pub-id pub-id-type="pmid">26988102</pub-id>
+<pub-id pub-id-type="pmcid">PMC5119496</pub-id></mixed-citation></ref><ref id="alz13904-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz13904-cit-0033">
+<string-name name-style="western">
+<surname>Heilig</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xia</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kelleher</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>A presenilin‐1 mutation identified in familial Alzheimer disease with cotton wool plaques causes a nearly complete loss of γ‐secretase activity</article-title>. <source>J Biol Chem</source>. <year>2010</year>;<volume>285</volume>(<issue>29</issue>):<fpage>22350</fpage>‐<lpage>22359</lpage>. doi:<pub-id pub-id-type="doi">10.1074/jbc.M110.116962</pub-id>
+<pub-id pub-id-type="pmid">20460383</pub-id>
+<pub-id pub-id-type="pmcid">PMC2903357</pub-id></mixed-citation></ref><ref id="alz13904-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz13904-cit-0034">
+<string-name name-style="western">
+<surname>Willumsen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poole</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicholas</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fox</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ryan</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lashley</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Variability in the type and layer distribution of cortical Aβ pathology in familial Alzheimer's disease</article-title>. <source>Brain Pathol</source>. <year>2022</year>;<volume>32</volume>(<issue>3</issue>):<elocation-id>e13009</elocation-id>. doi:<pub-id pub-id-type="doi">10.1111/bpa.13009</pub-id>
+<pub-id pub-id-type="pmid">34319632</pub-id>
+<pub-id pub-id-type="pmcid">PMC9048809</pub-id></mixed-citation></ref><ref id="alz13904-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz13904-cit-0035">
+<string-name name-style="western">
+<surname>Hou</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zielonka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Serneels</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>The γ‐secretase substrate proteome and its role in cell signaling regulation</article-title>. <source>Mol Cell</source>. <year>2023</year>;<volume>83</volume>(<issue>22</issue>):<fpage>4106</fpage>‐<lpage>4122</lpage>.e10. doi:<pub-id pub-id-type="doi">10.1016/j.molcel.2023.10.029</pub-id>
+<pub-id pub-id-type="pmid">37977120</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz13904-cit-0036">
+<string-name name-style="western">
+<surname>Shen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qin</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Two novel presenilin‐1 mutations (I249L and P433S) in early onset Chinese Alzheimer's pedigrees and their functional characterization</article-title>. <source>Biochem Biophys Res Commun</source>. <year>2019</year>;<volume>516</volume>(<issue>1</issue>):<fpage>264</fpage>‐<lpage>269</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.bbrc.2019.05.185</pub-id>
+<pub-id pub-id-type="pmid">31235249</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz13904-cit-0037">
+<string-name name-style="western">
+<surname>Bagaria</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bagyinszky</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>An</surname>
+<given-names>SSA</given-names>
+</string-name>. <article-title>Genetics, functions, and clinical impact of presenilin‐1 (PSEN1) gene</article-title>. <source>Int J Mol Sci</source>. <year>2022</year>;<volume>23</volume>(<issue>18</issue>):<elocation-id>10970</elocation-id>. doi:<pub-id pub-id-type="doi">10.3390/ijms231810970</pub-id>
+<pub-id pub-id-type="pmid">36142879</pub-id>
+<pub-id pub-id-type="pmcid">PMC9504248</pub-id></mixed-citation></ref><ref id="alz13904-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz13904-cit-0038">
+<string-name name-style="western">
+<surname>Sato</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takagi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tomita</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iwatsubo</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>The C‐terminal PAL motif and transmembrane domain 9 of presenilin 1 are involved in the formation of the catalytic pore of the γ‐secretase</article-title>. <source>J Neurosci.</source>. <year>2008</year>;<volume>28</volume>(<issue>24</issue>):<fpage>6264</fpage>‐<lpage>6271</lpage>. doi:<pub-id pub-id-type="doi">10.1523/JNEUROSCI.1163-08.2008</pub-id>
+<pub-id pub-id-type="pmid">18550769</pub-id>
+<pub-id pub-id-type="pmcid">PMC6670534</pub-id></mixed-citation></ref><ref id="alz13904-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz13904-cit-0039">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lei</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Recognition of the amyloid precursor protein by human g‐secretase</article-title>. <source>Science</source>. <year>2019</year>;<volume>363</volume>(<issue>6428</issue>). doi:<pub-id pub-id-type="doi">10.1126/science.aaw0930</pub-id>
+<pub-id pub-id-type="pmid">30630874</pub-id></mixed-citation></ref><ref id="alz13904-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz13904-cit-0040">
+<string-name name-style="western">
+<surname>Devi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fotiou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jyrinji</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Novel presenilin 1 mutations associated with early onset of dementia in a family with both early‐onset and late‐onset Alzheimer disease</article-title>. <source>Arch Neurol</source>. <year>2000</year>;<volume>57</volume>(<issue>10</issue>):<fpage>1454</fpage>‐<lpage>1457</lpage>. doi:<pub-id pub-id-type="doi">10.1001/archneur.57.10.1454</pub-id>
+<pub-id pub-id-type="pmid">11030797</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz13904-cit-0041">
+<string-name name-style="western">
+<surname>Jiao</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Mutational analysis in early‐onset familial Alzheimer's disease in Mainland China</article-title>. <source>Neurobiol Aging</source>. <year>2014</year>;<volume>35</volume>(<issue>8</issue>):<fpage>1957</fpage>.e1‐1957.e19576. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2014.02.014</pub-id>
+<pub-id pub-id-type="pmid">24650794</pub-id></mixed-citation></ref><ref id="alz13904-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz13904-cit-0042">
+<string-name name-style="western">
+<surname>Rogaeva</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fafel</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>YQ</given-names>
+</string-name>, et al. <article-title>Screening for PS1 mutations in a referral‐based series of AD cases: 21 novel mutations</article-title>. <source>Neurology</source>. <year>2001</year>;<volume>57</volume>(<issue>4</issue>):<fpage>621</fpage>‐<lpage>625</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.57.4.621</pub-id>
+<pub-id pub-id-type="pmid">11524469</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz13904-cit-0043">
+<string-name name-style="western">
+<surname>Taddei</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kwok</surname>
+<given-names>JBJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kril</surname>
+<given-names>JJ</given-names>
+</string-name>, et al. <article-title>Two novel presenilin‐1 mutations (Ser169Leu and Pro436Gln) associated with very early onset Alzheimerʼs disease</article-title>. <source>Neuroreport</source>. <year>1998</year>;<volume>9</volume>(<issue>14</issue>):<fpage>3335</fpage>‐<lpage>3339</lpage>. doi:<pub-id pub-id-type="doi">10.1097/00001756-199810050-00034</pub-id>
+<pub-id pub-id-type="pmid">9831473</pub-id>
+</mixed-citation></ref><ref id="alz13904-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz13904-cit-0044">
+<string-name name-style="western">
+<surname>Potter</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patterson</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elbert</surname>
+<given-names>DL</given-names>
+</string-name>, et al. <article-title>Increased in vivo amyloid‐b42 production, exchange, and loss in presenilin mutation carriers</article-title>. <source>Sci Transl Med</source>. <year>2013</year>;<volume>5</volume>(<issue>189</issue>). doi:<pub-id pub-id-type="doi">10.1126/scitranslmed.3005615</pub-id>
+<pub-id pub-id-type="pmcid">PMC3838868</pub-id><pub-id pub-id-type="pmid">23761040</pub-id></mixed-citation></ref><ref id="alz13904-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz13904-cit-0045">
+<string-name name-style="western">
+<surname>Kakuda</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takami</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okochi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kasuga</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ihara</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ikeuchi</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Switched Aβ43 generation in familial Alzheimer's disease with presenilin 1 mutation</article-title>. <source>Transl Psychiatry</source>. <year>2021</year>;<volume>11</volume>(<issue>1</issue>):<fpage>558</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41398-021-01684-1</pub-id>
+<pub-id pub-id-type="pmid">34728605</pub-id>
+<pub-id pub-id-type="pmcid">PMC8564532</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

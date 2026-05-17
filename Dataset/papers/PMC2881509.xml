@@ -1,0 +1,1794 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Aging (Albany NY)</journal-id><journal-id journal-id-type="pmc-domain-id">1105</journal-id><journal-id journal-id-type="pmc-domain">aging</journal-id><journal-id journal-id-type="publisher-id">ImpactJ</journal-id><journal-title-group><journal-title xml:lang="en">Aging (Albany NY)</journal-title></journal-title-group><issn pub-type="epub">1945-4589</issn><publisher><publisher-name>Impact Journals, LLC</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC2881509</article-id><article-id pub-id-type="pmcid-ver">PMC2881509.1</article-id><article-id pub-id-type="pmcaid">2881509</article-id><article-id pub-id-type="pmcaiid">2881509</article-id><article-id pub-id-type="pmid">20442453</article-id><article-id pub-id-type="doi">10.18632/aging.100134</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Transcriptional evidence for the "Reverse Warburg Effect" in human
+                        breast cancer tumor stroma and metastasis: Similarities with oxidative stress,
+                        inflammation, Alzheimer's disease, and "Neuron-Glia Metabolic Coupling"</article-title><alt-title alt-title-type="running-head">The "Reverse Warburg Effect" in human breast cancer tumor stroma</alt-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Pavlides</surname><given-names initials="S">Stephanos</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref><xref ref-type="aff" rid="A2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Tsirigos</surname><given-names initials="A">Aristotelis</given-names></name><xref ref-type="aff" rid="A3"><sup>3</sup></xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Vera</surname><given-names initials="I">Iset</given-names></name><xref ref-type="aff" rid="A4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Flomenberg</surname><given-names initials="N">Neal</given-names></name><xref ref-type="aff" rid="A5"><sup>5</sup></xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Frank</surname><given-names initials="PG">Philippe G.</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref><xref ref-type="aff" rid="A2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Casimiro</surname><given-names initials="MC">Mathew C.</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref><xref ref-type="aff" rid="A2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="C">Chenguang</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref><xref ref-type="aff" rid="A2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Pestell</surname><given-names initials="RG">Richard G.</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref><xref ref-type="aff" rid="A2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Martinez-Outschoorn</surname><given-names initials="UE">Ubaldo E.</given-names></name><xref ref-type="aff" rid="A5"><sup>5</sup></xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Howell</surname><given-names initials="A">Anthony</given-names></name><xref ref-type="aff" rid="A6"><sup>6</sup></xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Sotgia</surname><given-names initials="F">Federica</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref><xref ref-type="aff" rid="A2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Lisanti</surname><given-names initials="MP">Michael P.</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref><xref ref-type="aff" rid="A2"><sup>2</sup></xref><xref ref-type="aff" rid="A5"><sup>5</sup></xref><xref ref-type="aff" rid="A6"><sup>6</sup></xref></contrib></contrib-group><aff id="A1"><sup>1</sup> Departments of Stem Cell Biology &amp; Regenerative Medicine, and
+                    Cancer Biology, Kimmel Cancer Center, Thomas Jefferson University,
+                    Philadelphia, PA
+            </aff><aff id="A2"><sup>2</sup> The Jefferson Stem Cell Biology and Regenerative Medicine Center,
+                    Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA
+            </aff><aff id="A3"><sup>3</sup>Computational Genomics Group, IBM Thomas J. Watson
+                    Research Center, Yorktown Heights, NY
+            </aff><aff id="A4"><sup>4</sup>Department of Microbiology and Immunology, Albert Einstein College
+                    of Medicine, New York, NY
+            </aff><aff id="A5"><sup>5</sup> Department of Medical Oncology, Kimmel Cancer Center, Thomas
+                    Jefferson University, Philadelphia, PA
+            </aff><aff id="A6"><sup>6</sup> Manchester Breast Centre &amp; Breakthrough Breast Cancer Research
+                    Unit, Paterson Institute for Cancer Research; School of Cancer, Enabling
+                    Sciences and Technology, Manchester Academic Health Science Centre,
+                    University of Manchester, UK
+            </aff><author-notes><corresp id="cor1"><bold>Correspondence: </bold>Federica
+                        Sotgia, PhD, Department of Cancer Biology, 233 South 10th Street,
+                        Philadelphia, PA, 19107, USA; Michael P. Lisanti, MD/PhD, Department of Stem Cell Biology
+                        &amp; Regenerative Medicine, 233 South 10th Street, Philadelphia, PA,
+                        19107, USA <email> federica.sotgia@jefferson.edu</email><email>michael.lisanti@kimmelcancercenter.org</email></corresp></author-notes><pub-date pub-type="collection"><month>4</month><year>2010</year></pub-date><pub-date pub-type="epub"><day>31</day><month>3</month><year>2010</year></pub-date><volume>2</volume><issue>4</issue><issue-id pub-id-type="pmc-issue-id">187511</issue-id><fpage>185</fpage><lpage>199</lpage><history><date date-type="received"><day>27</day><month>3</month><year>2010</year></date><date date-type="accepted"><day>30</day><month>3</month><year>2010</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>04</month><year>2010</year></date></event><event event-type="pmc-live"><date><day>07</day><month>06</month><year>2010</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2016-07-05 10:16:25.840"><day>05</day><month>07</month><year>2016</year></date></event></pub-history><permissions><copyright-statement>Copyright: ©2010 Pavlides et al.</copyright-statement><copyright-year>2010</copyright-year><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.5/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/2.5/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="aging-02-185.pdf"/><abstract><p>
+                     Caveolin-1
+                        (-/-) null stromal cells are a novel genetic model for cancer-associated
+                        fibroblasts and myofibroblasts. Here, we used an unbiased informatics
+                        analysis of transcriptional gene profiling to show that Cav-1 (-/-)
+                        bone-marrow derived stromal cells bear a striking resemblance to the
+                        activated tumor stroma of human breast cancers. More specifically, the
+                        transcriptional profiles of Cav-1 (-/-) stromal cells were most closely
+                        related to the primary tumor stroma of breast cancer patients that had
+                        undergone lymph-node (LN) metastasis. This is consistent with previous
+                        morphological data demonstrating that a loss of stromal Cav-1 protein (by
+                        immuno-histochemical staining in the fibroblast compartment) is
+                        significantly associated with increased LN-metastasis. We also provide
+                        evidence that the tumor stroma of human breast cancers shows a
+                        transcriptional shift towards oxidative stress, DNA damage/repair,
+                        inflammation, hypoxia, and aerobic glycolysis, consistent with the "Reverse
+                        Warburg Effect".  Finally, the tumor stroma of "metastasis-prone" breast
+                        cancer patients was most closely related to the transcriptional profiles
+                        derived from the brains of patients with Alzheimer's disease. This suggests
+                        that certain fundamental biological processes are common to both an activated
+                        tumor stroma and neuro-degenerative stress.  These processes may include oxidative
+                        stress, NO over-production (peroxynitrite formation), inflammation, hypoxia, and
+                        mitochondrial dysfunction, which are thought to occur in Alzheimer's disease
+                        pathology.  Thus, a loss of Cav-1 expression in cancer-associated myofibroblasts
+                        may be a protein biomarker for oxidative stress, aerobic glycolysis, and
+                        inflammation, driving the "Reverse
+                        Warburg Effect" in the tumor micro-environment
+                        and cancer cell metastasis. 
+                </p></abstract><kwd-group><kwd>caveolin-1</kwd><kwd>tumor stroma</kwd><kwd>oxidative stress</kwd><kwd>hypoxia</kwd><kwd>inflammation</kwd><kwd>mitochondrial dysfunction</kwd><kwd>Alzheimer's disease</kwd><kwd>neuron-glia metabolic coupling</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="s1" sec-type="intro"><title>Introduction</title><p>Recently, we identified a loss of stromal caveolin-1
+                        (Cav-1) as a novel biomarker for the cancer-associated fibroblast phenotype in
+                        human breast cancers [<xref ref-type="bibr" rid="R1">1</xref>].  More specifically, when fibroblasts were isolated
+                        from human breast cancers, 8 out of 11 patients showed &gt;2-fold reduction in
+                        Cav-1 protein expression, relative normal matched fibroblasts prepared from the
+                        same patients [<xref ref-type="bibr" rid="R1">1</xref>].  Furthermore, detailed phenotypic analysis of mammary
+                        fibroblasts derived from Cav-1 (-/-) null mice revealed that they share
+                        numerous properties with cancer-associated fibroblasts, such as constitutively
+                        active TGFbeta signaling, and that they have the ability to promote normal
+                        mammary epithelial cells to undergo an EMT (epithelial-mesenchymal transition)
+                        [<xref ref-type="bibr" rid="R2">2</xref>].
+                    
+            </p><p>To determine if loss of stromal Cav-1 has prognostic
+                        value, we performed a series of independent biomarker studies [<xref ref-type="bibr" rid="R3">3</xref>,<xref ref-type="bibr" rid="R4">4</xref>].  Using a
+                        cohort of 160 breast cancer patients, with nearly 20 years of follow-up data,
+                        we showed that a loss of stromal Cav-1 (in the fibroblast compartment) is a
+                        powerful single independent predictor early tumor recurrence, lymph node
+                        metastasis, tamoxifen-resistance, and poor clinical outcome [<xref ref-type="bibr" rid="R4">4</xref>].  As the
+                        prognostic value of a loss of stromal Cav-1 was independent of epithelial
+                        marker status, it appears that a loss of Cav-1 has predictive value in all the
+                        different epithelial subtypes of human breast cancer, including ER+, PR+,
+                        HER2+, and triple-negative patients [<xref ref-type="bibr" rid="R4">4</xref>].  The high predictive value of a loss
+                        of stromal Cav-1 was also independently validated by another independent
+                        laboratory, using a second independent breast cancer patient cohort [<xref ref-type="bibr" rid="R5">5</xref>].
+                    
+            </p><p>A loss of stromal Cav-1 also appears to
+                        play a role in tumor initiation and progression [<xref ref-type="bibr" rid="R6">6</xref>]. Using a DCIS patient
+                        cohort, in which patients were treated with wide-excision, but without any
+                        chemo- or radio-therapy, we also evaluated the prognostic value of stromal
+                        Cav-1 [<xref ref-type="bibr" rid="R6">6</xref>].  In this DCIS patient cohort, a loss of stromal Cav-1 was
+                        specifically associated with DCIS recurrence and invasive progression.  100% of
+                        the patients with a loss of stromal Cav-1 underwent recurrence, and 80% of
+                        these patients progressed to invasive disease, namely frank invasive ductal carcinoma [<xref ref-type="bibr" rid="R6">6</xref>]. Similar  results were also independently obtained in human prostate cancers,
+                        where a loss of stromal Cav-1 was specifically associated with advanced
+                        prostate cancer, tumor progression, and metastatic disease [<xref ref-type="bibr" rid="R7">7</xref>].
+                    
+            </p><p>To begin to understand the mechanism(s) underlying the
+                        lethality of a loss of Cav-1 in cancer-associated fibroblasts, we turned to
+                        Cav-1 (-/-) deficient mice as a model system.
+                    
+            </p><p>For this purpose, we isolated bone marrow derived
+                        stromal cells from WT and Cav-1 (-/-) deficient mice, as cancer-associated
+                        fibroblasts are thought to evolve from mesenchymal stem cells [<xref ref-type="bibr" rid="R8">8</xref>]. These cells
+                        were then subjected to unbiased proteomic and genome-wide transcriptional
+                        analysis.  Interestingly, proteomic analysis revealed the upregulation of i) 8
+                        myofibroblast markers (including vimentin, calponin, and tropomyosin), ii) 8
+                        glycolytic enzymes (including PKM2 and LDHA), and iii) 2 markers of oxidative
+                        stress (peroxiredoxin1 and catalase) [<xref ref-type="bibr" rid="R8">8</xref>]. The glycolytic phenotype of Cav-1
+                        (-/-) null stromal cells was also supported by transcriptional analysis, as
+                        most of the proteins that were found to be upregulated by proteomics, were also
+                        transcriptionally upregulated [<xref ref-type="bibr" rid="R8">8</xref>]. Based on these findings, we proposed a new
+                        model to understand the role of the Warburg effect ("aerobic glycolysis") in
+                        tumor metabolism. We hypothesized that glycolytic cancer-associated fibroblasts
+                        promote tumor growth by the secretion of energy-rich metabolites (such as
+                        pyruvate and lactate) that could then be taken up by adjacent epithelial cancer
+                        cells, where they would be incorporated into the tumor cell's TCA cycle,
+                        leading to enhanced ATP production [<xref ref-type="bibr" rid="R8">8</xref>]. This would provide a feed-forward
+                        mechanism by which glycolytic fibroblasts could promote tumor growth,
+                        progression, and metastasis. Because the Warburg effect was previously thought
+                        to be largely confined to tumor cells, and not to the cancer-associated
+                        fibroblast compartment, we have termed this new idea "The Reverse Warburg
+                        Effect" [<xref ref-type="bibr" rid="R8">8</xref>].
+                    
+            </p><p>In order to determine which transcriptional programs
+                        are activated in Cav-1 (-/-) stromal cells, we performed an extensive
+                        bioinformatics analysis of our genome-wide profiling data [<xref ref-type="bibr" rid="R9">9</xref>]. This informatics
+                        analysis revealed that a loss of Cav-1 (-/-) in stromal cells drives ROS
+                        production and oxidative stress [<xref ref-type="bibr" rid="R9">9</xref>]. This, in turn, results in the activation
+                        of key transcription factor, such as HIF and NF-kB, which can then drive
+                        aerobic glycolysis and inflammation in the tumor micro-environment [<xref ref-type="bibr" rid="R9">9</xref>]. This
+                        could provide a molecular basis for understanding the lethality of a loss of
+                        stromal Cav-1 in human breast cancer patients.
+                    
+            </p><p>Here, we have used a bioinformatics approach to
+                        determine whether similar "Warburg-like" transcrip-tional profiles exist in the
+                        tumor stroma isolated from human breast cancers.  For this purpose, we analyzed
+                        an existing data set in which the tumor stroma was isolated away from adjacent
+                        breast cancer cells using laser-capture micro-dissection [<xref ref-type="bibr" rid="R10">10</xref>].  We now provide
+                        new evidence for the existence of the "Reverse Warburg Effect" in human tumor stroma
+                        from breast cancer patients. More specifically, the tumor stroma of human
+                        breast cancers shows a transcriptional shift towards oxidative stress, DNA
+                        damage/repair, inflammation, hypoxia, and aerobic glycolysis, supporting with
+                        the "Reverse Warburg Effect". Consistent with the idea that oxidative stress in
+                        the tumor stroma is a driving factor in promoting tumor progression and
+                        metastasis, we also show that the tumor stroma of human breast cancers overlaps
+                        significantly with the transcriptional profiles associated with Alzheimer's
+                        brain disease.
+                    
+            </p><p>Finally, the "Reverse Warburg Effect" is strikingly
+                        similar to the theory of "Neuon-Glia Metabolic Coupling" [<xref ref-type="bibr" rid="R11">11</xref>-<xref ref-type="bibr" rid="R18">18</xref>], which was
+                        proposed more than 10 years ago to explain metabolic changes associated with
+                        normal synaptic transmission, which may be exacerbated during neuronal stress
+                        and neuronal degeneration, as in Alzheimer's disease. In "Neuron-Glia Metabolic
+                        Coupling", astrocytes undergo aerobic glycolysis, secrete energy-rich
+                        metabolites (pyruvate and lactate), and neurons then take up these metabolites
+                        and use them in the neuronal TCA cycle to generate high amounts of ATP. Thus,
+                        we propose that "The Reverse Warburg Effect" we observe could also be more
+                        broadly termed "Epithelial-Stromal Metabolic Coupling".
+                    
+            </p><p>As such, tumors may be initiating a
+                        survival mechanism that is normally used by the brain during stress.
+                        Interestingly, myofibroblasts and mesenchymal stem cells are known to often
+                        express GFAP (glial fibrillary acidic protein) [<xref ref-type="bibr" rid="R19">19</xref>-<xref ref-type="bibr" rid="R21">21</xref>], an intermediate
+                        filament protein that is thought to be relatively specific for astrocytes in
+                        the central nervous system. Here, we see that GFAP is upregulated in the "tumor
+                        stroma" and in the stroma of "metastasis-prone" breast cancer patients. Thus,
+                        possible similarities between astrocytes and myo-fibroblasts/cancer-associated
+                        fibroblasts should be further explored.
+                    
+            </p></sec><sec id="s2" sec-type="results"><title>Results</title><sec id="s2_1"><title>Transcriptional
+                            comparison of Cav-1 (-/-) stromal cells with human breast cancer stroma 
+                        </title><p>Previously, we subjected
+                            Cav-1 (-/-) bone marrow derived stromal cells, and their wild-type
+                            counter-parts to genome-wide transcriptional profiling [<xref ref-type="bibr" rid="R8">8</xref>].  Because such a
+                            large number of gene transcript levels are changed, we focused on the gene
+                            transcripts that are upregulated. We speculated that these Cav-1 (-/-) stromal
+                            gene profiles might also overlap with the transcriptional stromal profiles
+                            obtained from human breast cancers.
+                        
+                </p><p>To test this hypothesis
+                            directly, we obtained the transcriptional profiles of a large data set of human
+                            breast cancer patients [<xref ref-type="bibr" rid="R10">10</xref>] whose tumors were subjected to laser-capture
+                            micro-dissection, to selectively isolate the tumor stroma. Based on this data
+                            set [<xref ref-type="bibr" rid="R10">10</xref>], we then generated three human breast cancer stromal genes lists:
+                            
+                </p><p>1) <underline>Tumor Stroma vs.
+                                    Normal Stroma List
+                    </underline>- Compares the transcriptional profiles of tumor stroma
+                            obtained 53 patients to normal stroma obtained from 38 patients. Genes
+                            transcripts that were consistently upregulated in tumor stroma were selected
+                            and assigned a p-value, with a cut-off of p &lt;0.05 (contains 6,777 genes) (Supplementary
+                            Table <xref ref-type="table" rid="T1">1</xref>).
+                        
+                </p><p>2) <underline>Recurrence Stroma List
+                    </underline>-
+                            Compares the transcript-tional profiles of tumor stroma obtained from 11 patients
+                            with tumor recurrence to the tumor stroma of 42 patients without tumor
+                            recurrence. Genes transcripts that were consistently upregulated in the tumor
+                            stroma of patients with recurrence were selected and assigned a p-value, with a
+                            cut-off of p &lt;0.05 (contains 3,354 genes) (Supplementary Table <xref ref-type="supplementary-material" rid="ST2">2</xref>).
+                        
+                </p><p>3)<underline>Lymph-node (LN) Metastasis Stroma List
+                    </underline>- Compares the transcriptional
+                            profiles of tumor stroma obtained from 25 patients with LN metastasis to the
+                            tumor stroma of 25 patients without LN metastasis. Genes transcripts that were
+                            consistently upregulated in the tumor stroma of patients with LN metastasis
+                            were selected and assigned a p-value, with a cut-off of p &lt;0.05 (contains
+                            1,182 genes) <underline>(
+                    </underline>Supplementary Table <xref ref-type="supplementary-material" rid="ST3">3</xref>).
+                        
+                </p><p>These
+                            three gene lists were then individually intersected with the transcriptional
+                            profile of Cav-1 (-/-) null stromal cells [<xref ref-type="bibr" rid="R8">8</xref>]. The results of these
+                            intersections are presented in Figure <xref ref-type="fig" rid="F1">1</xref>, as
+                            Venn diagrams. Most important- ly, significant overlap was seen with all
+                            three gene lists. Greater than 2,000 genes were common between the Cav-1 (-/-)
+                            stromal gene list and the gene transcripts upregulated in breast cancer tumor
+                            stroma (p = 1.6 x 10<sup>-3</sup>).  Also, more than 1,000 gene transcripts
+                            were common between the Cav-1 (-/-) stromal gene list and the gene transcripts
+                            upregulated in the breast cancer tumor stroma of patients with tumor recurrence
+                            (p = 1 x 10<sup>-3</sup>). Finally, nearly 500 genes were commonly upregulated
+                            between Cav-1 (-/-) stromal cells and the breast cancer tumor stroma of
+                            patients with LN metastasis (p = 4.6 x 10<sup>-6</sup>).  Thus, the
+                            transcriptional profiles of Cav-1 (-/-) stromal cells are most  ignificantly
+                            related to the tumor stroma of patients with LN-metastasis. Independently, our
+                            previous data demonstrated that a loss of stromal Cav-1 protein expression (by
+                            immuno-histochemistry) in human breast cancers is specifically associated with
+                            a 2.6-fold increase in the number of tumor cell positive lymph nodes
+                            (LN-metastasis) [<xref ref-type="bibr" rid="R3">3</xref>,<xref ref-type="bibr" rid="R4">4</xref>].
+                        
+                </p><fig id="F1" orientation="portrait" position="float"><label>Figure 1.</label><caption><title>Venn diagrams for the transcriptional overlap between Cav-1 (-/-) stromal cells and tumor stroma from breast cancer patients.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="aging-02-185-g001.jpg"/></fig><p>The top 100 most significant gene transcripts for all
+                            three human breast cancer stromal gene lists, including their transcriptional
+                            intersection with Cav-1 (-/-) stromal cells, is included in Supplementary
+                            Tables 3, 4, and 5.
+                        
+                </p><p>As Cav-1 (-/-) stromal cells are a genetic model of
+                            activated myofibroblasts [<xref ref-type="bibr" rid="R2">2</xref>] which biosynthetically secrete more collagen, and
+                            fibrosis is a critical risk factor for poor clinical outcome in human breast
+                            cancer patients [<xref ref-type="bibr" rid="R3">3</xref>], we also looked at the potential overlap been the expression
+                            of collagen gene transcripts (See Table <xref ref-type="table" rid="T1">1</xref>). Thirty-five collagen gene
+                            transcripts were specifically upregulated in tumor stroma; 16 were upregulated
+                            in "recurrence-prone" stroma; and only 1 was upregulated in "metastasis-prone"
+                            stroma.  In all three cases, there was striking overlap with the collagen gene
+                            transcripts upregulated in Cav-1 (-/-) stromal cells, as indicated in bold (24
+                            out of 35 transcripts; 12 out of 16 transcripts; and 1 out of 1 transcript; See
+                            Table <xref ref-type="table" rid="T1">1</xref>).
+                        
+                </p><p>Cav-1
+                            (-/-) stromal cells have also been previously subjected to extensive analysis
+                            via an unbiased proteomics approach [<xref ref-type="bibr" rid="R8">8</xref>,<xref ref-type="bibr" rid="R24">24</xref>].   We next intersected these
+                            proteomic results with the three human breast cancer stromal gene lists.  The
+                            results of this intersection are shown in Table <xref ref-type="table" rid="T2">2</xref>. Note that many of the
+                            proteins that are upregulated in Cav-1 (-/-) stromal cells are also
+                            transcriptionally upregulated in the stroma of human breast cancer patients.
+                            Most notably, there was a strong association between the metabolic enzymes that
+                            were upregulated in Cav-1 (-/-) stromal cells and the "recurrence-prone" and
+                            "metastasis-prone" stromal gene lists.
+                        
+                </p></sec><sec id="s2_2"><title>Validating the "Reverse
+                            Warburg Hypothesis" in human breast cancer stroma
+                        </title><p>Recently,
+                            based on the unbiased proteomic and transcriptional analysis of Cav-1 (-/-)
+                            stromal cells, we have proposed that tumor stromal fibroblasts may undergo
+                            aerobic glycolysis [<xref ref-type="bibr" rid="R8">8</xref>]. We have termed this new idea the "Reverse Warburg
+                            Effect" [<xref ref-type="bibr" rid="R8">8</xref>].
+                        
+                </p><p>Transcriptional
+                            analysis of Cav-1 (-/-) stromal cells [<xref ref-type="bibr" rid="R9">9</xref>] indicated that the "Reverse Warburg
+                            Effect" is associated with transcriptional over-expression of
+                            glycolysis-associated genes, HIF-target genes [<xref ref-type="bibr" rid="R25">25</xref>], NF-kB target genes [<xref ref-type="bibr" rid="R26">26</xref>],
+                            genes associated with the response to oxidative stress
+                            (GO_0006979), as well as the concomitant
+                            compensatory transcriptional upregulation of mitochondrial associated genes (GO_0005739) [<xref ref-type="bibr" rid="R9">9</xref>].
+                        
+                </p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Collagen gene expression in the human breast cancer stromal gene lists.</title><p>
+                                Genes intersecting with the Cav-1 (-/-) bone marrow derived stromal gene list are shown in <bold>bold</bold>.
+                                
+                        </p></caption><table frame="hsides" rules="groups"><thead><tr><td colspan="2" rowspan="1"><bold><underline>Tumor Stroma Associated (24 of 35 collagen genes)
+                                        </underline></bold></td><td rowspan="1" colspan="1"><bold><underline>P-value
+                                        </underline></bold></td></tr></thead><tbody><tr><td rowspan="1" colspan="1"><bold>Col11a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XI, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>1.51E-73</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col8a1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type VIII, alpha 1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      1.11E-51
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col10a1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type X, alpha 1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      2.37E-42
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col12a1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type XII, alpha 1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      6.40E-34
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col5a2
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type V, alpha 2
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      7.78E-33
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"><bold>Col5a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type V, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>2.54E-31</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col1a2</bold></td><td rowspan="1" colspan="1"><bold>collagen, type I, alpha 2 </bold></td><td rowspan="1" colspan="1"><bold>1.07E-27</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col3a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type III, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>3.32E-27</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col4a5</bold></td><td rowspan="1" colspan="1"><bold>collagen, type IV, alpha 5 </bold></td><td rowspan="1" colspan="1"><bold>6.04E-23</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col8a2
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type VIII, alpha 2
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      1.78E-22
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"><bold>Col6a3</bold></td><td rowspan="1" colspan="1"><bold>collagen, type VI, alpha 3 </bold></td><td rowspan="1" colspan="1"><bold>3.87E-19</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col6a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type VI, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>8.97E-19</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col9a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type IX, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>3.05E-18</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col17a1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type XVII, alpha 1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      4.11E-18
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"><bold>Col4a6</bold></td><td rowspan="1" colspan="1"><bold>collagen, type IV, alpha 6 </bold></td><td rowspan="1" colspan="1"><bold>2.50E-17</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col1a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type I, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>3.20E-17</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col25a1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type XXV, alpha 1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      7.13E-17
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"><bold>Col5a3</bold></td><td rowspan="1" colspan="1"><bold>collagen, type V, alpha 3 </bold></td><td rowspan="1" colspan="1"><bold>1.17E-16</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col20a1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type XX, alpha 1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      2.35E-16
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"><bold>Col16a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XVI, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>3.77E-16</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col13a1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type XIII, alpha 1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      4.27E-14
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"><bold>Col24a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XXIV, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>4.07E-13</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col15a1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type XV, alpha 1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      2.00E-12
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col4a4
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type IV, alpha 4
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      5.55E-12
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"><bold>Col4a2</bold></td><td rowspan="1" colspan="1"><bold>collagen, type IV, alpha 2 </bold></td><td rowspan="1" colspan="1"><bold>1.17E-11</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col18a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XVIII, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>5.00E-11</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col9a2</bold></td><td rowspan="1" colspan="1"><bold>collagen, type IX, alpha 2 </bold></td><td rowspan="1" colspan="1"><bold>5.30E-11</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col14a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XIV, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>4.92E-10</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col23a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XXIII, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>7.52E-08</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col11a2</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XI, alpha 2</bold></td><td rowspan="1" colspan="1"><bold>3.90E-07</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col2a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type II, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>6.22E-07</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col27a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XXVII, alpha 1</bold></td><td rowspan="1" colspan="1"><bold>4.93E-06</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col4a3</bold></td><td rowspan="1" colspan="1"><bold>collagen, type IV, alpha 3 </bold></td><td rowspan="1" colspan="1"><bold>1.21E-05</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col19a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XIX, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>1.90E-05</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col4a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type IV, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>4.37E-02</bold></td></tr><tr><td colspan="3" rowspan="1"><bold><underline>Recurrence-Prone Stroma (12 of 16 collagen genes)
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col13a1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type XIII, alpha 1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      4.16E-05
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col20a1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type XX, alpha 1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      4.34E-05
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"><bold>Col3a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type III, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>8.00E-05</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col11a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XI, alpha 1</bold></td><td rowspan="1" colspan="1"><bold>2.84E-04</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col1a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type I, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>2.46E-03</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col11a2</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XI, alpha 2</bold></td><td rowspan="1" colspan="1"><bold>4.63E-03</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col8a2
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type VIII, alpha 2
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      8.91E-03
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"><bold>Col23a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XXIII, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>1.05E-02</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col4a2</bold></td><td rowspan="1" colspan="1"><bold>collagen, type IV, alpha 2 </bold></td><td rowspan="1" colspan="1"><bold>1.51E-02</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col9a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type IX, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>1.58E-02</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col4a5</bold></td><td rowspan="1" colspan="1"><bold>collagen, type IV, alpha 5 </bold></td><td rowspan="1" colspan="1"><bold>1.85E-02</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col14a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XIV, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>1.94E-02</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col2a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type II, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>2.06E-02</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                      Col10a1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen,
+                                                      type X, alpha 1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      2.08E-02
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"><bold>Col9a2</bold></td><td rowspan="1" colspan="1"><bold>collagen, type IX, alpha 2 </bold></td><td rowspan="1" colspan="1"><bold>2.97E-02</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col19a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type XIX, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>3.90E-02</bold></td></tr><tr><td colspan="3" rowspan="1"><bold><underline>Metastasis-Prone Stroma (1 of 1 collagen genes)
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Col6a1</bold></td><td rowspan="1" colspan="1"><bold>collagen, type VI, alpha 1 </bold></td><td rowspan="1" colspan="1"><bold>4.00E-02</bold></td></tr></tbody></table></table-wrap><table-wrap id="T2" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Intersection of Cav-1 (-/-) stromal proteomics with the human breast cancer stromal gene lists.</title><p>
+                                Includes proteins upregulated in Cav-1 (-/-) bone marrow
+                                derived stromal cells (ref # 8), Cav-1 (-/-) mouse embryo
+                                fibroblasts (ref # 24), and
+                                Cav-1 (-/-) mammary fat pad.  P values listed are from the Human Breast Cancer
+                                Stromal Gene Lists.  Genes in <bold>bold</bold> are associated with metabolism.
+                                
+                        </p></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1"><bold><underline>Gene
+                                        </underline></bold></td><td rowspan="1" colspan="1"><bold><underline>Description
+                                        </underline></bold></td><td rowspan="1" colspan="1"><bold><underline>Tumor Stroma
+                                        </underline></bold></td><td rowspan="1" colspan="1"><bold><underline>Recurrence-Prone
+                                        </underline></bold></td><td rowspan="1" colspan="1"><bold><underline>Metastasis-Prone
+                                        </underline></bold></td></tr></thead><tbody><tr><td rowspan="1" colspan="1">
+                                                      Capg
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      capping protein (actin
+                                                      filament), gelsolin-like
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      4.18e-38
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      4.07e-03
+                                                
+                                </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Sparc
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      secreted acidic cysteine
+                                                      rich glycoprotein
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      1.49e-35
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Arhgdib
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      Rho, GDP dissociation
+                                                      inhibitor (GDI) beta
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      3.92e-32
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Gpd2
+                                                
+                                </td><td rowspan="1" colspan="1"><bold>glycerol phosphate
+                                                              dehydrogenase 2, mitochondrial        </bold></td><td rowspan="1" colspan="1"><bold>1.39e-29</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"><bold>Upp1</bold></td><td rowspan="1" colspan="1"><bold>uridine
+                                                              phosphorylase 1 </bold></td><td rowspan="1" colspan="1"><bold>2.77e-28</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Col3a1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen, type III, alpha 1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      3.30e-27
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      8.00e-05
+                                                
+                                </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Col1a2
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen, type I, alpha 2
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      1.07e-27
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Tpm1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      tropomyosin 1, alpha
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      2.20e-26
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      5.23e-07
+                                                
+                                </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Sh3bgrl3
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      SH3 domain binding glutamic
+                                                      acid-rich protein-like 3
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      4.35e-24
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Col1a1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      collagen, type I, alpha 1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      3.20e-17
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      2.46e-03
+                                                
+                                </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Eef1d
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      eukaryotic translation
+                                                      elongation factor 1 delta (guanine nucleotide exchange protein)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      2.00e-12
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Nme2
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      non-metastatic cells 2,
+                                                      protein (NM23B) expressed in
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      2.39e-09
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Sncg
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      synuclein, gamma (breast
+                                                      cancer-specific protein 1)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      8.86e-08
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"><bold>Ldhc</bold></td><td rowspan="1" colspan="1"><bold>lactate dehydrogenase C                      </bold></td><td rowspan="1" colspan="1"><bold>1.26e-07</bold></td><td rowspan="1" colspan="1"><bold>1.78e-03</bold></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Myl1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      myosin,
+                                                      light chain 1, alkali; skeletal, fast
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      3.60e-07
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Gsn
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      gelsolin
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      6.30e-05
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"><bold>Ckm       </bold></td><td rowspan="1" colspan="1"><bold>creatine kinase, muscle                         </bold></td><td rowspan="1" colspan="1"><bold>3.88e-05</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Tpm2
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      tropomyosin 2, beta
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      1.38e-03
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      2.22e-03
+                                                
+                                </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Cnn2
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      calponin 2
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+                                                      2.26e-02
+                                                
+                                </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                      Fth1
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      ferritin, heavy polypeptide
+                                                      1
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+                                                      2.72e-02
+                                                
+                                </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"><bold>Pdha1     </bold></td><td rowspan="1" colspan="1"><bold>pyruvate dehydrogenase E1
+                                                              alpha subunit</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><bold>2.85e-02</bold></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"><bold>Pgk1</bold></td><td rowspan="1" colspan="1"><bold>phosphoglycerate kinase 1</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><bold>3.21e-02</bold></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"><bold>Eno3</bold></td><td rowspan="1" colspan="1"><bold>enolase 3, beta muscle</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><bold>1.29e-03
+                                                        </bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Aldoa</bold></td><td rowspan="1" colspan="1"><bold>aldolase A,
+                                                              fructose-bisphosphate</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><bold>1.69e-03</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                      Afp
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      alpha fetoprotein
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+                                                      3.06e-02
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"><bold>Pkm2</bold></td><td rowspan="1" colspan="1"><bold>pyruvate kinase, muscle</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><bold>3.73e-02</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                      Alb
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      albumin
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+                                                      3.95e-02
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"><bold>Pgd</bold></td><td rowspan="1" colspan="1"><bold>phosphogluconate dehydrogenase</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><bold>4.19e-02</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                      Serpinb2
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      serine (or cysteine)
+                                                      peptidase inhibitor, clade B, member 2
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+                                                      4.27e-02
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                      Eef2
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      eukaryotic translation
+                                                      elongation factor 2
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+                                                      4.41e-02
+                                                
+                                </td></tr></tbody></table></table-wrap><table-wrap id="T3" orientation="portrait" position="float"><label>Table 3.</label><caption><title>Intersection of human breast cancer stromal gene sets with gene sets related to the "Reverse Warburg Effect".</title></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"><bold>Glycolysis</bold></td><td rowspan="1" colspan="1"><bold>HIF
+                                                              Targets</bold></td><td rowspan="1" colspan="1"><bold>Mitochondrial
+                                                              Genes</bold></td><td rowspan="1" colspan="1"><bold>NF-kB
+                                                              Targets</bold></td><td rowspan="1" colspan="1"><bold>Ox
+                                                              Stress</bold></td><td rowspan="1" colspan="1"><bold>Alzheimer's</bold></td></tr></thead><tbody><tr><td rowspan="1" colspan="1"><bold>Stromal Gene Set
+                                                        </bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"><bold>Tumor
+                                                              Stroma</bold></td><td rowspan="1" colspan="1"><bold>19</bold></td><td rowspan="1" colspan="1"><bold>213</bold></td><td rowspan="1" colspan="1"><bold>233</bold></td><td rowspan="1" colspan="1"><bold>199</bold></td><td rowspan="1" colspan="1"><bold>51</bold></td><td rowspan="1" colspan="1"><bold>676</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Recurrence-Prone</bold></td><td rowspan="1" colspan="1"><bold>10</bold></td><td rowspan="1" colspan="1"><bold>108</bold></td><td rowspan="1" colspan="1"><bold>120</bold></td><td rowspan="1" colspan="1"><bold>86</bold></td><td rowspan="1" colspan="1"><bold>22</bold></td><td rowspan="1" colspan="1"><bold>338</bold></td></tr><tr><td rowspan="1" colspan="1"><bold>Metastasis-Prone</bold></td><td rowspan="1" colspan="1"><bold>7</bold></td><td rowspan="1" colspan="1"><bold>42</bold></td><td rowspan="1" colspan="1"><bold>68</bold></td><td rowspan="1" colspan="1"><bold>32</bold></td><td rowspan="1" colspan="1"><bold>9</bold></td><td rowspan="1" colspan="1"><bold>145</bold></td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr></tbody></table></table-wrap><p>Table <xref ref-type="table" rid="T3">3</xref> shows that all of these gene sets are well-represented in tumor stroma,
+                            "recurrence-prone" stroma, and the "metastasis-prone" stroma of human breast
+                            cancer patients (See also SupplmentalTables 7, 8, and 9 for detailed
+                            gene lists).
+                        
+                </p><p>It is important to note that these breast cancer stromal gene lists also include
+                            Cxcl12, a known HIF-target gene [<xref ref-type="bibr" rid="R25">25</xref>], that is transcriptionally-upregulated
+                            ~5-fold in Cav-1 (-/-) stromal cells [<xref ref-type="bibr" rid="R8">8</xref>].
+                        
+                </p></sec><sec id="s2_3"><title>The "Reverse Warburg Effect" and similarities with Alzheimer's disease
+                        </title><p>We have previously shown that the transcriptional profiles of Cav-1 (-/-) stromal
+                            cells significantly ovelap with the transcriptional profiles obtained from the
+                            analysis of Alzheimers disease brain [<xref ref-type="bibr" rid="R9">9</xref>]. We believe this is functionally due
+                            to the activation of similar biological processes in both "The Reverse Warburg
+                            Effect" and Alzheimer's disease [<xref ref-type="bibr" rid="R9">9</xref>], including oxidative stress, NO
+                            over-production (peroxynitrite formation), inflammation, hypoxia, and
+                            mitochondrial dysfunction [<xref ref-type="bibr" rid="R27">27</xref>].
+                        
+                </p><p>Thus, here, we independently evaluated the association
+                            between Alzheimer's disease and human breast cancer tumor stroma. These
+                            transcriptional overlaps are enumerated in Table <xref ref-type="table" rid="T3">3</xref>, and are illustrated
+                            schematically as Venn diagrams in Figure <xref ref-type="fig" rid="F2">2</xref>.  Detailed gene lists are provided
+                            in Supplemental Tables 7, 8, and 9.
+                        
+                </p><p>Interestingly, as predicted, the genes that are
+                            transcriptionally upregulated in Alzheimer's disease significantly overlap with
+                            tumor stroma, "recurrence-prone" stroma, and "metastasis-prone" stroma. This
+                            clearly functionally links Alzheimer's disease with the human breast cancer
+                            tumor stroma.
+                        
+                </p><p>As with the gene profiles of Cav-1 (-/-) stromal
+                            cells, the Alzheimer's disease profiles were most significantly associated with the "metastasis-prone" stromal gene
+                            set (p = 9 x 10<sup>-5</sup>).
+                        
+                </p></sec><sec id="s2_4"><title>Detailed analysis of the "Metastasis-Prone" stromal gene set
+                        </title><p>Next, we examined the possible overlap of the
+                            "metastasis-prone" stromal gene set with other existing transcriptional
+                            profiles, using gene-set enrichment analysis.
+                        
+                </p><p>Our results are shown in Table <xref ref-type="table" rid="T4">4</xref>. 
+                            Briefly, we see that the "metastasis-prone" stromal gene set is associated with
+                            a number of interesting biological processes, including cell cycle progression
+                            and survival, DNA damage/repair, scleroderma, "stemness", aging and oxidative
+                            stress, Alzheimer's disease, decreased DNA-methylation, tamoxifen-resistance,
+                            metastasis, Myc-associated target genes, inflammation (NF-kB/STAT), TGFbeta
+                            signaling and myofibroblast differentiation, hypoxia and HIF signaling,
+                            mitochondrial function, and liver-specific gene transcription.
+                        
+                </p><table-wrap id="T4" orientation="portrait" position="float"><label>Table 4.</label><caption><title>Comparative results for wild type N2 vs. <italic toggle="yes">nth-1;xpa-1.</italic></title></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1"><bold>Data Set</bold></td><td rowspan="1" colspan="1"><bold>Description</bold></td><td rowspan="1" colspan="1"><bold>P-value</bold></td></tr></thead><tbody><tr><td colspan="3" rowspan="1"><bold><underline>Cell
+                                                            Cycle Progression and Survival
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_ANP32B
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of ANP32B acidic (leucine-rich) nuclear
+                                                phosphoprotein 32 family, member B in the MORF expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.34E-08
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_CSNK2B
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of CSNK2B casein kinase 2, beta polypeptide in the
+                                                MORF expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                3.97E-06
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_PCNA
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of PCNA proliferating cell nuclear antigen in the
+                                                MORF expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                6.66E-06
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_DEK
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of DEK oncogene (DNA binding) in the MORF
+                                                expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                4.97E-05
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                SHIPP_FL_VS_DLBCL_DN
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes upregulated in diffuse B-cell lymphomas (DLBCL) and
+                                                downregulated in follicular lymphoma (FL) (fold change of at least 3)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.17E-04
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_RAN
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of RAN, member RAS oncogene family in the MORF
+                                                expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.14E-04
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_SKP1A
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of SKP1A S-phase kinase-associated protein 1A
+                                                (p19A) in the MORF expression Compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.28E-04
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                TGANTCA_V$AP1_C
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes with promoter regions [-2kb,2kb] around transcription
+                                                start site containing the motif TGANTCA which matches annotation for JUN: jun
+                                                oncogene
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                4.47E-04
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                GNF2_RAN
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of RAN, member RAS oncogene family in the GNF2
+                                                expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                8.76E-04
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                GCM_ANP32B
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of ANP32B acidic (leucine-rich) nuclear
+                                                phosphoprotein 32 family, member B in the GCM expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.92E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MITOSIS
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes annotated by the GO term GO:0007067. Progression through
+                                                mitosis, the division of the eukaryotic cell nucleus to produce two daughter
+                                                nuclei that, usually, contain the identical chromosome complement to their
+                                                mother.
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.10E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                SMITH_HTERT_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes upregulated by telomerase
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.90E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                CHANG_SERUM_RESPONSE_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                CSR (Serum Response) signature for activated genes (Stanford)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.13E-02
+                                            
+                                </td></tr><tr><td colspan="3" rowspan="1"><bold><underline>DNA
+                                                            Damage and Repair
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                CIS_XPC_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Increased expression in XPC-defective fibroblasts, compared to
+                                                normal fibroblasts, following treatment with cisplatin
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.08E-07
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_RAD23A
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of RAD23A, RAD23 homolog A (S. cerevisiae) in the
+                                                MORF expression compendium; nucleotide excision repair (NER)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                3.01E-07
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_G22P1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of G22P1 NULL in the MORF expression compendium a.k.a.,
+                                                XRCC6 Gene, X-ray repair complementing defective repair in Chinese hamster
+                                                cells 6; a.k.a., thyroid autoantigen 70kD (Ku antigen)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                6.29E-07
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_XRCC5
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of XRCC5 X-ray repair complementing defective
+                                                repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku
+                                                autoantigen, 80kDa) in the MORF expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.48E-04
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_EIF3S6
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of EIF3S6 eukaryotic translation initiation factor
+                                                3, subunit 6 48kDa in the MORF expression compendium; murine mammary tumor
+                                                integration site 6 (oncogene homolog)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                3.61E-04
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                GNF2_G22P1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of G22P1 NULL in the GNF2 expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                4.90E-04
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_RAD21
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of RAD21 RAD21 homolog (S. pombe) in the MORF
+                                                expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.28E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                UVC_LOW_A2_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Up-regulated at 6-12 hours following treatment of WS1 human skin
+                                                fibroblasts with UVC at a low dose (10 J/m^2) (cluster a2)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                3.90E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                UVB_NHEK3_C7
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Regulated by UV-B light in normal human epidermal keratinocytes,
+                                                cluster 7
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                6.80E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                UVC_LOW_ALL_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Up-regulated at any timepoint following treatment of WS1 human
+                                                skin fibroblasts with UVC at a low dose (10 J/m^2) (clusters a1-a4)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                7.84E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                UVB_NHEK3_C4
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Regulated by UV-B light in normal human epidermal keratinocytes,
+                                                cluster 4
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                9.69E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                UVB_NHEK1_C4
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Upregulated by UV-B light in normal human epidermal
+                                                keratinocytes, cluster 4
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                9.75E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                UVB_NHEK3_ALL
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Regulated by UV-B light in normal human epidermal keratinocytes
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.00E-02
+                                            
+                                </td></tr><tr><td colspan="3" rowspan="1"><bold><underline>Scleroderma
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_FBL
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of FBL fibrillarin in the MORF expression
+                                                compendium a.k.a., 34 kDa nucleolar scleroderma antigen, or RNA, U3 small
+                                                nucleolar interacting protein 1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                7.49E-07
+                                            
+                                </td></tr><tr><td colspan="3" rowspan="1"><bold><underline>Stem
+                                                            Cells
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                STEMCELL_NEURAL_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Enriched in mouse neural stem cells, compared to differentiated
+                                                brain and bone marrow cells
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                6.93E-06
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                STEMCELL_EMBRYONIC_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Enriched
+                                                in mouse embryonic stem cells, compared to differentiated brain and bone
+                                                marrow cells
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.97E-04
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                LIN_WNT_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes up-regulated by APC in SW480 (colon cancer)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                7.50E-04
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                HSC_INTERMEDIATE PROGENITORS_FETAL
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Up-regulated in mouse hematopoietic intermediate progenitors
+                                                from fetal liver (Intermediate Progenitors Shared + Fetal)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                3.75E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                HSA04310_WNT_ SIGNALING_PATHWAY
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes involved in Wnt signaling pathway
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                7.14E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                HSA04330_NOTCH_ SIGNALING_PATHWAY
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes involved in Notch signaling pathway
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.28E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                V$TCF4_Q5
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes with promoter regions [-2kb,2kb] around transcription start
+                                                site containing the motif SCTTTGAW which matches annotation for TCF4:
+                                                transcription factor 4
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.49E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                HSC_HSCANDPROGENITORS _SHARED
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Up-regulated in mouse hematopoietic stem cells and progenitors
+                                                from both adult bone marrow and fetal liver (Cluster iii, HSC and Progenitors
+                                                Shared)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.00E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                HSC_HSCANDPROGENITORS _FETAL
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Up-regulated in mouse hematopoietic stem cells and progenitors
+                                                from fetal liver (HSC and Progenitors Shared)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.09E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                HSC_INTERMEDIATE PROGENITORS_SHARED
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Up-regulated in mouse hematopoietic intermediate progenitors
+                                                from both adult bone marrow and fetal liver (Cluster v, Intermediate
+                                                Progenitors Shared)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.15E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MAMMARY_DEV_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Up-regulated in the intact developing mouse mammary gland; higher
+                                                expression in 5/6 week pubertal glands than in 3 week, mid-pregnant,
+                                                lactating, involuting or resuckled glands
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.15E-02
+                                            
+                                </td></tr><tr><td colspan="3" rowspan="1"><bold><underline>Aging, Alzheimer's Disease, and Oxidative Stress
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_SOD1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of SOD1 superoxide dismutase 1, soluble
+                                                (amyotrophic lateral sclerosis 1 (adult)) in the MORF expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.98E-05
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                ALZHEIMERS_DISEASE_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Upregulated in correlation with overt Alzheimer's Disease, in
+                                                the CA1 region of the hippocampus
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                9.05E-05
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_JUND
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of JUND jun D proto-oncogene in the MORF
+                                                expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.87E-03
+                                            
+                                </td></tr><tr><td colspan="3" rowspan="1"><bold><underline>Regulation of DNA Methylation
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_HDAC1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of HDAC1 histone deacetylase 1 in the MORF expression
+                                                compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                9.91E-06
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                TSA_PANC50_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                50 most interesting genes upregulated by TSA treatment in at
+                                                least one of four pancreatic cancer cell lines, but not in normal (HPDE)
+                                                cells
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                4.32E-04
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_HAT1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of HAT1 histone acetyltransferase 1 in the MORF
+                                                expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                9.44E-04
+                                            
+                                </td></tr><tr><td colspan="3" rowspan="1"><bold><underline>Breast Cancer Associated Tamoxifen-Resistance
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_NPM1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of NPM1 nucleophosmin (nucleolar phosphoprotein B23,
+                                                numatrin) in the MORF expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.73E-04
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                GCM_NPM1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of NPM1 nucleophosmin (nucleolar phosphoprotein
+                                                B23, numatrin) in the GCM expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                7.21E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                GNF2_NPM1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of NPM1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.24E-02
+                                            
+                                </td></tr><tr><td colspan="3" rowspan="1"><bold><underline>Metastasis
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_NME2
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of NME2 non-metastatic cells 2, protein (NM23B)
+                                                expressed in in the MORF expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.04E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_MTA1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of MTA1 metastasis associated 1 in the MORF
+                                                expression compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.28E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                CROMER_HYPOPHARYNGEAL_ MET_VS_NON_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes increased in metastatic hypopharyngeal cancer tumours
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.37E-02
+                                            
+                                </td></tr><tr><td colspan="3" rowspan="1"><bold><underline>Myc-Associated Genes
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                CACGTG_V$MYC_Q2
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes with promoter regions [-2kb,2kb] around transcription start
+                                                site containing the motif CACGTG which matches annotation for MYC: v-myc
+                                                myelocytomatosis viral oncogene homolog (avian)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.05E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                LEE_MYC_TGFA_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes up-regulated in hepatoma tissue of Myc+Tgfa transgenic
+                                                mice
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                7.34E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                LEE_MYC_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes up-regulated in hepatoma tissue of Myc transgenic mice
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.00E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MYC_ONCOGENIC_SIGNATURE
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes selected in supervised analyses to discriminate cells
+                                                expressing c-Myc oncogene from control cells expressing GFP.
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.00E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                V$MYC_Q2
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes with promoter regions [-2kb,2kb] around transcription
+                                                start site containing the motif CACGTGS which matches annotation for MYC:
+                                                v-myc myelocytomatosis viral oncogene homolog (avian)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.26E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                V$NMYC_01
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes with promoter regions [-2kb,2kb] around transcription
+                                                start site containing the motif NNCCACGTGNNN which matches annotation for
+                                                MYCN: v-myc myelocytomatosis viral related oncogene, neuroblastoma derived
+                                                (avian)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.32E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                FERNANDEZ_MYC_TARGETS
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                MYC target genes by ChIP in U-937,HL60 (leukemia),P493
+                                                (B-cell),T98G (glioblastoma),WS1 (fibroblast)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.43E-02
+                                            
+                                </td></tr><tr><td colspan="3" rowspan="1"><bold><underline>Inflammation/NF-kB/STAT Signaling
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                IL6_FIBRO_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Upregulated following IL-6 treatment in normal skin fibroblasts
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.05E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                TNFALPHA_30MIN_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Upregulated 30min after TNF-alpha treatment of HeLa cells
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.23E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                HESS_HOXAANMEIS1_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes upregulated in Hoxa9/Meis1 transduced cells vs control
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                6.31E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                ST_INTERLEUKIN_13_PATHWAY
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                IL-13 is produced by Th2 cells on activation of the T cell
+                                                antigen receptor, and by mast and basophil cells on activation of the IgE
+                                                receptor.
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                9.22E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                ST_IL_13_PATHWAY
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Like IL-4, IL-13 is produced by Th2 cells on activation of the T
+                                                cell antigen receptor, and by mast and basophil cells on activation of the
+                                                IgE receptor.
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                9.45E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                V$IRF_Q6
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes with promoter regions [-2kb,2kb] around transcription
+                                                start site containing the motif BNCRSTTTCANTTYY which matches annotation for IRF1:
+                                                interferon regulatory factor 1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.42E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                TNFALPHA_ALL_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Upregulated at any timepoint after TNF-alpha treatment of HeLa
+                                                cells
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.44E-02
+                                            
+                                </td></tr><tr><td colspan="3" rowspan="1"><bold><underline>TGFbeta Signaling/Myofibroblast Differentiation/Fibrosis
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                GCM_ACTG1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of ACTG1 actin, gamma 1 in the GCM expression
+                                                compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.18E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                TGFBETA_ALL_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Upregulated by TGF-beta treatment of skin fibroblasts, at any
+                                                timepoint
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                6.80E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MYOD_BRG1_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes up-regulated following transduction of MyoD in NIH 3T3
+                                                cells that fail to acheive full induction with expression of a
+                                                dominant-negative BRG1 allele
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                7.07E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MORF_ACTG1
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Neighborhood of ACTG1 actin, gamma 1 in the MORF expression
+                                                compendium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                9.15E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MYOD_NIH3T3_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Up-regulated at 24 hours in NIH 3T3 murine fibroblasts following
+                                                transduction with MyoD and incubation in differentiation medium
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.08E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                POMEROY_DESMOPLASIC_VS_ CLASSIC_MD_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes expressed in desmoplastic medulloblastomas. (p &lt; 0.01)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                9.68E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                TGFBETA_LATE_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Upregulated by TGF-beta treatment of skin fibroblasts only at
+                                                1-4 hrs (clusters 4-6)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.36E-02
+                                            
+                                </td></tr><tr><td colspan="3" rowspan="1"><bold><underline>Hypoxia/HIF Signaling/Mitochondrial Genes/Metabolism
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                HYPOXIA_REVIEW
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes known to be induced by hypoxia
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                8.96E-03
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                HIF1_TARGETS
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Hif-1 (hypoxia-inducible factor 1) transcripional targets
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.07E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                HUMAN_MITODB_6_2002
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Mitochondrial genes
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.08E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                MITOCHONDRIA
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Mitochondrial genes
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.28E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                HYPOXIA_RCC_UP
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Upregulated by hypoxia in VHL-rescued renal carcinoma cells
+                                                (Fig. 3f+g)
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.42E-02
+                                            
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                HSA00330_ARGININE_AND _PROLINE_METABOLISM
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Genes involved in arginine and proline metabolism
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                2.20E-02
+                                            
+                                </td></tr><tr><td colspan="3" rowspan="1"><bold><underline>Liver Specific Transcription
+                                        </underline></bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                HSIAO_LIVER_SPECIFIC_GENES
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                Liver selective genes
+                                            
+                                </td><td rowspan="1" colspan="1">
+                                                1.04E-02
+                                            
+                                </td></tr></tbody></table></table-wrap><p>We
+                            have independently shown that many of these same biological processes are
+                            activated in Cav-1 (-/-) stromal cells [<xref ref-type="bibr" rid="R9">9</xref>], consistent with the idea that Cav-1
+                            (-/-) stromal cells are a valid model for exploring the tumor-promoting effects
+                            of an activated tumor stromal micro-environment.
+                        
+                </p></sec><sec id="s2_5"><title>Similarities of
+                            the Cav-1 (-/-) stromal gene set with transcriptional profiling data from ER-negative
+                            breast cancer
+                        </title><p>A comparison of the Cav-1 (-/-) stromal cell gene set with other existing
+                            transcriptional profiles also shows significant overlap with ER-negative human
+                            breast cancer (p = 8.96 x 10<sup>-10</sup>; BRCA_ER_NEG [<xref ref-type="bibr" rid="R28">28</xref>]). For this overlap
+                            analysis, UP genes from the Cav-1 (-/-) stromal data set with a fold-change of <underline>&gt;
+                    </underline>2.0 
+                            (KO/WT) and a P value of <underline>&lt;
+                    </underline>0.1 were utilized for comparison with
+                            existing gene sets in the data base.
+                        
+                </p><p>Interestingly, these tumors
+                            were not laser-capture micro-dissected, so this provides an indication that the
+                            Cav-1 (-/-) stromal gene set may also be well represented in the
+                            transcriptional profiles obtained from whole tumors. A HeatMap containing these
+                            intersecting genes is shown in Figure <xref ref-type="fig" rid="F3">3</xref> (205 overlapping genes; FC <underline>&gt;
+                    </underline>1.5;
+                            p <underline>&lt;
+                    </underline>0.05). See also Supplementary Tables.
+                        
+                </p><p>These include key
+                            overlapping genes associated with <bold><italic toggle="yes">metabolism and glycolysis</italic></bold>
+                            (Acot7, Acsl4, Eno1, Gapdh, Ldhb, Mtrf1l, Pfkl, Pgk1, Pgm2, Pgm3, Slc2a5,
+                            Slc2a6), <bold><italic toggle="yes">hypoxia </italic></bold>(Hyou1), <bold><italic toggle="yes">the inflammatory response</italic></bold>
+                            (Aif1, C3, Ccl5, Crlf3, Ifngr1, Il10ra, Irak1, Irf5, Isg20, Nfib, Nfkbie, Nos3,
+                            Tnfaip3, Tnfrsf21, Tnfsf13b, Traf1), <bold><italic toggle="yes">myofibroblast differentiation and
+                                            the extracellular matrix</italic></bold> (Actl6a, Capg, Col9a3, Dnmt3b, Mmp9, Myo10,
+                            Spock2, Tgfbi, Tgm1, Timp2), as well as <bold><italic toggle="yes">DNA-damage and repair</italic></bold>
+                            (Ddit3, Rad54l).  These results are consistent with the existence of the
+                            "Reverse Warburg Effect" in ER-negative breast cancers.
+                        
+                </p><p>Interestingly, it has been previously demonstrated that key secreted inflammatory factors, such as Aif1
+                            (allograft inflammatory factor-1) (upregulated nearly 3-fold in Cav-1 (-/-)
+                            stromal cells; Supplementary Tables) promote NFkB-activation, the paracrine
+                            growth of ER-negative breast cancer cells [<xref ref-type="bibr" rid="R29">29</xref>], and are involved in the
+                            pathogenesis of pro-fibrotic diseases, such as scleroderma (systemic sclerosis)
+                            [<xref ref-type="bibr" rid="R30">30</xref>-<xref ref-type="bibr" rid="R32">32</xref>].
+                        
+                </p><p>Similarly, Aif1 expression
+                            is highly-upregulated in the tumor stroma of human breast cancers (See Supplementary
+                            Table <xref ref-type="table" rid="T1">1</xref>; p = 8.35 x 10<sup>-24</sup>).
+                        
+                </p><fig id="F2" orientation="portrait" position="float"><label>Figure 2.</label><caption><title>Venn diagrams for the transcriptional overlap between Alzheimer's disease brain and tumor stroma from breast cancer patients.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="aging-02-185-g002.jpg"/></fig></sec></sec><sec id="s3" sec-type="discussion"><title>Discussion</title><p>Here, we provide compelling
+                        transcriptional evidence for the "Reverse Warburg Effect" in human breast
+                        cancer tumor stroma. Using an unbiased informatics analysis of transcriptional
+                        gene profiling, we show that Cav-1 (-/-) stromal cells bear a striking resemblance
+                        to the activated tumor stroma of human breast cancers. More specifically, the
+                        transcriptional profiles of Cav-1 (-/-) stromal cells were most closely related
+                        to the stroma of breast cancer patients that had undergone LN-metastasis. This
+                        is consistent with our previous data showing that a loss of stromal Cav-1
+                        protein expression (by immuno-histochemistry) in human breast cancer tumor
+                        micro-arrays is specifically associated with increased LN-metastasis [<xref ref-type="bibr" rid="R3">3</xref>,<xref ref-type="bibr" rid="R4">4</xref>].
+                    
+            </p><p>Moreover, we provide
+                        evidence that the tumor stroma of human breast cancers shows a transcriptional
+                        shift towards oxidative stress, DNA damage/repair, inflammation, hypoxia, and
+                        aerobic glycolysis. These findings are consistent with the "Reverse Warburg
+                        Effect" [<xref ref-type="bibr" rid="R8">8</xref>,<xref ref-type="bibr" rid="R9">9</xref>]. Notably, the tumor stroma of "metastasis-prone" breast cancer
+                        patients was also closely related to the transcriptional profiles derived from
+                        the brains of patients with Alzheimer's disease. As such, certain fundamental
+                        biological processes are common to both an activated tumor stroma and
+                        neuro-degenerative stress.  These key biological processes most likely
+                        include oxidative stress, NO over-production (peroxynitrite formation),
+                        inflammation, hypoxia, and mitochondrial dysfunction, which are all thought to
+                        drive Alzheimer's disease pathogenesis.
+                    
+            </p><p>Thus,
+                        we avidly reviewed the literature regarding theories of neuronal functioning,
+                        neuronal stress, and neuro-degeneration, in the central nervous system and we
+                        stumbled upon the idea of "Neuron-Glia Metabolic Coupling" [<xref ref-type="bibr" rid="R11">11</xref>-<xref ref-type="bibr" rid="R18">18</xref>]  In
+                        this model, first proposed over 10 years ago, astrocytes shift towards aerobic
+                        glycolyis, secrete pyruvate and lactate, which is then taken-up by adjacent
+                        neurons and then "feeds" into the neuronal TCA cycle, resulting in increased
+                        neuronal oxidative mitochondrial metabolism, and higher ATP production in
+                        neurons. In essence, the astrocytes would function as support cells to "feed"
+                        the adjacent neuronal cells. Thus, "Neuron-Glia Metabolic Coupling" and the
+                        "Reverse Warburg Effect" are analogous
+                        biological processes, where the astrocytes are the cancer-associated
+                        fibroblasts and the neurons are the epithelial tumor cells.  As such, we
+                        propose that the "Reverse Warburg Effect" could also be more generally termed
+                        "Epithelial-Stromal Metabolic Coupling"
+                        or "Epithelial-Fibroblast Metabolic Coupling".
+                    
+            </p><p>If
+                        these two processes are indeed analogous, then epithelial tumor cells have
+                        already learned to behave as neurons, using the stroma as a means of support
+                        and nourishment. Figure <xref ref-type="fig" rid="F4">4</xref> directly compares "Neuron-Glia Metabolic Coupling"
+                        with the "Reverse Warburg effect" schematically.
+                    
+            </p><p>Myofibroblasts and
+                        mesenchymal stem cells are known to often express GFAP (glial fibrillary acidic
+                        protein) [<xref ref-type="bibr" rid="R19">19</xref>-<xref ref-type="bibr" rid="R21">21</xref>], an intermediate filament protein that is thought to be
+                        relatively specific for astrocytes in the central nervous system.  Table <xref ref-type="table" rid="T5">5</xref>
+                        shows that GFAP and other glial-related gene transcripts are indeed upregulated
+                        in "tumor stroma" and in the stroma of "metastasis-prone" breast cancer
+                        patients. Thus, possible metabolic and functional
+                        similarities between CNS astrocytes and myofibroblasts/cancer-associated
+                        fibroblasts should be further explored.
+                    
+            </p><p>Interestingly, in "Neuron-Glia
+                        Metabolic Coupling" the glycolytic shift in astrocytes is thought to be
+                        mediated by the secretion of glutamate (a neurotransmitter) from neurons. Then,
+                        astrocytes take up glutamate via high affinity sodium-dependent glutamate
+                        transporters, such as <bold><italic toggle="yes">Slc1a2 and Slc1a3</italic></bold>. Importantly, one of
+                        these two glial-specific glutamate transporters (<bold><italic toggle="yes">Slc1a3</italic></bold>) is also
+                        transcriptionally over-expressed in the stroma of human breast cancer patients
+                        (Table <xref ref-type="table" rid="T5">5</xref>). As such, the similarities between brain astrocytes,
+                        myofibroblasts, mesenchymal stem cells, and tumor stromal cells may be more
+                        extensive than we previously appreciated.
+                    
+            </p><table-wrap id="T5" orientation="portrait" position="float"><label>Table 5.</label><caption><title>Expression of glial-related genes in human breast cancer stromal gene sets.</title><p>
+                            Gfap is highlighted in <bold>bold</bold> because it is also known to be a common marker
+                            of astrocytes, myo-fibroblasts, and mesenchymal stem cells.
+                            
+                    </p></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1"><bold>Gene</bold></td><td rowspan="1" colspan="1"><bold>Description</bold></td><td rowspan="1" colspan="1"><bold>Tumor
+                                                          Stroma  </bold></td><td rowspan="1" colspan="1"><bold>Recurrence
+                                                          -Prone Stroma</bold></td><td rowspan="1" colspan="1"><bold>Metastasis-Prone
+                                                          Stroma</bold></td></tr></thead><tbody><tr><td rowspan="1" colspan="1">
+                                                  Gcm1
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  glial
+                                                  cells missing homolog 1 (Drosophila)
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  6.50e-21
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  8.39e-04
+                                            
+                            </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"><bold>Gfap</bold></td><td rowspan="1" colspan="1"><bold>glial
+                                                          fibrillary acidic protein         </bold></td><td rowspan="1" colspan="1"><bold>1.64e-18</bold></td><td rowspan="1" colspan="1"><bold>1.36e-03</bold></td><td rowspan="1" colspan="1"><bold>2.28e-02</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                  Gfra2
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  glial
+                                                  cell line derived neurotrophic factor family receptor alpha 2
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  2.28e-17
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  3.58E-02
+                                            
+                            </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                  Slc1a3
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  solute
+                                                  carrier family 1 (glial high affinity glutamate transporter), member 3
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  4.22e-17
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  5.70e-03
+                                            
+                            </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                  Gfra3
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  glial
+                                                  cell line derived neurotrophic factor family receptor alpha 3
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  2.97e-16
+                                            
+                            </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                  Gdnf
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  glial
+                                                  cell line derived neurotrophic factor
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  6.48e-14
+                                            
+                            </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                  Gcm2
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  glial
+                                                  cells missing homolog 2 (Drosophila)
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  1.38e-05
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  2.06e-02
+                                            
+                            </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                  Gfra4
+                                            
+                            </td><td rowspan="1" colspan="1">
+                                                  glial
+                                                  cell line derived neurotrophic factor receptor alpha 4
+                                            
+                            </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+                                                  1.02e-02
+                                            
+                            </td></tr></tbody></table></table-wrap><fig id="F3" orientation="portrait" position="float"><label>Figure 3.</label><caption><title>Transcriptional overlap of the Cav-1 (-/-) stromal gene set with ER-negative breast cancer.</title><p>
+                                        A HeatMap containing 205 intersecting genes is shown (FC &gt;1.5; p &lt;0.05). See
+                                        also Supplementary Tables. FC, fold-change.
+                                    
+                    </p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="aging-02-185-g003.jpg"/></fig><fig id="F4" orientation="portrait" position="float"><label>Figure 4.</label><caption><title>Comparisons between the "Reverse Warburg Effect" and "Neuron-Glia Metabolic Coupling", suggest "Epithelial-Stromal Metabolic Coupling".</title><p>
+                                        In "Neuron-Glia Metabolic Coupling", astrocytes take up more glucose, shift towards aerobic
+                                        glycolyis, secrete pyruvate and lactate, which is then taken up by adjacent
+                                        neurons and then "feeds" into the neuronal TCA cycle, resulting in
+                                        increased neuronal oxidative mitochondrial metabolism, and higher ATP
+                                        production in neurons. In essence, the astrocytes function as support cells
+                                        to "feed" the adjacent neuronal cells. This schematic diagram shows that
+                                        "Neuron-Glia Metabolic Coupling" and the "Reverse Warburg Effect" are
+                                        analogous biological processes, where the astrocytes are the
+                                        cancer-associated fibroblasts and the neurons are the epithelial tumor cells.  Thus, the "Reverse Warburg Effect"
+                                        could also be more generally termed "Epithelial-Stromal Metabolic Coupling"
+                                        or "Epithelial-Fibroblast Metabolic Coupling". This figure was partially
+                                        re-drawn from Bonucelli et al. 2010, with permission [<xref ref-type="bibr" rid="R24">24</xref>]. MCT,
+                                        mono-carboxylate transporter.
+                                
+                    </p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="aging-02-185-g004.jpg"/></fig></sec><sec id="s4"><title>Methods of analysis</title><p>
+                <underline>Venn diagrams.
+                </underline> In the Venn diagram of Figure <xref ref-type="fig" rid="F1">1</xref>, we show the
+                        intersections between the set of genes that are upregulated in Cav-1 (-/-)
+                        versus wild-type stromal cells [<xref ref-type="bibr" rid="R8">8</xref>] and three breast cancer gene sets [<xref ref-type="bibr" rid="R10">10</xref>].
+                    
+            </p><p>(a)        the set of stromal genes that are
+                        upregulated in breast cancer tumor patients versus normal breast stroma; (b)        the set of stromal genes that are
+                        upregulated in recurrence positive versus recurrence negative breast cancer
+                        patients (c)        the set of stromal genes that are
+                        upregulated in lymph-node metastasis positive versus lymph-node metastasis
+                        negative breast cancer patients.
+                    
+            </p><p>In the Venn diagram of Figure <xref ref-type="fig" rid="F2">2</xref>, we show the
+                        intersections between the set of genes that are upregulated in Alzheimer's
+                        brain disease [<xref ref-type="bibr" rid="R22">22</xref>] and the sets of genes (a)-(c) listed above. The p-values
+                        determining the significance of upregulation for each gene were computed using
+                        a one-sided t-test statistic (Tables 1, 2, and 5). For each pair (X,Y) of sets
+                        of genes, we also computed the probability (p-value) that the size of their
+                        intersection is less than or equal to the size of the intersection between set
+                        X and a randomly-chosen set of size equal to the size of set Y. This
+                        probability was calculated by applying the cumulative density function of the
+                        hypergeometric distribution on the size of set X, the size of set Y, the
+                        observed overlap between X and Y, and the total number of available genes.
+                    
+            </p><p>
+                <underline>Gene set enrichment analysis.
+                </underline> For the functional analysis presented in Table <xref ref-type="table" rid="T4">4</xref>, we
+                        used data from the Molecular Signatures Database (MsigDB [<xref ref-type="bibr" rid="R23">23</xref>]) which comprises
+                        a collection of gene sets: - collected from various sources such as online
+                        pathway databases, publications, and knowledge of domain experts, - comprising genes that share a conserved
+                        cis-regulatory motif across the human, mouse, rat, and dog genomes, - identified as co-regulated gene clusters by mining
+                        large collections of cancer-oriented microarray data, and - annotated by a common Gene Ontology (GO) term.
+                    
+            </p><p>For our analysis we used the latest release of MSigDB
+                        database v2.5 (April 7, 2008), after converting all the gene names in the
+                        database into RefSeq gene IDs. After this preprocessing step, we chose the
+                        sub-collection of gene sets that was relevant to our study, and for each gene
+                        set X in that sub-collection, we computed the overlap between X and the set of
+                        genes Y that are upregulated in lymph-node metastasis positive versus
+                        lymph-node metastasis negative breast cancer patients (p-value ≤0.05).
+                        Then, we computed the probability (p-value) of the observed overlap between
+                        sets X and Y as described in the "Venn diagrams" section.
+                    
+            </p></sec><sec id="s5" sec-type="supplementary-material"><title>Supplementary data</title><supplementary-material content-type="local-data" id="ST1" position="float" orientation="portrait"><label>Supplementary Table 1</label><caption><title>TumorStroma (Compatibility Mode).</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="aging-02-185-s001.xls" orientation="portrait" id="d32e2464" position="anchor" mimetype="application" mime-subtype="vnd.ms-excel"/></supplementary-material><supplementary-material content-type="local-data" id="ST2" position="float" orientation="portrait"><label>Supplementary Table 2</label><caption><title>Recurrence (Compatibility Mode).</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="aging-02-185-s002.xls" orientation="portrait" id="d32e2471" position="anchor" mimetype="application" mime-subtype="vnd.ms-excel"/></supplementary-material><supplementary-material content-type="local-data" id="ST3" position="float" orientation="portrait"><label>Supplementary Table 3</label><caption><title>Metastatis (Compatibility Mode).</title></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="aging-02-185-s003.xls" orientation="portrait" id="d32e2478" position="anchor" mimetype="application" mime-subtype="vnd.ms-excel"/></supplementary-material><supplementary-material content-type="local-data" id="ST4-10" position="float" orientation="portrait"><label>Supplementary Table 4-10</label><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="aging-02-185-s004-10.pdf" orientation="portrait" id="d32e2482" position="anchor" mimetype="application" mime-subtype="pdf"/></supplementary-material></sec></body><back><ack><p>M.P.L. and his laboratory
+                        were supported by grants from the NIH/NCI (R01-CA-080250;
+                        R01-CA-098779; R01-CA-120876; R01-AR-055660), and the Susan G. Komen Breast
+                        Cancer Foundation. F.S. was supported by
+                        grants from the W.W. Smith Charitable Trust, the Breast Cancer Alliance (BCA),
+                        and a Research Scholar Grant from the American Cancer Society (ACS). P.G.F. was
+                        supported by a grant from the W.W. Smith Charitable Trust, and a Career
+                        Catalyst Award from the Susan G. Komen Breast Cancer Foundation. R.G.P. was supported by
+                        grants from the NIH/NCI  (R01-CA-70896, R01-CA-75503, R01-CA-86072, and
+                        R01-CA-107382) and the Dr. Ralph and Marian C. Falk Medical Research Trust. The
+                        Kimmel Cancer Center was supported by the NIH/NCI Cancer Center Core grant
+                        P30-CA-56036 (to R.G.P.). Funds were also contributed by the Margaret Q.
+                        Landenberger Research Foundation (to M.P.L.). This project is funded, in part,
+                        under a grant with the Pennsylvania Department of Health (to M.P.L.). The
+                        Department specifically disclaims responsibility for any analyses,
+                        interpretations or conclusions. This work was also supported, in part, by a
+                        Centre grant in Manchester from Breakthrough Breast Cancer in the U.K. (to
+                        A.H.) We would also like to thank
+                        Despina Hadjikyriakou who provided the crucial link between the two co-first
+                        authors of this paper by introducing them to each other and foreseeing the
+                        potential of their collaboration. The authors would also like to thank Dr. Isidore Rigoutsos (IBM/Thomas Jefferson University) for his
+                        generous help and critical reading of the manuscript.
+                    
+            </p></ack><fn-group><fn fn-type="conflict"><p>The authors of this manuscript have no conflict of
+                            interest to declare.
+                        
+                </p></fn></fn-group><ref-list><title>References</title><ref id="R1"><label>1</label><element-citation publication-type="journal"><name name-style="western"><surname>Mercier</surname><given-names>I</given-names></name><name name-style="western"><surname>Casimiro</surname><given-names>MC</given-names></name><name name-style="western"><surname>Wang</surname><given-names>C</given-names></name><name name-style="western"><surname>Rosenberg</surname><given-names>AL</given-names></name><name name-style="western"><surname>Quong</surname><given-names>J</given-names></name><name name-style="western"><surname>Allen</surname><given-names>KG</given-names></name><name name-style="western"><surname>Danilo</surname><given-names>C</given-names></name><name name-style="western"><surname>Sotgia</surname><given-names>F</given-names></name><name name-style="western"><surname>Bonnucelli</surname><given-names>G</given-names></name><name name-style="western"><surname>Jasmin</surname><given-names>JF</given-names></name><name name-style="western"><surname>Xu</surname><given-names>H</given-names></name><name name-style="western"><surname>Bosco</surname><given-names>E</given-names></name><name name-style="western"><surname>Aronow</surname><given-names>B</given-names></name><name name-style="western"><surname>Witkiewicz</surname><given-names>A</given-names></name><name name-style="western"><surname>Pestell</surname><given-names>RG</given-names></name><name name-style="western"><surname>Knudsen</surname><given-names>ES</given-names></name><name name-style="western"><surname>Lisanti</surname><given-names>MP</given-names></name><article-title>Human Breast Cancer-Associated Fibroblasts (CAFs) Show Caveolin-1 Down-regulation and RB Tumor Suppressor Functional Inactivation: Implications for the Response to Hormonal Therapy</article-title><source>Cancer Biol Ther</source><year>2008</year><volume>7</volume><fpage>1212</fpage><lpage>25</lpage><pub-id pub-id-type="pmid">18458534</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4161/cbt.7.8.6220</pub-id><pub-id pub-id-type="pmcid">PMC6688494</pub-id></element-citation></ref><ref id="R2"><label>2</label><element-citation publication-type="journal"><name name-style="western"><surname>Sotgia</surname><given-names>F</given-names></name><name name-style="western"><surname>Del Galdo</surname><given-names>F</given-names></name><name name-style="western"><surname>Casimiro</surname><given-names>MC</given-names></name><name name-style="western"><surname>Bonuccelli</surname><given-names>G</given-names></name><name name-style="western"><surname>Mercier</surname><given-names>I</given-names></name><name name-style="western"><surname>Whitaker-Menezes</surname><given-names>D</given-names></name><name name-style="western"><surname>Daumer</surname><given-names>KM</given-names></name><name name-style="western"><surname>Zhou</surname><given-names>J</given-names></name><name name-style="western"><surname>Wang</surname><given-names>C</given-names></name><name name-style="western"><surname>Katiyar</surname><given-names>S</given-names></name><name name-style="western"><surname>Xu</surname><given-names>H</given-names></name><name name-style="western"><surname>Bosco</surname><given-names>E</given-names></name><name name-style="western"><surname>Quong</surname><given-names>AA</given-names></name><name name-style="western"><surname>Aronow</surname><given-names>B</given-names></name><name name-style="western"><surname>Witkiewicz</surname><given-names>AK</given-names></name><name name-style="western"><surname>Minetti</surname><given-names>C</given-names></name><name name-style="western"><surname>Frank</surname><given-names>PG</given-names></name><name name-style="western"><surname>Jimenez</surname><given-names>SA</given-names></name><name name-style="western"><surname>Knudsen</surname><given-names>ES</given-names></name><name name-style="western"><surname>Pestell</surname><given-names>RG</given-names></name><name name-style="western"><surname>Lisanti</surname><given-names>MP</given-names></name><article-title>Caveolin-1-/- null mammary stromal fibroblasts share characteristics with human breast cancer-associated fibroblasts</article-title><source>Am J Pathol</source><year>2009</year><volume>174</volume><fpage>746</fpage><lpage>61</lpage><pub-id pub-id-type="pmid">19234134</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2353/ajpath.2009.080658</pub-id><pub-id pub-id-type="pmcid">PMC2665737</pub-id></element-citation></ref><ref id="R3"><label>3</label><element-citation publication-type="journal"><name name-style="western"><surname>Witkiewicz</surname><given-names>AK</given-names></name><name name-style="western"><surname>Casimiro</surname><given-names>MC</given-names></name><name name-style="western"><surname>Dasgupta</surname><given-names>A</given-names></name><name name-style="western"><surname>Mercier</surname><given-names>I</given-names></name><name name-style="western"><surname>Wang</surname><given-names>C</given-names></name><name name-style="western"><surname>Bonuccelli</surname><given-names>G</given-names></name><name name-style="western"><surname>Jasmin</surname><given-names>JF</given-names></name><name name-style="western"><surname>Frank</surname><given-names>PG</given-names></name><name name-style="western"><surname>Pestell</surname><given-names>RG</given-names></name><name name-style="western"><surname>Kleer</surname><given-names>CG</given-names></name><name name-style="western"><surname>Sotgia</surname><given-names>F</given-names></name><name name-style="western"><surname>Lisanti</surname><given-names>MP</given-names></name><article-title>Towards a new "stromal-based" classification system for human breast cancer prognosis and therapy</article-title><source>Cell Cycle</source><year>2009</year><volume>8</volume><fpage>1654</fpage><lpage>8</lpage><pub-id pub-id-type="pmid">19448435</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4161/cc.8.11.8544</pub-id></element-citation></ref><ref id="R4"><label>4</label><element-citation publication-type="journal"><name name-style="western"><surname>Witkiewicz</surname><given-names>AK</given-names></name><name name-style="western"><surname>Dasgupta</surname><given-names>A</given-names></name><name name-style="western"><surname>Sotgia</surname><given-names>F</given-names></name><name name-style="western"><surname>Mercier</surname><given-names>I</given-names></name><name name-style="western"><surname>Pestell</surname><given-names>RG</given-names></name><name name-style="western"><surname>Sabel</surname><given-names>M</given-names></name><name name-style="western"><surname>Kleer</surname><given-names>CG</given-names></name><name name-style="western"><surname>Brody</surname><given-names>JR</given-names></name><name name-style="western"><surname>Lisanti</surname><given-names>MP</given-names></name><article-title>An Absence of Stromal Caveolin-1 Expression Predicts Early Tumor Recurrence and Poor Clinical Outcome in Human Breast Cancers</article-title><source>Am J Pathol</source><year>2009</year><volume>174</volume><fpage>2023</fpage><lpage>34</lpage><pub-id pub-id-type="pmid">19411448</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2353/ajpath.2009.080873</pub-id><pub-id pub-id-type="pmcid">PMC2684168</pub-id></element-citation></ref><ref id="R5"><label>5</label><element-citation publication-type="journal"><name name-style="western"><surname>Sloan</surname><given-names>EK</given-names></name><name name-style="western"><surname>Ciocca</surname><given-names>D</given-names></name><name name-style="western"><surname>Pouliot</surname><given-names>N</given-names></name><name name-style="western"><surname>Natoli</surname><given-names>A</given-names></name><name name-style="western"><surname>Restall</surname><given-names>C</given-names></name><name name-style="western"><surname>Henderson</surname><given-names>M</given-names></name><name name-style="western"><surname>Fanelli</surname><given-names>M</given-names></name><name name-style="western"><surname>Cuello-Carrión</surname><given-names>F</given-names></name><name name-style="western"><surname>Gago</surname><given-names>F</given-names></name><name name-style="western"><surname>Anderson</surname><given-names>R</given-names></name><article-title>Stromal Cell Expression of Caveolin-1 Predicts Outcome in Breast Cancer</article-title><source>Am J Pathol</source><year>2009</year><volume>174</volume><fpage>2035</fpage><lpage>43</lpage><pub-id pub-id-type="pmid">19411449</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2353/ajpath.2009.080924</pub-id><pub-id pub-id-type="pmcid">PMC2684169</pub-id></element-citation></ref><ref id="R6"><label>6</label><element-citation publication-type="journal"><name name-style="western"><surname>Witkiewicz</surname><given-names>AK</given-names></name><name name-style="western"><surname>Dasgupta</surname><given-names>A</given-names></name><name name-style="western"><surname>Nguyen</surname><given-names>KH</given-names></name><name name-style="western"><surname>Liu</surname><given-names>C</given-names></name><name name-style="western"><surname>Kovatich</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Schwartz</surname><given-names>GF</given-names></name><name name-style="western"><surname>Pestell</surname><given-names>RG</given-names></name><name name-style="western"><surname>Sotgia</surname><given-names>F</given-names></name><name name-style="western"><surname>Rui</surname><given-names>H</given-names></name><name name-style="western"><surname>Lisanti</surname><given-names>MP</given-names></name><article-title>Stromal caveolin-1 levels predict early DCIS progression to invasive breast cancer</article-title><source>Cancer Biol Ther</source><year>2009</year><volume>8</volume><fpage>1167</fpage><lpage>75</lpage><pub-id pub-id-type="pmid">19502809</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4161/cbt.8.11.8874</pub-id></element-citation></ref><ref id="R7"><label>7</label><element-citation publication-type="journal"><name name-style="western"><surname>Di Vizio</surname><given-names>D</given-names></name><name name-style="western"><surname>Morello</surname><given-names>M</given-names></name><name name-style="western"><surname>Sotgia</surname><given-names>F</given-names></name><name name-style="western"><surname>Pestell</surname><given-names>RG</given-names></name><name name-style="western"><surname>Freeman</surname><given-names>MR</given-names></name><name name-style="western"><surname>Lisanti</surname><given-names>MP</given-names></name><article-title>An Absence of Stromal Caveolin-1 is Associated with Advanced Prostate Cancer, Metastatic Disease and Epithelial Akt Activation</article-title><source>Cell Cycle</source><year>2009</year><volume>8</volume><fpage>2420</fpage><lpage>4</lpage><pub-id pub-id-type="pmid">19556867</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4161/cc.8.15.9116</pub-id><pub-id pub-id-type="pmcid">PMC2927821</pub-id></element-citation></ref><ref id="R8"><label>8</label><element-citation publication-type="journal"><name name-style="western"><surname>Pavlides</surname><given-names>S</given-names></name><name name-style="western"><surname>Whitaker-Menezes</surname><given-names>D</given-names></name><name name-style="western"><surname>Castello-Cros</surname><given-names>R</given-names></name><name name-style="western"><surname>Flomenberg</surname><given-names>N</given-names></name><name name-style="western"><surname>Witkiewicz</surname><given-names>AK</given-names></name><name name-style="western"><surname>Frank</surname><given-names>PG</given-names></name><name name-style="western"><surname>Casimiro</surname><given-names>MC</given-names></name><name name-style="western"><surname>Wang</surname><given-names>C</given-names></name><name name-style="western"><surname>Fortina</surname><given-names>P</given-names></name><name name-style="western"><surname>Addya</surname><given-names>S</given-names></name><name name-style="western"><surname>Pestell</surname><given-names>RG</given-names></name><name name-style="western"><surname>Martinez-Outschoorn</surname><given-names>UE</given-names></name><name name-style="western"><surname>Sotgia</surname><given-names>F</given-names></name><name name-style="western"><surname>Lisanti</surname><given-names>MP</given-names></name><article-title>The reverse Warburg effect: aerobic glycolysis in cancer associated fibroblasts and the tumor stroma</article-title><source>Cell Cycle</source><year>2009</year><volume>8</volume><fpage>3984</fpage><lpage>4001</lpage><pub-id pub-id-type="pmid">19923890</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4161/cc.8.23.10238</pub-id></element-citation></ref><ref id="R9"><label>9</label><element-citation publication-type="journal"><name name-style="western"><surname>Pavlides</surname><given-names>S</given-names></name><name name-style="western"><surname>Tsirigos</surname><given-names>A</given-names></name><name name-style="western"><surname>Vera</surname><given-names>I</given-names></name><name name-style="western"><surname>Flomenberg</surname><given-names>N</given-names></name><name name-style="western"><surname>Frank</surname><given-names>PG</given-names></name><name name-style="western"><surname>Casimiro</surname><given-names>MC</given-names></name><name name-style="western"><surname>Wang</surname><given-names>C</given-names></name><name name-style="western"><surname>Fortina</surname><given-names>P</given-names></name><name name-style="western"><surname>Addya</surname><given-names>S</given-names></name><name name-style="western"><surname>Pestell</surname><given-names>RG</given-names></name><name name-style="western"><surname>Rigoutsos</surname><given-names>I</given-names></name><name name-style="western"><surname>Martinez-Outschoorn</surname><given-names>UE</given-names></name><name name-style="western"><surname>Sotgia</surname><given-names>F</given-names></name><name name-style="western"><surname>Lisanti</surname><given-names>MP</given-names></name><article-title>Loss of Stromal Caveolin-1 Leads to Oxidative Stress, Mimics Hypoxia, and Drives Inflammation in the Tumor Microenvironment, Conferring the "Reverse Warburg Effect": A Transcriptional Informatics Analysis with Validation</article-title><source>Cell Cycle</source><year>2010</year><fpage>In Press</fpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.4161/cc.9.11.11848</pub-id><pub-id pub-id-type="pmid">20519932</pub-id></element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal"><name name-style="western"><surname>Finak</surname><given-names>G</given-names></name><name name-style="western"><surname>Bertos</surname><given-names>N</given-names></name><name name-style="western"><surname>Pepin</surname><given-names>F</given-names></name><name name-style="western"><surname>Sadekova</surname><given-names>S</given-names></name><name name-style="western"><surname>Souleimanova</surname><given-names>M</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>H</given-names></name><name name-style="western"><surname>Chen</surname><given-names>H</given-names></name><name name-style="western"><surname>Omeroglu</surname><given-names>G</given-names></name><name name-style="western"><surname>Meterissian</surname><given-names>S</given-names></name><name name-style="western"><surname>Omeroglu</surname><given-names>A</given-names></name><name name-style="western"><surname>Hallett</surname><given-names>M</given-names></name><name name-style="western"><surname>Park</surname><given-names>M</given-names></name><article-title>Stromal gene expression predicts clinical outcome in breast cancer</article-title><source>Nat Med</source><year>2008</year><volume>14</volume><fpage>518</fpage><lpage>27</lpage><pub-id pub-id-type="pmid">18438415</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nm1764</pub-id></element-citation></ref><ref id="R11"><label>11</label><element-citation publication-type="journal"><name name-style="western"><surname>Magistretti</surname><given-names>PJ</given-names></name><article-title>Role of glutamate in neuron-glia metabolic coupling</article-title><source>Am J Clin Nutr</source><year>2009</year><volume>90</volume><fpage>875S</fpage><lpage>80S</lpage><pub-id pub-id-type="pmid">19571222</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3945/ajcn.2009.27462CC</pub-id></element-citation></ref><ref id="R12"><label>12</label><element-citation publication-type="journal"><name name-style="western"><surname>Magistretti</surname><given-names>PJ</given-names></name><article-title>Neuron-glia metabolic coupling and plasticity</article-title><source>J Exp Biol</source><year>2006</year><volume>209</volume><fpage>2304</fpage><lpage>11</lpage><pub-id pub-id-type="pmid">16731806</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1242/jeb.02208</pub-id></element-citation></ref><ref id="R13"><label>13</label><element-citation publication-type="journal"><name name-style="western"><surname>Kasischke</surname><given-names>KA</given-names></name><name name-style="western"><surname>Vishwasrao</surname><given-names>HD</given-names></name><name name-style="western"><surname>Fisher</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Zipfel</surname><given-names>WR</given-names></name><name name-style="western"><surname>Webb</surname><given-names>WW</given-names></name><article-title>Neural activity triggers neuronal oxidative metabolism followed by astrocytic glycolysis</article-title><source>Science</source><year>2004</year><volume>305</volume><fpage>99</fpage><lpage>103</lpage><pub-id pub-id-type="pmid">15232110</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1096485</pub-id></element-citation></ref><ref id="R14"><label>14</label><element-citation publication-type="journal"><name name-style="western"><surname>Tsacopoulos</surname><given-names>M</given-names></name><article-title>Metabolic signaling between neurons and glial cells: a short review</article-title><source>J Physiol Paris</source><year>2002</year><volume>96</volume><fpage>283</fpage><lpage>8</lpage><pub-id pub-id-type="pmid">12445907</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0928-4257(02)00017-7</pub-id></element-citation></ref><ref id="R15"><label>15</label><element-citation publication-type="journal"><name name-style="western"><surname>Hulsmann</surname><given-names>S</given-names></name><name name-style="western"><surname>Oku</surname><given-names>Y</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>W</given-names></name><name name-style="western"><surname>Richter</surname><given-names>DW</given-names></name><article-title>Metabolic coupling between glia and neurons is necessary for maintaining respiratory activity in transverse medullary slices of neonatal mouse</article-title><source>Eur J Neurosci</source><year>2000</year><volume>12</volume><fpage>856</fpage><lpage>62</lpage><pub-id pub-id-type="pmid">10762315</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1460-9568.2000.00973.x</pub-id></element-citation></ref><ref id="R16"><label>16</label><element-citation publication-type="journal"><name name-style="western"><surname>Magistretti</surname><given-names>PJ</given-names></name><name name-style="western"><surname>Pellerin</surname><given-names>L</given-names></name><article-title>The contribution of astrocytes to the 18F-2-deoxyglucose signal in PET activation studies</article-title><source>Mol Psychiatry</source><year>1996</year><volume>1</volume><fpage>445</fpage><lpage>52</lpage><pub-id pub-id-type="pmid">9154245</pub-id></element-citation></ref><ref id="R17"><label>17</label><element-citation publication-type="journal"><name name-style="western"><surname>Tsacopoulos</surname><given-names>M</given-names></name><name name-style="western"><surname>Magistretti</surname><given-names>PJ</given-names></name><article-title>Metabolic coupling between glia and neurons</article-title><source>J Neurosci</source><year>1996</year><volume>16</volume><fpage>877</fpage><lpage>85</lpage><pub-id pub-id-type="pmid">8558256</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.16-03-00877.1996</pub-id><pub-id pub-id-type="pmcid">PMC6578818</pub-id></element-citation></ref><ref id="R18"><label>18</label><element-citation publication-type="journal"><name name-style="western"><surname>Pellerin</surname><given-names>L</given-names></name><name name-style="western"><surname>Magistretti</surname><given-names>PJ</given-names></name><article-title>Glutamate uptake into astrocytes stimulates aerobic glycolysis: a mechanism coupling neuronal activity to glucose utilization</article-title><source>Proc Natl Acad Sci U S A</source><year>1994</year><volume>91</volume><fpage>10625</fpage><lpage>9</lpage><pub-id pub-id-type="pmid">7938003</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.91.22.10625</pub-id><pub-id pub-id-type="pmcid">PMC45074</pub-id></element-citation></ref><ref id="R19"><label>19</label><element-citation publication-type="journal"><name name-style="western"><surname>Cassiman</surname><given-names>D</given-names></name><name name-style="western"><surname>Libbrecht</surname><given-names>L</given-names></name><name name-style="western"><surname>Desmet</surname><given-names>V</given-names></name><name name-style="western"><surname>Denef</surname><given-names>C</given-names></name><name name-style="western"><surname>Roskams</surname><given-names>T</given-names></name><article-title>Hepatic stellate cell/myofibroblast subpopulations in fibrotic human and rat livers</article-title><source>J Hepatol</source><year>2002</year><volume>36</volume><fpage>200</fpage><lpage>9</lpage><pub-id pub-id-type="pmid">11830331</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0168-8278(01)00260-4</pub-id></element-citation></ref><ref id="R20"><label>20</label><element-citation publication-type="journal"><name name-style="western"><surname>Olaso</surname><given-names>E</given-names></name><name name-style="western"><surname>Salado</surname><given-names>C</given-names></name><name name-style="western"><surname>Egilegor</surname><given-names>E</given-names></name><name name-style="western"><surname>Gutierrez</surname><given-names>V</given-names></name><name name-style="western"><surname>Santisteban</surname><given-names>A</given-names></name><name name-style="western"><surname>Sancho-Bru</surname><given-names>P</given-names></name><name name-style="western"><surname>Friedman</surname><given-names>SL</given-names></name><name name-style="western"><surname>Vidal-Vanaclocha</surname><given-names>F</given-names></name><article-title>Proangiogenic role of tumor-activated hepatic stellate cells in experimental melanoma metastasis</article-title><source>Hepatology</source><year>2003</year><volume>37</volume><fpage>674</fpage><lpage>85</lpage><pub-id pub-id-type="pmid">12601365</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/jhep.2003.50068</pub-id></element-citation></ref><ref id="R21"><label>21</label><element-citation publication-type="journal"><name name-style="western"><surname>Tondreau</surname><given-names>T</given-names></name><name name-style="western"><surname>Lagneaux</surname><given-names>L</given-names></name><name name-style="western"><surname>Dejeneffe</surname><given-names>M</given-names></name><name name-style="western"><surname>Massy</surname><given-names>M</given-names></name><name name-style="western"><surname>Mortier</surname><given-names>C</given-names></name><name name-style="western"><surname>Delforge</surname><given-names>A</given-names></name><name name-style="western"><surname>Bron</surname><given-names>D</given-names></name><article-title>Bone marrow-derived mesenchymal stem cells already express specific neural proteins before any differentiation</article-title><source>Differentiation</source><year>2004</year><volume>72</volume><fpage>319</fpage><lpage>26</lpage><pub-id pub-id-type="pmid">15554943</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1432-0436.2004.07207003.x</pub-id></element-citation></ref><ref id="R22"><label>22</label><element-citation publication-type="journal"><name name-style="western"><surname>Blalock</surname><given-names>EM</given-names></name><name name-style="western"><surname>Geddes</surname><given-names>JW</given-names></name><name name-style="western"><surname>Chen</surname><given-names>KC</given-names></name><name name-style="western"><surname>Porter</surname><given-names>NM</given-names></name><name name-style="western"><surname>Markesbery</surname><given-names>WR</given-names></name><name name-style="western"><surname>Landfield</surname><given-names>PW</given-names></name><article-title>Incipient Alzheimer's disease: microarray correlation analyses reveal major transcriptional and tumor suppressor responses</article-title><source>Proc Natl Acad Sci U S A</source><year>2004</year><volume>101</volume><fpage>2173</fpage><lpage>8</lpage><pub-id pub-id-type="pmid">14769913</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0308512100</pub-id><pub-id pub-id-type="pmcid">PMC357071</pub-id></element-citation></ref><ref id="R23"><label>23</label><element-citation publication-type="journal"><name name-style="western"><surname>Subramanian</surname><given-names>A</given-names></name><name name-style="western"><surname>Tamayo</surname><given-names>P</given-names></name><name name-style="western"><surname>Mootha</surname><given-names>VK</given-names></name><name name-style="western"><surname>Mukherjee</surname><given-names>S</given-names></name><name name-style="western"><surname>Ebert</surname><given-names>BL</given-names></name><name name-style="western"><surname>Gillette</surname><given-names>MA</given-names></name><name name-style="western"><surname>Paulovich</surname><given-names>A</given-names></name><name name-style="western"><surname>Pomeroy</surname><given-names>SL</given-names></name><name name-style="western"><surname>Golub</surname><given-names>TR</given-names></name><name name-style="western"><surname>Lander</surname><given-names>ES</given-names></name><name name-style="western"><surname>Mesirov</surname><given-names>JP</given-names></name><article-title>Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles</article-title><source>Proc Natl Acad Sci U S A</source><year>2005</year><volume>102</volume><fpage>15545</fpage><lpage>50</lpage><pub-id pub-id-type="pmid">16199517</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0506580102</pub-id><pub-id pub-id-type="pmcid">PMC1239896</pub-id></element-citation></ref><ref id="R24"><label>24</label><element-citation publication-type="journal"><name name-style="western"><surname>Bonuccelli</surname><given-names>G</given-names></name><name name-style="western"><surname>Whitaker-Menezes</surname><given-names>D</given-names></name><name name-style="western"><surname>Castello-Cros</surname><given-names>R</given-names></name><name name-style="western"><surname>Pavlides</surname><given-names>S</given-names></name><name name-style="western"><surname>Pestell</surname><given-names>RG</given-names></name><name name-style="western"><surname>Fatatis</surname><given-names>A</given-names></name><name name-style="western"><surname>Witkiewicz</surname><given-names>AK</given-names></name><name name-style="western"><surname>Vander</surname><given-names>Heiden MG</given-names></name><name name-style="western"><surname>Migneco</surname><given-names>G</given-names></name><name name-style="western"><surname>Chiavarina</surname><given-names>B</given-names></name><name name-style="western"><surname>Frank</surname><given-names>PG</given-names></name><name name-style="western"><surname>Capozza</surname><given-names>F</given-names></name><name name-style="western"><surname>Flomenberg</surname><given-names>N</given-names></name><name name-style="western"><surname>Martinez-Outschoorn</surname><given-names>UE</given-names></name><name name-style="western"><surname>Sotgia</surname><given-names>F</given-names></name><name name-style="western"><surname>Lisanti</surname><given-names>MP</given-names></name><article-title>The Reverse Warburg Effect: Glycolysis Inhibitors Prevent the Tumor Promoting Effects of Caveolin-1 Deficient Cancer Associated Fibroblasts</article-title><source>Cell Cycle</source><year>2010</year><volume>9</volume><fpage>In Press</fpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.4161/cc.9.10.11601</pub-id><pub-id pub-id-type="pmid">20495363</pub-id></element-citation></ref><ref id="R25"><label>25</label><element-citation publication-type="journal"><name name-style="western"><surname>Benita</surname><given-names>Y</given-names></name><name name-style="western"><surname>Kikuchi</surname><given-names>H</given-names></name><name name-style="western"><surname>Smith</surname><given-names>AD</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>MQ</given-names></name><name name-style="western"><surname>Chung</surname><given-names>DC</given-names></name><name name-style="western"><surname>Xavier</surname><given-names>RJ</given-names></name><article-title>An integrative genomics approach identifies Hypoxia Inducible Factor-1 (HIF-1)-target genes that form the core response to hypoxia</article-title><source>Nucleic Acids Res</source><year>2009</year><volume>37</volume><fpage>4587</fpage><lpage>602</lpage><pub-id pub-id-type="pmid">19491311</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkp425</pub-id><pub-id pub-id-type="pmcid">PMC2724271</pub-id></element-citation></ref><ref id="R26"><label>26</label><element-citation publication-type="journal"><name name-style="western"><surname>Lovas</surname><given-names>A</given-names></name><name name-style="western"><surname>Radke</surname><given-names>D</given-names></name><name name-style="western"><surname>Albrecht</surname><given-names>D</given-names></name><name name-style="western"><surname>Yilmaz</surname><given-names>ZB</given-names></name><name name-style="western"><surname>Moller</surname><given-names>U</given-names></name><name name-style="western"><surname>Habenicht</surname><given-names>AJ</given-names></name><name name-style="western"><surname>Weih</surname><given-names>F</given-names></name><article-title>Differential RelA- and RelB-dependent gene transcription in LTbetaR-stimulated mouse embryonic fibroblasts</article-title><source>BMC Genomics</source><year>2008</year><volume>9</volume><fpage>606</fpage><pub-id pub-id-type="pmid">19087315</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2164-9-606</pub-id><pub-id pub-id-type="pmcid">PMC2637282</pub-id></element-citation></ref><ref id="R27"><label>27</label><element-citation publication-type="journal"><name name-style="western"><surname>Yao</surname><given-names>J</given-names></name><name name-style="western"><surname>Irwin</surname><given-names>RW</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>L</given-names></name><name name-style="western"><surname>Nilsen</surname><given-names>J</given-names></name><name name-style="western"><surname>Hamilton</surname><given-names>RT</given-names></name><name name-style="western"><surname>Brinton</surname><given-names>RD</given-names></name><article-title>Mitochondrial bioenergetic deficit precedes Alzheimer's pathology in female mouse model of Alzheimer's disease</article-title><source>Proc Natl Acad Sci U S A</source><year>2009</year><volume>106</volume><fpage>14670</fpage><lpage>5</lpage><pub-id pub-id-type="pmid">19667196</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0903563106</pub-id><pub-id pub-id-type="pmcid">PMC2732886</pub-id></element-citation></ref><ref id="R28"><label>28</label><element-citation publication-type="journal"><name name-style="western"><surname>van</surname><given-names>'t Veer LJ</given-names></name><name name-style="western"><surname>Dai</surname><given-names>H</given-names></name><name name-style="western"><surname>van</surname><given-names>de Vijver MJ</given-names></name><name name-style="western"><surname>He</surname><given-names>YD</given-names></name><name name-style="western"><surname>Hart</surname><given-names>AA</given-names></name><name name-style="western"><surname>Mao</surname><given-names>M</given-names></name><name name-style="western"><surname>Peterse</surname><given-names>HL</given-names></name><name name-style="western"><surname>van der Kooy</surname><given-names>K</given-names></name><name name-style="western"><surname>Marton</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Witteveen</surname><given-names>AT</given-names></name><name name-style="western"><surname>Schreiber</surname><given-names>GJ</given-names></name><name name-style="western"><surname>Kerkhoven</surname><given-names>RM</given-names></name><name name-style="western"><surname>Roberts</surname><given-names>C</given-names></name><name name-style="western"><surname>Linsley</surname><given-names>PS</given-names></name><name name-style="western"><surname>Bernards</surname><given-names>R</given-names></name><name name-style="western"><surname>Friend</surname><given-names>SH</given-names></name><article-title>Gene expression profiling predicts clinical outcome of breast cancer</article-title><source>Nature</source><year>2002</year><volume>415</volume><fpage>530</fpage><lpage>6</lpage><pub-id pub-id-type="pmid">11823860</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/415530a</pub-id></element-citation></ref><ref id="R29"><label>29</label><element-citation publication-type="journal"><name name-style="western"><surname>Liu</surname><given-names>S</given-names></name><name name-style="western"><surname>Tan</surname><given-names>WY</given-names></name><name name-style="western"><surname>Chen</surname><given-names>QR</given-names></name><name name-style="western"><surname>Chen</surname><given-names>XP</given-names></name><name name-style="western"><surname>Fu</surname><given-names>K</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>YY</given-names></name><name name-style="western"><surname>Chen</surname><given-names>ZW</given-names></name><article-title>Daintain/AIF-1 promotes breast cancer proliferation via activation of the NF-kappaB/cyclin D1 pathway and facilitates tumor growth</article-title><source>Cancer Sci</source><year>2008</year><volume>99</volume><fpage>952</fpage><lpage>7</lpage><pub-id pub-id-type="pmid">18341653</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1349-7006.2008.00787.x</pub-id><pub-id pub-id-type="pmcid">PMC11159275</pub-id></element-citation></ref><ref id="R30"><label>30</label><element-citation publication-type="journal"><name name-style="western"><surname>Del Galdo</surname><given-names>F</given-names></name><name name-style="western"><surname>Jimenez</surname><given-names>SA</given-names></name><article-title>T cells expressing allograft inflammatory factor 1 display increased chemotaxis and induce a profibrotic phenotype in normal fibroblasts in vitro</article-title><source>Arthritis Rheum</source><year>2007</year><volume>56</volume><fpage>3478</fpage><lpage>88</lpage><pub-id pub-id-type="pmid">17907195</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/art.22877</pub-id></element-citation></ref><ref id="R31"><label>31</label><element-citation publication-type="journal"><name name-style="western"><surname>Otieno</surname><given-names>FG</given-names></name><name name-style="western"><surname>Lopez</surname><given-names>AM</given-names></name><name name-style="western"><surname>Jimenez</surname><given-names>SA</given-names></name><name name-style="western"><surname>Gentiletti</surname><given-names>J</given-names></name><name name-style="western"><surname>Artlett</surname><given-names>CM</given-names></name><article-title>Allograft inflammatory factor-1 and tumor necrosis factor single nucleotide polymorphisms in systemic sclerosis</article-title><source>Tissue Antigens</source><year>2007</year><volume>69</volume><fpage>583</fpage><lpage>91</lpage><pub-id pub-id-type="pmid">17498268</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1399-0039.2007.00830.x</pub-id></element-citation></ref><ref id="R32"><label>32</label><element-citation publication-type="journal"><name name-style="western"><surname>Del Galdo</surname><given-names>F</given-names></name><name name-style="western"><surname>Maul</surname><given-names>GG</given-names></name><name name-style="western"><surname>Jimenez</surname><given-names>SA</given-names></name><name name-style="western"><surname>Artlett</surname><given-names>CM</given-names></name><article-title>Expression of allograft inflammatory factor 1 in tissues from patients with systemic sclerosis and in vitro differential expression of its isoforms in response to transforming growth factor beta</article-title><source>Arthritis Rheum</source><year>2006</year><volume>54</volume><fpage>2616</fpage><lpage>25</lpage><pub-id pub-id-type="pmid">16868985</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/art.22010</pub-id></element-citation></ref></ref-list></back></article></pmc-articleset>

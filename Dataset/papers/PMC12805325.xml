@@ -1,0 +1,694 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz70959" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12805325</article-id><article-id pub-id-type="pmcid-ver">PMC12805325.1</article-id><article-id pub-id-type="pmcaid">12805325</article-id><article-id pub-id-type="pmcaiid">12805325</article-id><article-id pub-id-type="pmid">41536252</article-id><article-id pub-id-type="doi">10.1002/alz.70959</article-id><article-id pub-id-type="publisher-id">ALZ70959</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Brain‐peripheral proteome crosstalk in Alzheimer's disease with and without diabetes mellitus</article-title><alt-title alt-title-type="left-running-head">MEIR <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz70959-cr-0001" contrib-type="author"><name name-style="western"><surname>Yaskolka Meir</surname><given-names initials="A">Anat</given-names></name><xref rid="alz70959-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70959-cr-0002" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="X">Xingyan</given-names></name><xref rid="alz70959-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70959-cr-0003" contrib-type="author"><name name-style="western"><surname>Tasaki</surname><given-names initials="S">Shinya</given-names></name><xref rid="alz70959-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70959-cr-0004" contrib-type="author"><name name-style="western"><surname>Sarsani</surname><given-names initials="V">Vishal</given-names></name><xref rid="alz70959-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70959-cr-0005" contrib-type="author"><name name-style="western"><surname>Buchman</surname><given-names initials="AS">Aron S.</given-names></name><xref rid="alz70959-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70959-cr-0006" contrib-type="author"><name name-style="western"><surname>Arnold</surname><given-names initials="SE">Steven E.</given-names></name><xref rid="alz70959-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz70959-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz70959-cr-0007" contrib-type="author"><name name-style="western"><surname>Bennett</surname><given-names initials="DA">David A.</given-names></name><xref rid="alz70959-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70959-cr-0008" contrib-type="author"><name name-style="western"><surname>Petyuk</surname><given-names initials="VA">Vladislav A.</given-names></name><xref rid="alz70959-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz70959-cr-0009" contrib-type="author"><name name-style="western"><surname>Liang</surname><given-names initials="L">Liming</given-names></name><xref rid="alz70959-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70959-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="alz70959-cr-0010" contrib-type="author"><name name-style="western"><surname>Capuano</surname><given-names initials="AW">Ana W.</given-names></name><xref rid="alz70959-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70959-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70959-cr-0011" contrib-type="author" corresp="yes"><name name-style="western"><surname>Arvanitakis</surname><given-names initials="Z">Zoe</given-names></name><xref rid="alz70959-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>Zoe_Arvanitakis@rush.edu</email></address></contrib></contrib-group><aff id="alz70959-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Epidemiology</named-content>
+<institution>Harvard T H Chan School of Public Health</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70959-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Rush Alzheimer's Disease Center</named-content>
+<institution>Rush University Medical Center</institution>
+<city>Chicago</city>
+<named-content content-type="country-part">Illinois</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70959-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Massachusetts General Hospital, Harvard Medical School</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70959-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Alzheimer's Clinical and Translational Research Unit, Department of Neurology</named-content>
+<institution>Massachusetts General Hospital</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70959-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Biological Sciences Division</named-content>
+<institution>Pacific Northwest National Laboratory</institution>
+<city>Richland</city>
+<named-content content-type="country-part">Washington</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70959-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biostatistics</named-content>
+<institution>Harvard T H Chan School of Public Health</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Zoe Arvanitakis, Cognitive Neurologist and Professor, Rush Alzheimer's Disease Center, 1750 W. Harrison Street, Suite 1000, Chicago, IL, USA.<break/> Email: <email>Zoe_Arvanitakis@rush.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>1</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2026</year></pub-date><volume>22</volume><issue seq="450">1</issue><issue-id pub-id-type="pmc-issue-id">503538</issue-id><issue-id pub-id-type="doi">10.1002/alz.v22.1</issue-id><elocation-id>e70959</elocation-id><history><date date-type="rev-recd"><day>21</day><month>10</month><year>2025</year></date><date date-type="received"><day>11</day><month>7</month><year>2025</year></date><date date-type="accepted"><day>25</day><month>10</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>15</day><month>01</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>16</day><month>01</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-16 17:25:13.507"><day>16</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-22-e70959.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-22-e70959.pdf"/><abstract><title>Abstract</title><sec id="alz70959-sec-0010"><title>BACKGROUND</title><p>Although considerable research has investigated diabetes mellitus (DM) as a risk factor for Alzheimer's disease (AD) dementia, the mechanistic understanding of the associations between peripheral and central biological processes in AD and AD within DM remains limited.</p></sec><sec id="alz70959-sec-0020"><title>METHODS</title><p>We performed tandem mass tag‐based phosphoproteome profiling on postmortem prefrontal cortex (<italic toggle="yes">n</italic> = 191), deltoid muscle (<italic toggle="yes">n</italic> = 191), and antemortem serum (<italic toggle="yes">n</italic> = 96) from older adults with/without pathologic AD and with/without DM (DM/NDM).</p></sec><sec id="alz70959-sec-0030"><title>RESULTS</title><p>We observed significant brain–muscle and brain–serum correlations in phosphorylated and unphosphorylated peptides. Among individuals with DM, 59 were with AD and 36 were without. Among NDM, 63 were with AD and 33 were without. In a differential expression analysis, muscle phosphorylated seryl‐tRNA synthetase 2 (SARS2)‐S126 was significantly expressed in pathologic AD, whereas relative abundance of serum alpha‐2‐HS‐glycoprotein (AHSG)‐S346 and insulin‐like growth factor binding protein 2 (IGFBP2)‐S142 showed marginal expression for AD within the DM strata.</p></sec><sec id="alz70959-sec-0040"><title>CONCLUSIONS</title><p>Elucidating central and peripheral proteome crosstalk is valuable for uncovering potential AD biomarkers in accessible (peripheral) biospecimens.</p></sec><sec id="alz70959-sec-0050"><title>Highlights</title><p>
+<list list-type="bullet" id="alz70959-list-0001"><list-item><p>We profiled peptides in brain, muscle, and serum biosamples.</p></list-item><list-item><p>The study design allowed discovery of diabetes‐associated peptides in Alzheimer's disease (AD).</p></list-item><list-item><p>Strong brain–muscle, but weaker brain–serum peptide correlations were identified.</p></list-item><list-item><p>Muscle seryl‐tRNA synthetase 2‐S126 was linked to AD pathology.</p></list-item><list-item><p>Serum insulin‐like growth factor binding protein 2‐S142 and alpha‐2‐HS‐glycoprotein‐S346 were linked to AD in persons with diabetes.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz70959-kwd-0001">Alzheimer's disease</kwd><kwd id="alz70959-kwd-0002">diabetes mellitus</kwd><kwd id="alz70959-kwd-0003">multi‐tissue omics</kwd><kwd id="alz70959-kwd-0004">neurodegeneration</kwd><kwd id="alz70959-kwd-0005">peptides</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>National Institute on Aging</institution><institution-id institution-id-type="doi">10.13039/100000049</institution-id></institution-wrap>
+</funding-source></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>National Institute of Neurological Disorders and Stroke</institution><institution-id institution-id-type="doi">10.13039/100000065</institution-id></institution-wrap>
+</funding-source><award-id>R01NS084965</award-id><award-id>RF1AG059621</award-id><award-id>R01AG074549</award-id><award-id>P30AG10161</award-id><award-id>P30AG072975</award-id><award-id>R01AG017917</award-id><award-id>U01AG61356</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Council for Higher Education</institution><institution-id institution-id-type="doi">10.13039/501100005385</institution-id></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="1"/><page-count count="13"/><word-count count="7871"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.8 mode:remove_FC converted:15.01.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz70959-cite-0001">
+<string-name name-style="western">
+<surname>Yaskolka Meir</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tasaki</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Brain‐peripheral proteome crosstalk in Alzheimer's disease with and without diabetes mellitus</article-title>. <source>Alzheimer's Dement</source>. <year>2026</year>;<volume>22</volume>:<elocation-id>e70959</elocation-id>. <pub-id pub-id-type="doi">10.1002/alz.70959</pub-id>
+<pub-id pub-id-type="pmid">41536252</pub-id></mixed-citation>
+</p></notes></front><body><sec id="alz70959-sec-0060"><label>1</label><title>BACKGROUND</title><p>Alzheimer's disease (AD) is a progressive neurodegenerative disorder and the most common single cause of dementia, characterized by memory loss, cognitive decline, behavioral changes, and a gradual loss of independence and eventual demise.<xref rid="alz70959-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Diabetes mellitus (DM) is an established, common, and modifiable risk factor for dementia, most often attributed to AD.<xref rid="alz70959-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Investigating cross‐tissue protein expression enhances our understanding of AD, including mechanistic pathobiology, novel biomarkers, and novel therapeutic targets.<xref rid="alz70959-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> AD affects multiple tissues and organs, beyond the brain, such as blood vessels,<xref rid="alz70959-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> peripheral nerves, and muscle.<xref rid="alz70959-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> In addition, there is evidence of a crosstalk between the brain and muscle. For example, releasing myokines from the muscle influences brain function,<xref rid="alz70959-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> whereas the brain regulates muscle activity and metabolism through neural and endocrine pathways.<xref rid="alz70959-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Thus, identifying commonalities and differences in the proteins expressed across different tissues and biofluids may provide insights into the molecular mechanisms underlying AD. Moreover, cross‐tissue protein expression can help identify biomarkers for AD diagnosis, prediction, prognosis, and treatment selection, as well as monitor disease course/response to therapies.</p><p>Previous large‐scale proteomics studies have examined differential protein expression in the frontal cortex or other brain regions affected by AD between different stages of AD and between individuals with or without AD.<xref rid="alz70959-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz70959-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> In particular, a recent study has generated deep proteomic profiles of the brain, cerebrospinal fluid (CSF), and plasma to differentiate cases of AD and controls.<xref rid="alz70959-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> The researchers characterized sporadic AD and genetically defined AD subtypes, as well as healthy individuals, by using proteins from different tissues, and found common proteins associated with AD status across tissues. Yet, these studies mostly highlighted the overlapping proteins and peptides in tissue‐specific analysis and their expression in AD. Moreover, no study has examined the proteomic cross‐tissue and cross‐biosample expression in brain, muscle, and serum in relation to AD and AD with/without DM.</p><p>To study the proteomic crosstalk between central (brain) and peripheral (muscle, serum), we used antemortem (serum) and postmortem (brain and muscle) biosamples from the Rush Memory and Aging Project (MAP) study in older, deceased, and autopsied individuals with and without AD/DM. We determined tissue‐ and biosample‐specific protein expression by measuring phosphorylated and unphosphorylated peptides in brain, muscle, and serum, as phosphorylation reflects dynamic post‐translational modifications involved in cell signaling, whereas non‐phosphorylated peptides reflect the protein abundance measured based on different sequence regions. We correlated phosphorylated and unphosphorylated peptides from the brain with muscle and serum peptides to examine the expression of cross‐tissue and cross‐biosample peptides. We examined differential expression in pathologic AD, and pathologic AD with and without DM, in muscle and serum phosphorylated and unphosphorylated peptides. Building upon previously uncovered brain phosphorylated peptides associated with pathologic AD<xref rid="alz70959-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> and genes related to insulin signaling pathways in the periphery,<xref rid="alz70959-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz70959-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz70959-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> we further studied differential peptide expression in pathologic AD and pathologic AD with and without DM in muscle and serum biosamples.</p></sec><sec id="alz70959-sec-0070"><label>2</label><title>METHODS</title><sec id="alz70959-sec-0080"><label>2.1</label><title>Participants</title><p>MAP is an ongoing community‐based clinical–pathologic study of aging that started in 1997. This study received approval from the Rush University Medical Center Institutional Review Board. All participants signed informed and repository consents, and an Anatomic Gift Act for brain donation at the time of death.<xref rid="alz70959-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> A balanced sample of 96 deceased participants with DM and 96 deceased without DM participants was obtained using a minimum multivariate Mahalanobis Distance algorithm in age at death (matching within 5 years), years of formal education (matching within 4 years), and postmortem interval (PMI; matching within 12 h of death) within each sex.</p></sec><sec id="alz70959-sec-0090"><label>2.2</label><title>Brain and muscle biosamples</title><p>Participants’ brains underwent an autopsy and uniform neuropathologic evaluation at the Rush University Medical Center, under the supervision of a board‐certified neuropathologist. More details can be found elsewhere.<xref rid="alz70959-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Briefly, brains were weighed and tissue was either frozen or fixed in paraformaldehyde. Upon brain dissection, grossly visible and suspected brain lesions were sampled for histologic analysis.</p><p>Bilateral deltoid muscle was sampled at autopsy from 192 decedents, yielding 384 total muscle specimens. For each participant, the acromial region skin was dissected and retracted, and the deltoid muscle was exposed by fascial dissection. Subsequently, four 1 cm × 0.3 cm samples of deltoid muscle were longitudinally dissected. Following procurement, each muscle sample was snap‐frozen in liquid nitrogen‐cooled isopentane (2‐methylbutane). After complete freezing, the sample was removed from isopentane, and the frozen muscle strips were stored in scintillation vials at –80°C until experimentation.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz70959-sec-0100"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz70959-list-0002"><list-item><p>
+<bold>Systematic review</bold>: Using PubMed and other online databases, we found no prior analyses that combined peptides from brain, muscle, and serum in older adults with or without pathologic Alzheimer's disease (AD). Our study is the first to include postmortem muscle peptides for the discovery of peripheral biomarkers for AD.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: Comprehensive proteomic profiling revealed thousands of peptides across postmortem brain and muscle, and antemortem serum, with substantial molecular overlap and correlation between brain and muscle, and a weaker brain–serum correlation. Muscle seryl‐tRNA synthetase 2‐S126 showed differential expression in AD pathology. Serum insulin‐like growth factor binding protein 2‐S142 and alpha‐2‐HS‐glycoprotein‐S346 showed differential expression in AD within diabetes strata. These results highlight significant, disease‐relevant crosstalk between brain and peripheral tissues in AD with/without diabetes.</p></list-item><list-item><p>
+<bold>Future directions</bold>: Future studies will focus on validating and replicating results across different datasets and populations to explore peripheral tissues for early detection and therapeutic targeting in AD and related conditions.</p></list-item></list>
+</p></sec></boxed-text></sec><sec id="alz70959-sec-0110"><label>2.3</label><title>Serum biosamples</title><p>Blood samples were collected at baseline and annually by trained phlebotomists. Blood biosamples underwent a rapid processing procedure, including centrifugation and freezing of aliquots, for storage at the Rush laboratory. For this study, we used one aliquot of frozen serum (0.5 mL), selecting the sample available for research that was the most proximate to death.</p></sec><sec id="alz70959-sec-0120"><label>2.4</label><title>Sample management</title><p>A total of 192 brains (dorsolateral prefrontal cortex) and 192 muscles (deltoid) were identified from the same individuals. Matched serum pairs (<italic toggle="yes">n</italic> = 96 used in the analysis) were selected based on the sum of the time from serum extraction to date of death. We ordered the pair‐based sums of these times and selected 48 (target pairs) + 2 extra pairs (in case of issues) with the smallest pair‐based sums. All samples were shipped to the laboratory of Proteome Sciences in Frankfurt, Germany, for peptide and protein abundance analysis. Samples were stored at –80°C, and details were recorded in Proteome Sciences’ Laboratory Information Management System (LIMS) under a unique reference number. Biosamples lysis and quality control are detailed in Supplementary Methods <xref rid="alz70959-supinfo-0001" ref-type="">1</xref>.</p></sec><sec id="alz70959-sec-0130"><label>2.5</label><title>Protein and peptide abundance</title><p>Abundant proteins were removed from serum samples using the High Select Top14 Abundant Protein Depletion resin (Pierce) (Supplementary Methods <xref rid="alz70959-supinfo-0001" ref-type="">2</xref>). Muscle lysates and depleted serum samples were precipitated with acetone at a 1:5 ratio (vol/vol) overnight at –20°C. Precipitates were pelleted by centrifugation at 14,000 rpm for 15 min in an Eppendorf centrifuge at 4°C. The supernatant was discarded, and the precipitate was dried for 5 min at room temperature. Samples were resolubilized in SysQuant (SQL) buffer by extensive vortexing. Protein Digestion and tandem mass tags (TMTpro) labeling are detailed in Supplementary Methods <xref rid="alz70959-supinfo-0001" ref-type="">3</xref>. Brain tissue from the dorsolateral prefrontal cortex (DLPFC) was used for this study, and protein and peptide abundance methods were detailed previously.<xref rid="alz70959-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</p><p>The TMTpro 18plex samples were split into portions of 50 µg (for labeling efficiency and ratio checks, purified via followed by tandem solid phase extraction (Oasis HLB [Waters] and strong cation exchange [SP Sepharose Fast Flow, Sigma]), and a remainder that was purified via Sep‐Pak tC18. The eluates were split into 100 µg for basic reversed‐phase fractionation of the non‐enriched arm, 100 µg as a backup, and a remainder for ion metal affinity chromatography (IMAC) phosphopeptide enrichment followed by basic reversed‐phase fractionation. For the enrichment of phosphopeptides, the High Select Fe‐NTA IMAC Phosphopeptide Enrichment Kit (Thermo Scientific Pierce) was used according to the manufacturer's instructions. Samples were dried and stored at –80°C until further use. Fractionation by basic pH reversed‐phase chromatography is detailed in Supplementary Methods <xref rid="alz70959-supinfo-0001" ref-type="">4</xref>.</p></sec><sec id="alz70959-sec-0140"><label>2.6</label><title>Protein data acquisition and peptide quantification</title><p>Each bRP fraction was analyzed by LC‐MS/MS using an EASY‐nLCTM 1000 system coupled to an Orbitrap Fusion Tribrid Mass Spectrometer (Thermo Scientific, Waltham, MA, USA). Further description of data acquisition is available in Supplementary Methods <xref rid="alz70959-supinfo-0001" ref-type="">5</xref>. All mass spectrometry data files were processed in Proteome Discoverer v2.5 (Thermo Scientific). Spectra were searched against the human protein sequences from UniProtKB (version from January 2022) and a database of standard laboratory contaminants using the SEQUEST‐HT MS/MS search engine. Enzyme specificity was set to trypsin with up to two missed cleavages. Precursor mass tolerance was set to 10 ppm, whereas the fragment tolerance was set to 0.02 Da. TMTpro modification of N‐termini and lysine residues, and carbamidomethylation of cysteine residues, were set as static modifications for all searches, whereas methionine oxidation was set as a variable modification for all searches; phosphorylation at serine, threonine, and tyrosine was set as an additional variable modification for the IMAC‐enriched fractions. TMTpro reporter intensities were extracted from the MS2 spectra with 20 ppm mass tolerance. All peptide‐spectrum matches with quantified reporter intensities were filtered at 1% target false discovery rate (FDR) of identification (high confidence setting) and exported to tab‐delimited text files for data analysis. Sample outliers were identified through visual inspection of the distribution patterns of log<sub>2</sub> ratio abundances of all peptides (phosphopeptides and unphosphorylated), resulting in the exclusion of one sample outlier, as detailed previously,<xref rid="alz70959-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> resulting in a sample set of 191 for brain and muscle.</p></sec><sec id="alz70959-sec-0150"><label>2.7</label><title>Peptide identification</title><p>To further filter phosphopeptide identifications in brain, muscle, and serum, we excluded those with low localization confidence of the phosphosites and those that can be mapped to multiple proteins (non‐unique protein groups). As for unphosphorylated peptides, we excluded those that cannot be uniquely mapped to a protein group. Next, we scaled the data at each peptide using the “scale” R function to achieve a mean of 0 and SD of 1. Based on gene name and global position, we aggregated the phosphorylated peptides by calculating the average at a higher level (i.e., the position of the peptide within the full‐length protein sequence associated with the UniProtKB accession). We did not aggregate the unphosphorylated peptides to the protein level. This was due to the absence of global position information, which prevented the consistent construction of identifiers based on gene name and position. As a result, unphosphorylated peptides were retained at the peptide level using the GeneNamePreferred:Sequence format as their unique identifier. This study's identification method was selected due to the multi‐tissue and multi‐biosample correlations included in this study, allowing us to retain both the sequence‐specific and modification‐specific information.</p><p>We performed multiple analyses at the peptide (peptide‐by‐peptide analysis) and overall levels (accounting for all peptides) to carefully assess potential batch effects. At the peptide level, we conducted an analysis of variance (ANOVA) for each peptide. After applying the Bonferroni correction, no significant peptides were identified for any brain, muscle, or serum data, suggesting the absence of batch effects within the biosample group. To evaluate batch effects across all peptides collectively, we employed multidimensional scaling (MDS) to derive the top three principal components (PCs) for each individual biosample group, based on all peptides within that group. We then used an ANOVA model to test for batch effects by regressing each PC against the batch. In addition, we applied a multivariate ANOVA (MANOVA) model to assess all three PCs simultaneously. All results indicated no significant batch effect, with a <italic toggle="yes">p</italic>‐value &gt; 0.99. Nevertheless, we added sensitivity analysis adjusting for plex number, as done previously.<xref rid="alz70959-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</p></sec><sec id="alz70959-sec-0160"><label>2.8</label><title>Alzheimer's disease pathology</title><p>The neuropathologic assessment of AD followed the National Institute on Aging–Alzheimer's Association (NIA‐AA) consensus guidelines. The severity level of AD neuropathologic change is ascertained based on the Thal Phases of amyloid beta (Aβ) deposition (“A”), Braak staging for neurofibrillary degeneration (“B”), and Consortium to Establish a Registry for Alzheimer's Disease (CERAD) neuritic plaque score (“C”). The methods to obtain Braak and CERAD were described in detail previously.<xref rid="alz70959-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz70959-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> For dichotomized grading, high or intermediate likelihood of AD by NIA‐AA pathologic criteria is considered as AD present (labeled as AD high or ADH), whereas low likelihood or no AD are considered as AD absent (labeled as AD low or ADL). The guidelines are described in detail elsewhere.<xref rid="alz70959-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+</p></sec><sec id="alz70959-sec-0170"><label>2.9</label><title>Diabetes status</title><p>For brain and muscle peptide analysis, the diabetes status was obtained during baseline and annual visits based on self‐reported medical history (standardized questions) and/or the use of anti‐diabetic medications (insulin or any other agent) based on visual inspection of all medical receptacles and recording of name, dosage, and frequency into an electronic form for data capture and coding (MediSpan). Participants who had a positive diabetes status at any time point during the study were classified as having DM for these analyses. Otherwise, they were classified as no DM (NDM). For serum peptide analysis, diabetes status was based on data as described, but obtained from only the closest evaluation point to the serum blood draw used for the peptide data collection.</p></sec><sec id="alz70959-sec-0180"><label>2.10</label><title>Main covariates</title><p>The following covariates were used in all models with postmortem brain and muscle data: PMI (the time interval between death and tissue preservation, in hours), sex (self‐reported), age at first visit, and age at death. For all analyses with serum data, we replaced age at death with age at blood draw (for serum peptide analysis) and removed the PMI term.</p></sec><sec id="alz70959-sec-0190"><label>2.11</label><title>Statistical analysis</title><p>The main covariates are presented as means ± SDs or percentages. We examined correlations between pairs of overlapping (annotated to the same protein) brain–muscle and brain–serum phosphorylated and unphosphorylated peptides using the Pearson correlation, with brain and muscle abundance matrices adjusted for PMI to remove the potential effect of postmortem proteome degradation and phosphorylation/dephosphorylation.<xref rid="alz70959-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70959-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> The top 10 (5 positively and 5 negatively correlated peptides) for each pair of biosamples, for phosphorylated and unphosphorylated peptides separately, were visualized using the “circlize” R package.</p><p>To examine the associations with pathologic AD and AD by DM interaction (AD×DM) within each biosample, we fit linear regression models with the peptides as the outcome. The primary predictors were binary indicators for pathologic AD (1 vs 0) and DM (1 vs 0), and their interaction term (AD×DM), defined as the product of the two indicators (AD×DM = 1 only when both AD and DM are present). For analysis of muscle, covariates included sex, PMI, and age at death. For analysis of serum (collected antemortem), covariates included sex and age at blood draw. We reported beta coefficients from the linear models and assessed total association with AD using a two‐degree freedom likelihood ratio test (LRT) for AD and AD×DM coefficients. We further stratified the analysis in DM/NDM strata. We corrected the significance level for multiple comparisons using Benjamini–Hochberg (BH) FDR, setting an FDR of 0.05 as the threshold for significance, and 0.1 for marginally significant. Gene‐set enrichment analysis was carried out using the “clusterProfiler” R package, correcting for multiple comparisons using BH, <italic toggle="yes">p</italic>‐value cutoff of 0.05, and <italic toggle="yes">q</italic>‐value cutoff of 0.2. For a more comprehensive understanding, we extracted functional characteristics from three different and established pathway categories: Gene Ontology (GO), Kyoto Encyclopedia of Genes and Genomes (KEGG), and Reactome. All statistical analyses were conducted using the R package, version 4.2.3.</p></sec></sec><sec id="alz70959-sec-0200"><label>3</label><title>RESULTS</title><sec id="alz70959-sec-0210"><label>3.1</label><title>Characteristics of the deceased individuals</title><p>Study design and participant characteristics are presented in Figure <xref rid="alz70959-fig-0001" ref-type="fig">1A</xref>,<xref rid="alz70959-fig-0001" ref-type="fig">B</xref>. We included proteome expression obtained from the brain and muscle of 191 deceased individuals with death at a mean age of 89.9 ± 5.72 years; 65% women. Two‐thirds of participants (64%) met pathologic criteria for AD, and by design, 50% had DM during the study. We further classified the individuals according to AD (per brain pathology)/DM (ever) status: 59 individuals were classified as having AD pathology with DM, 63 as having AD pathology without DM, 36 were without AD pathology but had DM, 36 were without AD pathology but had DM, and 33 were without either AD pathology or DM. Table <xref rid="alz70959-tbl-0001" ref-type="table">1</xref> presents the characteristics of the deceased individuals by DM status.</p><fig position="float" fig-type="FIGURE" id="alz70959-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>(A−D) Study design, background characteristics, and number of peptides across biosamples. (A) Study design; <italic toggle="yes">n</italic> = 192 men and women began follow‐up with a median age difference from baseline to death of 7.9 years, followed by brain and muscle harvesting. Half of the sample (<italic toggle="yes">n</italic> = 96) was selected for serum analysis. Peptide identification and quantification was carried out by LC‐MS/MS. (B) Sex, AD, AD by DM status, and age across annual clinical evaluations for the <italic toggle="yes">n</italic> = 191 included in the analysis. (C) Venn diagram showing the number of unique and overlapping phosphorylated peptides across biosamples. (D) Venn diagram showing the number of unique and overlapping unphosphorylated peptides across biosamples. AD, Alzheimer's disease; ADH, pathologic AD; ADL, no pathologic AD; DM, diabetes mellitus; NDM, no diabetes mellitus; PMI, postmortem interval; QC, quality control.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-22-e70959-g002.jpg"/></fig><table-wrap position="float" id="alz70959-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Characteristics of the deceased individuals across DM status.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Entire sample (<italic toggle="yes">n</italic> = 191)</th><th align="left" rowspan="1" colspan="1">DM<xref rid="alz70959-tbl1-note-0002" ref-type="table-fn">
+<sup>1</sup>
+</xref> (<italic toggle="yes">n</italic> = 95)</th><th align="left" rowspan="1" colspan="1">NDM<xref rid="alz70959-tbl1-note-0002" ref-type="table-fn">
+<sup>1</sup>
+</xref> (<italic toggle="yes">n</italic> = 96)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Women, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">125 (65%)</td><td align="char" rowspan="1" colspan="1">62 (65%)</td><td align="char" rowspan="1" colspan="1">63 (66%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Years of education, mean (SD)</td><td align="char" rowspan="1" colspan="1">14.1 (2.9)</td><td align="char" rowspan="1" colspan="1">14.0 (3.0)</td><td align="char" rowspan="1" colspan="1">14.2 (2.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age at death in years, mean (SD)</td><td align="char" rowspan="1" colspan="1">89.9 (5.7)</td><td align="char" rowspan="1" colspan="1">89.5 (6.0)</td><td align="char" rowspan="1" colspan="1">90.3 (5.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">PMI in hours, median (min and max)</td><td align="char" rowspan="1" colspan="1">6.5 (3.3, 11.8)</td><td align="char" rowspan="1" colspan="1">6.5 (3.5, 11.6)</td><td align="char" rowspan="1" colspan="1">6.5 (3.3, 11.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pathologic AD, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">122 (64%)</td><td align="char" rowspan="1" colspan="1">59 (62%)</td><td align="char" rowspan="1" colspan="1">63 (66%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age at serum visit in years, mean (SD)<xref rid="alz70959-tbl1-note-0003" ref-type="table-fn">
+<sup>2</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">88.0 (6.1)</td><td align="char" rowspan="1" colspan="1">87.8 (6.3)</td><td align="char" rowspan="1" colspan="1">88.3 (6.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Time from serum to death in years, median (min, max)<xref rid="alz70959-tbl1-note-0003" ref-type="table-fn">
+<sup>2</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.6 (1.0, 2.9)</td><td align="char" rowspan="1" colspan="1">1.6 (1.0, 2.8)</td><td align="char" rowspan="1" colspan="1">1.6 (1.1, 2.9)</td></tr></tbody></table><table-wrap-foot><fn id="alz70959-tbl1-note-0001"><p>Abbreviations: AD, Alzheimer's disease; DM, diabetes mellitus; NDM, no diabetes mellitus; PMI, postmortem interval.</p></fn><fn id="alz70959-tbl1-note-0002"><label>
+<sup>1</sup>
+</label><p>Diabetes/no diabetes status during the time of the study from entry to death.</p></fn><fn id="alz70959-tbl1-note-0003"><label>
+<sup>2</sup>
+</label><p>For a subset of <italic toggle="yes">n</italic> = 96 with serum samples, 87.4 (6.1) for DM and 88.4 (5.5) for NDM.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz70959-sec-0220"><label>3.2</label><title>Central versus peripheral peptides and overlap between the biosamples</title><p>We detected 7885 phosphorylated peptides in the brain (annotated to 2733 genes), 4620 in the muscle (1524 genes), and 370 in serum samples (126 genes). Of these, 1655 phosphorylated peptides overlapped between the brain and muscle, whereas 61 overlapped between the brain and serum (Figure <xref rid="alz70959-fig-0001" ref-type="fig">1C</xref>). For unphosphorylated peptides, 27,734 were detected in the brain (3537 annotated to genes), 13,689 in muscle (1383 genes), and 4475 in serum (403 genes). Among these, 5181 unphosphorylated peptides overlapped between the brain and muscle, whereas 452 overlapped between the brain and serum (Figure <xref rid="alz70959-fig-0001" ref-type="fig">1D</xref>).</p><p>Examining correlation between the overlapping phosphorylated peptides of each pair of biosamples (brain–muscle and brain–serum), we found a moderate‐to‐high correlation range of –0.46 &lt; <italic toggle="yes">r</italic> &lt; 0.82 (52,412 of 2,739,025 correlation pairs with FDR &lt; 0.05) for brain–muscle phosphorylated peptides (Figure <xref rid="alz70959-supinfo-0001" ref-type="">S1A</xref>) and a moderate correlation of –0.35 &lt; <italic toggle="yes">r</italic> &lt; 0.46 (1 of 3721 correlation pairs with FDR &lt; 0.05) for brain–serum phosphorylated peptides (Figure <xref rid="alz70959-supinfo-0001" ref-type="">S1B</xref>). The top positive and negative correlations are presented in Figure <xref rid="alz70959-fig-0002" ref-type="fig">2</xref>. Top positive correlations included brain and muscle solute carrier family 16 member 1 (SLC16A1)‐S498 (<italic toggle="yes">r</italic> = 0.82, FDR = 3.21 × 10<sup>−42</sup>), brain and muscle NOP56‐S570 (<italic toggle="yes">r</italic> = 0.64, FDR = 1.24 × 10<sup>−17</sup>), brain and muscle caveolae associated protein 3 (CAVIN3)‐S165/S166 (<italic toggle="yes">r</italic> = 0.60, FDR = 7.37 × 10<sup>−14</sup>), brain and muscle SART1‐S474/S486 (<italic toggle="yes">r</italic> = 0.56, FDR = 1.30 × 10<sup>−11</sup>), brain and muscle CAVIN3‐S166 (<italic toggle="yes">r</italic> = 0.56, FDR = 1.96 × 10<sup>−11</sup>), and brain–serum inter‐alpha‐trypsin inhibitor heavy chain 2 (ITIH2)‐S60 (<italic toggle="yes">r</italic> = 0.46, FDR = 8.59 × 10<sup>−3</sup>). A list of the top 10 correlations is presented in Table <xref rid="alz70959-supinfo-0001" ref-type="">S1</xref>.</p><fig position="float" fig-type="FIGURE" id="alz70959-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Correlations between overlapping phosphorylated peptides in central (brain) versus peripheral (muscle and serum) biosamples. Top positive and negative brain–muscle and brain–serum phosphorylated peptides correlations. Red represents positive correlations and blue represents negative correlations.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-22-e70959-g003.jpg"/></fig><p>For unphosphorylated peptides, the correlation range for brain–muscle unphosphorylated peptides (Figure <xref rid="alz70959-supinfo-0001" ref-type="">S2A</xref>) was in the moderate‐to‐high range of –0.48 &lt; <italic toggle="yes">r</italic> &lt; 0.86 (2076 of 26,842,761 correlation pairs with FDR &lt; 0.05), and for brain–serum, unphosphorylated peptides (Figure <xref rid="alz70959-supinfo-0001" ref-type="">S2B</xref>) were in the moderate‐to‐high range of –0.44 &lt; <italic toggle="yes">r</italic> &lt; 0.80 (1445 of 204,304 correlation pairs with FDR &lt; 0.05). Top 10 brain–muscle and brain–serum correlations (Figure <xref rid="alz70959-supinfo-0001" ref-type="">S2C</xref>) are listed in Table <xref rid="alz70959-supinfo-0001" ref-type="">S2</xref>.</p></sec><sec id="alz70959-sec-0230"><label>3.3</label><title>Differentially expressed peptides in pathologic AD and within DM in muscle and serum</title><p>In the subsequent analysis, we used multivariable models, accounting for age at death, sex, and PMI, to examine differentially expressed peptides in the entire set of available muscle and serum (age at death replaced by age at blood draw, and PMI term removed from model) peptides in pathologic AD (including within DM/NDM strata) and AD×DM interaction. For phosphorylated and unphosphorylated peptides in both biosamples, we did not detect any differentially expressed peptide that qualified as FDR significant (Figure <xref rid="alz70959-supinfo-0001" ref-type="">S3</xref> shows the volcano plots for the effect size of phosphorylated peptides in AD, within DM/NDM, and AD×DM interaction in muscle and serum, along with the corresponding histograms for <italic toggle="yes">p</italic>‐value distribution; Figure <xref rid="alz70959-supinfo-0001" ref-type="">S4</xref> shows the volcano plots for the effect size of unphosphorylated peptides in AD, within DM/NDM, and AD×DM interaction in muscle and serum, along with histograms for <italic toggle="yes">p</italic>‐value distribution). Yet, we found that within the DM strata, serum unphosphorylated peptides were enriched with lower <italic toggle="yes">p</italic>‐values (Figure <xref rid="alz70959-supinfo-0001" ref-type="">S4B</xref>).</p><p>We repeated the analysis, replacing the phosphorylated and unphosphorylated peptides with relative abundance for each biosample (2626 muscle and 296 serum peptides generated from subtracting the average log<sub>2</sub> ratio abundance of unphosphorylated peptides of the parent protein from the log<sub>2</sub> ratio abundance of the phosphorylated peptide).<xref rid="alz70959-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> This analysis resulted in findings similar to the phosphorylated analysis (Figure <xref rid="alz70959-supinfo-0001" ref-type="">S5</xref>), except for serum alpha‐2‐HS‐glycoprotein (AHSG)‐S346, where we observed a marginal expression for AD (<italic toggle="yes">p</italic> = 0.002, FDR = 0.065) within the DM strata.</p><p>For all the above models, adjusting for plex number did not affect the observed results, including our finding for serum AHSG‐S346 within the DM strata.</p></sec><sec id="alz70959-sec-0240"><label>3.4</label><title>Pathologic AD‐related pre‐identified phosphorylated peptides in muscle and serum</title><p>Next, we examined correlations between 23 brain phosphorylated peptides identified in the previous study as differentially expressed in pathologic AD.<xref rid="alz70959-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> In a correlation analysis including all 4060 muscle phosphorylated peptides and the 23 identified brain phosphorylated peptides (“brain hits”), we found a modest correlation range of –0.45 &lt; <italic toggle="yes">r</italic> &lt; 0.50, with 779 brain–muscle correlation pairs (FDR &lt; 0.05; Figure <xref rid="alz70959-supinfo-0001" ref-type="">S6</xref>). Of the 779 pairs, <italic toggle="yes">n</italic> = 237 were negative (–0.45 &lt; <italic toggle="yes">R</italic> &lt; –0.26) and the rest were positive (0.26 &lt; <italic toggle="yes">R</italic> &lt; 0.50). Top correlation pairs included brain gamma‐glutamylcyclotransferase (GGCT)‐S173 and muscle PPP1R3A‐S46, brain EPS8 signaling adaptor L2 (EPS8L2)‐S570 and muscle S100A13‐S32, brain GGCT‐S173 and muscle KLHL31‐S626/S628, brain TOM1‐S462 and muscle S100A13‐S32, and brain PLEC‐S1732, and muscle SQSTM1‐S328/S332 (all FDRs &lt; 0.05). We also found that brain GGCT‐S173 was inversely correlated with multiple muscle phosphorylated peptides: NDUFS4‐S144, RANBP2‐S2668, SQSTM1‐S332, PLEC‐T3930, and SQSTM1‐S328/S332 (all FDRs &lt; 0.05). A gene set enrichment analysis, including 253 genes of the 779 muscle peptides, revealed pathways related to muscle contraction, neurodegenerative diseases, and apoptosis (Figure <xref rid="alz70959-fig-0003" ref-type="fig">3</xref>). We repeated the gene set enrichment analysis adding background genes (<italic toggle="yes">n</italic> = 1516 genes annotated to all available muscle phosphorylated peptides [Figure <xref rid="alz70959-supinfo-0001" ref-type="">S7</xref>]). This analysis highlighted pathways related to muscle function and structure. No FDR significant correlations were found between the brain hits and serum phosphorylated peptides (Figure <xref rid="alz70959-supinfo-0001" ref-type="">S8</xref>).</p><fig position="float" fig-type="FIGURE" id="alz70959-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Brain hits for pathologic AD and muscle phosphorylated peptide correlations: enriched pathways. Gene‐set enrichment analysis and network diagram; <italic toggle="yes">n</italic> = 253 unique genes of 799 muscle phosphorylated peptides significantly correlated with brain AD hits. GO, gene ontology; KEGG, Kyoto Encyclopedia of Genes and Genomes.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-22-e70959-g004.jpg"/></fig><p>We further examined the FDR‐significant muscle phosphorylated peptides in an association study to discover differential expression in pathologic AD in muscle. The 779 correlation pairs included 408 unique peptides, used in a multivariable model for pathologic AD differential expression accounting for age at death, sex, PMI, DM, and AD×DM interaction (Figure <xref rid="alz70959-fig-0004" ref-type="fig">4A–D</xref>). After accounting for multiple comparisons, one muscle phosphorylated peptide was significantly expressed in pathologic AD (seryl‐tRNA synthetase 2 (SARS2)‐S126; <italic toggle="yes">p</italic> = 2.87 × 10<sup>−5</sup>, FDR = 0.011). Of note, this muscle phosphorylated peptide was correlated with brain EPS8L2‐S570 (<italic toggle="yes">R</italic> = 0.27, <italic toggle="yes">p</italic>‐value = 1.26 × 10<sup>−4</sup>, FDR = 0.03), brain GGCT‐S173 (<italic toggle="yes">R</italic> = −0.40, <italic toggle="yes">p</italic>‐value = 2.48 × 10<sup>−8</sup>, FDR = 8.83 × 10<sup>−5</sup>), and brain heat shock protein beta‐1 (HSPB1)‐S82 (<italic toggle="yes">R</italic> = 0.31, <italic toggle="yes">p</italic>‐value = 1.65 × 10<sup>−5</sup>, FDR = 7.43 × 10<sup>−3</sup>). Although we did not find differentially expressed muscle phosphorylated peptides within DM/NDM strata, we observed an enrichment in low <italic toggle="yes">p</italic>‐values in pathologic AD and within the DM strata for pathologic AD, but with low <italic toggle="yes">p</italic>‐values. Similar results were observed with further adjusting for plex number (data not shown).</p><fig position="float" fig-type="FIGURE" id="alz70959-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>(A−D) Differentially expressed muscle phosphorylated peptides in a subset of previously uncovered AD‐related peptides, in pathologic AD and AD with/without DM. Volcano plots demonstrating the effect size and histograms for <italic toggle="yes">p</italic>‐values distribution. (A) Differentially expressed phosphorylated peptides in AD status (ref.: ADL). (B) Differentially expressed phosphorylated peptides in AD status (ref.: ADL) within DM. (C) Differentially expressed phosphorylated peptides in AD status (ref.: ADL) within no diabetes mellitus (NDM). (D) Differentially expressed phosphorylated peptides: AD×DM interaction. Muscle models include the following covariates: AD, DM, AD×DM, age at death, sex, and PMI. A two‐degree‐of‐freedom LRT was used to identify significant expression for AD or DM, and a one‐degree‐of‐freedom LRT was used to identify significant expression for AD×DM. AD, Alzheimer's disease; ADL, no pathologic AD; DM, diabetes mellitus; LRT, likelihood ratio test; NDM, no DM.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ALZ-22-e70959-g001.jpg"/></fig><p>In our previous study, we showed that most brain phosphorylated peptides identified as consistently abundant in pathologic AD were also identified as consistently relative abundant (i.e., consistently detected at relatively high levels across multiple brain samples) regardless of the presence of DM. We repeated the correlation and the association study, replacing the muscle and serum phosphorylated peptides with the relative abundance matrices. For the relative abundant peptides, we found 385 significant (FDR &lt; 0.05) brain–muscle correlation pairs (−0.45 &lt; <italic toggle="yes">R</italic> &lt; 0.46). We further examined the unique peptides (<italic toggle="yes">n</italic> = 325) in an association study as described and did find significantly expressed muscle relative abundant peptides.</p></sec><sec id="alz70959-sec-0250"><label>3.5</label><title>Peptides annotated to genes related to insulin signaling pathways in muscle and serum</title><p>Finally, due to the known association of DM with AD dementia, we identified 54 genes that were previously highlighted as related to insulin signaling pathways. We examined the differential expression of a subset of phosphorylated and unphosphorylated muscle and serum peptides annotated to these genes (Table <xref rid="alz70959-supinfo-0001" ref-type="">S3</xref> presents the pathways, genes, and successfully identified peptides in muscle and serum). In this analysis, we did not detect any phosphorylated or unphosphorylated muscle or serum peptides that were differentially expressed in AD or related to AD×DM interaction (Figures <xref rid="alz70959-supinfo-0001" ref-type="">S9</xref>−<xref rid="alz70959-supinfo-0001" ref-type="">S10</xref>). Although our analysis included a low number of peptides related to insulin signaling pathways in both biosamples, we observed that serum peptides were enriched in lower <italic toggle="yes">p</italic>‐values in a differential pathologic AD analysis. Adjusting for plex number revealed that the serum phosphorylated peptide insulin‐like growth factor binding protein 2 (IGFBP2)‐S142 within NDM strata showed marginally significant expression in AD (<italic toggle="yes">β</italic> = 0.59, <italic toggle="yes">p</italic> = 0.03, FDR = 0.096). In addition, for serum unphosphorylated peptides, following plex adjustment, two peptides annotated to IGFBP2 showed marginally significant expression in AD within DM (IGFBP4@nGNFHPk: <italic toggle="yes">β</italic> = −0.83, <italic toggle="yes">p</italic> = 3.43 × 10<sup>−3</sup>, FDR = 0.09; IGFBP4@qcHPALDGQR: <italic toggle="yes">β</italic> = −0.63, <italic toggle="yes">p</italic> = 7.48 × 10<sup>−3</sup>, FDR = 0.097).</p><p>Finally, we repeated the above analysis, replacing the phosphorylated and unphosphorylated muscle and serum peptides with relative abundance matrices of muscle and serum (as available). Within DM strata for serum relative abundance peptides, IGFBP2‐S142 showed statistically marginal differential expression in pathologic AD (FDR = 0.062), and no other significant or marginal finding was observed (data not shown). Adjusting for plex did not affect the observed results.</p></sec></sec><sec id="alz70959-sec-0260"><label>4</label><title>DISCUSSION</title><p>In this study, we observed a significant correlation between the phosphorylated and unphosphorylated peptides in each muscle and serum and the corresponding brain peptides. Although we found only a few significantly or marginally statistically significant peptides expressed in AD and AD within DM in muscle and serum, our results from exploring the <italic toggle="yes">p</italic>‐value distribution support an enrichment in low <italic toggle="yes">p</italic>‐values for AD in muscle and AD within DM in serum. This is the first study that we are aware of to employ peptides measured in human muscle biosamples, in addition to brain and serum, presenting the association between the multiple peripheral and central biosamples, and with confirmed postmortem AD.</p><p>Previous studies of the proteome focused on the overlapping proteins among central biospecimens (brain‐CSF<xref rid="alz70959-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>) or between central and a peripheral blood compartment (brain‐CSF‐plasma and<xref rid="alz70959-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> brain‐plasma<xref rid="alz70959-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>). In keeping with these prior studies, we have also found an overlap of peptides between central (brain) and peripheral biosamples, and extend the research to two peripheral compartments (muscle and serum). Few studies have investigated skeletal muscle in relation to AD, typically assessing levels of specific proteins in the muscle tissue of persons with AD. For example, a previous study that evaluated Aβ in plasma and tissues (skeletal muscle, liver, aorta, platelets, leptomeningeal arteries, and gray and white matter) of individuals 65 years or older, with 17 individuals clinically diagnosed with AD and 21 healthy controls, found increased levels of Aβ in the muscle of individuals with AD.<xref rid="alz70959-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> A review article that provided an overview of how mitochondria are fundamentally involved in enabling communication between muscles and the brain during exercise, demonstrated a brain–muscle axis in neurodegenerative diseases, including AD.<xref rid="alz70959-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Improvements in skeletal muscle mitochondria through regular exercise may benefit the brain, either directly, via blood‐borne factors that cross the blood–brain barrier, or indirectly by reducing cardiovascular risk factors. Future work should study multi‐tissue/biosamples multi‐omics layers to provide a more comprehensive biological understanding of the underlying mechanisms linking peripheral to central biosamples in AD, and to elucidate more precisely the complex pathophysiology in this neurodegenerative disease. As a whole, our study suggests that muscle may be one promising tissue to consider among others, for further disentangling the complexity of AD, but many more analyses are needed to replicate and expand on our results, and to evaluate the clinical applicability of muscle testing such as by demonstrating superior diagnostic accuracy or other clear advantages over alternate/complementary approaches (e.g., blood‐based detection of AD).</p><p>Our correlation analysis of brain and muscle biosamples identified the top phosphorylated peptide as SLC16A1‐S498. <italic toggle="yes">SLC16A1</italic> gene expression was previously associated with AD in postmortem AD brain.<xref rid="alz70959-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> In our study, the top phosphorylated peptide correlated between brain and serum pairs was ITIH2‐S60. The mapped gene, <italic toggle="yes">ITIH2</italic>, was previously associated with AD.<xref rid="alz70959-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> For unphosphorylated peptide correlations in brain–muscle and brain–serum, the top correlations shown in our study were within peptides mapped to the Immunoglobulin Heavy Constant Gamma 1 (<italic toggle="yes">IGHG1</italic>) gene. Previous case–control studies with probable patients with AD and age‐sex–matched cognitively normal controls found that IGHG1 protein in CSF was upregulated in patients with AD.<xref rid="alz70959-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Overlapping peptides across tissues and biofluids may indicate that certain molecular alterations in the brain are mirrored in peripheral tissues/biofluids. An identification of similar expression patterns in both brain and peripheral biosamples suggests the possibility that molecular changes in AD may be coordinated across different tissues. This could result from direct communication between tissues or the influence of shared upstream factors that simultaneously affect multiple biosamples. Further research is needed to elucidate the mechanism by which peptides and proteins of different tissues and biosamples are involved in AD pathology.</p><p>We found that muscle SARS2‐S126 also correlated with the uncovered brain EPS8L2‐S570, GGCT‐S173, and HSPB1‐S82 phosphorylated peptides, which were differentially expressed in pathologic AD. Previous studies on <italic toggle="yes">SARS2</italic> gene did not show any direct evidence linking mutations or variations in <italic toggle="yes">SARS2</italic> gene, expression, or SARS2 peptides to AD or DM. However, the muscle peptides correlated with SARS2 may be indirectly associated with AD. For instance, HSPB1 is a molecular chaperone that has been shown to modulate the expression of the Aβ precursor protein<xref rid="alz70959-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> and the GGCT enzyme is implicated in managing oxidative stress via degradation of glutathione.<xref rid="alz70959-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+</p><p>Multiple studies have shown associations of DM and AD, including increased risk of AD dementia in DM and structural changes in the brains of patients with DM and AD, among many other pieces of evidence.<xref rid="alz70959-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> DM is a major risk factor for AD dementia, with insulin resistance serving as a key shared pathological feature.<xref rid="alz70959-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Yet, the molecular mechanisms linking DM and AD remain complex. Interactions among Aβ accumulation, impaired insulin signaling, neuroinflammation, oxidative stress, and other factors are likely to contribute to the complexity.<xref rid="alz70959-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Glucose uptake in the brain is not insulin independent; however, insulin resistance can disrupt neuronal metabolism and insulin signaling, leading to increased Aβ production, tau hyperphosphorylation, and synaptic dysfunction, key features of AD pathogenesis. In DM, chronic hyperglycemia and insulin resistance further promote oxidative stress and persistent neuroinflammation, exacerbating neurodegeneration. These converging pathways suggest that targeting insulin signaling and inflammatory processes may benefit individuals with AD and DM. As such, understanding and treating insulin resistance and inflammation are crucial for addressing the comorbidity and improving outcomes in this high‐risk group.<xref rid="alz70959-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="alz70959-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+</p><p>In a targeted analysis of peptides annotated to genes related to insulin signaling pathways, we observed a low <italic toggle="yes">p</italic>‐value enrichment when examining AD differential expression in phosphorylated and unphosphorylated serum peptides, and within DM for unphosphorylated serum peptides. In addition, we found a marginal differential expression of relative abundance for serum AHSG‐S346 and IGFBP2‐S142 for AD within DM samples. The <italic toggle="yes">AHSG</italic> gene was previously associated with late‐onset AD and with DM, with an association between <italic toggle="yes">AHSG</italic> gene polymorphism and AD in Caucasian Italian patients,<xref rid="alz70959-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> and two <italic toggle="yes">AHSG</italic> gene polymorphisms were associated with DM in Swedish and French Caucasians.<xref rid="alz70959-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> A previous study among asymptomatic, “at‐risk” individuals with a parental or multi‐sibling history of sporadic AD found that IGFBP2 in CSF was associated with atrophy in AD‐related brain regions.<xref rid="alz70959-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> Our current study may bridge the genetic and protein‐level associations and suggests that peripheral metabolic changes can influence brain pathology, further supporting the blood–brain barrier dysfunction hypothesis in AD, and crosstalk between the periphery and brain.</p><p>This study has limitations. First, the relatively small sample sizes, especially for serum, might have affected our ability to detect significant associations overall and in subgroup analyses. Thus, we have examined the <italic toggle="yes">p</italic>‐value distribution of our association analyses to demonstrate whether a lower <italic toggle="yes">p</italic>‐value enrichment exists. This allowed us to speculate that sample size–related issues might have masked true associations in pathologic AD. Second, immunodepleting and other factors occurring in serum samples may have led to a low number of peptides detected in serum. Third, our analysis highlighted some mapped genes, such as <italic toggle="yes">ITIH2</italic>, that are expressed exclusively in other tissues (e.g., liver). Thus, a concern regarding blood contamination in the brain (a highly vascular organ) cannot be ruled out. In addition, although we found some strong correlations between brain and muscle or serum peptides, we could not detect many significantly expressed proteins in the latter biosamples. Yet, a correlation does not necessarily explain a biological association with an exposure. We observed more correlations between brain and muscle peptides; however, muscle remains less accessible than serum. Although muscle biopsy is invasive, it is a clinically available tool for other neuromuscular disorders and may uniquely capture AD‐related proteomic changes that are not detectable in serum, due to peripheral degradation or clearance. A previous study has shown that abundant constituents of blood may interfere with the detection of pathological biomarkers of AD through epitope masking or sequestering. In the case of Aβ, the amphoteric and amphipathic properties of the peptide enable interaction with multiple plasma proteins and erythrocytes.<xref rid="alz70959-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> Thus, muscle represents a largely unexplored and potentially informative tissue for biomarker discovery in AD. Nonetheless, future research is needed to compare the diagnostic or predictive accuracy of muscle‐based versus blood‐based detection of AD in persons with and without diabetes. Finally, some previous studies mostly used clinical AD (i.e., dementia) or genetic predisposition in their analysis,<xref rid="alz70959-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="alz70959-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz70959-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> whereas our AD grouping was based on a gold standard using pathology, albeit without accounting for cognitive status. Yet, although the NIA‐AA issued a revised criteria for diagnosis and staging of AD incorporating recent advances in biomarkers,<xref rid="alz70959-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> the gold standard for determining AD remains postmortem neuropathological examination of the brain. Nevertheless, this is the first human study suggesting a link between central and peripheral biosamples in AD, including the novel use of muscle tissue.</p><p>In conclusion, the results of this study show a crosstalk between central and peripheral peptide expression. Although several peptides, muscle SARS2‐S126, serum AHSG‐S346, and serum IGFBP2‐S142, showed associations with AD pathology, and central–peripheral correlations were observed (e.g., brain–muscle SLC16A1‐S498 and brain–serum ITIH2‐S60) in our dataset, these findings are based on discovery analysis. Therefore, these peptides should be regarded as candidate biomarkers for AD. Their potential utility as peripheral or tissue biomarkers, such as serving in early diagnosis, monitoring of disease progression, or response to therapy, remains to be established. Further studies are needed to replicate our results, validate these potential biomarkers in independent cohorts, and determine their clinical performance and utility. Our findings also suggest shared molecular pathways between AD and DM and distinct, potentially AD‐specific or DM‐modified, profiles that may be especially relevant in comorbid individuals.</p></sec><sec id="alz70959-sec-0270"><title>AUTHOR CONTRIBUTIONS</title><p>Ana W. Capuano and Zoe Arvanitakis conceptualized the study design. Anat Yaskolka Meir analyzed the data. Ana W. Capuano, Xingyan Wang, Vishal Sarsani, and Liming Liang guided data analyses. Zoe Arvanitakis, David A. Bennett, and Steven E. Arnold obtained funding, and David A. Bennett is the Principal Investigator of the Rush Memory and Aging Project (MAP). Anat Yaskolka Meir wrote the first draft of the paper collaboratively with Xingyan Wang, Vishal Sarsani, Shinya Tasaki, Vladislav A. Petyuk, Aron S. Buchman, Steven E. Arnold, David A. Bennett, Liming Liang, Ana W. Capuano, and Zoe Arvanitakis. Anat Yaskolka Meir, Xingyan Wang, Vishal Sarsani, Shinya Tasaki, Vladislav A. Petyuk, Aron S. Buchman, Steven E. Arnold, David A. Bennett, Liming Liang, Ana W. Capuano, and Zoe Arvanitakis contributed to the final version of the paper. This work was funded by the National Institute on Aging, and the National Institute of Neurological Disorders and Stroke grants: R01NS084965, RF1AG059621, R01AG074549, P30AG10161, P30AG072975, R01AG017917, and U01AG61356. Anat Yaskolka Meir was supported by the Council for Higher Education‐ Zuckerman support program for outstanding postdoctoral female researchers.</p></sec><sec sec-type="COI-statement" id="alz70959-sec-0290"><title>CONFLICT OF INTEREST STATEMENT</title><p>There are no conflicts of interest pertaining to this work. The primary source of funding for this work was obtained from the National Institutes of Health. Zoe Arvanitakis wishes to report receipt of funds for educational activities such as presentations at international and national conferences or grand rounds at academic institutions, and for continuing medical education (CME) activities (Spire Learning). She also conducts consulting for medico‐legal cases, for governmental entities (e.g., state and national grant awarding bodies, domestically and internationally), for industry (Amylyx; Eisai Strategic Council; Novo Nordisk), and the lay public (Summus). She serves as the Specialty Chief Editor for “Aging and Risk Factors for Dementia” for the journal <italic toggle="yes">Frontiers in Dementia</italic>. Steven E. Arnold reported receiving institutional grant or sponsored research support from the Alzheimer's Association, Alzheimer Drug Discovery Foundation, Challenger Foundation, John Sperling Foundation, National Institutes of Health, Prion Alliance, AbbVie Inc, ACImmune SA, Amylyx Inc, Athira Pharma Inc, Chromadex Inc, Cyclerion Terapeutics Inc, EIP Pharma Inc, Janssen Pharmaceutical/Johnson &amp; Johnson, Ionis Pharmaceuticals, Novartis AG, Seer Bioscience Inc, vTv Therapeutics; honoraria for lectures from AbbVie Inc, Biogen Inc, and Eisai Co Ltd; payments for participation on scientific advisory boards of Allyx Therapeutics Inc, Bob's Last Marathon, Quince Therapeutics/Cortexyme Inc, Jocasta Neuroscience, and Sage Therapeutics Inc; and consulting fees from Cognito Therapeutics Inc, Cassava Sciences, EIP Pharma Inc, M3 Biotechnology Inc, Orthogonal Neuroscience Inc, Risen Pharmaceutical Technology. Other authors have no specific disclosures. Any author disclosures are available in the <xref rid="alz70959-supinfo-0001" ref-type="">Supporting Information</xref>.</p></sec><sec id="alz70959-sec-0300"><title>CONSENT STATEMENT</title><p>Participants signed informed consent to undergo yearly testing and an anatomical gift act for postmortem brain donation, as well as a repository consent for resource sharing.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz70959-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz70959-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e70959-s002.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz70959-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e70959-s001.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz70959-sec-0280"><title>ACKNOWLEDGMENTS</title><p>We particularly thank the Rush Memory and Aging Project (MAP) participants for their tireless altruism toward the pursuit of scientific knowledge about aging human conditions. We also acknowledge the work of the Rush Alzheimer's Disease Center team Traci Colvin, Ryan Johnson, John Gibbons, and Yan Li. We appreciate the work by Proteome Sciences, including for the proteome (protein and peptide) experiments, pre‐processing of the raw data and proteomics data collection, and select writing about the experimental methods pertaining to those data, and thank in particular Sasa Koncarevic, Michael Bremang, Richard Dennis, Josef Schwarz, Ian Pike, and Juliane Weisser.</p></ack><sec sec-type="data-availability" id="alz70959-sec-0320"><title>DATA AVAILABILITY STATEMENT</title><p>The Rush Memory and Aging Project (MAP) data can be requested at the RADC Research Resource Sharing Hub (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.radc.rush.edu" ext-link-type="uri" specific-use="software is-supplemented-by">https://www.radc.rush.edu</ext-link>).</p></sec><ref-list id="alz70959-bibl-0001"><title>REFERENCES</title><ref id="alz70959-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz70959-cite-0002">
+<string-name name-style="western">
+<surname>Arvanitakis</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shah</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bennett</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Diagnosis and management of dementia</article-title>. <source>JAMA</source>. <year>2019</year>;<volume>322</volume>:<fpage>1589</fpage>–<lpage>1599</lpage>.<pub-id pub-id-type="pmid">31638686</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2019.4782</pub-id><pub-id pub-id-type="pmcid">PMC7462122</pub-id></mixed-citation></ref><ref id="alz70959-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz70959-cite-0003">
+<string-name name-style="western">
+<surname>Cholerton</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baker</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Montine</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Craft</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Type 2 diabetes, cognition, and dementia in older adults: toward a precision health approach</article-title>. <source>Diabetes Spectr</source>. <year>2016</year>;<volume>29</volume>:<fpage>210</fpage>–<lpage>219</lpage>.<pub-id pub-id-type="pmid">27899872</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/ds16-0041</pub-id><pub-id pub-id-type="pmcid">PMC5111529</pub-id></mixed-citation></ref><ref id="alz70959-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz70959-cite-0004">
+<string-name name-style="western">
+<surname>Morris</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Black</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stollar</surname>
+<given-names>EJ</given-names>
+</string-name>. <article-title>Uncovering protein function: from classification to complexes</article-title>. <source>Essays Biochem</source>. <year>2022</year>;<volume>66</volume>:<fpage>255</fpage>–<lpage>285</lpage>.<pub-id pub-id-type="pmid">35946411</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/EBC20200108</pub-id><pub-id pub-id-type="pmcid">PMC9400073</pub-id></mixed-citation></ref><ref id="alz70959-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz70959-cite-0005">
+<string-name name-style="western">
+<surname>Tublin</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adelstein</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Monte</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Combs</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wold</surname>
+<given-names>LE</given-names>
+</string-name>. <article-title>Getting to the heart of Alzheimer disease</article-title>. <source>Circ Res</source>. <year>2019</year>;<volume>124</volume>:<fpage>142</fpage>–<lpage>149</lpage>.<pub-id pub-id-type="pmid">30605407</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCRESAHA.118.313563</pub-id><pub-id pub-id-type="pmcid">PMC6319653</pub-id></mixed-citation></ref><ref id="alz70959-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz70959-cite-0006">
+<string-name name-style="western">
+<surname>Frame</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bretland</surname>
+<given-names>KA</given-names>
+</string-name>. <string-name name-style="western">
+<surname>Dengler‐Crish</surname>
+<given-names>CM</given-names>
+</string-name>. <article-title>Mechanistic complexities of bone loss in Alzheimer's disease: a review</article-title>. <source>Connect Tissue Res</source>. <year>2020</year>;<volume>61</volume>:<fpage>4</fpage>–<lpage>18</lpage>.<pub-id pub-id-type="pmid">31184223</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/03008207.2019.1624734</pub-id></mixed-citation></ref><ref id="alz70959-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz70959-cite-0007">
+<string-name name-style="western">
+<surname>Han</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ashraf</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tipparaju</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xuan</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Muscle–brain crosstalk in cognitive impairment</article-title>. <source>Front Aging Neurosci</source>. <year>2023</year>;<volume>15</volume>:<elocation-id>1221653</elocation-id>.<pub-id pub-id-type="pmid">37577356</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2023.1221653</pub-id><pub-id pub-id-type="pmcid">PMC10413125</pub-id></mixed-citation></ref><ref id="alz70959-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz70959-cite-0008">
+<string-name name-style="western">
+<surname>Ibeas</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herrero</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mera</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Serra</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Hypothalamus‐skeletal muscle crosstalk during exercise and its role in metabolism modulation</article-title>. <source>Biochem Pharmacol</source>. <year>2021</year>;<volume>190</volume>:<elocation-id>114640</elocation-id>.<pub-id pub-id-type="pmid">34087244</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bcp.2021.114640</pub-id></mixed-citation></ref><ref id="alz70959-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz70959-cite-0009">
+<string-name name-style="western">
+<surname>Marques‐Coelho</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>da Cruz Carvalho</surname>
+<given-names>LI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melo de Farias</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flaig</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lambert</surname>
+<given-names>J‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Costa</surname>
+<given-names>MR</given-names>
+</string-name>. <article-title>Differential transcript usage unravels gene expression alterations in Alzheimer's disease human brains</article-title>. <source>NPJ Aging Mech Dis</source>. <year>2021</year>;<volume>7</volume>:<fpage>2</fpage>.<pub-id pub-id-type="pmid">33398016</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41514-020-00052-5</pub-id><pub-id pub-id-type="pmcid">PMC7782705</pub-id></mixed-citation></ref><ref id="alz70959-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz70959-cite-0010">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patassini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rustogi</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Regional protein expression in human Alzheimer's brain correlates with disease severity</article-title>. <source>Commun Biol</source>. <year>2019</year>;<volume>2</volume>:<fpage>43</fpage>.<pub-id pub-id-type="pmid">30729181</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s42003-018-0254-9</pub-id><pub-id pub-id-type="pmcid">PMC6361956</pub-id></mixed-citation></ref><ref id="alz70959-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz70959-cite-0011">
+<string-name name-style="western">
+<surname>Sung</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Norton</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Proteomics of brain, CSF, and plasma identifies molecular signatures for distinguishing sporadic and genetic Alzheimer's disease</article-title>. <source>Sci Transl Med</source>. <year>2023</year>;<volume>15</volume>:<elocation-id>eabq5923</elocation-id>.<pub-id pub-id-type="pmid">37406134</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.abq5923</pub-id><pub-id pub-id-type="pmcid">PMC10803068</pub-id></mixed-citation></ref><ref id="alz70959-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz70959-cite-0012">
+<string-name name-style="western">
+<surname>Capuano</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sarsani</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tasaki</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Brain phosphoproteomic analysis identifies diabetes‐related substrates in Alzheimer's disease pathology in older adults</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>21</volume>(<issue>2</issue>):<elocation-id>e14460</elocation-id>.<pub-id pub-id-type="pmid">39732516</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.14460</pub-id><pub-id pub-id-type="pmcid">PMC11848201</pub-id></mixed-citation></ref><ref id="alz70959-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz70959-cite-0013">
+<string-name name-style="western">
+<surname>Taheri</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mokhtari</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yousefi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bashash</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>The PI3K/Akt signaling axis and type 2 diabetes mellitus (T2DM): from mechanistic insights into possible therapeutic targets</article-title>. <source>Cell Biol Int</source>. <year>2024</year>;<volume>48</volume>:<fpage>1049</fpage>–<lpage>1068</lpage>.<pub-id pub-id-type="pmid">38812089</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cbin.12189</pub-id></mixed-citation></ref><ref id="alz70959-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz70959-cite-0014">
+<string-name name-style="western">
+<surname>Baxter</surname>
+<given-names>RC</given-names>
+</string-name>. <article-title>Signaling pathways of the insulin‐like growth factor binding proteins</article-title>. <source>Endocr Rev</source>. <year>2023</year>;<volume>44</volume>:<fpage>753</fpage>–<lpage>778</lpage>.<pub-id pub-id-type="pmid">36974712</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/endrev/bnad008</pub-id><pub-id pub-id-type="pmcid">PMC10502586</pub-id></mixed-citation></ref><ref id="alz70959-bib-0014"><label>14</label><mixed-citation publication-type="book" id="alz70959-cite-0015">
+<string-name name-style="western">
+<surname>Kwon</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pessin</surname>
+<given-names>JE</given-names>
+</string-name>. <part-title>Insulin‐mediated PI3K and AKT signaling</part-title>. <source>The Liver: Biology and Pathobiology</source>. <publisher-name>Elsevier</publisher-name>; <year>2020</year>:<fpage>485</fpage>–<lpage>495</lpage>.</mixed-citation></ref><ref id="alz70959-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz70959-cite-0016">
+<string-name name-style="western">
+<surname>Bennett</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buchman</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boyle</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barnes</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Religious orders study and rush memory and aging project</article-title>. <source>J Alzheimer's Dis</source>. <year>2018</year>;<volume>64</volume>:<fpage>S161</fpage>–<lpage>S189</lpage>.<pub-id pub-id-type="pmid">29865057</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-179939</pub-id><pub-id pub-id-type="pmcid">PMC6380522</pub-id></mixed-citation></ref><ref id="alz70959-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz70959-cite-0017">
+<string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coleman</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickson</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Consensus recommendations for the postmortem diagnosis of Alzheimer s disease‐standardization of the neuropathological assessment of Alzheimer s disease</article-title>. <source>Neurobiol Aging</source>. <year>1997</year>;<volume>41001</volume>:<fpage>S1</fpage>–<lpage>S2</lpage>.<pub-id pub-id-type="pmid">9330978</pub-id></mixed-citation></ref><ref id="alz70959-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz70959-cite-0018">
+<string-name name-style="western">
+<surname>Bennett</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arvanitakis</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Neuropathology of older persons without cognitive impairment from two community‐based studies</article-title>. <source>Neurology</source>. <year>2006</year>;<volume>66</volume>:<fpage>1837</fpage>–<lpage>1844</lpage>.<pub-id pub-id-type="pmid">16801647</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/01.wnl.0000219668.47116.e6</pub-id></mixed-citation></ref><ref id="alz70959-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz70959-cite-0019">
+<string-name name-style="western">
+<surname>Hyman</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phelps</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, et al. <article-title>National Institute on Aging–Alzheimer's Association guidelines for the neuropathologic assessment of Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2012</year>;<volume>8</volume>:<fpage>1</fpage>–<lpage>13</lpage>.<pub-id pub-id-type="pmid">22265587</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2011.10.007</pub-id><pub-id pub-id-type="pmcid">PMC3266529</pub-id></mixed-citation></ref><ref id="alz70959-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz70959-cite-0020">
+<string-name name-style="western">
+<surname>Mertins</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Ischemia in tumors induces early and sustained phosphorylation changes in stress kinase pathways but does not affect global protein levels</article-title>. <source>Mol Cell Proteomics</source>. <year>2014</year>;<volume>13</volume>:<fpage>1690</fpage>‐<lpage>1704</lpage>.<pub-id pub-id-type="pmid">24719451</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/mcp.M113.036392</pub-id><pub-id pub-id-type="pmcid">PMC4083109</pub-id></mixed-citation></ref><ref id="alz70959-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz70959-cite-0021">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xia</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Proteomic profiling of plasma and brain tissue from Alzheimer's disease patients reveals candidate network of plasma biomarkers</article-title>. <source>J Alzheimer's Dis</source>. <year>2020</year>;<volume>76</volume>:<fpage>349</fpage>–<lpage>368</lpage>.<pub-id pub-id-type="pmid">32474469</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-200110</pub-id><pub-id pub-id-type="pmcid">PMC7457324</pub-id></mixed-citation></ref><ref id="alz70959-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz70959-cite-0022">
+<string-name name-style="western">
+<surname>Bai</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Deep multilayer brain proteomics identifies molecular networks in Alzheimer's disease progression</article-title>. <source>Neuron</source>. <year>2020</year>;<volume>105</volume>:<fpage>975</fpage>–<lpage>991</lpage>.<pub-id pub-id-type="pmid">31926610</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuron.2019.12.015</pub-id><pub-id pub-id-type="pmcid">PMC7318843</pub-id></mixed-citation></ref><ref id="alz70959-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz70959-cite-0023">
+<string-name name-style="western">
+<surname>Sung</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suhy</surname>
+<given-names>AJ</given-names>
+</string-name>, et al. <article-title>Multi‐tissue proteomic profiling for genetically defined Alzheimer disease cases</article-title>. <source>Alzheimer's Dement</source>. <year>2021</year>;<volume>17</volume>:<elocation-id>e054301</elocation-id>.</mixed-citation></ref><ref id="alz70959-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz70959-cite-0024">
+<string-name name-style="western">
+<surname>Roher</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Esh</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kokjohn</surname>
+<given-names>TA</given-names>
+</string-name>, et al. <article-title>Amyloid‐β peptides in human plasma and tissues and their significance for Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2009</year>;<volume>5</volume>:<fpage>18</fpage>–<lpage>29</lpage>.<pub-id pub-id-type="pmid">19118806</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2008.10.004</pub-id><pub-id pub-id-type="pmcid">PMC2663406</pub-id></mixed-citation></ref><ref id="alz70959-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz70959-cite-0025">
+<string-name name-style="western">
+<surname>Burtscher</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Millet</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Place</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kayser</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zanou</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>The muscle‐brain axis and neurodegenerative diseases: the key role of mitochondria in exercise‐induced neuroprotection</article-title>. <source>Int J Mol Sci</source>. <year>2021</year>;<volume>22</volume>:<fpage>6479</fpage>.<pub-id pub-id-type="pmid">34204228</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms22126479</pub-id><pub-id pub-id-type="pmcid">PMC8235687</pub-id></mixed-citation></ref><ref id="alz70959-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz70959-cite-0026">
+<string-name name-style="western">
+<surname>Saito</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harari</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Alzheimer's disease alters oligodendrocytic glycolytic and ketolytic gene expression</article-title>. <source>Alzheimer's Dement</source>. <year>2021</year>;<volume>17</volume>:<fpage>1474</fpage>–<lpage>1486</lpage>.<pub-id pub-id-type="pmid">33650792</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12310</pub-id><pub-id pub-id-type="pmcid">PMC8410881</pub-id></mixed-citation></ref><ref id="alz70959-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz70959-cite-0027">
+<string-name name-style="western">
+<surname>Tang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alaniz</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Felsky</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Synonymous variants associated with Alzheimer disease in multiplex families</article-title>. <source>Neurol Genet</source>. <year>2020</year>;<volume>6</volume>:<elocation-id>e450</elocation-id>.<pub-id pub-id-type="pmid">32637632</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/NXG.0000000000000450</pub-id><pub-id pub-id-type="pmcid">PMC7323483</pub-id></mixed-citation></ref><ref id="alz70959-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz70959-cite-0028">
+<string-name name-style="western">
+<surname>Misra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chakrabarti</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gambhir</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baghel</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patil</surname>
+<given-names>YR</given-names>
+</string-name>. <article-title>Cerebrospinal fluid protein profiles in Alzheimer's dementia patients: a bioinformatic approach</article-title>. <source>Ann Indian Acad Neurol</source>. <year>2023</year>;<volume>26</volume>:<fpage>611</fpage>–<lpage>613</lpage>.<pub-id pub-id-type="pmid">37970293</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/aian.aian_206_23</pub-id><pub-id pub-id-type="pmcid">PMC10645275</pub-id></mixed-citation></ref><ref id="alz70959-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz70959-cite-0029">
+<string-name name-style="western">
+<surname>Conway</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nafar</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Straka</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mearow</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Modulation of amyloid‐β protein precursor expression by HspB1</article-title>. <source>J Alzheimer's Dis</source>. <year>2014</year>;<volume>42</volume>:<fpage>435</fpage>–<lpage>450</lpage>.<pub-id pub-id-type="pmid">24898650</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-140348</pub-id></mixed-citation></ref><ref id="alz70959-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz70959-cite-0030">
+<string-name name-style="western">
+<surname>Tiek</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Oxidative stress induced protein aggregation via GGCT produced pyroglutamic acid in drug resistant glioblastoma</article-title>. <source>IScience</source>. <year>2025</year>;<volume>28</volume>:<elocation-id>111769</elocation-id>.<pub-id pub-id-type="pmid">39949960</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.isci.2025.111769</pub-id><pub-id pub-id-type="pmcid">PMC11821397</pub-id></mixed-citation></ref><ref id="alz70959-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz70959-cite-0031">
+<string-name name-style="western">
+<surname>Baglietto‐Vargas</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yaeger</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ager</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>LaFerla</surname>
+<given-names>FM</given-names>
+</string-name>. <article-title>Diabetes and Alzheimer's disease crosstalk</article-title>. <source>Neurosci Biobehav Rev</source>. <year>2016</year>;<volume>64</volume>:<fpage>272</fpage>–<lpage>287</lpage>.<pub-id pub-id-type="pmid">26969101</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neubiorev.2016.03.005</pub-id></mixed-citation></ref><ref id="alz70959-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz70959-cite-0032">
+<string-name name-style="western">
+<surname>Maciejewska</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Czarnecka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szymański</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>A review of the mechanisms underlying selected comorbidities in Alzheimer's disease</article-title>. <source>Pharmacol Rep</source>. <year>2021</year>;<volume>73</volume>:<fpage>1565</fpage>–<lpage>1581</lpage>.<pub-id pub-id-type="pmid">34121170</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s43440-021-00293-5</pub-id><pub-id pub-id-type="pmcid">PMC8599320</pub-id></mixed-citation></ref><ref id="alz70959-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz70959-cite-0033">
+<string-name name-style="western">
+<surname>Takeda</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sato</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rakugi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morishita</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Molecular mechanisms linking diabetes mellitus and Alzheimer disease: β‐amyloid peptide, insulin signaling, and neuronal function</article-title>. <source>Mol Biosyst</source>. <year>2011</year>;<volume>7</volume>:<fpage>1822</fpage>–<lpage>1827</lpage>.<pub-id pub-id-type="pmid">21431241</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/c0mb00302f</pub-id></mixed-citation></ref><ref id="alz70959-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz70959-cite-0034">
+<string-name name-style="western">
+<surname>Geroldi</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Minoretti</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bianchi</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Genetic association of alpha2‐Heremans–Schmid glycoprotein polymorphism with late‐onset Alzheimer's disease in Italians</article-title>. <source>Neurosci Lett</source>. <year>2005</year>;<volume>386</volume>:<fpage>176</fpage>–<lpage>178</lpage>.<pub-id pub-id-type="pmid">16002217</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neulet.2005.06.014</pub-id></mixed-citation></ref><ref id="alz70959-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz70959-cite-0035">
+<string-name name-style="western">
+<surname>Andersen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burgdorf</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sparsø</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>AHSG tag single nucleotide polymorphisms associate with type 2 diabetes and dyslipidemia: studies of metabolic traits in 7683 white Danish subjects</article-title>. <source>Diabetes</source>. <year>2008</year>;<volume>57</volume>:<fpage>1427</fpage>–<lpage>1432</lpage>.<pub-id pub-id-type="pmid">18316360</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2337/db07-0558</pub-id></mixed-citation></ref><ref id="alz70959-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz70959-cite-0036">
+<string-name name-style="western">
+<surname>Quesnel</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Labonté</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Picard</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Insulin‐like growth factor binding protein‐2 in at‐risk adults and autopsy‐confirmed Alzheimer brains</article-title>. <source>Brain</source>. <year>2024</year>;<volume>147</volume>:<fpage>1680</fpage>–<lpage>1695</lpage>.<pub-id pub-id-type="pmid">37992295</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awad398</pub-id><pub-id pub-id-type="pmcid">PMC11068109</pub-id></mixed-citation></ref><ref id="alz70959-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz70959-cite-0037">
+<string-name name-style="western">
+<surname>Kuo</surname>
+<given-names>Y‐M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kokjohn</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalback</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Amyloid‐β peptides interact with plasma proteins and erythrocytes: implications for their quantitation in plasma</article-title>. <source>Biochem Biophys Res Commun</source>. <year>2000</year>;<volume>268</volume>:<fpage>750</fpage>–<lpage>756</lpage>.<pub-id pub-id-type="pmid">10679277</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/bbrc.2000.2222</pub-id></mixed-citation></ref><ref id="alz70959-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz70959-cite-0038">
+<string-name name-style="western">
+<surname>Whelan</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mattsson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nagle</surname>
+<given-names>MW</given-names>
+</string-name>, et al. <article-title>Multiplex proteomics identifies novel CSF and plasma biomarkers of early Alzheimer's disease</article-title>. <source>Acta Neuropathol Commun</source>. <year>2019</year>;<volume>7</volume>:<fpage>1</fpage>–<lpage>14</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40478-019-0795-2</pub-id><pub-id pub-id-type="pmcid">PMC6836495</pub-id><pub-id pub-id-type="pmid">31694701</pub-id></mixed-citation></ref><ref id="alz70959-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz70959-cite-0039">
+<string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>, <suffix>Jr.</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, et al. <article-title>Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>5143</fpage>–<lpage>5169</lpage>.<pub-id pub-id-type="pmid">38934362</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.13859</pub-id><pub-id pub-id-type="pmcid">PMC11350039</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

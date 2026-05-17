@@ -1,0 +1,990 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7984263</article-id><article-id pub-id-type="pmcid-ver">PMC7984263.1</article-id><article-id pub-id-type="pmcaid">7984263</article-id><article-id pub-id-type="pmcaiid">7984263</article-id><article-id pub-id-type="pmid">32715623</article-id><article-id pub-id-type="doi">10.1002/alz.12137</article-id><article-id pub-id-type="publisher-id">ALZ12137</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Featured Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Featured Articles</subject></subj-group></article-categories><title-group><article-title>A randomized, controlled clinical trial of plasma exchange with albumin replacement for Alzheimer's disease: Primary results of the AMBAR Study</article-title><alt-title alt-title-type="left-running-head">BOADA et al.</alt-title></title-group><contrib-group><contrib id="alz12137-cr-0001" contrib-type="author"><name name-style="western"><surname>Boada</surname><given-names initials="M">Mercè</given-names></name><xref ref-type="aff" rid="alz12137-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="alz12137-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="alz12137-cr-0002" contrib-type="author"><name name-style="western"><surname>López</surname><given-names initials="OL">Oscar L.</given-names></name><xref ref-type="aff" rid="alz12137-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="alz12137-cr-0003" contrib-type="author"><name name-style="western"><surname>Olazarán</surname><given-names initials="J">Javier</given-names></name><xref ref-type="aff" rid="alz12137-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="alz12137-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="alz12137-cr-0004" contrib-type="author"><name name-style="western"><surname>Núñez</surname><given-names initials="L">Laura</given-names></name><xref ref-type="aff" rid="alz12137-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="alz12137-cr-0005" contrib-type="author"><name name-style="western"><surname>Pfeffer</surname><given-names initials="M">Michael</given-names></name><xref ref-type="aff" rid="alz12137-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="alz12137-cr-0006" contrib-type="author"><name name-style="western"><surname>Paricio</surname><given-names initials="M">María</given-names></name><xref ref-type="aff" rid="alz12137-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="alz12137-cr-0007" contrib-type="author"><name name-style="western"><surname>Lorites</surname><given-names initials="J">Jesús</given-names></name><xref ref-type="aff" rid="alz12137-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="alz12137-cr-0008" contrib-type="author"><name name-style="western"><surname>Piñol‐Ripoll</surname><given-names initials="G">Gerard</given-names></name><xref ref-type="aff" rid="alz12137-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="alz12137-cr-0009" contrib-type="author"><name name-style="western"><surname>Gámez</surname><given-names initials="JE">José E.</given-names></name><xref ref-type="aff" rid="alz12137-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="alz12137-cr-0010" contrib-type="author"><name name-style="western"><surname>Anaya</surname><given-names initials="F">Fernando</given-names></name><xref ref-type="aff" rid="alz12137-aff-0012">
+<sup>12</sup>
+</xref></contrib><contrib id="alz12137-cr-0011" contrib-type="author"><name name-style="western"><surname>Kiprov</surname><given-names initials="D">Dobri</given-names></name><xref ref-type="aff" rid="alz12137-aff-0013">
+<sup>13</sup>
+</xref></contrib><contrib id="alz12137-cr-0012" contrib-type="author"><name name-style="western"><surname>Lima</surname><given-names initials="J">José</given-names></name><xref ref-type="aff" rid="alz12137-aff-0014">
+<sup>14</sup>
+</xref></contrib><contrib id="alz12137-cr-0013" contrib-type="author"><name name-style="western"><surname>Grifols</surname><given-names initials="C">Carlota</given-names></name><xref ref-type="aff" rid="alz12137-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="alz12137-cr-0014" contrib-type="author"><name name-style="western"><surname>Torres</surname><given-names initials="M">Mireia</given-names></name><xref ref-type="aff" rid="alz12137-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="alz12137-cr-0015" contrib-type="author"><name name-style="western"><surname>Costa</surname><given-names initials="M">Montserrat</given-names></name><xref ref-type="aff" rid="alz12137-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="alz12137-cr-0016" contrib-type="author"><name name-style="western"><surname>Bozzo</surname><given-names initials="J">Jordi</given-names></name><xref ref-type="aff" rid="alz12137-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="alz12137-cr-0017" contrib-type="author"><name name-style="western"><surname>Szczepiorkowski</surname><given-names initials="ZM">Zbigniew M.</given-names></name><xref ref-type="aff" rid="alz12137-aff-0015">
+<sup>15</sup>
+</xref></contrib><contrib id="alz12137-cr-0018" contrib-type="author"><name name-style="western"><surname>Hendrix</surname><given-names initials="S">Suzanne</given-names></name><xref ref-type="aff" rid="alz12137-aff-0016">
+<sup>16</sup>
+</xref></contrib><contrib id="alz12137-cr-0019" contrib-type="author" corresp="yes"><name name-style="western"><surname>Páez</surname><given-names initials="A">Antonio</given-names></name><xref ref-type="aff" rid="alz12137-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="author-notes" rid="alz12137-note-0001">
+<sup>†</sup>
+</xref><address><email>antonio.paez@grifols.com</email></address></contrib></contrib-group><aff id="alz12137-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Research Center and Memory Clinic</named-content>
+<named-content content-type="organisation-division">Fundació ACE</named-content>
+<institution>Institut Català de Neurociències Aplicades ‐ Universitat Internacional de Catalunya</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz12137-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Centro de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)</named-content>
+<institution>Instituto de Salud Carlos III</institution>
+<city>Madrid</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz12137-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Departments of Neurology and Psychiatry</named-content>
+<institution>University of Pittsburgh School of Medicine</institution>
+<city>Pittsburgh</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz12137-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Neurology Service</named-content>
+<institution>Hospital General Universitario Gregorio Marañón</institution>
+<city>Madrid</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz12137-aff-0005">
+<label><sup>5</sup></label>
+<institution>Memory Disorders Unit – HM Hospitals</institution>
+<city>Madrid</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz12137-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Alzheimer's Research Group</named-content>
+<institution>Grifols</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz12137-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Medical Services</named-content>
+<institution>Allied Biomedical Research Institute, Inc.</institution>
+<city>Miami</city>
+<named-content content-type="country-part">Florida</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz12137-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Center for Prevention of Alzheimer´s Disease</named-content>
+<institution>Miami Dade Medical Research Institute</institution>
+<city>Miami</city>
+<named-content content-type="country-part">Florida</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz12137-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Medical Services</named-content>
+<institution>L&amp;L Research Choices, Inc.</institution>
+<city>Miami</city>
+<named-content content-type="country-part">Florida</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz12137-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Seizure Disorders Unit</named-content>
+<named-content content-type="organisation-division">Clinical Neuroscience Research</named-content>
+<institution>IRBLleida‐Hospital Universitari Santa Maria</institution>
+<city>Lleida</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz12137-aff-0011">
+<label><sup>11</sup></label>
+<named-content content-type="organisation-division">Psychiatry Department</named-content>
+<institution>Galiz Research</institution>
+<city>Hialeah</city>
+<named-content content-type="country-part">Florida</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz12137-aff-0012">
+<label><sup>12</sup></label>
+<named-content content-type="organisation-division">Nephrology Service</named-content>
+<institution>Hospital General Universitario Gregorio Marañón</institution>
+<city>Madrid</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz12137-aff-0013">
+<label><sup>13</sup></label>
+<institution>Apheresis Care Group and Fresenius Medical Care</institution>
+<city>San Francisco</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz12137-aff-0014">
+<label><sup>14</sup></label>
+<institution>American Red Cross Southern Blood Services Region</institution>
+<city>Atlanta</city>
+<named-content content-type="country-part">Georgia</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz12137-aff-0015">
+<label><sup>15</sup></label>
+<named-content content-type="organisation-division">Department of Pathology and Laboratory Medicine</named-content>
+<institution>Dartmouth Hitchcock Medical Center</institution>
+<city>Lebanon</city>
+<named-content content-type="country-part">New Hampshire</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz12137-aff-0016">
+<label><sup>16</sup></label>
+<institution>Pentara Corporation</institution>
+<city>Salt Lake City</city>
+<named-content content-type="country-part">Utah</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>Antonio Páez, Grifols, Alzheimer's Research Group, Avinguda de la Generalitat, 152‐158, 08174 Sant Cugat del Vallès, Barcelona, Spain.<break/>E‐mail: <email>antonio.paez@grifols.com</email><break/></corresp><fn id="alz12137-note-0001"><label>†</label><p>Collaborators listed at the end of manuscript.</p></fn></author-notes><pub-date pub-type="epub"><day>27</day><month>7</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2020</year></pub-date><volume>16</volume><issue>10</issue><issue-id pub-id-type="pmc-issue-id">378043</issue-id><issue-id pub-id-type="doi">10.1002/alz.v16.10</issue-id><fpage>1412</fpage><lpage>1425</lpage><history><date date-type="rev-recd"><day>20</day><month>5</month><year>2020</year></date><date date-type="received"><day>23</day><month>3</month><year>2020</year></date><date date-type="accepted"><day>04</day><month>6</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>22</day><month>03</month><year>2021</year></date></event><event event-type="pmc-live"><date><day>24</day><month>03</month><year>2021</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-04-04 21:25:14.350"><day>04</day><month>04</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2019 The Authors. <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals, Inc. on behalf of Alzheimer's Association.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-16-1412.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-16-1412.pdf"/><abstract><title>Abstract</title><sec id="alz12137-sec-0010"><title>Introduction</title><p>This phase 2b/3 trial examined the effects of plasma exchange (PE) in patients with mild‐to‐moderate Alzheimer's disease (AD).</p></sec><sec id="alz12137-sec-0020"><title>Methods</title><p>Three hundred forty‐seven patients (496 screened) were randomized (1:1:1:1) into three PE treatment arms with different doses of albumin and intravenous immunoglobulin replacement (6‐week period of weekly conventional PE followed by a 12‐month period of monthly low‐volume PE), and placebo (sham).</p></sec><sec id="alz12137-sec-0030"><title>Results</title><p>PE‐treated patients performed significantly better than placebo for the co‐primary endpoints: change from baseline of Alzheimer's Disease Cooperative Study–Activities of Daily Living (ADCS‐ADL; <italic toggle="yes">P</italic> = .03; 52% less decline) with a trend for Alzheimer's Disease Assessment Scale–Cognitive Subscale (ADAS‐Cog; <italic toggle="yes">P</italic> = .06; 66% less decline) scores at month 14. Moderate‐AD patients (baseline Mini‐Mental State Examination [MMSE] 18‐21) scored better on ADCS‐ADL (<italic toggle="yes">P</italic> = .002) and ADAS‐Cog (<italic toggle="yes">P</italic> = .05), 61% less decline both. There were no changes in mild‐AD patients (MMSE 22‐26). PE‐treated patients scored better on the Clinical Dementia Rating Sum of Boxes (CDR‐sb) (<italic toggle="yes">P</italic> = .002; 71% less decline) and Alzheimer's Disease Cooperative Study‐Clinical Global Impression of Change (ADCS‐CGIC) (<italic toggle="yes">P</italic> &lt; .0001; 100% less decline) scales.</p></sec><sec id="alz12137-sec-0040"><title>Discussion</title><p>This trial suggests that PE with albumin replacement could slow cognitive and functional decline in AD, although further studies are warranted.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz12137-kwd-0001">albumin</kwd><kwd id="alz12137-kwd-0002">albutein</kwd><kwd id="alz12137-kwd-0003">Alzheimer's disease</kwd><kwd id="alz12137-kwd-0004">clinical trial</kwd><kwd id="alz12137-kwd-0005">plasma exchange</kwd><kwd id="alz12137-kwd-0006">plasmapheresis</kwd></kwd-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="14"/><word-count count="8283"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.0 mode:remove_FC converted:22.03.2021</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz12137-cit-0058">
+<string-name name-style="western">
+<surname>Boada</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>López</surname>
+<given-names>OL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olazarán</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>A randomized, controlled clinical trial of plasma exchange with albumin replacement for Alzheimer's disease: Primary results of the AMBAR Study</article-title>. <source xml:lang="en">Alzheimer's Dement</source>. <year>2020</year>;<volume>16</volume>:<fpage>1412</fpage>–<lpage>1425</lpage>. <pub-id pub-id-type="doi">10.1002/alz.12137</pub-id>
+<pub-id pub-id-type="pmid">32715623</pub-id><pub-id pub-id-type="pmcid">PMC7984263</pub-id></mixed-citation>
+</p><fn-group><fn id="alz12137-note-0002"><p>
+<bold>Funding information</bold>: The AMBAR study is sponsored by Grifols, a manufacturer of therapeutic human serum albumin and intravenous immune globulin.</p></fn></fn-group></notes></front><body><sec id="alz12137-sec-0050"><label>1</label><title>INTRODUCTION</title><p>The initial pathological event that triggers the process that leads to Alzheimer's disease (AD) is unknown. However, autopsy studies have shown that AD is a neurodegenerative process (loss of neurons) associated with the accumulation of amyloid plaques in the brain formed from extracellular aggregates of brain amyloid beta (Aβ) protein, and the formation of intracellular neurofibrillary tangles of phosphorylated tau (P‐tau) proteins.<xref rid="alz12137-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> AD pathology is often accompanied by vascular disease,<xref rid="alz12137-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> the presence of other proteinopathies,<xref rid="alz12137-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> and markers of inflammation.<xref rid="alz12137-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>
+</p><p>Currently there are only symptomatic treatments for AD aimed to modulate neurotransmission, such as acetylcholinesterase inhibitors (AChEI) and N‐methyl‐d‐aspartate receptor antagonists (memantine).<xref rid="alz12137-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="alz12137-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> Unfortunately, none of the pharmacologic treatments available today for AD have yet been shown to inhibit or slow down the damage and neuronal death ultimately leading to morbidity and mortality associated with the disease. Despite the fact that clinical trials studying small molecule pharmacotherapy and immunotherapies to reduce brain Aβ protein have, to date, failed to demonstrate any effects on cognition and/or functional performance,<xref rid="alz12137-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="alz12137-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="alz12137-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="alz12137-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="alz12137-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="alz12137-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> Aβ can still be a valid therapeutic target.<xref rid="alz12137-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>
+</p><p>Plasma exchange (PE) with albumin replacement is being investigated as a new therapeutic approach for AD<xref rid="alz12137-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="alz12137-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="alz12137-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="alz12137-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="alz12137-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> on the basis that Aβ in the cerebrospinal fluid (CSF) is in dynamic equilibrium with plasma Aβ through the blood‐brain barrier<xref rid="alz12137-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> and that sequestration of Aβ in the peripheral blood would alter such balance to induce CSF Aβ to pass to plasma.<xref rid="alz12137-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="alz12137-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="alz12137-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="alz12137-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> Hence, routine PE removal of an AD patient's plasma would favor elimination of albumin‐bound Aβ,<xref rid="alz12137-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="alz12137-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> and possibly, other pathogenic elements.<xref rid="alz12137-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>, <xref rid="alz12137-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> In addition, replacement with fresh therapeutic albumin can restore the antioxidant capacity of AD patient plasma,<xref rid="alz12137-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> as albumin is highly oxidized and glycated.<xref rid="alz12137-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="alz12137-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref>, <xref rid="alz12137-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>, <xref rid="alz12137-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref> Furthermore, a therapeutic action at the vascular level can have a positive impact on dementia.<xref rid="alz12137-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref>
+</p><p>Following this line of research, a preliminary pilot study (EudraCT#: 2005‐001616‐45)<xref rid="alz12137-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> conducted in 2005 and a phase 2 trial (EudraCT#: 2007‐000414‐36; ClinicalTrials.gov ID: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT00742417">NCT00742417</ext-link>)<xref rid="alz12137-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="alz12137-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> conducted in 2007 showed that the decline in memory and language abilities, and in brain perfusion, was attenuated in patients treated with PE with albumin replacement. The effects on cognition persisted up to 44weeks after PE was discontinued. In this paper, we present the primary results of the Alzheimer's Management By Albumin Replacement (AMBAR) study, a phase 2b/3 trial started in 2011 to further evaluate the previously observed findings by testing PE with different replacement volumes of albumin, with or without intravenous immunoglobulin (IVIG) to ameliorate a possible decrease in endogenous immunoglobulins.<xref rid="alz12137-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref>
+</p></sec><sec id="alz12137-sec-0060"><label>2</label><title>METHODS</title><p>The AMBAR trial (EudraCT#: 2011‐001598‐25; ClinicalTrials.gov ID: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT01561053">NCT01561053</ext-link>) enrolled patients at 41 sites: 19 in Spain and 22 in the United States. Institutional Review Boards or Ethics Committees from the sites and the health authorities from both countries approved the protocol. Due to the invasive nature of the study procedures, a Data Safety Monitoring Committee met when approximately half of patients were recruited. The patient and a close relative or legal representative read the patient information sheet, agreed to participate in the trial, and then signed the informed consent form.</p><sec id="alz12137-sec-0070"><label>2.1</label><title>Patients</title><p>Eligible patients were men and women between 55 and 85 years of age, had a diagnosis of probable AD dementia according to the National Institute of Neurological Disorders and Stroke and the Alzheimer's Disease and Related Disorders Association criteria,<xref rid="alz12137-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref> whose baseline Mini‐Mental State Examination (MMSE) scored from 18 to 26, and were on stable dose of AChEIs and/or memantine within the previous 3 months of screening. Exclusion criteria included cerebrovascular disease and any condition in which PE is contraindicated. Full details of eligibility criteria are available elsewhere<xref rid="alz12137-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> and in Appendix A in supporting information.</p></sec><sec id="alz12137-sec-0080"><label>2.2</label><title>Interventions</title><p>Enrolled patients were randomly allocated to four groups (in a 1:1:1:1 scheme): three PE treatment groups received different doses of albumin (Albutein, Grifols, Barcelona, Spain) and IVIG (Flebogamma 5% DIF, Grifols, Barcelona, Spain), and one control (placebo) group underwent a simulated PE treatment through a noninvasive procedure (sham) that mimicked PE but without any actual fluid replacement. Patients, caregivers, and raters, including investigators evaluating outcome measures and central laboratory analysis, were blinded. Details of randomization, masking, and treatment allocations are provided elsewhere<xref rid="alz12137-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> and in Appendix A in supporting information.</p><p>The intervention regime started with a 6‐week period of treatment with weekly sessions of conventional therapeutic PE (TPE) with replacement albumin 5% for all the active groups through a peripheral (eg, radial/cubital vein) or central access (eg, subclavian/jugular vein), followed by a second 12‐month period with monthly sessions of low volume PE (LVPE) through a peripheral line with replacement albumin 20% or IVIG. Patients received one of three treatments: (1) infusion of 20g albumin (“low‐albumin” group), (2) infusion of 20g albumin alternated with infusions of 10g IVIG 5% (“low‐albumin+IVIG” group), and (3) infusion of 40g albumin alternated with infusions of 20g IVIG 5% (“high‐albumin+IVIG” group). Further details of replaced plasma and albumin infused volumes, and procedures for TPE and LVPE, as well as of a description of TPE, LVPE, and sham PE devices are available elsewhere<xref rid="alz12137-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> and in Appendix A in supporting information.</p></sec><sec id="alz12137-sec-0090"><label>2.3</label><title>Clinical and laboratory assessments</title><p>The following clinical and neuropsychological measurements were performed at baseline, plus at months 2, 6, 9, 12, and 14: Alzheimer's Disease Cooperative Study–Activities of Daily Living (ADCS‐ADL) as a functional scale; Alzheimer's Disease Assessment Scale‐Cognitive Subscale (ADAS‐Cog) as a cognitive scale; and two global assessment of change scales—Clinical Dementia Rating Sum of Boxes (CDR‐sb), and Alzheimer's Disease Cooperative Study‐Clinical Global Impression of Change (ADCS‐CGIC). Details of the neuropsychological assessments are provided elsewhere<xref rid="alz12137-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> and in Appendix A in supporting information.</p><p>CSF biomarkers, Aβ<sub>40</sub>, Aβ<sub>42,</sub> total tau (T‐tau), and P‐tau were assessed. CSF samples were collected at baseline and after the TPE and LVPE treatment periods. Details of biomarker determination are provided elsewhere<xref rid="alz12137-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> and in Appendix A in supporting information.</p><p>Detailed physical examinations were conducted at each study visit.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz12137-sec-0100"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz12137-list-0001"><list-item><p>Systematic review: As a new approach for Alzheimer's disease (AD) treatment, it is hypothesized that sequestration through plasma exchange (PE) of amyloid beta (Aβ) bound to plasma albumin may lead to an efflux of Aβ from the central nervous system to balance the peripheral drop. Use of Aβ‐free therapeutic albumin as the fluid replacement would reinforce the mechanism.</p></list-item><list-item><p>Interpretation: This phase 2b/3, randomized, controlled clinical trial of 347 mild‐to‐moderate AD patients (496 screened) showed that PE with albumin replacement was feasible and could slow cognitive and functional decline in AD patients over a period of 14 months. This was supported by the effects observed in the co‐primary and global secondary assessment outcomes.</p></list-item><list-item><p>Future directions: These findings have the potential to offer AD patients a new modality of treatment and justify a new trial.</p></list-item></list>
+</p></sec></boxed-text></sec><sec id="alz12137-sec-0110"><label>2.4</label><title>Efficacy and safety outcomes</title><p>There were two co‐primary efficacy variables: the ADCS‐ADL and the ADAS‐Cog scale.<xref rid="alz12137-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> The primary analysis assessed the change from baseline to 14 months for both of these outcomes. The global assessment of change in AD scales, CDR‐sb and ADCS‐CGIC, were secondary clinical efficacy variables.<xref rid="alz12137-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref>
+</p><p>The efficacy of the intervention was also assessed within severity groups based on the baseline MMSE scores; scores 22‐26 were considered mild impairment and scores 18‐21 moderate impairment.</p><p>Biomarker variables included changes in CSF levels of Aβ<sub>40</sub> and Aβ<sub>42</sub>, T‐tau and P‐tau between baseline and the finalization of each of the two treatment periods.<xref rid="alz12137-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref>
+</p><p>The main safety variable was the percentage of PE procedures (including the infusion of albumin and IVIG) associated with at least one adverse event (AE) that may be related to the study procedure.<xref rid="alz12137-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref>
+</p></sec><sec id="alz12137-sec-0120"><label>2.5</label><title>Statistics</title><p>A sample size of 312 patients (78 in each of the four groups) would result in over 90% power for detecting a difference in the change from baseline of 3 points on the ADAS‐Cog, between the treated and the placebo groups, with a two‐sided 5% significance level. The sample size of 312 patients provides more than 98% power for detecting a treatment difference in the change from baseline of 6.69 points on the ADCS‐ADL score between the treated and the placebo groups with a two‐sided 5% level of significance.</p><p>The primary efficacy endpoints were analyzed over time as change from baseline to month 14 using a mixed model for repeated measures (MMRM) approach. Secondary endpoints were analyzed as change from baseline to months 2, 6, 9, 12, and 14 using analysis of covariance with treatment group as a fixed effect, and the corresponding baseline score, age, and AD severity as a covariate. The differences from the placebo group were estimated using least squares (LS) means (with 95% confidence interval [CI] or ± standard error of the mean [SEM]). Details of analyses are provided in Appendix A in supporting information.</p><p>Because all treated patients had the same volume of plasma removed for PE regardless of the group allocation, it was pre‐determined that the three treatment groups were also pooled together and analyzed as the combined treatment group (“PE‐treated” group). The same analyses were performed separately within the two pre‐specified AD severity subgroups: moderate AD (baseline MMSE: 18‐21) and mild AD (baseline MMSE: 22‐26).</p><p>Effect sizes were calculated as the ratio in percentage of the change‐from‐baseline difference between placebo and treated groups over the change‐from‐baseline of the placebo group, so that if the placebo group declines, effect sizes of &lt;100% indicate less decline of the active group while effect sizes of &gt;100% indicate improvement over baseline.<xref rid="alz12137-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref> For completeness, the effect sizes for primary efficacy endpoints were also determined using Cohen's d value calculated with the change from baseline standard deviation.</p><p>Additional post‐hoc sensitivity analyses were performed to assess the impact of discontinuations (ie, dropouts) on the results using a z‐score carried forward analysis (zLOCF), and to assess the consistency of results across outcomes using a global statistical test (GST). Details of post‐hoc analyses are provided in Appendix A in supporting information.</p></sec></sec><sec id="alz12137-sec-0130"><label>3</label><title>RESULTS</title><sec id="alz12137-sec-0140"><label>3.1</label><title>Demographics and clinical characteristics of patients</title><p>A total of 496 patients were screened between April 19, 2012 and December 16, 2016. Of this group, 347 patients were randomized into four arms (see Figure<xref rid="alz12137-fig-0001" ref-type="fig">1</xref>). Twenty‐five out of the 347 randomized patients did not receive treatment. The percentage of treated patients who completed the study ranged from 65.1% to 65.4% in the low‐albumin+IVIG and high‐albumin+IVIG groups, respectively, to 78.2% and 80.0% in the half‐albumin and placebo groups, respectively.</p><fig fig-type="FIGURE" xml:lang="en" id="alz12137-fig-0001" orientation="portrait" position="float"><label>FIGURE 1</label><caption><p>Flowchart of patients through the study. One patient randomized to placebo was implanted by error with a real central catheter and was then transferred and treated as a high‐albumin+intravenous immunoglobulin (IVIG) patient; four patients in the low‐albumin+IVIG arm and three patients in the high‐albumin+IVIG arm completed the study under a previous version of the protocol that was not blinded</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="jats-graphic-1" position="float" orientation="portrait" xlink:href="ALZ-16-1412-g003.jpg"/></fig><p>Demographics and baseline characteristics of the placebo and treated groups are shown in Table<xref rid="alz12137-tbl-0001" ref-type="table">1</xref>. The percentage of apolipoprotein E (<italic toggle="yes">APOE Ɛ4</italic>) carriers was greater in the low‐albumin arm than in the placebo arm and the other two treatment arms (63.5%vs 44.2%‐48.2%; <italic toggle="yes">P</italic> = .02).</p><table-wrap id="alz12137-tbl-0001" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 1</label><caption><p>Demographic and clinical characteristics at baseline by treatment arm</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1"/><th align="left" style="border-bottom:solid 1px #000000" colspan="3" rowspan="1">Treatment modalities</th><th align="left" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Characteristic</th><th align="left" rowspan="1" colspan="1">Placebo (N = 80)</th><th align="left" rowspan="1" colspan="1">All PE‐treated (N = 242)</th><th align="left" rowspan="1" colspan="1">Low albumin (N = 78)</th><th align="left" rowspan="1" colspan="1">Low albumin + IVIG (N = 86)</th><th align="left" rowspan="1" colspan="1">High albumin + IVIG (N = 78)</th><th align="left" rowspan="1" colspan="1">Total (N = 322)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (years), mean (SD)</td><td align="left" rowspan="1" colspan="1">68.4 (8.4)</td><td align="left" rowspan="1" colspan="1">69.2 (7.4)</td><td align="left" rowspan="1" colspan="1">68.5 (7.5)</td><td align="left" rowspan="1" colspan="1">69.5 (6.9)</td><td align="left" rowspan="1" colspan="1">69.5 (7.9)</td><td align="left" rowspan="1" colspan="1">69.0 (7.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age group (n, %)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1"> &lt; 65</td><td align="left" rowspan="1" colspan="1">29 (36.3)</td><td align="left" rowspan="1" colspan="1">65 (26.9)</td><td align="left" rowspan="1" colspan="1">26 (33.3)</td><td align="left" rowspan="1" colspan="1">17 (19.8)</td><td align="left" rowspan="1" colspan="1">22 (28.2)</td><td align="left" rowspan="1" colspan="1">94 (29.2)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">65‐75</td><td align="left" rowspan="1" colspan="1">33 (41.3)</td><td align="left" rowspan="1" colspan="1">124 (51.2)</td><td align="left" rowspan="1" colspan="1">37 (47.4)</td><td align="left" rowspan="1" colspan="1">52 (60.5)</td><td align="left" rowspan="1" colspan="1">35 (44.9)</td><td align="left" rowspan="1" colspan="1">157 (48.8)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1"> &gt; 75</td><td align="left" rowspan="1" colspan="1">18 (22.5)</td><td align="left" rowspan="1" colspan="1">53 (21.9)</td><td align="left" rowspan="1" colspan="1">15 (19.2)</td><td align="left" rowspan="1" colspan="1">17 (19.8)</td><td align="left" rowspan="1" colspan="1">21 (26.9)</td><td align="left" rowspan="1" colspan="1">71 (22.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex (n, %)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">44 (55.0)</td><td align="left" rowspan="1" colspan="1">104 (43.0)</td><td align="left" rowspan="1" colspan="1">35 (44.9)</td><td align="left" rowspan="1" colspan="1">38 (44.2)</td><td align="left" rowspan="1" colspan="1">31 (39.7)</td><td align="left" rowspan="1" colspan="1">148 (46.0)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">36 (45.0)</td><td align="left" rowspan="1" colspan="1">138 (57.0)</td><td align="left" rowspan="1" colspan="1">43 (55.1)</td><td align="left" rowspan="1" colspan="1">48 (55.8)</td><td align="left" rowspan="1" colspan="1">47 (60.3)</td><td align="left" rowspan="1" colspan="1">174 (54.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI (Kg/m<sup>2</sup>), mean (SD)</td><td align="left" rowspan="1" colspan="1">26.8 (4.3)</td><td align="left" rowspan="1" colspan="1">26.9 (4.6)</td><td align="left" rowspan="1" colspan="1">27.0 (4.8)</td><td align="left" rowspan="1" colspan="1">27.1 (4.0)</td><td align="left" rowspan="1" colspan="1">26.5 (5.0)</td><td align="left" rowspan="1" colspan="1">26.9 (4.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Time since diagnosis of AD (years), mean (SD)</td><td align="left" rowspan="1" colspan="1">2.5 (2.3)</td><td align="left" rowspan="1" colspan="1">2.4 (2.4)</td><td align="left" rowspan="1" colspan="1">2.2 (2.4)</td><td align="left" rowspan="1" colspan="1">2.5 (2.3)</td><td align="left" rowspan="1" colspan="1">2.4 (2.6)</td><td align="left" rowspan="1" colspan="1">2.4 (2.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">MMSE score, mean (SD)</td><td align="left" rowspan="1" colspan="1">21.7 (2.6)</td><td align="left" rowspan="1" colspan="1">21.7 (2.6)</td><td align="left" rowspan="1" colspan="1">21.2 (2.4)</td><td align="left" rowspan="1" colspan="1">22.1 (2.6)</td><td align="left" rowspan="1" colspan="1">21.4 (2.6)</td><td align="left" rowspan="1" colspan="1">21.6 (2.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Severity of AD (n, %)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Moderate (MMSE 18‐21)</td><td align="left" rowspan="1" colspan="1">36 (45.0)</td><td align="left" rowspan="1" colspan="1">117 (48.3)</td><td align="left" rowspan="1" colspan="1">46 (59.0)</td><td align="left" rowspan="1" colspan="1">37 (43.0)</td><td align="left" rowspan="1" colspan="1">42 (53.8)</td><td align="left" rowspan="1" colspan="1">161 (50.0)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Mild (MMSE 22‐26)</td><td align="left" rowspan="1" colspan="1">44 (55.0)</td><td align="left" rowspan="1" colspan="1">125 (51.7)</td><td align="left" rowspan="1" colspan="1">32 (41.0)</td><td align="left" rowspan="1" colspan="1">49 (57.0)</td><td align="left" rowspan="1" colspan="1">36 (46.2)</td><td align="left" rowspan="1" colspan="1">161 (50.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">AD medication (n, %)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">CEIs</td><td align="left" rowspan="1" colspan="1">56 (70.0)</td><td align="left" rowspan="1" colspan="1">164 (67.7)</td><td align="left" rowspan="1" colspan="1">55 (70.5)</td><td align="left" rowspan="1" colspan="1">50 (58.1)</td><td align="left" rowspan="1" colspan="1">59 (75.6)</td><td align="left" rowspan="1" colspan="1">220 (68.3)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Memantine</td><td align="left" rowspan="1" colspan="1">7 (8.8)</td><td align="left" rowspan="1" colspan="1">36 (14.9)</td><td align="left" rowspan="1" colspan="1">13 (16.7)</td><td align="left" rowspan="1" colspan="1">14 (16.3)</td><td align="left" rowspan="1" colspan="1">9 (11.5)</td><td align="left" rowspan="1" colspan="1">43 (13.4)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">CEIs + memantine</td><td align="left" rowspan="1" colspan="1">16 (20.0)</td><td align="left" rowspan="1" colspan="1">40 (16.5)</td><td align="left" rowspan="1" colspan="1">8 (10.3)</td><td align="left" rowspan="1" colspan="1">22 (25.6)</td><td align="left" rowspan="1" colspan="1">10 (12.8)</td><td align="left" rowspan="1" colspan="1">56 (17.4)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">1 (1.3)</td><td align="left" rowspan="1" colspan="1">2 (0.8)</td><td align="left" rowspan="1" colspan="1">2 (2.6)</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">3 (0.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE Ɛ4</italic>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">N</td><td align="left" rowspan="1" colspan="1">77</td><td align="left" rowspan="1" colspan="1">231</td><td align="left" rowspan="1" colspan="1">74</td><td align="left" rowspan="1" colspan="1">83</td><td align="left" rowspan="1" colspan="1">74</td><td align="left" rowspan="1" colspan="1">308</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Carriers (n, %)</td><td align="left" rowspan="1" colspan="1">34 (44.2)</td><td align="left" rowspan="1" colspan="1">120 (51.9)</td><td align="left" rowspan="1" colspan="1">47 (63.5)<xref ref-type="fn" rid="alz12137-tbl1-note-0002">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">40 (48.2)</td><td align="left" rowspan="1" colspan="1">33 (44.6)</td><td align="left" rowspan="1" colspan="1">154 (50.0)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Non‐carriers (n, %)</td><td align="left" rowspan="1" colspan="1">43 (55.8)</td><td align="left" rowspan="1" colspan="1">111 (49.1)</td><td align="left" rowspan="1" colspan="1">27 (36.5)</td><td align="left" rowspan="1" colspan="1">43 (51.8)</td><td align="left" rowspan="1" colspan="1">41 (55.4)</td><td align="left" rowspan="1" colspan="1">154 (50.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF Aβ<sub>42</sub>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">N</td><td align="left" rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">226</td><td align="left" rowspan="1" colspan="1">74</td><td align="left" rowspan="1" colspan="1">77</td><td align="left" rowspan="1" colspan="1">75</td><td align="left" rowspan="1" colspan="1">297</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">pg/mL, median (IQR)</td><td align="left" rowspan="1" colspan="1">551 (380‐810)</td><td align="left" rowspan="1" colspan="1">505 (431‐700)</td><td align="left" rowspan="1" colspan="1">502 (436‐618)</td><td align="left" rowspan="1" colspan="1">509 (399‐730)</td><td align="left" rowspan="1" colspan="1">505 (407‐822)</td><td align="left" rowspan="1" colspan="1">515 (426‐737)</td></tr></tbody></table><table-wrap-foot><fn id="alz12137-tbl1-note-0001"><p>Abbreviations: AD, Alzheimer's disease; BMI, body mass index; CEI, cholinesterase inhibitor; CSF, cerebrospinal fluid; IQR, Interquartile range; IVIG, intravenous immunoglobulin; MMSE, Mini‐Mental State Examination; PE, plasma exchange; SD, standard deviation.</p></fn><fn id="alz12137-tbl1-note-0002"><label>*</label><p>
+<italic toggle="yes">P</italic> = .02.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Figure B.1 of Appendix B in supporting information shows the distribution of the baseline CSF Aβ<sub>42</sub> levels. Data separately for moderate and mild AD patients (baseline MMSE scores 18‐21 and 22‐26 respectively, are shown in Appendix B, Tables B.1 and B.2 in supporting information). Medical history of patients is shown in Appendix B, Table B.3 in supporting information.</p></sec><sec id="alz12137-sec-0150"><label>3.2</label><title>Primary efficacy endpoints</title><p>The LS difference from baseline to month 14 for the PE‐treated group versus placebo was 3.5 points (95% CI: 0.4, 6.6; <italic toggle="yes">P</italic> = .03; 52% less decline) on the ADCS‐ADL scale (Figure<xref rid="alz12137-fig-0002" ref-type="fig">2A</xref>), and −2.1 points (95% CI: −4.4, 0.2; <italic toggle="yes">P</italic> = .06; 66% less decline) on the ADAS‐Cog scale (Figure<xref rid="alz12137-fig-0002" ref-type="fig">2G</xref>). The differences in the three treatment arms separately (low‐albumin, low‐albumin+IVIG, high‐albumin+IVIG) were not statistically significant (Figure<xref rid="alz12137-fig-0002" ref-type="fig">2D and J</xref>). Baseline and individual visit scores are provided in Appendix B, Tables B.4 and B.5 in supporting information. Effect sizes based on the change from baseline Cohen's d values are also provided in Appendix B, Table B.6 in supporting information.</p><fig fig-type="FIGURE" xml:lang="en" id="alz12137-fig-0002" orientation="portrait" position="float"><label>FIGURE 2</label><caption><p>Least square (LS) mean change from baseline scores (± standard error of the mean) in the Alzheimer's Disease Cooperative Study Group–Activities of Daily Living (ADCS‐ADL) and the Alzheimer's Disease Assessment Scale–Cognitive (ADAS‐Cog) scales (co‐primary efficacy variables; panels A–F and G–L, respectively) performed on mild to moderate Alzheimer's disease (AD) patients (all‐patient [panels A, D, G, J], moderate AD [panels B, E, H, K], and mild AD [panels C, F, I, L] populations) treated with plasma exchange (PE) with albumin replacement. TPE denotes the 2‐month period of conventional therapeutic PE; LVPE denotes the period up to month 14 of low‐volume PE. The difference between the treated patient groups (PE‐treated patients combined [n = 242; panels A–C and G–I], and three active groups: low/high‐albumin dose, with/without intravenous immunoglobulin [n = 78‐86; panels D–F and J–L]) and the placebo group (n = 80) at month 14 (primary endpoint) was evaluated using a mixed model for repeated measures (MMRM) approach, with adjustment for multiple dose groups according to the Hochberg procedure for α level of 0.05. Both statistical significance (<italic toggle="yes">P</italic> &lt; .05) and borderline significance (<italic toggle="yes">P</italic> &lt; .1) versus placebo are indicated</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="jats-graphic-3" position="float" orientation="portrait" xlink:href="ALZ-16-1412-g002.jpg"/></fig></sec><sec id="alz12137-sec-0160"><label>3.3</label><title>Global assessment efficacy endpoints</title><p>There was significantly less decline compared to placebo in the CDR‐sb in all treatment groups (Figure<xref rid="alz12137-fig-0003" ref-type="fig">3A and D</xref>), not only at month 14 (difference ranging from −1.1 [95% CI: −2.2, 0.0] to −1.2 [95% CI: −2.2, −0.2]; <italic toggle="yes">P</italic> values: .002 to .01; effect sizes: 65% to 71%) but at earlier time points. ADCS‐CGIC scores at month 14 showed stabilization in all treatment groups compared to placebo (difference ranging from −0.8 [95% CI: −1.44, −0.36] to −0.9 [95% CI: −1.2, −0.4]; <italic toggle="yes">P</italic> values: &lt; .001 to .002; effect sizes: 100% to 113%; Figure<xref rid="alz12137-fig-0003" ref-type="fig">3G and J</xref>). Baseline and individual visit scores are provided in Appendix B, Tables B.7 and B.8 in supporting information.</p><fig fig-type="FIGURE" xml:lang="en" id="alz12137-fig-0003" orientation="portrait" position="float"><label>FIGURE 3</label><caption><p>Least square (LS) mean change from baseline scores (± standard error of the mean) in the Clinical Dementia Rating Sum of Boxes (CDR‐sb), and Alzheimer's Disease Cooperative Study‐Clinical Global Impression of Change (ADCS‐CGIC) scales (global efficacy secondary variables; panels A–F and G–L, respectively) performed on mild to moderate Alzheimer's disease (AD) patients (all‐patient [panels A, D, G, J], moderate AD [panels B, E, H, K], and mild AD [panels C, F, I, L] populations) treated with plasma exchange (PE) with albumin replacement. TPE denotes the 2‐month period of conventional therapeutic PE; LVPE denotes the period up to month 14 of low‐volume PE. The difference between the treated patient groups (PE‐treated patients combined [n = 242; panels A–C and G–I], and three active groups: low/high‐albumin dose, with/without intravenous immunoglobulin [n = 78–86; panels D–F and J–L]) and the placebo group (n = 80) at months 2, 6, 9, 12, and 14 was evaluated using analysis of covariance with treatment group as a fixed effect, and the corresponding baseline value, age and AD severity, as a covariate. Both statistical significance (<italic toggle="yes">P</italic> &lt; .05) and borderline significance (<italic toggle="yes">P</italic> &lt; .1) versus placebo are indicated</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="jats-graphic-5" position="float" orientation="portrait" xlink:href="ALZ-16-1412-g004.jpg"/></fig></sec><sec id="alz12137-sec-0170"><label>3.4</label><title>Severity subgroup analysis</title><p>For primary endpoints, in the moderately impaired AD patients, difference between the PE‐treated group and placebo at month 14 were 8.6 for the ADCS‐ADL scale (95% CI: 3.1, 14.1; <italic toggle="yes">P</italic> = .002; 61% less decline; Figure<xref rid="alz12137-fig-0002" ref-type="fig">2B</xref>), and −3.9 for the ADAS‐cog scale (95% CI: −7.9, 0.1; <italic toggle="yes">P</italic> = .05; 61% less decline; Figure<xref rid="alz12137-fig-0002" ref-type="fig">2H</xref>). In the comparison of each of the three modalities of treatment versus placebo, there was a statistically significant difference in the ADCS‐ADL scale of moderate AD patients (difference ranging from 8.0 [95% CI: 2.0, 14.0] to 9.5 [95% CI: 1.6, 17.4]; <italic toggle="yes">P</italic> values: .01 to .02; effect sizes: 57% to 67%; Figure<xref rid="alz12137-fig-0002" ref-type="fig">2E</xref>). Both ADAS‐cog and ADCS‐ADL scores remained unchanged across the study in all treatment and placebo groups for mild AD patients (Figure<xref rid="alz12137-fig-0002" ref-type="fig">2C,F, I, and L</xref>).</p><p>Regarding global assessment endpoints, there was a significantly slower decline in the CDR‐sb scores versus placebo at month 14 for most treatment groups in the moderate AD patients (difference ranging ‒1.5 [95% CI: ‒3.0, 0.0] to ‒1.8 [95% CI: ‒3.2, ‒0.4]; <italic toggle="yes">P</italic> values: .01 to .04; effect sizes: 50% to 60%; Figure<xref rid="alz12137-fig-0003" ref-type="fig">3B, E</xref>), and improvement in mild AD patients (difference ranging ‒0.8 [95% CI: ‒2.2, 0.6] to ‒1.2 [95% CI: ‒2.4, 0.0]; <italic toggle="yes">P</italic> values: .02 to .04; effect sizes: 157% to 171%; Figure<xref rid="alz12137-fig-0003" ref-type="fig">3C, F</xref>). There was less decline in ADCS‐CGIC scores at month 14 for all treatment groups versus placebo in the moderate AD patients (difference ranging ‒0.8 [95% CI:‒1.4, ‒0.2] to ‒1.0 [95% CI: ‒1.7, ‒0.3]; <italic toggle="yes">P</italic> values: .002 to .02; effect sizes: 57% to 71%; Figure<xref rid="alz12137-fig-0003" ref-type="fig">3H and K</xref>), and improvement in the mild AD patients (difference ranging −0.8 [95% CI: −1.3, −0.3] to −0.8 [95% CI: −1.6, −0.1]; <italic toggle="yes">P</italic> values: .004 to .04; effect sizes: 200%; Figure<xref rid="alz12137-fig-0003" ref-type="fig">3I and L</xref>).</p></sec><sec id="alz12137-sec-0180"><label>3.5</label><title>Complementary analysis</title><p>The results of the sensitivity analysis using zLOCF resulted in similar treatment differences and effect sizes as the primary MMRM (see Appendix B, Table B.9 in supporting information). Results were nearly identical for ADCS‐ADL, ADAS‐Cog, CDR‐sb, and ADCS‐CGIC, consistent with a missing at random assumption for the discontinuations.</p><p>When the model was adjusted for key baseline characteristics, the analysis showed statistically significant differences against placebo of most treatment groups in all relevant outcomes (Appendix B, Table B.10 in supporting information).</p><p>Consistency of results was confirmed by the calculation of effect sizes across outcomes, with slowing of progression of symptoms at 14 months of 54% for ADCS‐ADL (difference: 3.6 [95% CI: 0.6, 6.7]; <italic toggle="yes">P</italic> = .02), 58% for ADAS‐Cog (difference: ‒2.0 [95% CI: ‒4.01, 0.0]; <italic toggle="yes">P</italic> = .05), 51% for CDR‐sb (difference: ‒0.9 [95% CI: ‒1.7, ‒0.2]; <italic toggle="yes">P</italic> = .02), and 76% for ADCS‐CGIC (difference: ‒0.7 [95% CI: ‒1.0, ‒0.4]; <italic toggle="yes">P</italic> &lt; .0001). The GST score showed slowing of progression of symptoms with statistically significant differences between all active treatments versus placebo from month 9 (difference: ‒5.6 [95% CI: ‒10.58, ‒0.69]; <italic toggle="yes">P</italic> = .03), month 12 (difference: ‒7.54 [95% CI: ‒12.78, ‒2.30]; <italic toggle="yes">P</italic> = .005), and month 14 (difference: ‒8.24 [95% CI: ‒13.52, ‒2.95]; <italic toggle="yes">P</italic> = .002).</p></sec><sec id="alz12137-sec-0190"><label>3.6</label><title>Biomarkers</title><p>A total of 297 patients provided CSF at baseline. Changes from baseline CSF Aβ<sub>42</sub> levels remained stable in all PE‐treated patients, whereas in the placebo group there was a decrease over time (Figure <xref rid="alz12137-fig-0004" ref-type="fig">4D, E, and F</xref>). This finding was particularly evident in the moderately impaired AD patients (LS means ± SEM: 1.2±9.8 vs −47.3±27.8 [<italic toggle="yes">P</italic> = .04] and −7.3±11.5 vs −59.8±30.2 [<italic toggle="yes">P</italic> = .05], at months 2 and 14, respectively; Figure <xref rid="alz12137-fig-0004" ref-type="fig">4E</xref>). With regard to T‐tau and P‐tau proteins, the placebo group showed increased values with respect to the PE‐treated patients combined in the moderate AD patients (35.5±19.8 vs 193.5±71.7 [<italic toggle="yes">P</italic> = .002] and 5.7±1.5 vs 13.4±4.5 [<italic toggle="yes">P</italic> = .04], respectively, at month 2; Figure <xref rid="alz12137-fig-0004" ref-type="fig">4H and K</xref>). Raw baseline and individual visit CSF biomarker values in the treatment groups are shown in Appendix B, Tables B.11 to B.14 in supporting information.</p><fig fig-type="FIGURE" xml:lang="en" id="alz12137-fig-0004" orientation="portrait" position="float"><label>FIGURE 4</label><caption><p>Least square (LS) mean change from baseline in cerebrospinal fluid levels (± standard error of the mean) of Aβ<sub>40</sub> (panels A, B, C), Aβ<sub>42</sub> (panels D, E, F), T‐tau (panels G, H, I), and P‐tau (panels J, K, L) between the finalization and beginning of each of the two plasma exchange with albumin replacement (PE) periods (TPE: conventional therapeutic PE up to month 2; LVPE: low‐volume PE up to month 14) performed on mild to moderate Alzheimer's disease (AD) patients (all‐patient [panels A, D, G, J], moderate AD [panels B, E, H, K], and mild AD [panels C, F, I, L] populations). The difference between the group of PE‐treated patients combined (n = 226 at baseline; n = 205 at end of TPE; n = 159 at end of LVPE) and the placebo group (n = 71 at baseline; n = 72 at end of TPE; n = 63 at end of LVPE) was evaluated using analysis of covariance with treatment group as a fixed effect, and the corresponding baseline value, age and AD severity, as a covariate. Both statistical significance (<italic toggle="yes">P</italic> &lt; .05) and borderline significance (<italic toggle="yes">P</italic> &lt; .1) versus placebo are indicated</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="jats-graphic-7" position="float" orientation="portrait" xlink:href="ALZ-16-1412-g001.jpg"/></fig></sec><sec id="alz12137-sec-0200"><label>3.7</label><title>Safety</title><p>A total of 4709 PE procedures were performed, 1223 were sham PE (placebo) and 3486 were treatment PE. Of the treatment PE, 1283 were TPE while 2203 were LVPE. All LVPE and 814 TPE (47.4%) were performed through peripheral access.</p><p>Of all 4709 PE procedures, ≈90% were uneventful, and the remaining 10.6% were associated with at least one AE. There were AEs associated with 20.1% of PE procedures with central access versus 13.1% with peripheral access. There were very few AEs related to the study product (albumin and IVIG) with respect to the number of PEs performed (0.3% to 1.4% across the PE treatment arms). The product‐related AEs were more frequent in the high‐albumin+IVIG group (17.7% of patients with at least 1 AE) than in the low‐albumin+IVIG (8.1%) or the low‐albumin (6.4%) groups.</p><p>AEs had a median duration of 1 day, the majority of them (58.5%) being transient (lasting ≤ 7 days). The most frequent AE was local catheter reactions (2.4% to 3.5% across the PE treatment arms; see Table <xref rid="alz12137-tbl-0002" ref-type="table">2</xref>). Overall AEs were more frequent among the patients in the three groups of PE treatment (87.3%‐92.3%) than in placebo (70.9%). Two patients died during the study (sepsis and suicide). As shown in Figure <xref rid="alz12137-fig-0001" ref-type="fig">1</xref>, the dropout rate due to an AE was very low in the placebo group (1.3%; 1/80 patients) whereas in the treated groups, values ranged from 7.7% (6/78) to 17.4% (15/86).</p><table-wrap id="alz12137-tbl-0002" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 2</label><caption><p>Safety of plasma exchange procedures by treatment arm</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Concept</th><th align="left" rowspan="1" colspan="1">Placebo</th><th align="left" rowspan="1" colspan="1">Low‐albumin</th><th align="left" rowspan="1" colspan="1">Low albumin + IVIG</th><th align="left" rowspan="1" colspan="1">High albumin + IVIG</th><th align="left" rowspan="1" colspan="1">Total</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Total PE performed</td><td align="left" rowspan="1" colspan="1">1223</td><td align="left" rowspan="1" colspan="1">1207</td><td align="left" rowspan="1" colspan="1">1180</td><td align="left" rowspan="1" colspan="1">1099</td><td align="left" rowspan="1" colspan="1">4709</td></tr><tr><td align="left" rowspan="1" colspan="1">PE associated with AE, n (% of procedures)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">With procedure‐related AE</td><td align="left" rowspan="1" colspan="1">9 (0.7)</td><td align="left" rowspan="1" colspan="1">163 (13.5)</td><td align="left" rowspan="1" colspan="1">148 (12.5)</td><td align="left" rowspan="1" colspan="1">181 (16.5)</td><td align="left" rowspan="1" colspan="1">501 (10.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">With product‐related AE</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">4 (0.3)</td><td align="left" rowspan="1" colspan="1">6 (0.5)</td><td align="left" rowspan="1" colspan="1">16 (1.4)</td><td align="left" rowspan="1" colspan="1">26 (0.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">PE associated with a specific AE, n (% of procedures)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Catheter local reactions<xref ref-type="fn" rid="alz12137-tbl2-note-0002">
+<sup>a</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">40 (3.3)</td><td align="left" rowspan="1" colspan="1">35 (3.0)</td><td align="left" rowspan="1" colspan="1">38 (3.5)</td><td align="left" rowspan="1" colspan="1">113 (2.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypotension</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">37 (3.1)</td><td align="left" rowspan="1" colspan="1">37 (3.1)</td><td align="left" rowspan="1" colspan="1">29 (2.6)</td><td align="left" rowspan="1" colspan="1">103 (2.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Muscle spasms</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">15 (1.2)</td><td align="left" rowspan="1" colspan="1">4 (0.3)</td><td align="left" rowspan="1" colspan="1">28 (2.5)</td><td align="left" rowspan="1" colspan="1">47 (1.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Anemia</td><td align="left" rowspan="1" colspan="1">2 (0.2)</td><td align="left" rowspan="1" colspan="1">12 (1.0)</td><td align="left" rowspan="1" colspan="1">15 (1.3)</td><td align="left" rowspan="1" colspan="1">12 (1.1)</td><td align="left" rowspan="1" colspan="1">41 (0.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Dizziness</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">8 (0.7)</td><td align="left" rowspan="1" colspan="1">13 (1.1)</td><td align="left" rowspan="1" colspan="1">9 (0.8)</td><td align="left" rowspan="1" colspan="1">30 (0.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Presyncope</td><td align="left" rowspan="1" colspan="1">1 (0.1)</td><td align="left" rowspan="1" colspan="1">7 (0.6)</td><td align="left" rowspan="1" colspan="1">13 (1.1)</td><td align="left" rowspan="1" colspan="1">9 (0.8)</td><td align="left" rowspan="1" colspan="1">30 (0.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Paresthesia</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">16 (1.3)</td><td align="left" rowspan="1" colspan="1">1 (0.1)</td><td align="left" rowspan="1" colspan="1">11 (1.0)</td><td align="left" rowspan="1" colspan="1">28 (0.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Nausea</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">8 (0.7)</td><td align="left" rowspan="1" colspan="1">4 (0.3)</td><td align="left" rowspan="1" colspan="1">4 (0.4)</td><td align="left" rowspan="1" colspan="1">16 (0.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Blood fibrinogen decreased</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (0.1)</td><td align="left" rowspan="1" colspan="1">8 (0.7)</td><td align="left" rowspan="1" colspan="1">3 (0.3)</td><td align="left" rowspan="1" colspan="1">12 (0.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Blood/venous pressure decreased</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">4 (0.3)</td><td align="left" rowspan="1" colspan="1">3 (0.3)</td><td align="left" rowspan="1" colspan="1">5 (0.5)</td><td align="left" rowspan="1" colspan="1">12 (0.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Catheter/device infection<xref ref-type="fn" rid="alz12137-tbl2-note-0003">
+<sup>b</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">4 (0.3)</td><td align="left" rowspan="1" colspan="1">4 (0.3)</td><td align="left" rowspan="1" colspan="1">3 (0.3)</td><td align="left" rowspan="1" colspan="1">11 (0.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Syncope</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">4 (0.3)</td><td align="left" rowspan="1" colspan="1">3 (0.3)</td><td align="left" rowspan="1" colspan="1">4 (0.4)</td><td align="left" rowspan="1" colspan="1">11 (0.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Contusion</td><td align="left" rowspan="1" colspan="1">1 (0.1)</td><td align="left" rowspan="1" colspan="1">2 (0.2)</td><td align="left" rowspan="1" colspan="1">7 (0.6)</td><td align="left" rowspan="1" colspan="1">1 (0.1)</td><td align="left" rowspan="1" colspan="1">10 (0.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Anxiety</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2 (0.2)</td><td align="left" rowspan="1" colspan="1">3 (0.3)</td><td align="left" rowspan="1" colspan="1">5 (0.5)</td><td align="left" rowspan="1" colspan="1"> </td></tr></tbody></table><table-wrap-foot><fn id="alz12137-tbl2-note-0001"><p> Abbreviations: AE, adverse event; IVIG, intravenous immunoglobulin; PE, plasma exchange.</p></fn><fn id="alz12137-tbl2-note-0002"><label>a</label><p>AEs reported in &gt; 5% of patients in the following categories: catheter site erythema, catheter site pain, extravasation, infusion site extravasation, vascular access complication, and poor venous access.</p></fn><fn id="alz12137-tbl2-note-0003"><label>b</label><p>AEs reported in &gt; 5% of patients with catheter site infections and device‐related infections.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Serious adverse events (SAEs) were reported more frequently in the groups receiving IVIG (1.9% to 1.7% of the PEs performed, in 20.3% to 22.1% of patients) than in the low‐albumin and the placebo group (0.7% and 0.9%, respectively, of the PE performed, in 10.3% and 10.1% of patients, respectively). The dropouts due to a SAE were: 1.3% in placebo, 1.3% in low‐albumin, 11.6% in low‐albumin+IVIG, 6.4% in high‐albumin+IVIG groups. Three patients presented four asymptomatic amyloid‐related imaging abnormalities (ARIA), two (ARIA‐E and ARIA‐H) in a patient in the low‐albumin+IVIG group and one in each of two patients in the high‐albumin+IVIG group (ARIA‐E and ARIA‐H). Details of AEs, product‐related AEs, and SAEs, are summarized in Appendix B, Tables B.15 to B.17 in supporting information.</p></sec></sec><sec id="alz12137-sec-0210"><label>4</label><title>DISCUSSION</title><p>This study provides encouraging results in the treatment of symptomatic AD patients. There was a reduction in the progression of symptoms in the PE‐treated patients in both co‐primary efficacy endpoints: the ADCS‐ADL showed 52% less decline in PE‐treated compared to placebo patients (<italic toggle="yes">P</italic> = .03) while the ADAS‐Cog showed 66% less decline (<italic toggle="yes">P</italic> = .06).</p><p>The effects observed in the co‐primary measures were supported by the statistically significant differences in the global assessment endpoints. PE had a significant impact on CDR‐sb and ADCS‐CGIC measures in all the treated populations, in nearly all treatment arms. Positive results on CDR‐sb and/or ADCS‐CGIC tests have not been reported in previous trials,<xref rid="alz12137-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="alz12137-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="alz12137-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="alz12137-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="alz12137-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref>, <xref rid="alz12137-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref>, <xref rid="alz12137-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>, <xref rid="alz12137-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref> possibly due to the challenge in demonstrating treatment effects on global scales. Differences in baseline demographic characteristics did not appear to have an influence on the outcomes.</p><p>Because we wanted to examine whether the initial severity of the cognitive syndrome determined response, the cohort was dichotomized into mild and moderate AD severity. We observed that the symptom severity of our sample (baseline MMSE 18‐26) was globally milder than the one traditionally considered for mild‐to‐moderate AD (MMSE 10‐23).<xref rid="alz12137-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref> Results by severity of the cognitive syndrome showed that the differences remained in the moderate AD group, but not in the mild AD group. Moreover, all three PE active arms showed statistically significant slower decline compared to placebo for ADCS‐ADL in the moderate group. Regarding global assessments, effects were significant in both mild and moderate patients, with moderate AD patients showing less decline, and mild AD patients showing an improvement from baseline. The better ADAS‐Cog response in moderate versus mild AD may be due to reduced sensitivity of the ADAS‐Cog in patients with better cognitive performance.<xref rid="alz12137-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>, <xref rid="alz12137-bib-0042" ref-type="ref">
+<sup>42</sup>
+</xref> Consequently, cognitive benefit may be more visible with a scale that is more targeted toward early cognitive changes that are seen in these milder patients.</p><p>The percentage of dropouts (28%) over a period of 14 months (55 weeks) was similar to that reported elsewhere (13.5% to 31.3%),<xref rid="alz12137-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="alz12137-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="alz12137-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="alz12137-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="alz12137-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> but was higher in the two IVIG arms (34.6%‐34.9%) and lower in the other arm and placebo, both without IVIG (20.0%‐21.8%), which is consistent with the safety profile reported in patients receiving infusions of albumin and IVIG.<xref rid="alz12137-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref>, <xref rid="alz12137-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref> In addition, only two (0.6%) patients died during the study, which is similar to the low mortality rates reported elsewhere (1.3%‐2.5%).<xref rid="alz12137-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="alz12137-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="alz12137-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="alz12137-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> The sensitivity analysis addressing discontinuations by imputation methods (zLOCF) suggested that bias due to discontinuations is minimal in this study. The primary MMRM results were somewhat more conservative, suggesting that lowering dropouts may increase effect sizes. The statistically stronger results after correcting for multiple baseline covariates and factors result from reduced variability and reduction of bias with these models. In addition, the overall impact of the treatment assessed with GST highlighted the consistency of the effect sizes across relevant outcomes (ADCS‐ADL, ADAS‐Cog, and CDR‐sb).</p><p>We examined CSF biomarkers of the core pathology of AD,<xref rid="alz12137-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref> finding no clear evidence of a disease‐modifying pattern. The effect of treatment was more apparent in the moderate AD population, whose levels of CSF Aβ<sub>42</sub> and tau protein remained stable in the PE‐treated patients across the study whereas in the placebo group decreased and increased, respectively.<xref rid="alz12137-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref> This suggests a positive effect of PE and would be consistent with the observed clinical outcome in those patients. PE might increase clearance of CSF soluble amyloid to prevent its further deposition.<xref rid="alz12137-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref>, <xref rid="alz12137-bib-0048" ref-type="ref">
+<sup>48</sup>
+</xref> On the other hand, the Jack model of AD biomarkers suggests that in the moderate AD stage the amyloid deposition approaches the asymptotic part of the curve.<xref rid="alz12137-bib-0049" ref-type="ref">
+<sup>49</sup>
+</xref> Therefore, because we observed a bigger effect in the moderate AD stage, it could be possible that the mechanism involved may be related to the clearance of deposited amyloid. Conversely, in mild AD patients the patterns of Aβ and tau levels were inconclusive or even counterintuitive. Although amyloid dynamics and their connection with tau are not well understood, our CSF biomarker results overall suggest that more than one mechanism may have been involved in the PE approach, perhaps including changes in oxidation status<xref rid="alz12137-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref> and inflammatory mediators,<xref rid="alz12137-bib-0050" ref-type="ref">
+<sup>50</sup>
+</xref> or could even be procedure‐related. In parallel, Aβ<sub>40</sub> levels did not significantly change, which may be ascribed to a faster clearance compared to Aβ<sub>42</sub>,<xref rid="alz12137-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref> as well as being less relevant for AD pathogenesis.</p><p>In our complementary analysis we examined the efficacy of the PE treatment with adjusted baseline characteristics analysis, including amyloid and <italic toggle="yes">APOE Ɛ4</italic> status. Treatment effects were somewhat different between these groups, and correction for these factors resulted in more significant treatment differences. These results support the observation that all PE‐treated arms slowed progression of AD symptoms in the co‐primary and global clinical endpoints.</p><p>PE is typically used to treat a range of neurological, immunological, and metabolic disorders<xref rid="alz12137-bib-0052" ref-type="ref">
+<sup>52</sup>
+</xref>, <xref rid="alz12137-bib-0053" ref-type="ref">
+<sup>53</sup>
+</xref> while this study showed that PE may be a novel therapeutic approach to treat AD. Furthermore, we believe that PE treatment does not preclude the possibility of being applied in combination with current and future therapies for AD. To our knowledge, this series of 4709 apheresis procedures (including the 1223 sham PE) is the largest performed within a randomized, controlled clinical trial on a single disease. In addition, this is the first time that therapeutic apheresis was used in a phase 2b/3 trial on AD,<xref rid="alz12137-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> including a new form, LVPE, aimed at chronic diseases. LVPE is based on the routine plasma donation process performed millions of times a year in plasma donation centers worldwide, so its application on AD patients would be suitable on an outpatient basis.</p><p>Because AD patients are frequently in fragile health, PE treatment should be undertaken with caution due to its invasive nature. However, in our study close to 90% of the 4709 apheresis procedures were uneventful. The fact that &gt;3500 actual PE procedures were performed in this study, most of them through peripheral access, and the high percentage (72%) of patients who completed the study, further supports that this procedure is feasible in mild‐to‐moderate AD. Peripheral access will likely be considered the only access for a future trial. Overall, the AEs reported for this study with AD patients are similar to the known safety profile of PE procedures for other indications.<xref rid="alz12137-bib-0054" ref-type="ref">
+<sup>54</sup>
+</xref>, <xref rid="alz12137-bib-0055" ref-type="ref">
+<sup>55</sup>
+</xref>
+</p><p>In this study neither raters, caregivers, nor patients were aware of which treatment was being administered. The maintenance of blinding of the treatment could be a challenge as it occurs with trials that involve peripheral devices. However, there are two facts that strongly suggest that blinding was effective: first, that identical null clinical effect was observed in the primary variables of both treated and placebo groups of the mild AD subpopulation; and second, that 80.0% of the patients in the placebo group (the highest percentage of all groups) completed the whole study. It is typically expected that poor blinding causes a much higher rate of dropouts in the placebo group.<xref rid="alz12137-bib-0056" ref-type="ref">
+<sup>56</sup>
+</xref>
+</p><p>The findings of this study should be interpreted in the context of its limitations. Caution is advised regarding worldwide generalization of the results because the study was performed in two countries only. This study does not allow determining the specific mechanism of action, which may go beyond Aβ binding. Analysis of plasma amyloid levels, which could help determine mechanisms, was not available for this study. This study did not enroll patients based on the presence or absence of a biomarker but was based on the presence of the AD clinical syndrome. Although this will be taken into account in the design of a future trial, our distribution of baseline CSF Aβ<sub>42</sub> levels with most patients in the lower ranges, was in line with the mean values from other studies that use similar patient population and methods of determination.<xref rid="alz12137-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="alz12137-bib-0057" ref-type="ref">
+<sup>57</sup>
+</xref> Moreover, because none of the three treatment arms separately showed superiority in clinical efficacy, the intervention group for the future trial will take into consideration other parameters such as dropout rate and safety profile.</p><p>In conclusion, this study showed that PE with albumin replacement could slow cognitive and functional decline in AD patients. This finding in the co‐primary outcomes was supported by a similar effect observed in key secondary global assessments. PE was shown to be feasible in the studied patient population. These findings have the potential to offer AD patients with overt dementia a new modality of treatment, although additional studies are needed to further investigate the current study areas of uncertainty.</p></sec><sec id="alz12137-sec-0220"><label>5</label><title>THE AMBAR TRIAL GROUP</title><p>In addition to those mentioned as nominal authors, the following investigators and centers also participated in the study: Asunción Lafuente (Alzheimer Research Center and
+Memory Clinic, Fundació ACE Institut Català de Neurociències Aplicades ‐
+Universitat Internacional de Catalunya [UIC], Barcelona, Spain. Centro de
+Investigación Biomédica en Red de Enfermedades Neurodegenerativas [CIBERNED],
+Instituto de Salud Carlos III, Madrid, Spain); Juan Pablo Tartari (Hospital Universitari Mútua de Terrassa, Terrassa, Spain); Teresa Moreno (Hospital Clínico San Carlos, Madrid, Spain); Francesc Pujadas (Hospital Vall d'Hebron, Barcelona, Spain); Miguel Goñi (Hospital Universitario de Burgos, Burgos, Spain); José De La Gándara (Quantum Laboratories, Inc. Wixom, MI, USA); William A. McElveen (Bradenton Research Center, Inc., Bradenton, FL, USA); Ramon Reñé (Hospital Universitari de Bellvitge, L'Hospitalet de Llobregat, Spain); Secundino López‐Pousa (Parc Hospitalari Martí i Julià, Salt, Spain); Antonio Del Olmo (Hospital Universitario Dr. Peset, València, Spain); Douglas Young (Northern California Research, Sacramento, CA, USA); Babak Tousi (Cleveland Clinic Lou Ruvo Center for Brain Health, Las Vegas, NV, USA); Jacobo Mintzer (Roper Saint Francis Healthcare, Charleston, SC, USA); Joshua Shua‐Haim (Mid‐Atlantic Geriatric/ARC, Manchester, NJ, USA); Kimball Johnson (iResearch Atlanta, LLC, Decatur, GA, USA); Ernest Balaguer (Hospital General de Catalunya, Sant Cugat del Vallès, Spain); Sarah Berman (University of Pittsburgh Alzheimer Disease Research Center‐ADRC, Pittsburgh, PA, USA); Bridget Bellingar (DMI Research, Pinellas Park, FL, USA); Antonio Oliveros (Hospital Viamed Montecanal, Zaragoza, Spain); Norberto Rodríguez (Hospital Nuestra Señora de la Candelaria, Santa Cruz de Tenerife, Spain); Dana Kumjian (RTR Medical Group, Savannah, GA, USA); Jordi Alom (Hospital General de Elche, Elx, Spain); César García Pérez‐Cejuela (Hospital de Vinalopó, Elx, Spain); Tulio Bertorini (Neurology Clinic, P.C., Cordova, TN, USA); Bennet Machanic (Mountain View Clinical Research, Inc., Denver, CO, USA); Thomas Obisesan (Howard University College Of Medicine, Washington, DC, USA); Krzysztof Bujarski (Dartmouth‐Hitchcock Medical Center, Lebanon, NH, USA); Miquel Barceló and Natalia Afonso (Grifols, Barcelona, Spain); Paul Pinciaro (Grifols, NC, USA); Orlando Puente (Miami Dade Medical Research Institute, Miami, FL, USA); Lisa McLaughlin (American Red Cross Southern Blood Services Region, Atlanta, GA, USA), Leonardo M. Allende (L&amp;L Research Choices, Inc., Miami, FL, USA).</p></sec><sec sec-type="COI-statement" id="alz12137-sec-0240"><title>CONFLICTS OF INTEREST</title><p>MB has been a consultant for Araclon, Avid, Bayer, Elan, Grifols, Janssen/Pfizer, Lilly, Neuroptix, Nutricia, Roche, Sanofi, and Servier; and received fees for lectures and funds for research from Araclon, Esteve, Grifols, Janssen, Novartis, Nutricia, Piramal, Pfizer‐Wyett, Roche, and Servier. OLL has been a consultant for Grifols and Lundbeck. JO has been a consultant for Schwabe and Grifols; and received fees for lectures and funds for research from Nutricia. ZMS has been a consultant for Grifols and Fresenius‐Kabi and participated in research supported by funds from Grifols and Fresenius‐Kabi. MPF, MPA, JL, GP‐R, JEG, FA, PO, DK, JLI, and SH received funding from Grifols to perform this study. LN, MT, CG, JB, MC, and AP are full‐time employees of Grifols.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="alz12137-supitem-0001" position="float" orientation="portrait"><caption><p>Supporting information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-16-1412-s001.docx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="alz12137-sec-0230"><title>ACKNOWLEDGMENTS</title><p>The authors would like to thank Víctor Grífols‐Roura for his pioneering vision on the potential use of plasmapheresis in Alzheimer's disease, without which this project would not have been possible. Carlos Roura (Grifols) is acknowledged for providing his valuable insight and expertise in all the engineering aspects of the trial. The expert advice from Agustín Ruiz (Fundació ACE, Barcelona, Spain) to improve the manuscript is greatly acknowledged. The fruitful discussion of the study results between the authors and Prof. Bruno Vellas and Prof. Jeffrey Cummings are hereby recognized. The professionalism, caring, and dedication of the plasmapheresis nurses and the health‐care professionals who contributed greatly to the success of the study are deeply appreciated: Regina Rohe (Apheresis Care Group and Fresenius Medical Care); Cristina Prieto Fernández (Banc de Sang i Teixits); Luis Estevez, Alain Diaz, and Ruy Pardo (Allied Biomedical Research Institute, Inc.); Lori Conway, Samantha Planas, and Eddie Kubo (Fenwal); Anna Koo (Cleveland Clinic, Cleveland, OH, USA); Maria Olivera and Vivianka Lavin (L&amp;L Research Choices, Inc.); Paul Crossley, Debbie Lang, and Klaus Freivogel (United BioSource Corporation). Last, but not least, deepest thanks from the authors to the patients and their families for their indispensable contribution.</p></ack><ref-list id="alz12137-bibl-0001"><title>REFERENCES</title><ref id="alz12137-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz12137-cit-0001">
+<string-name name-style="western">
+<surname>Montine</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phelps</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>. <article-title>National Institute on Aging‐Alzheimer's Association guidelines for the neuropathologic assessment of Alzheimer's disease: a practical approach</article-title>. <source xml:lang="en">Acta Neuropathol (Berl)</source>. <year>2012</year>;<volume>123</volume>:<fpage>1</fpage>‐<lpage>11</lpage>.<pub-id pub-id-type="pmid">22101365</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00401-011-0910-3</pub-id><pub-id pub-id-type="pmcid">PMC3268003</pub-id></mixed-citation></ref><ref id="alz12137-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz12137-cit-0002">
+<string-name name-style="western">
+<surname>Petrovitch</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ross</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steinhorn</surname>
+<given-names>SC</given-names>
+</string-name>, et al. <article-title>AD lesions and infarcts in demented and non‐demented Japanese‐American men</article-title>. <source xml:lang="en">Ann Neurol</source>. <year>2005</year>;<volume>57</volume>:<fpage>98</fpage>‐<lpage>103</lpage>.<pub-id pub-id-type="pmid">15562458</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.20318</pub-id></mixed-citation></ref><ref id="alz12137-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz12137-cit-0003">
+<string-name name-style="western">
+<surname>Higashi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iseki</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yamamoto</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Concurrence of TDP‐43, tau and α‐synuclein pathology in brains of Alzheimer's disease and dementia with Lewy bodies</article-title>. <source xml:lang="en">Brain Res</source>. <year>2007</year>;<volume>1184</volume>:<fpage>284</fpage>‐<lpage>294</lpage>.<pub-id pub-id-type="pmid">17963732</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.brainres.2007.09.048</pub-id></mixed-citation></ref><ref id="alz12137-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz12137-cit-0004">
+<string-name name-style="western">
+<surname>Eikelenboom</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Veerhuis</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Exel</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoozemans</surname>
+<given-names>JJM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rozemuller</surname>
+<given-names>AJM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Gool</surname>
+<given-names>WA</given-names>
+</string-name>. <article-title>The early involvement of the innate immunity in the pathogenesis of lateonset Alzheimers disease: neuropathological, epidemiological and genetic evidence</article-title>. <source xml:lang="en">Curr Alzheimer Res</source>. <year>2011</year>;<volume>8</volume>:<fpage>142</fpage>‐<lpage>150</lpage>.<pub-id pub-id-type="pmid">21345167</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/156720511795256080</pub-id></mixed-citation></ref><ref id="alz12137-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz12137-cit-0005">
+<string-name name-style="western">
+<surname>Tariot</surname>
+<given-names>PN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farlow</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grossberg</surname>
+<given-names>GT</given-names>
+</string-name>, et al. <article-title>Memantine treatment in patients with moderate to severe Alzheimer disease already receiving donepezil</article-title>. <source xml:lang="en">JAMA</source>. <year>2004</year>;<volume>291</volume>:<fpage>317</fpage>.<pub-id pub-id-type="pmid">14734594</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.291.3.317</pub-id></mixed-citation></ref><ref id="alz12137-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz12137-cit-0006">
+<string-name name-style="western">
+<surname>Kemp</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holmes</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoffmann</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>A randomised placebo controlled study to assess the effects of cholinergic treatment on muscarinic receptors in Alzheimer's disease</article-title>. <source xml:lang="en">J Neurol Neurosurg Psychiatry</source>. <year>2003</year>;<volume>74</volume>:<fpage>1567</fpage>‐<lpage>1570</lpage>.<pub-id pub-id-type="pmid">14617718</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jnnp.74.11.1567</pub-id><pub-id pub-id-type="pmcid">PMC1738233</pub-id></mixed-citation></ref><ref id="alz12137-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz12137-cit-0007">
+<string-name name-style="western">
+<surname>Atri</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frölich</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ballard</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Effect of idalopirdine as adjunct to cholinesterase inhibitors on change in cognition in patients with Alzheimer disease</article-title>. <source xml:lang="en">JAMA</source>. <year>2018</year>;<volume>319</volume>:<fpage>130</fpage>.<pub-id pub-id-type="pmid">29318278</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2017.20373</pub-id><pub-id pub-id-type="pmcid">PMC5833662</pub-id></mixed-citation></ref><ref id="alz12137-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz12137-cit-0008">
+<string-name name-style="western">
+<surname>Doody</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farlow</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Phase 3 trials of solanezumab for mild‐to‐moderate Alzheimer's disease</article-title>. <source xml:lang="en">N Eng J Med</source>. <year>2014</year>;<volume>370</volume>:<fpage>311</fpage>‐<lpage>321</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1312889</pub-id><pub-id pub-id-type="pmid">24450890</pub-id></mixed-citation></ref><ref id="alz12137-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz12137-cit-0009">
+<string-name name-style="western">
+<surname>Egan</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kost</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tariot</surname>
+<given-names>PN</given-names>
+</string-name>, et al. <article-title>Randomized trial of verubecestat for mild‐to‐moderate Alzheimer's disease</article-title>. <source xml:lang="en">N Eng J Med</source>. <year>2018</year>;<volume>378</volume>:<fpage>1691</fpage>‐<lpage>1703</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1706441</pub-id><pub-id pub-id-type="pmcid">PMC6776074</pub-id><pub-id pub-id-type="pmid">29719179</pub-id></mixed-citation></ref><ref id="alz12137-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz12137-cit-0010">
+<string-name name-style="western">
+<surname>Honig</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vellas</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Woodward</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Trial of solanezumab for mild dementia due to Alzheimer's disease</article-title>. <source xml:lang="en">N Eng J Med</source>. <year>2018</year>;<volume>378</volume>:<fpage>321</fpage>‐<lpage>330</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1705971</pub-id><pub-id pub-id-type="pmid">29365294</pub-id></mixed-citation></ref><ref id="alz12137-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz12137-cit-0011">
+<string-name name-style="western">
+<surname>Ostrowitzki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lasser</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dorflinger</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>A phase III randomized trial of gantenerumab in prodromal Alzheimer's disease</article-title>. <source xml:lang="en">Alzheimers Res Ther</source>. <year>2017</year>;<fpage>9</fpage>(1):95.<pub-id pub-id-type="pmid">29221491</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-017-0318-y</pub-id><pub-id pub-id-type="pmcid">PMC5723032</pub-id></mixed-citation></ref><ref id="alz12137-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz12137-cit-0012">
+<string-name name-style="western">
+<surname>Salloway</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sperling</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fox</surname>
+<given-names>NC</given-names>
+</string-name>, et al. <article-title>Two phase 3 trials of bapineuzumab in mild‐to‐moderate Alzheimer's disease</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2014</year>;<volume>370</volume>:<fpage>322</fpage>‐<lpage>333</lpage>.<pub-id pub-id-type="pmid">24450891</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1304839</pub-id><pub-id pub-id-type="pmcid">PMC4159618</pub-id></mixed-citation></ref><ref id="alz12137-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz12137-cit-0013">
+<string-name name-style="western">
+<surname>Tolar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abushakra</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabbagh</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The path forward in Alzheimer's disease therapeutics: reevaluating the amyloid cascade hypothesis</article-title>. <source xml:lang="en">Alzheimers Dement</source>. <year>2020</year>. <pub-id pub-id-type="doi">10.1016/j.jalz.2019.09.075</pub-id>
+<pub-id pub-id-type="pmid">31706733</pub-id></mixed-citation></ref><ref id="alz12137-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz12137-cit-0014">
+<string-name name-style="western">
+<surname>Boada</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anaya</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ortiz</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of plasma exchange with 5% albumin to modify cerebrospinal fluid and plasma amyloid‐β concentrations and cognition outcomes in Alzheimer's disease patients: a multicenter, randomized, controlled clinical trial</article-title>. <source xml:lang="en">J Alzheimers Dis</source>. <year>2017</year>;<volume>56</volume>:<fpage>129</fpage>‐<lpage>143</lpage>.<pub-id pub-id-type="pmid">27911295</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-160565</pub-id><pub-id pub-id-type="pmcid">PMC5240541</pub-id></mixed-citation></ref><ref id="alz12137-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz12137-cit-0015">
+<string-name name-style="western">
+<surname>Boada</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ortiz</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anaya</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Amyloid‐targeted therapeutics in Alzheimer's disease: use of human albumin in plasma exchange as a novel approach for Abeta mobilization</article-title>. <source xml:lang="en">Drug News Perspect</source>. <year>2009</year>;<volume>22</volume>:<fpage>325</fpage>‐<lpage>339</lpage>.<pub-id pub-id-type="pmid">19771322</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1358/dnp.2009.22.6.1395256</pub-id></mixed-citation></ref><ref id="alz12137-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz12137-cit-0016">
+<string-name name-style="western">
+<surname>Costa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ortiz</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jorquera</surname>
+<given-names>JI</given-names>
+</string-name>. <article-title>Therapeutic albumin binding to remove amyloid‐beta</article-title>. <source xml:lang="en">J Alzheimers Dis</source>. <year>2012</year>;<volume>29</volume>:<fpage>159</fpage>‐<lpage>170</lpage>.<pub-id pub-id-type="pmid">22232005</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-2012-111139</pub-id></mixed-citation></ref><ref id="alz12137-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz12137-cit-0017">
+<string-name name-style="western">
+<surname>Cuberas‐Borros</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roca</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boada</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Longitudinal neuroimaging analysis in mild‐moderate Alzheimer's disease patients treated with plasma exchange with 5% human albumin</article-title>. <source xml:lang="en">J Alzheimers Dis</source>. <year>2018</year>;<volume>61</volume>:<fpage>321</fpage>‐<lpage>332</lpage>.<pub-id pub-id-type="pmid">29154283</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-170693</pub-id><pub-id pub-id-type="pmcid">PMC5734124</pub-id></mixed-citation></ref><ref id="alz12137-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz12137-cit-0018">
+<string-name name-style="western">
+<surname>Milojevic</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Costa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ortiz</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jorquera</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melacini</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>In vitro amyloid‐beta binding and inhibition of amyloid‐beta self‐association by therapeutic albumin</article-title>. <source xml:lang="en">J Alzheimers Dis</source>. <year>2014</year>;<volume>38</volume>:<fpage>753</fpage>‐<lpage>765</lpage>.<pub-id pub-id-type="pmid">24072068</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-131169</pub-id></mixed-citation></ref><ref id="alz12137-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz12137-cit-0019">
+<string-name name-style="western">
+<surname>Roberts</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elbert</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kasten</surname>
+<given-names>TP</given-names>
+</string-name>, et al. <article-title>Amyloid‐beta efflux from the central nervous system into the plasma</article-title>. <source xml:lang="en">Ann Neurol</source>. <year>2014</year>;<volume>76</volume>:<fpage>837</fpage>‐<lpage>844</lpage>.<pub-id pub-id-type="pmid">25205593</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.24270</pub-id><pub-id pub-id-type="pmcid">PMC4355962</pub-id></mixed-citation></ref><ref id="alz12137-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz12137-cit-0020">
+<string-name name-style="western">
+<surname>DeMattos</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bales</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cummins</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dodart</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paul</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holtzman</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>Peripheral anti‐A antibody alters CNS and plasma A clearance and decreases brain A burden in a mouse model of Alzheimer's disease</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2001</year>;<volume>98</volume>:<fpage>8850</fpage>‐<lpage>8855</lpage>.<pub-id pub-id-type="pmid">11438712</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.151261398</pub-id><pub-id pub-id-type="pmcid">PMC37524</pub-id></mixed-citation></ref><ref id="alz12137-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz12137-cit-0021">
+<string-name name-style="western">
+<surname>DeMattos</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bales</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cummins</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paul</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holtzman</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>Brain to plasma amyloid‐beta efflux: a measure of brain amyloid burden in a mouse model of Alzheimer's disease</article-title>. <source xml:lang="en">Science</source>. <year>2002</year>;<volume>295</volume>:<fpage>2264</fpage>‐<lpage>2267</lpage>.<pub-id pub-id-type="pmid">11910111</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1067568</pub-id></mixed-citation></ref><ref id="alz12137-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz12137-cit-0022">
+<string-name name-style="western">
+<surname>DeMattos</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bales</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parsadanian</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Plaque‐associated disruption of CSF and plasma amyloid‐beta (Abeta) equilibrium in a mouse model of Alzheimer's disease</article-title>. <source xml:lang="en">J Neurochem</source>. <year>2002</year>;<volume>81</volume>:<fpage>229</fpage>‐<lpage>236</lpage>.<pub-id pub-id-type="pmid">12064470</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1471-4159.2002.00889.x</pub-id></mixed-citation></ref><ref id="alz12137-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz12137-cit-0023">
+<string-name name-style="western">
+<surname>Marques</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kulstad</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Savard</surname>
+<given-names>CE</given-names>
+</string-name>, et al. <article-title>Peripheral amyloid‐beta levels regulate amyloid‐beta clearance from the central nervous system</article-title>. <source xml:lang="en">J Alzheimers Dis</source>. <year>2009</year>;<volume>16</volume>:<fpage>325</fpage>‐<lpage>329</lpage>.<pub-id pub-id-type="pmid">19221422</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-2009-0964</pub-id><pub-id pub-id-type="pmcid">PMC3066174</pub-id></mixed-citation></ref><ref id="alz12137-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz12137-cit-0024">
+<string-name name-style="western">
+<surname>Meca‐Lallana</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodriguez‐Hilario</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinez‐Vidal</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Plasmapheresis: its use in multiple sclerosis and other demyelinating processes of the central nervous system. An observation study</article-title>. <source xml:lang="en">Rev Neurol</source>. <year>2003</year>;<volume>37</volume>:<fpage>917</fpage>‐<lpage>926</lpage>.<pub-id pub-id-type="pmid">14634919</pub-id></mixed-citation></ref><ref id="alz12137-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz12137-cit-0025">
+<string-name name-style="western">
+<surname>Weinshenker</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Brien</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petterson</surname>
+<given-names>TM</given-names>
+</string-name>, et al. <article-title>A randomized trial of plasma exchange in acute central nervous system inflammatory demyelinating disease</article-title>. <source xml:lang="en">Ann Neurol</source>. <year>1999</year>;<volume>46</volume>:<fpage>878</fpage>‐<lpage>886</lpage>.<pub-id pub-id-type="pmid">10589540</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/1531-8249(199912)46:6&lt;878::aid-ana10&gt;3.0.co;2-q</pub-id></mixed-citation></ref><ref id="alz12137-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz12137-cit-0026">
+<string-name name-style="western">
+<surname>Colombo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clerici</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giustarini</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Redox albuminomics: oxidized albumin in human diseases</article-title>. <source xml:lang="en">Antioxid Redox Signal</source>. <year>2012</year>;<volume>17</volume>:<fpage>1515</fpage>‐<lpage>1527</lpage>.<pub-id pub-id-type="pmid">22587567</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/ars.2012.4702</pub-id></mixed-citation></ref><ref id="alz12137-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz12137-cit-0027">
+<string-name name-style="western">
+<surname>Biere</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ostaszewski</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stimson</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hyman</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maggio</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Selkoe</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Amyloid beta‐peptide is transported on lipoproteins and albumin in human plasma</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>1996</year>;<volume>271</volume>:<fpage>32916</fpage>‐<lpage>32922</lpage>.<pub-id pub-id-type="pmid">8955133</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.271.51.32916</pub-id></mixed-citation></ref><ref id="alz12137-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz12137-cit-0028">
+<string-name name-style="western">
+<surname>Costa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horrillo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ortiz</surname>
+<given-names>AM</given-names>
+</string-name>, et al. <article-title>Increased Albumin oxidation in cerebrospinal fluid and plasma from Alzheimer's disease patients</article-title>. <source xml:lang="en">J Alzheimers Dis</source>. <year>2018</year>;<volume>63</volume>:<fpage>1395</fpage>‐<lpage>1404</lpage>.<pub-id pub-id-type="pmid">29782326</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-180243</pub-id><pub-id pub-id-type="pmcid">PMC6004933</pub-id></mixed-citation></ref><ref id="alz12137-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz12137-cit-0029">
+<string-name name-style="western">
+<surname>Ramos‐Fernandez</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tajes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palomer</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Posttranslational nitro‐glycative modifications of albumin in Alzheimer's disease: implications in cytotoxicity and amyloid‐beta peptide aggregation</article-title>. <source xml:lang="en">J Alzheimers Dis</source>. <year>2014</year>;<volume>40</volume>:<fpage>643</fpage>‐<lpage>657</lpage>.<pub-id pub-id-type="pmid">24503620</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-130914</pub-id></mixed-citation></ref><ref id="alz12137-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz12137-cit-0030">
+<string-name name-style="western">
+<surname>Hachinski</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Einhaupl</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ganten</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Preventing dementia by preventing stroke: the Berlin Manifesto</article-title>. <source xml:lang="en">Alzheimers Dement</source>. <year>2019</year>;<volume>15</volume>:<fpage>961</fpage>‐<lpage>984</lpage>.<pub-id pub-id-type="pmid">31327392</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2019.06.001</pub-id><pub-id pub-id-type="pmcid">PMC7001744</pub-id></mixed-citation></ref><ref id="alz12137-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz12137-cit-0031">
+<string-name name-style="western">
+<surname>Boada</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopez</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nunez</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Plasma exchange for Alzheimer's disease Management by Albumin Replacement (AMBAR) trial: study design and progress</article-title>. <source xml:lang="en">Alzheimers Dement (N Y)</source>. <year>2019</year>;<volume>5</volume>:<fpage>61</fpage>‐<lpage>69</lpage>.<pub-id pub-id-type="pmid">30859122</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.trci.2019.01.001</pub-id><pub-id pub-id-type="pmcid">PMC6395854</pub-id></mixed-citation></ref><ref id="alz12137-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz12137-cit-0032">
+<string-name name-style="western">
+<surname>McKhann</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drachman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Folstein</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katzman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Price</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stadlan</surname>
+<given-names>EM</given-names>
+</string-name>. <article-title>Clinical diagnosis of Alzheimer's disease: report of the NINCDS‐ADRDA Work Group under the auspices of Department of Health and Human Services Task Force on Alzheimer's Disease</article-title>. <source xml:lang="en">Neurology</source>. <year>1984</year>;<volume>34</volume>:<fpage>939</fpage>‐<lpage>944</lpage>.<pub-id pub-id-type="pmid">6610841</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.34.7.939</pub-id></mixed-citation></ref><ref id="alz12137-bib-0033"><label>33</label><mixed-citation publication-type="miscellaneous" id="alz12137-cit-0033">
+<collab collab-type="authors">European Medicines Agency (EMA)</collab>
+. <article-title>Draft guideline on the clinical investigation of medicines for the treatment of Alzheimer's disease and other dementias</article-title>. Committee for Medicinal Products for Human Use (CHMP). EMA/CHMP/539931/2014. 28 January 2016. <year>2016</year>.</mixed-citation></ref><ref id="alz12137-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz12137-cit-0034">
+<string-name name-style="western">
+<surname>Hendrix</surname>
+<given-names>SB</given-names>
+</string-name>. <article-title>Requiring an amyloid‐beta1‐42 biomarker may improve the efficiency of a study, and simulations may help in planning studies</article-title>. <source xml:lang="en">Alzheimers Res Ther</source>. <year>2011</year>;<volume>3</volume>:<fpage>10</fpage>.<pub-id pub-id-type="pmid">21457497</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/alzrt69</pub-id><pub-id pub-id-type="pmcid">PMC3226272</pub-id></mixed-citation></ref><ref id="alz12137-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz12137-cit-0035">
+<string-name name-style="western">
+<surname>Lawlor</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Segurado</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kennelly</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Nilvadipine in mild to moderate Alzheimer disease: a randomised controlled trial</article-title>. <source xml:lang="en">PLoS Med</source>. <year>2018</year>;<volume>15</volume>:<elocation-id>e1002660</elocation-id>.<pub-id pub-id-type="pmid">30248105</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pmed.1002660</pub-id><pub-id pub-id-type="pmcid">PMC6152871</pub-id></mixed-citation></ref><ref id="alz12137-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz12137-cit-0036">
+<string-name name-style="western">
+<surname>Lozano</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fosdick</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chakravarty</surname>
+<given-names>MM</given-names>
+</string-name>, et al. <article-title>A phase II study of fornix deep brain stimulation in mild Alzheimer's disease</article-title>. <source xml:lang="en">J Alzheimers Dis</source>. <year>2016</year>;<volume>54</volume>:<fpage>777</fpage>‐<lpage>787</lpage>.<pub-id pub-id-type="pmid">27567810</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-160017</pub-id><pub-id pub-id-type="pmcid">PMC5026133</pub-id></mixed-citation></ref><ref id="alz12137-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz12137-cit-0037">
+<string-name name-style="western">
+<surname>Maher‐Edwards</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Watson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ascher</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Two randomized controlled trials of SB742457 in mild‐to‐moderate Alzheimer's disease</article-title>. <source xml:lang="en">Alzheimers Dement (N Y)</source>. <year>2015</year>;<volume>1</volume>:<fpage>23</fpage>‐<lpage>36</lpage>.<pub-id pub-id-type="pmid">29854923</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.trci.2015.04.001</pub-id><pub-id pub-id-type="pmcid">PMC5974972</pub-id></mixed-citation></ref><ref id="alz12137-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz12137-cit-0038">
+<string-name name-style="western">
+<surname>Salloway</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Honigberg</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cho</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Amyloid positron emission tomography and cerebrospinal fluid results from a crenezumab anti‐amyloid‐beta antibody double‐blind, placebo‐controlled, randomized phase II study in mild‐to‐moderate Alzheimer's disease (BLAZE)</article-title>. <source xml:lang="en">Alzheimers Res Ther</source>. <year>2018</year>;<volume>10</volume>:<fpage>96</fpage>.<pub-id pub-id-type="pmid">30231896</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-018-0424-5</pub-id><pub-id pub-id-type="pmcid">PMC6146627</pub-id></mixed-citation></ref><ref id="alz12137-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz12137-cit-0039">
+<string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hendrix</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Safety and efficacy of edonerpic maleate for patients with mild to moderate Alzheimer disease: a phase 2 randomized clinical trial</article-title>. <source xml:lang="en">JAMA Neurol</source>. <year>2019</year>;<volume>76</volume>:<fpage>1330</fpage>‐<lpage>1339</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaneurol.2019.1868</pub-id><pub-id pub-id-type="pmcid">PMC6618817</pub-id><pub-id pub-id-type="pmid">31282954</pub-id></mixed-citation></ref><ref id="alz12137-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz12137-cit-0040">
+<string-name name-style="western">
+<surname>Tombaugh</surname>
+<given-names>TN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McIntyre</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>The mini‐mental state examination: a comprehensive review</article-title>. <source xml:lang="en">J Am Geriatr Soc</source>. <year>1992</year>;<volume>40</volume>:<fpage>922</fpage>‐<lpage>935</lpage>.<pub-id pub-id-type="pmid">1512391</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1532-5415.1992.tb01992.x</pub-id></mixed-citation></ref><ref id="alz12137-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz12137-cit-0041">
+<string-name name-style="western">
+<surname>Podhorna</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krahnke</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shear</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harrison</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>Alzheimer's Disease Assessment Scale‐Cognitive subscale variants in mild cognitive impairment and mild Alzheimer's disease: change over time and the effect of enrichment strategies</article-title>. <source xml:lang="en">Alzheimers Res Ther</source>. <year>2016</year>;<volume>8</volume>:<fpage>8</fpage>.<pub-id pub-id-type="pmid">26868820</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-016-0170-5</pub-id><pub-id pub-id-type="pmcid">PMC4751673</pub-id></mixed-citation></ref><ref id="alz12137-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz12137-cit-0042">
+<string-name name-style="western">
+<surname>Skinner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carvalho</surname>
+<given-names>JO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Potter</surname>
+<given-names>GG</given-names>
+</string-name>, et al. <article-title>The Alzheimer's Disease Assessment Scale‐Cognitive‐Plus (ADAS‐Cog‐Plus): an expansion of the ADAS‐Cog to improve responsiveness in MCI</article-title>. <source xml:lang="en">Brain Imaging Behav</source>. <year>2012</year>;<volume>6</volume>:<fpage>489</fpage>‐<lpage>501</lpage>.<pub-id pub-id-type="pmid">22614326</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11682-012-9166-3</pub-id><pub-id pub-id-type="pmcid">PMC3873823</pub-id></mixed-citation></ref><ref id="alz12137-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz12137-cit-0043">
+<string-name name-style="western">
+<surname>Alsina</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohr</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Montanes</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Surveillance study on the tolerability and safety of Flebogamma((R)) DIF (10% and 5% intravenous immunoglobulin) in adult and pediatric patients</article-title>. <source xml:lang="en">Pharmacol Res Perspect</source>. <year>2017</year>;<volume>5(5):e00345</volume>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/prp2.345</pub-id><pub-id pub-id-type="pmcid">PMC5625155</pub-id><pub-id pub-id-type="pmid">28971614</pub-id></mixed-citation></ref><ref id="alz12137-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz12137-cit-0044">
+<string-name name-style="western">
+<surname>Liumbruno</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bennardello</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lattanzio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piccoli</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rossettias</surname>
+<given-names>G</given-names>
+</string-name>, et al, <collab collab-type="authors">Italian Society of Transfusion M</collab>
+. <article-title>Recommendations for the use of albumin and immunoglobulins</article-title>. <source xml:lang="en">Blood Transfus</source>. <year>2009</year>;<volume>7</volume>:<fpage>216</fpage>‐<lpage>234</lpage>.<pub-id pub-id-type="pmid">19657486</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2450/2009.0094-09</pub-id><pub-id pub-id-type="pmcid">PMC2719274</pub-id></mixed-citation></ref><ref id="alz12137-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz12137-cit-0045">
+<string-name name-style="western">
+<surname>Frank</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Galasko</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hampel</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Biological markers for therapeutic trials in Alzheimer's disease. Proceedings of the biological markers working group; NIA initiative on neuroimaging in Alzheimer's disease</article-title>. <source xml:lang="en">Neurobiol Aging</source>. <year>2003</year>;<volume>24</volume>:<fpage>521</fpage>‐<lpage>536</lpage>.<pub-id pub-id-type="pmid">12714109</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0197-4580(03)00002-2</pub-id></mixed-citation></ref><ref id="alz12137-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz12137-cit-0046">
+<string-name name-style="western">
+<surname>Clark</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chittams</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Cerebrospinal fluid tau and beta‐amyloid: how well do these biomarkers reflect autopsy‐confirmed dementia diagnoses?</article-title>
+<source xml:lang="en">Arch Neurol</source>. <year>2003</year>;<volume>60</volume>:<fpage>1696</fpage>‐<lpage>1702</lpage>.<pub-id pub-id-type="pmid">14676043</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archneur.60.12.1696</pub-id></mixed-citation></ref><ref id="alz12137-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="alz12137-cit-0047">
+<string-name name-style="western">
+<surname>Marques</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kulstad</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Savard</surname>
+<given-names>CE</given-names>
+</string-name>, et al. <article-title>Peripheral amyloid‐beta levels regulate amyloid‐beta clearance from the central nervous system</article-title>. <source xml:lang="en">J Alzheimers Dis</source>. <year>2009</year>;<volume>16</volume>:<fpage>325</fpage>‐<lpage>329</lpage>.<pub-id pub-id-type="pmid">19221422</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-2009-0964</pub-id><pub-id pub-id-type="pmcid">PMC3066174</pub-id></mixed-citation></ref><ref id="alz12137-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="alz12137-cit-0048">
+<string-name name-style="western">
+<surname>Tarasoff‐Conway</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carare</surname>
+<given-names>RO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Osorio</surname>
+<given-names>RS</given-names>
+</string-name>, et al. <article-title>Clearance systems in the brain—implications for Alzheimer disease</article-title>. <source xml:lang="en">Nat Rev Neurol</source>. <year>2015</year>;<volume>11</volume>:<fpage>457</fpage>‐<lpage>470</lpage>.<pub-id pub-id-type="pmid">26195256</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrneurol.2015.119</pub-id><pub-id pub-id-type="pmcid">PMC4694579</pub-id></mixed-citation></ref><ref id="alz12137-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="alz12137-cit-0049">
+<string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>, <suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Wiste</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lesnick</surname>
+<given-names>TG</given-names>
+</string-name>, et al. <article-title>Brain beta‐amyloid load approaches a plateau</article-title>. <source xml:lang="en">Neurology</source>. <year>2013</year>;<volume>80</volume>:<fpage>890</fpage>‐<lpage>896</lpage>.<pub-id pub-id-type="pmid">23446680</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0b013e3182840bbe</pub-id><pub-id pub-id-type="pmcid">PMC3653215</pub-id></mixed-citation></ref><ref id="alz12137-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="alz12137-cit-0050">
+<string-name name-style="western">
+<surname>Sastre</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klockgether</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heneka</surname>
+<given-names>MT</given-names>
+</string-name>. <article-title>Contribution of inflammatory processes to Alzheimer's disease: molecular mechanisms</article-title>. <source xml:lang="en">Int J Dev Neurosci</source>. <year>2006</year>;<volume>24</volume>:<fpage>167</fpage>‐<lpage>176</lpage>.<pub-id pub-id-type="pmid">16472958</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijdevneu.2005.11.014</pub-id></mixed-citation></ref><ref id="alz12137-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="alz12137-cit-0051">
+<string-name name-style="western">
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Potter</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sigurdson</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Beta‐amyloid dynamics in human plasma</article-title>. <source xml:lang="en">Arch Neurol</source>. <year>2012</year>;<volume>69</volume>:<fpage>1591</fpage>‐<lpage>1597</lpage>.<pub-id pub-id-type="pmid">23229043</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archneurol.2012.18107</pub-id><pub-id pub-id-type="pmcid">PMC3808092</pub-id></mixed-citation></ref><ref id="alz12137-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="alz12137-cit-0052">
+<string-name name-style="western">
+<surname>Cortese</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chaudhry</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>So</surname>
+<given-names>YT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cantor</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cornblath</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rae‐Grant</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Evidence‐based guideline update: plasmapheresis in neurologic disorders: report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology</article-title>. <source xml:lang="en">Neurology</source>. <year>2011</year>;<volume>76</volume>:<fpage>294</fpage>‐<lpage>300</lpage>.<pub-id pub-id-type="pmid">21242498</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0b013e318207b1f6</pub-id><pub-id pub-id-type="pmcid">PMC3034395</pub-id></mixed-citation></ref><ref id="alz12137-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="alz12137-cit-0053">
+<string-name name-style="western">
+<surname>Sachais</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ross</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rader</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Long‐term effects of LDL apheresis in patients with severe hypercholesterolemia</article-title>. <source xml:lang="en">J Clin Apher</source>. <year>2005</year>;<volume>20</volume>:<fpage>252</fpage>‐<lpage>255</lpage>.<pub-id pub-id-type="pmid">15880364</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jca.20036</pub-id></mixed-citation></ref><ref id="alz12137-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="alz12137-cit-0054">
+<string-name name-style="western">
+<surname>Cortese</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cornblath</surname>
+<given-names>DR</given-names>
+</string-name>. <article-title>Therapeutic plasma exchange in neurology: 2012</article-title>. <source xml:lang="en">J Clin Apher</source>. <year>2013</year>;<volume>28</volume>:<fpage>16</fpage>‐<lpage>19</lpage>.<pub-id pub-id-type="pmid">23420591</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jca.21266</pub-id><pub-id pub-id-type="pmcid">PMC3615701</pub-id></mixed-citation></ref><ref id="alz12137-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="alz12137-cit-0055">
+<string-name name-style="western">
+<surname>Mortzell Henriksson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Newman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Witt</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Adverse events in apheresis: an update of the WAA registry data</article-title>. <source xml:lang="en">Transfus Apher Sci</source>. <year>2016</year>;<volume>54</volume>:<fpage>2</fpage>‐<lpage>15</lpage>.<pub-id pub-id-type="pmid">26776481</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.transci.2016.01.003</pub-id></mixed-citation></ref><ref id="alz12137-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="alz12137-cit-0056">
+<string-name name-style="western">
+<surname>Hróbjartsson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Emanuelsson</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Skou Thomsen</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hilden</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brorson</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Bias due to lack of patient blinding in clinical trials. A systematic review of trials randomizing patients to blind and nonblind sub‐studies</article-title>. <source xml:lang="en">Int J Epidemiol</source>. <year>2014</year>;<volume>43</volume>:<fpage>1272</fpage>‐<lpage>1283</lpage>.<pub-id pub-id-type="pmid">24881045</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ije/dyu115</pub-id><pub-id pub-id-type="pmcid">PMC4258786</pub-id></mixed-citation></ref><ref id="alz12137-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="alz12137-cit-0057">
+<string-name name-style="western">
+<surname>Willis</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sundell</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lachno</surname>
+<given-names>DR</given-names>
+</string-name>, et al. <article-title>Central pharmacodynamic activity of solanezumab in mild Alzheimer's disease dementia</article-title>. <source xml:lang="en">Alzheimers Dement (N Y)</source>. <year>2018</year>;<volume>4</volume>:<fpage>652</fpage>‐<lpage>660</lpage>.<pub-id pub-id-type="pmid">30511011</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.trci.2018.10.001</pub-id><pub-id pub-id-type="pmcid">PMC6258891</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

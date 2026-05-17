@@ -1,0 +1,1246 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="prd12631" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Periodontol 2000</journal-id><journal-id journal-id-type="iso-abbrev">Periodontol 2000</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">PRD</journal-id><journal-title-group><journal-title>Periodontology 2000</journal-title></journal-title-group><issn pub-type="ppub">0906-6713</issn><issn pub-type="epub">1600-0757</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12842860</article-id><article-id pub-id-type="pmcid-ver">PMC12842860.1</article-id><article-id pub-id-type="pmcaid">12842860</article-id><article-id pub-id-type="pmcaiid">12842860</article-id><article-id pub-id-type="pmid">40495582</article-id><article-id pub-id-type="doi">10.1111/prd.12631</article-id><article-id pub-id-type="publisher-id">PRD12631</article-id><article-id pub-id-type="other">PRD-Feb-2025-0303.R1</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>The role of the oral microbiome, host response, and periodontal disease treatment in Alzheimer's disease: A primer</article-title><alt-title alt-title-type="left-running-head">Chalmers and Hernandez‐Kapila</alt-title></title-group><contrib-group><contrib id="prd12631-cr-0001" contrib-type="author"><name name-style="western"><surname>Chalmers</surname><given-names initials="JC">Jaclyn C.</given-names></name><xref rid="prd12631-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="prd12631-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Hernandez‐Kapila</surname><given-names initials="YL">Yvonne L.</given-names></name><xref rid="prd12631-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="prd12631-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>ykapila@dentistry.ucla.edu</email></address></contrib></contrib-group><aff id="prd12631-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Section of Periodontics</named-content>
+<institution>University of California at Los Angeles School of Dentistry</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="prd12631-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Section of Biosystems and Function</named-content>
+<institution>University of California at Los Angeles School of Dentistry</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Yvonne L. Hernandez‐Kapila, University of California at Los Angeles School of Dentistry, 10833 Le Conte Ave., Box 951668, Los Angeles, CA 90095‐1668, USA.<break/>
+Email: <email>ykapila@dentistry.ucla.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2025</year></pub-date><volume>98</volume><issue seq="140">1</issue><issue-id pub-id-type="pmc-issue-id">506072</issue-id><issue-id pub-id-type="doi">10.1111/prd.v98.1</issue-id><issue-title>PERIODONTOLOGY AND PUBLIC HEALTH</issue-title><fpage>220</fpage><lpage>227</lpage><history><date date-type="rev-recd"><day>28</day><month>4</month><year>2025</year></date><date date-type="received"><day>24</day><month>2</month><year>2025</year></date><date date-type="accepted"><day>01</day><month>5</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>27</day><month>01</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>28</day><month>01</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-28 16:25:13.713"><day>28</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Periodontology 2000</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PRD-98-220.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PRD-98-220.pdf"/><abstract><title>Abstract</title><sec id="prd12631-sec-0201"><title>Background</title><p>Alzheimer‘s disease (AD) is the leading cause of cognitive impairment and dementia in elderly patients worldwide. There is increasing evidence that periodontal disease may have an important role in the complex, multifactorial pathogenesis of AD.</p></sec><sec id="prd12631-sec-0202"><title>Aim</title><p>This narrative review aims to (1) highlight the current understanding of the role of periodontal disease in AD, including molecular and immunological evidence, epidemiological studies, and biological mechanisms linking periodontal disease to AD; and (2) explore the potential impact of periodontal therapy as part of an individualized, multitherapeutic approach to AD.</p></sec><sec id="prd12631-sec-0203"><title>Materials and methods</title><p>A literature search of the PubMed database was conducted using Boolean search strategies to identify publications related to the potential connections between periodontal disease and AD.</p></sec><sec id="prd12631-sec-0204"><title>Results</title><p>Most of the evidence for a link between periodontal disease and AD is limited to preclinical research and epidemiological investigations. A direct causal link has not yet been demonstrated in human clinical studies, but periodontal pathogenic bacteria have been detected in brain tissue and cerebrospinal fluid of patients with AD. Further, colocalization of gingipain proteases secreted by <italic toggle="no">Porphyromonas gingivalis</italic> has been found in AD pathological lesions. Epidemiological studies support associations between periodontal disease and increased risk/prevalence of cognitive decline, AD, and AD mortality. Two mechanistic theories have been proposed to explain the connection between periodontitis and AD: the “microbial involvement” theory focuses on periodontal disease–associated pathogenic bacteria, whereas the “inflammatory cascade” theory focuses on proinflammatory mediators as drivers of neuroinflammation that may exacerbate pathologic lesions associated with AD. Preclinical studies of periodontal therapies targeting oral microbiota or their byproducts have investigated small‐molecule gingipain inhibitors and novel therapeutics that restore oral microbial homeostasis (e.g., probiotic bacteriocin nisin). In animal models, gingipain inhibitors and nisin showed inhibitory effects on formation of pathological lesions of AD or neuroinflammation and microbiome changes, respectively; however, no impact on cognition was found with use of gingipain inhibitors in patients with mild‐to‐moderate AD.</p></sec><sec id="geb70060-sec-0205"><title>Conclusions</title><p>Additional studies are needed to better understand the potential causal relationship between periodontal disease and AD, including further exploration of therapies targeting the oral–brain axis.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="prd12631-kwd-0001">Alzheimer's disease</kwd><kwd id="prd12631-kwd-0002">neurodegenerative disease</kwd><kwd id="prd12631-kwd-0003">oral health</kwd><kwd id="prd12631-kwd-0004">periodontal disease</kwd><kwd id="prd12631-kwd-0005">periodontitis</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>OraPharma, Bridgewater, NJ</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="0"/><page-count count="8"/><word-count count="5800"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.8 mode:remove_FC converted:27.01.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="PRD12631-cit-2001">
+<string-name name-style="western">
+<surname>Chalmers</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hernandez‐Kapila</surname>
+<given-names>YL</given-names>
+</string-name>. <article-title>The role of the oral microbiome, host response, and periodontal disease treatment in Alzheimer's disease: A primer</article-title>. <source>Periodontology 2000</source>. <year>2025</year>;<volume>98</volume>:<fpage>220</fpage>‐<lpage>227</lpage>. doi:<pub-id pub-id-type="doi">10.1111/prd.12631</pub-id>
+<pub-id pub-id-type="pmcid">PMC12842860</pub-id><pub-id pub-id-type="pmid">40495582</pub-id></mixed-citation>
+</p></notes></front><body id="prd12631-body-0001"><sec id="prd12631-sec-0001"><label>1</label><title>INTRODUCTION</title><p>During the past several decades, there has been increasing interest in the potential connection between periodontal disease and systemic conditions, including neurodegenerative diseases.<xref rid="prd12631-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="prd12631-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="prd12631-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="prd12631-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Among these, Alzheimer's disease (AD) is a leading cause of cognitive impairment globally,<xref rid="prd12631-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> and research has suggested that chronic periodontal infection and related inflammation can negatively affect the central nervous system (CNS) and predispose to cognitive impairment.<xref rid="prd12631-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="prd12631-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="prd12631-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="prd12631-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="prd12631-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Two key features define AD: (1) excessive production of insoluble, fibrillary extracellular amyloid‐β plaques in the brain, which are known to cause neuronal damage; and (2) accumulation of hyperphosphorylated tau‐positive neurofibrillary tangles, which disrupt synaptic connections and neuronal communications and lead to cognitive function decline.<xref rid="prd12631-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="prd12631-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="prd12631-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="prd12631-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> However, triggers of these pathological processes in AD are unclear.<xref rid="prd12631-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="prd12631-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+</p><p>A classic hypothesis involves the role of altered metabolism and processing of amyloid precursor protein (APP), resulting in abnormal accumulation of amyloid‐β alongside tau tangle development.<xref rid="prd12631-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="prd12631-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> This hypothesis is based on studies of the familial or early‐onset form of AD, which has identifiable APP gene mutations.<xref rid="prd12631-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="prd12631-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> For the sporadic or late‐onset form, which accounts for &gt;95% of AD cases,<xref rid="prd12631-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="prd12631-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> the etiology of amyloid deposition is less clear, and causation is considered multifactorial.<xref rid="prd12631-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Age, medical comorbidities (e.g., vascular disease and traumatic brain injury), lifestyle choices (e.g., physical activity and social engagement levels), and environmental factors can influence the risk for development of late‐onset AD.<xref rid="prd12631-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> In addition, genetic susceptibility plays an important role.<xref rid="prd12631-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The estimated heritability rate of late‐onset AD is 60%–80%,<xref rid="prd12631-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> and the strongest risk occurs in individuals with the ε4 allele of apolipoprotein E.<xref rid="prd12631-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+</p><p>An inflammatory hypothesis has also been formulated to explain the pathogenesis of AD.<xref rid="prd12631-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> It has been suggested that amyloid‐β senile plaques and tau neurofibrillary tangles increase the production of proinflammatory cytokines, such as tumor necrosis factor‐α (TNF‐α), interleukin‐1β (IL‐1β), and interleukin‐6 (IL‐6), which, in turn, further activate amyloid‐β synthesis and tau phosphorylation, thus maintaining a chronic cyclic inflammatory response in the CNS.<xref rid="prd12631-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> In addition, amyloid‐β senile plaques can activate immune cells in the brain (microglia), which release IL‐1β and cathepsin B and induce prolonged neuroinflammation that worsens neuronal damage and accelerates AD progression.<xref rid="prd12631-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="prd12631-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="prd12631-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> In addition to this localized inflammation in the CNS, peripheral inflammation, such as that caused by periodontitis‐related gram‐negative bacteria, may also contribute to the pathogenesis of late‐onset AD.<xref rid="prd12631-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="prd12631-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Oral dysbiosis‐induced inflammation and associated accumulation of amyloid‐β plaques may also contribute to cognitive impairment in early‐stage AD.<xref rid="prd12631-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="prd12631-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> Pathogens from the periphery (e.g., oral microbes) may directly activate inflammatory processes in the brain by crossing the blood–brain barrier or may indirectly increase cerebral inflammation via increases in circulating proinflammatory mediators, thereby activating amyloid production.<xref rid="prd12631-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="prd12631-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="prd12631-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+</p><p>Given the complexity and multifactorial nature of AD pathogenesis, an individualized, multitherapeutic approach is needed to address potential contributors to disease onset.<xref rid="prd12631-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> This narrative review aims to (1) highlight the current understanding of the role of periodontal disease in AD, including molecular and immunological evidence, epidemiological studies, and biological mechanisms linking periodontal disease to AD; and (2) explore the potential impact of periodontal therapy as part of an individualized, multitherapeutic approach to AD. A literature search of the PubMed database was conducted using a Boolean strategy to identify English‐language publications related to the potential connections between periodontal disease and AD.</p></sec><sec id="prd12631-sec-0002"><label>2</label><title>MOLECULAR AND IMMUNOLOGICAL EVIDENCE</title><p>A potential link between periodontal health and neurologic health was initially suggested based on the detection of <italic toggle="yes">Treponema</italic>, a bacterium commonly found in the oral cavity and in harvested brain tissues, including the trigeminal ganglia, brainstem, and cortex, of patients with AD.<xref rid="prd12631-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> It was proposed that <italic toggle="yes">Treponema</italic> from the oral cavity might reach the brain through branches of the trigeminal nerve.<xref rid="prd12631-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Additional oral bacterial species have also been implicated in neurologic health and the pathogenesis of AD, including <italic toggle="yes">Aggregatibacter actinomycetemcomitans</italic>,<xref rid="prd12631-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<italic toggle="yes">Fusobacterium nucleatum</italic>,<xref rid="prd12631-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<italic toggle="yes">Prevotella intermedia</italic>,<xref rid="prd12631-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<italic toggle="yes">Actinomyces naeslundii</italic>,<xref rid="prd12631-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> and <italic toggle="yes">Porphyromonas gingivalis</italic>.<xref rid="prd12631-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Serotype b of <italic toggle="yes">A. actinomycetemcomitans</italic>, associated with severe forms of periodontal disease, has been shown to trigger the secretion of proinflammatory cytokines and amyloid‐β peptide in hippocampal cell cultures.<xref rid="prd12631-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Serum levels of antibodies to <italic toggle="yes">F. nucleatum</italic> and <italic toggle="yes">P. intermedia</italic> were found to be elevated in patients with AD, years before a clinical diagnosis of cognitive impairment.<xref rid="prd12631-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> High serum levels of <italic toggle="yes">A. naeslundii</italic> were associated with an increased risk for developing incident AD in a case cohort study.<xref rid="prd12631-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</p><p>Most of the evidence for a potential connection with AD pathology has come from animal and human studies of <italic toggle="yes">P. gingivalis</italic>, the keystone pathogen in periodontal disease.<xref rid="prd12631-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="prd12631-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> Animal models of periodontitis have shown that <italic toggle="yes">P. gingivalis</italic> accesses the brain, contributes to complement activation, and exacerbates brain amyloid‐β deposition.<xref rid="prd12631-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="prd12631-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> In humans with AD, <italic toggle="yes">P. gingivalis</italic> DNA was found in brain tissue and living‐donor cerebrospinal fluid samples, and immunoreactivity to gingipains (proteases secreted by <italic toggle="yes">P. gingivalis</italic>) was found in brain tissue samples; gingipains were also colocalized with neurons, tau tangles, and amyloid‐β in the hippocampus.<xref rid="prd12631-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="prd12631-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="prd12631-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Of note, oxidative stress is an important contributor to inflammation<xref rid="prd12631-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> and has been implicated in the pathogenesis of both periodontitis and AD.<xref rid="prd12631-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="prd12631-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="prd12631-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> Collectively, these observations support a possible relationship between periodontal disease and progression of AD via inflammation caused directly or indirectly by periodontal bacteria.<xref rid="prd12631-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="prd12631-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+</p></sec><sec id="prd12631-sec-0003"><label>3</label><title>EPIDEMIOLOGICAL STUDIES</title><p>Epidemiological research has provided further evidence of the connection between periodontitis and the risk of AD. A retrospective, matched‐cohort study showed that patients aged ≥50 years had a 1.7‐fold greater risk of developing AD after 10 years of chronic periodontitis exposure compared with patients without chronic periodontitis.<xref rid="prd12631-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> In the United States, metrics indicative of compromised oral health relevant to periodontal disease were positively correlated with the prevalence and mortality of AD, as well as the prevalence of subjective cognitive decline.<xref rid="prd12631-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+</p><p>A population‐level association with AD has also been found for periodontal pathogenic bacteria.<xref rid="prd12631-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="prd12631-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> A retrospective study using the National Health and Nutrition Examination Survey (NHANES) III linked with Medicare data demonstrated that serum immunoglobulin G titers against several different periodontal pathogens, including <italic toggle="yes">P. gingivalis</italic>, were associated with an increased risk for incident AD‐associated dementia and AD‐related mortality among US elderly patients aged ≥65 years.<xref rid="prd12631-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> Another analysis of NHANES III linked with Medicare data found that seropositivity for <italic toggle="yes">P. gingivalis</italic> and <italic toggle="yes">Streptococcus oralis</italic> at higher infection burdens was associated with a higher risk of AD.<xref rid="prd12631-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> Other population studies have shown that oral bacterial loads of <italic toggle="yes">F. nucleatum</italic> were significantly higher in patients with AD compared with controls.<xref rid="prd12631-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="prd12631-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>
+</p><p>These studies have focused on the association between periodontal disease or its pathogens and AD.<xref rid="prd12631-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="prd12631-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="prd12631-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> A retrospective cohort study went a step further and examined the link between periodontal disease treatment and mortality in patients with dementia.<xref rid="prd12631-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> In that study, which monitored patients during 17 years of follow‐up, the risk of death in patients with AD‐related dementia who did not receive periodontal treatment was 1.8 times higher than that in patients who received periodontal treatment.<xref rid="prd12631-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> These findings support the importance of maintaining oral health in patients with AD.</p></sec><sec id="prd12631-sec-0004"><label>4</label><title>BIOLOGICAL MECHANISMS LINKING PERIODONTAL DISEASE AND ALZHEIMER'S DISEASE</title><p>Data to date suggest a correlation between periodontal disease and AD, but it is more complex to determine a cause‐and‐effect association.<xref rid="prd12631-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="prd12631-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Animal models of infection‐induced periodontal disease show the development of pathological hallmark lesions of AD, including extracellular amyloid‐β plaques and phosphorylated tau protein bound to neurofibrillary tangles in the hippocampus, as well as a clinical phenotype of impaired spatial learning and memory.<xref rid="prd12631-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="prd12631-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> These results suggest a causative role of periodontal infection in the development of AD lesions and cognitive impairment.<xref rid="prd12631-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> However, data from human studies are less conclusive.<xref rid="prd12631-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> A 2022 meta‐analysis confirmed a moderate association of periodontitis with age‐related cognitive impairment (particularly dementia and AD) in humans, but causality could not be inferred because of data heterogeneity and risk of trial bias.<xref rid="prd12631-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+</p><p>If periodontal disease is involved in the pathogenesis of AD, the next question is what role periodontal pathogens and inflammation may play and how they might contribute to brain inflammation mechanistically. Theoretically, two possible mechanisms may connect periodontal disease and AD: a “microbial involvement mechanism” and an “inflammatory cascade mechanism” (Figure <xref rid="prd12631-fig-0001" ref-type="fig">1</xref>).<xref rid="prd12631-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> In the microbial involvement mechanism, invasive and virulent periodontal pathogens, such as <italic toggle="yes">P. gingivalis</italic> and <italic toggle="yes">Treponema</italic>, induce gingival inflammation, degrade connective tissue, and resorb alveolar bone around teeth.<xref rid="prd12631-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> During this process, (1) the junctional epithelium linking the gingiva to the tooth enamel is transformed into pocket epithelium with a reservoir of pathogenic bacteria, leading to bacteremia via infiltration of local blood vessels (i.e., leaky gums), or (2) bacteria travel directly to the brain via neuronal transport; both processes promote cytokine release and amyloid deposition.<xref rid="prd12631-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="prd12631-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> In the inflammatory cascade mechanism, periodontal bacteria do not physically spread through the CNS, but rather inflammatory mediators (e.g., C‐reactive protein, IL‐1, IL‐6, TNF‐α, and α‐1‐antichymotrypsin) originating from periodontal disease, via the leaky gums, increase systemic inflammation, including in the brain. This increases production of amyloid‐β and tau hyperphosphorylation and exacerbates the neurodegenerative process of AD.<xref rid="prd12631-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+</p><fig position="float" fig-type="FIGURE" id="prd12631-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Mechanism of microbial involvement or inflammatory cascade potentially linking periodontal disease and Alzheimer's disease. In the “microbial involvement mechanism,” periodontal pathogenic bacteria or their byproducts migrate from the leaky gums to the brain via bloodstream and/or neuronal transport and cause neuroinflammation, cytokine release, and amyloid deposition.<xref rid="prd12631-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="prd12631-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> In the “inflammatory cascade mechanism,” proinflammatory mediators due to periodontal disease increase systemic inflammation and promote neuroinflammation and amyloid deposition in the brain.<xref rid="prd12631-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Adapted with permission from figure by Ryutaro Kuraji and Yvonne Kapila, Copyright © 2024.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PRD-98-220-g001.jpg"/></fig><p>Studies of gingipains support the plausibility of these biological mechanisms. In animal and cell culture studies, gingipains induced endothelial cell detachment, apoptosis, and enhanced vascular permeability,<xref rid="prd12631-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="prd12631-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> implicating their role in breaking down tight junctions of the blood–brain barrier and providing an entry route for microorganisms, with induction of inflammatory mediators.<xref rid="prd12631-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> Gingipains increased gene expression of APP and APP cleaving enzyme, production of amyloid‐β and tau tangles, and loss of neuronal synapses, thus connecting this <italic toggle="yes">P. gingivalis</italic> virulence factor with AD pathology.<xref rid="prd12631-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="prd12631-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="prd12631-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> Gingipains also enhanced activation and migration of microglia toward the <italic toggle="yes">P. gingivalis‐</italic>infected sites and induced neuroinflammation and release of inflammatory mediators (IL‐1β, IL‐6, and TNF‐α) in animal models.<xref rid="prd12631-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="prd12631-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> In brain tissues of patients with AD, as mentioned earlier, gingipains were found at higher levels than in control brains and were associated with the hallmark signs of tau tangles and amyloid‐β.<xref rid="prd12631-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="prd12631-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="prd12631-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Furthermore, genes differentially expressed in mouse and human brain tissues with detected <italic toggle="yes">P. gingivalis</italic> sequencing reads, as well as genes associated with gingipain susceptibility, were highly expressed in the anterior hypothalamus, cholinergic neurons, and the basal forebrain regions,<xref rid="prd12631-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> thereby associating <italic toggle="yes">P. gingivalis</italic> and gingipains with the brain areas involved early in the disease process of AD.</p><p>It is possible that a bidirectional relationship could exist between periodontitis and AD (oral cavity−brain axis), similar to the concept of the gut–brain axis, a bidirectional communication between the gastrointestinal tract microbiota and the CNS.<xref rid="prd12631-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>, <xref rid="prd12631-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>, <xref rid="prd12631-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>, <xref rid="prd12631-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> Studies conducted mostly on animal models suggest that the pathways of communication in the gut–brain axis include the autonomic nervous system, the neuroendocrine system, and the immune system via portal circulation.<xref rid="prd12631-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>, <xref rid="prd12631-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> Within the gastrointestinal tract, a variety of microbial‐derived molecules, including hormones, neurotransmitters, and metabolites (e.g., short‐chain fatty acids), are implicated in the pathogenesis of neurodegenerative diseases including AD.<xref rid="prd12631-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> Conversely, nervous system components, such as stress hormones, immune mediators, and CNS neurotransmitters, are believed to activate the enteric nervous system and modulate the gut microbiota.<xref rid="prd12631-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> This bidirectional relationship and impact of the gut microbiota in the gut−brain axis will likely help guide future studies related to an oral cavity−brain axis.</p></sec><sec id="prd12631-sec-0005"><label>5</label><title>PERIODONTAL THERAPIES AND IMPACT ON COGNITION</title><p>Standard non‐pharmacologic approaches to periodontitis include daily oral hygiene measures complemented by professional removal of biofilms during supportive periodontal care.<xref rid="prd12631-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> Addressing inflammation is likely to be an important component of patient management, given it plays a key role in the pathogenesis of both periodontal disease and AD. Epidemiologic studies have shown that the use of nonsteroidal anti‐inflammatory drugs (NSAIDs) may modify cognitive trajectories and prevent cognitive decline if started in midlife (before 65 years of age), years before the occurrence of AD‐related dementia.<xref rid="prd12631-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> Clinical trials have evaluated the neuronal effects of various NSAIDs in patients with AD but have produced mixed results. In a trial of indomethacin 100–150 mg/day (<italic toggle="yes">N</italic> = 66), cognitive decline was slowed compared with placebo treatment in patients with AD (<italic toggle="yes">p</italic> &lt; 0.003).<xref rid="prd12631-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref> However, a trial of rofecoxib or naproxen failed to demonstrate a beneficial effect versus placebo on AD progression,<xref rid="prd12631-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref> suggesting that benefit with NSAIDs is not a class effect.<xref rid="prd12631-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref> Although no clinical trials have specifically evaluated the neuronal effects of periodontal anti‐inflammatory agents, a prospective study of patients with gingivitis/periodontitis and mild AD showed that dental treatment could reduce gingival inflammation and significantly improve cognitive parameters by 6 months after the dental intervention.<xref rid="prd12631-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref> These results indicate the potential importance of inhibiting periodontal inflammation for maintaining cognitive function.</p><p>Given the association of gingipains and periodontal pathogens with the biological features of AD, there has been interest in evaluating how therapeutics targeting the oral microbiota might affect cognitive outcomes.<xref rid="prd12631-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="prd12631-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="prd12631-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> For example, administration of small‐molecule gingipain inhibitors (in animal models or in neuronal cell cultures infected with <italic toggle="yes">P. gingivalis</italic> or exposed to gingipains) decreased the <italic toggle="yes">P. gingivalis</italic> bacterial load in the brain, reduced the secretion of inflammatory mediators and neurotoxicity of gingipains, and reduced the formation of amyloid plaques and tau tangles.<xref rid="prd12631-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="prd12631-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> The gingipain inhibitor atuzaginstat was evaluated in a phase 2/3 clinical trial as a potential inhibitor of this bacterial virulence factor in patients with mild‐to‐moderate AD (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03823404">NCT03823404</ext-link>); however, the study failed to detect any differences versus placebo in cognitive parameters after 48 weeks of treatment.<xref rid="prd12631-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="prd12631-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> To date, other gingipain inhibitors have not been evaluated in human trials.</p><p>Therapeutics that restore the balance of the oral microbiome have been proposed as potential treatments for oral and systemic diseases. Nisin, an antimicrobial peptide (lantibiotic) produced by the probiotic <italic toggle="yes">Lactococcus lactis</italic>, has shown efficacy in modulating oral microbial dysbiosis toward health and attenuating the systemic host immune response.<xref rid="prd12631-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref>, <xref rid="prd12631-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref> Research on oral biofilms has indicated that both <italic toggle="yes">L. lactis</italic> and nisin prevent biofilm formation, disrupt preformed biofilms, decrease oral pathogen load within biofilms, and can restore microbial diversity back to control levels.<xref rid="prd12631-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref> In addition, preclinical studies support immunomodulatory effects of nisin via induction of chemokine secretion and suppression of lipopolysaccharide‐stimulated cytokines.<xref rid="prd12631-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref>, <xref rid="prd12631-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref> In an animal model of periodontal infection, oral application of nisin affected several components within the brain: It modulated the composition of bacteria, reduced DNA levels of periodontal pathogens, decreased mRNA expression of proinflammatory cytokines, and decreased the deposition of amyloid‐β and phosphorylated tau.<xref rid="prd12631-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref>
+</p><p>Probiotics may be appropriate as part of a prophylactic or treatment regimen for periodontitis and gingivitis, given their modulation of the oral microbiota and positive impact on the host immune response.<xref rid="prd12631-bib-0073" ref-type="bibr">
+<sup>73</sup>
+</xref>, <xref rid="prd12631-bib-0074" ref-type="bibr">
+<sup>74</sup>
+</xref>, <xref rid="prd12631-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref>, <xref rid="prd12631-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> Oral microbiota transplantation (OMT) and natural compounds, such as quercetin, a plant‐derived dietary polyphenol, are novel therapeutics that modulate oral microbial dysbiosis in preclinical studies and have potential as adjunctive therapies for periodontitis.<xref rid="prd12631-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref>, <xref rid="prd12631-bib-0078" ref-type="bibr">
+<sup>78</sup>
+</xref>
+</p><p>An investigation of OMT for periodontitis in canines found that, compared with chemical plus mechanical full‐mouth debridement, receipt of a healthy donor OMT as an adjunct to debridement led to a notable, albeit transient (&lt;12 weeks), “ecological shift” toward the donor microbiota composition.<xref rid="prd12631-bib-0079" ref-type="bibr">
+<sup>79</sup>
+</xref> An exploratory clinical trial in 16 adults with severe periodontitis confirmed the presence of distinct oral microbial signatures for periodontitis versus a healthy oral cavity, supporting the rationale for investing in OMT as a potential therapeutic approach for humans.<xref rid="prd12631-bib-0080" ref-type="bibr">
+<sup>80</sup>
+</xref> In a murine periodontitis model, oral administration of quercetin helped maintain oral microbiome diversity.<xref rid="prd12631-bib-0078" ref-type="bibr">
+<sup>78</sup>
+</xref> Additionally, in human macrophages, quercetin treatment was associated with anti‐inflammatory effects, including reduced TNF and IL‐6 production, following infection with <italic toggle="yes">P. gingivalis</italic> and <italic toggle="yes">F. nucleatum</italic>. Other than nisin, these additional approaches (OMT, quercetin) have not been evaluated for their impact on the CNS via modulation of the oral microbiota, but further investigation in neurodegenerative diseases is warranted.</p></sec><sec id="prd12631-sec-0006"><label>6</label><title>FUTURE DIRECTIONS</title><p>Extensive research has been dedicated to the etiology and pathogenesis of cognitive impairment, and the multifactorial nature of neurocognitive decline complicates approaches for risk reduction and targeted therapeutics and requires a multimodal approach. The relationship between periodontal disease and AD at the molecular, immunological, and population levels supports a role of effectively managing periodontal health to maintain healthy cognitive function as individuals age. For patients at high risk of AD, a more intense periodontal health maintenance regimen may be advised. In addition, routine fluid testing (e.g., salivary) for periodontal pathogens in selected patients may allow early identification and treatment of at‐risk patients with gingivitis/periodontitis and therefore limit its systemic impact. The prevention and treatment of periodontal disease can be easily incorporated into the multitherapeutic and integrative approach to address multiple potential contributors to cognitive decline in patients with AD. It is important to acknowledge that a causal relationship between periodontal disease and AD has not been established. More definitive evidence may come from clinical studies of periodontal therapies and their effects on the oral and brain microbiomes and on clinical parameters of cognition.</p></sec><sec id="prd12631-sec-0007"><label>7</label><title>CLINICAL RELEVANCE AND FUTURE OUTLOOK</title><p>Most of the evidence for a link between periodontal disease and AD has come from preclinical research and epidemiological investigations, whereas a direct causal link has not yet been demonstrated in human clinical studies. Given that a connection between periodontal disease and AD is emerging and because periodontal infection/inflammation is a modifiable risk factor (i.e., periodontal treatment can be easily incorporated into a multitherapeutic strategy), employing a multitherapeutic strategy and tailoring treatments to new disease connections/mechanisms hold promise for improving AD outcomes. Based on preliminary research, further exploration of therapies targeting the proposed microbial involvement or inflammatory cascade mechanisms in the oral–brain axis is warranted.</p></sec><sec id="prd12631-sec-0009"><title>FUNDING INFORMATION</title><p>Open access fee support and funding for editorial assistance were provided by OraPharma, Bridgewater, NJ. The authors did not receive any compensation for authorship.</p></sec><sec sec-type="COI-statement" id="prd12631-sec-0010"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors have no additional potential conflicts of interest to disclose related to authorship or publication of this article.</p></sec></body><back><ack id="prd12631-sec-0008"><title>ACKNOWLEDGMENTS</title><p>Technical editorial and medical writing assistance was provided, under the direction of the authors, by Synchrony Medical Communications, West Chester, PA. Funding for this assistance was provided by OraPharma, Bridgewater, NJ.</p></ack><sec sec-type="data-availability" id="prd12631-sec-0012"><title>DATA AVAILABILITY STATEMENT</title><p>Data sharing not applicable—no new data are generated.</p></sec><ref-list content-type="cited-references" id="prd12631-bibl-0001"><title>REFERENCES</title><ref id="prd12631-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="prd12631-cit-0001">
+<string-name name-style="western">
+<surname>Dziedzic</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Is periodontitis associated with age‐related cognitive impairment? The systematic review, confounders assessment and meta‐analysis of clinical studies</article-title>. <source>Int J Mol Sci</source>. <year>2022</year>;<volume>23</volume>(<issue>23</issue>):<fpage>15320</fpage>.<pub-id pub-id-type="pmid">36499656</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms232315320</pub-id><pub-id pub-id-type="pmcid">PMC9739281</pub-id></mixed-citation></ref><ref id="prd12631-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="prd12631-cit-0002">
+<string-name name-style="western">
+<surname>Dioguardi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crincoli</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laino</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>The role of periodontitis and periodontal bacteria in the onset and progression of Alzheimer's disease: a systematic review</article-title>. <source>J Clin Med</source>. <year>2020</year>;<volume>9</volume>(<issue>2</issue>):<fpage>495</fpage>.<pub-id pub-id-type="pmid">32054121</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm9020495</pub-id><pub-id pub-id-type="pmcid">PMC7074205</pub-id></mixed-citation></ref><ref id="prd12631-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="prd12631-cit-0003">
+<string-name name-style="western">
+<surname>Botelho</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mascarenhas</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Viana</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>An umbrella review of the evidence linking oral health and systemic noncommunicable diseases</article-title>. <source>Nat Commun</source>. <year>2022</year>;<volume>13</volume>(<issue>1</issue>):<fpage>7614</fpage>.<pub-id pub-id-type="pmid">36494387</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-022-35337-8</pub-id><pub-id pub-id-type="pmcid">PMC9734115</pub-id></mixed-citation></ref><ref id="prd12631-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="prd12631-cit-0004">
+<string-name name-style="western">
+<surname>Isola</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Polizzi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Serra</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boato</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sculean</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Relationship between periodontitis and systemic diseases: a bibliometric and visual study</article-title>. <source>Periodontol 2000</source>. <year>2025</year>. doi:<pub-id pub-id-type="doi">10.1111/prd.12621</pub-id>
+<pub-id pub-id-type="pmcid">PMC12842847</pub-id><pub-id pub-id-type="pmid">39775963</pub-id></mixed-citation></ref><ref id="prd12631-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="prd12631-cit-0005">
+<string-name name-style="western">
+<surname>Atri</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The Alzheimer's disease clinical spectrum: diagnosis and management</article-title>. <source>Med Clin North Am</source>. <year>2019</year>;<volume>103</volume>(<issue>2</issue>):<fpage>263</fpage>‐<lpage>293</lpage>.<pub-id pub-id-type="pmid">30704681</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.mcna.2018.10.009</pub-id></mixed-citation></ref><ref id="prd12631-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="prd12631-cit-0006">
+<string-name name-style="western">
+<surname>Villar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paladini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cossatis</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Periodontal disease and Alzheimer's: insights from a systematic literature network analysis</article-title>. <source>J Prev Alzheimers Dis</source>. <year>2024</year>;<volume>11</volume>(<issue>4</issue>):<fpage>1148</fpage>‐<lpage>1165</lpage>.<pub-id pub-id-type="pmid">39044527</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.14283/jpad.2024.79</pub-id><pub-id pub-id-type="pmcid">PMC11266257</pub-id></mixed-citation></ref><ref id="prd12631-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="prd12631-cit-0007">
+<string-name name-style="western">
+<surname>Lin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pathak</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Association between periodontitis and mild cognitive impairment: a systematic review and meta‐analysis</article-title>. <source>Dement Geriatr Cogn Disord</source>. <year>2024</year>;<volume>53</volume>(<issue>1</issue>):<fpage>37</fpage>‐<lpage>46</lpage>.<pub-id pub-id-type="pmid">38151010</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000535776</pub-id></mixed-citation></ref><ref id="prd12631-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="prd12631-cit-0008">
+<string-name name-style="western">
+<surname>Fu</surname>
+<given-names>YD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>CL</given-names>
+</string-name>, et al. <article-title>Meta analysis of the correlation between periodontal health and cognitive impairment in the older population</article-title>. <source>J Prev Alzheimers Dis</source>. <year>2024</year>;<volume>11</volume>(<issue>5</issue>):<fpage>1307</fpage>‐<lpage>1315</lpage>.<pub-id pub-id-type="pmid">39350376</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.14283/jpad.2024.87</pub-id></mixed-citation></ref><ref id="prd12631-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="prd12631-cit-0009">
+<string-name name-style="western">
+<surname>Ogbodo</surname>
+<given-names>JO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agbo</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Njoku</surname>
+<given-names>UO</given-names>
+</string-name>, et al. <article-title>Alzheimer's disease: pathogenesis and therapeutic interventions</article-title>. <source>Curr Aging Sci</source>. <year>2022</year>;<volume>15</volume>(<issue>1</issue>):<fpage>2</fpage>‐<lpage>25</lpage>.<pub-id pub-id-type="pmid">33653258</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1874609814666210302085232</pub-id></mixed-citation></ref><ref id="prd12631-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="prd12631-cit-0010">
+<string-name name-style="western">
+<surname>Rostagno</surname>
+<given-names>AA</given-names>
+</string-name>. <article-title>Pathogenesis of Alzheimer's disease</article-title>. <source>Int J Mol Sci</source>. <year>2022</year>;<volume>24</volume>(<issue>1</issue>):<fpage>107</fpage>.<pub-id pub-id-type="pmid">36613544</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms24010107</pub-id><pub-id pub-id-type="pmcid">PMC9820480</pub-id></mixed-citation></ref><ref id="prd12631-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="prd12631-cit-0011">
+<string-name name-style="western">
+<surname>Rahman</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lendel</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Extracellular protein components of amyloid plaques and their roles in Alzheimer's disease pathology</article-title>. <source>Mol Neurodegener</source>. <year>2021</year>;<volume>16</volume>(<issue>1</issue>):<fpage>59</fpage>.<pub-id pub-id-type="pmid">34454574</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13024-021-00465-0</pub-id><pub-id pub-id-type="pmcid">PMC8400902</pub-id></mixed-citation></ref><ref id="prd12631-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="prd12631-cit-0012">
+<string-name name-style="western">
+<surname>Khan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barve</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Recent advancements in pathogenesis, diagnostics and treatment of Alzheimer's disease</article-title>. <source>Curr Neuropharmacol</source>. <year>2020</year>;<volume>18</volume>(<issue>11</issue>):<fpage>1106</fpage>‐<lpage>1125</lpage>.<pub-id pub-id-type="pmid">32484110</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1570159X18666200528142429</pub-id><pub-id pub-id-type="pmcid">PMC7709159</pub-id></mixed-citation></ref><ref id="prd12631-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="prd12631-cit-0013">
+<string-name name-style="western">
+<surname>Bi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Processing of mutant β‐amyloid precursor protein and the clinicopathological features of familial Alzheimer's disease</article-title>. <source>Aging Dis</source>. <year>2019</year>;<volume>10</volume>(<issue>2</issue>):<fpage>383</fpage>‐<lpage>403</lpage>.<pub-id pub-id-type="pmid">31011484</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.14336/AD.2018.0425</pub-id><pub-id pub-id-type="pmcid">PMC6457050</pub-id></mixed-citation></ref><ref id="prd12631-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="prd12631-cit-0014">
+<string-name name-style="western">
+<surname>Lopez Sanchez</surname>
+<given-names>MIG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Wijngaarden</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trounce</surname>
+<given-names>IA</given-names>
+</string-name>. <article-title>Amyloid precursor protein‐mediated mitochondrial regulation and Alzheimer's disease</article-title>. <source>Br J Pharmacol</source>. <year>2019</year>;<volume>176</volume>(<issue>18</issue>):<fpage>3464</fpage>‐<lpage>3474</lpage>.<pub-id pub-id-type="pmid">30471088</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bph.14554</pub-id><pub-id pub-id-type="pmcid">PMC6715589</pub-id></mixed-citation></ref><ref id="prd12631-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="prd12631-cit-0015">
+<article-title>2024 Alzheimer's disease facts and figures</article-title>. <source>Alzheimers Dement</source>. <year>2024</year>;<volume>20</volume>(<issue>5</issue>):<fpage>3708</fpage>‐<lpage>3821</lpage>.<pub-id pub-id-type="pmid">38689398</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.13809</pub-id><pub-id pub-id-type="pmcid">PMC11095490</pub-id></mixed-citation></ref><ref id="prd12631-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="prd12631-cit-0016">
+<string-name name-style="western">
+<surname>Rabinovici</surname>
+<given-names>GD</given-names>
+</string-name>. <article-title>Late‐onset Alzheimer disease</article-title>. <source>Continuum (Minneap Minn)</source>. <year>2019</year>;<volume>25</volume>(<issue>1</issue>):<fpage>14</fpage>‐<lpage>33</lpage>.<pub-id pub-id-type="pmid">30707185</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/CON.0000000000000700</pub-id><pub-id pub-id-type="pmcid">PMC6548536</pub-id></mixed-citation></ref><ref id="prd12631-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="prd12631-cit-0017">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ni</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Cathepsin B plays a critical role in inducing Alzheimer's disease‐like phenotypes following chronic systemic exposure to lipopolysaccharide from <italic toggle="yes">Porphyromonas gingivalis</italic> in mice</article-title>. <source>Brain Behav Immun</source>. <year>2017</year>;<volume>65</volume>:<fpage>350</fpage>‐<lpage>361</lpage>.<pub-id pub-id-type="pmid">28610747</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbi.2017.06.002</pub-id></mixed-citation></ref><ref id="prd12631-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="prd12631-cit-0018">
+<string-name name-style="western">
+<surname>Nakanishi</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Microglial cathepsin B as a key driver of inflammatory brain diseases and brain aging</article-title>. <source>Neural Regen Res</source>. <year>2020</year>;<volume>15</volume>(<issue>1</issue>):<fpage>25</fpage>‐<lpage>29</lpage>.<pub-id pub-id-type="pmid">31535638</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/1673-5374.264444</pub-id><pub-id pub-id-type="pmcid">PMC6862407</pub-id></mixed-citation></ref><ref id="prd12631-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="prd12631-cit-0019">
+<string-name name-style="western">
+<surname>Ganesh</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karthikeyan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muthukumaraswamy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anand</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>A potential role of periodontal inflammation in Alzheimer's disease: a review</article-title>. <source>Oral Health Prev Dent</source>. <year>2017</year>;<volume>15</volume>(<issue>1</issue>):<fpage>7</fpage>‐<lpage>12</lpage>.<pub-id pub-id-type="pmid">28232969</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3290/j.ohpd.a37708</pub-id></mixed-citation></ref><ref id="prd12631-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="prd12631-cit-0020">
+<string-name name-style="western">
+<surname>Adil</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Omo‐Erigbe</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yadav</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jain</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The oral–gut microbiome–brain axis in cognition</article-title>. <source>Microorganisms</source>. <year>2025</year>;<volume>13</volume>(<issue>4</issue>):<fpage>814</fpage>.<pub-id pub-id-type="pmid">40284650</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/microorganisms13040814</pub-id><pub-id pub-id-type="pmcid">PMC12029813</pub-id></mixed-citation></ref><ref id="prd12631-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="prd12631-cit-0021">
+<string-name name-style="western">
+<surname>Ishida</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ishihara</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ishida</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Periodontitis induced by bacterial infection exacerbates features of Alzheimer's disease in transgenic mice</article-title>. <source>NPJ Aging Mech Dis</source>. <year>2017</year>;<volume>3</volume>:<fpage>15</fpage>.<pub-id pub-id-type="pmid">29134111</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41514-017-0015-x</pub-id><pub-id pub-id-type="pmcid">PMC5673943</pub-id></mixed-citation></ref><ref id="prd12631-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="prd12631-cit-0022">
+<string-name name-style="western">
+<surname>Osorio</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kanukuntla</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diaz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jafri</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cummings</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sfera</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The post‐amyloid era in Alzheimer's disease: trust your gut feeling</article-title>. <source>Front Aging Neurosci</source>. <year>2019</year>;<volume>11</volume>:<fpage>143</fpage>.<pub-id pub-id-type="pmid">31297054</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2019.00143</pub-id><pub-id pub-id-type="pmcid">PMC6608545</pub-id></mixed-citation></ref><ref id="prd12631-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="prd12631-cit-0023">
+<string-name name-style="western">
+<surname>Rao</surname>
+<given-names>RV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Subramaniam</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gregory</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Rationale for a multi‐factorial approach for the reversal of cognitive decline in Alzheimer's disease and MCI: a review</article-title>. <source>Int J Mol Sci</source>. <year>2023</year>;<volume>24</volume>(<issue>2</issue>):<fpage>1659</fpage>.<pub-id pub-id-type="pmid">36675177</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms24021659</pub-id><pub-id pub-id-type="pmcid">PMC9865291</pub-id></mixed-citation></ref><ref id="prd12631-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="prd12631-cit-0024">
+<string-name name-style="western">
+<surname>Riviere</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riviere</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>KS</given-names>
+</string-name>. <article-title>Molecular and immunological evidence of oral <italic toggle="yes">Treponema</italic> in the human brain and their association with Alzheimer's disease</article-title>. <source>Oral Microbiol Immunol</source>. <year>2002</year>;<volume>17</volume>(<issue>2</issue>):<fpage>113</fpage>‐<lpage>118</lpage>.<pub-id pub-id-type="pmid">11929559</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.0902-0055.2001.00100.x</pub-id></mixed-citation></ref><ref id="prd12631-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="prd12631-cit-0025">
+<string-name name-style="western">
+<surname>Díaz‐Zúñiga</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muñoz</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melgar‐Rodríguez</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Serotype b of <italic toggle="yes">Aggregatibacter actinomycetemcomitans</italic> triggers pro‐inflammatory responses and amyloid beta secretion in hippocampal cells: a novel link between periodontitis and Alzheimer s disease?</article-title>
+<source>J Oral Microbiol</source>. <year>2019</year>;<volume>11</volume>(<issue>1</issue>):<elocation-id>1586423</elocation-id>.<pub-id pub-id-type="pmid">31044031</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/20002297.2019.1586423</pub-id><pub-id pub-id-type="pmcid">PMC6484476</pub-id></mixed-citation></ref><ref id="prd12631-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="prd12631-cit-0026">
+<string-name name-style="western">
+<surname>Sparks Stein</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steffen</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Serum antibodies to periodontal pathogens are a risk factor for Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2012</year>;<volume>8</volume>(<issue>3</issue>):<fpage>196</fpage>‐<lpage>203</lpage>.<pub-id pub-id-type="pmid">22546352</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2011.04.006</pub-id><pub-id pub-id-type="pmcid">PMC3712346</pub-id></mixed-citation></ref><ref id="prd12631-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="prd12631-cit-0027">
+<string-name name-style="western">
+<surname>Noble</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scarmeas</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Celenti</surname>
+<given-names>RS</given-names>
+</string-name>, et al. <article-title>Serum IgG antibody levels to periodontal microbiota are associated with incident Alzheimer disease</article-title>. <source>PLoS One</source>. <year>2014</year>;<volume>9</volume>(<issue>12</issue>):<elocation-id>e114959</elocation-id>.<pub-id pub-id-type="pmid">25522313</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0114959</pub-id><pub-id pub-id-type="pmcid">PMC4270775</pub-id></mixed-citation></ref><ref id="prd12631-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="prd12631-cit-0028">
+<string-name name-style="western">
+<surname>Poole</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singhrao</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kesavalu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Curtis</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crean</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Determining the presence of periodontopathic virulence factors in short‐term postmortem Alzheimer's disease brain tissue</article-title>. <source>J Alzheimers Dis</source>. <year>2013</year>;<volume>36</volume>(<issue>4</issue>):<fpage>665</fpage>‐<lpage>677</lpage>.<pub-id pub-id-type="pmid">23666172</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-121918</pub-id></mixed-citation></ref><ref id="prd12631-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="prd12631-cit-0029">
+<string-name name-style="western">
+<surname>Hajishengallis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Darveau</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Curtis</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>The keystone‐pathogen hypothesis</article-title>. <source>Nat Rev Microbiol</source>. <year>2012</year>;<volume>10</volume>(<issue>10</issue>):<fpage>717</fpage>‐<lpage>725</lpage>.<pub-id pub-id-type="pmid">22941505</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrmicro2873</pub-id><pub-id pub-id-type="pmcid">PMC3498498</pub-id></mixed-citation></ref><ref id="prd12631-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="prd12631-cit-0030">
+<string-name name-style="western">
+<surname>Poole</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singhrao</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chukkapalli</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Active invasion of <italic toggle="yes">Porphyromonas gingivalis</italic> and infection‐induced complement activation in ApoE−/− mice brains</article-title>. <source>J Alzheimers Dis</source>. <year>2015</year>;<volume>43</volume>(<issue>1</issue>):<fpage>67</fpage>‐<lpage>80</lpage>.<pub-id pub-id-type="pmid">25061055</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-140315</pub-id></mixed-citation></ref><ref id="prd12631-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="prd12631-cit-0031">
+<string-name name-style="western">
+<surname>Dominy</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lynch</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ermini</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>
+<italic toggle="yes">Porphyromonas gingivalis</italic> in Alzheimer's disease brains: evidence for disease causation and treatment with small‐molecule inhibitors</article-title>. <source>Sci Adv</source>. <year>2019</year>;<volume>5</volume>(<issue>1</issue>):<elocation-id>eaau3333</elocation-id>.<pub-id pub-id-type="pmid">30746447</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/sciadv.aau3333</pub-id><pub-id pub-id-type="pmcid">PMC6357742</pub-id></mixed-citation></ref><ref id="prd12631-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="prd12631-cit-0032">
+<string-name name-style="western">
+<surname>Ryder</surname>
+<given-names>MI</given-names>
+</string-name>. <article-title>
+<italic toggle="yes">Porphyromonas gingivalis</italic> and Alzheimer disease: recent findings and potential therapies</article-title>. <source>J Periodontol</source>. <year>2020</year>;<volume>91</volume>(<issue>Suppl 1</issue>):<fpage>S45</fpage>‐<lpage>S49</lpage>.<pub-id pub-id-type="pmid">32533852</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/JPER.20-0104</pub-id><pub-id pub-id-type="pmcid">PMC7689719</pub-id></mixed-citation></ref><ref id="prd12631-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="prd12631-cit-0033">
+<string-name name-style="western">
+<surname>Lugrin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosenblatt‐Velin</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parapanov</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liaudet</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>The role of oxidative stress during inflammatory processes</article-title>. <source>Biol Chem</source>. <year>2014</year>;<volume>395</volume>(<issue>2</issue>):<fpage>203</fpage>‐<lpage>230</lpage>.<pub-id pub-id-type="pmid">24127541</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1515/hsz-2013-0241</pub-id></mixed-citation></ref><ref id="prd12631-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="prd12631-cit-0034">
+<string-name name-style="western">
+<surname>Gella</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Durany</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Oxidative stress in Alzheimer disease</article-title>. <source>Cell Adh Migr</source>. <year>2009</year>;<volume>3</volume>(<issue>1</issue>):<fpage>88</fpage>‐<lpage>93</lpage>.<pub-id pub-id-type="pmid">19372765</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4161/cam.3.1.7402</pub-id><pub-id pub-id-type="pmcid">PMC2675154</pub-id></mixed-citation></ref><ref id="prd12631-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="prd12631-cit-0035">
+<string-name name-style="western">
+<surname>Bosca</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miclaus</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ilea</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Role of nitro‐oxidative stress in the pathogenesis of experimental rat periodontitis</article-title>. <source>Clujul Med</source>. <year>2016</year>;<volume>89</volume>(<issue>1</issue>):<fpage>150</fpage>‐<lpage>159</lpage>.<pub-id pub-id-type="pmid">27004039</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.15386/cjmed-529</pub-id><pub-id pub-id-type="pmcid">PMC4777459</pub-id></mixed-citation></ref><ref id="prd12631-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="prd12631-cit-0036">
+<string-name name-style="western">
+<surname>Rashid</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rajan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mamillapalli</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Salivary microbiota dysbiosis and elevated polyamine levels contribute to the severity of periodontal disease</article-title>. <source>BMC Oral Health</source>. <year>2025</year>;<volume>25</volume>(<issue>1</issue>):<fpage>2</fpage>.<pub-id pub-id-type="pmid">39748343</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12903-024-05381-5</pub-id><pub-id pub-id-type="pmcid">PMC11697722</pub-id></mixed-citation></ref><ref id="prd12631-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="prd12631-cit-0037">
+<string-name name-style="western">
+<surname>Singhrao</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harding</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poole</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kesavalu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crean</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>
+<italic toggle="yes">Porphyromonas gingivalis</italic> periodontal infection and its putative links with Alzheimer's disease</article-title>. <source>Mediators Inflamm</source>. <year>2015</year>;<volume>2015</volume>:<elocation-id>137357</elocation-id>.<pub-id pub-id-type="pmid">26063967</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2015/137357</pub-id><pub-id pub-id-type="pmcid">PMC4430664</pub-id></mixed-citation></ref><ref id="prd12631-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="prd12631-cit-0038">
+<string-name name-style="western">
+<surname>Fu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Oral <italic toggle="yes">Porphyromonas gingivalis</italic> infections increase the risk of Alzheimer's disease: a review</article-title>. <source>Oral Health Prev Dent</source>. <year>2023</year>;<volume>21</volume>:<fpage>7</fpage>‐<lpage>16</lpage>.<pub-id pub-id-type="pmid">36651311</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3290/j.ohpd.b3818045</pub-id><pub-id pub-id-type="pmcid">PMC11619833</pub-id></mixed-citation></ref><ref id="prd12631-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="prd12631-cit-0039">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>YT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chang</surname>
+<given-names>YC</given-names>
+</string-name>. <article-title>Association between chronic periodontitis and the risk of Alzheimer's disease: a retrospective, population‐based, matched‐cohort study</article-title>. <source>Alzheimers Res Ther</source>. <year>2017</year>;<volume>9</volume>(<issue>1</issue>):<fpage>56</fpage>.<pub-id pub-id-type="pmid">28784164</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-017-0282-6</pub-id><pub-id pub-id-type="pmcid">PMC5547465</pub-id></mixed-citation></ref><ref id="prd12631-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="prd12631-cit-0040">
+<string-name name-style="western">
+<surname>Scherer</surname>
+<given-names>RX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scherer</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>U.S. state correlations between oral health metrics and Alzheimer's disease mortality, prevalence and subjective cognitive decline prevalence</article-title>. <source>Sci Rep</source>. <year>2020</year>;<volume>10</volume>(<issue>1</issue>):<elocation-id>20962</elocation-id>.<pub-id pub-id-type="pmid">33262437</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-020-77937-8</pub-id><pub-id pub-id-type="pmcid">PMC7708488</pub-id></mixed-citation></ref><ref id="prd12631-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="prd12631-cit-0041">
+<string-name name-style="western">
+<surname>Beydoun</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beydoun</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hossain</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>El‐Hajj</surname>
+<given-names>ZW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weiss</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zonderman</surname>
+<given-names>AB</given-names>
+</string-name>. <article-title>Clinical and bacterial markers of periodontitis and their association with incident all‐cause and Alzheimer's disease dementia in a large national survey</article-title>. <source>J Alzheimers Dis</source>. <year>2020</year>;<volume>75</volume>(<issue>1</issue>):<fpage>157</fpage>‐<lpage>172</lpage>.<pub-id pub-id-type="pmid">32280099</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-200064</pub-id><pub-id pub-id-type="pmcid">PMC11008556</pub-id></mixed-citation></ref><ref id="prd12631-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="prd12631-cit-0042">
+<string-name name-style="western">
+<surname>Borsa</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dubois</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sacco</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lupi</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Analysis: the link between periodontal diseases and Alzheimer's disease: a systematic review</article-title>. <source>Int J Environ Res Public Health</source>. <year>2021</year>;<volume>18</volume>(<issue>17</issue>):<fpage>9312</fpage>.<pub-id pub-id-type="pmid">34501899</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph18179312</pub-id><pub-id pub-id-type="pmcid">PMC8430572</pub-id></mixed-citation></ref><ref id="prd12631-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="prd12631-cit-0043">
+<string-name name-style="western">
+<surname>Beydoun</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beydoun</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hedges</surname>
+<given-names>DW</given-names>
+</string-name>, et al. <article-title>Infection burden, periodontal pathogens, and their interactive association with incident all‐cause and Alzheimer's disease dementia in a large national survey</article-title>. <source>Alzheimers Dement</source>. <year>2024</year>;<volume>20</volume>(<issue>9</issue>):<fpage>6468</fpage>‐<lpage>6485</lpage>.<pub-id pub-id-type="pmid">39115027</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.14141</pub-id><pub-id pub-id-type="pmcid">PMC11497652</pub-id></mixed-citation></ref><ref id="prd12631-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="prd12631-cit-0044">
+<string-name name-style="western">
+<surname>Panzarella</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mauceri</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baschi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maniscalco</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Campisi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monastero</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Oral health status in subjects with amnestic mild cognitive impairment and Alzheimer's disease: data from the Zabút aging project</article-title>. <source>J Alzheimers Dis</source>. <year>2022</year>;<volume>87</volume>(<issue>1</issue>):<fpage>173</fpage>‐<lpage>183</lpage>.<pub-id pub-id-type="pmid">32508326</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-200385</pub-id><pub-id pub-id-type="pmcid">PMC9277678</pub-id></mixed-citation></ref><ref id="prd12631-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="prd12631-cit-0045">
+<string-name name-style="western">
+<surname>Cho</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shin</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Association of periodontal disease treatment with mortality in patients with dementia: a population‐based retrospective cohort study (2002–2018)</article-title>. <source>Sci Rep</source>. <year>2024</year>;<volume>14</volume>(<issue>1</issue>):<fpage>5243</fpage>.<pub-id pub-id-type="pmid">38438421</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-024-55272-6</pub-id><pub-id pub-id-type="pmcid">PMC10912191</pub-id></mixed-citation></ref><ref id="prd12631-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="prd12631-cit-0046">
+<string-name name-style="western">
+<surname>Jungbauer</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stähli</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Auber Alberi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sculean</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eick</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Periodontal microorganisms and Alzheimer disease – a causative relationship?</article-title>
+<source>Periodontol 2000</source>. <year>2022</year>;<volume>89</volume>(<issue>1</issue>):<fpage>59</fpage>‐<lpage>82</lpage>. doi:<pub-id pub-id-type="doi">10.1111/prd.12429</pub-id>
+<pub-id pub-id-type="pmid">35244967</pub-id>
+<pub-id pub-id-type="pmcid">PMC9314828</pub-id></mixed-citation></ref><ref id="prd12631-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="prd12631-cit-0047">
+<string-name name-style="western">
+<surname>Singhrao</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olsen</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Assessing the role of <italic toggle="yes">Porphyromonas gingivalis</italic> in periodontitis to determine a causative relationship with Alzheimer's disease</article-title>. <source>J Oral Microbiol</source>. <year>2019</year>;<volume>11</volume>(<issue>1</issue>):<elocation-id>1563405</elocation-id>.<pub-id pub-id-type="pmid">30728914</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/20002297.2018.1563405</pub-id><pub-id pub-id-type="pmcid">PMC6352933</pub-id></mixed-citation></ref><ref id="prd12631-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="prd12631-cit-0048">
+<string-name name-style="western">
+<surname>Ding</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ren</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>
+<italic toggle="yes">Porphyromonas gingivalis</italic>, a periodontitis causing bacterium, induces memory impairment and age‐dependent neuroinflammation in mice</article-title>. <source>Immun Ageing</source>. <year>2018</year>;<volume>15</volume>:<fpage>6</fpage>.<pub-id pub-id-type="pmid">29422938</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12979-017-0110-7</pub-id><pub-id pub-id-type="pmcid">PMC5791180</pub-id></mixed-citation></ref><ref id="prd12631-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="prd12631-cit-0049">
+<string-name name-style="western">
+<surname>Sheets</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Potempa</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Travis</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casiano</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fletcher</surname>
+<given-names>HM</given-names>
+</string-name>. <article-title>Gingipains from <italic toggle="yes">Porphyromonas gingivalis</italic> W83 induce cell adhesion molecule cleavage and apoptosis in endothelial cells</article-title>. <source>Infect Immun</source>. <year>2005</year>;<volume>73</volume>(<issue>3</issue>):<fpage>1543</fpage>‐<lpage>1552</lpage>.<pub-id pub-id-type="pmid">15731052</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/IAI.73.3.1543-1552.2005</pub-id><pub-id pub-id-type="pmcid">PMC1064927</pub-id></mixed-citation></ref><ref id="prd12631-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="prd12631-cit-0050">
+<string-name name-style="western">
+<surname>Imamura</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>The role of gingipains in the pathogenesis of periodontal disease</article-title>. <source>J Periodontol</source>. <year>2003</year>;<volume>74</volume>(<issue>1</issue>):<fpage>111</fpage>‐<lpage>118</lpage>.<pub-id pub-id-type="pmid">12593605</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1902/jop.2003.74.1.111</pub-id></mixed-citation></ref><ref id="prd12631-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="prd12631-cit-0051">
+<string-name name-style="western">
+<surname>Ryder</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xenoudi</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Alzheimer disease and the periodontal patient: new insights, connections, and therapies</article-title>. <source>Periodontol 2000</source>. <year>2021</year>;<volume>87</volume>(<issue>1</issue>):<fpage>32</fpage>‐<lpage>42</lpage>. doi: <pub-id pub-id-type="doi">10.1111/prd.12389</pub-id>
+<pub-id pub-id-type="pmid">34463981</pub-id>
+</mixed-citation></ref><ref id="prd12631-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="prd12631-cit-0052">
+<string-name name-style="western">
+<surname>Ilievski</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zuchowska</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Green</surname>
+<given-names>SJ</given-names>
+</string-name>, et al. <article-title>Chronic oral application of a periodontal pathogen results in brain inflammation, neurodegeneration and amyloid beta production in wild type mice</article-title>. <source>PLoS One</source>. <year>2018</year>;<volume>13</volume>(<issue>10</issue>):<elocation-id>e0204941</elocation-id>.<pub-id pub-id-type="pmid">30281647</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0204941</pub-id><pub-id pub-id-type="pmcid">PMC6169940</pub-id></mixed-citation></ref><ref id="prd12631-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="prd12631-cit-0053">
+<string-name name-style="western">
+<surname>Haditsch</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roth</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodriguez</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Alzheimer's disease‐like neurodegeneration in <italic toggle="yes">Porphyromonas gingivalis</italic> infected neurons with persistent expression of active gingipains</article-title>. <source>J Alzheimers Dis</source>. <year>2020</year>;<volume>75</volume>(<issue>4</issue>):<fpage>1361</fpage>‐<lpage>1376</lpage>.<pub-id pub-id-type="pmid">32390638</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-200393</pub-id><pub-id pub-id-type="pmcid">PMC7369049</pub-id></mixed-citation></ref><ref id="prd12631-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="prd12631-cit-0054">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakanishi</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Infection of microglia with <italic toggle="yes">Porphyromonas gingivalis</italic> promotes cell migration and an inflammatory response through the gingipain‐mediated activation of protease‐activated receptor‐2 in mice</article-title>. <source>Sci Rep</source>. <year>2017</year>;<volume>7</volume>(<issue>1</issue>):<elocation-id>11759</elocation-id>.<pub-id pub-id-type="pmid">28924232</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-017-12173-1</pub-id><pub-id pub-id-type="pmcid">PMC5603557</pub-id></mixed-citation></ref><ref id="prd12631-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="prd12631-cit-0055">
+<string-name name-style="western">
+<surname>Patel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Howard</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chowdhury</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Characterization of human genes modulated by <italic toggle="yes">Porphyromonas gingivalis</italic> highlights the ribosome, hypothalamus, and cholinergic neurons</article-title>. <source>Front Immunol</source>. <year>2021</year>;<volume>12</volume>:<elocation-id>646259</elocation-id>.<pub-id pub-id-type="pmid">34194426</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2021.646259</pub-id><pub-id pub-id-type="pmcid">PMC8236716</pub-id></mixed-citation></ref><ref id="prd12631-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="prd12631-cit-0056">
+<string-name name-style="western">
+<surname>Morais</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schreiber</surname>
+<given-names>HL</given-names>
+<suffix>4th</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Mazmanian</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>The gut microbiota‐brain axis in behaviour and brain disorders</article-title>. <source>Nat Rev Microbiol</source>. <year>2021</year>;<volume>19</volume>(<issue>4</issue>):<fpage>241</fpage>‐<lpage>255</lpage>.<pub-id pub-id-type="pmid">33093662</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41579-020-00460-0</pub-id></mixed-citation></ref><ref id="prd12631-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="prd12631-cit-0057">
+<string-name name-style="western">
+<surname>Loh</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mak</surname>
+<given-names>WQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>
+<given-names>LKS</given-names>
+</string-name>, et al. <article-title>Microbiota‐gut‐brain axis and its therapeutic applications in neurodegenerative diseases</article-title>. <source>Signal Transduct Target Ther</source>. <year>2024</year>;<volume>9</volume>(<issue>1</issue>):<fpage>37</fpage>.<pub-id pub-id-type="pmid">38360862</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41392-024-01743-1</pub-id><pub-id pub-id-type="pmcid">PMC10869798</pub-id></mixed-citation></ref><ref id="prd12631-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="prd12631-cit-0058">
+<string-name name-style="western">
+<surname>Stopińska</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Radziwoń‐Zaleska</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Domitrz</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>The microbiota‐gut‐brain axis as a key to neuropsychiatric disorders: a mini review</article-title>. <source>J Clin Med</source>. <year>2021</year>;<volume>10</volume>(<issue>20</issue>):<fpage>4640</fpage>.<pub-id pub-id-type="pmid">34682763</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm10204640</pub-id><pub-id pub-id-type="pmcid">PMC8539144</pub-id></mixed-citation></ref><ref id="prd12631-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="prd12631-cit-0059">
+<string-name name-style="western">
+<surname>Carabotti</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scirocco</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maselli</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Severi</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>The gut‐brain axis: interactions between enteric microbiota, central and enteric nervous systems</article-title>. <source>Ann Gastroenterol</source>. <year>2015</year>;<volume>28</volume>(<issue>2</issue>):<fpage>203</fpage>‐<lpage>209</lpage>.<pub-id pub-id-type="pmid">25830558</pub-id>
+<pub-id pub-id-type="pmcid">PMC4367209</pub-id></mixed-citation></ref><ref id="prd12631-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="prd12631-cit-0060">
+<string-name name-style="western">
+<surname>Stahli</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferrari</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schatzmann</surname>
+<given-names>AS</given-names>
+</string-name>, et al. <article-title>Clinical evaluation of a novel protocol for supportive periodontal care: a randomized controlled clinical trial</article-title>. <source>J Periodontol</source>. <year>2024</year>;<volume>95</volume>(<issue>11</issue>):<fpage>1025</fpage>‐<lpage>1034</lpage>.<pub-id pub-id-type="pmid">38291892</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/JPER.23-0527</pub-id><pub-id pub-id-type="pmcid">PMC11609489</pub-id></mixed-citation></ref><ref id="prd12631-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="prd12631-cit-0061">
+<string-name name-style="western">
+<surname>Hayden</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zandi</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khachaturian</surname>
+<given-names>AS</given-names>
+</string-name>, et al. <article-title>Does NSAID use modify cognitive trajectories in the elderly? The Cache County study</article-title>. <source>Neurology</source>. <year>2007</year>;<volume>69</volume>(<issue>3</issue>):<fpage>275</fpage>‐<lpage>282</lpage>.<pub-id pub-id-type="pmid">17636065</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/01.wnl.0000265223.25679.2a</pub-id></mixed-citation></ref><ref id="prd12631-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="prd12631-cit-0062">
+<string-name name-style="western">
+<surname>Rogers</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirby</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hempelman</surname>
+<given-names>SR</given-names>
+</string-name>, et al. <article-title>Clinical trial of indomethacin in Alzheimer's disease</article-title>. <source>Neurology</source>. <year>1993</year>;<volume>43</volume>(<issue>8</issue>):<fpage>1609</fpage>‐<lpage>1611</lpage>.<pub-id pub-id-type="pmid">8351023</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.43.8.1609</pub-id></mixed-citation></ref><ref id="prd12631-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="prd12631-cit-0063">
+<string-name name-style="western">
+<surname>Aisen</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schafer</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grundman</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Effects of rofecoxib or naproxen vs placebo on Alzheimer disease progression: a randomized controlled trial</article-title>. <source>JAMA</source>. <year>2003</year>;<volume>289</volume>(<issue>21</issue>):<fpage>2819</fpage>‐<lpage>2826</lpage>.<pub-id pub-id-type="pmid">12783912</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.289.21.2819</pub-id></mixed-citation></ref><ref id="prd12631-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="prd12631-cit-0064">
+<string-name name-style="western">
+<surname>Ho</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drego</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hakimian</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masliah</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Mechanisms of cell signaling and inflammation in Alzheimer's disease</article-title>. <source>Curr Drug Targets Inflamm Allergy</source>. <year>2005</year>;<volume>4</volume>(<issue>2</issue>):<fpage>247</fpage>‐<lpage>256</lpage>.<pub-id pub-id-type="pmid">15853747</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1568010053586237</pub-id></mixed-citation></ref><ref id="prd12631-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="prd12631-cit-0065">
+<string-name name-style="western">
+<surname>de Souza Rolim</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fabri</surname>
+<given-names>GMC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nitrini</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Evaluation of patients with Alzheimer's disease before and after dental treatment</article-title>. <source>Arq Neuropsiquiatr</source>. <year>2014</year>;<volume>72</volume>(<issue>12</issue>):<fpage>919</fpage>‐<lpage>924</lpage>.<pub-id pub-id-type="pmid">25517641</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1590/0004-282X20140140</pub-id></mixed-citation></ref><ref id="prd12631-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="prd12631-cit-0066">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuraji</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ye</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Nisin a probiotic bacteriocin mitigates brain microbiome dysbiosis and Alzheimer's disease‐like neuroinflammation triggered by periodontal disease</article-title>. <source>J Neuroinflammation</source>. <year>2023</year>;<volume>20</volume>(<issue>1</issue>):<fpage>228</fpage>.<pub-id pub-id-type="pmid">37803465</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12974-023-02915-6</pub-id><pub-id pub-id-type="pmcid">PMC10557354</pub-id></mixed-citation></ref><ref id="prd12631-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="prd12631-cit-0067">
+<string-name name-style="western">
+<surname>Sabbagh</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Decourt</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>COR388 (atuzaginstat): an investigational gingipain inhibitor for the treatment of Alzheimer disease</article-title>. <source>Expert Opin Investig Drugs</source>. <year>2022</year>;<volume>31</volume>(<issue>10</issue>):<fpage>987</fpage>‐<lpage>993</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/13543784.2022.2117605</pub-id><pub-id pub-id-type="pmcid">PMC10275298</pub-id><pub-id pub-id-type="pmid">36003033</pub-id></mixed-citation></ref><ref id="prd12631-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="prd12631-cit-0068">
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuraji</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>MJ</given-names>
+</string-name>, et al. <article-title>Nisin probiotic prevents inflammatory bone loss while promoting reparative proliferation and a healthy microbiome</article-title>. <source>NPJ Biofilms Microbiomes</source>. <year>2022</year>;<volume>8</volume>(<issue>1</issue>):<fpage>45</fpage>.<pub-id pub-id-type="pmid">35672331</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41522-022-00307-x</pub-id><pub-id pub-id-type="pmcid">PMC9174264</pub-id></mixed-citation></ref><ref id="prd12631-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="prd12631-cit-0069">
+<string-name name-style="western">
+<surname>Kuraji</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ye</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Nisin lantibiotic prevents NAFLD liver steatosis and mitochondrial oxidative stress following periodontal disease by abrogating oral, gut and liver dysbiosis</article-title>. <source>NPJ Biofilms Microbiomes</source>. <year>2024</year>;<volume>10</volume>(<issue>1</issue>):<fpage>3</fpage>.<pub-id pub-id-type="pmid">38233485</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41522-024-00476-x</pub-id><pub-id pub-id-type="pmcid">PMC10794237</pub-id></mixed-citation></ref><ref id="prd12631-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="prd12631-cit-0070">
+<string-name name-style="western">
+<surname>Radaic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ye</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parks</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Modulation of pathogenic oral biofilms towards health with nisin probiotic</article-title>. <source>J Oral Microbiol</source>. <year>2020</year>;<volume>12</volume>(<issue>1</issue>):<elocation-id>1809302</elocation-id>.<pub-id pub-id-type="pmid">32944159</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/20002297.2020.1809302</pub-id><pub-id pub-id-type="pmcid">PMC7482728</pub-id></mixed-citation></ref><ref id="prd12631-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="prd12631-cit-0071">
+<string-name name-style="western">
+<surname>Kindrachuk</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jenssen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elliott</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Manipulation of innate immunity by a bacterial secreted peptide: lantibiotic nisin Z is selectively immunomodulatory</article-title>. <source>Innate Immun</source>. <year>2013</year>;<volume>19</volume>(<issue>3</issue>):<fpage>315</fpage>‐<lpage>327</lpage>.<pub-id pub-id-type="pmid">23109507</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1753425912461456</pub-id></mixed-citation></ref><ref id="prd12631-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="prd12631-cit-0072">
+<string-name name-style="western">
+<surname>Malaczewska</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaczorek‐Lukowska</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Nisin—A lantibiotic with immunomodulatory properties: a review</article-title>. <source>Peptides</source>. <year>2021</year>;<volume>137</volume>:<elocation-id>170479</elocation-id>.<pub-id pub-id-type="pmid">33359393</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.peptides.2020.170479</pub-id></mixed-citation></ref><ref id="prd12631-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="prd12631-cit-0073">
+<string-name name-style="western">
+<surname>Nguyen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brody</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>GH</given-names>
+</string-name>, et al. <article-title>Probiotics, including nisin‐based probiotics, improve clinical and microbial outcomes relevant to oral and systemic diseases</article-title>. <source>Periodontol 2000</source>. <year>2020</year>;<volume>82</volume>(<issue>1</issue>):<fpage>173</fpage>‐<lpage>185</lpage>. doi: <pub-id pub-id-type="doi">10.1111/prd.12324</pub-id>
+<pub-id pub-id-type="pmid">31850634</pub-id>
+</mixed-citation></ref><ref id="prd12631-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="prd12631-cit-0074">
+<string-name name-style="western">
+<surname>Nguyen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brody</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Radaic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kapila</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Probiotics for periodontal health−current molecular findings</article-title>. <source>Periodontol 2000</source>. <year>2021</year>;<volume>87</volume>(<issue>1</issue>):<fpage>254</fpage>‐<lpage>267</lpage>. doi: <pub-id pub-id-type="doi">10.1111/prd.12382</pub-id>
+<pub-id pub-id-type="pmid">34463979</pub-id>
+<pub-id pub-id-type="pmcid">PMC8448672</pub-id></mixed-citation></ref><ref id="prd12631-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="prd12631-cit-0075">
+<string-name name-style="western">
+<surname>Song</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xian</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>
+<italic toggle="yes">Akkermansia muciniphila</italic> inhibited the periodontitis caused by <italic toggle="yes">Fusobacterium nucleatum</italic>
+</article-title>. <source>NPJ Biofilms Microbiomes</source>. <year>2023</year>;<volume>9</volume>(<issue>1</issue>):<fpage>49</fpage>.<pub-id pub-id-type="pmid">37460552</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41522-023-00417-0</pub-id><pub-id pub-id-type="pmcid">PMC10352368</pub-id></mixed-citation></ref><ref id="prd12631-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="prd12631-cit-0076">
+<article-title>Correction to “<italic toggle="yes">Akkermansia muciniphila</italic> reduces <italic toggle="yes">Porphyromonas gingivalis</italic>‐induced inflammation and periodontal bone destruction.” [Erratum for Huck O, Mulhall H, Rubin G, et al; J Clin Periodontol. 2020;47(2):202–212.]</article-title>. <source>J Clin Periodontol</source>. <year>2024</year>;<volume>51</volume>(<issue>6</issue>):<fpage>802</fpage>‐<lpage>803</lpage>.<pub-id pub-id-type="pmid">31674689</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.13214</pub-id></mixed-citation></ref><ref id="prd12631-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="prd12631-cit-0077">
+<string-name name-style="western">
+<surname>Lindo</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sebastian</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuntjoro</surname>
+<given-names>KN</given-names>
+</string-name>, et al. <article-title>Microbiota transplantation as an adjunct to standard periodontal treatment in periodontal disease: a systematic review</article-title>. <source>Medicina (Kaunas)</source>. <year>2024</year>;<volume>60</volume>(<issue>4</issue>):<fpage>672</fpage>.<pub-id pub-id-type="pmid">38674317</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/medicina60040672</pub-id><pub-id pub-id-type="pmcid">PMC11051950</pub-id></mixed-citation></ref><ref id="prd12631-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="prd12631-cit-0078">
+<string-name name-style="western">
+<surname>Mooney</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holden</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xia</surname>
+<given-names>XJ</given-names>
+</string-name>, et al. <article-title>Quercetin preserves oral cavity health by mitigating inflammation and microbial dysbiosis</article-title>. <source>Front Immunol</source>. <year>2021</year>;<volume>12</volume>:<elocation-id>774273</elocation-id>.<pub-id pub-id-type="pmid">34899728</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2021.774273</pub-id><pub-id pub-id-type="pmcid">PMC8663773</pub-id></mixed-citation></ref><ref id="prd12631-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="prd12631-cit-0079">
+<string-name name-style="western">
+<surname>Beikler</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaymaz</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chan</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Oral microbiota transplant in dogs with naturally occurring periodontitis</article-title>. <source>J Dent Res</source>. <year>2021</year>;<volume>100</volume>(<issue>7</issue>):<fpage>764</fpage>‐<lpage>770</lpage>.<pub-id pub-id-type="pmid">33733913</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0022034521995423</pub-id><pub-id pub-id-type="pmcid">PMC8217902</pub-id></mixed-citation></ref><ref id="prd12631-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="prd12631-cit-0080">
+<string-name name-style="western">
+<surname>Pozhitkov</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leroux</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Randolph</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beikler</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flemmig</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Noble</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>Towards microbiome transplant as a therapy for periodontitis: an exploratory study of periodontitis microbial signature contrasted by oral health, caries and edentulism</article-title>. <source>BMC Oral Health</source>. <year>2015</year>;<volume>15</volume>:<fpage>125</fpage>.<pub-id pub-id-type="pmid">26468081</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12903-015-0109-4</pub-id><pub-id pub-id-type="pmcid">PMC4607249</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

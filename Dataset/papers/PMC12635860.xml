@@ -1,0 +1,737 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz70927" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12635860</article-id><article-id pub-id-type="pmcid-ver">PMC12635860.1</article-id><article-id pub-id-type="pmcaid">12635860</article-id><article-id pub-id-type="pmcaiid">12635860</article-id><article-id pub-id-type="pmid">41268805</article-id><article-id pub-id-type="doi">10.1002/alz.70927</article-id><article-id pub-id-type="publisher-id">ALZ70927</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Apolipoprotein E and Alzheimer's disease pathology in a diverse autopsy study</article-title><alt-title alt-title-type="left-running-head">SUEMOTO <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz70927-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Suemoto</surname><given-names initials="CK">Claudia K.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5942-4778</contrib-id><xref rid="alz70927-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>cksuemoto@usp.br</email></address></contrib><contrib id="alz70927-cr-0002" contrib-type="author"><name name-style="western"><surname>Paradela</surname><given-names initials="R">Regina</given-names></name><xref rid="alz70927-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70927-cr-0003" contrib-type="author"><name name-style="western"><surname>Leite</surname><given-names initials="REP">Renata E. P.</given-names></name><xref rid="alz70927-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70927-cr-0004" contrib-type="author"><name name-style="western"><surname>Paes</surname><given-names initials="VR">Vitor R.</given-names></name><xref rid="alz70927-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70927-cr-0005" contrib-type="author"><name name-style="western"><surname>Pasqualucci</surname><given-names initials="CA">Carlos A.</given-names></name><xref rid="alz70927-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70927-cr-0006" contrib-type="author"><name name-style="western"><surname>Ferriolli</surname><given-names initials="E">Eduardo</given-names></name><xref rid="alz70927-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70927-cr-0007" contrib-type="author"><name name-style="western"><surname>Zatz</surname><given-names initials="M">Mayana</given-names></name><xref rid="alz70927-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70927-cr-0008" contrib-type="author"><name name-style="western"><surname>do Nascimento Santos</surname><given-names initials="G">Gabriel</given-names></name><xref rid="alz70927-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70927-cr-0009" contrib-type="author"><name name-style="western"><surname>de Alexandria</surname><given-names initials="MALS">Marvin Afonso Longo Salvador</given-names></name><xref rid="alz70927-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70927-cr-0010" contrib-type="author"><name name-style="western"><surname>Pereira</surname><given-names initials="AC">Ana C.</given-names></name><xref rid="alz70927-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="alz70927-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz70927-cr-0011" contrib-type="author"><name name-style="western"><surname>Fortea</surname><given-names initials="J">Juan</given-names></name><xref rid="alz70927-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="alz70927-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="alz70927-cr-0012" contrib-type="author"><name name-style="western"><surname>Naslavsky</surname><given-names initials="M">Michel</given-names></name><xref rid="alz70927-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70927-cr-0013" contrib-type="author"><name name-style="western"><surname>Grinberg</surname><given-names initials="LT">Lea T.</given-names></name><xref rid="alz70927-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70927-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib></contrib-group><aff id="alz70927-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Division of Geriatrics</named-content>
+<named-content content-type="organisation-division">Faculdade de Medicina</named-content>
+<institution>Universidade de Sao Paulo</institution>
+<city>Sao Paulo</city>
+<country country="BR">Brazil</country>
+</aff><aff id="alz70927-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<named-content content-type="organisation-division">Faculdade de Medicina</named-content>
+<institution>Universidade de Sao Paulo</institution>
+<city>Sao Paulo</city>
+<country country="BR">Brazil</country>
+</aff><aff id="alz70927-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Biosciences</named-content>
+<institution>Universidade de Sao Paulo</institution>
+<city>Sao Paulo</city>
+<country country="BR">Brazil</country>
+</aff><aff id="alz70927-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Icahn School of Medicine at Mount Sinai</institution>
+<city>New York</city>
+<named-content content-type="country-part">New York</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70927-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Nash Family Department of Neuroscience</named-content>
+<named-content content-type="organisation-division">Friedman Brain Institute</named-content>
+<institution>Icahn School of Medicine at Mount Sinai</institution>
+<city>New York</city>
+<named-content content-type="country-part">New York</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70927-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Sant Pau Memory Unit</named-content>
+<named-content content-type="organisation-division">Neurology Department</named-content>
+<named-content content-type="organisation-division">Institut d'Investigacions Biomèdiques Sant Pau</named-content>
+<named-content content-type="organisation-division">Hospital de la Santa Creu i Sant Pau</named-content>
+<institution>Universitat Autònoma de Barcelona</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz70927-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Departments of Laboratory Medicine and Pathology and Neurosciences</named-content>
+<institution>Mayo Clinics</institution>
+<city>Jacksonville</city>
+<named-content content-type="country-part">Florida</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Claudia Kimie Suemoto, Faculdade de Medicina, Universidade de São Paulo, Avenida Doutor Arnaldo, 455, room 1353, São Paulo 01246903, SP, Brazil.<break/> Email: <email>cksuemoto@usp.br</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>11</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2025</year></pub-date><volume>21</volume><issue seq="690">11</issue><issue-id pub-id-type="pmc-issue-id">499789</issue-id><issue-id pub-id-type="doi">10.1002/alz.v21.11</issue-id><elocation-id>e70927</elocation-id><history><date date-type="rev-recd"><day>20</day><month>10</month><year>2025</year></date><date date-type="received"><day>28</day><month>8</month><year>2025</year></date><date date-type="accepted"><day>25</day><month>10</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>21</day><month>11</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>22</day><month>11</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-11-22 06:25:12.923"><day>22</day><month>11</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-21-e70927.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-21-e70927.pdf"/><abstract><title>Abstract</title><sec id="alz70927-sec-0010"><title>INTRODUCTION</title><p>Apolipoprotein E allele 4 (APOE ε4) is the main genetic risk factor for late‐onset Alzheimer's disease (AD), but most evidence comes from White populations in high‐income countries. We investigated APOE and AD pathology in an ethnically diverse Brazilian autopsy cohort.</p></sec><sec id="alz70927-sec-0020"><title>METHODS</title><p>This cross‐sectional study used Biobank for Aging Studies (BAS) data. AD pathology was evaluated with Braak, Consortium to Establish a Registry for Alzheimer's Disease, and Thal criteria. APOE genotypes were obtained from blood or brain tissue. Regression models were adjusted for age, sex, race, and education; interaction with race was tested.</p></sec><sec id="alz70927-sec-0030"><title>RESULTS</title><p>Among 1391 participants (mean age 75.1 ± 12.4 years, 50% women, 64% White), APOE ε4showed a dose response with greater AD pathological burden and higher odds of AD diagnosis, while APOE ε2/X was protective. APOE ε4/ε4 did not show full penetrance across age groups. Associations were similar in White and Black individuals.</p></sec><sec id="alz70927-sec-0040"><title>DISCUSSION</title><p>APOE ε4was strongly associated with AD pathology, with consistent associations across racial groups.</p></sec><sec id="alz70927-sec-0050"><title>Highlights</title><p>
+<list list-type="bullet" id="alz70927-list-0001"><list-item><p>APOE ε4 increased AD neuropathological burden in Brazilians.</p></list-item><list-item><p>APOE ε2/εX was protective against AD pathology.</p></list-item><list-item><p>APOE ε4/ε4did not show full penetrance across age groups.</p></list-item><list-item><p>Associations between APOE and AD pathology were similar by race.</p></list-item><list-item><p>Large multiethnic autopsy study expands evidence beyond high‐income country studies.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz70927-kwd-0001">Alzheimer's disease</kwd><kwd id="alz70927-kwd-0002">apolipoprotein</kwd><kwd id="alz70927-kwd-0003">genetics</kwd><kwd id="alz70927-kwd-0004">race</kwd><kwd id="alz70927-kwd-0005">risk factors</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>the Sao Paulo Research Foundation/FAPESP</institution></institution-wrap>
+</funding-source><award-id>2020/14339‐3</award-id><award-id>2024/03917‐7</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>the Instituto de Salud Carlos III (Ministerio de Asuntos Económicos y Transformación Digital, Gobierno de España</institution></institution-wrap>
+</funding-source><award-id>INT21/00073 PI20/01473</award-id><award-id>PI23/01786</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>the Centro de Investigación Biomédica en Red sobre Enfermedades Neurodegenerativas CIBERNED Program 1</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>by Fondo Europeo de Desarrollo Regional, Unión Europea, Una Manera de Hacer Europa</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0005"><funding-source>
+<institution-wrap><institution>the National Institutes of Health</institution></institution-wrap>
+</funding-source><award-id>R01 AG056850</award-id><award-id>R21 AG056974</award-id><award-id>R01 AG061566</award-id><award-id>R01 AG081394</award-id><award-id>R61AG066543</award-id><award-id>1RF1AG080769‐01</award-id></award-group><award-group id="funding-0006"><funding-source>
+<institution-wrap><institution>the Departament de Salut de la Generalitat de Catalunya, Fundación Tatiana Pérez de Guzmán el Bueno</institution></institution-wrap>
+</funding-source><award-id>IIBSP‐DOW‐2020‐151</award-id></award-group><award-group id="funding-0007"><funding-source>
+<institution-wrap><institution>the Horizon 2020–Research and Innovation Framework Programme from the European Union</institution></institution-wrap>
+</funding-source><award-id>H2020‐SC1‐BHC‐2018‐2020</award-id></award-group><award-group id="funding-0008"><funding-source>
+<institution-wrap><institution>BrightFocus</institution><institution-id institution-id-type="doi">10.13039/100006312</institution-id></institution-wrap>
+</funding-source></award-group><award-group id="funding-0009"><funding-source>
+<institution-wrap><institution>and Life Molecular Imaging</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0010"><funding-source>
+<institution-wrap><institution>the Alzheimer's Association</institution></institution-wrap>
+</funding-source><award-id>24CBIDR‐1185483</award-id><award-id>AARG‐20‐678884</award-id><award-id>AARGD‐22‐972378</award-id><award-id>24CBIDR‐1185483</award-id><award-id>AARG‐20‐678884</award-id><award-id>AARGD‐22‐972378</award-id></award-group><award-group id="funding-0011"><funding-source>
+<institution-wrap><institution>the Sanford J. Grossman Charitable Trust</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0012"><funding-source>
+<institution-wrap><institution>the Brian and Tania Higgins Charitable Foundation</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0013"><funding-source>
+<institution-wrap><institution>Carolyn and Eugene Mercy Research Gift</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0014"><funding-source>
+<institution-wrap><institution>the Karen Strauss Cook Research Scholar Award</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0015"><funding-source>
+<institution-wrap><institution>Alzheimer's New Jersey</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0016"><funding-source>
+<institution-wrap><institution>the Robert J. and Claire Pasarow Foundation</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0017"><funding-source>
+<institution-wrap><institution>the Marvin and Judith Herb Family</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="11"/><word-count count="6552"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.6 mode:remove_FC converted:21.11.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz70927-cite-0001">
+<string-name name-style="western">
+<surname>Suemoto</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paradela</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leite</surname>
+<given-names>REP</given-names>
+</string-name>, et al. <article-title>Apolipoprotein E and Alzheimer's disease pathology in a diverse autopsy study</article-title>. <source>Alzheimer's Dement</source>. <year>2025</year>;<volume>21</volume>:<elocation-id>e70927</elocation-id>. <pub-id pub-id-type="doi">10.1002/alz.70927</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="alz70927-sec-0060"><label>1</label><title>BACKGROUND</title><p>Dementia is a major global health challenge, affecting approximately 57 million people worldwide in 2019, with projections indicating an increase to 153 million by 2050.<xref rid="alz70927-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> This rising prevalence poses significant societal and economic burdens, with estimated global costs reaching US$ 1.3 trillion in 2019.<xref rid="alz70927-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> In addition to financial costs, dementia places a heavy strain on caregivers, who often experience emotional, physical, and economic hardships.<xref rid="alz70927-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Among the various causes of dementia, Alzheimer's disease (AD) is the most common, accounting for 50% to 80% of cases, alone or together with other neuropathologies.<xref rid="alz70927-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="alz70927-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Although AD is influenced by multiple genetic and environmental factors, genetic predisposition plays a crucial role, with the apolipoprotein E epsilon 4 (APOE ε4) allele being the strongest known genetic risk factor for late‐onset AD.<xref rid="alz70927-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz70927-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</p><p>The association between APOE ε4 and AD has been widely studied, with recent findings suggesting variability in the penetrance to AD pathology across different populations. A study by Fortea et al. using data from the National Alzheimer's Coordinating Center (NACC) reported near‐full penetrance of APOE ε4 in homozygous individuals, meaning that almost all individuals carrying two copies of the allele would develop AD pathology if they reached a certain age.<xref rid="alz70927-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> However, other studies have found varying degrees of penetrance, suggesting that additional genetic and environmental factors influence disease development. Indeed, while APOE ε4 represents the strongest known genetic risk factor for AD, a recent review emphasized that genetics alone does not fully explain disease variance, with estimates suggesting that approximately 60% of AD risk remains unexplained by genetics.<xref rid="alz70927-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Moreover, reports underscore the crucial role of modifiable risk factors, such as cardiovascular health, education, and lifestyle, in shaping dementia risk, particularly in low‐ and middle‐income countries.<xref rid="alz70927-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="alz70927-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Taken together, these findings point to a complex interplay between genetic and environmental factors in determining AD risk.</p><p>Notably, the association between APOE ε4 and the clinical diagnosis of AD‐type dementia appears to differ by race, with some studies reporting a stronger association in White individuals compared to Black individuals.<xref rid="alz70927-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz70927-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> These disparities suggest the need for more diverse studies to investigate the penetrance of APOE ε4 homozygosity in causing AD pathology using clinicopathological cohorts. While autopsy studies remain the gold standard for confirming AD diagnosis and distinguishing it from other causes of dementia, most previous autopsy studies were heavily enriched for White individuals from the United States (US), limiting the generalizability of their findings to other populations.<xref rid="alz70927-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz70927-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz70927-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> To better understand APOE penetrance, we aimed to determine the association between APOE genotypes and AD pathology in a large, ethnically diverse autopsy study in Brazil.</p></sec><sec id="alz70927-sec-0070"><label>2</label><title>METHODS</title><sec id="alz70927-sec-0080"><label>2.1</label><title>Participants</title><p>In this cross‐sectional study, we used data from the Biobank for Aging Studies (BAS) from the University of Sao Paulo Medical School collected between 2004 and 2024.<xref rid="alz70927-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> The BAS gathered clinical data and biological material in the Sao Paulo Autopsy Service, where full‐body autopsies were performed to determine the cause of death in people who died in the city of Sao Paulo (Brazil) from natural deaths with unclear etiology. BAS inclusion criteria were age 18 years or older, the presence of an informant who had at least weekly contact with the deceased 6 months before death and could provide reliable clinical information, and signed informed consent. The exclusion criteria were cerebrospinal fluid pH &lt; 6.5 or major brain lesions (e.g., hemorrhages, large infarcts, tumors) that required brain retention by the pathologist to determine the death cause. For this study, we excluded cases with incomplete data for any variable of interest (Figure <xref rid="alz70927-supinfo-0001" ref-type="">S1</xref>).</p></sec><sec id="alz70927-sec-0090"><label>2.2</label><title>Clinical evaluation</title><p>Age and sex information were collected from government‐issued documents. Other sociodemographic and clinical data were collected with an informant by trained gerontologists in a private room using a structured interview.<xref rid="alz70927-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Race was reported by the informant following the Brazilian Census categories based on skin color: Black, Brown (mix of Black and White race), White, and Yellow (i.e., Asian). We combined the Black and Brown groups into one category referred to as Black due to similar socioeconomic and racism burdens.<xref rid="alz70927-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+</p><p>Cognitive abilities were evaluated using the Clinical Dementia Rating (CDR).<xref rid="alz70927-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> By study design, only the informant part was applied. Participants were classified as having normal cognition (CDR = 0), questionable dementia (CDR = 0.5), or dementia (mild: CDR = 1, moderate: CDR = 2, or severe: CDR = 3).</p></sec><sec id="alz70927-sec-0100"><label>2.3</label><title>Neuropathological evaluation</title><p>Brains were collected within 24 h after death. One hemisphere was fixed in 4% buffered paraformaldehyde for 14 days, and the other was frozen at −80°C for future studies. We sampled the following areas from the fixed hemisphere: middle frontal gyrus, middle and superior temporal gyri, angular gyrus, superior frontal and anterior cingulate gyrus, visual cortex, hippocampal formation at the level of the lateral geniculate body, amygdala, basal ganglia at the level of the anterior commissure, thalamus, midbrain, pons, medulla oblongata, and cerebellum. These areas were blocked in paraffin and cut into 5‐µm‐thick sections. AD pathology was identified using immunohistochemistry with antibodies against Aβ (4G8, 1:10.000; BioLegend Catalogue No. 800701) for the Consortium to Establish a Registry for Alzheimer's Disease (CERAD) and Thal classifications<xref rid="alz70927-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70927-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> and phosphorylated tau (AT8, 1:400; Invitrogen MN1020) for neurofibrillary tangles using the Braak and Braak staging system.<xref rid="alz70927-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz70927-sec-0110"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz70927-list-0002"><list-item><p>
+<bold>Systematic review</bold>: We searched PubMed for autopsy studies published up to 2024 that examined the association between APOE genotypes and AD neuropathology. Most studies were conducted in White populations from high‐income countries, with limited data from diverse or low‐ and middle‐income settings.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: In a large multiethnic autopsy cohort from Brazil, APOE ε4 was associated with greater AD pathological burden and increased odds of AD neuropathological diagnosis, while APOE ε2/εX was protective. Contrary to prior assumptions, APOE ε4/ε4 did not show full penetrance across age groups, and associations were consistent across racial groups. These findings extend previous work by demonstrating the robustness of APOE effects beyond high‐income, predominantly White populations.</p></list-item><list-item><p>
+<bold>Future directions</bold>: Future research should investigate gene–environment interactions, assess longitudinal clinical–pathological correlations in diverse populations, and explore biological mechanisms underlying incomplete penetrance of APOE ε4/ε4.</p></list-item></list>
+</p></sec></boxed-text><p>The CERAD staging determines the frequency of neuritic plaques using a semiquantitative approach into four stages: none (0), sparse (A), moderate (B), and frequent (C).<xref rid="alz70927-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> The Thal classification has five phases.<xref rid="alz70927-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Aβ deposits are found only in the neocortex in the first phase. Phase 2 is characterized by the involvement of the allocortical brain regions. In phase 3, diencephalic nuclei, the striatum, and the cholinergic nuclei of the basal forebrain have Aβ deposits. Other brainstem nuclei become involved in phase 4, while phase 5 is characterized by cerebellar deposition.</p><p>The Braak staging is a system to measure the progression of neurofibrillary tangles (NFTs) into six stages. Stages I and II are characterized by NFT deposition in the transentorhinal and entorhinal cortex. As the pathology progresses, the lesions extend to limbic regions (stages III and IV). Extensive neocortical NFT involvement is present at stages V and VI. AD diagnosis was ascertained in cases with intermediate or high AD neuropathological changes (e.g., CERAD was B or C and the Braak stage was III or more). For the analysis, Braak and Braak staging, CERAD scores, and Thal phases were grouped into none, low, intermediate, and high, also following NIA‐Alzheimer's Association Criteria.<xref rid="alz70927-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+</p></sec><sec id="alz70927-sec-0120"><label>2.4</label><title>APOE genotyping</title><p>DNA samples were obtained from blood or brain tissue from cerebellum samples collected within 24 h after death and genotyped using Illumina OmniExpress 700k microarray or Illumina BeadXpress custom genotyping panel.<xref rid="alz70927-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> APOE alleles were genotyped directly using allele‐specific amplification.<xref rid="alz70927-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> For a small proportion of cases (<italic toggle="yes">n</italic> = 116), APOE alleles were determined after imputation of rs429358 to compose haplotypes.<xref rid="alz70927-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Individuals were classified into four groups: APOE ε2/εX (which includes APOE ε2/ε2 and APOE ε2/ε3), APOE ε3/ε3, APOE ε3/ε4, and APOE ε4/ε4. Individuals with APOE ε2/ε4 were excluded because of the opposite associations of APOE ε2 and APOE ε4 on AD risk and the small sample size of this group.<xref rid="alz70927-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p></sec><sec id="alz70927-sec-0130"><label>2.5</label><title>Statistical analysis</title><p>We used descriptive statistics to compare the demographic and clinical characteristics of the sample across the APOE genotyping groups. We employed the chi‐squared or Fisher tests for categorical variables and ANOVA or Kruskal–Wallis tests for continuous variables. To investigate the association between age and neuropathological markers by APOE genotypes, we plotted the distribution of Braak, CERAD, and Thal staging and AD neuropathological diagnosis across different age groups (50s, 60s, 70s, 80s, and 90s), races (White vs Black), and informant‐based cognitive function levels based on the CDR score (normal cognition: CDR = 0, questionable dementia: CDR = 0.5, and dementia: CDR ≥ 1). These distributions were examined within each APOE genotype group (APOE ε4/ε4, APOE ε3/ε4, APOE ε3/ε3, and APOE ε2/εX). This approach enabled us to visually identify patterns of penetrance and potential differences in neuropathological burden associated with APOE genotypes according to sociodemographic and informant‐based cognitive status. We also plotted the frequency of AD and non‐AD/normal neuropathological diagnoses according to APOE genotypes and stratified by informant‐based cognitive status (CDR = 0, 0.5, and ≥ 1) and race (White vs Black). The mean age of death with 95% confidence intervals was calculated by APOE genotypes and compared using one‐way ANOVA for the overall sample and in participants with AD pathology stratified by informant‐based cognitive status and race.</p><p>To assess the association of APOE genotypes with AD pathology (defined as Braak staging ≥ 3 and a CERAD score ≥ 2) and neuropathological markers, we applied ordinal or binary logistic regression models adjusted for age, sex, race, and education. These analyses were conducted on the whole sample, as well as only on participants with dementia and stratified by race. Additionally, we examined whether the association between APOE genotypes and AD pathology was modified by race by including interaction terms between APOE and race in the regression models. Statistical analyses were performed using R version 4.4.1, with an alpha level set at 0.05.</p></sec></sec><sec id="alz70927-sec-0140"><label>3</label><title>RESULTS</title><sec id="alz70927-sec-0150"><label>3.1</label><title>Sample characteristics</title><p>We included 1391 participants with a mean age of 75.1 (12.4) years old, 50% were women, 64% were White, and the mean education was 5.1 (4.2) years (Table <xref rid="alz70927-tbl-0001" ref-type="table">1</xref>). Twenty‐nine percent of the sample had at least one APOE ε4 allele, but the frequency of APOE ε4/ε4 was only 3%. Participants with the APOE ε4/ε4 genotype had lower educational levels than other groups. Additionally, the distribution of APOE groups differed by race, with Black participants showing a relatively higher frequency of APOE ε2/εX and APOE ε3/ε4 compared to White participants. As expected, APOE ε4/ε4 was associated with advanced Braak, Thal, and CERAD stages, as well as with dementia (CDR ≥ 1) (Table <xref rid="alz70927-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="alz70927-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Demographic and clinical characteristics of the sample by APOE genotypes (<italic toggle="yes">n</italic> = 1391).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="." span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Variables</th><th align="left" rowspan="1" colspan="1">Overall (<italic toggle="yes">n</italic> = 1391)</th><th align="left" rowspan="1" colspan="1">APOE ε2/X (<italic toggle="yes">n</italic> = 135)</th><th align="left" rowspan="1" colspan="1">APOE ε3/ ε3 (<italic toggle="yes">n</italic> = 852)</th><th align="left" rowspan="1" colspan="1">APOE ε3/ ε4 (<italic toggle="yes">n</italic> = 361)</th><th align="left" rowspan="1" colspan="1">APOE ε4/ ε4 (<italic toggle="yes">n</italic> = 43)</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age at death, mean (SD) years<xref rid="alz70927-tbl1-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">75.1 (12.4)</td><td align="char" rowspan="1" colspan="1">74.1 (12.6)</td><td align="char" rowspan="1" colspan="1">75.1 (12.8)</td><td align="char" rowspan="1" colspan="1">75.2 (11.4)</td><td align="char" rowspan="1" colspan="1">77.3 (12.6)</td><td align="char" rowspan="1" colspan="1">0.53</td></tr><tr><td align="left" rowspan="1" colspan="1">Education, mean (SD) years<xref rid="alz70927-tbl1-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">5.1 (4.2)</td><td align="char" rowspan="1" colspan="1">5.2 (4.1)</td><td align="char" rowspan="1" colspan="1">5.3 (4.2)</td><td align="char" rowspan="1" colspan="1">4.9 (4.2)</td><td align="char" rowspan="1" colspan="1">3.7 (3.7)</td><td align="char" rowspan="1" colspan="1">0.05</td></tr><tr><td align="left" rowspan="1" colspan="1">Female, <italic toggle="yes">n</italic> (%)<xref rid="alz70927-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">692 (49.8)</td><td align="char" rowspan="1" colspan="1">63 (46.7%)</td><td align="char" rowspan="1" colspan="1">427 (50.1%)</td><td align="char" rowspan="1" colspan="1">178 (49.3%)</td><td align="char" rowspan="1" colspan="1">24 (55.8%)</td><td align="char" rowspan="1" colspan="1">0.75</td></tr><tr><td align="left" rowspan="1" colspan="1">Race, <italic toggle="yes">n</italic> (%)<xref rid="alz70927-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">White</td><td align="char" rowspan="1" colspan="1">888 (63.8)</td><td align="char" rowspan="1" colspan="1">73 (54.0)</td><td align="char" rowspan="1" colspan="1">581 (68.2)</td><td align="char" rowspan="1" colspan="1">206 (57.1)</td><td align="char" rowspan="1" colspan="1">28 (65.1)</td><td align="char" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Black</td><td align="char" rowspan="1" colspan="1">465 (33.4)</td><td align="char" rowspan="1" colspan="1">58 (43.0)</td><td align="char" rowspan="1" colspan="1">244 (28.6)</td><td align="char" rowspan="1" colspan="1">149 (41.3)</td><td align="char" rowspan="1" colspan="1">14 (32.6)</td><td align="char" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Other</td><td align="char" rowspan="1" colspan="1">38 (2.8)</td><td align="char" rowspan="1" colspan="1">4 (3.0)</td><td align="char" rowspan="1" colspan="1">27 (3.2)</td><td align="char" rowspan="1" colspan="1">6 (1.6)</td><td align="char" rowspan="1" colspan="1">1 (2.3)</td><td align="char" rowspan="1" colspan="1">–</td></tr><tr><td align="left" rowspan="1" colspan="1">Braak stages, <italic toggle="yes">n</italic> (%)<xref rid="alz70927-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">0</td><td align="char" rowspan="1" colspan="1">218 (15.7)</td><td align="char" rowspan="1" colspan="1">28 (20.7)</td><td align="char" rowspan="1" colspan="1">140 (16.4)</td><td align="char" rowspan="1" colspan="1">49 (13.6)</td><td align="char" rowspan="1" colspan="1">1 (2.2)</td><td align="char" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">I–II</td><td align="char" rowspan="1" colspan="1">474 (34.0)</td><td align="char" rowspan="1" colspan="1">55 (40.7)</td><td align="char" rowspan="1" colspan="1">301 (35.3)</td><td align="char" rowspan="1" colspan="1">104 (28.8)</td><td align="char" rowspan="1" colspan="1">14 (32.6)</td><td align="char" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">III–IV</td><td align="char" rowspan="1" colspan="1">485 (34.9)</td><td align="char" rowspan="1" colspan="1">43 (31.9)</td><td align="char" rowspan="1" colspan="1">306 (36.0)</td><td align="char" rowspan="1" colspan="1">126 (34.9)</td><td align="char" rowspan="1" colspan="1">10 (23.3)</td><td align="char" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">V–VI</td><td align="char" rowspan="1" colspan="1">214 (15.4)</td><td align="char" rowspan="1" colspan="1">9 (6.7)</td><td align="char" rowspan="1" colspan="1">105 (12.3)</td><td align="char" rowspan="1" colspan="1">82 (22.7)</td><td align="char" rowspan="1" colspan="1">18 (41.9)</td><td align="char" rowspan="1" colspan="1">–</td></tr><tr><td align="left" rowspan="1" colspan="1">CERAD score, <italic toggle="yes">n</italic> (%)<xref rid="alz70927-tbl1-note-0004" ref-type="table-fn">
+<sup>b)</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">None</td><td align="char" rowspan="1" colspan="1">798 (57.4)</td><td align="char" rowspan="1" colspan="1">106 (78.5)</td><td align="char" rowspan="1" colspan="1">545 (64.0)</td><td align="char" rowspan="1" colspan="1">138 (38.2)</td><td align="char" rowspan="1" colspan="1">9 (20.9)</td><td align="char" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Sparse</td><td align="char" rowspan="1" colspan="1">210 (15.1)</td><td align="char" rowspan="1" colspan="1">16 (11.9)</td><td align="char" rowspan="1" colspan="1">113 (13.3)</td><td align="char" rowspan="1" colspan="1">74 (20.6)</td><td align="char" rowspan="1" colspan="1">7 (16.3)</td><td align="char" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Moderate</td><td align="char" rowspan="1" colspan="1">205 (14.7)</td><td align="char" rowspan="1" colspan="1">8 (5.9)</td><td align="char" rowspan="1" colspan="1">113 (13.3)</td><td align="char" rowspan="1" colspan="1">72 (19.9)</td><td align="char" rowspan="1" colspan="1">12 (27.9)</td><td align="char" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Frequent</td><td align="char" rowspan="1" colspan="1">178 (12.8)</td><td align="char" rowspan="1" colspan="1">5 (3.7)</td><td align="char" rowspan="1" colspan="1">81 (9.4)</td><td align="char" rowspan="1" colspan="1">77 (21.3)</td><td align="char" rowspan="1" colspan="1">15 (34.9)</td><td align="char" rowspan="1" colspan="1">–</td></tr><tr><td align="left" rowspan="1" colspan="1">Thal stages, <italic toggle="yes">n</italic> (%)<xref rid="alz70927-tbl1-note-0004" ref-type="table-fn">
+<sup>b)</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">0</td><td align="char" rowspan="1" colspan="1">520 (42.0)</td><td align="char" rowspan="1" colspan="1">81 (66.9)</td><td align="char" rowspan="1" colspan="1">360 (47.5)</td><td align="char" rowspan="1" colspan="1">75 (23.4)</td><td align="char" rowspan="1" colspan="1">4 (9.8)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">1</td><td align="char" rowspan="1" colspan="1">205 (16.6)</td><td align="char" rowspan="1" colspan="1">19 (15.7)</td><td align="char" rowspan="1" colspan="1">129 (17.0)</td><td align="char" rowspan="1" colspan="1">52 (16.3)</td><td align="char" rowspan="1" colspan="1">5 (12.2)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">2</td><td align="char" rowspan="1" colspan="1">114 (9.2)</td><td align="char" rowspan="1" colspan="1">9 (7.4)</td><td align="char" rowspan="1" colspan="1">64 (8.4)</td><td align="char" rowspan="1" colspan="1">37 (11.6)</td><td align="char" rowspan="1" colspan="1">4 (9.8)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">3</td><td align="char" rowspan="1" colspan="1">157 (12.7)</td><td align="char" rowspan="1" colspan="1">6 (5.0)</td><td align="char" rowspan="1" colspan="1">81 (10.7)</td><td align="char" rowspan="1" colspan="1">65 (20.3)</td><td align="char" rowspan="1" colspan="1">5 (12.2)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">4</td><td align="char" rowspan="1" colspan="1">201 (16.3)</td><td align="char" rowspan="1" colspan="1">5 (4.1)</td><td align="char" rowspan="1" colspan="1">101 (13.3)</td><td align="char" rowspan="1" colspan="1">78 (24.4)</td><td align="char" rowspan="1" colspan="1">17 (41.5)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">5</td><td align="char" rowspan="1" colspan="1">43 (3.5)</td><td align="char" rowspan="1" colspan="1">1 (0.8)</td><td align="char" rowspan="1" colspan="1">23 (3.0)</td><td align="char" rowspan="1" colspan="1">13 (4.1)</td><td align="char" rowspan="1" colspan="1">6 (14.6)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">AD neuropathological diagnosis, <italic toggle="yes">n</italic> (%)<xref rid="alz70927-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">345 (24.8)</td><td align="char" rowspan="1" colspan="1">12 (8.9)</td><td align="char" rowspan="1" colspan="1">176 (20.7)</td><td align="char" rowspan="1" colspan="1">133 (36.8)</td><td align="char" rowspan="1" colspan="1">24 (55.8)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">CDR score, <italic toggle="yes">n</italic> (%)<xref rid="alz70927-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">CDR = 0</td><td align="char" rowspan="1" colspan="1">936 (67.3)</td><td align="char" rowspan="1" colspan="1">96 (71.1)</td><td align="char" rowspan="1" colspan="1">599 (70.3)</td><td align="char" rowspan="1" colspan="1">223 (61.8)</td><td align="char" rowspan="1" colspan="1">18 (41.9)</td><td align="char" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">CDR = 0.5</td><td align="char" rowspan="1" colspan="1">121 (8.7</td><td align="char" rowspan="1" colspan="1">6 (4.4)</td><td align="char" rowspan="1" colspan="1">84 (9.9)</td><td align="char" rowspan="1" colspan="1">27 (7.5)</td><td align="char" rowspan="1" colspan="1">4 (9.3</td><td align="char" rowspan="1" colspan="1">–</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">CDR ≥ 1</td><td align="char" rowspan="1" colspan="1">334 (24.0)</td><td align="char" rowspan="1" colspan="1">33 (24.4)</td><td align="char" rowspan="1" colspan="1">169 (19.8)</td><td align="char" rowspan="1" colspan="1">111 (30.7)</td><td align="char" rowspan="1" colspan="1">21 (48.8)</td><td align="char" rowspan="1" colspan="1">–</td></tr></tbody></table><table-wrap-foot><fn id="alz70927-tbl1-note-0001"><p>
+<italic toggle="yes">Note</italic>: APOE ε2/εX represents APOE ε2/ε2 (<italic toggle="yes">n</italic> = 8) and APOE ε2/ε3 (<italic toggle="yes">n</italic> = 127); APOE ε2/ε4 was excluded from the analyses.</p></fn><fn id="alz70927-tbl1-note-0002"><p>Abbreviations: AD, Alzheimer's disease; APOE, apolipoprotein E gene. CDR, Clinical Dementia Rating; CERAD, Consortium to Establish a Registry for Alzheimer's disease; SD, standard deviation.</p></fn><fn id="alz70927-tbl1-note-0003"><label>
+<sup>a</sup>
+</label><p>One‐way ANOVA.</p></fn><fn id="alz70927-tbl1-note-0004"><label>
+<sup>b</sup>
+</label><p>Chi‐squared test.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz70927-sec-0160"><label>3.2</label><title>Distribution of AD pathology and mean age of death by APOE genotypes</title><p>When we inspected the distribution of Braak staging across age groups, most APOE ε4 homozygotes showed higher or intermediate Braak stages compared to other APOE genotypes. By age 80, almost all APOE ε4 homozygotes showed higher or intermediate Braak stages (Figure <xref rid="alz70927-fig-0001" ref-type="fig">1A</xref>). The distribution of CERAD varied across age groups, with over 50% to 75% of APOE ε4 homozygotes having intermediate/high scores and around 75% in age groups older than 80 years old (Figure <xref rid="alz70927-fig-0001" ref-type="fig">1B</xref>). Regarding the Thal stages, intermediate and high scores were present in 50% to 75% of participants depending on the age groups (Figure <xref rid="alz70927-fig-0001" ref-type="fig">1B,C</xref>). However, the penetrance for APOE ε4/ε4 was not 100% for intermediate and high AD pathology in most age groups, despite most participants being older than 75 years and homozygotes for APOE ε4 having higher or intermediate Braak scores (Figure <xref rid="alz70927-fig-0002" ref-type="fig">2</xref>). The pattern remained consistent regardless of race. Similar patterns were noted for CERAD and Thal scores, with nearly all Black participants older than 60 years with APOE ε4/ε4 genotype showing higher CERAD/Thal scores compared to other genotypes (Figures <xref rid="alz70927-fig-0003" ref-type="fig">3</xref> and <xref rid="alz70927-supinfo-0001" ref-type="">S2</xref>). These patterns were also observed when the sample was stratified by CDR status, especially in those with cognitive impairment (CDR &gt; 0) (Figures <xref rid="alz70927-supinfo-0001" ref-type="">S3</xref>–<xref rid="alz70927-supinfo-0001" ref-type="">S5</xref>). In plots exploring neuropathological diagnoses by APOE genotype and CDR status, we observed an APOE gene dose response for higher frequencies of AD pathology across groups with normal cognition to dementia (Figure <xref rid="alz70927-supinfo-0001" ref-type="">S6</xref>). In participants with APOE ε4 homozygosis, the overall frequencies of AD pathological diagnosis were 86% among participants with dementia, 67% in those with questionable dementia, and 38% among participants with normal cognition (Figure <xref rid="alz70927-supinfo-0001" ref-type="">S6</xref>). The frequency of AD pathology increased with age, especially in participants with normal cognition, such that by age 80, 100%, 60%, and 75% had intermediate or high Braak, CERAD, or Thal scores, respectively. Moreover, we presented the frequency for AD diagnosis and non‐AD/normal neuropathological evaluation for the whole sample, in participants with dementia (CDR ≥ 1), and stratified by race. The frequency of AD neuropathological diagnosis was not 100% in any age group for the whole sample. Still, it was 100% for those with dementia after 85 and in Black participants from 60 to almost 80 (Figure <xref rid="alz70927-fig-0004" ref-type="fig">4</xref>).</p><fig position="float" fig-type="FIGURE" id="alz70927-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Distribution of (A) Braak stages, (B) CERAD scores, and (C) Thal staging by age of death and APOE genotypes in the whole sample (<italic toggle="yes">n</italic> = 1391). APOE, apolipoprotein E gene; CERAD, Consortium to Establish a Registry for Alzheimer's Disease.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-21-e70927-g004.jpg"/></fig><fig position="float" fig-type="FIGURE" id="alz70927-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Distribution of Braak stages by age of death and APOE genotypes in the whole sample (A) and stratified by race (B and C). APOE, apolipoprotein E gene.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-21-e70927-g002.jpg"/></fig><fig position="float" fig-type="FIGURE" id="alz70927-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Distribution of CERAD scores by age of death and APOE genotypes in the whole sample (A) and stratified by race (B and C). APOE, Apolipoprotein E gene; CERAD, Consortium to Establish a Registry for Alzheimer's Disease.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-21-e70927-g003.jpg"/></fig><fig position="float" fig-type="FIGURE" id="alz70927-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Distribution of Alzheimer's disease (AD) and non‐AD/normal neuropathological diagnoses by age of death and APOE genotypes in the whole sample (A) and stratified by Clinical Dementia Rating (CDR ≥ 1) and race (B and C). APOE, apolipoprotein E gene.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ALZ-21-e70927-g001.jpg"/></fig><p>The mean age at death of the overall sample was 74.1 (95% CI = 72.0 to 76.2) and did not differ by APOE genotype (Table <xref rid="alz70927-tbl-0002" ref-type="table">2</xref>). However, the mean age at death in participants with AD pathology was higher in those with APOE ε2/εX (86.7, 95% CI = 83.6 to 89.8) and was progressively lower across APOE ε3/ε3, ε3/ε4, and ε4/ε4, with the lowest age at death among those with APOE ε4/ε4 (79.0, 95% CI = 74.8 to 83.2). The same pattern was noted in participants with preclinical AD pathology (CDR = 0, <italic toggle="yes">n</italic> = 115), while it was not seen in participants with questionable dementia (CDR = 0.5, <italic toggle="yes">n</italic> = 35) and dementia (CDR ≥ 1, <italic toggle="yes">n</italic> = 195) (Table <xref rid="alz70927-tbl-0002" ref-type="table">2</xref>). We also examined whether the age of death differed by race among APOE genotypes. Age of death decreased from APOE ε2/εX to APOE ε4/ε4 in White participants (<italic toggle="yes">n</italic> = 244), but the same pattern was not significant among Black participants, probably due to the small sample size (<italic toggle="yes">n</italic> = 92).</p><table-wrap position="float" id="alz70927-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Mean age at death and 95% confidence intervals according to apolipoprotein E genotypes in the overall sample and participants with Alzheimer`s disease pathology by cognitive status and race.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Variables</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th><th align="left" rowspan="1" colspan="1">APOE ε2/εX</th><th align="left" rowspan="1" colspan="1">APOE ε3/ε3</th><th align="left" rowspan="1" colspan="1">APOE ε3/ε4</th><th align="left" rowspan="1" colspan="1">APOE ε4/ε4</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="alz70927-tbl2-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Overall</td><td align="char" rowspan="1" colspan="1">1391</td><td align="left" rowspan="1" colspan="1">74.1 (72.0‐76.2)</td><td align="left" rowspan="1" colspan="1">75.1 (74.2‐76.0)</td><td align="left" rowspan="1" colspan="1">75.2 (74.0‐76.3)</td><td align="left" rowspan="1" colspan="1">77.2 (73.5‐81.0)</td><td align="char" rowspan="1" colspan="1">0.53</td></tr><tr><td align="left" rowspan="1" colspan="1">AD pathology</td><td align="char" rowspan="1" colspan="1">345</td><td align="left" rowspan="1" colspan="1">86.7 (83.6‐89.8)</td><td align="left" rowspan="1" colspan="1">84.8 (83.6‐86.0)</td><td align="left" rowspan="1" colspan="1">81.6 (80.1‐83.0)</td><td align="left" rowspan="1" colspan="1">79.0 (74.8‐83.2)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">CDR = 0</td><td align="char" rowspan="1" colspan="1">115</td><td align="left" rowspan="1" colspan="1">86.2 (82.5‐90.0)</td><td align="left" rowspan="1" colspan="1">84.0 (82.1‐85.9)</td><td align="left" rowspan="1" colspan="1">77.8 (75.1‐805)</td><td align="left" rowspan="1" colspan="1">70.1 (55.9‐84.2)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">CDR = 0.5</td><td align="char" rowspan="1" colspan="1">35</td><td align="left" rowspan="1" colspan="1">85.5 (65.6‐105.4)</td><td align="left" rowspan="1" colspan="1">85.0 (81.0‐89.0)</td><td align="left" rowspan="1" colspan="1">85.4 (78.6‐92.2)</td><td align="left" rowspan="1" colspan="1">69.4 (54.5‐84.4)</td><td align="char" rowspan="1" colspan="1">0.20</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">CDR ≥ 1</td><td align="char" rowspan="1" colspan="1">195</td><td align="left" rowspan="1" colspan="1">87.4 (84.0‐90.7)</td><td align="left" rowspan="1" colspan="1">85.2 (83.5‐86.9)</td><td align="left" rowspan="1" colspan="1">83.2 (81.7‐84.8)</td><td align="left" rowspan="1" colspan="1">82.7 (79.8‐85.7)</td><td align="char" rowspan="1" colspan="1">0.20</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Black</td><td align="char" rowspan="1" colspan="1">92</td><td align="left" rowspan="1" colspan="1">84.7 (82.7‐86.8)</td><td align="left" rowspan="1" colspan="1">85.0 (81.5‐88.5)</td><td align="left" rowspan="1" colspan="1">80.7 (78.6‐82.9)</td><td align="left" rowspan="1" colspan="1">78.0 (69.9‐86.0)</td><td align="char" rowspan="1" colspan="1">0.09</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">White</td><td align="char" rowspan="1" colspan="1">244</td><td align="left" rowspan="1" colspan="1">87.3 (83.3‐91.4)</td><td align="left" rowspan="1" colspan="1">84.4 (83.1‐85.7)</td><td align="left" rowspan="1" colspan="1">81.8 (80.0‐83.7)</td><td align="left" rowspan="1" colspan="1">78.9 (74.1‐83.7)</td><td align="char" rowspan="1" colspan="1">0.01</td></tr></tbody></table><table-wrap-foot><fn id="alz70927-tbl2-note-0001"><p>
+<italic toggle="yes">Note</italic>: APOE ε2/ε4 was excluded from the analyses.</p></fn><fn id="alz70927-tbl2-note-0002"><p>Abbreviations: AD, Alzheimer's disease; APOE, apolipoprotein E gene; CDR, Clinical Dementia Rating</p></fn><fn id="alz70927-tbl2-note-0003"><label>*</label><p>One‐way ANOVA test.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz70927-sec-0170"><label>3.3</label><title>Association between APOE genotypes and AD pathology</title><p>Logistic regression models adjusted for age, sex, race, and education confirmed the associations of APOE genotypes with AD pathology and diagnosis (Table <xref rid="alz70927-supinfo-0001" ref-type="">S1</xref>). APOE ε2/εX was related to lower odds of amyloid pathology (CERAD: OR = 0.45, 95% CI = 0.28 to 0.72, <italic toggle="yes">p</italic> = 0.001 and Thal: OR = 0.39, 95% CI = 0.25 to 0.58, <italic toggle="yes">p</italic> &lt; 0.001) and AD diagnosis for the whole sample (OR = 0.38, 95% CI = 0.20 to 0.74, <italic toggle="yes">p</italic> = 0.005) and was also protective against neurofibrillary accumulation among participants with dementia (OR = 0.19, 95% CI = 0.09 to 040, <italic toggle="yes">p</italic> = 0.03). APOE ε3/ε4 and APOE ε4/ε4 were associated with higher odds of amyloid (CERAD‐ APOE ε3/ε4: OR = 3.75, 95% CI = 2.90 to 4.83, <italic toggle="yes">p</italic> &lt; 0.001; APOE ε4/ε4: OR = 7.55, 95% CI = 4.16 to 13.69, <italic toggle="yes">p</italic> &lt; 0.001) and tau accumulation (APOE ε3/ε4: OR = 1.78, 95% CI = 1.42 to 2.23, <italic toggle="yes">p</italic> &lt; 0.001; APOE ε4/ε4: OR = 3.99, 95% CI = 2.25 to 7.08, <italic toggle="yes">p</italic> &lt; 0.001), as well as AD neuropathological diagnosis (APOE ε3/ε4: OR = 3.07, 95% CI = 2.24 to 4.21, <italic toggle="yes">p</italic> &lt; 0.001; APOE ε4/ε4: OR = 6.38, 95% CI = 3.11 to 13.08, <italic toggle="yes">p</italic> &lt; 0.001) (Table <xref rid="alz70927-supinfo-0001" ref-type="">S1</xref>). Although APOE ε4/ε4 seemed to exhibit higher odds of AD pathology than APOE ε3/ε4 carriers, most confidence intervals for APOE ε3/ε4 and APOE ε4/ε4 genotypes overlapped, probably due to the small number of participants with the APOE ε4/ε4 genotype (Table <xref rid="alz70927-supinfo-0001" ref-type="">S1</xref>). Similar associations between APOE genotypes and AD pathology were found among Black and White participants (<italic toggle="yes">p</italic> for the interaction of race with CERAD = 0.36; Thal <italic toggle="yes">p</italic> = 0.20; Braak <italic toggle="yes">p</italic> = 0.41; and AD diagnosis <italic toggle="yes">p</italic> = 0.37).</p></sec></sec><sec id="alz70927-sec-0180"><label>4</label><title>DISCUSSION</title><p>In this diverse population‐based study, APOE ε4/ε4 was associated with a higher burden of AD pathology and neuropathological diagnosis. While APOE ε4 homozygotes had the highest frequencies of intermediate to high Braak, CERAD, and Thal stages, particularly in older age groups, full penetrance was not observed. Moreover, a gene dose response was evident across informant‐based cognitive status, with the frequency of neuropathological AD diagnosis in APOE ε4 homozygotes ranging from 38% in cognitively normal individuals to 86% in those with dementia. APOE ε2/εX was related to lower odds of AD pathology and diagnosis. Additionally, the age at death among individuals with AD pathology was inversely related to APOE gene dosage, with APOE ε4/ε4 carriers showing the youngest age at death and APOE ε2/εX the oldest age. Importantly, the association between APOE and AD pathology was similar across Black and White participants.</p><p>Several studies have suggested that the dose response of APOE alleles on the risk for a clinical AD dementia diagnosis varies by race.<xref rid="alz70927-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz70927-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz70927-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> In a large study with more than 68,000 participants, the AD risk for APOE ε4 decreased following East Asian, White, Black, and Hispanic individuals.<xref rid="alz70927-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> However, most of these studies relied on the clinical diagnosis without using AD‐related biomarkers,<xref rid="alz70927-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz70927-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> which may have led to misclassification, particularly among older individuals where mixed pathologies are frequent.<xref rid="alz70927-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> A study using amyloid positron emission tomography showed that APOE ε4 and APOE ε2 alleles had stronger associations with amyloid burden in White individuals, followed by African Americans, and lowest in Asian populations.<xref rid="alz70927-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Autopsy studies, which allow for a definitive AD diagnosis, can contribute to understanding whether the associations of APOE genotypes and AD pathology differ by race. APOE ε4 carriers had an elevated risk of neuropathologically characterized AD diagnosis, while APOE ε2/ε2 had lower odds.<xref rid="alz70927-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Similarly, high rates of AD pathology were reported among APOE ε4 homozygotes.<xref rid="alz70927-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Nevertheless, these studies used convenience samples, enriched for White participants and dementia diagnoses, and therefore may overestimate the penetrance of APOE ε4. Indeed, 99% and 88% of the brains in those studies had a diagnosis of AD dementia <italic toggle="yes">ante mortem</italic> compared to 49% in our study.<xref rid="alz70927-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz70927-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> The ages at death were also significantly different: 75 years in our study versus 83 and 82 years in Fortea's and Reiman's studies, respectively.</p><p>Although APOE ε4/ε4 was strongly associated with AD pathology in our sample, full penetrance was not observed across all ages, even among individuals with dementia. A proportion of APOE ε4 carriers without dementia still harbor AD pathology, supporting the concept that APOE ε4 confers increased vulnerability long before the onset of overt clinical symptoms. Conversely, the observation that some APOE ε4 carriers remain cognitively intact despite AD pathology suggests the presence of resilience factors, such as cognitive reserve, lifestyle influences, or protective genetic variants, that warrant further study. This discrepancy from previous studies may be due to differences in study design, racial and socioeconomic diversity, and the methodological advantage of a population‐based autopsy study.<xref rid="alz70927-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> The frequency of APOE ε4/ε4 was 12.6% in the Reiman et al. study and 8.3% in the Fortea et al. study, while it was 3.1% in our sample. Reiman´s study used the Alzheimer's Disease Genetics Consortium (ADGC) dataset, while Fortea's study used the NACC sample; both datasets are enriched with individuals with advanced dementia and have few participants with normal cognition. Nonetheless, Fortea's study also had clinical cohorts with 57% cognitively unimpaired individuals, 22% with MCI, and 21% with AD dementia. Although the biological penetrance of amyloid and tau biomarkers with age in those studies was similar to our findings, the frequency of intermediate and high CERAD scores in our study is lower, and full penetrance of APOE4/4 for AD pathology with age was not observed as defined by the ADNC criteria.</p><p>The frequency of APOE ε4/ε4 in our study is in line with a Brazilian population‐based study,<xref rid="alz70927-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> which found a frequency of 2.2% for APOE ε4/ε4, and with a 1.1% frequency in the Genome Aggregation Database (gnomAD).<xref rid="alz70927-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Our study contributes novel insights into the role of APOE across racial groups, as we compared Black and White participants. Despite the smaller number of APOE ε4/ε4 and APOE ε2/εX carriers in racial subgroups, we found no significant differences in the strength of association between APOE genotypes and AD pathology by race. This suggests that, within the limitations of our sample size, the impact of APOE on AD pathology may be consistent across different races.</p><p>The biological mechanisms underlying the dose response of APOE on AD pathology involve Aβ aggregation and clearance processes.<xref rid="alz70927-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> APOE ε4 carriers exhibit higher levels of soluble Aβ oligomers, with in vitro studies demonstrating that APOE ε4 promotes Aβ oligomerization, whereas APOE ε2 and APOE ε3 inhibit the conversion of protofibrils into fibrils.<xref rid="alz70927-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> APOE isoforms also differ markedly in their ability to mediate Aβ degradation and clearance.<xref rid="alz70927-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> APOE ε4 is less effective at facilitating the removal of soluble Aβ from the brain interstitial fluid, and its uptake and subsequent degradation by astrocytes, microglia, and neurons are impaired compared to APOE ε2 and APOE ε3.<xref rid="alz70927-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Moreover, at the blood–brain barrier (BBB), APOE ε2 and APOE ε3 promote Aβ clearance via both the low‐density lipoprotein receptor‐related protein 1 (LRP1) and the very low‐density lipoprotein receptor (VLDLR), whereas APOE ε4 preferentially uses VLDLR alone, resulting in reduced efficiency of Aβ elimination.<xref rid="alz70927-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Additional clearance pathways mediated by LDL receptors in astrocytes and neurons are less effective in the presence of APOE ε4.<xref rid="alz70927-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Furthermore, APOE ε4 has been shown to impair Aβ transport across the BBB.<xref rid="alz70927-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> The impact of APOE ε4 on tau pathology appears to be largely indirect, though the acceleration of tau deposition by the Aβ deposition.<xref rid="alz70927-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> These findings highlight distinct mechanisms through which APOE modulates AD pathogenesis, with APOE ε4 enhancing and APOE ε2 attenuating processes related to Aβ.<xref rid="alz70927-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+</p><p>While APOE isoforms seem to have robust biological effects on AD pathology,<xref rid="alz70927-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> we did not observe racial differences in their associations with AD neuropathology, suggesting that the molecular pathways through which APOE influences AD are largely conserved across populations. Alternatively, racial differences in APOE effects reported in other studies may arise from factors not related to APOE biology, such as ancestry‐related genetic variation or unequal social conditions.<xref rid="alz70927-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> In Brazil, where racial classification is based on skin color and the population is highly admixed, biological differences by race may be attenuated compared with studies in the US.<xref rid="alz70927-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="alz70927-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Moreover, our analyses were adjusted for socioeconomic variables, which may have minimized differences between racial groups. Taken together, these findings suggest that while APOE shapes AD pathology through shared biological mechanisms, racial disparities in dementia expression may depend more on environmental and social modifiers than on differences in molecular biology.<xref rid="alz70927-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p><p>This study has several strengths. First, it is one of the largest autopsy‐based investigations of the association between APOE genotypes and AD pathology conducted in a diverse population. Our inclusion of participants from different racial and socioeconomic backgrounds addresses a critical gap in the literature, which has been predominantly based on White populations from high‐income countries.<xref rid="alz70927-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz70927-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> In Brazil, however, racial classification is based primarily on self‐identification, with high levels of admixture,<xref rid="alz70927-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> making comparisons with US racial categories challenging.<xref rid="alz70927-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Structural inequalities are similar in Brazil and the US, with Black Brazilians experiencing greater socioeconomic disadvantage, which itself may modify the relationship<xref rid="alz70927-tbl-0002" ref-type="table"> </xref> between APOE genotype and dementia.<xref rid="alz70927-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Although our models were adjusted for socioeconomic factors, the lack of genetic ancestry data remains a limitation. Including such data in future studies would help distinguish ancestry‐related genetic effects from social and environmental influences and provide a more nuanced understanding of how APOE and ancestry interact to shape AD pathology in admixed populations. Another key strength of the study, beyond the diversity of the sample, is that it was nearly population‐based, as evidenced by APOE haplotype frequencies closely mirroring those of the general Brazilian population; however, the dementia penetrance may have been underestimated due to inclusion criteria favoring individuals who died of unknown causes. Additionally, we used rigorous and standardized neuropathological assessments combined with genetic data, providing a robust characterization of AD pathology across APOE genotypes. Nonetheless, some limitations should be acknowledged. Although the overall sample size was large, the number of participants with APOE ε4/ε4 and APOE ε2/εX genotypes was relatively small, limiting our ability to perform more detailed analyses stratified by race for these specific genotypes and increasing the chances of type 2 error. Cognitive status was determined after death through structured informant interviews; although a previous validation study demonstrated good accuracy of this method compared to direct patient assessment,<xref rid="alz70927-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> some degree of misclassification remains possible. Moreover, the absence of clinical follow‐up before death precluded the evaluation of longitudinal cognitive trajectories. Thus, we were unable to directly assess the temporal sequence linking APOE genotype, pathology accumulation, and conversion to clinical dementia. Future research should include longitudinal clinical–pathological studies to address this gap. In addition, brains with major cerebrovascular lesions were excluded because of the need for brain retention by the pathologist in charge of the autopsy exam to determine the cause of death. This exclusion could lead to selection bias, which could overestimate the association between APOE and AD pathology by reducing the representation of individuals with mixed or predominantly vascular dementia. Finally, this was an observational study, which limits our ability to draw causal inferences between APOE genotype and AD pathology.</p><p>Our findings reinforce the role of APOE genotypes in AD pathogenesis and underscore the utility of autopsy studies in diverse populations to refine our understanding of genetic risk and disease expression. Other diverse autopsy studies are necessary to validate and extend the knowledge about whether the association between APOE and AD pathology differs by race.</p></sec><sec id="alz70927-sec-0200"><title>CONSENT STATEMENT</title><p>A close family member authorized the brain donation and signed an informed consent document for study participation.</p></sec><sec sec-type="COI-statement" id="alz70927-sec-0210"><title>CONFLICT OF INTEREST STATEMENT</title><p>J.F. reported serving on the advisory boards or adjudication committees or receiving speaker honoraria from AC Immune, Adamed, Alzheon, Biogen, Eisai, Esteve, Fujirebio, Ionis, Laboratorios Carnot, Life Molecular Imaging, Lilly, Lundbeck, Novo Nordisk, Perha, Roche, Zambón, Spanish Neurological Society, T21 Research Society, Lumind Foundation, Jérôme‐Lejeune Foundation, Alzheimer's Association, National Institutes of Health USA, and Instituto de Salud Carlos III. J.F. reports holding a patent for markers of synaptopathy in neurodegenerative disease (licensed to ADx, EPI8382175.0). A.C.P. has patents licensed to Neurobiopharma, LLC (unrelated to this work), serves on the scientific advisory board of Sinaptica Therapeutics and Tau Biosciences, and has served as a consultant to Eisai and Quanterix. Other authors have nothing to disclose. Author disclosures are available in the <xref rid="alz70927-supinfo-0001" ref-type="">Supporting Information</xref>.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz70927-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz70927-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e70927-s001.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz70927-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e70927-s002.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz70927-sec-0190"><title>ACKNOWLEDGMENTS</title><p>This study was funded by the Alzheimer's Association (24CBIDR‐1185483, AARG‐20‐678884, and AARGD‐22‐972378) and the Sao Paulo Research Foundation/FAPESP (2020/14339‐3 and 2024/03917‐7). J.F. is funded by the Instituto de Salud Carlos III (Ministerio de Asuntos Económicos y Transformación Digital, Gobierno de España) through the projects INT21/00073, PI20/01473, and PI23/01786 and the Centro de Investigación Biomédica en Red sobre Enfermedades Neurodegenerativas CIBERNED Program 1, partly jointly funded by Fondo Europeo de Desarrollo Regional, Unión Europea, Una Manera de Hacer Europa. J.F. is also supported by the National Institutes of Health grants (R01 AG056850, R21 AG056974, R01 AG061566, R01 AG081394, R61AG066543, and 1RF1AG080769‐01), the Departament de Salut de la Generalitat de Catalunya, Fundación Tatiana Pérez de Guzmán el Bueno (IIBSP‐DOW‐2020‐151 to J.F. and S.G.), the Horizon 2020–Research and Innovation Framework Programme from the European Union (H2020‐SC1‐BHC‐2018‐2020), BrightFocus, and Life Molecular Imaging (LMI). A.C.P. is funded by NIH Grants R01 AG063819 and R01 AG064020; the Alzheimer's Association; the Sanford J. Grossman Charitable Trust; the Brian and Tania Higgins Charitable Foundation; the Carolyn and Eugene Mercy Research Gift; the Karen Strauss Cook Research Scholar Award; Alzheimer's New Jersey; the Robert J. and Claire Pasarow Foundation; and the Marvin and Judith Herb Family.</p></ack><ref-list id="alz70927-bibl-0001"><title>REFERENCES</title><ref id="alz70927-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz70927-cite-0002">
+<string-name name-style="western">
+<surname>Nichols</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szoeke</surname>
+<given-names>CEI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vollset</surname>
+<given-names>SE</given-names>
+</string-name>, et al. <article-title>Global, regional, and national burden of Alzheimer's disease and other dementias, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016</article-title>. <source>Lancet Neurol</source>. <year>2019</year>;<volume>18</volume>(<issue>1</issue>):<fpage>88</fpage>‐<lpage>106</lpage>.<pub-id pub-id-type="pmid">30497964</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(18)30403-4</pub-id><pub-id pub-id-type="pmcid">PMC6291454</pub-id></mixed-citation></ref><ref id="alz70927-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz70927-cite-0003">
+<string-name name-style="western">
+<surname>Wimo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seeher</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cataldi</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>The worldwide costs of dementia in 2019</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>(<issue>7</issue>):<fpage>2865</fpage>‐<lpage>2873</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12901</pub-id>
+<pub-id pub-id-type="pmid">36617519</pub-id>
+<pub-id pub-id-type="pmcid">PMC10842637</pub-id></mixed-citation></ref><ref id="alz70927-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz70927-cite-0004">
+<string-name name-style="western">
+<surname>Cheng</surname>
+<given-names>S‐T</given-names>
+</string-name>. <article-title>Dementia caregiver burden: a research update and critical analysis</article-title>. <source>Curr Psychiatry Rep</source>. <year>2017</year>;<volume>19</volume>:<fpage>1</fpage>‐<lpage>8</lpage>.<pub-id pub-id-type="pmid">28795386</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11920-017-0818-2</pub-id><pub-id pub-id-type="pmcid">PMC5550537</pub-id></mixed-citation></ref><ref id="alz70927-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz70927-cite-0005">
+<string-name name-style="western">
+<surname>Suemoto</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferretti‐Rebustini</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodriguez</surname>
+<given-names>RD</given-names>
+</string-name>, et al. <article-title>Neuropathological diagnoses and clinical correlates in older adults in Brazil: a cross‐sectional study</article-title>. <source>PLoS Med</source>. <year>2017</year>;<volume>14</volume>(<issue>3</issue>):<elocation-id>e1002267</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.pmed.1002267</pub-id>
+<pub-id pub-id-type="pmid">28350821</pub-id>
+<pub-id pub-id-type="pmcid">PMC5369698</pub-id></mixed-citation></ref><ref id="alz70927-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz70927-cite-0006">
+<string-name name-style="western">
+<surname>Kalaria</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maestre</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arizaga</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Alzheimer's disease and vascular dementia in developing countries: prevalence, management, and risk factors</article-title>. <source>Lancet Neurol</source>. <year>2008</year>;<volume>7</volume>(<issue>9</issue>):<fpage>812</fpage>‐<lpage>826</lpage>. doi:<pub-id pub-id-type="doi">10.1016/s1474-4422(08)70169-8</pub-id>
+<pub-id pub-id-type="pmid">18667359</pub-id>
+<pub-id pub-id-type="pmcid">PMC2860610</pub-id></mixed-citation></ref><ref id="alz70927-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz70927-cite-0007">
+<string-name name-style="western">
+<surname>Narasimhan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holtzman</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Apostolova</surname>
+<given-names>LG</given-names>
+</string-name>, et al. <article-title>Apolipoprotein E in Alzheimer's disease trajectories and the next‐generation clinical care pathway</article-title>. <source>Nat Neurosci</source>. <year>2024</year>;<volume>27</volume>(<issue>7</issue>):<fpage>1236</fpage>‐<lpage>1252</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41593-024-01669-5</pub-id>
+<pub-id pub-id-type="pmid">38898183</pub-id>
+</mixed-citation></ref><ref id="alz70927-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz70927-cite-0008">
+<string-name name-style="western">
+<surname>Corder</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saunders</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strittmatter</surname>
+<given-names>WJ</given-names>
+</string-name>, et al. <article-title>Gene dose of apolipoprotein E type 4 allele and the risk of Alzheimer's disease in late onset families</article-title>. <source>Science</source>. <year>1993</year>;<volume>261</volume>(<issue>5123</issue>):<fpage>921</fpage>‐<lpage>923</lpage>. doi:<pub-id pub-id-type="doi">10.1126/science.8346443</pub-id>
+<pub-id pub-id-type="pmid">8346443</pub-id>
+</mixed-citation></ref><ref id="alz70927-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz70927-cite-0009">
+<string-name name-style="western">
+<surname>Fortea</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pegueroles</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alcolea</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>APOE4 homozygosity represents a distinct genetic form of Alzheimer's disease</article-title>. <source>Nat Med</source>. <year>2024</year>;<volume>30</volume>(<issue>5</issue>):<fpage>1284</fpage>‐<lpage>1291</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41591-024-02931-w</pub-id>
+<pub-id pub-id-type="pmid">38710950</pub-id>
+</mixed-citation></ref><ref id="alz70927-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz70927-cite-0010">
+<string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Renton</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fulton‐Howard</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Podlesny‐Drabiniok</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marcora</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goate</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>The complex genetic architecture of Alzheimer's disease: novel insights and future directions</article-title>. <source>EBioMedicine</source>. <year>2023</year>;<volume>90</volume>:<elocation-id>104511</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.ebiom.2023.104511</pub-id>
+<pub-id pub-id-type="pmid">36907103</pub-id>
+<pub-id pub-id-type="pmcid">PMC10024184</pub-id></mixed-citation></ref><ref id="alz70927-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz70927-cite-0011">
+<string-name name-style="western">
+<surname>Livingston</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huntley</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>KY</given-names>
+</string-name>, et al. <article-title>Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission</article-title>. <source>Lancet</source>. <year>2024</year>;<volume>404</volume>(<issue>10452</issue>):<fpage>572</fpage>‐<lpage>628</lpage>. doi:<pub-id pub-id-type="doi">10.1016/s0140-6736(24)01296-0</pub-id>
+<pub-id pub-id-type="pmid">39096926</pub-id>
+</mixed-citation></ref><ref id="alz70927-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz70927-cite-0012">
+<string-name name-style="western">
+<surname>Suemoto</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borelli</surname>
+<given-names>WV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calandri</surname>
+<given-names>IL</given-names>
+</string-name>, et al. <article-title>The potential for dementia prevention in Brazil: a population attributable fraction calculation for 14 modifiable risk factors</article-title>. <source>Lancet Reg Health Am</source>. <year>2025</year>;<volume>49</volume>:<elocation-id>101209</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.lana.2025.101209</pub-id>
+<pub-id pub-id-type="pmid">40823285</pub-id>
+<pub-id pub-id-type="pmcid">PMC12355584</pub-id></mixed-citation></ref><ref id="alz70927-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz70927-cite-0013">
+<string-name name-style="western">
+<surname>Belloy</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le Guen</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>APOE genotype and Alzheimer disease risk across age, sex, and population ancestry</article-title>. <source>JAMA Neurol</source>. <year>2023</year>;<volume>80</volume>(<issue>12</issue>):<fpage>1284</fpage>‐<lpage>1294</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2023.3599</pub-id>
+<pub-id pub-id-type="pmid">37930705</pub-id>
+<pub-id pub-id-type="pmcid">PMC10628838</pub-id></mixed-citation></ref><ref id="alz70927-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz70927-cite-0014">
+<string-name name-style="western">
+<surname>Naslavsky</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suemoto</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brito</surname>
+<given-names>LA</given-names>
+</string-name>, et al. <article-title>Global and local ancestry modulate APOE association with Alzheimer's neuropathology and cognitive outcomes in an admixed sample</article-title>. <source>Mol Psychiatry</source>. <year>2022</year>;<volume>27</volume>(<issue>11</issue>):<fpage>4800</fpage>‐<lpage>4808</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41380-022-01729-x</pub-id>
+<pub-id pub-id-type="pmid">36071110</pub-id>
+<pub-id pub-id-type="pmcid">PMC9734036</pub-id></mixed-citation></ref><ref id="alz70927-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz70927-cite-0015">
+<string-name name-style="western">
+<surname>Nichols</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brickman</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casaletto</surname>
+<given-names>KB</given-names>
+</string-name>, et al. <article-title>AD and non‐AD mediators of the pathway between the APOE genotype and cognition</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>(<issue>6</issue>):<fpage>2508</fpage>‐<lpage>2519</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12885</pub-id>
+<pub-id pub-id-type="pmid">36516004</pub-id>
+<pub-id pub-id-type="pmcid">PMC10264550</pub-id></mixed-citation></ref><ref id="alz70927-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz70927-cite-0016">
+<string-name name-style="western">
+<surname>Reiman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arboleda‐Velasquez</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quiroz</surname>
+<given-names>YT</given-names>
+</string-name>, et al. <article-title>Exceptionally low likelihood of Alzheimer's dementia in APOE2 homozygotes from a 5,000‐person neuropathological study</article-title>. <source>Nat Commun</source>. <year>2020</year>;<volume>11</volume>(<issue>1</issue>):<fpage>667</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41467-019-14279-8</pub-id>
+<pub-id pub-id-type="pmid">32015339</pub-id>
+<pub-id pub-id-type="pmcid">PMC6997393</pub-id></mixed-citation></ref><ref id="alz70927-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz70927-cite-0017">
+<string-name name-style="western">
+<surname>de Lucena Ferretti</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Damin</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brucki</surname>
+<given-names>SMD</given-names>
+</string-name>, et al. <article-title>Post‐mortem diagnosis of dementia by informant interview</article-title>. <source>Dement Neuropsychol</source>. <year>2010</year>;<volume>4</volume>(<issue>2</issue>):<fpage>138</fpage>‐<lpage>144</lpage>.<pub-id pub-id-type="pmid">29213677</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1590/S1980-57642010DN40200011</pub-id><pub-id pub-id-type="pmcid">PMC5619173</pub-id></mixed-citation></ref><ref id="alz70927-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz70927-cite-0018">
+<string-name name-style="western">
+<surname>Travassos</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>DR</given-names>
+</string-name>. <article-title>The concept and measurement of race and their relationship to public health: a review focused on Brazil and the United States</article-title>. <source>Cad Saude Publica</source>. <year>2004</year>;<volume>20</volume>(<issue>3</issue>):<fpage>660</fpage>‐<lpage>678</lpage>. doi:<pub-id pub-id-type="doi">10.1590/s0102-311x2004000300003</pub-id>
+<pub-id pub-id-type="pmid">15263977</pub-id>
+</mixed-citation></ref><ref id="alz70927-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz70927-cite-0019">
+<string-name name-style="western">
+<surname>Morris</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>The Clinical Dementia Rating (CDR): current version and scoring rules</article-title>. <source>Neurology</source>. <year>1993</year>;<volume>43</volume>(<issue>11</issue>):<fpage>2412</fpage>‐<lpage>2414</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.43.11.2412-a</pub-id><pub-id pub-id-type="pmid">8232972</pub-id></mixed-citation></ref><ref id="alz70927-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz70927-cite-0020">
+<string-name name-style="western">
+<surname>Mirra</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heyman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McKeel</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>The Consortium To Establish A Registry For Alzheimer's Disease (CERAD). 2. Standardization of the neuropathologic assessment of Alzheimer's disease</article-title>. <source>Neurology</source>. <year>1991</year>;<volume>41</volume>(<issue>4</issue>):<fpage>479</fpage>‐<lpage>486</lpage>.<pub-id pub-id-type="pmid">2011243</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.41.4.479</pub-id></mixed-citation></ref><ref id="alz70927-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz70927-cite-0021">
+<string-name name-style="western">
+<surname>Thal</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rüb</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orantes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Phases of A beta‐deposition in the human brain and its relevance for the development of AD</article-title>. <source>Neurology</source>. <year>2002</year>;<volume>58</volume>(<issue>12</issue>):<fpage>1791</fpage>‐<lpage>1800</lpage>. doi:<pub-id pub-id-type="doi">10.1212/wnl.58.12.1791</pub-id>
+<pub-id pub-id-type="pmid">12084879</pub-id>
+</mixed-citation></ref><ref id="alz70927-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz70927-cite-0022">
+<string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Braak</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Neuropathological staging of Alzheimer‐related changes</article-title>. <source>Acta Neuropathol</source>. <year>1991</year>;<volume>82</volume>(<issue>4</issue>):<fpage>239</fpage>‐<lpage>259</lpage>.<pub-id pub-id-type="pmid">1759558</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF00308809</pub-id></mixed-citation></ref><ref id="alz70927-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz70927-cite-0023">
+<string-name name-style="western">
+<surname>Montine</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phelps</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, et al. <article-title>National Institute on Aging‐Alzheimer's Association guidelines for the neuropathologic assessment of Alzheimer's disease: a practical approach</article-title>. <source>Acta Neuropathol</source>. <year>2012</year>;<volume>123</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>11</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00401-011-0910-3</pub-id>
+<pub-id pub-id-type="pmid">22101365</pub-id>
+<pub-id pub-id-type="pmcid">PMC3268003</pub-id></mixed-citation></ref><ref id="alz70927-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz70927-cite-0024">
+<string-name name-style="western">
+<surname>Calero</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hortiguela</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bullido</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calero</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Apolipoprotein E genotyping method by real time PCR, a fast and cost‐effective alternative to the TaqMan and FRET assays</article-title>. <source>J Neurosci Methods</source>. <year>2009</year>;<volume>183</volume>(<issue>2</issue>):<fpage>238</fpage>‐<lpage>240</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jneumeth.2009.06.033</pub-id>
+<pub-id pub-id-type="pmid">19583979</pub-id>
+</mixed-citation></ref><ref id="alz70927-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz70927-cite-0025">
+<string-name name-style="western">
+<surname>Naslavsky</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scliar</surname>
+<given-names>MO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yamamoto</surname>
+<given-names>GL</given-names>
+</string-name>, et al. <article-title>Whole‐genome sequencing of 1,171 elderly admixed individuals from São Paulo, Brazil</article-title>. <source>Nat Commun</source>. <year>2022</year>;<volume>13</volume>(<issue>1</issue>):<fpage>1004</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41467-022-28648-3</pub-id>
+<pub-id pub-id-type="pmid">35246524</pub-id>
+<pub-id pub-id-type="pmcid">PMC8897431</pub-id></mixed-citation></ref><ref id="alz70927-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz70927-cite-0026">
+<string-name name-style="western">
+<surname>Ali</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Archer</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gorijala</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Large multi‐ethnic genetic analyses of amyloid imaging identify new genes for Alzheimer disease</article-title>. <source>Acta Neuropathol Commun</source>. <year>2023</year>;<volume>11</volume>(<issue>1</issue>):<fpage>68</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s40478-023-01563-4</pub-id>
+<pub-id pub-id-type="pmid">37101235</pub-id>
+<pub-id pub-id-type="pmcid">PMC10134547</pub-id></mixed-citation></ref><ref id="alz70927-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz70927-cite-0027">
+<string-name name-style="western">
+<surname>Kaup</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nettiksimmons</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harris</surname>
+<given-names>TB</given-names>
+</string-name>, et al. <article-title>Cognitive resilience to apolipoprotein E ε4: contributing factors in black and white older adults</article-title>. <source>JAMA Neurol</source>. <year>2015</year>;<volume>72</volume>(<issue>3</issue>):<fpage>340</fpage>‐<lpage>348</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2014.3978</pub-id>
+<pub-id pub-id-type="pmid">25599330</pub-id>
+<pub-id pub-id-type="pmcid">PMC4624320</pub-id></mixed-citation></ref><ref id="alz70927-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz70927-cite-0028">
+<string-name name-style="western">
+<surname>Suemoto</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leite</surname>
+<given-names>REP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferretti‐Rebustini</surname>
+<given-names>REL</given-names>
+</string-name>, et al. <article-title>Neuropathological lesions in the very old: results from a large Brazilian autopsy study</article-title>. <source>Brain Pathol</source>. <year>2019</year>;<volume>29</volume>(<issue>6</issue>):<fpage>771</fpage>‐<lpage>781</lpage>. doi:<pub-id pub-id-type="doi">10.1111/bpa.12719</pub-id>
+<pub-id pub-id-type="pmid">30861605</pub-id>
+<pub-id pub-id-type="pmcid">PMC6742578</pub-id></mixed-citation></ref><ref id="alz70927-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz70927-cite-0029">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Francioli</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goodrich</surname>
+<given-names>JK</given-names>
+</string-name>, et al. <article-title>A genomic mutational constraint map using variation in 76,156 human genomes</article-title>. <source>Nature</source>. <year>2024</year>;<volume>625</volume>(<issue>7993</issue>):<fpage>92</fpage>‐<lpage>100</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41586-023-06045-0</pub-id>
+<pub-id pub-id-type="pmid">38057664</pub-id>
+<pub-id pub-id-type="pmcid">PMC11629659</pub-id></mixed-citation></ref><ref id="alz70927-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz70927-cite-0030">
+<string-name name-style="western">
+<surname>Hori</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hashimoto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nomoto</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hyman</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iwatsubo</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Role of apolipoprotein E in β‐amyloidogenesis: isoform‐specific effects on protofibril to fibril conversion of aβ in vitro and brain aβ deposition in vivo</article-title>. <source>J Biol Chem</source>. <year>2015</year>;<volume>290</volume>(<issue>24</issue>):<fpage>15163</fpage>‐<lpage>15174</lpage>. doi:<pub-id pub-id-type="doi">10.1074/jbc.M114.622209</pub-id>
+<pub-id pub-id-type="pmid">25918154</pub-id>
+<pub-id pub-id-type="pmcid">PMC4463458</pub-id></mixed-citation></ref><ref id="alz70927-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz70927-cite-0031">
+<string-name name-style="western">
+<surname>Castellano</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>FR</given-names>
+</string-name>, et al. <article-title>Human apoE isoforms differentially regulate brain amyloid‐β peptide clearance</article-title>. <source>Sci Transl Med</source>. <year>2011</year>;<volume>3</volume>(<issue>89</issue>):<elocation-id>89ra57</elocation-id>. doi:<pub-id pub-id-type="doi">10.1126/scitranslmed.3002156</pub-id>
+<pub-id pub-id-type="pmcid">PMC3192364</pub-id><pub-id pub-id-type="pmid">21715678</pub-id></mixed-citation></ref><ref id="alz70927-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz70927-cite-0032">
+<string-name name-style="western">
+<surname>Deane</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sagare</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hamm</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>apoE isoform‐specific disruption of amyloid beta peptide clearance from mouse brain</article-title>. <source>J Clin Invest</source>. <year>2008</year>;<volume>118</volume>(<issue>12</issue>):<fpage>4002</fpage>‐<lpage>4013</lpage>. doi:<pub-id pub-id-type="doi">10.1172/jci36663</pub-id>
+<pub-id pub-id-type="pmid">19033669</pub-id>
+<pub-id pub-id-type="pmcid">PMC2582453</pub-id></mixed-citation></ref><ref id="alz70927-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz70927-cite-0033">
+<string-name name-style="western">
+<surname>Hawkes</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sullivan</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hands</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weller</surname>
+<given-names>RO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicoll</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carare</surname>
+<given-names>RO</given-names>
+</string-name>. <article-title>Disruption of arterial perivascular drainage of amyloid‐β from the brains of mice expressing the human APOE ε4 allele</article-title>. <source>PLoS One</source>. <year>2012</year>;<volume>7</volume>(<issue>7</issue>):<elocation-id>e41636</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0041636</pub-id>
+<pub-id pub-id-type="pmid">22848551</pub-id>
+<pub-id pub-id-type="pmcid">PMC3404985</pub-id></mixed-citation></ref><ref id="alz70927-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz70927-cite-0034">
+<string-name name-style="western">
+<surname>Ghisays</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goradia</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Protas</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Brain imaging measurements of fibrillar amyloid‐β burden, paired helical filament tau burden, and atrophy in cognitively unimpaired persons with two, one, and no copies of the APOE ε4 allele</article-title>. <source>Alzheimers Dement</source>. <year>2020</year>;<volume>16</volume>(<issue>4</issue>):<fpage>598</fpage>‐<lpage>609</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2019.08.195</pub-id>
+<pub-id pub-id-type="pmid">31831374</pub-id>
+<pub-id pub-id-type="pmcid">PMC7187298</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

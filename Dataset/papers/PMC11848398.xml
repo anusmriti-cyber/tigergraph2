@@ -1,0 +1,893 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz14567" xml:lang="en" article-type="other" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11848398</article-id><article-id pub-id-type="pmcid-ver">PMC11848398.1</article-id><article-id pub-id-type="pmcaid">11848398</article-id><article-id pub-id-type="pmcaiid">11848398</article-id><article-id pub-id-type="pmid">39968707</article-id><article-id pub-id-type="doi">10.1002/alz.14567</article-id><article-id pub-id-type="publisher-id">ALZ14567</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Perspective</subject></subj-group><subj-group subj-group-type="heading"><subject>Perspective</subject></subj-group></article-categories><title-group><article-title>Unlocking ocular biomarkers for early detection of Alzheimer's disease</article-title><alt-title alt-title-type="left-running-head">DAVE <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz14567-cr-0001" contrib-type="author"><name name-style="western"><surname>Dave</surname><given-names initials="N">Nikhil</given-names></name><xref rid="alz14567-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14567-cr-0002" contrib-type="author"><name name-style="western"><surname>Lee</surname><given-names initials="M">Melissa</given-names></name><xref rid="alz14567-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz14567-cr-0003" contrib-type="author"><name name-style="western"><surname>Pavlou</surname><given-names initials="H">Hania</given-names></name><xref rid="alz14567-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz14567-cr-0004" contrib-type="author"><name name-style="western"><surname>Im</surname><given-names initials="O">Owen</given-names></name><xref rid="alz14567-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz14567-cr-0005" contrib-type="author"><name name-style="western"><surname>Goh</surname><given-names initials="K">Kim</given-names></name><xref rid="alz14567-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz14567-cr-0006" contrib-type="author"><name name-style="western"><surname>Ulin</surname><given-names initials="S">Sam</given-names></name><xref rid="alz14567-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz14567-cr-0007" contrib-type="author"><name name-style="western"><surname>Malzbender</surname><given-names initials="K">Kristina</given-names></name><xref rid="alz14567-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14567-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Shobin</surname><given-names initials="E">Eli</given-names></name><xref rid="alz14567-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>eshobin@alzdiscovery.org</email></address></contrib><contrib id="alz14567-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Sukumar</surname><given-names initials="A">Aishwarya</given-names></name><xref rid="alz14567-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>aishwarya.sukumar@gatesventures.com</email></address></contrib></contrib-group><aff id="alz14567-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Gates Ventures</institution>
+<city>Kirkland</city>
+<named-content content-type="country-part">Washington</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14567-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Alzheimer's Drug Discovery Foundation</institution>
+<city>New York</city>
+<named-content content-type="country-part">New York</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14567-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>ClearView Healthcare Partners</institution>
+<city>Newton</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Eli Shobin, Alzheimer's Drug Discovery Foundation, 57 West 57th Street, Suite 904, New York, NY 10019, USA.<break/> Email: <email>eshobin@alzdiscovery.org</email>
+<break/>Aishwarya Sukumar, Gates Ventures, 4110 Carillon Point, Kirkland, WA 98033, USA.<break/> Email: <email>aishwarya.sukumar@gatesventures.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>19</day><month>2</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2025</year></pub-date><volume>21</volume><issue seq="500">2</issue><issue-id pub-id-type="pmc-issue-id">481957</issue-id><issue-id pub-id-type="doi">10.1002/alz.v21.2</issue-id><elocation-id>e14567</elocation-id><history><date date-type="rev-recd"><day>23</day><month>12</month><year>2024</year></date><date date-type="received"><day>14</day><month>10</month><year>2024</year></date><date date-type="accepted"><day>28</day><month>12</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>19</day><month>02</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>24</day><month>02</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-02-26 21:25:39.150"><day>26</day><month>02</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-21-e14567.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-21-e14567.pdf"/><abstract><title>Abstract</title><p>Recent evidence suggests that ocular testing holds promise as a non‐invasive and cost‐effective method for the early detection of Alzheimer's disease (AD). After interviews with neurologists, optometrists, primary care physicians, and ophthalmologists, the potential for ocular biomarker testing to become a standard clinical practice in the future was assessed. Ocular tests offer a non‐invasive alternative to blood‐based testing, capturing a substantial niche of ≈ 4 to 8 million individuals in the United States during routine eye exams. Technical requirements for broad adoption include high accuracy comparable to blood‐based tests and 510(k) clearance. Ocular biomarker technology must meet the practical requirements of optometrists and ophthalmologists, including ease of implementation, automation, and a clear path to profitability. A sufficient body of evidence to support guideline inclusion, reimbursement, and clinical actionability will facilitate the adoption. As the field evolves, advances such as earlier detection of preclinical AD may further expand the role of ocular testing.</p><sec id="alz14567-sec-0020"><title>Highlights</title><p>
+<list list-type="bullet" id="alz14567-list-0001"><list-item><p>Ocular biomarkers offer another non‐invasive alternative to blood‐based Alzheimer's disease testing.</p></list-item><list-item><p>Wide adoption will require accuracy akin to blood‐based tests and 510(k) clearance.</p></list-item><list-item><p>Ocular screening could benefit ≈ 4 to 8 million US individuals conducting routine eye exams.</p></list-item><list-item><p>Current ocular offerings remain nascent, and advances could expand this reach.</p></list-item><list-item><p>New technology must show ease of implementation, automation, and a path to profit.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz14567-kwd-0001">Alzheimer's disease</kwd><kwd id="alz14567-kwd-0002">hyperspectral imaging</kwd><kwd id="alz14567-kwd-0003">non‐invasive screening</kwd><kwd id="alz14567-kwd-0004">ocular biomarkers</kwd><kwd id="alz14567-kwd-0005">ocular screening</kwd><kwd id="alz14567-kwd-0006">optical coherence tomography</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Alzheimer's Drug Discovery Foundation's Diagnostics Accelerator</funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="9"/><word-count count="5876"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.4 mode:remove_FC converted:25.02.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz14567-cit-0058">
+<string-name name-style="western">
+<surname>Dave</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pavlou</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Unlocking ocular biomarkers for early detection of Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2025</year>;<volume>21</volume>:<elocation-id>e14567</elocation-id>. <pub-id pub-id-type="doi">10.1002/alz.14567</pub-id>
+<pub-id pub-id-type="pmid">39968707</pub-id>
+<pub-id pub-id-type="pmcid">PMC11848398</pub-id></mixed-citation>
+</p></notes></front><body><sec id="alz14567-sec-0030"><label>1</label><title>INTRODUCTION</title><p>Alzheimer's disease (AD) is the most prevalent form of dementia, currently affecting ≈ 7 million Americans ages ≥ 65.<xref rid="alz14567-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="alz14567-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> This progressive neurodegenerative disorder is marked by cognitive decline and memory loss, with amyloid plaques and tau tangles as its primary hallmarks.<xref rid="alz14567-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Beyond the patients themselves, AD also imposes significant emotional, physical, and financial burdens on caregivers, families, and society at large.<xref rid="alz14567-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Early detection of AD can enable timely intervention with disease‐modifying treatments, improve patient outcomes, and help mitigate the broader societal impacts of the disease.<xref rid="alz14567-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="alz14567-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz14567-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Additionally, innovative diagnostic approaches are needed to identify AD in its preclinical stage, before symptoms appear.</p><p>Currently, a <italic toggle="yes">post mortem</italic> brain biopsy is the definitive method for confirming AD pathology. In clinical practice, amyloid positron emission tomography (PET) and cerebrospinal fluid (CSF) analysis are considered the gold standard for detecting amyloid pathology associated with AD. However, PET is costly and difficult to access, while CSF analysis is invasive and carries some risks (e.g., bleeding, infection).<xref rid="alz14567-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz14567-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz14567-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Consequently, primary care physicians (PCPs) and neurologists often rely on clinical evaluations, magnetic resonance imaging (MRI) or computed tomography (CT) scans, and cognitive assessments for differential diagnosis. A clinical diagnosis alone (i.e., clinical exam, cognitive testing, CT scan) that is conducted by PCPs has been shown to correctly support AD pathology in only ≈ 60% of cases.<xref rid="alz14567-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Similarly, with &lt; 5% of AD cases being familial, genetic testing offers limited utility in identifying AD risk.<xref rid="alz14567-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p><p>Blood‐based testing for AD offers a cost‐effective, less invasive, and convenient alternative to current diagnostic methods. Promising blood‐based biomarkers (e.g., phosphorylated tau [‐tau]217) can detect amyloid beta (Aβ) and tau pathology before symptoms appear and may potentially supplant amyloid and/or tau PET scans in the future.<xref rid="alz14567-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Evidence for p‐tau217 is fast evolving: Quanterix's LucentAD pTau‐217 assay reports ≈ 89% sensitivity and ≈ 88% specificity<xref rid="alz14567-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> and C<sub>2</sub>N Diagnostics’ PrecivityAD2, which combines both the Aβ42/40 ratio and p‐tau217/np‐tau217 ratio, reports ≈ 88% sensitivity and ≈ 89% specificity<xref rid="alz14567-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> versus amyloid PET, which has traditionally shown ≈ 98% sensitivity and ≈ 80% specificity versus <italic toggle="yes">post mortem</italic> brain biopsy.<xref rid="alz14567-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz14567-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz14567-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> While these developments highlight the potential of blood‐based biomarkers for streamlining AD diagnosis and reducing reliance on invasive tests, further studies are needed to confirm strong correlation with <italic toggle="yes">post mortem</italic> amyloid pathology. Additionally, blood‐based biomarkers are being used in clinical trials supporting the development of new treatments to identify preclinical AD patients (e.g., TRAILBLAZER‐ALZ 3, AHEAD 3‐45),<xref rid="alz14567-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz14567-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> and will likely become standard for determining patient eligibility for novel preclinical therapies and evaluating treatment response.</p><p>Research into ocular biomarkers for AD diagnosis is ongoing, with early findings indicating potential for detecting AD biomarkers in the retina. Ocular biomarkers, such as retinal nerve fiber layer thickness, retinal ganglion cell loss, and retinal vascular changes, can identify AD before significant cognitive symptoms appear.<xref rid="alz14567-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Often regarded as the “window to the brain,” the retina is an extension of the nervous system with several direct connections to key brain regions. The retina also displays similarities to the brain's cellular composition, and several neurodegenerative disorders are known to have manifestations in the retina.<xref rid="alz14567-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Given that the retina is highly accessible via traditional ocular devices, it holds significant promise to be an AD biomarker.</p><p>Both blood‐based and ocular biomarkers could become transformative tools in the early detection of AD. However, considering the accessibility and performance of blood‐based tests, what will be the role of ocular biomarkers in the AD diagnostic paradigm? Here we present a perspective on the potential for ocular screening to become a standard clinical practice, including a review of the ocular technologies most likely to gain widespread use and the technical innovations and clinical evidence needed to support this approach.</p></sec><sec id="alz14567-sec-0040"><label>2</label><title>METHODS</title><p>To inform this perspective on the potential of ocular screening for early detection of AD, in‐depth 60 minute interviews were conducted with a range of specialists. These included neurologists, ophthalmologists, and optometrists with expertise in AD diagnostics, a high volume of prescribing, or both. A total of 23 key opinion leaders (KOLs) were interviewed, comprising 5 expert neurologists, 5 general neurologists, 3 PCPs, 5 expert ophthalmologists, and 5 high‐volume optometrists/ophthalmologists.</p><p>All interviews were conducted virtually and in a double‐blind manner by ClearView Healthcare Partners. The key screening criteria to identify each type of interviewee were based on their expertise and are as follows:
+<list list-type="bullet" id="alz14567-list-0002"><list-item><p>KOL neurologist: Must have ≥ 5 publications in the last 5 years related to AD diagnostics and must be a practicing physician with AD diagnostic clinical trial experience in the last 2 years.</p></list-item><list-item><p>General neurologist: Must be a board‐certified neurologist with &gt; 5 years of clinical experience and treat at least 100 AD patients per year.</p></list-item><list-item><p>PCP: Must be a board‐certified PCP with &gt; 5 years of clinical experience beyond training, who treats &gt; 200 patients per month and has referred/diagnosed AD patients.</p></list-item><list-item><p>Expert ophthalmologist: Must be a board‐certified ophthalmologist who has ≥ 5 peer‐reviewed publications in the last 5 years related to AD diagnostics and must be involved in purchasing decisions for diagnostic tools.</p></list-item><list-item><p>High‐volume optometrist/ophthalmologist: Must be board certified, treat at least 50 patients per week, and be involved in purchasing decisions for diagnostic tools.</p></list-item></list>
+</p><p>All interviewees were asked a series of questions within each of the following three categories: (1) the current AD testing landscape and its future evolution, (2) awareness and expectations of ocular testing, and (3) requirements necessary for adoption of ocular testing.</p><p>To assess interviewees’ perspectives on the present AD testing landscape, interviewees were asked to share their perception of current tools used for AD diagnosis, including blood‐based tests, across the following dimensions: performance, convenience, and cost/access. Additionally, participants were asked how they expect this landscape to evolve in the next 5 to 10 years, as well as what unmet needs they expect to persist.</p><p>To assess interviewees’ awareness of and expectations for ocular testing, participants were asked to share the value proposition they believe ocular technologies have in the screening and diagnosis of AD, as well as what they expect the role of ocular testing to be relative to blood‐based tests. Participants were then asked to describe segments of patients and segments of the optometrist and ophthalmologist markets that they believe would be more or less likely to adopt ocular tools.</p><p>To assess interviewees’ perspectives on the requirements for them to adopt ocular technologies in their own clinic, participants were asked to share their preferred imaging technologies and describe the required analytical performance (i.e., specificity, sensitivity), clinical evidence, and medical guidelines for them to adopt ocular technologies. Additionally, participants were asked to describe how the following operational factors might influence them to adopt ocular technologies in their clinical practice: upfront investment (i.e., cost, office space), required referral volume of relevant patients, and cost and reimbursement considerations.</p><p>Interview notes were collected by ClearView Healthcare Partners, and common themes among interviewees were extracted and synthesized. All descriptive statistics shared by participants were compiled and described as a range of values.</p><p>To further assess the potential of ocular screening for early detection of AD, the total addressable patient population was estimated across the following four use cases: (1) initial screening for preclinical AD in a general population, (2) use as a differential diagnostic tool for AD after a positive blood test in abnormal patient cases, (3) screening for preclinical AD in some segments of the general population referred for further workup, and (4) use in preventative treatment trials as a requirement after blood‐based diagnosis to confirm treatment eligibility. To estimate the total patient population in each use case, ClearView Healthcare Partners used a top‐down market sizing analysis, beginning with the total number of people in the United States between 55 to 85 years of age and then narrowing this population using a series of assumptions based either on publicly available data (e.g., a 2016 Harvard School of Public Health survey showed that 47% of Americans 65+ had interest in learning if they were likely to develop AD<xref rid="alz14567-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>) or data generated through KOL interviews (e.g., ≈ 40% of ophthalmologists and optometrists interviewed were receptive to screening for AD when there is no preclinical treatment available).</p></sec><sec id="alz14567-sec-0050"><label>3</label><title>BIOMARKER TESTING IN THE FUTURE</title><sec id="alz14567-sec-0060"><label>3.1</label><title>Near term</title><p>Blood‐based tests are expected to become the standard modality for the detection of amyloid and/or tau pathology in the differential diagnosis of AD. Blood‐based tests currently have superior technical specifications (i.e., sensitivity and specificity) to ocular diagnostics. Additionally, simple blood draw is more commonly used in primary settings of care (i.e., where most patients first present) compared to ocular diagnostics. However, while specialized ocular equipment is less common in primary settings of care, automated screening systems have been implemented in this setting for some conditions (e.g., diabetic retinopathy screening systems). It is possible for PCPs and neurologists to similarly integrate the necessary equipment in their clinics if ocular technologies demonstrate acceptable sensitivity and specificity and are able to streamline clinical care.</p><p>In the near term, eye specialists may be reluctant to identify patients eligible for an AD ocular test based on cognitive symptoms, and testing of healthy individuals (i.e., in the absence of cognitive symptoms) is not expected to be recommended or widely adopted due to the limited clinical actionability or availability of preclinical treatments. Hence, while an out‐of‐pocket market driven by highly motivated individuals who regularly see an eye specialist and are interested in assessing their AD risk may exist, this market will be dependent on patient pull rather than physicians’ willingness to test, representing a total addressable population of 2.5 to 5 million adults in the United States.<xref rid="alz14567-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz14567-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="alz14567-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p><p>In practice, ophthalmologists and optometrists who have adopted AD biomarker testing are likely to offer the test to patients &gt; 55 years of age during routine eye exams. Patients that elect to take the test are likely to be driven by their experience of AD in their family and/or their belief in lowering the risk of AD through lifestyle changes. If negative, patients may opt into AD ocular testing every 1 to 3 years, prompted by the eye specialist. If positive, ophthalmologists and optometrists will likely refer patients to their PCPs for continuous monitoring and guidance on lifestyle modifications. Future development of early AD symptoms will support further work‐up (e.g., blood test, cognitive tests, CT scan) and prompt referral to a neurologist.</p></sec><sec id="alz14567-sec-0070"><label>3.2</label><title>Long term</title><p>The availability of preclinical AD treatments (i.e., AD prevention) in the long term may make screening the general population at risk of developing AD a standard practice. Ocular testing may find a niche in screening select patients during routine eye exams, while blood‐based tests become integrated into routine or annual physicals (Figure <xref rid="alz14567-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="FIGURE" id="alz14567-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Potential future diagnostic paradigm for AD. In the current diagnostic paradigm for AD, digital tools are emerging for screening use cases, while blood‐based biomarkers are soon to become critical tools in differential diagnosis. Ocular technologies hold the most promise for the screening use case, to be used in tandem or potentially in place of digital screening tools. AD, Alzheimer's disease; CI, cognitive impairment; CSF, cerebrospinal fluid; CT, computed tomography; Dx, diagnosis; MCI, mild cognitive impairment; MRI, magnetic resonance tomography; PET, positron emission tomography.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-21-e14567-g002.jpg"/></fig><p>An estimated 4 to 8 million individuals, representing &lt; 10% of the total addressable market for blood‐based testing, may be suitable for ocular AD screening.<xref rid="alz14567-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz14567-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="alz14567-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> These patients might opt for ocular screening instead of, or in addition to, blood‐based tests under certain circumstances:
+<list list-type="bullet" id="alz14567-list-0003"><list-item><p>Individuals who see an eye doctor more regularly than a PCP or have a stronger relationship with their eye doctor;</p></list-item><list-item><p>Patients in underserved communities who visit community health clinics offering on‐site ocular screening;</p></list-item><list-item><p>Needle‐averse individuals who decline blood tests and are referred to an optometrist or ophthalmologist by their PCP;<xref rid="alz14567-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+</p></list-item><list-item><p>Those who, intentionally or unintentionally, undergo both screening methods.</p></list-item></list>
+</p></sec></sec><sec id="alz14567-sec-0080"><label>4</label><title>PROMISING OCULAR TECHNOLOGIES</title><p>Various ocular technologies, including optical coherence tomography (OCT), hyperspectral imaging (HSI), and fluorescence imaging, have been explored for AD. Among these, OCT and HSI show the most promise based on current research, with each having unique advantages and limitations.<xref rid="alz14567-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz14567-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="alz14567-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="alz14567-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Other ocular measurement systems (e.g., eye tracking) were considered out of scope for the evaluation.</p><sec id="alz14567-sec-0090"><label>4.1</label><title>Optical coherence tomography</title><p>OCT is a widely used imaging technique that captures cross‐sectional images of the retina, allowing measurement of its layers.<xref rid="alz14567-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Most optometry and ophthalmology practices already use OCT, suggesting that a preclinical AD test via OCT could fit well into existing workflows.</p><p>For AD, OCT may be able to detect structural changes in the retina, choroid, and ganglion cell layers correlated with Aβ. For example, several studies have shown retinal nerve fiber layer thinning and thinning of the inner plexiform layer of the ganglion cell layer are associated with clinical mild cognitive impairment (MCI) and AD, as well as amyloid status.<xref rid="alz14567-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="alz14567-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="alz14567-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="alz14567-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="alz14567-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="alz14567-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="alz14567-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="alz14567-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="alz14567-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="alz14567-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="alz14567-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="alz14567-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="alz14567-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="alz14567-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="alz14567-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="alz14567-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="alz14567-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="alz14567-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="alz14567-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="alz14567-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> Moreover, OCT's ability to measure neuroinflammation may offer a more specific AD biomarker and be more relevant upon validation of neuroinflammation‐targeting therapies.<xref rid="alz14567-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz14567-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="alz14567-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Current platforms have demonstrated 65% to 86% sensitivity and 55% to 75% specificity in patients with MCI, confirmed AD, and various other dementias.<xref rid="alz14567-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz14567-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+</p><p>While these studies are not definitive, they contribute to the large body of evidence suggesting that OCT examination of ocular structure changes holds significant potential in the diagnosis and screening of AD. However, it is important to emphasize that these changes can also indicate other neurodegenerative conditions like Huntington's disease and Parkinson's disease, as well as peripheral conditions including glaucoma, diabetes, and simply aging, raising concerns about specificity.<xref rid="alz14567-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="alz14567-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> Further scientific research exploring the structural ocular changes specific to other neurodegenerative disease indications will be critical to improving specificity for OCT in AD.<xref rid="alz14567-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz14567-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="alz14567-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+</p></sec><sec id="alz14567-sec-0100"><label>4.2</label><title>Hyperspectral imaging</title><p>HSI captures detailed spectral information from the retina, allowing for the identification of specific biomarkers like Aβ proteins. This technology uses multiple wavelengths of light to create a comprehensive image, or hypercube, that provides both spatial and spectral data.<xref rid="alz14567-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz14567-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="alz14567-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>
+</p><p>HSI's ability to detect retinal Aβ proteins offers a strong connection to AD pathology, making it a valuable diagnostic tool. However, HSI is still in its early stages, and most eye specialists are not very familiar with the technology, which presents greater barriers to integration into existing workflows. Current platforms have demonstrated ≈ 80% sensitivity and 60% to 85% specificity in patients with MCI or confirmed AD.<xref rid="alz14567-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="alz14567-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>
+</p><p>While OCT has clear workflow advantages and HSI has the potential to be more specific to AD, both technologies hold promise for early detection. Further validation through larger studies, the right patient population, and technological refinement are essential for widespread clinical adoption.</p></sec></sec><sec id="alz14567-sec-0110"><label>5</label><title>KEY REQUIREMENTS FOR OCULAR SCREENING IN AD</title><sec id="alz14567-sec-0120"><label>5.1</label><title>Market demand</title><p>For ocular screening to gain traction in the near term, there must be interest from adults aged 55+ in assessing their AD risk, despite the absence of preclinical treatments. This demographic likely includes health‐motivated individuals and those with a family history of AD. Current evidence on lifestyle modifications (e.g., diet, exercise) is significant but remains insufficient to prompt recommendations from key guidelines (e.g., American Academy of Neurology [AAN]). There are also substantial ethical concerns about creating worry in individuals who receive a positive result, particularly if they never develop AD and/or there is limited clinical actionability (i.e., due to lack of available, effective preclinical treatment). As such, the long‐term clinical utility of ocular screening hinges on the approval and reimbursement of a safe and effective preclinical AD therapy.</p></sec><sec id="alz14567-sec-0130"><label>5.2</label><title>Workflow</title><p>Ocular technologies must be easy to implement; enable fast, non‐invasive, and repeatable imaging; and require minimal clinician or technician training (Table <xref rid="alz14567-tbl-0001" ref-type="table">1</xref>). OCT is advantageous for its fast imaging time (&lt; 1 minute), non‐invasive nature, and widespread clinical use. While HSI can also be fast, HSI often necessitates eye dilation, lacks automation, and is not commonly used in clinics.</p><table-wrap position="float" id="alz14567-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Workflow, financial, and evidence requirements for ocular screening.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Workflow</th><th align="left" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Hardware</bold>
+</td><td align="left" rowspan="1" colspan="1">Non‐invasive, non‐contact, strong repeatability and reliability, existing equipment, broader utility</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Software</bold>
+</td><td align="left" rowspan="1" colspan="1">Minimal set‐up, seamless integration, results feed into EHR</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Process</bold>
+</td><td align="left" rowspan="1" colspan="1">No manual calibration, no eye dilation, process &lt; 5 minutes</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Training &amp; support</bold>
+</td><td align="left" rowspan="1" colspan="1">Minimal training required, easy‐to‐use by technicians, support services available</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Financial</th><th align="left" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Cost</bold>
+</td><td align="left" rowspan="1" colspan="1">
+<p>Near term: $100–$200</p>
+<p>Long term: Coverage by Medicare and major national plans</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Eye clinic profitability</bold>
+</td><td align="left" rowspan="1" colspan="1">Break‐even in &lt; 2 years</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Evidence</th><th align="left" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Sensitivity</bold>
+</td><td align="left" rowspan="1" colspan="1">90%–95%</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Specificity</bold>
+</td><td align="left" rowspan="1" colspan="1">75%–85%</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Comparator</bold>
+</td><td align="left" rowspan="1" colspan="1">Amyloid PET, tau PET, and/or prevailing blood‐based biomarkers (e.g., p‐tau‐217)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Endorsement</bold>
+</td><td align="left" rowspan="1" colspan="1">510(k) clearance, inclusion in AAN &amp; AAO guidelines, supported by KOLs, neurology and ophthalmology communities</td></tr></tbody></table><table-wrap-foot><fn id="alz14567-tbl1-note-0001"><p>Abbreviations: AAO, American Academy of Ophthalmology; AAN, American Academy of Neurology; EHR, electronic health record; KOL, key opinion leader; PET, positron emission tomography; p‐tau, phosphorylated tau.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>For AD risk analysis, OCT software can be integrated into existing systems or developed as standalone software, though integration may face challenges due to proprietary concerns. HSI can either use a separate hardware attachment with integrated software or a new standalone machine, although the latter may necessitate higher costs.</p><p>Beyond ease of implementation, ocular technologies will also need to establish connectivity to electronic health records for long‐term capture of results to support further work‐up, referrals, and ultimately improve patient care.</p></sec><sec id="alz14567-sec-0140"><label>5.3</label><title>Financial</title><p>Ocular technologies will need to be profitable for ophthalmology and optometry clinics within 2 years of implementation. Limiting up‐front capital investment facilitates a faster break‐even point, favoring OCT technology. In the near term, elective AD screening will likely incur an out‐of‐pocket cost of $100to $200 (in line with current elective genetic tests), limiting the overall volume of tests conducted. However, insurance coverage would be expected upon the approval and reimbursement of preclinical AD therapies, supporting greater volume and overall profitability (Table <xref rid="alz14567-tbl-0001" ref-type="table">1</xref>).<xref rid="alz14567-fig-0002" ref-type="fig"> </xref>, <xref rid="alz14567-fig-0003" ref-type="fig"> </xref>
+</p></sec><sec id="alz14567-sec-0150"><label>5.4</label><title>Evidence</title><p>Ocular technologies used for screening must meet high sensitivity (90%–95%) and moderate specificity (75%–85%) standards. If a secondary screening tool is in place, such as blood‐based tests, physicians are likely to accept lower sensitivity (e.g., ≈ 85%) given secondary confirmation.</p><p>To drive adoption, ocular technologies must also demonstrate concordance with current approaches that detect AD pathology (e.g., amyloid PET, tau PET, or plasma p‐tau217), specifically in non‐symptomatic patients. US Food and Drug Administration 510(k) clearance and endorsement from both KOLs and neurology and ophthalmology communities will support inclusion in clinical guidelines (e.g., AAN and American Academy of Ophthalmology [AAO]) and widespread awareness and adoption of ocular biomarker testing (Table <xref rid="alz14567-tbl-0001" ref-type="table">1</xref>).</p></sec><sec id="alz14567-sec-0160"><label>5.5</label><title>The road ahead</title><p>Today, the demand and performance of existing OCT and HSI technologies in the market fall short of the requirements for screening needed to compete with blood‐based testing. They currently focus on diagnostic applications rather than screening preclinical AD​. HSI particularly poses significant implementation and financial hurdles for adoption. The existence of preclinical AD therapy that drives physician demand for screening, together with significant technical improvement in screening for preclinical AD,​ can capture a small proportion (&lt; 10%) of the blood‐based screening market.</p></sec></sec><sec id="alz14567-sec-0170"><label>6</label><title>WAYS TO UNLOCK FURTHER OPPORTUNITY FOR OCULAR BIOMARKERS</title><p>Ocular technologies hold exciting potential to reach a larger market, beyond being an alternative screening method to blood for niche populations, through several key drivers of differentiation (Figure <xref rid="alz14567-fig-0002" ref-type="fig">2</xref>):
+<list list-type="bullet" id="alz14567-list-0004"><list-item><p>Earlier detection of preclinical AD: If amyloid appears in detectable limits earlier in the retina, ocular biomarkers could potentially detect preclinical AD significantly earlier than blood tests. This would result in ocular screening being a preferred method for early detection, leading to more referrals from neurologists and PCPs.</p></list-item><list-item><p>Preclinical treatment eligibility: Inclusion in preclinical AD trials to establish the clinical utility of ocular technologies in determining therapeutic eligibility would enhance the overall value proposition of ocular technology.</p></list-item><list-item><p>Differential diagnosis of neurodegenerative diseases: Ocular technologies that have the potential to distinguish AD from other neurodegenerative diseases, such as Lewy body dementia or frontotemporal dementia, would increase the value proposition and utility of ocular diagnostics, and thus increase the willingness of eye clinics to adopt the technology.</p></list-item></list>
+</p><fig position="float" fig-type="FIGURE" id="alz14567-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Ways to further unlock the opportunity for ocular biomarkers. If sufficient evidence demonstrates that ocular technologies can be used in early screening for preclinical AD, the opportunity for ocular biomarkers will increase significantly. Inclusion of ocular biomarkers as a screening tool for preclinical AD clinical trials will result in a modest increase in the ocular biomarker market, while evidence demonstrating ocular biomarkers as a tool for differential diagnosis of other neurodegenerative diseases will have a small but still relevant impact on the ocular biomarker market. AD, Alzheimer's disease; PCP, primary care provider.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-21-e14567-g003.jpg"/></fig><p>Exploring these opportunities for differentiation may open a larger role for ocular biomarkers in advancing early detection and differential diagnosis of neurodegenerative diseases (Figure <xref rid="alz14567-fig-0003" ref-type="fig">3</xref>).</p><fig position="float" fig-type="FIGURE" id="alz14567-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Illustrative path to investment for ocular technologies. Increased investment in ocular technologies will be driven by clinical trial evidence supporting preclinical AD therapies and evidence demonstrating that ocular technologies are capable of meeting technical specifications required for adoption. AD, Alzheimer's disease; POC, proof of concept.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-21-e14567-g001.jpg"/></fig></sec><sec id="alz14567-sec-0180"><label>7</label><title>CONCLUSIONS</title><p>Blood‐based testing is expected to become the primary method for differential diagnosis of AD. In the long term, therapies for AD prevention may increase the need for blood‐based testing to screen for AD risk in the general population. Ocular testing offers a non‐invasive alternative to identify preclinical patients in different clinical settings (i.e., optometry and ophthalmology clinics), including patients with limited access to blood‐based testing. Given the frequency of routine eye exams in the aging population, the market for ocular diagnostics could be substantial.</p><p>Ocular technologies have yet to achieve the necessary standards for widespread adoption as an AD screening tool. While there are no obvious drivers behind the lack of definitive results for ocular technologies, we hypothesize that larger sample size studies that leverage tests and algorithms that are trained and validated with distinct datasets will elucidate whether the lack of definitive results is due to issues with analysis or source data. To play a role in the future AD diagnostic paradigm, two critical conditions must be met:
+<list list-type="bullet" id="alz14567-list-0005"><list-item><p>Ocular technologies must meet the technical requirements (e.g., 90%–95% sensitivity, 75%–85% specificity) for preclinical AD screening and be comparable to blood‐based tests.</p></list-item><list-item><p>Ocular technologies must demonstrate their clinical utility and actionability with available preclinical AD therapies.</p></list-item></list>
+</p><p>Upon fulfillment of these criteria, additional investment in ocular screening may focus on:
+<list list-type="bullet" id="alz14567-list-0006"><list-item><p>Evidence generation: studies demonstrating improved long‐term patient outcomes, reduced health‐care costs, and clinical utility of ocular screening.</p></list-item><list-item><p>Automation support: development of applications to automate workflows and risk analyses.</p></list-item></list>
+</p><p>It is important to note that some of the highlighted challenges that limit ocular adoption also slow the adoption of blood‐based biomarkers. Physicians have been hesitant to integrate AD screening tools into their clinical workups given the limited number of therapies available to act on any positive results. Blood tests for AD can also be expensive, ranging from $200 to &gt; $1000, and are not currently reimbursed at rates to cover those costs.<xref rid="alz14567-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>, <xref rid="alz14567-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> Some patients may find blood draws invasive or they may be contraindicated based on other conditions. There are no point of care blood tests, as testing is typically done in a central or non‐local lab, which can take multiple days to return results. Additionally, while evidence supporting these new diagnostic modalities is growing, there remains limited information on the real‐world use of these tools. Continued investment and future scientific advances in this space will further erode the barriers to widespread adoption.</p><p>This work focused on the United States, as novel biotechnologies are often first available in the United States, and the region serves as the largest geographic market segment for most commercial players.<xref rid="alz14567-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> In addition, constraining the scope of this work to one geographic market was necessary to ensure that the analysis was specific to a population, as market needs and dynamics vary significantly from country to country. Nonetheless, consideration of ocular biomarkers in a global context, particularly in countries with different regulatory infrastructures, is an important direction for future research and discussions. For example, some companies today are developing low‐cost ocular technologies that are meant to be applied in the developing world.<xref rid="alz14567-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> Innovations like these will continue to emerge and will require further investigation on their potential global impact beyond the United States.</p><p>While there is still significant progress to be made, ocular technologies hold considerable promise as an alternative to blood‐based testing. With ongoing technological advancements, ocular biomarkers could become a scalable, accessible tool that can be integrated into routine eye exams, making early detection more feasible and improving outcomes for at‐risk individuals.</p></sec><sec sec-type="COI-statement" id="alz14567-sec-0200"><title>CONFLICT OF INTEREST STATEMENT</title><p>All authors declare no conflicts of interest. Author disclosures are available in the <xref rid="alz14567-supinfo-0001" ref-type="">supporting information</xref>.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz14567-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz14567-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14567-s001.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz14567-sec-0190"><title>ACKNOWLEDGMENTS</title><p>The authors would wish to thank the many neurologists, optometrists, and subject matter experts interviewed for this study. We would also like to note and thank Niranjan Bose, Laura Nisenbaum, Mark Roithmayr, and Howard Fillit for their leadership in support of this work. The authors would like to thank the Alzheimer's Drug Discovery Foundation's Diagnostics Accelerator for their funding support of this research.</p></ack><ref-list id="alz14567-bibl-0001"><title>REFERENCES</title><ref id="alz14567-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz14567-cit-0001">
+<string-name name-style="western">
+<surname>Rajan</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weuve</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barnes</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McAninch</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evans</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Population estimate of people with clinical Alzheimer's disease and mild cognitive impairment in the United States (2020‐2060)</article-title>. <source>Alzheimers Dement</source>. <year>2021</year>;<volume>17</volume>:<fpage>1966</fpage>‐<lpage>1975</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12362</pub-id>
+<pub-id pub-id-type="pmid">34043283</pub-id>
+<pub-id pub-id-type="pmcid">PMC9013315</pub-id></mixed-citation></ref><ref id="alz14567-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz14567-cit-0002">
+<article-title>2024 Alzheimer's disease facts and figures</article-title>. <source>Alzheimers Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>3708</fpage>‐<lpage>3821</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13809</pub-id>
+<pub-id pub-id-type="pmid">38689398</pub-id>
+<pub-id pub-id-type="pmcid">PMC11095490</pub-id></mixed-citation></ref><ref id="alz14567-bib-0003"><label>3</label><mixed-citation publication-type="book" id="alz14567-cit-0003">
+<collab collab-type="authors">Leqembi</collab>
+. <source>Prescribing Information</source>. <publisher-name>Eisai Inc. and Biogen</publisher-name>; <year>2023</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.leqembi.com/-/media/Files/Leqembi/Prescribing-Information.pdf" ext-link-type="uri">https://www.leqembi.com/‐/media/Files/Leqembi/Prescribing‐Information.pdf</ext-link>
+</mixed-citation></ref><ref id="alz14567-bib-0004"><label>4</label><mixed-citation publication-type="book" id="alz14567-cit-0004">
+<collab collab-type="authors">Kisunla</collab>
+. <source>Prescribing Information</source>. <publisher-name>Eli Lilly and Company</publisher-name>; <year>2024</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://uspl.lilly.com/kisunla/kisunla.html#pi" ext-link-type="uri">https://uspl.lilly.com/kisunla/kisunla.html#pi</ext-link>
+</mixed-citation></ref><ref id="alz14567-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz14567-cit-0005">
+<string-name name-style="western">
+<surname>Hampel</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cummings</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Blood‐based biomarkers for Alzheimer's disease: current state and future use in a transformed global healthcare landscape</article-title>. <source>Neuron</source>. <year>2023</year>;<volume>111</volume>:<fpage>2781</fpage>‐<lpage>2799</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neuron.2023.05.017</pub-id>
+<pub-id pub-id-type="pmid">37295421</pub-id>
+<pub-id pub-id-type="pmcid">PMC10720399</pub-id></mixed-citation></ref><ref id="alz14567-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz14567-cit-0006">
+<string-name name-style="western">
+<surname>Schindler</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Atri</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The role of cerebrospinal fluid and other biomarker modalities in the Alzheimer's disease diagnostic revolution</article-title>. <source>Nature Aging</source>. <year>2023</year>;<volume>3</volume>:<fpage>460</fpage>‐<lpage>462</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s43587-023-00400-6</pub-id>
+<pub-id pub-id-type="pmid">37202514</pub-id>
+<pub-id pub-id-type="pmcid">PMC10720501</pub-id></mixed-citation></ref><ref id="alz14567-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz14567-cit-0007">
+<string-name name-style="western">
+<surname>Hansson</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Edelmayer</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boxer</surname>
+<given-names>AL</given-names>
+</string-name>, et al. <article-title>The Alzheimer's association appropriate use recommendations for blood biomarkers in Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2022</year>;<volume>18</volume>:<fpage>2669</fpage>‐<lpage>2686</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12756</pub-id>
+<pub-id pub-id-type="pmid">35908251</pub-id>
+<pub-id pub-id-type="pmcid">PMC10087669</pub-id></mixed-citation></ref><ref id="alz14567-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz14567-cit-0008">
+<string-name name-style="western">
+<surname>Palmqvist</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tideman</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mattsson‐Carlgren</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Blood biomarkers to detect Alzheimer disease in primary care and secondary care</article-title>. <source>JAMA</source>. <year>2024</year>;<volume>332</volume>:<fpage>1245</fpage>‐<lpage>1257</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2024.13855</pub-id>
+<pub-id pub-id-type="pmid">39068545</pub-id>
+<pub-id pub-id-type="pmcid">PMC11284636</pub-id></mixed-citation></ref><ref id="alz14567-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz14567-cit-0009">
+<string-name name-style="western">
+<surname>Andrade‐Guerrero</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santiago‐Balmaseda</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeronimo‐Aguilar</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Alzheimer's disease: an updated overview of its genetics</article-title>. <source>Int J Mol Sci</source>. <year>2023</year>;<volume>24</volume>:<fpage>3754</fpage>.<pub-id pub-id-type="pmid">36835161</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms24043754</pub-id><pub-id pub-id-type="pmcid">PMC9966419</pub-id></mixed-citation></ref><ref id="alz14567-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz14567-cit-0010">
+<string-name name-style="western">
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brum</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Molfetta</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Diagnostic accuracy of a plasma phosphorylated tau 217 immunoassay for Alzheimer disease pathology</article-title>. <source>JAMA Neurol</source>. <year>2024</year>;<volume>81</volume>:<fpage>255</fpage>‐<lpage>263</lpage>.<pub-id pub-id-type="pmid">38252443</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaneurol.2023.5319</pub-id><pub-id pub-id-type="pmcid">PMC10804282</pub-id></mixed-citation></ref><ref id="alz14567-bib-0011"><label>11</label><mixed-citation publication-type="miscellaneous" id="alz14567-cit-0011">
+<string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vasko</surname>
+<given-names>A‐J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khare</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>A Blood Test for p‐Tau 217 to Aid in the Diagnostic Evaluation for Alzheimer's Disease</article-title>. <year>2023</year>. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.lucentdiagnostics.com/wp-content/uploads/2024/05/04.07_LucentAD_White_Paper.pdf" ext-link-type="uri">https://www.lucentdiagnostics.com/wp‐content/uploads/2024/05/04.07_LucentAD_White_Paper.pdf</ext-link>
+</mixed-citation></ref><ref id="alz14567-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz14567-cit-0012">
+<string-name name-style="western">
+<surname>Meyer</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirmess</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eastwood</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Clinical validation of the PrecivityAD2 blood test: a mass spectrometry‐based test with algorithm combining %p‐tau217 and Aβ42/40 ratio to identify presence of brain amyloid</article-title>. <source>Alzheimer's &amp; Dementia</source>. <year>2024</year>;<volume>20</volume>:<fpage>3179</fpage>‐<lpage>3192</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13764</pub-id>
+<pub-id pub-id-type="pmcid">PMC11095426</pub-id><pub-id pub-id-type="pmid">38491912</pub-id></mixed-citation></ref><ref id="alz14567-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz14567-cit-0013">
+<string-name name-style="western">
+<surname>Clark</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pontecorvo</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, et al. <article-title>Cerebral PET with florbetapir compared with neuropathology at autopsy for detection of neuritic amyloid‐β plaques: a prospective cohort study</article-title>. <source>Lancet Neurol</source>. <year>2012</year>;<volume>11</volume>:<fpage>669</fpage>‐<lpage>678</lpage>. doi:<pub-id pub-id-type="doi">10.1016/s1474-4422(12)70142-4</pub-id>
+<pub-id pub-id-type="pmid">22749065</pub-id>
+</mixed-citation></ref><ref id="alz14567-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz14567-cit-0014">
+<string-name name-style="western">
+<surname>Curtis</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gamez</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singh</surname>
+<given-names>U</given-names>
+</string-name>, et al. <article-title>Phase 3 trial of flutemetamol labeled with radioactive fluorine 18 imaging and neuritic plaque density</article-title>. <source>JAMA Neurol</source>. <year>2015</year>;<volume>72</volume>:<fpage>287</fpage>‐<lpage>294</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2014.4144</pub-id>
+<pub-id pub-id-type="pmid">25622185</pub-id>
+</mixed-citation></ref><ref id="alz14567-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz14567-cit-0015">
+<string-name name-style="western">
+<surname>Sabri</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabbagh</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seibyl</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Florbetaben PET imaging to detect amyloid beta plaques in Alzheimer's disease: phase 3 study</article-title>. <source>Alzheimers Dement</source>. <year>2015</year>;<volume>11</volume>:<fpage>964</fpage>‐<lpage>974</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2015.02.004</pub-id>
+<pub-id pub-id-type="pmid">25824567</pub-id>
+</mixed-citation></ref><ref id="alz14567-bib-0016"><label>16</label><mixed-citation publication-type="miscellaneous" id="alz14567-cit-0016">
+<collab collab-type="authors">Clinicaltrials.gov</collab>
+. <article-title>A Donanemab (LY3002813) Study in Participants with Preclinical Alzheimer's Disease (TRAILBLAZER‐ALZ 3)</article-title>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05026866">NCT05026866</ext-link>. December 16, 2024.</mixed-citation></ref><ref id="alz14567-bib-0017"><label>17</label><mixed-citation publication-type="miscellaneous" id="alz14567-cit-0017">
+<collab collab-type="authors">Clinicaltrials.gov</collab>
+. <article-title>AHEAD 3‐45 Study: A Study to Evaluate Efficacy and Safety of Treatment With Lecanemab in Participants With Preclinical Alzheimer's Disease and Elevated Amyloid and Also in Participants With Early Preclinical Alzheimer's Disease and Intermediate Amyloid</article-title>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04468659">NCT04468659</ext-link>. Accessed: December 16, 2024.</mixed-citation></ref><ref id="alz14567-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz14567-cit-0018">
+<string-name name-style="western">
+<surname>Moon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seo</surname>
+<given-names>SK</given-names>
+</string-name>, et al. <article-title>Comparison of retinal structural and neurovascular changes between patients with and without amyloid pathology</article-title>. <source>J Clin Med</source>. <year>2023</year>;<volume>12</volume>:<fpage>1310</fpage>.<pub-id pub-id-type="pmid">36835845</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm12041310</pub-id><pub-id pub-id-type="pmcid">PMC9964845</pub-id></mixed-citation></ref><ref id="alz14567-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz14567-cit-0019">
+<string-name name-style="western">
+<surname>London</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benhar</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwartz</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The retina as a window to the brain—from eye research to CNS disorders</article-title>. <source>Nat Rev Neurol</source>. <year>2013</year>;<volume>9</volume>:<fpage>44</fpage>‐<lpage>53</lpage>. doi:<pub-id pub-id-type="doi">10.1038/nrneurol.2012.227</pub-id>
+<pub-id pub-id-type="pmid">23165340</pub-id>
+</mixed-citation></ref><ref id="alz14567-bib-0020"><label>20</label><mixed-citation publication-type="miscellaneous" id="alz14567-cit-0020">
+<collab collab-type="authors">Harvard T.H. Chan School of Public Health</collab>
+. <article-title>The Public and Genetic Editing, Testing, and Therapy</article-title>. . Available from. Accessed: December 16, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://content.sph.harvard.edu/wwwhsph/sites/94/2016/01/STAT-Harvard-Poll-Jan-2016-Genetic-Technology.pdf" ext-link-type="uri">https://content.sph.harvard.edu/wwwhsph/sites/94/2016/01/STAT‐Harvard‐Poll‐Jan‐2016‐Genetic‐Technology.pdf</ext-link>
+</mixed-citation></ref><ref id="alz14567-bib-0021"><label>21</label><mixed-citation publication-type="miscellaneous" id="alz14567-cit-0021">
+<collab collab-type="authors">Bureau, US Census</collab>
+. <article-title>Available from: census.gov</article-title>. Accessed: December 16, 2024.</mixed-citation></ref><ref id="alz14567-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz14567-cit-0022">
+<string-name name-style="western">
+<surname>Manly</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langa</surname>
+<given-names>KM</given-names>
+</string-name>, et al. <article-title>Estimating the prevalence of dementia and mild cognitive impairment in the US: the 2016 health and retirement study harmonized cognitive assessment protocol project</article-title>. <source>JAMA Neurol</source>. <year>2022</year>;<volume>79</volume>:<fpage>1242</fpage>‐<lpage>1249</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2022.3543</pub-id>
+<pub-id pub-id-type="pmid">36279130</pub-id>
+<pub-id pub-id-type="pmcid">PMC9593315</pub-id></mixed-citation></ref><ref id="alz14567-bib-0023"><label>23</label><mixed-citation publication-type="miscellaneous" id="alz14567-cit-0023">
+<collab collab-type="authors">University of Michigan</collab>
+. <article-title>National Poll on Healthy Aging</article-title>. Accessed: December 16, 2024. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.healthyagingpoll.org" ext-link-type="uri">https://www.healthyagingpoll.org</ext-link>
+</mixed-citation></ref><ref id="alz14567-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz14567-cit-0024">
+<string-name name-style="western">
+<surname>Alsbrooks</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoerauf</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Prevalence, causes, impacts, and management of needle phobia: an international survey of a general adult population</article-title>. <source>PLoS ONE</source>. <year>2022</year>;<volume>17</volume>:<elocation-id>e0276814</elocation-id>.<pub-id pub-id-type="pmid">36409734</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0276814</pub-id><pub-id pub-id-type="pmcid">PMC9678288</pub-id></mixed-citation></ref><ref id="alz14567-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz14567-cit-0025">
+<string-name name-style="western">
+<surname>More</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beach</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McClelland</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mokhtarzadeh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vince</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>In vivo assessment of retinal biomarkers by hyperspectral imaging: early detection of Alzheimer's disease</article-title>. <source>ACS Chem Neurosci</source>. <year>2019</year>;<volume>10</volume>:<fpage>4492</fpage>‐<lpage>4501</lpage>.<pub-id pub-id-type="pmid">31603648</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acschemneuro.9b00331</pub-id></mixed-citation></ref><ref id="alz14567-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz14567-cit-0026">
+<string-name name-style="western">
+<surname>Sharafi</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sylvestre</surname>
+<given-names>J‐P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chevrefils</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Vascular retinal biomarkers improves the detection of the likely cerebral amyloid status from hyperspectral retinal images</article-title>. <source>Alzheimers Dement: Translational Research &amp; Clinical Interventions</source>. <year>2019</year>;<volume>5</volume>:<fpage>610</fpage>‐<lpage>617</lpage>.<pub-id pub-id-type="pmid">31650017</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.trci.2019.09.006</pub-id><pub-id pub-id-type="pmcid">PMC6804547</pub-id></mixed-citation></ref><ref id="alz14567-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz14567-cit-0027">
+<string-name name-style="western">
+<surname>Frost</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martins</surname>
+<given-names>RN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kanagasingam</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Ocular biomarkers for early detection of Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2010</year>;<volume>22</volume>:<fpage>1</fpage>‐<lpage>16</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-2010-100819</pub-id><pub-id pub-id-type="pmid">20847434</pub-id></mixed-citation></ref><ref id="alz14567-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz14567-cit-0028">
+<string-name name-style="western">
+<surname>Chan</surname>
+<given-names>VT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Spectral‐domain OCT measurements in Alzheimer's disease: a systematic review and meta‐analysis</article-title>. <source>Ophthalmology</source>. <year>2019</year>;<volume>126</volume>:<fpage>497</fpage>‐<lpage>510</lpage>.<pub-id pub-id-type="pmid">30114417</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ophtha.2018.08.009</pub-id><pub-id pub-id-type="pmcid">PMC6424641</pub-id></mixed-citation></ref><ref id="alz14567-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz14567-cit-0029">
+<string-name name-style="western">
+<surname>Polo</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodrigo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia‐Martin</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Visual dysfunction and its correlation with retinal changes in patients with Alzheimer's disease</article-title>. <source>Eye</source>. <year>2017</year>;<volume>31</volume>:<fpage>1034</fpage>‐<lpage>1041</lpage>.<pub-id pub-id-type="pmid">28282060</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/eye.2017.23</pub-id><pub-id pub-id-type="pmcid">PMC5519267</pub-id></mixed-citation></ref><ref id="alz14567-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz14567-cit-0030">
+<string-name name-style="western">
+<surname>Parisi</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Restuccia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fattapposta</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mina</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bucci</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pierelli</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Morphological and functional retinal impairment in Alzheimer's disease patients</article-title>. <source>Clin Neurophysiol</source>. <year>2001</year>;<volume>112</volume>:<fpage>1860</fpage>‐<lpage>1867</lpage>.<pub-id pub-id-type="pmid">11595144</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1388-2457(01)00620-4</pub-id></mixed-citation></ref><ref id="alz14567-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz14567-cit-0031">
+<string-name name-style="western">
+<surname>Parisi</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manni</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spadaro</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Correlation between morphological and functional retinal impairment in multiple sclerosis patients</article-title>. <source>Invest Ophthalmol Vis Sci</source>. <year>1999</year>;<volume>40</volume>:<fpage>2520</fpage>‐<lpage>2527</lpage>.<pub-id pub-id-type="pmid">10509645</pub-id>
+</mixed-citation></ref><ref id="alz14567-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz14567-cit-0032">
+<string-name name-style="western">
+<surname>Paquet</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boissonnot</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roger</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dighiero</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gil</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hugon</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Abnormal retinal thickness in patients with mild cognitive impairment and Alzheimer's disease</article-title>. <source>Neurosci Lett</source>. <year>2007</year>;<volume>420</volume>:<fpage>97</fpage>‐<lpage>99</lpage>.<pub-id pub-id-type="pmid">17543991</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neulet.2007.02.090</pub-id></mixed-citation></ref><ref id="alz14567-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz14567-cit-0033">
+<string-name name-style="western">
+<surname>Oktem</surname>
+<given-names>EO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Derle</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kibaroglu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oktem</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akkoyun</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Can</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>The relationship between the degree of cognitive impairment and retinal nerve fiber layer thickness</article-title>. <source>Neurolog Sci</source>. <year>2015</year>;<volume>36</volume>:<fpage>1141</fpage>‐<lpage>1146</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10072-014-2055-3</pub-id><pub-id pub-id-type="pmid">25575807</pub-id></mixed-citation></ref><ref id="alz14567-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz14567-cit-0034">
+<string-name name-style="western">
+<surname>Moreno‐Ramos</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benito‐León</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Villarejo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bermejo‐Pareja</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Retinal nerve fiber layer thinning in dementia associated with Parkinson's disease, dementia with Lewy bodies, and Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2013</year>;<volume>34</volume>:<fpage>659</fpage>‐<lpage>664</lpage>.<pub-id pub-id-type="pmid">23271313</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-121975</pub-id></mixed-citation></ref><ref id="alz14567-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz14567-cit-0035">
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Retinal nerve fiber layer structure abnormalities in early Alzheimer's disease: evidence in optical coherence tomography</article-title>. <source>Neurosci Lett</source>. <year>2010</year>;<volume>480</volume>:<fpage>69</fpage>‐<lpage>72</lpage>.<pub-id pub-id-type="pmid">20609426</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neulet.2010.06.006</pub-id></mixed-citation></ref><ref id="alz14567-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz14567-cit-0036">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Thinner changes of the retinal nerve fiber layer in patients with mild cognitive impairment and Alzheimer's disease</article-title>. <source>BMC neurology</source>. <year>2015</year>;<volume>15</volume>:<fpage>1</fpage>‐<lpage>5</lpage>.<pub-id pub-id-type="pmid">25886372</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12883-015-0268-6</pub-id><pub-id pub-id-type="pmcid">PMC4342899</pub-id></mixed-citation></ref><ref id="alz14567-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz14567-cit-0037">
+<string-name name-style="western">
+<surname>La Morgia</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ross‐Cisneros</surname>
+<given-names>FN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koronyo</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Melanopsin retinal ganglion cell loss in Alzheimer disease</article-title>. <source>Ann Neurol</source>. <year>2016</year>;<volume>79</volume>:<fpage>90</fpage>‐<lpage>109</lpage>.<pub-id pub-id-type="pmid">26505992</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.24548</pub-id><pub-id pub-id-type="pmcid">PMC4737313</pub-id></mixed-citation></ref><ref id="alz14567-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz14567-cit-0038">
+<string-name name-style="western">
+<surname>Kirbas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turkyilmaz</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anlar</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tufekci</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Durmus</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Retinal nerve fiber layer thickness in patients with Alzheimer disease</article-title>. <source>J Neuroophthalmol</source>. <year>2013</year>;<volume>33</volume>:<fpage>58</fpage>‐<lpage>61</lpage>.<pub-id pub-id-type="pmid">22918296</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/WNO.0b013e318267fd5f</pub-id></mixed-citation></ref><ref id="alz14567-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz14567-cit-0039">
+<string-name name-style="western">
+<surname>Kesler</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vakhapova</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Korczyn</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naftaliev</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neudorfer</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Retinal thickness in patients with mild cognitive impairment and Alzheimer's disease</article-title>. <source>Clin Neurol Neurosurg</source>. <year>2011</year>;<volume>113</volume>:<fpage>523</fpage>‐<lpage>526</lpage>.<pub-id pub-id-type="pmid">21454010</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clineuro.2011.02.014</pub-id></mixed-citation></ref><ref id="alz14567-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz14567-cit-0040">
+<string-name name-style="western">
+<surname>Iseri</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altinas</surname>
+<given-names>Ö</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tokay</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yüksel</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Relationship between cognitive impairment and retinal morphological and visual functional abnormalities in Alzheimer disease</article-title>. <source>J Neuroophthalmol</source>. <year>2006</year>;<volume>26</volume>:<fpage>18</fpage>‐<lpage>24</lpage>.<pub-id pub-id-type="pmid">16518161</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/01.wno.0000204645.56873.26</pub-id></mixed-citation></ref><ref id="alz14567-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz14567-cit-0041">
+<string-name name-style="western">
+<surname>Güneş</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Demirci</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tök</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tök</surname>
+<given-names>Ö</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Demirci</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Evaluation of retinal nerve fiber layer thickness in Alzheimer disease usingspectral‐domain optical coherence tomography</article-title>. <source>Turk J Med Sci</source>. <year>2015</year>;<volume>45</volume>:<fpage>1094</fpage>‐<lpage>1097</lpage>.<pub-id pub-id-type="pmid">26738353</pub-id>
+</mixed-citation></ref><ref id="alz14567-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz14567-cit-0042">
+<string-name name-style="western">
+<surname>Gao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bai</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Abnormal retinal nerve fiber layer thickness and macula lutea in patients with mild cognitive impairment and Alzheimer's disease</article-title>. <source>Arch Gerontol Geriatr</source>. <year>2015</year>;<volume>60</volume>:<fpage>162</fpage>‐<lpage>167</lpage>.<pub-id pub-id-type="pmid">25459918</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.archger.2014.10.011</pub-id></mixed-citation></ref><ref id="alz14567-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz14567-cit-0043">
+<string-name name-style="western">
+<surname>Ferrari</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>S‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Magnani</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ambrosi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Comi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leocani</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Optical coherence tomography reveals retinal neuroaxonal thinning in frontotemporal dementia as in Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2017</year>;<volume>56</volume>:<fpage>1101</fpage>‐<lpage>1107</lpage>.<pub-id pub-id-type="pmid">28106555</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-160886</pub-id></mixed-citation></ref><ref id="alz14567-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz14567-cit-0044">
+<string-name name-style="western">
+<surname>Eraslan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cerman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cekic</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Neurodegeneration in ocular and central nervous systems: optical coherence tomography study in normal‐tension glaucoma and Alzheimer disease</article-title>. <source>Turk J Med Sci</source>. <year>2015</year>;<volume>45</volume>:<fpage>1106</fpage>‐<lpage>1114</lpage>.<pub-id pub-id-type="pmid">26738355</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3906/sag-1406-145</pub-id></mixed-citation></ref><ref id="alz14567-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz14567-cit-0045">
+<string-name name-style="western">
+<surname>Cunha</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopes</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Costa‐Cunha</surname>
+<given-names>LVF</given-names>
+</string-name>, et al. <article-title>Macular thickness measurements with frequency domain‐OCT for quantification of retinal neural loss and its correlation with cognitive impairment in Alzheimerʼs disease</article-title>. <source>PLoS ONE</source>. <year>2016</year>;<volume>11</volume>:<elocation-id>e0153830</elocation-id>.<pub-id pub-id-type="pmid">27104962</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0153830</pub-id><pub-id pub-id-type="pmcid">PMC4841530</pub-id></mixed-citation></ref><ref id="alz14567-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz14567-cit-0046">
+<string-name name-style="western">
+<surname>Cunha</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Proença</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dias‐Santos</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>OCT in Alzheimer's disease: thinning of the RNFL and superior hemiretina</article-title>. <source>Graefes Arch Clin Exp Ophthalmol</source>. <year>2017</year>;<volume>255</volume>:<fpage>1827</fpage>‐<lpage>1835</lpage>.<pub-id pub-id-type="pmid">28643042</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00417-017-3715-9</pub-id></mixed-citation></ref><ref id="alz14567-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="alz14567-cit-0047">
+<string-name name-style="western">
+<surname>Cheung</surname>
+<given-names>CY‐L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ong</surname>
+<given-names>YT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hilal</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Retinal ganglion cell analysis using high‐definition optical coherence tomography in patients with mild cognitive impairment and Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2015</year>;<volume>45</volume>:<fpage>45</fpage>‐<lpage>56</lpage>.<pub-id pub-id-type="pmid">25428254</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-141659</pub-id></mixed-citation></ref><ref id="alz14567-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="alz14567-cit-0048">
+<string-name name-style="western">
+<surname>Bambo</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia‐Martin</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gutierrez‐Ruiz</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Analysis of optic disk color changes in Alzheimer's disease: a potential new biomarker</article-title>. <source>Clin Neurol Neurosurg</source>. <year>2015</year>;<volume>132</volume>:<fpage>68</fpage>‐<lpage>73</lpage>.<pub-id pub-id-type="pmid">25797847</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clineuro.2015.02.016</pub-id></mixed-citation></ref><ref id="alz14567-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="alz14567-cit-0049">
+<string-name name-style="western">
+<surname>Goldstein</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilke</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goodman</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nilan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sadowsky</surname>
+<given-names>CH</given-names>
+</string-name>. <article-title>Pre‐pivotal clinical study of β‐amyloid in the ocular lens by Sapphire II‐aftobetin eye scan: correlation with amyloid PET imaging in mild cognitive impairment (MCI) and mild Alzheimer's disease (AD)</article-title>. <source>Alzheimers Dement</source>. <year>2021</year>;<volume>17</volume>:<elocation-id>e055617</elocation-id>.</mixed-citation></ref><ref id="alz14567-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="alz14567-cit-0050">
+<string-name name-style="western">
+<surname>Cunha</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pires</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cruzeiro</surname>
+<given-names>MM</given-names>
+</string-name>, et al. <article-title>Optical coherence tomography in neurodegenerative disorders</article-title>. <source>Arq Neuropsiquiatr</source>. <year>2022</year>;<volume>80</volume>:<fpage>180</fpage>‐<lpage>191</lpage>. doi:<pub-id pub-id-type="doi">10.1590/0004-282x-anp-2021-0134</pub-id>
+<pub-id pub-id-type="pmid">35352756</pub-id>
+<pub-id pub-id-type="pmcid">PMC9648920</pub-id></mixed-citation></ref><ref id="alz14567-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="alz14567-cit-0051">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeon</surname>
+<given-names>BS</given-names>
+</string-name>. <article-title>Optical coherence tomography in Parkinson's disease: is the retina a biomarker?</article-title>. <source>J Parkinsons Dis</source>. <year>2014</year>;<volume>4</volume>:<fpage>197</fpage>‐<lpage>204</lpage>. doi:<pub-id pub-id-type="doi">10.3233/jpd-130306</pub-id>
+<pub-id pub-id-type="pmid">24518436</pub-id>
+</mixed-citation></ref><ref id="alz14567-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="alz14567-cit-0052">
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halig</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qin</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>ZG</given-names>
+</string-name>. <article-title>Fei B. Spectral‐spatial classification for noninvasive cancer detection using hyperspectral imaging</article-title>. <source>J Biomed Opt</source>. <year>2014</year>;<volume>19</volume>:<elocation-id>106004</elocation-id>.<pub-id pub-id-type="pmid">25277147</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1117/1.JBO.19.10.106004</pub-id><pub-id pub-id-type="pmcid">PMC4183763</pub-id></mixed-citation></ref><ref id="alz14567-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="alz14567-cit-0053">
+<string-name name-style="western">
+<surname>Hazan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bornhaum</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shaked</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Results of a multi‐site, prospective, validation study to predict brain Aβ pathology in a diverse population of adults with preclinical, MCI, and probable Alzheimer's disease</article-title>. <source>JPAD</source>. <year>2023</year>.</mixed-citation></ref><ref id="alz14567-bib-0054"><label>54</label><mixed-citation publication-type="miscellaneous" id="alz14567-cit-0054">
+<collab collab-type="authors">CNN</collab>
+. <article-title>New blood test that screens for Alzheimer's may be a step closer to reality, study suggests</article-title>. Accessed: December 16, 2024. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cnn.com/2024/01/22/health/alzheimers-blood-test-screening-study/index.html" ext-link-type="uri">https://www.cnn.com/2024/01/22/health/alzheimers‐blood‐test‐screening‐study/index.html</ext-link>#</mixed-citation></ref><ref id="alz14567-bib-0055"><label>55</label><mixed-citation publication-type="miscellaneous" id="alz14567-cit-0055">
+<collab collab-type="authors">UCHealth</collab>
+. <article-title>New blood tests for Alzheimer's may allow for earlier detection of the terrible disease. But how much will Alzheimer's blood tests cost, and who should get them?</article-title> Accessed: December 16, 2024. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.uchealth.org/today/new-blood-tests-for-alzheimers-may-allow-for-earlier-detection" ext-link-type="uri">https://www.uchealth.org/today/new‐blood‐tests‐for‐alzheimers‐may‐allow‐for‐earlier‐detection</ext-link>
+</mixed-citation></ref><ref id="alz14567-bib-0056"><label>56</label><mixed-citation publication-type="miscellaneous" id="alz14567-cit-0056">
+<collab collab-type="authors">Harvard T.H. Chan School of Public Health</collab>
+. <article-title>Snapshot of the American Pharmaceutical Industry</article-title>. . Accessed: December 16, 2024. Available from. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://hsph.harvard.edu/exec-ed/news/snapshot-of-the-american-pharmaceutical-industry/" ext-link-type="uri">https://hsph.harvard.edu/exec‐ed/news/snapshot‐of‐the‐american‐pharmaceutical‐industry/</ext-link>
+</mixed-citation></ref><ref id="alz14567-bib-0057"><label>57</label><mixed-citation publication-type="book" id="alz14567-cit-0057">
+<string-name name-style="western">
+<surname>Singh</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kabbara</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Conway</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peyman</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ross</surname>
+<given-names>RD</given-names>
+</string-name>. <source>Innovative Diagnostic Tools for Ophthalmology in Low‐Income Countries</source>. <publisher-name>Novel Diagnostic Methods in Ophthalmology</publisher-name>; <year>2019</year>.</mixed-citation></ref></ref-list></back></article></pmc-articleset>

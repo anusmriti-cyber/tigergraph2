@@ -1,0 +1,1190 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz70319" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12122256</article-id><article-id pub-id-type="pmcid-ver">PMC12122256.1</article-id><article-id pub-id-type="pmcaid">12122256</article-id><article-id pub-id-type="pmcaiid">12122256</article-id><article-id pub-id-type="pmid">40442871</article-id><article-id pub-id-type="doi">10.1002/alz.70319</article-id><article-id pub-id-type="publisher-id">ALZ70319</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Repeated plasma p‐tau217 measurements to monitor clinical progression heterogeneity</article-title><alt-title alt-title-type="left-running-head">KIRSEBOM <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz70319-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Kirsebom</surname><given-names initials="BE">Bjørn‐Eivind</given-names></name><xref rid="alz70319-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70319-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70319-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>bjorneivind.kirsebom@gmail.com</email></address></contrib><contrib id="alz70319-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Gonzalez‐Ortiz</surname><given-names initials="F">Fernando</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7897-9456</contrib-id><xref rid="alz70319-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="alz70319-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="alz70319-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>fernando.gonzalez.ortiz@gu.se</email></address></contrib><contrib id="alz70319-cr-0003" contrib-type="author"><name name-style="western"><surname>Vigneswaran</surname><given-names initials="S">Sinthujah</given-names></name><xref rid="alz70319-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="alz70319-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="alz70319-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="alz70319-cr-0004" contrib-type="author"><name name-style="western"><surname>Bråthen</surname><given-names initials="G">Geir</given-names></name><xref rid="alz70319-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref><xref rid="alz70319-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="alz70319-cr-0005" contrib-type="author"><name name-style="western"><surname>Skogseth</surname><given-names initials="RE">Ragnhild Eide</given-names></name><xref rid="alz70319-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref><xref rid="alz70319-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="alz70319-cr-0006" contrib-type="author"><name name-style="western"><surname>Gísladóttir</surname><given-names initials="B">Berglind</given-names></name><xref rid="alz70319-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70319-cr-0007" contrib-type="author"><name name-style="western"><surname>Harrison</surname><given-names initials="P">Peter</given-names></name><xref rid="alz70319-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="alz70319-cr-0008" contrib-type="author"><name name-style="western"><surname>Jarholm</surname><given-names initials="JA">Jonas Alexander</given-names></name><xref rid="alz70319-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz70319-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="alz70319-cr-0009" contrib-type="author"><name name-style="western"><surname>Pålhaugen</surname><given-names initials="L">Lene</given-names></name><xref rid="alz70319-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz70319-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="alz70319-cr-0010" contrib-type="author"><name name-style="western"><surname>Rongve</surname><given-names initials="A">Arvid</given-names></name><xref rid="alz70319-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref><xref rid="alz70319-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib id="alz70319-cr-0011" contrib-type="author"><name name-style="western"><surname>Selnes</surname><given-names initials="P">Per</given-names></name><xref rid="alz70319-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib id="alz70319-cr-0012" contrib-type="author"><name name-style="western"><surname>Tjims</surname><given-names initials="B">Betty</given-names></name><xref rid="alz70319-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="alz70319-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="alz70319-cr-0013" contrib-type="author"><name name-style="western"><surname>Turton</surname><given-names initials="M">Michael</given-names></name><xref rid="alz70319-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="alz70319-cr-0014" contrib-type="author"><name name-style="western"><surname>Van Harten</surname><given-names initials="AC">Argonde C.</given-names></name><xref rid="alz70319-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="alz70319-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="alz70319-cr-0015" contrib-type="author"><name name-style="western"><surname>Waterloo</surname><given-names initials="K">Knut</given-names></name><xref rid="alz70319-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70319-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70319-cr-0016" contrib-type="author"><name name-style="western"><surname>Zetterberg</surname><given-names initials="H">Henrik</given-names></name><xref rid="alz70319-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="alz70319-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="alz70319-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref><xref rid="alz70319-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref><xref rid="alz70319-aff-0021" ref-type="aff">
+<sup>21</sup>
+</xref><xref rid="alz70319-aff-0022" ref-type="aff">
+<sup>22</sup>
+</xref></contrib><contrib id="alz70319-cr-0017" contrib-type="author"><name name-style="western"><surname>Fladby</surname><given-names initials="T">Tormod</given-names></name><xref rid="alz70319-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz70319-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="alz70319-cr-0018" contrib-type="author"><name name-style="western"><surname>Blennow</surname><given-names initials="K">Kaj</given-names></name><xref rid="alz70319-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="alz70319-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="alz70319-aff-0023" ref-type="aff">
+<sup>23</sup>
+</xref><xref rid="alz70319-aff-0024" ref-type="aff">
+<sup>24</sup>
+</xref></contrib></contrib-group><aff id="alz70319-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>University Hospital of North Norway</institution>
+<city>Tromsø</city>
+<country country="NO">Norway</country>
+</aff><aff id="alz70319-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychology</named-content>
+<named-content content-type="organisation-division">Faculty of Health Sciences</named-content>
+<institution>The Arctic University of Norway</institution>
+<city>Tromsø</city>
+<country country="NO">Norway</country>
+</aff><aff id="alz70319-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Akershus University Hospital</institution>
+<city>Lørenskog</city>
+<country country="NO">Norway</country>
+</aff><aff id="alz70319-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Neuroscience and Physiology</named-content>
+<institution>University of Gothenburg</institution>
+<city>Mölndal</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz70319-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Neurochemistry Lab</named-content>
+<institution>Sahlgrenska University Hospital</institution>
+<city>Mölndal</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz70319-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of diagnostics</named-content>
+<institution>Neurocode USA Inc</institution>
+<city>Bellingham</city>
+<named-content content-type="country-part">Washington</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70319-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Neurochemistry Laboratory</named-content>
+<named-content content-type="organisation-division">Department of Clinical Chemistry</named-content>
+<named-content content-type="organisation-division">Amsterdam Neuroscience</named-content>
+<named-content content-type="organisation-division">Vrije Universiteit Amsterdam</named-content>
+<institution>Amsterdam UMC</institution>
+<city>Amsterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz70319-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Alzheimer Center Amsterdam</named-content>
+<named-content content-type="organisation-division">Neurology Department</named-content>
+<named-content content-type="organisation-division">Vrije Universiteit Amsterdam</named-content>
+<institution>Amsterdam UMC</institution>
+<institution>Location VUmc</institution>
+<city>Amsterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz70319-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>Amsterdam Neuroscience, Neurodegeneration</institution>
+<city>Amsterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz70319-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology and Clinical Neurophysiology</named-content>
+<institution>University Hospital of Trondheim</institution>
+<city>Trondheim</city>
+<country country="NO">Norway</country>
+</aff><aff id="alz70319-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neuromedicine and Movement Science</named-content>
+<named-content content-type="organisation-division">Faculty of Medicine and Health Sciences</named-content>
+<institution>Norwegian University of Science and Technology</institution>
+<city>Trondheim</city>
+<country country="NO">Norway</country>
+</aff><aff id="alz70319-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Department of Geriatric Medicine</named-content>
+<institution>Haraldsplass Deaconess Hospital</institution>
+<city>Bergen</city>
+<country country="NO">Norway</country>
+</aff><aff id="alz70319-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Sciences</named-content>
+<named-content content-type="organisation-division">Faculty of Medicine</named-content>
+<institution>University of Bergen</institution>
+<city>Bergen</city>
+<country country="NO">Norway</country>
+</aff><aff id="alz70319-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<institution>Bioventix Plc, 7 Romans Business Park, East Street</institution>
+<city>Farnham</city>
+<named-content content-type="country-part">Surrey</named-content>
+<country country="GB">UK</country>
+</aff><aff id="alz70319-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<named-content content-type="organisation-division">Institute for Clinical Medicine</named-content>
+<named-content content-type="organisation-division">Campus Ahus</named-content>
+<institution>University of Oslo</institution>
+<city>Oslo</city>
+<country country="NO">Norway</country>
+</aff><aff id="alz70319-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neuropsychology</named-content>
+<institution>Haugesund Hospital</institution>
+<city>Haugesund</city>
+<country country="NO">Norway</country>
+</aff><aff id="alz70319-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Medicine (K1)</named-content>
+<institution>University of Bergen</institution>
+<city>Bergen</city>
+<country country="NO">Norway</country>
+</aff><aff id="alz70319-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<named-content content-type="organisation-division">Department of Research</named-content>
+<institution>Akershus University Hospital</institution>
+<city>Lørenskog</city>
+<country country="NO">Norway</country>
+</aff><aff id="alz70319-aff-0019">
+<label>
+<sup>19</sup>
+</label>
+<institution>UK Dementia Research Institute at UCL</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz70319-aff-0020">
+<label>
+<sup>20</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurodegenerative Disease</named-content>
+<named-content content-type="organisation-division">UCL Institute of Neurology</named-content>
+<institution>Queen Square</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz70319-aff-0021">
+<label>
+<sup>21</sup>
+</label>
+<named-content content-type="organisation-division">Hong Kong Center for Neurodegenerative Diseases</named-content>
+<institution>Clear Water Bay</institution>
+<city>Hong Kong</city>
+<country country="CN">China</country>
+</aff><aff id="alz70319-aff-0022">
+<label>
+<sup>22</sup>
+</label>
+<named-content content-type="organisation-division">Wisconsin Alzheimer's Disease Research Center</named-content>
+<institution>University of Wisconsin School of Medicine and Public Health</institution>
+<institution>University of Wisconsin‐Madison</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70319-aff-0023">
+<label>
+<sup>23</sup>
+</label>
+<named-content content-type="organisation-division">Paris Brain Institute</named-content>
+<named-content content-type="organisation-division">ICM, Pitié‐Salpêtrière Hospital</named-content>
+<institution>Sorbonne University</institution>
+<city>Paris</city>
+<country country="FR">France</country>
+</aff><aff id="alz70319-aff-0024">
+<label>
+<sup>24</sup>
+</label>
+<named-content content-type="organisation-division">Neurodegenerative Disorder Research Center</named-content>
+<named-content content-type="organisation-division">Division of Life Sciences and Medicine, and Department of Neurology</named-content>
+<named-content content-type="organisation-division">Institute on Aging and Brain Disorders</named-content>
+<institution>University of Science and Technology of China and First Affiliated Hospital of USTC</institution>
+<city>Hefei</city>
+<country country="CN">P.R. China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Fernando Gonzalez‐Ortiz, Institute of Neuroscience and Physiology, University of Gothenburg, 417 56 Mölndal, Sweden.<break/> Email: <email>fernando.gonzalez.ortiz@gu.se</email>
+<break/>Bjørn‐Eivind Kirsebom, Department of Neurology, University Hospital of North Norway, 9038 Tromsø, Norway.<break/> Email: <email>bjorneivind.kirsebom@gmail.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>5</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2025</year></pub-date><volume>21</volume><issue seq="1220">5</issue><issue-id pub-id-type="pmc-issue-id">487648</issue-id><issue-id pub-id-type="doi">10.1002/alz.v21.5</issue-id><elocation-id>e70319</elocation-id><history><date date-type="rev-recd"><day>30</day><month>4</month><year>2025</year></date><date date-type="received"><day>04</day><month>2</month><year>2025</year></date><date date-type="accepted"><day>01</day><month>5</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>29</day><month>05</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>30</day><month>05</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-06-04 15:25:17.407"><day>04</day><month>06</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-21-e70319.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-21-e70319.pdf"/><abstract><title>Abstract</title><sec id="alz70319-sec-0010"><title>INTRODUCTION</title><p>Heterogeneity of clinical progression in Alzheimer's disease (AD) complicates the assessment of disease progression and treatment effects in trials. This study evaluates the potential of plasma phosphorylated tau‐217 (p‐tau217) to capture this heterogeneity.</p></sec><sec id="alz70319-sec-0020"><title>METHODS</title><p>We used k‐means clustering to analyze cognitive trajectories in amyloid beta –positive (Aβ+) cognitively normal (CN) and mild cognitive impairment (MCI) participants from two independent cohorts. Cohort 1 included 186 participants (71 CN, 115 MCI; 507 observations) and Cohort 2 included 207 participants (64 CN, 144 MCI; 781 observations), both with up to 10 years of follow‐up.</p></sec><sec id="alz70319-sec-0030"><title>RESULTS</title><p>Three progression clusters emerged in both cohorts: stable cognition, slow decline, and rapid decline—each including cases initially classified as CN or MCI. Baseline plasma p‐tau217 was linked to progression risk in both cohorts, whereas longitudinal increases in Cohort 1 were steepest in rapid decliners.</p></sec><sec id="alz70319-sec-0040"><title>DISCUSSION</title><p>Plasma p‐tau217 may aid in capturing clinical heterogeneity and support stratification and monitoring of disease progression in clinical trials.</p></sec><sec id="alz70319-sec-0050"><title>Highlights</title><p>
+<list list-type="bullet" id="alz70319-list-0001"><list-item><p>k‐Means found stable, slow, and rapid cognitive decline clusters in amyloid beta–positive (Aβ+) cases.</p></list-item><list-item><p>Higher baseline plasma phosphorylated tau‐217 (p‐tau217) levels predicted faster cognitive decline.</p></list-item><list-item><p>Longitudinal increases in plasma p‐tau217 were steepest in rapid decliners.</p></list-item><list-item><p>Plasma p‐tau217 tracks clinical progression heterogeneity in Aβ+ cases.</p></list-item><list-item><p>Cognitive stage and amyloid alone may miss severity and risk in early‐stage Alzheimer's disease.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz70319-kwd-0001">Alzheimer's disease</kwd><kwd id="alz70319-kwd-0002">amyloid</kwd><kwd id="alz70319-kwd-0003">cerebrospinal fluid</kwd><kwd id="alz70319-kwd-0004">clinical heterogeneity</kwd><kwd id="alz70319-kwd-0005">clinical progression</kwd><kwd id="alz70319-kwd-0006">clinical trials</kwd><kwd id="alz70319-kwd-0007">plasma</kwd><kwd id="alz70319-kwd-0008">p‐tau217</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Norwegian Research Council
+</institution><institution-id institution-id-type="doi">10.13039/501100005416</institution-id></institution-wrap></funding-source><award-id>NRC 311993</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Swedish Research Council
+</institution><institution-id institution-id-type="doi">10.13039/501100004359</institution-id></institution-wrap></funding-source><award-id>#2023‐00356</award-id><award-id>#2022‐01018</award-id><award-id>#2019‐02397</award-id></award-group><award-group id="funding-0003"><funding-source>European Union's Horizon Europe research and innovation programme</funding-source><award-id>101053962</award-id></award-group><award-group id="funding-0004"><funding-source>Swedish State Support for Clinical Research</funding-source><award-id>#ALFGBG‐71320</award-id></award-group><award-group id="funding-0005"><funding-source>Alzheimer Drug Discovery Foundation</funding-source><award-id>#201809‐2016862</award-id></award-group><award-group id="funding-0006"><funding-source>AD Strategic Fund</funding-source></award-group><award-group id="funding-0007"><funding-source>the Alzheimer's Association</funding-source><award-id>#ADSF‐21‐831376‐C</award-id><award-id>#ADSF‐21‐831381‐C</award-id><award-id>#ADSF‐21‐831377‐C</award-id><award-id>#ADSF‐24‐1284328‐C</award-id></award-group><award-group id="funding-0008"><funding-source><institution-wrap><institution>European Partnership on Metrology
+</institution><institution-id institution-id-type="doi">10.13039/100019599</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0009"><funding-source>Participating States</funding-source><award-id>#22HLT07</award-id></award-group><award-group id="funding-0010"><funding-source>Bluefield Project</funding-source></award-group><award-group id="funding-0011"><funding-source><institution-wrap><institution>Cure Alzheimer's Fund
+</institution><institution-id institution-id-type="doi">10.13039/100007625</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0012"><funding-source>Olav Thon Foundation</funding-source></award-group><award-group id="funding-0013"><funding-source>Erling‐Persson Family Foundation</funding-source></award-group><award-group id="funding-0014"><funding-source><institution-wrap><institution>Stiftelsen för Gamla Tjänarinnor
+</institution><institution-id institution-id-type="doi">10.13039/100010815</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0015"><funding-source><institution-wrap><institution>Hjärnfonden
+</institution><institution-id institution-id-type="doi">10.13039/501100003792</institution-id></institution-wrap></funding-source><award-id>#FO2022‐0270</award-id></award-group><award-group id="funding-0016"><funding-source>Marie Skłodowska‐Curie</funding-source><award-id>860197</award-id></award-group><award-group id="funding-0017"><funding-source>European Union Joint Programme – Neurodegenerative Disease Research</funding-source><award-id>JPND2021‐00694</award-id></award-group><award-group id="funding-0018"><funding-source>National Institute for Health</funding-source></award-group><award-group id="funding-0019"><funding-source>Care Research University College London Hospitals Biomedical Research Centre</funding-source></award-group><award-group id="funding-0020"><funding-source><institution-wrap><institution>UK Dementia Research Institute
+</institution><institution-id institution-id-type="doi">10.13039/501100017510</institution-id></institution-wrap></funding-source><award-id>UKDRI‐1003</award-id><award-id>#2017‐00915</award-id><award-id>#2022‐00732</award-id></award-group><award-group id="funding-0021"><funding-source>Swedish Alzheimer Foundation</funding-source><award-id>#AF‐930351</award-id><award-id>#AF‐939721</award-id><award-id>#AF‐968270</award-id><award-id>#AF‐994551</award-id><award-id>#ALZ2022‐0006</award-id><award-id>#FO2024‐0048‐TK‐130</award-id><award-id>#ALFGBG‐965240</award-id><award-id>#ALFGBG‐1006418</award-id></award-group><award-group id="funding-0022"><funding-source>European Union Joint Program for Neurodegenerative Disorders</funding-source><award-id>JPND2019‐466‐236</award-id><award-id>ZEN‐21‐848495</award-id><award-id>SG‐23‐1038904 QC</award-id></award-group><award-group id="funding-0023"><funding-source>La Fondation Recherche Alzheimer (FRA)</funding-source></award-group><award-group id="funding-0024"><funding-source>Kirsten and Freddy Johansen Foundation</funding-source></award-group><award-group id="funding-0025"><funding-source>Copenhagen</funding-source></award-group><award-group id="funding-0026"><funding-source>Familjen Rönströms Stiftelse</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="2"/><page-count count="12"/><word-count count="7677"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.6 mode:remove_FC converted:29.05.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz70319-cite-0001">
+<string-name name-style="western">
+<surname>Kirsebom</surname>
+<given-names>B‐E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonzalez‐Ortiz</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vigneswaran</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Repeated plasma p‐tau217 measurements to monitor clinical progression heterogeneity</article-title>. <source>Alzheimer's Dement</source>. <year>2025</year>;<volume>21</volume>:<elocation-id>e70319</elocation-id>. <pub-id pub-id-type="doi">10.1002/alz.70319</pub-id>
+<pub-id pub-id-type="pmid">40442871</pub-id></mixed-citation>
+</p><fn-group><fn id="alz70319-note-0001"><p>Bjørn‐Eivind Kirsebom and Fernando Gonzalez‐Ortiz are joint first authors.</p></fn><fn id="alz70319-note-0002"><p>Tormod Fladby and Kaj Blennow are joint last authors.</p></fn></fn-group></notes></front><body><def-list list-content="abbreviations" id="alz70319-dl-0001"><title>Abbreviations</title><def-item><term>AD</term><def><p>Alzheimer's disease</p></def></def-item><def-item><term>Aβ</term><def><p>amyloid beta</p></def></def-item><def-item><term>CI</term><def><p>confidence interval</p></def></def-item><def-item><term>CN</term><def><p>cognitively normal</p></def></def-item><def-item><term>CSF</term><def><p>cerebrospinal fluid</p></def></def-item><def-item><term>LLM</term><def><p>Linear Mixed Model</p></def></def-item><def-item><term>MCI</term><def><p>mild cognitive impairment</p></def></def-item><def-item><term>p‐tau</term><def><p>phospho‐tau</p></def></def-item><def-item><term>SD</term><def><p>standard deviation</p></def></def-item></def-list><sec id="alz70319-sec-0060"><label>1</label><title>BACKGROUND</title><p>In recent years, Alzheimer's disease (AD) treatment has entered a transformative era with the development of monoclonal antibody (mAb) disease‐modifying therapies targeting amyloid beta (Aβ).<xref rid="alz70319-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="alz70319-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Although effective in clearing Aβ deposits and reducing biomarkers such as phosphorylated tau (p‐tau), these treatments have shown only modest effects of slowing cognitive decline over 18‐month trials.<xref rid="alz70319-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz70319-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> This has sparked a debate concerning their clinical benefits versus costs and side effects.<xref rid="alz70319-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Heterogeneity in clinical severity and progression may be linked to various sources, including AD pathological burden and genetic predisposition,<xref rid="alz70319-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> and co‐pathologies such as vascular pathology, Lewy body pathology, and TAR DNA‐binding Protein (TDP‐43) inclusions.<xref rid="alz70319-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</p><p>The donanemab Phase 3 study stratified study participants by tau positron emission tomography (tau‐PET) tau pathology burden, showing greater slowing of progression in individuals with lower tau burden.<xref rid="alz70319-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Arguably, this captures an important element of the heterogeneity of clinical progression, as tau‐tangle burden reflects AD severity, with higher burden increasing the likelihood of clinical progression.<xref rid="alz70319-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Large anti‐amyloid mAb trials targeting preclinical AD cases (biomarker‐positive cognitively normal individuals) are ongoing.<xref rid="alz70319-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz70319-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> In such trials, incorporating biomarkers capable of capturing the heterogeneity of clinical progression is crucial, since not all participants with Aβ deposits (Aβ+) will develop mild cognitive impairment (MCI) or dementia in their lifetimes.<xref rid="alz70319-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Treating patients earlier in the disease course may enhance the efficacy of anti‐amyloid therapies in slowing progression,<xref rid="alz70319-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> but determining which patients are most likely to benefit is essential for balancing risks and benefits.</p><p>Conventional neuropsychological criteria are often used to determine clinical stage.<xref rid="alz70319-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz70319-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> However, there is considerable within‐group variability in neuropsychological test performance among individuals in both the preclinical and MCI stages, with some cases falling near the threshold between cognitive normality and impairment.<xref rid="alz70319-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Moreover, lower normative performance of neuropsychological tests not only captures departures from the mean due to neurological disease, but also reflects individual differences in cognitive performance,<xref rid="alz70319-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="alz70319-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> and premorbid intelligence levels associated with cognitive reserve mechanisms.<xref rid="alz70319-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Thus individual rates of cognitive change may be a more robust measure of heterogeneity.<xref rid="alz70319-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+</p><p>Plasma p‐tau217 has been validated as a sensitive marker for AD pathophysiology. We and other groups have reported high diagnostic accuracies of plasma p‐tau217 in AD.<xref rid="alz70319-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70319-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz70319-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> It has been endorsed for use as a Core 1 AD biomarker by the Alzheimer's Association (AA)<xref rid="alz70319-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> and used as a part of screening for clinical trials.<xref rid="alz70319-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Beyond its diagnostic utility, higher plasma p‐tau217 levels are linked to greater tau‐tangle burden,<xref rid="alz70319-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> increased clinical severity in cross‐sectional studies,<xref rid="alz70319-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> faster clinical progression,<xref rid="alz70319-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70319-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz70319-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> and longitudinal increases that reflect both biological and clinical severity.<xref rid="alz70319-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz70319-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> As with cognitive tests, within‐group variations in plasma p‐tau‐217 concentrations are seen in both cognitively normal and MCI cases<xref rid="alz70319-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70319-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz70319-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> and could in part reflect disease severity and an individual's risk for future clinical progression. The longitudinal dynamics of plasma p‐tau217 levels could be a way to address this variation, and repeated measurements of this marker could be an accessible tool to monitor both disease progression and treatment effect.<xref rid="alz70319-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</p><p>In this study, we aim to (1) assess heterogeneity of clinical progression in cerebrospinal fluid (CSF) Aβ‐positive (Aβ+) cognitively normal (CN), subjective cognitive decline (SCD), and MCI individuals using data‐driven methods in two independent cohorts with up to 10 years of follow‐up; and (2) investigate whether cross‐sectional and longitudinal changes in plasma p‐tau217 align with the heterogeneity of clinical progression. We hypothesize that assessing individual rates of change in Aβ+ participants will help classify individuals according to their clinical progression risk, including non‐progressors.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz70319-sec-0070"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz70319-list-0002"><list-item><p>
+<bold>Systematic review</bold>: We reviewed the existing literature on plasma phosphorylated tau‐217 (p‐tau217) as a biomarker for Alzheimer's disease (AD) and its potential role in tracking disease progression. Prior studies have established plasma p‐tau217 as a sensitive marker of AD pathology and its association with clinical progression. However, its ability to capture individual differences in disease trajectories and the heterogeneity of clinical progression remain underexplored.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: Our findings demonstrate that plasma p‐tau217 tracks the heterogeneity of clinical progression in amyloid‐positive cognitively normal and individuals with mild cognitive impairment. Higher baseline levels and steeper longitudinal increases were associated with faster cognitive decline, suggesting its potential for stratifying patients and monitoring disease progression.</p></list-item><list-item><p>
+<bold>Future directions</bold>: Further research should validate these findings in larger cohorts, explore co‐pathologies that influence progression, and assess the utility of plasma p‐tau217 in monitoring treatment response. In addition, integrating p‐tau217 with other biomarkers may enhance the predictive accuracy for disease progression and therapeutic outcomes.</p></list-item></list>
+</p></sec></boxed-text></sec><sec id="alz70319-sec-0080"><label>2</label><title>METHODS</title><sec id="alz70319-sec-0090"><label>2.1</label><title>Cohort 1</title><p>The Norwegian multicenter Dementia Disease Initiation (DDI) study cohort includes individuals 40–80 years of age, recruited from memory clinics and local advertisements across Norway. The cohort comprises cognitively normal participants, with or without SCD, and individuals with MCI. Participants undergo standardized diagnostic workups, including medical history, neurological examination, neuropsychological testing, and collection of CSF and blood samples, with reassessments approximately every 2 years. Detailed cohort characteristics and diagnostic criteria have been described previously.<xref rid="alz70319-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> However, in the present study, we applied an actuarial definition of MCI based solely on neuropsychological criteria, without requiring the presence of cognitive symptoms, as described in our previous work.<xref rid="alz70319-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> From this cohort, a total of 186 individuals with pathological CSF Aβ42/40 ratios were included, comprising 71 CN/SCD cases of whom 17 (23.9%) had SCD and 54 (76.1%) did not, and 115 cases with MCI. Among CN/SCD cases, 36 (50.7%) were recruited through advertisements and 35 (49.3%) from memory clinics. Among MCI cases, 41 (35.7%) were recruited via advertisements and 74 (64.3%) from memory clinics. In addition, 19 spouses of memory clinic participants, originally recruited as healthy controls, were found to have established amyloid pathology. Of these, seven had normal cognition with no cognitive symptoms, three had SCD, and nine fulfilled our MCI criteria. All had available neuropsychological follow‐up assessments (a total of 507 observations, between 0.77 and 10.56 years from baseline; mean = 3.49, SD = 1.90). The DDI study was approved by the Regional Committees for Medical and Health Research Ethics in Norway and conducted in line with the guidelines provided by the Declaration of Helsinki and the Norwegian Health and Research act. All participants gave written informed consent before participating in the study.</p></sec><sec id="alz70319-sec-0100"><label>2.2</label><title>Cohort 2</title><p>The Amsterdam Dementia Cohort (ADC) comprises individuals who visited the Alzheimer Center of the Amsterdam UMC, location VU University Medical Center (VUmc) in Amsterdam, a tertiary memory clinic.<xref rid="alz70319-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Individuals referred to the Alzheimer Center Amsterdam Center Amsterdam receive standardized diagnostic workup, including neurological investigation by a neurologist, neuropsychological testing, assessment of vital functions, and CSF draw. Diagnoses were made based on international consensus criteria<xref rid="alz70319-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="alz70319-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="alz70319-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> during a weekly multidisciplinary meeting. Individuals were included when they had a diagnosis of SCD, considered as cognitively normal, or MCI due to AD based on CSF (see below) and available neuropsychological follow‐up assessments. From this cohort, a total of 207 cases (63 SCD and 144 MCI) with pathological CSF Aβ1‐42 were selected. All had available neuropsychological follow‐up assessments (a total of 781 observations, between 0.04 and 9.61 years from baseline; mean = 2.91, SD = 1.85). The ADC study was approved by the ethics committee of the Amsterdam UMC and the Biobank Research Ethics Committee of the Amsterdam UMC (location VUmc). All patients gave written informed consent, and the study was conducted in accordance with the guidelines provided by the Declaration of Helsinki.</p></sec><sec id="alz70319-sec-0110"><label>2.3</label><title>CSF AD biomarkers</title><p>In Cohort 1, the QuickPlex SQ 120 system from Meso Scale Discovery (MSD; MD, USA) was used to measure Aβ1‐42 and Aβ1‐40 in a multiplex setup using V‐plex Ab Peptide Panel 1 (6E10) kit (K15200E‐1). The cutoff for CSF Aβ42/40 ratio of ≤ 0.077 was determined following receiver‐operating characteristic (ROC) curve analysis using visual read of [18F]‐flutemetamol PET scans as the standard of truth.<xref rid="alz70319-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> In Cohort 2, Aβ1‐42 concentration was measured using an INNOTEST enzyme‐linked immunosorbent assay (ELISA) from Fujirebio (Ghent, Belgium). The previously published cutoff of &lt;813 pg/mL was used to determine the presence or absence of cerebral Aβ pathology.<xref rid="alz70319-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+</p></sec><sec id="alz70319-sec-0120"><label>2.4</label><title>Plasma p‐tau217 measurements</title><p>In Cohort 1, p‐tau217 levels were measured using the University of Gothenburg in‐house assay,<xref rid="alz70319-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> conducted on the Simoa HD‐X platform. The assay utilized a 1:2 dilution factor. To monitor signal variability within and between analytical runs, three internal quality control samples were analyzed at both the start and end of each run. A total of <italic toggle="yes">n</italic> = 175/186 (94.1%) cases had available plasma p‐tau217 coinciding with baseline cognitive measurements. In addition, <italic toggle="yes">n</italic> = 185 (99.46%) of our sample had available repeated plasma measurements for our clusters (438 observations between 0.77 and 9.66 years from baseline; mean = 3.75 years, SD = 1.74). In Cohort 2, plasma p‐tau217 concentration was measured using Simoa HD‐X platform and the p‐tau217 kit (Janssen Sciences Ireland UC, a Johnson &amp; Johnson company) according to the manufacturer's protocol. A subset of cases (79/207, 38%) had available plasma p‐tau217 measured at baseline.</p></sec><sec id="alz70319-sec-0130"><label>2.5</label><title>Cognitive composite scores</title><p>We assessed longitudinal changes in neuropsychological test performance across the available tests in Cohort 1<xref rid="alz70319-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> using linear mixed‐effects models (LMMs) with random intercepts for subjects and random slopes for time. Marginal <italic toggle="yes">R</italic>
+<sup>2</sup> values, representing the proportion of variance in cognitive test performance explained by time, were computed using the “performance” R package. Among the tested measures, the Controlled Oral Word Association Test (COWAT) and Visual Object and Space Perception Battery (VOSP) Silhouettes tests explained 0.3% and 0.4% of the variance, respectively, whereas the Trail Making Test Part B (TMT‐B) and Consortium to Establish a Registry for Alzheimer's Disease (CERAD) memory recall test explained 2.5% and 2.9%, respectively. Based on these analyses, TMT‐B and CERAD memory recall were selected for inclusion in the cognitive composite score, as they exhibited the most pronounced changes over time in participants with CSF Aβ+ status (Table <xref rid="alz70319-supinfo-0001" ref-type="">S1</xref>). To create a cognitive composite score, we used the established methods.<xref rid="alz70319-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> The CERAD memory recall test was standardized to a score between 0 and 1 using the following formula: (raw score—minimum possible score)/(maximum possible score—minimum possible score). Because higher TMT‐B scores indicate worse performance, the scores were standardized to a score between 0 and 1 using the formula: (maximum possible score—raw score)/(maximum possible score—minimum possible score), so that higher standardized scores reflect better performance. These scores were summed and averaged to compute a 0–1 standardized composite score. The composite model explained 4.8% of the variance in cognitive change (Table <xref rid="alz70319-supinfo-0001" ref-type="">S1</xref>), indicating that combining TMT‐B and CERAD memory recall improved the overall prediction of cognitive decline. In all models, conditional <italic toggle="yes">R</italic>
+<sup>2</sup> values (representing variance explained by both fixed and random effects) ranged from 74% to 85%, highlighting the substantial contribution of subject‐specific variations in intercept and slope. A similar approach was applied to Cohort 2, where the Rey Auditory Verbal Learning Test (RAVLT) delayed memory recall and TMT‐B were selected based on the same criteria. These scores were standardized and combined using the same method as described above to create a composite cognitive score for Cohort 2.</p></sec><sec id="alz70319-sec-0140"><label>2.6</label><title>Statistical analyses</title><p>All analyses were conducted in RStudio (R version 4.3.2). Baseline between‐group comparisons of continuous variables (e.g., age, years of education, CSF, and plasma biomarkers) were performed using linear regression analyses. For dichotomous variables (i.e., sex) chi‐square analyses were used. Longitudinal trajectories of cognitive composite scores were modeled using LMMs with random intercepts for subjects and random slopes for time in both cohorts. For our main models, we opted to not include demographics (age, sex or educational level). Although such variables influence cognitive performance in normative contexts,<xref rid="alz70319-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="alz70319-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> they are also associated with AD risk,<xref rid="alz70319-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="alz70319-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> and all our participants had established amyloid pathology. Instead, the individual random slopes (i.e., individual trajectories over time) were extracted, regardless of demographics, and clustered using k‐means clustering with Euclidean distance. The optimal number of clusters was determined visually via elbow plots (Figure <xref rid="alz70319-supinfo-0001" ref-type="">S1A,B</xref>).</p><p>Between‐cluster comparisons of baseline plasma p‐tau217 levels were then conducted in both cohorts using linear regression, and post hoc comparisons were conducted with false‐discovery rate (FDR) adjustments within each cohort. In addition, the mean fold change for each cognitive decline cluster with stable cognition as the reference group was computed in both cohorts. Finally, an LMM model was fitted to assess longitudinal changes in plasma p‐tau217 levels in Cohort 1, with random slopes for time included in this model. As a sensitivity analysis, we re‐ran the LMMs including demographics (age at baseline, sex, and years of education) as covariates when estimating individual slopes. These adjusted slopes were then clustered using the same k‐means approach. Agreement between cluster solutions derived with and without demographic adjustment was assessed using Cohen's kappa.</p></sec></sec><sec id="alz70319-sec-0150"><label>3</label><title>RESULTS</title><sec id="alz70319-sec-0160"><label>3.1</label><title>Cohort characteristics</title><p>Cohort 1 participants were older (mean = 67.99, SD = 7.50) and more educated (mean = 13.66, SD = 3.12) than Cohort 2 (mean = 65.89, SD = 6.75, <italic toggle="yes">p</italic> &lt; 0.001; mean = 12.34, SD = 3.12, <italic toggle="yes">p</italic> &lt; 0.001), but sex distribution was comparable (Cohort 1: 53.2% female; Cohort 2: 48.3% female; <italic toggle="yes">χ</italic>
+<sup>2</sup> = 0.76, <italic toggle="yes">p</italic> = 0.38). No differences in age, education, or sex distributions were observed between Aβ+ CN and Aβ+ MCI groups in either cohort. In Cohort 1, CSF Aβ42/40 ratios did not differ between groups, but in both cohorts, Aβ+ MCI participants had lower Aβ1‐42 levels than Aβ+ CN participants (Cohort 1, <italic toggle="yes">p</italic> &lt; 0.05; Cohort 2, <italic toggle="yes">p</italic> &lt; 0.01; see Table <xref rid="alz70319-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="alz70319-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Between‐group comparisons of demographics, cognitive measures, and CSF Aβ and plasma p‐tau217 markers in the Dementia Disease Initiation (DDI) cohort and Amsterdam Dementia Cohort (ADC).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Cohort 1: Dementia Disease Initiation</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">
+<p>CN/SCD Aβ+</p>
+<p>
+<italic toggle="yes">n</italic> = 71</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>MCI Aβ+</p>
+<p>
+<italic toggle="yes">n</italic> = 115</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>Total</p>
+<p>
+<italic toggle="yes">n</italic> = 186</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Age,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">67.54 (7.50)</td><td align="char" rowspan="1" colspan="1">68.27<sup>n.s.</sup> (7.52)</td><td align="char" rowspan="1" colspan="1">67.99 (7.50)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Years of education,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">13.68 (3.03)</td><td align="char" rowspan="1" colspan="1">13.65<sup>n.s.</sup> (3.19)</td><td align="char" rowspan="1" colspan="1">13.66 (3.12)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Female,</bold> n (%)</td><td align="char" rowspan="1" colspan="1">41 (57.7%)</td><td align="char" rowspan="1" colspan="1">58<sup>n.s.</sup> (51.4%)</td><td align="char" rowspan="1" colspan="1">99 (53.2%)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl1-note-0004" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+<bold>Aβ42/40 ratio, mean (SD)</bold>
+</td><td align="char" rowspan="1" colspan="1">0.054 (0.013)</td><td align="char" rowspan="1" colspan="1">0.051<sup>n.s.</sup> (0.012)</td><td align="char" rowspan="1" colspan="1">0.052 (0.012)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl1-note-0004" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+<bold>Aβ1‐42, pg/mL,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">413.42 (158.62)</td><td align="char" rowspan="1" colspan="1">368.65<xref rid="alz70319-tbl1-note-0009" ref-type="table-fn">
+<sup>*</sup>
+</xref> (116.93)</td><td align="char" rowspan="1" colspan="1">384.80 (135.03)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl1-note-0005" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+<bold>Plasma p‐tau217, pg/mL,</bold> nean (SD) [n]</td><td align="char" rowspan="1" colspan="1">2.82 (1.24) [66]</td><td align="char" rowspan="1" colspan="1">3.40<sup>*</sup> (1.55) [109]</td><td align="char" rowspan="1" colspan="1">3.18 (1.46)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TMT‐B,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">84.79 (20.99)</td><td align="char" rowspan="1" colspan="1">155.75<xref rid="alz70319-tbl1-note-0011" ref-type="table-fn">
+<sup>***</sup>
+</xref> (115.09)</td><td align="char" rowspan="1" colspan="1">128.66 (97.59)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>CERAD memory recall,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">7.07 (1.91)</td><td align="char" rowspan="1" colspan="1">3.56<xref rid="alz70319-tbl1-note-0011" ref-type="table-fn">
+<sup>***</sup>
+</xref> (2.41)</td><td align="char" rowspan="1" colspan="1">4.90 (2.81)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Cognitive composite,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">0.66 (0.11)</td><td align="char" rowspan="1" colspan="1">0.42<sup>***</sup> (0.15)</td><td align="char" rowspan="1" colspan="1">0.51 (0.18)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl1-note-0008" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+<bold>Observations over time,</bold> n (%)</td><td align="char" rowspan="1" colspan="1">205 (40.4%)</td><td align="char" rowspan="1" colspan="1">302 (59.6%)</td><td align="char" rowspan="1" colspan="1">507 (100%)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl1-note-0008" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+<bold>Years since baseline,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">3.80 (1.95)</td><td align="char" rowspan="1" colspan="1">3.26 (1.84)</td><td align="char" rowspan="1" colspan="1">3.49 (1.90)</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Cohort 2: Amsterdam Dementia Cohort</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">SCD Aβ+ <italic toggle="yes">n</italic> = 63</th><th align="left" rowspan="1" colspan="1">
+<p>MCI Aβ+</p>
+<p>
+<italic toggle="yes">n</italic> = 144</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>Total</p>
+<p>
+<italic toggle="yes">n</italic> = 207</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Age,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">65.18 (6.44)</td><td align="char" rowspan="1" colspan="1">66.20<sup>n.s.</sup> (6.88)</td><td align="char" rowspan="1" colspan="1">65.89 (6.75)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Years of education,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">12.78 (3.17)</td><td align="char" rowspan="1" colspan="1">12.15<sup>n.s.</sup> (3.09)</td><td align="char" rowspan="1" colspan="1">12.34 (3.12)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Female,</bold> n (%)</td><td align="char" rowspan="1" colspan="1">36 (57.1%)</td><td align="char" rowspan="1" colspan="1">64<sup>n.s.</sup> (44.4%)</td><td align="char" rowspan="1" colspan="1">100 (48.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl1-note-0006" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+<bold>Aβ1‐42,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">659.36 (100.52)</td><td align="char" rowspan="1" colspan="1">621.24<xref rid="alz70319-tbl1-note-0010" ref-type="table-fn">
+<sup>**</sup>
+</xref> (116.19)</td><td align="char" rowspan="1" colspan="1">632.84 (112.79)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl1-note-0007" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+<bold>Plasma p‐tau217, pg/mL,</bold> mean (SD) [n]</td><td align="char" rowspan="1" colspan="1">0.07 (0.04)</td><td align="char" rowspan="1" colspan="1">0.08<sup>n.s.</sup> (0.04)</td><td align="char" rowspan="1" colspan="1">0.08 (0.04)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TMT‐B,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">87.62 (32.42)</td><td align="char" rowspan="1" colspan="1">121.53<xref rid="alz70319-tbl1-note-0011" ref-type="table-fn">
+<sup>***</sup>
+</xref> (59.64)</td><td align="char" rowspan="1" colspan="1">111.21 (55.04)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>RAVLT memory recall,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">7.49 (2.87)</td><td align="char" rowspan="1" colspan="1">3.12<xref rid="alz70319-tbl1-note-0010" ref-type="table-fn">
+<sup>***</sup>
+</xref> (2.44)</td><td align="char" rowspan="1" colspan="1">4.45 (3.27)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Cognitive composite,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">0.59 (0.13)</td><td align="char" rowspan="1" colspan="1">0.39<xref rid="alz70319-tbl1-note-0011" ref-type="table-fn">
+<sup>***</sup>
+</xref> (0.12)</td><td align="char" rowspan="1" colspan="1">0.45 (0.15)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl1-note-0008" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+<bold>Observations over time,</bold> n (%)</td><td align="char" rowspan="1" colspan="1">230 (29.4%)</td><td align="char" rowspan="1" colspan="1">551 (70.6%)</td><td align="char" rowspan="1" colspan="1">781 (100%)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl1-note-0008" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+<bold>Years since baseline,</bold> mean (SD)</td><td align="char" rowspan="1" colspan="1">3.20 (2.10)</td><td align="char" rowspan="1" colspan="1">2.79 (1.72)</td><td align="char" rowspan="1" colspan="1">2.91 (1.85)</td></tr></tbody></table><table-wrap-foot><fn id="alz70319-tbl1-note-0001"><p>
+<italic toggle="yes">Note</italic>: Cognitive composite (Trail Making Test, Part B [TMT‐B] + memory recall on a 0–1 scale).</p></fn><fn id="alz70319-tbl1-note-0002"><p>Abbreviations: %, percentage; Aβ± , positive or negative cerebrospinal fluid (CSF) marker for amyloid beta (Aβ) plaques; CN, cognitively normal; MCI, mild cognitive Impairment; n, number of cases; phosphorylated tau 217 (p‐tau217);</p></fn><fn id="alz70319-tbl1-note-0003"><p>n.s. = non‐significant; CERAD, consortium to establish a registry for alzheimer's disease; RAVLT, rey auditory verbal learning test; SCD, subjective cognitive decline; SD, standard deviation.</p></fn><fn id="alz70319-tbl1-note-0004"><label>
+<sup>a</sup>
+</label><p>Mesoscale discovery Aβ1 assay.</p></fn><fn id="alz70319-tbl1-note-0005"><label>
+<sup>b</sup>
+</label><p>University of Gothenburg Simoa p‐tau217 assay.</p></fn><fn id="alz70319-tbl1-note-0006"><label>
+<sup>c</sup>
+</label><p>Innotest Aβ1‐42 assay.</p></fn><fn id="alz70319-tbl1-note-0007"><label>
+<sup>d</sup>
+</label><p>Janssen Simoa p‐tau217 assay.</p></fn><fn id="alz70319-tbl1-note-0008"><label>
+<sup>e</sup>
+</label><p>No statistical comparison performed.</p></fn><fn id="alz70319-tbl1-note-0009"><label>*</label><p> &lt; 0.05.</p></fn><fn id="alz70319-tbl1-note-0010"><label>**</label><p> &lt; 0.01.</p></fn><fn id="alz70319-tbl1-note-0011"><label>*** </label><p>&lt; 0.001.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz70319-sec-0170"><label>3.2</label><title>Clusters of cognitive change</title><p>Using k‐means clustering on cognitive change trajectories, three clusters were identified: stable cognition (Cohort 1: <italic toggle="yes">n</italic> = 56; Cohort 2: <italic toggle="yes">n</italic> = 46), slow cognitive decline (Cohort 1: <italic toggle="yes">n</italic> = 70; Cohort 2: <italic toggle="yes">n</italic> = 108), and rapid cognitive decline (Cohort 1: <italic toggle="yes">n</italic> = 60; Cohort 2: <italic toggle="yes">n</italic> = 53) (Figure <xref rid="alz70319-fig-0001" ref-type="fig">1A, B</xref>). All clusters included baseline Aβ+ CN and Aβ+ MCI cases, although cluster distributions varied, with more MCI cases in the slow and rapid decline clusters than in the stable cluster (Table <xref rid="alz70319-tbl-0002" ref-type="table">2</xref>, Figure <xref rid="alz70319-fig-0001" ref-type="fig">1E,F</xref>). Cognitive changes over time aligned with cluster membership, regardless of baseline CN or MCI diagnosis (Figure <xref rid="alz70319-fig-0001" ref-type="fig">1B,C</xref>). Worse baseline cognitive composite scores were observed in the slow and rapid decline clusters compared to the stable cluster in both Cohort 1 (<italic toggle="yes">p</italic> &lt; 0.01, <italic toggle="yes">p</italic> &lt; 0.001) and Cohort 2 (<italic toggle="yes">p</italic> &lt; 0.001, <italic toggle="yes">p</italic> &lt; 0.01), but no significant differences in age, education, or sex were found between clusters (Table <xref rid="alz70319-tbl-0002" ref-type="table">2</xref>). In Cohort 1, the slow and rapid decline clusters showed lower CSF Aβ1‐42 concentrations (<italic toggle="yes">p</italic> &lt; 0.05) and Aβ42/40 ratios (<italic toggle="yes">p</italic> &lt; 0.05, <italic toggle="yes">p</italic> &lt; 0.01) compared to the stable cluster. In Cohort 2, no significant differences in CSF Aβ1‐42 concentrations were observed across clusters (Table <xref rid="alz70319-tbl-0002" ref-type="table">2</xref>).</p><fig position="float" fig-type="FIGURE" id="alz70319-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Illustration of the cognitive clusters derived from k‐means in both Cohort 1 and Cohort 2. (A) Cohort 1 and (B) Cohort 2 illustrate trajectories over time for each cluster. (C) Cohort 1 and (D) Cohort 2 illustrate trajectories over time for each cluster split by baseline cognitive stage (cognitively normal [CN]/subjective cognitive decline [SCD] or mild cognitive impairment [MCI]). Bands associated with each regression line illustrated 95% confidence intervals. (E) Cohort 1 and (F) Cohort 2 illustrate numbers and percentages of CN/SCD and MCI at baseline within each cluster.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-21-e70319-g001.jpg"/></fig><table-wrap position="float" id="alz70319-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Between‐cluster comparisons of baseline demographics, follow‐up time, and CSF Aβ markers in the Dementia Disease Initiation (DDI) cohort and Amsterdam Dementia Cohort (ADC).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th colspan="4" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Cohort 1: Dementia Disease Initiation</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Stable cognition <italic toggle="yes">n</italic> = 56</th><th align="left" rowspan="1" colspan="1">Slow cognitive decline <italic toggle="yes">n</italic> = 70</th><th align="left" rowspan="1" colspan="1">Rapid cognitive decline <italic toggle="yes">n</italic> = 60</th><th align="left" rowspan="1" colspan="1">Slow versus rapid cognitive decline</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Age,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">66.25 (8.37)</td><td align="left" rowspan="1" colspan="1">68.03<sup>n.s.</sup> (6.49)</td><td align="left" rowspan="1" colspan="1">69.57<sup>n.s.</sup> (7.53)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Years of education,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">14.02 (3.18)</td><td align="left" rowspan="1" colspan="1">13.70<sup>n.s.</sup> (3.25)</td><td align="left" rowspan="1" colspan="1">13.28<sup>n.s.</sup> (2.92)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Female,</bold> n (%)</td><td align="left" rowspan="1" colspan="1">26 (46.4)</td><td align="left" rowspan="1" colspan="1">44 (62.9)</td><td align="left" rowspan="1" colspan="1">29 (48.3)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl2-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+<bold>Aβ42/40 ratio,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">0.057 (0.013)</td><td align="left" rowspan="1" colspan="1">0.051<xref rid="alz70319-tbl2-note-0008" ref-type="table-fn">
+<sup>*</sup>
+</xref> (0.012)</td><td align="left" rowspan="1" colspan="1">0.049<xref rid="alz70319-tbl2-note-0009" ref-type="table-fn">
+<sup>**</sup>
+</xref> (0.010)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl2-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+<bold>Aβ1‐42,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">433.56 (143.44)</td><td align="left" rowspan="1" colspan="1">361.88<xref rid="alz70319-tbl2-note-0008" ref-type="table-fn">
+<sup>*</sup>
+</xref> (119.37)</td><td align="left" rowspan="1" colspan="1">360.42<xref rid="alz70319-tbl2-note-0008" ref-type="table-fn">
+<sup>*</sup>
+</xref> (128.46)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl2-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+<bold>Plasma p‐tau217, pg/mL,</bold> mean (SD) [n]</td><td align="left" rowspan="1" colspan="1">2.46 (1.22) [49]</td><td align="left" rowspan="1" colspan="1">3.13<xref rid="alz70319-tbl2-note-0009" ref-type="table-fn">
+<sup>**</sup>
+</xref> (1.34) [68]</td><td align="left" rowspan="1" colspan="1">3.84<xref rid="alz70319-tbl2-note-0010" ref-type="table-fn">
+<sup>***</sup>
+</xref> (1.51) [58]</td><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl2-note-0008" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TMT‐B,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">115.5 (117.38)</td><td align="left" rowspan="1" colspan="1">124.33<sup>n.s.</sup> (94.09)</td><td align="left" rowspan="1" colspan="1">146.00<xref rid="alz70319-tbl2-note-0009" ref-type="table-fn">
+<sup>**</sup>
+</xref> (78.56)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>CERAD memory recall,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">6.46 (2.58)</td><td align="left" rowspan="1" colspan="1">5.16<xref rid="alz70319-tbl2-note-0008" ref-type="table-fn">
+<sup>*</sup>
+</xref> (2.50)</td><td align="left" rowspan="1" colspan="1">3.13<xref rid="alz70319-tbl2-note-0010" ref-type="table-fn">
+<sup>***</sup>
+</xref> (2.37)</td><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl2-note-0010" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Cognitive composite,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">0.61 (0.16)</td><td align="left" rowspan="1" colspan="1">0.53<xref rid="alz70319-tbl2-note-0008" ref-type="table-fn">
+<sup>*</sup>
+</xref> (0.15)</td><td align="left" rowspan="1" colspan="1">0.40<xref rid="alz70319-tbl2-note-0010" ref-type="table-fn">
+<sup>***</sup>
+</xref> (0.16)</td><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl2-note-0010" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>CN/SCD,</bold> n (%)</td><td align="left" rowspan="1" colspan="1">34 (60.7)</td><td align="left" rowspan="1" colspan="1">28 (40)</td><td align="left" rowspan="1" colspan="1">9 (15.0)</td><td rowspan="2" align="left" colspan="1">
+<xref rid="alz70319-tbl2-note-0010" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MCI,</bold> n (%)</td><td align="left" rowspan="1" colspan="1">22 (39.3)</td><td align="left" rowspan="1" colspan="1">42 (60)</td><td align="left" rowspan="1" colspan="1">51 (85)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl2-note-0007" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+<bold>Observations over time,</bold> n (%)</td><td align="left" rowspan="1" colspan="1">169 (33.3)</td><td align="left" rowspan="1" colspan="1">181 (35.7)</td><td align="left" rowspan="1" colspan="1">157 (31.0)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl2-note-0007" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+<bold>Years since baseline,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">3.93 (1.96)</td><td align="left" rowspan="1" colspan="1">3.41 (1.87)</td><td align="left" rowspan="1" colspan="1">3.05 (1.78)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th colspan="4" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Cohort 2: Amsterdam Dementia Cohort</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Stable cognition 46</th><th align="left" rowspan="1" colspan="1">Slow cognitive decline 108</th><th align="left" rowspan="1" colspan="1">Rapid cognitive decline 53</th><th align="left" rowspan="1" colspan="1">Slow versus rapid cognitive decline</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Age,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">64.65 (7.12)</td><td align="left" rowspan="1" colspan="1">66.13<sup>n.s.</sup> (6.41)</td><td align="left" rowspan="1" colspan="1">66.47<sup>n.s.</sup> (7.09)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Years of education,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">12.80 (3.10)</td><td align="left" rowspan="1" colspan="1">12.12<sup>n.s.</sup> (3.06)</td><td align="left" rowspan="1" colspan="1">12.40<sup>n.s.</sup> (3.27)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Female,</bold> n (%)</td><td align="left" rowspan="1" colspan="1">20 (43.5%)</td><td align="left" rowspan="1" colspan="1">53 (49.1%)</td><td align="left" rowspan="1" colspan="1">27 (50.9)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl2-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+<bold>Aβ1‐42,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">664.61 (99.25)</td><td align="left" rowspan="1" colspan="1">619.0<sup>n.s.</sup> (117.39)</td><td align="left" rowspan="1" colspan="1">633.47<sup>n.s.</sup> (110.58)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl2-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+<bold>Plasma p‐tau217, pg/mL,</bold> mean (SD) [n]</td><td align="left" rowspan="1" colspan="1">0.062 (0.041)</td><td align="left" rowspan="1" colspan="1">0.079<sup>n.s.</sup> (0.045)</td><td align="left" rowspan="1" colspan="1">0.097<xref rid="alz70319-tbl2-note-0008" ref-type="table-fn">
+<sup>*</sup>
+</xref> (0.042)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TMT‐B,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">94.59 (40.87)</td><td align="left" rowspan="1" colspan="1">116.32<xref rid="alz70319-tbl2-note-0008" ref-type="table-fn">
+<sup>*</sup>
+</xref> (60.81)</td><td align="left" rowspan="1" colspan="1">115.23<xref rid="alz70319-tbl2-note-0008" ref-type="table-fn">
+<sup>*</sup>
+</xref> (51.32)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>RAVLT memory recall,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">5.71 (3.89)</td><td align="left" rowspan="1" colspan="1">3.93<xref rid="alz70319-tbl2-note-0009" ref-type="table-fn">
+<sup>**</sup>
+</xref> (3.14)</td><td align="left" rowspan="1" colspan="1">4.34<sup>n.s.</sup> (2.63)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Cognitive composite,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">0.52 (0.17)</td><td align="left" rowspan="1" colspan="1">0.43<xref rid="alz70319-tbl2-note-0010" ref-type="table-fn">
+<sup>***</sup>
+</xref> (0.15)</td><td align="left" rowspan="1" colspan="1">0.44<xref rid="alz70319-tbl2-note-0009" ref-type="table-fn">
+<sup>**</sup>
+</xref> (0.13)</td><td align="left" rowspan="1" colspan="1">
+<sup>n.s.</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>CN/SCD,</bold> n (%)</td><td align="left" rowspan="1" colspan="1">21 (45.6)</td><td align="left" rowspan="1" colspan="1">28 (25.9)</td><td align="left" rowspan="1" colspan="1">14 (26.4)</td><td rowspan="2" align="left" colspan="1">
+<xref rid="alz70319-tbl2-note-0008" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MCI</bold> n (%)</td><td align="left" rowspan="1" colspan="1">25 (54.3)</td><td align="left" rowspan="1" colspan="1">80 (74.1)</td><td align="left" rowspan="1" colspan="1">39 (73.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl2-note-0007" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+<bold>Observations over time,</bold> n (%)</td><td align="left" rowspan="1" colspan="1">172 (22.0)</td><td align="left" rowspan="1" colspan="1">404 (51.7)</td><td align="left" rowspan="1" colspan="1">205 (26.2)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<xref rid="alz70319-tbl2-note-0007" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+<bold>Years since baseline,</bold> mean (SD)</td><td align="left" rowspan="1" colspan="1">3.02 (1.96)</td><td align="left" rowspan="1" colspan="1">2.99 (1.91)</td><td align="left" rowspan="1" colspan="1">2.66 (1.58)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="alz70319-tbl2-note-0001"><p>
+<italic toggle="yes">Note</italic>: Cognitive composite (Trail Making Test, Part B (TMT‐B) + memory recall on a 0–1 scale).</p></fn><fn id="alz70319-tbl2-note-0002"><p>Abbreviations: %, percentage; CN, cognitively normal; MCI, mild cognitive Impairment; n, number of cases; n.s. = non‐significant; SCD, subjective cognitive decline; SD, standard deviation; CERAD, Consortium to Establish a Registry for Alzheimer's Disease; RAVLT, Rey Auditory Verbal Learning Test.</p></fn><fn id="alz70319-tbl2-note-0003"><label>
+<sup>a</sup>
+</label><p>Mesoscale discovery Aβ assay.</p></fn><fn id="alz70319-tbl2-note-0004"><label>
+<sup>b</sup>
+</label><p>University of Gothenburg Simoa p‐tau217 assay.</p></fn><fn id="alz70319-tbl2-note-0005"><label>
+<sup>c</sup>
+</label><p>Innotest Aβ assay.</p></fn><fn id="alz70319-tbl2-note-0006"><label>
+<sup>d</sup>
+</label><p>Janssen Simoa p‐tau217 assay.</p></fn><fn id="alz70319-tbl2-note-0007"><label>
+<sup>e</sup>
+</label><p>No statistical comparison performed.</p></fn><fn id="alz70319-tbl2-note-0008"><label>*</label><p> &lt; 0.05.</p></fn><fn id="alz70319-tbl2-note-0009"><label>**</label><p> &lt; 0.01.</p></fn><fn id="alz70319-tbl2-note-0010"><label>*** </label><p>&lt; 0.001 as compared with the stable cognition group, if not otherwise specified.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Our sensitivity analysis, which derived clusters of cognitive change trajectories while accounting for demographics (age at baseline, sex, and years of education), demonstrated almost perfect agreement with the original clusters derived without demographics in both cohort 1 (<italic toggle="yes">k</italic> = 0.951, <italic toggle="yes">z</italic> = 18.3, <italic toggle="yes">p</italic> &lt; 0.001) and cohort 2 (<italic toggle="yes">k</italic> = 0.905, <italic toggle="yes">z</italic> = 18.0, <italic toggle="yes">p</italic> &lt; 0.001). It is important to note that as in the original clustering, no significant differences in age, sex, or years of education were observed between clusters (see Figure <xref rid="alz70319-supinfo-0001" ref-type="">S2</xref> and Table <xref rid="alz70319-supinfo-0001" ref-type="">S2</xref>), further supporting the robustness of the findings and indicating minimal influence of demographic factors on cluster composition.</p></sec><sec id="alz70319-sec-0180"><label>3.3</label><title>Baseline plasma p‐tau217 differences between clusters</title><p>In Cohort 1 (Figure <xref rid="alz70319-fig-0002" ref-type="fig">2A</xref>), plasma p‐tau217 levels showed a stepwise elevation across clusters, with significantly higher levels in the slow cognitive decline cluster (<italic toggle="yes">b</italic> = 0.67, mean fold change = 1.27, <italic toggle="yes">p</italic> &lt; 0.05) and the rapid cognitive decline cluster (<italic toggle="yes">b</italic> = 1.38, mean fold change = 1.56, <italic toggle="yes">p</italic> &lt; 0.001) compared to the stable cluster. Similarly, in Cohort 2 (Figure <xref rid="alz70319-fig-0002" ref-type="fig">2B</xref>), plasma p‐tau217 levels also showed stepwise elevations, with higher levels in the slow cognitive decline cluster (<italic toggle="yes">b</italic> = 0.016, mean fold change = 1.25, <italic toggle="yes">p</italic> = 0.169) and the rapid cognitive decline cluster (<italic toggle="yes">b</italic> = 0.034, mean fold change = 1.55, <italic toggle="yes">p</italic> &lt; 0.05). Although only Cohort 1 showed statistically significant differences in both decline clusters, the mean fold changes were consistent across cohorts, indicating similar trends in p‐tau217 elevation regardless of assay differences (Figure <xref rid="alz70319-fig-0002" ref-type="fig">2D</xref>). To assess whether cluster membership, rather than baseline diagnostic status, was associated with plasma p‐tau217 levels, we conducted additional analyses in Cohort 1. Specifically, we used a linear regression model to compare baseline plasma p‐tau217 concentrations between cognitive decline clusters, including clinical diagnosis (CN/SCD vs MCI) as a covariate. The results were consistent with previous findings: higher p‐tau217 levels were observed in the slow cognitive decline cluster (<italic toggle="yes">b</italic> = 0.63, <italic toggle="yes">p</italic> &lt; 0.05) and the rapid decline cluster (<italic toggle="yes">b</italic> = 1.29, <italic toggle="yes">p</italic> &lt; 0.001) compared to the stable cluster. Baseline diagnosis was not a significant covariate (<italic toggle="yes">b</italic> = 0.19, <italic toggle="yes">p</italic> = 0.395). We then conducted analysis of variance (ANOVA) to compare baseline plasma p‐tau217 concentrations between CN/SCD and MCI cases within each cognitive decline cluster (see Figure <xref rid="alz70319-supinfo-0001" ref-type="">S3</xref>). After adjusting for multiple comparisons (FDR), no significant differences in plasma p‐tau217 levels were observed between CN/SCD and MCI cases within the stable cognition (<italic toggle="yes">p</italic> = 0.571) and slow cognitive decline clusters (<italic toggle="yes">p</italic> = 0.595). Within the rapid cognitive decline cluster, MCI cases exhibited higher mean plasma p‐tau217 levels than CN/SCD cases; however, this difference did not reach statistical significance (<italic toggle="yes">p</italic> = 0.099), and the CN/SCD subgroup was small (<italic toggle="yes">n</italic> = 9), likely limiting the reliability of this comparison. In Cohort 2, the number of cases stratified by both cluster and diagnosis was insufficient for meaningful statistical analysis.<xref rid="alz70319-fig-0001" ref-type="fig"> </xref>, <xref rid="alz70319-tbl-0002" ref-type="table"> </xref>
+</p><fig position="float" fig-type="FIGURE" id="alz70319-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Between cluster comparison of plasma phosphorylated tau‐217 (p‐tau217) in Cohort 1 and Cohort 2. (A) Cohort 1 and (B) Cohort 2 show between‐cluster comparisons of plasma p‐tau217, with red dots indicating means. Cohort 1 utilized the University of Gothenburg in‐house p‐tau217 assay, whereas Cohort 2 utilized a commercially available kit by Janssen. Both used Quanterix Simoa HD‐X setups. All statistical tests were two‐sided and false‐discovery rate was used to adjust for multiple comparisons in each cohort. Due to differing assays and the range of pg/mL between assays, (D) shows the similarities of mean fold changes for cognitive decline clusters as compared to the stable cognition clusters in both cohorts. (C) Shows steeper plasma p‐tau217 increases over time in slow‐ and rapid‐decline clusters compared to the stable cognition cluster, with 95% confidence intervals. Unstandardized beta coefficients (b) illustrate individual slopes for each cluster. Created in BioRender. Kirsebom, B. (2025) <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://BioRender.com/o54z804" ext-link-type="uri">https://BioRender.com/o54z804</ext-link>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-21-e70319-g002.jpg"/></fig></sec><sec id="alz70319-sec-0190"><label>3.4</label><title>Steeper plasma p‐tau217 increase over time in clinical progressors</title><p>Cohort 1 included longitudinal plasma p‐tau217 measurements for 185 participants (99.46%) represented in the clusters, with 438 observations over up to 9.66 years from baseline (mean = 3.75 years, SD = 1.74). Although all clusters showed significant increases in plasma p‐tau217 over time (Figure <xref rid="alz70319-fig-0002" ref-type="fig">2C</xref>), the increases were steeper in the slow cognitive decline (<italic toggle="yes">b</italic> = 0.351, <italic toggle="yes">SE</italic> = 0.07, <italic toggle="yes">p</italic> &lt; 0.001) and rapid cognitive decline (<italic toggle="yes">b</italic> = 0.421, <italic toggle="yes">SE</italic> = 0.09, <italic toggle="yes">p</italic> &lt; 0.001) clusters compared to the stable cognition cluster (<italic toggle="yes">b</italic> = 0.159, <italic toggle="yes">SE</italic> = 0.07, <italic toggle="yes">p</italic> &lt; 0.05). However, only the rapid decline group exhibited a significantly steeper increase than the stable group (<italic toggle="yes">b</italic> = 0.262, SE = 0.11, <italic toggle="yes">p</italic> &lt; 0.05), whereas the slow decline group showed a trend‐level significance (<italic toggle="yes">b</italic> = 0.192, SE = 0.10, <italic toggle="yes">p</italic> = 0.06).</p></sec></sec><sec id="alz70319-sec-0200"><label>4</label><title>DISCUSSION</title><p>In this study, we assessed the heterogeneity of clinical progression in Aβ+ cognitively normal and MCI individuals across two independent cohorts. Using a data‐driven k‐means clustering approach to analyze individual trajectories of cognitive change over time, we identified three clusters of cognitive change in both cohorts: one representing stable cognition with no or minimal cognitive change over time, and two representing either slower or more rapid cognitive decline. Furthermore, in both cohorts, a stepwise elevation in baseline plasma p‐tau217 levels was observed in the clusters with cognitive decline compared to those with stable cognition. In Cohort 1, repeated plasma p‐tau217 measurements demonstrated a progressive increase in plasma p‐tau217 concentrations over time, corresponding with clinical severity, particularly in the rapid cognitive decline cluster.</p><p>Higher plasma p‐tau217 levels have been shown to align with degree of tau‐tangle burden,<xref rid="alz70319-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> clinical severity, and future cognitive decline.<xref rid="alz70319-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70319-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz70319-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Our findings further validate these observations and extend them by emphasizing the importance of accounting for heterogeneity of clinical progression in non‐demented AD cases, beyond conventional criteria for cognitive normalcy and MCI.<xref rid="alz70319-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz70319-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Notably, 15% of individuals in Cohort 1 and 26.4% in the Cohort 2, initially classified as cognitively normal, were in the rapid cognitive decline cluster, likely representing cases with a more aggressive disease course. This highlights the limitations of relying solely on cognitive stage and amyloid status to assess disease severity and progression risk. In contrast, a substantial proportion of MCI cases were in the cognitively stable cluster (39.3% in Cohort 1 and 54.3% in Cohort 2). Although MCI is a well‐established risk factor for cognitive decline,<xref rid="alz70319-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> these findings suggest that many individuals remain stable or progress slowly. This aligns with evidence that not all Aβ+ individuals develop clinical symptoms during their lifetime.<xref rid="alz70319-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Moreover, it raises an important question: is defining AD solely based on biomarker evidence of amyloid plaques an adequate criterion for initiating disease‐modifying treatments? Our cognitive decline clusters included more MCI cases, which showed worse baseline cognitive performance than the stable cluster. This is partially expected, as these individuals are likely further along in the disease course rather than solely representing cases of rapid progression during the observation period. Nonetheless, this highlights the heterogeneity of progression, even among Aβ+ individuals with MCI.</p><p>Higher baseline plasma p‐tau217 concentrations in individuals poised for rapid cognitive decline suggest that this biomarker tracks disease severity, irrespective of cognitive stage. Moreover, clinical progressors exhibit steeper increases in plasma p‐tau217 levels over time, whereas cognitively stable cases show modest changes, reinforcing the biomarker's potential utility for disease monitoring.<xref rid="alz70319-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Plasma p‐tau217 has been extensively studied as a blood‐based diagnostic tool for AD,<xref rid="alz70319-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70319-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz70319-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> but its precision in Aβ+ cognitively normal individuals is lower due to reduced positive predictive values (PPVs) in this group.<xref rid="alz70319-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70319-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> This can increase false positives, which is expected in general population studies with lower pre‐test probabilities of amyloid pathology.<xref rid="alz70319-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> However, in studies using gold standard methods like CSF or amyloid PET, where amyloid status is well defined, this limitation should be less pronounced. It is important to note that our data‐driven analysis shows that not all cognitively normal individuals with amyloid pathology progress clinically over a 10‐year period, highlighting the heterogeneity among Aβ+ individuals. This underscores the importance of markers like plasma p‐tau217 that reflect the biological severity of AD rather than the mere presence of amyloid pathology. Plasma p‐tau217 levels rise with increasing clinical severity, suggesting it serves as a dynamic indicator of disease progression. The lower PPV in CN individuals may reflect smaller p‐tau217 elevations in earlier disease stages, highlighting its sensitivity to disease trajectory over static amyloid status. Aβ+ CN participants with higher plasma p‐tau217 concentrations may face greater risk of clinical progression. Two cutoff approaches, designed to minimize diagnostic discrepancies with CSF or amyloid PET,<xref rid="alz70319-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> could also help identify those at higher progression risk, offering a refined method for stratifying predementia AD populations.</p><p>Interestingly, plasma p‐tau217 reductions have been observed following treatment, suggesting a disease‐modifying effect downstream of Aβ plaque removal.<xref rid="alz70319-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> However, for participants with lower disease burden, the extent to which p‐tau217 levels may decrease remains unclear. The donanemab Phase 3 trial demonstrated more pronounced slowing of progression in individuals with lower tau‐tangle burden compared to the overall trial population.<xref rid="alz70319-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Although data for patients with higher tau‐tangle burden have not yet been published, it is plausible that earlier treatment in the disease course could yield greater benefits. Nevertheless, the heterogeneity of clinical progression was not accounted for in anti‐amyloid mAb trial designs<xref rid="alz70319-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="alz70319-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> raising the possibility that treatment effects may have been obscured or biased. As we have shown, heterogeneity in clinical progression among cognitively normal and MCI cases is likely tied to underlying disease severity. Although anti‐amyloid treatments may be more effective at earlier stages,<xref rid="alz70319-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> identifying patients most likely to benefit is essential. Beyond its diagnostic utility, plasma p‐tau217 could stratify patients by progression risk, guide trial participant selection, and improve detection of treatment effects. Longitudinal plasma p‐tau217 measurements could serve as secondary endpoints to monitor treatment efficacy and align biomarker changes with clinical outcomes. Repeated blood sampling could also track disease progression over time, enabling more precise evaluation of therapeutic benefits.</p><p>We excluded demographics such as age, sex, and education from our main cognitive models, focusing instead on individual trajectories of cognitive change. Although these factors influence cognitive performance in normative populations,<xref rid="alz70319-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="alz70319-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> they are also associated with AD risk.<xref rid="alz70319-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="alz70319-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> In our study, all participants had established amyloid pathology, and importantly, no significant demographic differences were observed between clusters. This suggests that individual trajectories of cognitive decline in AD may, to some extent, be independent of demographic factors. Supporting this, our sensitivity analyses showed that when demographics were included in the models, the resulting clusters exhibited almost perfect agreement with those from the original analysis.</p><p>Here, we showed that higher plasma p‐tau217 levels are associated with clinical severity and increased risk of clinical progression, reinforcing its role as a core AD biomarker. However, plasma p‐tau217 accounts for only part of the variance in clinical progression. Factors such as genetic predisposition<xref rid="alz70319-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> and co‐pathologies<xref rid="alz70319-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> likely influence progression rates and responses to treatments. Future research should explore the impact of co‐pathologies as accessible biomarkers become available. In addition, cognitive stability despite Aβ biomarker evidence suggests the presence of protective factors, whether genetic or environmental. Identifying these factors requires large‐scale studies, which could inform prevention strategies and novel therapeutic approaches.</p><p>This work is subject to some limitations. First, although the cognitive composite likely reduces within‐subject variability, it may obscure domain‐specific deficits sensitive to early AD or the stages of cognitive decline over time. Our k‐means clustering approach is one method to assess heterogeneity, but more advanced techniques, such as machine learning, could offer further refinement. Although our findings suggest that elevated p‐tau217 is associated with cognitive decline trajectories beyond diagnostic status alone, the small sample size of CN cases within the rapid cognitive decline cluster limits the robustness of this analysis and warrants cautious interpretation. Larger samples of Aβ+ CN individuals are needed to confirm this observation. Finally, although we replicated baseline differences in plasma p‐tau217 across cohorts using different assays, the lower availability of this marker in the ADC cohort reduced statistical power. Further validation in independent cohorts is needed to confirm these findings.</p><p>In conclusion, this study underscores the potential of plasma p‐tau217 as an objective measurement for tracking clinical heterogeneity and progression in AD. The agreements between plasma p‐tau217 increases and clinical severity might guide patient selection and stratification in clinical practice and trial selection. Future research should aim to validate these results in larger cohorts and explore the mechanisms underlying cognitive stability despite biomarker evidence of AD pathology to inform novel therapeutic strategies.</p></sec><sec sec-type="COI-statement" id="alz70319-sec-0220"><title>CONFLICT OF INTEREST STATEMENT</title><p>B. E. K. has served as a consultant for Biogen and medical advisory boards for Biogen and Eli Lilly. H. Z. has served at scientific advisory boards and/or as a consultant for Abbvie, Acumen, Alector, Alzinova, ALZpath, Amylyx, Annexon, Apellis, Artery Therapeutics, AZTherapies, Cognito Therapeutics, CogRx, Denali, Eisai, Enigma, LabCorp, Merry Life, Nervgen, Novo Nordisk, Optoceutics, Passage Bio, Pinteon Therapeutics, Prothena, Quanterix, Red Abbey Labs, reMYND, Roche, Samumed, Siemens Healthineers, Triplet Therapeutics, and Wave; has given lectures sponsored by Alzecure, BioArctic, Biogen, Cellectricon, Fujirebio, Lilly, Novo Nordisk, Roche, and WebMD; and is a co‐founder of Brain Biomarker Solutions in Gothenburg AB (BBS), which is a part of the GU Ventures Incubator Program (outside submitted work). K.B. has served as a consultant and at advisory boards for Abbvie, AC Immune, ALZPath, AriBio, Beckman‐Coulter, BioArctic, Biogen, Eisai, Lilly, Moleac Pte. Ltd, Neurimmune, Novartis, Ono Pharma, Prothena, Quanterix, Roche Diagnostics, Sanofi and Siemens Healthineers; has served at data monitoring committees for Julius Clinical and Novartis; has given lectures, produced educational materials and participated in educational programs for AC Immune, Biogen, Celdara Medical, Eisai and Roche Diagnostics; and is a co‐founder of Brain Biomarker Solutions in Gothenburg AB (BBS), which is a part of the GU Ventures Incubator Program, outside the work presented in this article. T.F. has served as a consultant and on advisory boards for Biogen, Eisai, Novo Nordisk, Eli Lilly, and Roche. R.E.S. has served on advisory boards for Eisai and Eli Lilly. A.V.H. has participated in educational programs for Eisai and an educational advisory board for Lilly. The remainder of the authors report no relevant conflict of interest relevant for this publication. Author disclosures are available in the <xref rid="alz70319-supinfo-0001" ref-type="">Supporting Information</xref>.</p></sec><sec id="alz70319-sec-0230"><title>CONSENT STATEMENT</title><p>The Dementia Disease Initiation study was approved by the Regional Committees for Medical and Health Research Ethics in Norway and conducted in line with the guidelines provided by the Declaration of Helsinki and the Norwegian Health and Research act. All participants gave written informed consent before participating in the study. The Amsterdam Dementia Cohort study was approved by the ethics committee of the Amsterdam UMC and the Biobank Research Ethics Committee of the Amsterdam University Medical Center (location Vrije Universiteit). All patients gave written informed consent, and the study was conducted in accordance with the guidelines provided by the Declaration of Helsinki.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz70319-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz70319-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e70319-s002.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz70319-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e70319-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz70319-sec-0210"><title>ACKNOWLEDGMENTS</title><p>This project was funded by the Norwegian Research Council, JPND/PMI‐AD (NRC 311993). H.Z. is a Wallenberg Scholar and a Distinguished Professor at the Swedish Research Council supported by grants from the Swedish Research Council (#2023‐00356, #2022‐01018, and #2019‐02397), the European Union's Horizon Europe research and innovation programme under grant agreement No 101053962, Swedish State Support for Clinical Research (#ALFGBG‐71320), the Alzheimer Drug Discovery Foundation (ADDF), USA (#201809‐2016862), the AD Strategic Fund and the Alzheimer's Association (#ADSF‐21‐831376‐C, #ADSF‐21‐831381‐C, #ADSF‐21‐831377‐C, and #ADSF‐24‐1284328‐C), the European Partnership on Metrology, co‐financed from the European Union's Horizon Europe Research and Innovation Programme and by the Participating States (NEuroBioStand, #22HLT07), the Bluefield Project, Cure Alzheimer's Fund, the Olav Thon Foundation, the Erling‐Persson Family Foundation, Familjen Rönströms Stiftelse, Stiftelsen för Gamla Tjänarinnor, Hjärnfonden, Sweden (#FO2022‐0270), the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska‐Curie grant agreement No 860197 (MIRIADE), the European Union Joint Programme – Neurodegenerative Disease Research (JPND2021‐00694), the National Institute for Health and Care Research University College London Hospitals Biomedical Research Centre, the UK Dementia Research Institute at UCL (UKDRI‐1003), and an anonymous donor. K.B. is supported by the Swedish Research Council (#2017‐00915 and #2022‐00732), the Swedish Alzheimer Foundation (#AF‐930351, #AF‐939721, #AF‐968270, and #AF‐994551), Hjärnfonden, Sweden (#ALZ2022‐0006 and #FO2024‐0048‐TK‐130), the Swedish state under the agreement between the Swedish government and the County Councils, the ALF‐agreement (#ALFGBG‐965240 and #ALFGBG‐1006418), the European Union Joint Program for Neurodegenerative Disorders (JPND2019‐466‐236), the Alzheimer's Association 2021 Zenith Award (ZEN‐21‐848495), the Alzheimer's Association 2022‐2025 Grant (SG‐23‐1038904 QC), La Fondation Recherche Alzheimer (FRA), Paris, France, the Kirsten and Freddy Johansen Foundation, Copenhagen, Denmark, Familjen Rönströms Stiftelse, Stockholm, Sweden, and an anonymous philanthropist and donor.</p></ack><ref-list id="alz70319-bibl-0001"><title>REFERENCES</title><ref id="alz70319-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz70319-cite-0002">
+<string-name name-style="western">
+<surname>van Dyck</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swanson</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aisen</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Lecanemab in early Alzheimer's disease</article-title>. <source>N Engl J Med</source>. <year>2023</year>;<volume>388</volume>:<fpage>9</fpage>‐<lpage>21</lpage>.<pub-id pub-id-type="pmid">36449413</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2212948</pub-id></mixed-citation></ref><ref id="alz70319-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz70319-cite-0003">
+<string-name name-style="western">
+<surname>Sims</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zimmer</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evans</surname>
+<given-names>CD</given-names>
+</string-name>, et al. <article-title>Donanemab in early symptomatic Alzheimer disease: the TRAILBLAZER‐ALZ 2 randomized clinical trial</article-title>. <source>JAMA</source>. <year>2023</year>;<volume>330</volume>:<fpage>512</fpage>‐<lpage>527</lpage>.<pub-id pub-id-type="pmid">37459141</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2023.13239</pub-id><pub-id pub-id-type="pmcid">PMC10352931</pub-id></mixed-citation></ref><ref id="alz70319-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz70319-cite-0004">
+<string-name name-style="western">
+<surname>Avgerinos</surname>
+<given-names>KI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manolopoulos</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferrucci</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kapogiannis</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Critical assessment of anti‐amyloid‐β monoclonal antibodies effects in Alzheimer's disease: a systematic review and meta‐analysis highlighting target engagement and clinical meaningfulness</article-title>. <source>Sci Rep</source>. <year>2024</year>;<volume>14</volume>:<elocation-id>25741</elocation-id>.<pub-id pub-id-type="pmid">39468148</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-024-75204-8</pub-id><pub-id pub-id-type="pmcid">PMC11520896</pub-id></mixed-citation></ref><ref id="alz70319-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz70319-cite-0005">
+<string-name name-style="western">
+<surname>Pontecorvo</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burnham</surname>
+<given-names>SC</given-names>
+</string-name>, et al. <article-title>Association of donanemab treatment with exploratory plasma biomarkers in early symptomatic Alzheimer disease: a secondary analysis of the trailblazer‐alz randomized clinical trial</article-title>. <source>JAMA Neurol</source>. <year>2022</year>;<volume>79</volume>:<fpage>1250</fpage>‐<lpage>1259</lpage>.<pub-id pub-id-type="pmid">36251300</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaneurol.2022.3392</pub-id><pub-id pub-id-type="pmcid">PMC9577883</pub-id></mixed-citation></ref><ref id="alz70319-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz70319-cite-0006">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>KY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Villain</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ayton</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Key questions for the evaluation of anti‐amyloid immunotherapies for Alzheimer's disease</article-title>. <source>Brain Commun</source>. <year>2023</year>;<volume>5</volume>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/braincomms/fcad175</pub-id><pub-id pub-id-type="pmcid">PMC10306158</pub-id><pub-id pub-id-type="pmid">37389302</pub-id></mixed-citation></ref><ref id="alz70319-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz70319-cite-0007">
+<string-name name-style="western">
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Savage</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Watanabe</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Genome‐wide meta‐analysis identifies new loci and functional pathways influencing Alzheimer's disease risk</article-title>. <source>Nat Genet</source>. <year>2019</year>;<volume>51</volume>:<fpage>404</fpage>‐<lpage>413</lpage>.<pub-id pub-id-type="pmid">30617256</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41588-018-0311-9</pub-id><pub-id pub-id-type="pmcid">PMC6836675</pub-id></mixed-citation></ref><ref id="alz70319-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz70319-cite-0008">
+<string-name name-style="western">
+<surname>Tomé</surname>
+<given-names>SO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thal</surname>
+<given-names>DR</given-names>
+</string-name>. <article-title>Co‐pathologies in Alzheimer's disease: just multiple pathologies or partners in crime?</article-title>
+<source>Brain</source>. <year>2021</year>;<volume>144</volume>:<fpage>706</fpage>‐<lpage>708</lpage>
+<pub-id pub-id-type="pmid">33844832</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awab027</pub-id></mixed-citation></ref><ref id="alz70319-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz70319-cite-0009">
+<string-name name-style="western">
+<surname>Ioannou</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bucci</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tzortzakakis</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Tau PET positivity predicts clinically relevant cognitive decline driven by Alzheimer's disease compared to comorbid cases; proof of concept in the ADNI study</article-title>. <source>Mol Psychiatry</source>. <year>2024</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41380-024-02672-9</pub-id><pub-id pub-id-type="pmcid">PMC11746147</pub-id><pub-id pub-id-type="pmid">39179903</pub-id></mixed-citation></ref><ref id="alz70319-bib-0009"><label>9</label><mixed-citation publication-type="miscellaneous" id="alz70319-cite-0010">
+<collab collab-type="authors">ClinicalTrials.gov</collab>
+. <article-title>AHEAD 3‐45 Study: A Study to Evaluate Efficacy and Safety of Treatment With Lecanemab in Participants With Preclinical Alzheimer's Disease and Elevated Amyloid and Also in Participants With Early Preclinical Alzheimer's Disease and Intermediate Amyloid</article-title>. <year>2020</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/study/NCT04468659" ext-link-type="uri">https://clinicaltrials.gov/study/NCT04468659</ext-link>
+</mixed-citation></ref><ref id="alz70319-bib-0010"><label>10</label><mixed-citation publication-type="miscellaneous" id="alz70319-cite-0011">
+<collab collab-type="authors">ClinicalTrials.gov</collab>
+. <article-title>A Donanemab (LY3002813) Prevention Study in Participants With Alzheimer's Disease (TRAILBLAZER‐ALZ 3)</article-title>. <year>2021</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/study/NCT05026866" ext-link-type="uri">https://clinicaltrials.gov/study/NCT05026866</ext-link>
+</mixed-citation></ref><ref id="alz70319-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz70319-cite-0012">
+<string-name name-style="western">
+<surname>Villain</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Planche</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Disentangling clinical and biological trajectories of neurodegenerative diseases</article-title>. <source>Nat Rev Neurol</source>. <year>2024</year>;<volume>20</volume>:<fpage>693</fpage>‐<lpage>694</lpage>.<pub-id pub-id-type="pmid">39117854</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41582-024-01004-3</pub-id></mixed-citation></ref><ref id="alz70319-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz70319-cite-0013">
+<string-name name-style="western">
+<surname>Sperling</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Are we there yet (and How Do We Get There…)?</article-title>
+<source>J Prev Alzheimer's Dis</source>. <year>2023</year>;<volume>10</volume>:<fpage>1</fpage>‐<lpage>2</lpage>.36641602
+</mixed-citation></ref><ref id="alz70319-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz70319-cite-0014">
+<string-name name-style="western">
+<surname>Albert</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeKosky</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickson</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>The diagnosis of mild cognitive impairment due to Alzheimer's disease: recommendations from the national institute on Aging‐Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2011</year>;<volume>7</volume>:<fpage>270</fpage>‐<lpage>279</lpage>.<pub-id pub-id-type="pmid">21514249</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2011.03.008</pub-id><pub-id pub-id-type="pmcid">PMC3312027</pub-id></mixed-citation></ref><ref id="alz70319-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz70319-cite-0015">
+<string-name name-style="western">
+<surname>Bondi</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Edmonds</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jak</surname>
+<given-names>AJ</given-names>
+</string-name>, et al. <article-title>Neuropsychological criteria for mild cognitive impairment improves diagnostic precision, biomarker associations, and progression rates</article-title>. <source>J Alzheimer's Dis: JAD</source>. <year>2014</year>;<volume>42</volume>:<fpage>275</fpage>‐<lpage>289</lpage>.<pub-id pub-id-type="pmid">24844687</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-140276</pub-id><pub-id pub-id-type="pmcid">PMC4133291</pub-id></mixed-citation></ref><ref id="alz70319-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz70319-cite-0016">
+<string-name name-style="western">
+<surname>Kirsebom</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Espenes</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hessen</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Demographically adjusted CERAD wordlist test norms in a Norwegian sample from 40 to 80 years</article-title>. <source>Clin Neuropsychol</source>. <year>2019</year>:<fpage>1</fpage>‐<lpage>13</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/13854046.2019.1574902</pub-id><pub-id pub-id-type="pmid">30849268</pub-id></mixed-citation></ref><ref id="alz70319-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz70319-cite-0017">
+<string-name name-style="western">
+<surname>Espenes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hessen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eliassen</surname>
+<given-names>IV</given-names>
+</string-name>, et al. <article-title>Demographically adjusted trail making test norms in a Scandinavian sample from 41 to 84 years</article-title>. <source>Clin Neuropsychol</source>. <year>2020</year>;<volume>34</volume>:<fpage>110</fpage>‐<lpage>126</lpage>.<pub-id pub-id-type="pmid">33034252</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/13854046.2020.1829068</pub-id></mixed-citation></ref><ref id="alz70319-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz70319-cite-0018">
+<string-name name-style="western">
+<surname>Savarimuthu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ponniah</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Cognition and cognitive reserve</article-title>. <source>Integr Psychol Behav Sci</source>. <year>2024</year>;<volume>58</volume>:<fpage>483</fpage>‐<lpage>501</lpage>.<pub-id pub-id-type="pmid">38279076</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12124-024-09821-3</pub-id></mixed-citation></ref><ref id="alz70319-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz70319-cite-0019">
+<string-name name-style="western">
+<surname>Rajagopal</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beltz</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hampstead</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Polk</surname>
+<given-names>TA</given-names>
+</string-name>. <article-title>Estimating individual trajectories of structural and cognitive decline in mild cognitive impairment for early prediction of progression to dementia of the Alzheimer's type</article-title>. <source>Sci Rep</source>. <year>2024</year>;<volume>14</volume>:<elocation-id>12906</elocation-id>.<pub-id pub-id-type="pmid">38839800</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-024-63301-7</pub-id><pub-id pub-id-type="pmcid">PMC11153588</pub-id></mixed-citation></ref><ref id="alz70319-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz70319-cite-0020">
+<string-name name-style="western">
+<surname>Gonzalez‐Ortiz</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirsebom</surname>
+<given-names>B‐E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yakoub</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Associations between changes in levels of phosphorylated tau and severity of cognitive impairment in early Alzheimer disease</article-title>. <source>Neurology</source>. <year>2025</year>;<volume>104</volume>(<issue>11</issue>):<elocation-id>e213676</elocation-id>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000213676</pub-id>
+<pub-id pub-id-type="pmid">40373247</pub-id>
+<pub-id pub-id-type="pmcid">PMC12083872</pub-id></mixed-citation></ref><ref id="alz70319-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz70319-cite-0021">
+<string-name name-style="western">
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mattsson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Plasma phospho‐tau217 is a potential early diagnostic and prognostic biomarker of Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2020</year>;<volume>16</volume>:<elocation-id>e042489</elocation-id>.</mixed-citation></ref><ref id="alz70319-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz70319-cite-0022">
+<string-name name-style="western">
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brum</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Molfetta</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Diagnostic accuracy of a plasma phosphorylated tau 217 immunoassay for Alzheimer disease pathology</article-title>. <source>JAMA Neurol</source>. <year>2024</year>;<volume>81</volume>:<fpage>255</fpage>‐<lpage>263</lpage>
+<pub-id pub-id-type="pmid">38252443</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaneurol.2023.5319</pub-id><pub-id pub-id-type="pmcid">PMC10804282</pub-id></mixed-citation></ref><ref id="alz70319-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz70319-cite-0023">
+<string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+<suffix>Jr.</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, et al. <article-title>Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>20</volume>(<issue>8</issue>):<fpage>5143</fpage>‐<lpage>5169</lpage>.<pub-id pub-id-type="pmid">38934362</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.13859</pub-id><pub-id pub-id-type="pmcid">PMC11350039</pub-id></mixed-citation></ref><ref id="alz70319-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz70319-cite-0024">
+<string-name name-style="western">
+<surname>Rissman</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langford</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raman</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Plasma Aβ42/Aβ40 and phospho‐tau217 concentration ratios increase the accuracy of amyloid PET classification in preclinical Alzheimer's disease</article-title>. <source>Alzheimer's Dement: J Alzheimer's Assoc</source>. <year>2024</year>;<volume>20</volume>:<fpage>1214</fpage>‐<lpage>1224</lpage>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.13542</pub-id><pub-id pub-id-type="pmcid">PMC10916957</pub-id><pub-id pub-id-type="pmid">37932961</pub-id></mixed-citation></ref><ref id="alz70319-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz70319-cite-0025">
+<string-name name-style="western">
+<surname>Therriault</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pola</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Comparison of two plasma p‐tau217 assays to detect and monitor Alzheimer's pathology</article-title>. <source>EBioMedicine</source>. <year>2024</year>;<volume>102</volume>:<elocation-id>105046</elocation-id>.<pub-id pub-id-type="pmid">38471397</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ebiom.2024.105046</pub-id><pub-id pub-id-type="pmcid">PMC10943661</pub-id></mixed-citation></ref><ref id="alz70319-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz70319-cite-0026">
+<string-name name-style="western">
+<surname>Groot</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cicognola</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bali</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Diagnostic and prognostic performance to detect Alzheimer's disease and clinical progression of a novel assay for plasma p‐tau217</article-title>. <source>Alzheimer's Res Ther</source>. <year>2022</year>;<volume>14</volume>:<fpage>67</fpage>.<pub-id pub-id-type="pmid">35568889</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-022-01005-8</pub-id><pub-id pub-id-type="pmcid">PMC9107269</pub-id></mixed-citation></ref><ref id="alz70319-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz70319-cite-0027">
+<string-name name-style="western">
+<surname>Ossenkoppele</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salvadó</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Prediction of future cognitive decline among cognitively unimpaired individuals using measures of soluble phosphorylated tau or tau tangle pathology</article-title>. <source>medRxiv</source>. <year>2024</year>
+</mixed-citation></ref><ref id="alz70319-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz70319-cite-0028">
+<string-name name-style="western">
+<surname>Mattsson‐Carlgren</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palmqvist</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Longitudinal plasma p‐tau217 is increased in early stages of Alzheimer's disease</article-title>. <source>Brain</source>. <year>2020</year>;<volume>143</volume>:<fpage>3234</fpage>‐<lpage>3241</lpage>.<pub-id pub-id-type="pmid">33068398</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awaa286</pub-id><pub-id pub-id-type="pmcid">PMC7719022</pub-id></mixed-citation></ref><ref id="alz70319-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz70319-cite-0029">
+<string-name name-style="western">
+<surname>Jonaitis</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cody</surname>
+<given-names>KA</given-names>
+</string-name>, et al. <article-title>Plasma phosphorylated tau 217 in preclinical Alzheimer's disease</article-title>. <source>Brain Commun</source>. <year>2023</year>;<volume>5</volume>:<elocation-id>fcad057</elocation-id>.<pub-id pub-id-type="pmid">37013174</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/braincomms/fcad057</pub-id><pub-id pub-id-type="pmcid">PMC10066514</pub-id></mixed-citation></ref><ref id="alz70319-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz70319-cite-0030">
+<string-name name-style="western">
+<surname>Fladby</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palhaugen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Selnes</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Detecting at‐risk Alzheimer's disease cases</article-title>. <source>J Alzheimers Dis</source>. <year>2017</year>;<volume>60</volume>:<fpage>97</fpage>‐<lpage>105</lpage>
+<pub-id pub-id-type="pmid">28826181</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-170231</pub-id><pub-id pub-id-type="pmcid">PMC5611830</pub-id></mixed-citation></ref><ref id="alz70319-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz70319-cite-0031">
+<string-name name-style="western">
+<surname>Nordengen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirsebom</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richter</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Longitudinal cerebrospinal fluid measurements show glial hypo‐ and hyperactivation in predementia Alzheimer's disease</article-title>. <source>J Neuroinflammation</source>. <year>2023</year>;<volume>20</volume>:<fpage>298</fpage>
+<pub-id pub-id-type="pmid">38093257</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12974-023-02973-w</pub-id><pub-id pub-id-type="pmcid">PMC10720118</pub-id></mixed-citation></ref><ref id="alz70319-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz70319-cite-0032">
+<string-name name-style="western">
+<surname>van der Flier</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scheltens</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Amsterdam dementia cohort: performing research to optimize care</article-title>. <source>J Alzheimer's Dis: JAD</source>. <year>2018</year>;<volume>62</volume>:<fpage>1091</fpage>‐<lpage>1111</lpage>.<pub-id pub-id-type="pmid">29562540</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-170850</pub-id><pub-id pub-id-type="pmcid">PMC5870023</pub-id></mixed-citation></ref><ref id="alz70319-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz70319-cite-0033">
+<string-name name-style="western">
+<surname>McKhann</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drachman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Folstein</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katzman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Price</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stadlan</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Clinical diagnosis of Alzheimer`s disease: report of the NINDS‐ARDRA work group under the auspices of health and human services task force on Alzheimer`s disease</article-title>. <source>Neurology</source>. <year>1984</year>;<volume>34</volume>:<fpage>939</fpage>‐<lpage>944</lpage>.<pub-id pub-id-type="pmid">6610841</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.34.7.939</pub-id></mixed-citation></ref><ref id="alz70319-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz70319-cite-0034">
+<string-name name-style="western">
+<surname>McKhann</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knopman</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chertkow</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>The diagnosis of dementia due to Alzheimer's disease: recommendations from the National Institute on Aging‐Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2011</year>;<volume>7</volume>:<fpage>263</fpage>‐<lpage>269</lpage>.<pub-id pub-id-type="pmid">21514250</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2011.03.005</pub-id><pub-id pub-id-type="pmcid">PMC3312024</pub-id></mixed-citation></ref><ref id="alz70319-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz70319-cite-0035">
+<string-name name-style="western">
+<surname>Petersen</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waring</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ivnik</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tangalos</surname>
+<given-names>EG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kokmen</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Mild cognitive impairment: clinical characterization and outcome</article-title>. <source>Arch Neurol</source>. <year>1999</year>;<volume>56</volume>:<fpage>303</fpage>‐<lpage>308</lpage>.<pub-id pub-id-type="pmid">10190820</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archneur.56.3.303</pub-id></mixed-citation></ref><ref id="alz70319-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz70319-cite-0036">
+<string-name name-style="western">
+<surname>Siafarikas</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirsebom</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Srivastava</surname>
+<given-names>DP</given-names>
+</string-name>, et al. <article-title>Cerebrospinal fluid markers for synaptic function and Alzheimer type changes in late life depression</article-title>. <source>Sci Rep</source>. <year>2021</year>;<volume>11</volume>:<elocation-id>20375</elocation-id>
+<pub-id pub-id-type="pmid">34645914</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-021-99794-9</pub-id><pub-id pub-id-type="pmcid">PMC8514484</pub-id></mixed-citation></ref><ref id="alz70319-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz70319-cite-0037">
+<string-name name-style="western">
+<surname>Tijms</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Willemse</surname>
+<given-names>EAJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zwan</surname>
+<given-names>MD</given-names>
+</string-name>, et al. <article-title>Unbiased approach to counteract upward drift in cerebrospinal fluid amyloid‐beta 1‐42 analysis results</article-title>. <source>Clin Chem</source>. <year>2018</year>;<volume>64</volume>:<fpage>576</fpage>‐<lpage>585</lpage>.<pub-id pub-id-type="pmid">29208658</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1373/clinchem.2017.281055</pub-id></mixed-citation></ref><ref id="alz70319-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz70319-cite-0038">
+<string-name name-style="western">
+<surname>Gonzalez‐Ortiz</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>PCL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>González‐Escalante</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>A novel ultrasensitive assay for plasma p‐tau217: performance in individuals with subjective cognitive decline and early Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>1239</fpage>‐<lpage>1249</lpage>.<pub-id pub-id-type="pmid">37975513</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.13525</pub-id><pub-id pub-id-type="pmcid">PMC10916963</pub-id></mixed-citation></ref><ref id="alz70319-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz70319-cite-0039">
+<string-name name-style="western">
+<surname>Malek‐Ahmadi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perez</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mufson</surname>
+<given-names>EJ</given-names>
+</string-name>. <article-title>Cognitive composite score association with Alzheimer's disease plaque and tangle pathology</article-title>. <source>Alzheimer's Res Ther</source>. <year>2018</year>;<volume>10</volume>:<fpage>90</fpage>
+<pub-id pub-id-type="pmid">30205840</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-018-0401-z</pub-id><pub-id pub-id-type="pmcid">PMC6134796</pub-id></mixed-citation></ref><ref id="alz70319-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz70319-cite-0040">
+<string-name name-style="western">
+<surname>Arenaza‐Urquijo</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boyle</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casaletto</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Sex and gender differences in cognitive resilience to aging and Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>5695</fpage>‐<lpage>5719</lpage>.<pub-id pub-id-type="pmid">38967222</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.13844</pub-id><pub-id pub-id-type="pmcid">PMC11350140</pub-id></mixed-citation></ref><ref id="alz70319-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz70319-cite-0041">
+<string-name name-style="western">
+<surname>Hersi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Irvine</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gomes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Birkett</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krewski</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Risk factors associated with the onset and progression of Alzheimer's disease: a systematic review of the evidence</article-title>. <source>NeuroToxicology</source>. <year>2017</year>;<volume>61</volume>:<fpage>143</fpage>‐<lpage>187</lpage>.<pub-id pub-id-type="pmid">28363508</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuro.2017.03.006</pub-id></mixed-citation></ref><ref id="alz70319-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz70319-cite-0042">
+<string-name name-style="western">
+<surname>Schindler</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Galasko</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pereira</surname>
+<given-names>AC</given-names>
+</string-name>, et al. <article-title>Acceptable performance of blood biomarker tests of amyloid pathology — recommendations from the global CEO initiative on Alzheimer's disease</article-title>. <source>Nat Rev Neurol</source>. <year>2024</year>;<volume>20</volume>:<fpage>426</fpage>‐<lpage>439</lpage>.<pub-id pub-id-type="pmid">38866966</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41582-024-00977-5</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

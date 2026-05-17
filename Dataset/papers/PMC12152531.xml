@@ -1,0 +1,434 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="nan70022" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Neuropathol Appl Neurobiol</journal-id><journal-id journal-id-type="iso-abbrev">Neuropathol Appl Neurobiol</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">NAN</journal-id><journal-title-group><journal-title>Neuropathology and Applied Neurobiology</journal-title></journal-title-group><issn pub-type="ppub">0305-1846</issn><issn pub-type="epub">1365-2990</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12152531</article-id><article-id pub-id-type="pmcid-ver">PMC12152531.1</article-id><article-id pub-id-type="pmcaid">12152531</article-id><article-id pub-id-type="pmcaiid">12152531</article-id><article-id pub-id-type="pmid">40495448</article-id><article-id pub-id-type="doi">10.1111/nan.70022</article-id><article-id pub-id-type="publisher-id">NAN70022</article-id><article-id pub-id-type="other">9515983</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Lecanemab Binds to Transgenic Mouse Model‐Derived Amyloid‐β Fibril Structures Resembling Alzheimer's Disease Type I, Type II and Arctic Folds</article-title></title-group><contrib-group><contrib id="nan70022-cr-0001" contrib-type="author"><name name-style="western"><surname>Peralta Reyes</surname><given-names initials="F">Fernanda S.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8379-4827</contrib-id><xref rid="nan70022-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="nan70022-cr-0002" contrib-type="author"><name name-style="western"><surname>Sommerhage</surname><given-names initials="S">Simon</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0009-8351-5141</contrib-id><xref rid="nan70022-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="nan70022-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="nan70022-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="nan70022-cr-0003" contrib-type="author"><name name-style="western"><surname>Willbold</surname><given-names initials="D">Dieter</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0065-7366</contrib-id><xref rid="nan70022-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="nan70022-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="nan70022-cr-0004" contrib-type="author" corresp="yes"><name name-style="western"><surname>Schröder</surname><given-names initials="G">Gunnar F.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1803-5431</contrib-id><xref rid="nan70022-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="nan70022-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="nan70022-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>gu.schroeder@fz-juelich.de</email></address></contrib><contrib id="nan70022-cr-0005" contrib-type="author" corresp="yes"><name name-style="western"><surname>Gremer</surname><given-names initials="L">Lothar</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7065-5027</contrib-id><xref rid="nan70022-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="nan70022-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>l.gremer@fz-juelich.de</email></address></contrib></contrib-group><aff id="nan70022-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Institut für Physikalische Biologie</named-content>
+<institution>Heinrich‐Heine‐Universität Düsseldorf</institution>
+<city>Düsseldorf</city>
+<country country="DE">Germany</country>
+</aff><aff id="nan70022-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Ernst Ruska‐Centre for Microscopy and Spectroscopy with Electrons, Structural Biology (ER‐C‐3)</named-content>
+<institution>Forschungszentrum Jülich</institution>
+<city>Jülich</city>
+<country country="DE">Germany</country>
+</aff><aff id="nan70022-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Biological Information Processing, Structural Biochemistry (IBI‐7)</named-content>
+<institution>Forschungszentrum Jülich</institution>
+<city>Jülich</city>
+<country country="DE">Germany</country>
+</aff><aff id="nan70022-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Physics Department</named-content>
+<institution>Heinrich‐Heine‐Universität Düsseldorf</institution>
+<city>Düsseldorf</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Gunnar F. Schröder (<email>gu.schroeder@fz-juelich.de</email>)<break/>
+Lothar Gremer (<email>l.gremer@fz-juelich.de</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2025</year></pub-date><volume>51</volume><issue seq="91">3</issue><issue-id pub-id-type="pmc-issue-id">490335</issue-id><issue-id pub-id-type="doi">10.1111/nan.v51.3</issue-id><elocation-id>e70022</elocation-id><history><date date-type="rev-recd"><day>04</day><month>5</month><year>2025</year></date><date date-type="received"><day>08</day><month>11</month><year>2024</year></date><date date-type="accepted"><day>15</day><month>5</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>11</day><month>06</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>12</day><month>06</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-06-12 00:25:15.383"><day>12</day><month>06</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Neuropathology and Applied Neurobiology</italic> published by John Wiley &amp; Sons Ltd on behalf of British Neuropathological Society.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="NAN-51-e70022.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:NAN-51-e70022.pdf"/><abstract><title>ABSTRACT</title><sec id="nan70022-sec-1001"><title>Aims</title><p>Lecanemab, an Alzheimer’s disease US Food and Drug Administration‐approved monoclonal antibody, was previously reported to have a high affinity against intermediately sized amyloid‐β aggregates. Subsequently, it was observed by immunogold labelling that lecanemab can also bind to human type I amyloid‐β fibrils. To determine whether lecanemab binds to amyloid‐β fibril structures other than type I, we analysed its binding capacity to various structurally defined and pathologically relevant amyloid‐β fibrils.</p></sec><sec id="nan70022-sec-2002"><title>Methods</title><p>We performed immunogold labelling with lecanemab on extracted amyloid‐β fibril preparations from six different Alzheimer´s disease mouse models whose structures were previously solved by cryo‐EM and quantified the relative binding affinities of lecanemab to the different fibril polymorphs.</p></sec><sec id="nan70022-sec-3003"><title>Results</title><p>Our results show that lecanemab exhibits high binding affinity to amyloid‐β fibril structures that have a flexible N‐terminus in common, as is the case for type I, type II and murine type III amyloid‐β fibril polymorphs, which resemble or are identical to human structures observed in sporadic and familial cases of Alzheimer’s disease, including a case with the Arctic (E22G) mutation. In contrast, only weak lecanemab binding was observed for murine amyloid‐β fibrils with a fixed and ordered N‐terminus.</p></sec><sec id="nan70022-sec-4004"><title>Conclusions</title><p>These findings may also explain the low incidence of ARIA‐E with lecanemab in clinical trials. This is because human meningeal amyloid‐β fibrils derived from cerebral amyloid angiopathy affected brain tissue also contain a fixed and ordered N‐terminus, most likely preventing lecanemab binding.</p></sec><sec id="nan70022-sec-9004"><title>Summary</title><p>
+<list list-type="bullet" id="nan70022-list-5001"><list-item id="nan70022-li-6001"><p>Lecanemab binds to Aβ fibrils from several Alzheimer's disease tg‐mice whose structures resemble the type I, type II and Arctic folds found in Alzheimer's patients, all of which share a flexible, unstructured N‐terminus.</p></list-item><list-item id="nan70022-li-7002"><p>Lecanemab is therefore expected to be active against all common familial and sporadic Alzheimer's cases containing these folds.</p></list-item><list-item id="nan70022-li-8003"><p>Lecanemab binding ability is unaffected by and tolerates the Arctic E22G mutation, at least in type I or Arctic folds.</p></list-item><list-item id="nan70022-li-9004"><p>Only weak, if any, lecanemab binding was observed to Aβ fibrils derived from tg‐SwDI mice, whose structures DI1, DI2 and DI3 all share structured and fixed N‐termini.</p></list-item><list-item id="nan70022-li-2105"><p>Since the fixed N‐termini of tg‐SwDI DI1 fibrils and human meningeal Aβ40 fibrils derived from CAA‐affected brain are identical, most likely preventing lecanemab binding, treatment with lecanemab may be less effective or ineffective against CAA, but may explain the reported beneficial low ARIA‐E frequency with this antibody.</p></list-item></list>
+</p></sec></abstract><abstract abstract-type="graphical"><p>Lecanemab binds to Aβ fibrils from several transgenic mouse models of Alzheimer's disease, all of which exhibit flexible, unstructured N‐termini and resemble the type I, type II and Arctic folds found in Alzheimer's patients. Lecanemab is therefore expected to be active against all common familial and sporadic cases of Alzheimer's disease containing these folds. In contrast, only weak binding was observed to Aβ fibrils from tg‐SwDI mice, whose structures DI1, DI2 and DI3 all have structured and fixed N‐termini similar to human meningeal Aβ40 fibrils from CAA‐affected brains, which may explain the reported beneficial low frequency of ARIA‐E with this antibody.<boxed-text position="anchor" content-type="graphic" id="nan70022-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="NAN-51-e70022-g001.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="nan70022-kwd-0001">Alzheimer's disease</kwd><kwd id="nan70022-kwd-0002">amyloid‐beta</kwd><kwd id="nan70022-kwd-0003">ARIA‐E</kwd><kwd id="nan70022-kwd-0004">cryo‐EM structures</kwd><kwd id="nan70022-kwd-0005">immunogold‐EM</kwd><kwd id="nan70022-kwd-0006">lecanemab</kwd><kwd id="nan70022-kwd-0007">tg‐mouse models</kwd></kwd-group><counts><fig-count count="4"/><table-count count="0"/><page-count count="8"/><word-count count="5300"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.7 mode:remove_FC converted:11.06.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="nan70022-ntgp-0001"><fn fn-type="funding" id="nan70022-note-0001"><p>
+<bold>Funding:</bold> The authors received no specific funding for this work.</p></fn></fn-group></notes></front><body id="nan70022-body-0001"><def-list list-content="abbreviations" id="nan70022-dl-0001"><title>Abbreviations</title><def-item><term id="nan70022-li-0001">
+<sc>ad</sc>
+</term><def id="nan70022-li-0002"><p>Alzheimer's disease</p></def></def-item><def-item><term id="nan70022-li-0003">ARIA‐E</term><def id="nan70022-li-0004"><p>amyloid‐related imaging abnormalities with oedema</p></def></def-item><def-item><term id="nan70022-li-0005">Aβ</term><def id="nan70022-li-0006"><p>amyloid‐beta</p></def></def-item><def-item><term id="nan70022-li-0007">AβPP</term><def id="nan70022-li-0008"><p>Aβ protein precursor</p></def></def-item><def-item><term id="nan70022-li-0009">CAA</term><def id="nan70022-li-0010"><p>cerebral amyloid angiopathy</p></def></def-item><def-item><term id="nan70022-li-0011">cryo‐EM</term><def id="nan70022-li-0012"><p>cryogenic electron microscopy</p></def></def-item><def-item><term id="nan70022-li-0013">EM</term><def id="nan70022-li-0014"><p>electron microscopy</p></def></def-item><def-item><term id="nan70022-li-0015">FDA</term><def id="nan70022-li-0016"><p>US Food and Drug Administration</p></def></def-item><def-item><term id="nan70022-li-0017">PET</term><def id="nan70022-li-0018"><p>positron emission tomography</p></def></def-item><def-item><term id="nan70022-li-0019">TEM</term><def id="nan70022-li-0020"><p>transmission electron microscopy</p></def></def-item><def-item><term id="nan70022-li-0021">tg‐mouse</term><def id="nan70022-li-0022"><p>transgenic mouse</p></def></def-item></def-list><sec id="nan70022-sec-0004"><label>1</label><title>Introduction</title><p>Alzheimer's disease (<sc>ad</sc>) is the most common type of dementia and is pathologically associated with the presence of extracellular amyloid‐β (Aβ) plaques and intracellular neurofibrillary tangles. Under pathological conditions, monomeric Aβ aggregates into oligomers, protofibrils, fibrils and eventually plaques [<xref rid="nan70022-bib-0001" ref-type="bibr">1</xref>]. Different therapeutic options intend to target different Aβ species; however, many of them have failed to show clinical efficacy, while others, such as donanemab and lecanemab (a.k.a. BAN2401), are fully approved by the US Food and Drug Administration (FDA) [<xref rid="nan70022-bib-0002" ref-type="bibr">2</xref>, <xref rid="nan70022-bib-0003" ref-type="bibr">3</xref>]. Additionally, aducanumab has also received an accelerated, conditional FDA approval [<xref rid="nan70022-bib-0002" ref-type="bibr">2</xref>].</p><p>mAb158, the murine predecessor antibody of lecanemab, was mainly designed to bind soluble protofibrils rather than mature and insoluble fibrils [<xref rid="nan70022-bib-0004" ref-type="bibr">4</xref>, <xref rid="nan70022-bib-0005" ref-type="bibr">5</xref>]. Protofibrils have previously been described as soluble intermediate aggregates with a diameter of 6–8 nm that can intertwine to form a structure that can undergo conformational changes, eventually forming mature, insoluble fibrils [<xref rid="nan70022-bib-0004" ref-type="bibr">4</xref>, <xref rid="nan70022-bib-0005" ref-type="bibr">5</xref>, <xref rid="nan70022-bib-0006" ref-type="bibr">6</xref>, <xref rid="nan70022-bib-0007" ref-type="bibr">7</xref>]. Whether protofibrils are indeed separate structural entities, distinct from short soluble fibrils, remains to be clarified. Notwithstanding, ELISA experiments have shown that mAb158 also binds Aβ fibrils, suggesting that the epitope present in protofibrils is also present in fibrillar structures [<xref rid="nan70022-bib-0004" ref-type="bibr">4</xref>, <xref rid="nan70022-bib-0005" ref-type="bibr">5</xref>]. Nevertheless, one should take into account that mAb158 has no affinity for the Aβ protein precursor (AβPP) and does not bind fibrils from other amyloids [<xref rid="nan70022-bib-0004" ref-type="bibr">4</xref>, <xref rid="nan70022-bib-0005" ref-type="bibr">5</xref>].</p><p>Furthermore, it has been reported that the humanised IgG1 antibody lecanemab can bind with high affinity to soluble protofibrils and only with moderate selectivity to Aβ fibrils when compared to monomeric Aβ [<xref rid="nan70022-bib-0008" ref-type="bibr">8</xref>]. Soluble protofibrils have been portrayed on more than one occasion as the most toxic Aβ species [<xref rid="nan70022-bib-0009" ref-type="bibr">9</xref>], making lecanemab a high‐profile therapeutic option. During a phase 3 clinical trial, lecanemab administration to patients in the early stage of the disease showed decreased amyloid levels in the brain and a moderate reduction of cognitive decline when compared to placebo [<xref rid="nan70022-bib-0008" ref-type="bibr">8</xref>]. When interpreting the data regarding amyloid levels in the brain, it is worth highlighting that lecanemab does not interfere with the positron emission tomography (PET) radioligand [<sup>11</sup>C]‐Pittsburgh compound B when binding to Aβ deposits, as both have different binding sites [<xref rid="nan70022-bib-0010" ref-type="bibr">10</xref>].</p><p>Although it was reported that lecanemab does not have a high binding affinity for fibrils [<xref rid="nan70022-bib-0008" ref-type="bibr">8</xref>], it has been shown by immunohistochemistry that lecanemab also stains Aβ plaques [<xref rid="nan70022-bib-0011" ref-type="bibr">11</xref>]. Additionally, it was portrayed by immunogold‐electron microscopy (immunogold‐EM) that lecanemab can indeed bind Aβ fibrils that were observed in ultracentrifugal supernatants of aqueous extracts from the human brain parenchyma [<xref rid="nan70022-bib-0012" ref-type="bibr">12</xref>], as shown for two samples containing mainly Aβ fibrils denominated as type I [<xref rid="nan70022-bib-0012" ref-type="bibr">12</xref>], observed in sporadic and familial <sc>ad</sc> cases [<xref rid="nan70022-bib-0013" ref-type="bibr">13</xref>, <xref rid="nan70022-bib-0014" ref-type="bibr">14</xref>]. Whether lecanemab can also bind to other pathologically relevant types of Aβ polymorphs remains to be elucidated.</p><p>Therefore, we analysed the binding competency of lecanemab by immunogold‐EM on various ex vivo Aβ fibril polymorphs. These Aβ fibrils were derived from brain samples of six common pre‐clinical <sc>ad</sc> transgenic mouse (tg‐mouse) models, whose structures have been recently solved by cryo‐EM [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>]. Our selection includes the tg‐APP<sub>ArcSwe</sub> tg‐mouse model, which was used in the pre‐clinical evaluation of lecanemab [<xref rid="nan70022-bib-0016" ref-type="bibr">16</xref>] and is, so far, the only model whose Aβ fibrils resemble the human type I Aβ polymorph. Additionally, <sc>ad</sc> tg‐mouse models that exhibit fibrils of the human type II polymorph, mainly observed in familial <sc>ad</sc> cases and other conditions, as well as tg‐mouse models resembling the human Arctic fibril fold, and finally, a tg‐mouse model with other novel Aβ structures were assessed [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>].</p></sec><sec sec-type="materials-and-methods" id="nan70022-sec-0005"><label>2</label><title>Materials and Methods</title><sec id="nan70022-sec-0006"><label>2.1</label><title>Animals</title><p>The ex vivo Aβ fibril sample preparations analysed in the present study were previously used to solve their cryo‐EM structures [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>] and were isolated from the following mouse models: APP/PS1 (APPswe/PSEN1delE9) (heterozygous; <italic toggle="yes">n</italic> = 1 (male); 33 months old) on a C57BL/6;C3H background. ARTE10 (homozygous; <italic toggle="yes">n</italic> = 1 (female); 24 months old) on a C57Bl/6 background, which was a gift from Taconic Biosciences. Tg‐SwDI (heterozygous; <italic toggle="yes">n</italic> = 1 (male); 29 months old) on a C57BL/6 background, which is not only used as a model for AD but also for cerebral amyloid angiopathy (CAA). APP23 (heterozygous; <italic toggle="yes">n</italic> = 1 (male); 21 months old) on a C56BL/6 background. Tg‐APP<sub>ArcSwe</sub> (heterozygous; <italic toggle="yes">n</italic> = 1 (male); 18 months old) and tg‐APP<sub>Swe</sub> (heterozygous; <italic toggle="yes">n</italic> = 1 (male); 22 months old), both on a C57BL/6 background.</p></sec><sec id="nan70022-sec-0007"><label>2.2</label><title>Aβ Fibril Extraction</title><p>Aβ fibril extraction was done using sarkosyl solubilisation [<xref rid="nan70022-bib-0014" ref-type="bibr">14</xref>, <xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>]. Between 0.4 and 0.6 g of non‐fixed brain tissue from six different <sc>ad</sc> tg‐mouse models was snap‐frozen in −80 °C cold isopentane and stored at −80 °C. The tissue was then thawed and physically homogenised in a 20‐fold volume (w/v) of extraction buffer (10 mM Tris–HCl, pH 7.5, 0.8 M NaCl, 10% sucrose, 1 mM EGTA) using a Dounce glass tissue grinder. 10% aqueous sarkosyl (Sigma‐Aldrich) was added to bring the brain homogenate to a final sarkosyl concentration of 2%. The sample was mixed thoroughly by pipetting up and down 30 times before incubation at 37 °C for 1 h. The homogenate was then centrifuged at 10,000×<italic toggle="yes">g</italic> in a tabletop centrifuge at 4 °C for 10 min. The pellet was discarded, and the supernatant was ultracentrifuged at 100,000x<italic toggle="yes">g</italic> at 4 °C for 1 h (Beckman Coulter Optima MAX‐XP, TLA55 fixed‐angle rotor). The resulting supernatant was discarded, and the pellet was resuspended and mixed with extraction buffer (1 mL·g<sup>−1</sup> original tissue mass) before low‐speed centrifugation at 5000×<italic toggle="yes">g</italic> at 4 °C for 5 min. Afterwards, the supernatant was threefold diluted in dilution buffer (50 mM Tris–HCl, pH 7.5, 0.15 M NaCl, 10% sucrose, 0.2% sarkosyl) and ultracentrifuged once more at 100,000×<italic toggle="yes">g</italic> at 4 °C for 30 min. The final Aβ fibril‐rich pellet was resuspended (100 μL·g<sup>−1</sup> original tissue mass) in resuspension buffer (20 mM Tris–HCl, pH 7.4, 50 mM NaCl), frozen in liquid nitrogen and stored at −80 °C for further use.</p></sec><sec id="nan70022-sec-0008"><label>2.3</label><title>Immunogold Labelling</title><p>Immunogold labelling was performed according to the protocol of Gulati et al. [<xref rid="nan70022-bib-0017" ref-type="bibr">17</xref>]. In brief, 300‐mesh carbon‐coated copper grids (EM Sciences, ECF300‐CU) were glow discharged with a PELCO easiGlow Glow Discharge Cleaning System. Three microliters samples of extracted Aβ fibril suspension were incubated for 2 min on the grid's surface and excess liquid was blotted with filter paper afterwards. The grid was then placed on top of a 15 μL H<sub>2</sub>O droplet on parafilm for 1 min and blotted. Afterwards, the grid was transferred to a 15 μL droplet of blocking buffer (99 mL PBS, pH 7.4, 100 μL Tween‐20, 1 mL 30% IgG‐free bovine serum albumin) inside a humidifying chamber and incubated for 15 min. After blotting, the grid was transferred to a 15 μL droplet of lecanemab primary antibody diluted in blocking buffer to 2 μg·ml<sup>−1</sup> for 1–2 h and blotted once more. The grid was washed five times by incubating it in 15 μL droplets of washing buffer (100 mL PBS, pH 7.4, 100 μL Tween‐20, 100 μL 30% IgG‐free bovine serum albumin) for 3 min and blotting with filter paper after each wash. The grid was then transferred to a 10 nm gold‐conjugated goat anti‐human secondary antibody (Abcam) diluted 1:20 in a droplet of blocking buffer for 1 h. The grid was washed five times with washing buffer and three times with H<sub>2</sub>O as described above. The grid was then transferred to a 15 μL droplet of 1% uranyl acetate for 1 min, blotted and air‐dried. The prepared grids were examined on a Talos L120C G2 transmission electron microscope (Thermo Fisher Scientific) operated at 120 kV (LaB6/Denka). For each sample, a dataset of high magnification (57,000‐fold) micrographs was collected on a 4 k × 4 k Ceta 16 M CEMOS camera using the Thermo Scientific Velox user interface: 125 micrographs for tg‐APP<sub>ArcSwe</sub>, 101 for APP23, 112 for tg‐APP<sub>Swe</sub>, 101 for APP/PS1, 130 for ARTE10 and 160 for tg‐SwDI. The TEM images were collected manually in specimen areas of sufficient quality.</p></sec><sec id="nan70022-sec-0009"><label>2.4</label><title>Micrograph Annotation, Calculation of Gold Particle‐Fibril Distances and Lecanemab Binding Scores</title><p>Coordinates of gold particles and Aβ fibrils were manually annotated in micrographs using Napari [<xref rid="nan70022-bib-0018" ref-type="bibr">18</xref>]. Gold particles were represented by their centre coordinates relative to the micrograph and fibrils by the coordinates of their start and end points. Only fibrils that were sufficiently separated from each other were selected to exclude those fibrils that were sterically inaccessible for antibody binding due to other attached fibrils. From this data, the distances of all gold particles to all fibrils were calculated using the shortest distance between a point and a line defined by the fibril coordinates. For particles at the fibril ends, just the Euclidean distance to the corresponding end was calculated. The number of bound gold particles was then determined for each fibril. A gold particle was defined as bound to a certain fibril, if the distance was below a threshold, determined by the gold particle radius <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:mi>r</mml:mi></mml:mrow></mml:mrow></mml:math>, the size of the primary and secondary antibody <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-2" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:mi>a</mml:mi></mml:mrow></mml:mrow></mml:math> and the width of the fibril <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-3" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:mi>d</mml:mi></mml:mrow></mml:mrow></mml:math>: <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-4" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:mi>r</mml:mi><mml:mo>+</mml:mo><mml:mi>a</mml:mi><mml:mo>+</mml:mo><mml:mi>d</mml:mi><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:mrow></mml:math>. The gold particle radius and the fibril width were measured manually on the micrographs with <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-5" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:mi>r</mml:mi><mml:mo>=</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:mrow></mml:math> nm and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-6" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mo>=</mml:mo><mml:mn>17</mml:mn></mml:mrow></mml:mrow></mml:math> nm, while the typical length of a primary and secondary antibody complex <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-7" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:mi>a</mml:mi><mml:mo>=</mml:mo><mml:mn>30</mml:mn></mml:mrow></mml:mrow></mml:math> nm was taken from literature [<xref rid="nan70022-bib-0019" ref-type="bibr">19</xref>]. If the distances between a particle and multiple fibrils were below the threshold, the closest fibril was selected to ensure that each bound particle was assigned to only one fibril. To define a comparable binding score, the number of bound gold particles for each fibril was divided by the corresponding fibril length.</p></sec><sec id="nan70022-sec-0010"><label>2.5</label><title>Statistical Significance Testing</title><p>Statistical significance between the gold particles per fibril length scores of the different samples was assessed using a two‐step approach. First, an omnibus test determined overall differences across distributions: either one‐way ANOVA (parametric) for normally distributed data or the Kruskal–Wallis <italic toggle="yes">H</italic> test (non‐parametric) when normality assumptions were violated (assessed via the Shapiro–Wilk test). For significant omnibus results (<italic toggle="yes">p</italic> &lt; 0.05), post hoc pairwise comparisons were conducted using either Tukey's honest significant difference test (following ANOVA) or Mann–Whitney <italic toggle="yes">U</italic> tests with Bonferroni correction (following Kruskal–Wallis). When comparing to a reference group, only pairwise comparisons involving the reference were performed, with Bonferroni correction adjusted accordingly. Significance levels were denoted using standard asterisk notation (*<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001). Importantly, all statistical tests were performed on complete datasets, while visualisations excluded outliers (defined as values beyond 1.5 × IQR from quartiles) to improve clarity.</p></sec><sec sec-type="data-availability" id="nan70022-sec-0011"><label>2.6</label><title>Data and Code Availability</title><p>The distance calculation, statistical testing and subsequent generation of plots were implemented in Python utilising the following open‐source libraries: Numpy, Pandas, Matplotlib, Seaborn, Scipy and Statsmodels [<xref rid="nan70022-bib-0020" ref-type="bibr">20</xref>, <xref rid="nan70022-bib-0021" ref-type="bibr">21</xref>, <xref rid="nan70022-bib-0022" ref-type="bibr">22</xref>, <xref rid="nan70022-bib-0023" ref-type="bibr">23</xref>, <xref rid="nan70022-bib-0024" ref-type="bibr">24</xref>, <xref rid="nan70022-bib-0025" ref-type="bibr">25</xref>, <xref rid="nan70022-bib-0026" ref-type="bibr">26</xref>, <xref rid="nan70022-bib-0027" ref-type="bibr">27</xref>]. The corresponding Jupyter notebook and annotated coordinate data were uploaded to a repository on GitHub: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/sim-som/filament_particle_co_localization" ext-link-type="uri">https://github.com/sim‐som/filament_particle_co_localization</ext-link>.</p><p>All collected TEM images are publicly accessible in the following Zenodo repository: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.5281/zenodo.15232810" ext-link-type="uri">https://doi.org/10.5281/zenodo.15232810</ext-link>.</p></sec></sec><sec id="nan70022-sec-0012"><label>3</label><title>Results and Discussion</title><p>First, we tested by immunogold‐EM labelling whether lecanemab can bind ex vivo murine type I Aβ fibrils obtained from tg‐APP<sub>ArcSwe</sub> mouse brain tissue. The fibrils were incubated with lecanemab as the primary antibody, then reacted with the secondary antibody with conjugated 10 nm gold nanoparticles, followed by negative‐staining with uranyl acetate. The TEM electron micrographs reveal a specific fibril decoration with the electron‐dense 10 nm gold nanoparticles (Figure <xref rid="nan70022-fig-0001" ref-type="fig">1A</xref>), indicating specific lecanemab binding to type I Aβ fibrils from tg‐APP<sub>ArcSwe</sub> mouse brain. Of note, the tg‐APP<sub>ArcSwe</sub> mouse model was used for the pre‐clinical validation of lecanemab [<xref rid="nan70022-bib-0016" ref-type="bibr">16</xref>] and is the only tg‐<sc>ad</sc> mouse model up to date that resembles the human type I Aβ fibril polymorph [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>], present in sporadic [<xref rid="nan70022-bib-0014" ref-type="bibr">14</xref>] and familial <sc>ad</sc> cases [<xref rid="nan70022-bib-0013" ref-type="bibr">13</xref>], including Down's syndrome [<xref rid="nan70022-bib-0028" ref-type="bibr">28</xref>]. Although murine and human type I Aβ fibrils show subtle differences due to the Arctic (E22G) mutation in the tg‐APP<sub>ArcSwe</sub> mice, their overall fold, side‐chain orientation and fibril surface are conserved. Indeed, previous findings have shown that lecanemab binds to human ex vivo type I Aβ fibrils [<xref rid="nan70022-bib-0012" ref-type="bibr">12</xref>] that do not carry any mutation, indicating that the presence or absence of the E22G mutation does not affect lecanemab binding.</p><fig position="float" fig-type="FIGURE" id="nan70022-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Lecanemab immunogold‐labelling of Aβ fibrils with different molecular structures. Previously solved cryo‐EM structures of Aβ fibrils from different <sc>ad</sc> mouse models [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>] (left). Immunogold TEM images of extracted Aβ fibrils with lecanemab as the primary antibody (right). Only a few gold particles (white arrows) labelled the Aβ fibrils from the tg‐SwDI mouse model (F, right panel), which exhibit fixed N‐termini (F, left panel). In contrast, the Aβ fibril folds of all other mouse models have unstructured, flexible N‐termini instead (A–E, left panels; dotted lines).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="NAN-51-e70022-g004.jpg"/></fig><p>In familial <sc>ad</sc> and other conditions, another Aβ fibril fold, named type II was identified as well [<xref rid="nan70022-bib-0014" ref-type="bibr">14</xref>, <xref rid="nan70022-bib-0028" ref-type="bibr">28</xref>]. Therefore, we were interested in whether lecanemab can also bind and detect this fibril polymorph by using type II Aβ fibrils extracted from brains from tg‐APP<sub>Swe</sub> or APP23 tg‐mice, respectively [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>]. After performing immunogold‐EM, a clear gold labelling of the Aβ fibrils from both mouse models was observed (Figure <xref rid="nan70022-fig-0001" ref-type="fig">1B,C</xref>), indicating specific lecanemab binding to type II fibrils as well. Considering that the 3D structures of type II Aβ fibrils in humans and mice are identical down to atomic details [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>], we expect lecanemab to be effective against patients with <sc>ad</sc> pathologies involving Aβ type II fibrils as well.</p><p>Furthermore, another Aβ fibril fold referred to as murine type III was observed in Aβ fibril preparations from brain tissue of APP/PS1 and ARTE10 tg‐mice, the latter together with Aβ type II fibrils [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>]. Notably, the murine Aβ type III fibril structure with its nonmutated Aβ42 sequence is highly similar to a protofilament pair involving protofilaments A and B from a tetrameric human Arctic (E22G) Aβ fibril fold [<xref rid="nan70022-bib-0029" ref-type="bibr">29</xref>].</p><p>After immunogold staining, the electron micrographs show that lecanemab also binds and recognises type III fibrils present in APP/PS1 tg‐mice (Figure <xref rid="nan70022-fig-0001" ref-type="fig">1D</xref>). In addition, fibril preparations derived from ARTE10 tg‐mice, which displayed both type II and type III fibrils (Figure <xref rid="nan70022-fig-0001" ref-type="fig">1E</xref>), also show specific lecanemab binding, as expected.</p><p>Our previous findings demonstrate a structural similarity between the murine Aβ type III fold and the human Arctic fold [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>, <xref rid="nan70022-bib-0029" ref-type="bibr">29</xref>]. Therefore, our findings suggest that lecanemab may also be effective in <sc>ad</sc> patients exhibiting this fold, whether in its non‐mutated form (as in APP/PS1 and ARTE10 tg‐mice [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>]) or in the E22G‐mutated form (as in <sc>ad</sc> patients with the Arctic mutation [<xref rid="nan70022-bib-0029" ref-type="bibr">29</xref>]).</p><p>Other novel Aβ polymorphs designated DI1, DI2 and DI3, with DI1 as the most abundant, were observed in Aβ fibril preparations from brains of tg‐SwDI mice [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>], which serves as a model for both <sc>ad</sc> and CAA. In contrast to the type I, type II and murine Aβ type III folds, which all have in common a flexible N‐terminus, all three resolved tg‐SwDI folds exhibit well‐ordered and fixed N‐termini [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>] (Figure <xref rid="nan70022-fig-0001" ref-type="fig">1F</xref>). Analysis of lecanemab's binding capability to SwDI tg‐mice derived Aβ fibrils by immunogold‐EM revealed only few gold particles bound to SwDI fibrils, which indicates a weak or negligible lecanemab binding (Figure <xref rid="nan70022-fig-0001" ref-type="fig">1F</xref>).</p><p>To further quantify the fibril type‐dependent differences in relative binding affinity initially observed by immunogold labelling (Figure <xref rid="nan70022-fig-0001" ref-type="fig">1</xref>), TEM data sets with at least 100 micrographs were collected for each immunogold‐labelled sample. After manually annotating the positions of fibrils and gold nanoparticles, the number of bound particles per fibril length was calculated to serve as a measure of relative binding affinity. A particle was considered bound if the shortest distance between its centre and the fibril axis was smaller than a threshold of ~ 44 nm defined by the fibril diameter (8.5 nm), the gold particle radius (5 nm) and the size of the primary‐secondary antibody complex (30 nm) (Figure <xref rid="nan70022-fig-0002" ref-type="fig">2A</xref>). The number of annotated fibrils per data set, i.e., the number of particles per fibril length measurements was sufficient to allow a meaningful comparison of the fibril types' binding affinities to lecanemab (Figure <xref rid="nan70022-fig-0002" ref-type="fig">2B</xref>). Indeed, statistical analysis showed that lecanemab binding to tg‐SwDI fibrils was significantly (<italic toggle="yes">p</italic> &lt; 0.001) weaker compared to all other tg‐mouse Aβ fibril samples (Figure <xref rid="nan70022-fig-0002" ref-type="fig">2B</xref>).</p><fig position="float" fig-type="FIGURE" id="nan70022-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Gold nanoparticle co‐localization and distribution analysis of lecanemab immunogold. (A) Representative TEM micrographs (scale bars 100 nm) of immunogold‐labelled samples with annotated Aβ fibrils highlighted in green and annotated antibody‐bound gold particles encircled in red. The radius of each red circle represents the combined radius of a gold particle plus the expected spatial extent of the primary and secondary antibodies. In the analysis, a gold particle antibody complex is considered bound to the fibrils if the red circle and the green fibril region overlap. For each sample, at least ~ 100 micrographs were collected and analysed. (B) Comparison of the gold particles per fibril distribution across samples. In the violin plots, scattered dots represent individual measurements, while the violin shape was drawn using a kernel density estimate of the underlying distribution. The sample mean is denoted by a bold dark line, while quartiles are represented by thinner lines. Overall, the analysis shows a significant difference between the binding affinity to tg‐SwDI fibrils (rightmost column) and the other samples. Statistical significance testing was performed comparing each group to the tg‐SwDI data, with <italic toggle="no">p</italic> values indicated for each comparison.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="NAN-51-e70022-g002.jpg"/></fig><p>Considering that lecanemab's binding site is reported on the N‐terminus (between residues 1–16) [<xref rid="nan70022-bib-0030" ref-type="bibr">30</xref>], the results indicate that the N‐terminus needs to be flexible and non‐structured to act as an efficient lecanemab binding epitope. This is evident by the higher degree of observed lecanemab binding to the type I, type II and the murine type III Aβ folds (Figure <xref rid="nan70022-fig-0001" ref-type="fig">1A–E</xref>, Figure <xref rid="nan70022-fig-0002" ref-type="fig">2</xref>) in comparison to the tg‐SwDI folds (Figure <xref rid="nan70022-fig-0001" ref-type="fig">1F</xref>, Figure <xref rid="nan70022-fig-0002" ref-type="fig">2</xref>). Interestingly, when compared to immunogold‐labelling using NAB228 as primary antibody, which also binds to the N‐terminus (1–11), a similar pattern was observed [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>].</p><p>Even though the tg‐SwDI folds are unlikely to be present in humans due to the double, Dutch (E22Q) and Iowa mutations (D23N) [<xref rid="nan70022-bib-0011" ref-type="bibr">11</xref>], the N‐termini of tg‐SwDI DI1 and Aβ40 fibrils extracted from the human meninges [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>, <xref rid="nan70022-bib-0031" ref-type="bibr">31</xref>, <xref rid="nan70022-bib-0032" ref-type="bibr">32</xref>] are structurally highly similar [<xref rid="nan70022-bib-0015" ref-type="bibr">15</xref>]. (Figure <xref rid="nan70022-fig-0003" ref-type="fig">3</xref>). Therefore, lecanemab may have less binding affinity to CAA cases, as was also confirmed in a previous study by Söderberg and colleagues [<xref rid="nan70022-bib-0033" ref-type="bibr">33</xref>]. There it was also observed that lecanemab has a relatively low frequency of amyloid‐related imaging abnormalities with oedema (ARIA‐E) (12.6%) when compared to other antibodies such as aducanumab, bapineuzumab, donanemab and gantenerumab, which have higher ARIA‐E frequencies (25–35%) and higher binding affinity to CAA fibrils [<xref rid="nan70022-bib-0033" ref-type="bibr">33</xref>].</p><fig position="float" fig-type="FIGURE" id="nan70022-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Structural similarity of the N‐termini of DI1 Aβ fibrils from tg‐SwDI mice and Aβ40 fibrils from the leptomeninges of human brain tissue. Overlay of the DI1 Aβ fibril structure from tg‐SwDI mice (green; pdb 8OLN) with the cryo‐EM structure of Aβ40 fibrils extracted from the leptomeninges of human brain tissue from a patient with Alzheimer's disease (pink, pdb 8QN7) showing the similarities between their structured N‐termini.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="NAN-51-e70022-g003.jpg"/></fig><p>In conclusion, our results show that lecanemab is expected to be active against all common familial and sporadic <sc>ad</sc> cases containing type I, type II or the Arctic fold, or mixtures of them, all having a flexible N‐terminus in common. Since lecanemab binds the type I Aβ fibril fold in its non‐mutated state (humans) [<xref rid="nan70022-bib-0012" ref-type="bibr">12</xref>] as well as in the E22G‐mutated state (tg‐APP<sub>ArcSwe</sub> mice), it is conceivable that lecanemab may also bind to other Aβ fibrils carrying other E22 or neighbouring mutations (i.e., Flemish A21G, Dutch E22Q, Italian E22K, Iowa D23N), as long as the fibril fold with a flexible N‐terminus is maintained. This principle may not be restricted to type I fibrils, as the type III fold (non‐mutated in mice) and the human Arctic E22G fold are also structurally similar. Further research may focus on a detailed structural characterisation of the lecanemab binding modes to the various AD‐relevant Aβ fibril folds.</p></sec><sec id="nan70022-sec-0014"><title>Author Contributions</title><p>F.S.P.R. conducted the ex vivo Aβ fibril preparations, their lecanemab immunogold‐labelling, negative‐stain EM, collection of EM micrographs and immunogold particle co‐localisation. S.S. performed the statistical analysis regarding gold particle per fibril distribution. D.W., L.G. and G.F.S. supervised the project. F.S.P.R. and L.G. wrote the original manuscript draft, and F.S.P.R., S.S., D.W., L.G. and G.F.S. edited and reviewed the final manuscript.</p></sec><sec id="nan70022-sec-1024"><title>Ethics Statement</title><p>Experiments that were performed on the APP/PS1, ARTE10, tg‐SwDI and APP23 AD mouse models were conducted in line with the German Law on the protection of animals (TierSchG §§7–9). APP/PS1 mice breeding was validated by a local ethics committee (Landesamt für Natur, Umwelt und Verbraucherschutz Nordrhein‐Westfalen (LANUV), Az: 84–02.04.2019.A304). APP/PS1 and tg‐SwDI mouse lines were acquired from the Jackson Lab (JAX MMRRC Stock no. 034829 or JAX MMRRC Stock no. 034843). Breeding of tg‐APP<sub>ArcSwe</sub> and tg‐APP<sub>Swe</sub> mouse models was done under the ethical permit 5.8.18–20,401/20, approved by the Uppsala County Animal Ethics Board. All mice were treated under controlled conditions at 22 °C, 12:12 h light/dark cycle, 54% humidity, as well as food and water ad libitum.</p></sec><sec sec-type="COI-statement" id="nan70022-sec-0015"><title>Conflicts of Interest</title><p>D.W. is a founder and shareholder of the companies Priavoid and Attyloid and a member of their supervisory boards. This did not influence the interpretation of the data. All other authors declare no competing interests.</p></sec></body><back><ack id="nan70022-sec-0013"><title>Acknowledgements</title><p>F.S.P.R. and G.F.S. acknowledge with gratitude the electron microscopy training, imaging and access time provided by the life science electron microscopy facility of the Ernst Ruska‐Centre at Forschungszentrum Jülich. The brain tissue from the tg‐APP<sub>ArcSwe</sub>, ARTE10, tg‐APP<sub>Swe</sub>, APP23, APP/PS1 and tg‐SwDI mouse models were generously provided by Dr Sarah Schemmert, Prof. Dr Antje Willuweit, Dr Lili Donner, Prof. Dr Margitta Elvers, Prof. Dr Lars N.G. Nilsson, Prof. Dr Stina Syvänen, Prof. Dr. Dag Sehlin and Prof. Dr. Martin Ingelsson, who also bred and kept the mice under optimal conditions until euthanized for research purposes. The ARTE10 mouse model was a gift from Taconic Biosciences. D.W. was supported by ‘Portfolio Drug Research’ of the ‘Impuls und Vernetzungs‐Fonds der Helmholtzgemeinschaft’. Open Access funding enabled and organized by Projekt DEAL.</p></ack><sec sec-type="data-availability" id="nan70022-sec-0017"><title>Data Availability Statement</title><p>The data that support the findings of this study are openly available in Zenodo at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.5281/zenodo.15232810" ext-link-type="uri" specific-use="dataset is-supplemented-by">https://doi.org/10.5281/zenodo.15232810</ext-link>, reference number DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.5281/zenodo.15232810" ext-link-type="uri">10.5281/zenodo.15232810</ext-link>.</p></sec><ref-list content-type="cited-references" id="nan70022-bibl-0001"><title>References</title><ref id="nan70022-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="nan70022-cit-0001">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Hampel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Hardy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Blennow</surname>
+</string-name>, et al., “<article-title>The Amyloid‐β Pathway in Alzheimer's Disease</article-title>,” <source>Molecular Psychiatry</source>
+<volume>26</volume>, no. <issue>10</issue> (<year>2021</year>): <fpage>5481</fpage>–<lpage>5503</lpage>, <pub-id pub-id-type="doi">10.1038/s41380-021-01249-0</pub-id>.<pub-id pub-id-type="pmid">34456336</pub-id>
+<pub-id pub-id-type="pmcid">PMC8758495</pub-id></mixed-citation></ref><ref id="nan70022-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="nan70022-cit-0002">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, “<article-title>Recent Advances in Alzheimer's Disease: Mechanisms, Clinical Trials and New Drug Development Strategies</article-title>,” <source>Signal Transduction and Targeted Therapy</source>
+<volume>9</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>211</fpage>, <pub-id pub-id-type="doi">10.1038/s41392-024-01911-3</pub-id>.<pub-id pub-id-type="pmid">39174535</pub-id>
+<pub-id pub-id-type="pmcid">PMC11344989</pub-id></mixed-citation></ref><ref id="nan70022-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="nan70022-cit-0003">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Kang</surname>
+</string-name>, “<article-title>Donanemab: First Approval</article-title>,” <source>Drugs</source>
+<volume>84</volume> (<year>2024</year>): <fpage>1313</fpage>–<lpage>1318</lpage>, <pub-id pub-id-type="doi">10.1007/s40265-024-02087-4</pub-id>.<pub-id pub-id-type="pmid">39237715</pub-id>
+</mixed-citation></ref><ref id="nan70022-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="nan70022-cit-0004">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Englund</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Sehlin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.‐S.</given-names>
+<surname>Johansson</surname>
+</string-name>, et al., “<article-title>Sensitive ELISA Detection of Amyloid‐Beta Protofibrils in Biological Samples</article-title>,” <source>Journal of Neurochemistry</source>
+<volume>103</volume>, no. <issue>1</issue> (<year>2007</year>): <fpage>334</fpage>–<lpage>345</lpage>, <pub-id pub-id-type="doi">10.1111/j.1471-4159.2007.04759.x</pub-id>.<pub-id pub-id-type="pmid">17623042</pub-id>
+</mixed-citation></ref><ref id="nan70022-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="nan70022-cit-0005">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Sehlin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X. T.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Cato</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Antoni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Lannfelt</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Syvänen</surname>
+</string-name>, “<article-title>Antibody‐Based PET Imaging of Amyloid Beta in Mouse Models of Alzheimer's Disease</article-title>,” <source>Nature Communications</source>
+<volume>7</volume> (<year>2016</year>): <elocation-id>10759</elocation-id>, <pub-id pub-id-type="doi">10.1038/ncomms10759</pub-id>.<pub-id pub-id-type="pmcid">PMC4762893</pub-id><pub-id pub-id-type="pmid">26892305</pub-id></mixed-citation></ref><ref id="nan70022-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="nan70022-cit-0006">
+<string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Rochet</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P. T.</given-names>
+<surname>Lansbury</surname>
+</string-name>, “<article-title>Amyloid Fibrillogenesis: Themes and Variations</article-title>,” <source>Current Opinion in Structural Biology</source>
+<volume>10</volume>, no. <issue>1</issue> (<year>2000</year>): <fpage>60</fpage>–<lpage>68</lpage>, <pub-id pub-id-type="doi">10.1016/s0959-440x(99)00049-4</pub-id>.<pub-id pub-id-type="pmid">10679462</pub-id>
+</mixed-citation></ref><ref id="nan70022-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="nan70022-cit-0007">
+<string-name name-style="western">
+<given-names>A.‐S.</given-names>
+<surname>Johansson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Berglind‐Dehlin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Karlsson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Edwards</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Gellerfors</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Lannfelt</surname>
+</string-name>, “<article-title>Physiochemical Characterization of the Alzheimer's Disease‐Related Peptides A Beta 1‐42Arctic and A Beta 1‐42wt</article-title>,” <source>FEBS Journal</source>
+<volume>273</volume>, no. <issue>12</issue> (<year>2006</year>): <fpage>2618</fpage>–<lpage>2630</lpage>, <pub-id pub-id-type="doi">10.1111/j.1742-4658.2006.05263.x</pub-id>.<pub-id pub-id-type="pmid">16817891</pub-id>
+</mixed-citation></ref><ref id="nan70022-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="nan70022-cit-0008">
+<string-name name-style="western">
+<given-names>C. H.</given-names>
+<surname>van Dyck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Swanson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Aisen</surname>
+</string-name>, et al., “<article-title>Lecanemab in Early Alzheimer's Disease</article-title>,” <source>New England Journal of Medicine</source>
+<volume>388</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>9</fpage>–<lpage>21</lpage>, <pub-id pub-id-type="doi">10.1056/NEJMoa2212948</pub-id>.<pub-id pub-id-type="pmid">36449413</pub-id>
+</mixed-citation></ref><ref id="nan70022-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="nan70022-cit-0009">
+<string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Rinauro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Chiti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vendruscolo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Limbocker</surname>
+</string-name>, “<article-title>Misfolded Protein Oligomers: Mechanisms of Formation, Cytotoxic Effects, and Pharmacological Approaches Against Protein Misfolding Diseases</article-title>,” <source>Molecular Neurodegeneration</source>
+<volume>19</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>20</elocation-id>, <pub-id pub-id-type="doi">10.1186/s13024-023-00651-2</pub-id>.<pub-id pub-id-type="pmid">38378578</pub-id>
+<pub-id pub-id-type="pmcid">PMC10877934</pub-id></mixed-citation></ref><ref id="nan70022-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="nan70022-cit-0010">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Xiong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Dahlén</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Roshanbin</surname>
+</string-name>, et al., “<article-title>Antibody Engagement With Amyloid‐Beta Does Not Inhibit 11CPib Binding for PET Imaging</article-title>,” <source>Journal of Neurochemistry</source>
+<volume>168</volume>, no. <issue>9</issue> (<year>2024</year>): <fpage>2601</fpage>–<lpage>2610</lpage>, <pub-id pub-id-type="doi">10.1111/jnc.16127</pub-id>.<pub-id pub-id-type="pmid">38721627</pub-id>
+</mixed-citation></ref><ref id="nan70022-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="nan70022-cit-0011">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Johannesson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Sahlin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Söderberg</surname>
+</string-name>, et al., “<article-title>Elevated Soluble Amyloid Beta Protofibrils in Down Syndrome and Alzheimer's Disease</article-title>,” <source>Molecular and Cellular Neuroscience</source>
+<volume>114</volume> (<year>2021</year>): <elocation-id>103641</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.mcn.2021.103641</pub-id>.<pub-id pub-id-type="pmid">34091073</pub-id>
+</mixed-citation></ref><ref id="nan70022-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="nan70022-cit-0012">
+<string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Stern</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Jin</surname>
+</string-name>, et al., “<article-title>Abundant Aβ Fibrils in Ultracentrifugal Supernatants of Aqueous Extracts From Alzheimer's Disease Brains</article-title>,” <source>Neuron</source>
+<volume>111</volume>, no. <issue>13</issue> (<year>2023</year>): <fpage>2012</fpage>–<lpage>2020</lpage>, <pub-id pub-id-type="doi">10.1016/j.neuron.2023.04.007</pub-id>.<pub-id pub-id-type="pmid">37167969</pub-id>
+<pub-id pub-id-type="pmcid">PMC10330525</pub-id></mixed-citation></ref><ref id="nan70022-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="nan70022-cit-0013">
+<string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Hoq</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Fernandez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. S.</given-names>
+<surname>Vago</surname>
+</string-name>, et al., “<article-title>Cryo‐EM Structures of Cotton Wool Plaques' Amyloid β and of Tau Filaments in Dominantly Inherited Alzheimer Disease</article-title>,” <source>Acta Neuropathologica</source>
+<volume>148</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>20</fpage>, <pub-id pub-id-type="doi">10.1007/s00401-024-02786-y</pub-id>.<pub-id pub-id-type="pmid">39147931</pub-id>
+<pub-id pub-id-type="pmcid">PMC11327195</pub-id></mixed-citation></ref><ref id="nan70022-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="nan70022-cit-0014">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Arseni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>Cryo‐EM Structures of Amyloid‐β 42 Filaments From Human Brains</article-title>,” <source>Science</source>
+<volume>375</volume>, no. <issue>6577</issue> (<year>2022</year>): <fpage>167</fpage>–<lpage>172</lpage>, <pub-id pub-id-type="doi">10.1126/science.abm7285</pub-id>.<pub-id pub-id-type="pmid">35025654</pub-id>
+<pub-id pub-id-type="pmcid">PMC7612234</pub-id></mixed-citation></ref><ref id="nan70022-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="nan70022-cit-0015">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zielinski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. S.</given-names>
+<surname>Peralta Reyes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Gremer</surname>
+</string-name>, et al., “<article-title>Cryo‐EM of Aβ Fibrils From Mouse Models Find tg‐APPArcSwe Fibrils Resemble Those Found in Patients With Sporadic Alzheimer's Disease</article-title>,” <source>Nature Neuroscience</source>
+<volume>26</volume>, no. <issue>12</issue> (<year>2023</year>): <fpage>2073</fpage>–<lpage>2080</lpage>, <pub-id pub-id-type="doi">10.1038/s41593-023-01484-4</pub-id>.<pub-id pub-id-type="pmid">37973869</pub-id>
+<pub-id pub-id-type="pmcid">PMC10689242</pub-id></mixed-citation></ref><ref id="nan70022-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="nan70022-cit-0016">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Tucker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Möller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Tegerstedt</surname>
+</string-name>, et al., “<article-title>The Murine Version of BAN2401 (mAb158) Selectively Reduces Amyloid‐β Protofibrils in Brain and Cerebrospinal Fluid of tg‐ArcSwe Mice</article-title>,” <source>Journal of Alzheimer's Disease</source>
+<volume>43</volume>, no. <issue>2</issue> (<year>2015</year>): <fpage>575</fpage>–<lpage>588</lpage>, <pub-id pub-id-type="doi">10.3233/JAD-140741</pub-id>.<pub-id pub-id-type="pmid">25096615</pub-id></mixed-citation></ref><ref id="nan70022-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="nan70022-cit-0017">
+<string-name name-style="western">
+<given-names>N. M.</given-names>
+<surname>Gulati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Torian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Gallagher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Harris</surname>
+</string-name>, “<article-title>Immunoelectron Microscopy of Viral Antigens</article-title>,” <source>Current Protocols in Microbiology</source>
+<volume>53</volume>, no. <issue>1</issue> (<year>2019</year>): <elocation-id>e86</elocation-id>, <pub-id pub-id-type="doi">10.1002/cpmc.86</pub-id>.<pub-id pub-id-type="pmid">31219685</pub-id>
+<pub-id pub-id-type="pmcid">PMC6588173</pub-id></mixed-citation></ref><ref id="nan70022-bib-0018"><label>18</label><mixed-citation publication-type="miscellaneous" id="nan70022-cit-0018">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Sofroniew</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Lambert</surname>
+</string-name>, <string-name name-style="western">
+<surname>G.</surname>
+<given-names>Bokota</given-names>
+</string-name>, et al., <article-title>Napari: A Multi‐Dimensional Image Viewer for Python. v0.5.6</article-title> (Zenodo, <year>2025</year>), <pub-id pub-id-type="doi">10.5281/zenodo.3555620</pub-id>.</mixed-citation></ref><ref id="nan70022-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="nan70022-cit-0019">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Hermann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Walther</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Müller</surname>
+</string-name>, “<article-title>Immunogold Labeling in Scanning Electron Microscopy</article-title>,” <source>Histochemistry and Cell Biology</source>
+<volume>106</volume>, no. <issue>1</issue> (<year>1996</year>): <fpage>31</fpage>–<lpage>39</lpage>, <pub-id pub-id-type="doi">10.1007/BF02473200</pub-id>.<pub-id pub-id-type="pmid">8858365</pub-id>
+</mixed-citation></ref><ref id="nan70022-bib-0020"><label>20</label><mixed-citation publication-type="miscellaneous" id="nan70022-cit-0020">
+<article-title>
+Proceedings of the 9th Python in Science Conference
+</article-title> (<year>2010</year>), <pub-id pub-id-type="doi">10.25080/Majora-92bf1922-012</pub-id>.</mixed-citation></ref><ref id="nan70022-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="nan70022-cit-0021">
+<string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Harris</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. J.</given-names>
+<surname>Millman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>van der Walt</surname>
+</string-name>, et al., “<article-title>Array Programming With NumPy</article-title>,” <source>Nature</source>
+<volume>585</volume>, no. <issue>7825</issue> (<year>2020</year>): <fpage>357</fpage>–<lpage>362</lpage>, <pub-id pub-id-type="doi">10.1038/s41586-020-2649-2</pub-id>.<pub-id pub-id-type="pmid">32939066</pub-id>
+<pub-id pub-id-type="pmcid">PMC7759461</pub-id></mixed-citation></ref><ref id="nan70022-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="nan70022-cit-0022">
+<string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Hunter</surname>
+</string-name>, “<article-title>Matplotlib: A 2D Graphics Environment</article-title>,” <source>Computing in Science &amp; Engineering</source>
+<volume>9</volume>, no. <issue>3</issue> (<year>2007</year>): <fpage>90</fpage>–<lpage>95</lpage>, <pub-id pub-id-type="doi">10.1109/MCSE.2007.55</pub-id>.</mixed-citation></ref><ref id="nan70022-bib-0023"><label>23</label><mixed-citation publication-type="book" id="nan70022-cit-0023">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>McKinney</surname>
+</string-name>, “<part-title>Data Structures for Statistical Computing in Python</part-title>,” in <source>Proceedings of the 9th Python in Science Conference</source> (<year>2010</year>), <fpage>56</fpage>–<lpage>61</lpage>, <pub-id pub-id-type="doi">10.25080/Majora-92bf1922-00a</pub-id>.</mixed-citation></ref><ref id="nan70022-bib-0024"><label>24</label><mixed-citation publication-type="miscellaneous" id="nan70022-cit-0024">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Seabold</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Perktold</surname>
+</string-name>, “<article-title>Statsmodels: Econometric and Statistical Modeling With Python</article-title>,” in <italic toggle="yes">Proceedings of the</italic>
+<italic toggle="yes">9th Python in Science Conference</italic> (<year>2010</year>), <fpage>92</fpage>–<lpage>96</lpage>, <pub-id pub-id-type="doi">10.25080/Majora-92bf1922-011</pub-id>.</mixed-citation></ref><ref id="nan70022-bib-0025"><label>25</label><mixed-citation publication-type="miscellaneous" id="nan70022-cit-0025">
+<collab collab-type="authors">The Pandas Development Team</collab>
+, <article-title>Pandas‐Dev/Pandas: Pandas. v2.2.3</article-title> (<italic toggle="yes">Zenodo</italic>
+<year>2024</year>), <pub-id pub-id-type="doi">10.5281/zenodo.13819579</pub-id>.</mixed-citation></ref><ref id="nan70022-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="nan70022-cit-0026">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Virtanen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Gommers</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. E.</given-names>
+<surname>Oliphant</surname>
+</string-name>, et al., “<article-title>SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python</article-title>,” <source>Nature Methods</source>
+<volume>17</volume> (<year>2020</year>): <fpage>261</fpage>–<lpage>272</lpage>, <pub-id pub-id-type="doi">10.1038/s41592-019-0686-2</pub-id>.<pub-id pub-id-type="pmid">32015543</pub-id>
+<pub-id pub-id-type="pmcid">PMC7056644</pub-id></mixed-citation></ref><ref id="nan70022-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="nan70022-cit-0027">
+<string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Waskom</surname>
+</string-name>, “<article-title>Seaborn: Statistical Data Visualization</article-title>,” <source>Journal of Open Source Software</source>
+<volume>6</volume>, no. <issue>60</issue> (<year>2021</year>): <elocation-id>3021</elocation-id>, <pub-id pub-id-type="doi">10.21105/joss.03021</pub-id>.</mixed-citation></ref><ref id="nan70022-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="nan70022-cit-0028">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Fernandez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Hoq</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. I.</given-names>
+<surname>Hallinan</surname>
+</string-name>, et al., “<article-title>Cryo‐EM Structures of Amyloid‐β and Tau Filaments in Down Syndrome</article-title>,” <source>Nature Structural &amp; Molecular Biology</source>
+<volume>31</volume>, no. <issue>6</issue> (<year>2024</year>): <fpage>903</fpage>–<lpage>909</lpage>, <pub-id pub-id-type="doi">10.1038/s41594-024-01252-3</pub-id>.<pub-id pub-id-type="pmcid">PMC11189299</pub-id><pub-id pub-id-type="pmid">38553642</pub-id></mixed-citation></ref><ref id="nan70022-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="nan70022-cit-0029">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Murzin</surname>
+</string-name>, et al., “<article-title>Cryo‐EM Structures of Amyloid‐β Filaments With the Arctic Mutation (E22G) From Human and Mouse Brains</article-title>,” <source>Acta Neuropathologica</source>
+<volume>145</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>325</fpage>–<lpage>333</lpage>, <pub-id pub-id-type="doi">10.1007/s00401-022-02533-1</pub-id>.<pub-id pub-id-type="pmid">36611124</pub-id>
+<pub-id pub-id-type="pmcid">PMC9925504</pub-id></mixed-citation></ref><ref id="nan70022-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="nan70022-cit-0030">
+<string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Plotkin</surname>
+</string-name> and <string-name name-style="western">
+<given-names>N. R.</given-names>
+<surname>Cashman</surname>
+</string-name>, “<article-title>Passive Immunotherapies Targeting Aβ and Tau in Alzheimer's Disease</article-title>,” <source>Neurobiology of Disease</source>
+<volume>144</volume> (<year>2020</year>): <elocation-id>105010</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.nbd.2020.105010</pub-id>.<pub-id pub-id-type="pmid">32682954</pub-id>
+<pub-id pub-id-type="pmcid">PMC7365083</pub-id></mixed-citation></ref><ref id="nan70022-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="nan70022-cit-0031">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Murzin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Peak‐Chew</surname>
+</string-name>, et al., “<article-title>Cryo‐EM Structures of Aβ40 Filaments From the Leptomeninges of Individuals With Alzheimer's Disease and Cerebral Amyloid Angiopathy</article-title>,” <source>Acta Neuropathologica Communications</source>
+<volume>11</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>191</fpage>, <pub-id pub-id-type="doi">10.1186/s40478-023-01694-8</pub-id>.<pub-id pub-id-type="pmid">38049918</pub-id>
+<pub-id pub-id-type="pmcid">PMC10694933</pub-id></mixed-citation></ref><ref id="nan70022-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="nan70022-cit-0032">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kollmer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Close</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Funk</surname>
+</string-name>, et al., “<article-title>Cryo‐EM Structure and Polymorphism of Aβ Amyloid Fibrils Purified From Alzheimer's Brain Tissue</article-title>,” <source>Nature Communications</source>
+<volume>10</volume>, no. <issue>1</issue> (<year>2019</year>): <elocation-id>4760</elocation-id>, <pub-id pub-id-type="doi">10.1038/s41467-019-12683-8</pub-id>.<pub-id pub-id-type="pmcid">PMC6820800</pub-id><pub-id pub-id-type="pmid">31664019</pub-id></mixed-citation></ref><ref id="nan70022-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="nan70022-cit-0033">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Söderberg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Johannesson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Gkanatsiou</surname>
+</string-name>, et al., “<article-title>Amyloid‐Beta Antibody Binding to Cerebral Amyloid Angiopathy Fibrils and Risk for Amyloid‐Related Imaging Abnormalities</article-title>,” <source>Scientific Reports</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>10868</elocation-id>, <pub-id pub-id-type="doi">10.1038/s41598-024-61691-2</pub-id>.<pub-id pub-id-type="pmid">38740836</pub-id>
+<pub-id pub-id-type="pmcid">PMC11091209</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

@@ -1,0 +1,673 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="es" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Rev Esp Salud Publica</journal-id><journal-id journal-id-type="iso-abbrev">Rev Esp Salud Publica</journal-id><journal-id journal-id-type="pmc-domain-id">4467</journal-id><journal-id journal-id-type="pmc-domain">revessp</journal-id><journal-id journal-id-type="publisher-id">resp</journal-id><journal-title-group><journal-title>Revista Española de Salud Pública</journal-title></journal-title-group><issn pub-type="ppub">1135-5727</issn><issn pub-type="epub">2173-9110</issn><publisher><publisher-name>Dirección General de Salud Pública - Ministerio de Sanidad</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11567137</article-id><article-id pub-id-type="pmcid-ver">PMC11567137.1</article-id><article-id pub-id-type="pmcaid">11567137</article-id><article-id pub-id-type="pmcaiid">11567137</article-id><article-id pub-id-type="pmid">37921372</article-id><article-id pub-id-type="publisher-id">e202310086</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Revisión Sistemática</subject></subj-group></article-categories><title-group><article-title>Efectividad de las terapias no farmacológicas en personas con alzheimer: una revisión sistemática</article-title><trans-title-group xml:lang="en"><trans-title>Effectiveness of non-pharmacological therapies in people with alzheimer’s: a systematic review</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5723-8042</contrib-id><name name-style="western"><surname>Ruíz-Hernández</surname><given-names initials="M">Marta</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7806-4667</contrib-id><name name-style="western"><surname>Mur-Gomar</surname><given-names initials="R">Raúl</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6548-8025</contrib-id><name name-style="western"><surname>Montejano-Lozoya</surname><given-names initials="R">Raimunda</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution content-type="original">Enfermera Residente de Salud Mental; Hospital Rey Juan Carlos</institution>
+<institution content-type="normalized">Enfermera Residente de Salud Mental; Hospital Rey Juan Carlos</institution>
+<institution content-type="orgname">Hospital Rey Juan Carlos</institution>
+<addr-line>
+<city>Móstoles (Madrid)</city>
+</addr-line>
+<country country="ES">Spain</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution content-type="original">Centro de Salud de Sueca</institution>
+<institution content-type="normalized">Centro de Salud de Sueca</institution>
+<institution content-type="orgname">Centro de Salud de Sueca</institution>
+<addr-line>
+<city>Valencia</city>
+</addr-line>
+<country country="ES">Spain</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution content-type="original">Escuela de Enfermería La Fe; Centro adscrito a la Universidad de Valencia. Grupo de Investigación Arte y Ciencia del Cuidado (GREIACC); Instituto de Investigación Sanitaria La Fe (IIS La FE)</institution>
+<institution content-type="normalized">Escuela de Enfermería La Fe; Centro adscrito a la Universidad de Valencia. Grupo de Investigación Arte y Ciencia del Cuidado (GREIACC); Instituto de Investigación Sanitaria La Fe (IIS La FE)</institution>
+<institution content-type="orgname">Instituto de Investigación Sanitaria La Fe (IIS La FE)</institution>
+<institution content-type="orgdiv1">Escuela de Enfermería La Fe; Grupo de Investigación Arte y Ciencia del Cuidado (GREIACC)</institution>
+<addr-line>
+<city>Valencia</city>
+</addr-line>
+<country country="ES">Spain</country>
+</aff><author-notes><corresp id="c1">Correspondencia:
+Raimunda Montejano-Lozoya
+Escuela de Enfermería La Fe. 
+Grupo de Investigación Arte y 
+Ciencia del Cuidado (GREIACC).
+Instituto de Investigación Sanitaria 
+La Fe (IIS La FE). 
+Avda. Fernando Abril Martorell, nº 106. 
+CP 46026. Valencia. España. 
+<email>rai.montejano@gmail.com</email>
+</corresp><fn id="fn1" fn-type="COI-statement"><p>Los autores declaran que no existe ningún conflicto de intereses.</p></fn></author-notes><pub-date date-type="pub" publication-format="electronic"><day>18</day><month>10</month><year>2023</year></pub-date><pub-date publication-format="electronic" date-type="collection"><season>Jan-Dec</season><year>2023</year></pub-date><volume>97</volume><issue-id pub-id-type="pmc-issue-id">446339</issue-id><elocation-id>e202310086</elocation-id><history><date date-type="received"><day>05</day><month>10</month><year>2022</year></date><date date-type="accepted"><day>01</day><month>8</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>18</day><month>10</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>15</day><month>11</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-11-23 00:25:16.970"><day>23</day><month>11</month><year>2024</year></date></event></pub-history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You are free to Share (copy and redistribute the material in any medium or format) under the following terms: Attribution (You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use); NonCommercial (You may not use the material for commercial purposes); NoDerivatives (If you remix, transform, or build upon the material, you may not distribute the modified material); No additional restrictions (You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits).
+</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="1135-5727-resp-97-e202310086.pdf"/><abstract><title>RESUMEN</title><sec><title>Fundamentos:</title><p>La enfermedad de Alzheimer se ha convertido en la gran epidemia del siglo XXI, siendo un reto para la sostenibilidad del sistema social y sanitario. El Alzheimer causa discapacidad y dependencia entre las personas mayores, siendo necesaria una atención continuada mediante terapias que mejoren la salud y la calidad de vida de estas personas. El objetivo de este trabajo fue evaluar la efectividad de las terapias no farmacológicas aplicadas en personas con Alzheimer en Atención Primaria.</p></sec><sec><title>Métodos:</title><p>Se realizó una revisión sistemática de artículos publicados entre abril de 2017 y abril de 2022, aplicando la metodología PRISMA. Las bases de datos consultadas fueron: PubMed, CINAHL, Dialnet, Web of Science y PsycINFO. Se usaron MeSH y DeSH, con los operadores boleanos AND y OR. La calidad de los artículos se evaluó con las escalas STROBE, COCHRANE, AMSTAR-2 y JBI.</p></sec><sec><title>Resultados:</title><p>Se seleccionaron un total de diecinueve artículos en los que se evaluaron diversas terapias no farmacológicas y su efectividad en personas con Alzheimer. Las terapias basadas en actividad física y rehabilitación, estimulación cognitiva y la terapia ocupacional con música, animales y arte, aplicadas y mantenidas en el tiempo, son alternativas que, bien combinadas o aplicadas de forma aislada, son eficaces para prevenir, frenar y ralentizar los síntomas la enfermedad de Alzheimer, sobre todo en la fase inicial.</p></sec><sec><title>Conclusiones:</title><p>La actividad física y rehabilitación, la estimulación cognitiva y la terapia con música, animales y arte, mejoran el estado de salud y la calidad de vida de pacientes con enfermedad de Alzheimer en fase inicial.</p></sec></abstract><trans-abstract xml:lang="en"><title>ABSTRACT</title><sec><title>Background:</title><p>Alzheimer’s disease has become the great epidemic of the 21st century, being a challenge for the sustainability of the social and health system. Alzheimer’s causes disability and dependency among the elderly, requiring continued care with therapies that improve the health and quality of life of these people. The objective of this paper was to evaluate the effectiveness of non-pharmacological therapies applied to people with Alzheimer’s in Primary Care.</p></sec><sec><title>Methods:</title><p>A systematic review of articles published between April 2017 and April 2022 was carried out, applying the PRISMA methodology. The databases consulted were: PubMed, CINAHL, Dialnet, Web of Science and PsycINFO. MeSH and DeSH were used, with the Boolean operators AND and OR. The quality of the articles was evaluated with the STROBE, COCHRANE, AMSTAR-2 and JBI scales.</p></sec><sec><title>Results:</title><p>A total of nineteen articles were selected in which various non-pharmacological therapies and their effectiveness in people with Alzheimer’s were evaluated. Therapies based on physical activity and rehabilitation, cognitive stimulation and occupational therapy with music, animals and art, applied and maintained over time, are an alternative which, either combined or applied in isolation, are effective in preventing, stopping and slowing down Alzheimer’s disease symptoms, especially in the first phase.</p></sec><sec><title>Conclusions:</title><p>Physical activity and rehabilitation, cognitive stimulation and therapy with music, animals and art, improve the health status and quality of life of patients with Alzheimer’s disease in the first phase of the disease.</p></sec></trans-abstract><kwd-group><title>Palabras clave:</title><kwd>Enfermedad de Alzheimer</kwd><kwd>Atención Primaria de Salud</kwd><kwd>Terapias complementarias</kwd><kwd>Efectividad</kwd></kwd-group><kwd-group xml:lang="en"><title>Key words:</title><kwd>Alzheimer disease</kwd><kwd>Primary Health Care</kwd><kwd>Complementary therapies</kwd><kwd>Effectiveness</kwd></kwd-group><counts><fig-count count="1"/><table-count count="2"/><equation-count count="0"/><ref-count count="40"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>INTRODUCCIÓN</title><p>La Organización Mundial de la Salud (OMS) define demencia como “síndrome causado por una enfermedad del cerebro, usualmente de naturaleza crónica o progresiva, en la cual hay una alteración de múltiples funciones corticales superiores, incluyendo la memoria, el pensamiento, la orientación, la comprensión, el lenguaje, la capacidad de aprender y de realizar cálculos, y la toma de decisiones”
+<xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref>.</p><p>La enfermedad de Alzheimer (EA) es la forma más común de demencia, contribuyendo con un 60%-70% de los casos
+<xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref>. Esta enfermedad se ha convertido en la gran epidemia silenciosa del siglo XXI y en un gran reto para la sostenibilidad de cualquier sistema social y sanitario. Teniendo en cuenta la mejora de la esperanza de vida y el envejecimiento de la población, se prevé que esa cifra siga aumentando, a la luz de los datos que muestran el incremento de población afectada conforme se avanza en edad
+<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref>. Según la OMS
+<xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref>, en 2015 el Alzheimer y otras demencias afectaban a 47 millones de personas en todo el mundo (en torno al 5% en la edad avanzada), cifra que se espera que aumente a 75 millones en 2030 y a 132 millones en 2050.</p><p>El Alzheimer es una enfermedad neurodegenerativa, multifactorial y de causa desconocida, que solamente en un 1% de los casos es de origen genético
+<xref rid="B3" ref-type="bibr">
+<sup>3</sup>
+</xref>. En los casos esporádicos, el desarrollo de la enfermedad se debe probablemente a la conjunción de factores genéticos y ambientales, todavía poco definidos, siendo la edad el único factor de riesgo no modificable
+<xref rid="B3" ref-type="bibr">
+<sup>3</sup>
+</xref>. Sin embargo, no afecta únicamente a personas mayores, pues cerca de un 9% de los casos corresponden a la demencia precoz, cuyos síntomas comienzan a aparecer antes de los 65 años
+<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref>. Dado el desconocimiento existente acerca de las causas exactas que provocan la aparición de esta patología, los estudios centran la búsqueda en los factores de riesgo que tienen mayor relación con su aparición. Se han hallado factores de riesgo no modificables como la edad, la genética y la etnia; y factores de riesgo modificables como la baja reserva cognitiva, el consumo de alcohol, el hábito de fumar, y determinadas enfermedades crónicas como la depresión, la hipertensión arterial y la diabetes mellitus
+<xref rid="B4" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref>
+<xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref>.</p><p>El Alzheimer es una de las principales causas de discapacidad y dependencia entre las personas mayores. Esto implica un deterioro progresivo que afecta a la memoria, a las capacidades cognitivas y al comportamiento, interfiriendo notablemente en la capacidad de la persona para llevar a cabo las actividades de la vida diaria (AVD). Supone la pérdida de la independencia para el funcionamiento normal en el contexto personal, laboral, familiar y social de la persona que la sufre
+<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref>. Según diversos autores, los síntomas de alarma que caracterizan a la persona con EA son: pérdida de memoria, alteraciones en la orientación, problemas con el lenguaje, alteraciones práxicas, gnósicas, del estado de ánimo y de la conducta
+<xref rid="B9" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<xref rid="B10" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<xref rid="B11" ref-type="bibr">
+<sup>11</sup>
+</xref>.</p><p>Existe un creciente consenso respecto a la hipótesis de que determinadas medidas preventivas, llevadas a cabo sobre determinados factores de riesgo modificables, podrían mejorar y encontrar un beneficio en estos pacientes desde la Atención Primaria de Salud (APS). Medidas que, a su vez, serían beneficiosas para el control y la prevención de otras enfermedades crónicas como por ejemplo las enfermedades cardiovasculares. Una intervención sobre la alimentación, unida al ejercicio físico, el abandono del consumo de tabaco y alcohol, el fomento de la interacción social y de la actividad cognitiva, entre otras, podrían traducirse a largo plazo en beneficiosas para conseguir un envejecimiento más activo y saludable en las personas que sufren la EA
+<xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref>.</p><p>Actualmente, en las demencias en general, y en las de tipo Alzheimer en concreto, no existe un tratamiento farmacológico curativo. Por ello, se debe valorar la aplicación de otros tratamientos, aplicados en conjunto o de forma separada, como las denominadas terapias no farmacológicas o complementarias. Estas son un conjunto de intervenciones y actividades cuyo objetivo es retrasar el deterioro cognitivo para mantener la participación de las personas en las actividades diarias el mayor tiempo posible, retrasar la progresión de su enfermedad y apoyar su vida independiente en el hogar
+<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref>.</p><p>Diversos autores han demostrado que estas terapias, combinadas con tratamientos farmacológicos, pueden ser efectivas o incluso más en algunos casos en que el uso de fármacos por sí solos no son suficientes para algunos de los síntomas de esta enfermedad
+<xref rid="B9" ref-type="bibr">
+<sup>9</sup>
+</xref>
+<xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref>. Entre las terapias, centradas en el paciente, se hallan la estimulación cognitiva y el entrenamiento cognitivo, la Actividad Física (AF) y rehabilitación, el entrenamiento de AVD, así como otras terapias ocupacionales aplicadas a través de la música, la relación con animales, el arte, etc.
+<xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref></p><p>Los efectos que la EA tiene sobre las personas que la padecen y sobre sus familiares es un problema prioritario de Salud Pública, por su impacto tanto a nivel sociosanitario como económico. Los sistemas de atención médica en todo el mundo se enfrentan al desafío de que cada vez es mayor el número de personas afectadas por esta enfermedad, existiendo la necesidad de desarrollar planes para implementar estrategias y combatir este desafío
+<xref rid="B14" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref>. Por todo ello, el objetivo de esta revisión es evaluar la efectividad de las terapias no farmacológicas aplicadas en personas con EA en APS.</p></sec><sec sec-type="material|methods"><title>MATERIAL Y MÉTODOS</title><p>Se realizó una revisión sistemática, siguiendo las directrices de la Preferred Reportin ítems for Systematic Reviews and Meta-Analyses (PRISMA)
+<xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref>. Se utilizó la estrategia PICOS (Participants, Interventions, Comparisons, Outcomes and Study desing)
+<xref rid="B17" ref-type="bibr">
+<sup>17</sup>
+</xref> para la búsqueda de información (P: paciente con EA; I: tratamiento con terapias no farmacológicas; C: No aplicación de terapias no farmacológicas; O: efectividad de las terapias no farmacológicas en pacientes con EA).</p><p>Se consultaron las siguientes bases de datos: PubMed, Dialnet, CINAHL, Web Of Science y PsicINFO. La estrategia de búsqueda se centró en elaborar diferentes cadenas de búsqueda a partir de los Descriptores en Ciencias de la Salud (DeCS), así como sus correspondientes Medical Subject Headings (MeSH) combinados con los operadores booleanos AND y OR. Los términos DeCS usados fueron: Enfermedad de Alzheimer, Atención Primaria de Salud, Terapias Complementarias, Efectividad y Resultado del tratamiento; y los MeSH: Alzheimer´s Disease, Primary Health Care, Complementary Therapies, Effectiveness, Treatment outcome y treatmen effectiveness. También se usaron los siguientes términos a texto libre: terapias no farmacológicas (nonpharmacological treatment, en inglés). La estrategia de búsqueda se puede observar en la
+<xref rid="t1" ref-type="table">TABLA 1</xref>.</p><p>La calidad metodológica de los estudios observacionales se evaluó mediante el método Strengthening the Reporting of Observational Studies in Epidemiology (STROBE)
+<xref rid="B18" ref-type="bibr">
+<sup>18</sup>
+</xref>. Esta herramienta consta de un total de veintidós ítems con una puntuación máxima de 22 puntos. Los artículos se clasificaron como débiles, cuando alcanzaban una puntuación menor del 33% de la puntuación total; moderados, si la puntuación estaba entre el 34% y el 66%; y fuerte, cuando la puntuación era superior al 66%. Para los Ensayos Controlados Aleatorios (ECA) se empleó la herramienta de la Colaboración Cochrane
+<xref rid="B19" ref-type="bibr">
+<sup>19</sup>
+</xref>. El riesgo de sesgo de la Colaboración Cochrane evalúa el riesgo de varias formas de sesgo: sesgo de selección, sesgo de rendimiento, sesgo de deserción y sesgo de información; cada elemento puede clasificarse como riesgo de sesgo bajo, poco claro o alto. Para las revisiones sistemáticas se empleó la herramienta A Measurement Tool for Assessment of Multiple Systematic Reviems (AMSTAR-2)
+<xref rid="B20" ref-type="bibr">
+<sup>20</sup>
+</xref>, clasificando en cuatro niveles la calidad: Alta, Moderada, Baja y Críticamente Baja. La calidad de la evidencia (niveles de evidencia y grados de recomendación) se evaluó mediante el Joanna Briggs Institute (JBI)
+<xref rid="B21" ref-type="bibr">
+<sup>21</sup>
+</xref>; esta escala valora la evidencia según el diseño del estudio en cinco niveles y los grados de recomendación en dos (A para una recomendación fuerte y B para una débil).</p><table-wrap position="float" id="t1" orientation="portrait"><label>Tabla 1</label><caption><title>Estrategia de búsqueda.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1135-5727-resp-97-e202310086-g001.jpg"/></table-wrap><p>Se incluyeron los artículos publicados entre abril de 2017 y abril de 2022, escritos en inglés y español, cuyos sujetos de estudio fueran pacientes con EA y donde se evaluó la efectividad de las terapias complementarias aplicadas a estos pacientes en el contexto de la APS. Se excluyeron aquellos estudios que se centraran únicamente en tratamientos farmacológicos, aplicados a animales o que no alcanzasen los objetivos del estudio. También se excluyeron los artículos cuya calidad metodológica no fue posible evaluar tras lectura crítica por falta de información en método o en la mayoría de los apartados.</p><p>Las búsquedas bibliográficas y la evaluación de los artículos para su inclusión en la revisión fue realizada por dos autores (M Ruiz-Hernández y R Mur-Gomar) de forma independiente durante el mes de mayo de 2022. Si surgían discrepancias, los autores discutían entre sí, pidiendo al tercer autor (R Montejano-Lozoya) que resolviera la divergencia, si era necesario. Todos los autores llegaron a un acuerdo unánime sobre los criterios de elegibilidad establecidos. En cada estudio se extrajeron los siguientes datos: características demográficas (país, diseño del estudio, muestra, sexo, media de edad y/o desviación estándar, tipo de terapia y efectividad); objetivos del estudio; intervención; evaluación; y resultados/conclusiones. El protocolo de revisión se registró en el Registro Internacional de Revisiones sistemáticas (PROSPERO) con número de CRD42022361802.</p></sec><sec sec-type="results"><title>RESULTADOS</title><p>Se encontraron un total de 551 estudios, de los que se eliminaron 54 por estar duplicados. Tras leer los títulos y resúmenes, se rechazaron 393 por no cumplir los criterios de inclusión. De los estudios recuperados a texto completo, se excluyeron 63 por no dar respuesta a los objetivos planteados, y tras un cribado de calidad metodológica quedaron 19 artículos para la revisión
+<xref rid="f1" ref-type="fig">[FIGURA 1]</xref>. De todos ellos, dos eran revisiones sistemáticas y metanálisis
+<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref>, tres revisiones sistemáticas
+<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<xref rid="B26" ref-type="bibr">
+<sup>26</sup>
+</xref>, cinco estudios cuasi-experimentales
+<xref rid="B27" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<xref rid="B29" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<xref rid="B30" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<xref rid="B31" ref-type="bibr">
+<sup>31</sup>
+</xref> y nueve ensayos clínicos
+<xref rid="B32" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<xref rid="B33" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<xref rid="B34" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<xref rid="B35" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<xref rid="B36" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<xref rid="B37" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<xref rid="B38" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<xref rid="B39" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<xref rid="B40" ref-type="bibr">
+<sup>40</sup>
+</xref>. En la
+<xref rid="t2" ref-type="table">TABLA 2</xref> se presenta un resumen con las características de cada estudio.</p><p>Se analizaron un total de 4.791 participantes. La mayoría de las personas incluidas en los estudios eran adultos mayores de sesenta años con EA en fase leve y/o moderada. Todas ellas fueron seleccionadas a través de centros de salud o residencias. Los profesionales encargados de aplicar las diferentes intervenciones eran fisioterapeutas, enfermeras y psicólogos, entre otros. Se aplicaron varias terapias no farmacológicas, todas ellas en sesiones de una o dos horas, varias veces a la semana, durante varias semanas o meses. La mayoría de los estudios comparan la eficacia de las terapias usando escalas de valoración, específicas para cada caso, antes y después de su aplicación, o bien respecto a un grupo control. Todas las terapias incluidas en resultados se pueden clasificar en tres grupos, al igual que realizan otros autores
+<xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref>. Estas son: Actividad física y tratamiento rehabilitador; Terapia ocupacional; Estimulación cognitiva.</p></sec><sec><title>Actividad física y tratamiento rehabilitador.</title><p>Un 36,8% de los estudios incluidos
+<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<xref rid="B32" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<xref rid="B34" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<xref rid="B36" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<xref rid="B38" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<xref rid="B40" ref-type="bibr">
+<sup>40</sup>
+</xref> analizaron la eficacia del tratamiento con actividad física y rehabilitación en personas con EA, bien con determinadas actividades en concreto, o con la combinación de varias actividades físicas. Lanza et al.
+<xref rid="B36" ref-type="bibr">
+<sup>36</sup>
+</xref> concluyeron que la aplicación de actividad motora, basada en Shiatsu, mejoraba los síntomas depresivos de forma significativa tras diez meses de intervención. Morris et al.
+<xref rid="B38" ref-type="bibr">
+<sup>38</sup>
+</xref>, tras analizar la eficacia del ejercicio aeróbico de intensidad moderada durante veintiséis semanas, indicaron una ganancia moderada en la capacidad funcional y una mejoría en el rendimiento de la memoria, debido a su correlación con los beneficios cardiorrespiratorios que proporcionaba.</p><fig position="float" id="f1" orientation="portrait"><label>Figura 1</label><caption><title>Análisis de los artículos incluidos en la revisión sobre terapias complementarias y su efectividad en personas con Alzheimer.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1135-5727-resp-97-e202310086-g002.jpg"/></fig><table-wrap position="float" id="t2" orientation="portrait"><label>Tabla 2</label><caption><title>Estrategia de búsqueda.</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1135-5727-resp-97-e202310086-g003.jpg"/><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1135-5727-resp-97-e202310086-g004.jpg"/><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1135-5727-resp-97-e202310086-g005.jpg"/><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1135-5727-resp-97-e202310086-g006.jpg"/><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1135-5727-resp-97-e202310086-g007.jpg"/><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1135-5727-resp-97-e202310086-g008.jpg"/><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1135-5727-resp-97-e202310086-g009.jpg"/><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="1135-5727-resp-97-e202310086-g010.jpg"/></table-wrap><p>Tres estudios
+<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<xref rid="B40" ref-type="bibr">
+<sup>40</sup>
+</xref> analizaron la combinación de varios ejercicios; concretamente, Zhou et al.
+<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref> aplicaron una combinación de ejercicios aeróbicos y mixtos (aeróbico y anaeróbico), observando avances favorables en la cognición global y en las AVD de los pacientes tras sesiones de treinta-cuarenta y cinco minutos por semana durante tres meses. Los estudios de García-Moreno et al.
+<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref> y De Sousa et al.
+<xref rid="B40" ref-type="bibr">
+<sup>40</sup>
+</xref> combinaron varias actividades, como la aplicación de ejercicios de fuerza, equilibrio, marcha, resistencia, etc.; en ambos estudios se observó un menor riesgo de caídas en las personas tras su aplicación.</p><p>Respecto a la aplicación de tratamiento rehabilitador, dos estudios
+<xref rid="B32" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<xref rid="B34" ref-type="bibr">
+<sup>34</sup>
+</xref> indicaron que las personas que realizaron reeducación postural global durante veinticuatro semanas mejoran de forma significativa su calidad de vida; observaron mejorías en la capacidad cognitiva, la depresión, la autonomía y el equilibrio.</p></sec><sec><title>Terapia ocupacional.</title><p> Un 47,4% de los estudios revisados incluyen terapia ocupacional. En algunos de ellos se usa un solo tipo de terapia, y en otros la combinación de varias modalidades. En dos estudios
+<xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<xref rid="B27" ref-type="bibr">
+<sup>27</sup>
+</xref> se realiza terapia con animales, concretamente con perros; Klimova et al.
+<xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref> indicaron un beneficio relacionado con la salud física y mental de esta terapia tras ser aplicada de dos semanas a seis meses; los pacientes mejoraron sus condiciones sociales con disminución del aislamiento y aumentaron su equilibrio con una disminución del riesgo de caídas. El estudio cuasiexperimental de Quintavalla et al.
+<xref rid="B27" ref-type="bibr">
+<sup>27</sup>
+</xref>, tras aplicar veinticuatro sesiones con paseos, charlas, cuidados y juegos con perros, concluyeron que la calidad de vida de las personas con EA mejoraba en términos de bienestar percibido y en niveles cognitivos y memorísticos; sin embargo, la efectividad disminuyó a los dos meses; estos autores concluyen que existe beneficio siempre y cuando el perro este presente en la vida del paciente de forma constante. </p><p>La musicoterapia aplicada también obtiene eficacia demostrada en varios estudios. De la Rubia et al.
+<xref rid="B29" ref-type="bibr">
+<sup>29</sup>
+</xref> observaron que una aplicación de una sesión de sesenta minutos por semana mejoraba variables emocionales como la ansiedad y la depresión. Un ECA realizado por Lyu et al.
+<xref rid="B35" ref-type="bibr">
+<sup>35</sup>
+</xref>, tras aplicar terapia con sesiones basadas en escuchar música, canto y lectura de letras de canciones, demuestra que la musicoterapia es eficaz para mejorar la memoria y la capacidad del lenguaje en pacientes con EA.</p><p>El estudio de Ruiz-Muelle et al.
+<xref rid="B26" ref-type="bibr">
+<sup>26</sup>
+</xref>, combinando baile y danza con musicoterapia, demostró que los pacientes mejoraron su flexibilidad, retardando el empeoramiento a nivel físico; y a nivel cognitivo, mejoraron la memoria, el aprendizaje y las habilidades de comunicación; en definitiva, obtuvieron una mejor calidad de vida.</p><p>La aplicación de sesiones de arteterapia con diferentes actividades como dibujo, pintura, escultura, musicoterapia, etc., supuso una mejora del estado cognitivo tras cuatro meses de tratamiento; y de forma significativa a los dieciséis meses, ralentizando el deterioro cognitivo y mejorando los cuadros depresivos y la autopercepción de la calidad de vida
+<xref rid="B30" ref-type="bibr">
+<sup>30</sup>
+</xref>.</p><p>La aplicación de una terapia mixta, combinando actividades físicas, hortícolas, musicales, artísticas e instrumentales de la vida diaria, analizada por Kim et al.
+<xref rid="B33" ref-type="bibr">
+<sup>33</sup>
+</xref>, supuso una mejora en funciones cognitivas, depresión, memoria subjetiva y calidad de vida de forma significativa. Pongan et al.
+<xref rid="B39" ref-type="bibr">
+<sup>39</sup>
+</xref> aplicaron en dos grupos distintas terapias: en uno canto y en otra pintura. Los resultados hallados demostraron a lo largo del tiempo mejoría en ambos grupos respecto a la ansiedad y la calidad de vida; el grupo con pintura mejoró en depresión. Un estudio de revisión sistemática con metanálisis de diecisiete ECA realizado por Liang et al.
+<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref> concluyó que las terapias de actividad física, musicoterapia y entrenamiento cognitivo tienen efectos beneficiosos en adultos mayores con EA.</p></sec><sec><title>Estimulación cognitiva.</title><p> Solamente tres estudios
+<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<xref rid="B31" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<xref rid="B37" ref-type="bibr">
+<sup>37</sup>
+</xref> incluidos en esta revisión analizan la efectividad de las terapias con estimulación cognitiva en personas con EA. Ávila et al.
+<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref>, tras aplicar un programa de intervención basado en estimulación cognitiva, habilidades psicomotoras y sensoriales, mostraron que existía una mejoría respecto a la independencia funcional para las AVD y a la orientación temporo-espacial. García-Casal et al.
+<xref rid="B31" ref-type="bibr">
+<sup>31</sup>
+</xref> indicaron beneficios en el reconocimiento de emociones y en las AVD tras aplicar un tratamiento combinado de estimulación cognitiva con reconocimiento de emociones, durante veinte sesiones con una frecuencia de dos sesiones por semana. Y López
+<xref rid="B37" ref-type="bibr">
+<sup>37</sup>
+</xref>, usando cuadernos de repaso con ejercicios en personas con demencia moderada-leve y trabajando la orientación temporo-espacial, observó beneficios respecto a las capacidades intelectuales, al producirse un retraso en la progresión del deterioro de las funciones ejecutivas.</p></sec><sec><title>Calidad metodológica de los estudios.</title><p> La mayoría de los ECA
+<xref rid="B32" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<xref rid="B34" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<xref rid="B35" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<xref rid="B36" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<xref rid="B38" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<xref rid="B39" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<xref rid="B40" ref-type="bibr">
+<sup>40</sup>
+</xref> obtuvieron bajo riesgo de sesgo, solamente dos obtuvieron riesgo de sesgo poco claro
+<xref rid="B33" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<xref rid="B37" ref-type="bibr">
+<sup>37</sup>
+</xref>. Respecto a las revisiones sistemáticas y metanálisis, dos estudios
+<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref> obtuvieron una calidad baja, dos moderada
+<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<xref rid="B26" ref-type="bibr">
+<sup>26</sup>
+</xref> y uno alta, en el caso de un metanálisis
+<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref>. Todos los estudios cuasiexperimentales valorados con la escala STROBE se clasificaron con calidad fuerte
+<xref rid="B27" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<xref rid="B29" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<xref rid="B30" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<xref rid="B31" ref-type="bibr">
+<sup>31</sup>
+</xref>. Respecto al nivel de evidencia, los estudios de revisión sistemática y metanálisis, así como los ECA, obtuvieron los niveles más altos: 1a
+<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref> 1b
+<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<xref rid="B26" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref> y 1c
+<xref rid="B32" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<xref rid="B33" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<xref rid="B34" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<xref rid="B35" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<xref rid="B36" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<xref rid="B37" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<xref rid="B38" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<xref rid="B39" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<xref rid="B40" ref-type="bibr">
+<sup>40</sup>
+</xref>. Un 63,2% obtuvieron un grado de recomendación fuerte
+<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<xref rid="B26" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<xref rid="B32" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<xref rid="B35" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<xref rid="B36" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<xref rid="B38" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<xref rid="B39" ref-type="bibr">
+<sup>39</sup>
+</xref>
+<xref rid="B40" ref-type="bibr">
+<sup>40</sup>
+</xref> y un 36,8% débil
+<xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<xref rid="B27" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<xref rid="B29" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<xref rid="B30" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<xref rid="B31" ref-type="bibr">
+<sup>31</sup>
+</xref>.</p></sec><sec sec-type="discussion"><title>DISCUSIÓN</title><p>En esta revisión se ha analizado la eficacia de las terapias no farmacológicas en pacientes con EA. Los resultados muestran que, a pesar de existir gran variedad de tratamientos con terapias complementarias, todas ellas, aplicadas de forma aislada o combinada, durante un tiempo prolongado, son eficaces para prevenir o retardar las manifestaciones clínicas de esta enfermedad. En todos los estudios revisados se constata una aplicación rigurosa de las terapias usadas, tanto respecto a las sesiones, al tiempo de aplicación, como al seguimiento y evaluación; los autores han usado escalas validadas para estimar su eficacia. De hecho, de los diecinueve estudios incluidos solamente dos revisiones sistemáticas
+<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref> obtienen calidad metodológica baja, el resto alcanzan una buena calidad científica.</p><p>La aplicación de terapias basadas en AF demuestran una mejora significativa de la capacidad cognitiva de los pacientes con EA, relacionada con un mayor tiempo de aplicación, si se comparan con pacientes no tratados
+<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<xref rid="B36" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<xref rid="B40" ref-type="bibr">
+<sup>40</sup>
+</xref>. El ejercicio aeróbico que combina entrenamiento de fuerza, equilibrio y ejercicios funcionales, puede mejorar la marcha, el equilibrio y prevenir las caídas en pacientes con EA leve y moderada, además de mejorar de forma generalizada la capacidad funcional y, por tanto, el desarrollo de las AVD de estos pacientes
+<xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<xref rid="B36" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<xref rid="B38" ref-type="bibr">
+<sup>38</sup>
+</xref>
+<xref rid="B40" ref-type="bibr">
+<sup>40</sup>
+</xref>. El Shiatsu, considerado como una de las actividades más fáciles, seguras y no invasivas, mejora a nivel cognitivo y funcional, disminuyendo los síntomas depresivos de las personas que lo practican a los tres y seis meses de tratamiento
+<xref rid="B36" ref-type="bibr">
+<sup>36</sup>
+</xref>. Además, las ganancias relacionadas con la AF en la aptitud cardiorrespiratoria se asocian con un mejor rendimiento de la memoria y una reducción de la atrofia del hipocampo, lo que sugiere que pueden ser importantes para generar beneficios cerebrales
+<xref rid="B38" ref-type="bibr">
+<sup>38</sup>
+</xref>. Sin embargo, el mecanismo exacto sigue sin estar concretado
+<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref>. La reeducación postural global también obtiene beneficios significativos a partir de las veinticuatro semanas de tratamiento en pacientes con EA, a nivel del equilibrio y autonomía
+<xref rid="B34" ref-type="bibr">
+<sup>34</sup>
+</xref>, estado mental, depresión y calidad de vida
+<xref rid="B32" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<xref rid="B34" ref-type="bibr">
+<sup>34</sup>
+</xref>.</p><p>Las terapias ocupacionales son diversas, y cada vez más su uso se promueve en los ámbitos sociosanitarios. La música y el arte empleadas en pacientes con EA muestran resultados muy favorables. Concretamente, los pacientes con talleres de pintura y canto mejoran en dolor, depresión, ansiedad y calidad de vida
+<xref rid="B39" ref-type="bibr">
+<sup>39</sup>
+</xref>. La MT mejora la memoria y la capacidad del lenguaje en personas con EA leve y reduce los síntomas psiquiátricos en aquellos con EA moderada y grave
+<xref rid="B35" ref-type="bibr">
+<sup>35</sup>
+</xref>. En el estudio realizado por de la Rubia et al.
+<xref rid="B29" ref-type="bibr">
+<sup>29</sup>
+</xref> hallan una correlación lineal y significativa entre la disminución de los niveles de cortisol (estrés), que muestran los pacientes tras aplicar una intervención de MT, y la mejoría en depresión y ansiedad. Sin embargo, no hay un efecto significativo en cuanto a mejora funcional para las AVD
+<xref rid="B35" ref-type="bibr">
+<sup>35</sup>
+</xref>. Pero, el hecho de que estas intervenciones tengan una aplicación segura y de costes reducidos las convierte en una de las mejores alternativas por su calidad-precio
+<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref>. Otro ejemplo de estas nuevas terapias es la terapia animal, concretamente la canina; esta produce efectos beneficiosos en pacientes tanto con demencia como EA, presentando alguna mejora o mantenimiento respecto al comportamiento, estado anímico y cognitivo, AVD, estrés mental, salud física y calidad de vida
+<xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<xref rid="B27" ref-type="bibr">
+<sup>27</sup>
+</xref>.</p><p>La combinación de varias terapias muestra resultados más eficaces que la aplicación de terapias aisladas
+<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<xref rid="B26" ref-type="bibr">
+<sup>26</sup>
+</xref>
+<xref rid="B30" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<xref rid="B33" ref-type="bibr">
+<sup>33</sup>
+</xref>. Kim
+<xref rid="B33" ref-type="bibr">
+<sup>33</sup>
+</xref>, con un programa basado en cinco actividades (AF, horticultura, música, arte y AVD), utilizando temas en los que los sujetos podían recordar acontecimientos en varias etapas de su vida (infancia, edad adulta y final de la mediana edad), halla mejorías significativas en las funciones cognitivas, en memoria subjetiva, en depresión y en calidad de vida de estos pacientes. Similares fueron los resultados obtenidos por Ruiz-Muelle et al.
+<xref rid="B26" ref-type="bibr">
+<sup>26</sup>
+</xref>, tras aplicar un programa basado en danza, musicoterapia y actividades físicas, psicosociales y funcionales. Las estrategias con actividades de pintura, escultura, dibujo, MT y otras manualidades, mejoran de modo significativo el nivel de depresión y la calidad de vida, ralentizando el deterioro cognitivo
+<xref rid="B30" ref-type="bibr">
+<sup>30</sup>
+</xref>. Dado que la calidad de vida se compone de factores psicológicos, biológicos y socioestructurales, las intervenciones multidisciplinares parecen ser las más adecuadas cuando se trata de EA, ofreciendo mejores resultados que los tratamientos farmacológicos
+<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref>.</p><p>Por otro lado, respecto a la estimulación cognitiva los estudios muestran resultados beneficiosos, aún mayores cuando se aplican en combinación a otras intervenciones
+<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<xref rid="B31" ref-type="bibr">
+<sup>31</sup>
+</xref>. Ávila et al.
+<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref> aplicaron actividades dirigidas al hogar y AVD, promoviendo una mayor independencia en la vida diaria de los pacientes tratados; sus resultados demuestran que la estimulación cognitiva, unida a la activación de habilidades psicomotoras y sensoriales, retrasan la discapacidad funcional y la pérdida de algunas funciones cognitivas. Otro estudio, realizado en personas con EA leve, comprobó que la intervención cognitiva combinada con rehabilitación del reconocimiento de emociones fue más eficaz que la aplicación única de estimulación cognitiva sobre las AVD, mejorando las funciones cognitivas y la calidad de vida
+<xref rid="B31" ref-type="bibr">
+<sup>31</sup>
+</xref>. Los pacientes tratados solamente con estimulación cognitiva muestran mejoría en el razonamiento, las praxias constructivas y el reconocimiento de palabras, así como la capacidad intelectual, la función visoespacial y la mejora en la curva de aprendizaje
+<xref rid="B37" ref-type="bibr">
+<sup>37</sup>
+</xref>. Sin embargo, existe controversia sobre la eficacia de estas terapias respecto a los síntomas neuropsiquiátricos; el estudio de Liang et al.
+<xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref> refiere una mejoría significativa tras sesiones de entrenamiento cognitivo computerizado; sin embargo, López
+<xref rid="B37" ref-type="bibr">
+<sup>37</sup>
+</xref> y García-Casal et al.
+<xref rid="B31" ref-type="bibr">
+<sup>31</sup>
+</xref> hallan un mantenimiento de los signos y síntomas, sin empeoramiento, pero sin una mejoría significativa.</p><p>Como limitación de este estudio destaca que los artículos revisados no analizan todos los tipos de terapias complementarias usadas en una misma investigación, sino que cada investigación se centra en una solamente o en la combinación de varias. Por tanto, no se puede establecer un orden respecto a la mayor o menor eficacia entre ellas. Se precisan investigaciones que apliquen y analicen varias terapias a la vez para contrastar y valorar las más eficaces. También es necesario evaluar la combinación de terapias complementarias con tratamientos farmacológicos. De esta forma, se podrían incluir progresivamente en la APS, fomentando un modelo de cuidados y tratamiento más holístico de las personas con EA.</p><p>En conclusión, las terapias farmacológicas, por sí solas, no son suficientes para controlar el proceso de la EA. Las terapias complementarias basadas en AF y rehabilitación, estimulación cognitiva y la terapia ocupacional con música, animales y arte, aplicadas y mantenidas en el tiempo, son una alternativa, que bien combinadas o de forma aislada, son eficaces para prevenir, frenar y ralentizar los síntomas la enfermedad de Alzheimer, sobre todo en la fase inicial.</p></sec></body><back><ref-list><title>BIBLIOGRAFÍA</title><ref id="B1"><label>1</label><mixed-citation publication-type="other" id="mixed-citation1">Organización Mundial de la Salud (OMS). Demencia: una prioridad de salud pública. Washington: OMS, 2013. Disponible en: https://www.who.int/mental_health/publications/dementia_report_2012/es/. [Consultado el 2 de marzo de 2022].</mixed-citation><element-citation publication-type="book" id="element-citation1"><person-group person-group-type="author">
+<collab>Organización Mundial de la Salud (OMS)</collab>
+</person-group><year>2013</year><publisher-loc>Washington</publisher-loc><publisher-name>OMS</publisher-name><comment>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/mental_health/publications/dementia_report_2012/es/" ext-link-type="uri">https://www.who.int/mental_health/publications/dementia_report_2012/es/</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2022-03-02">02-03-2022</date-in-citation></element-citation></ref><ref id="B2"><label>2</label><mixed-citation publication-type="other" id="mixed-citation2">Ministerio de Sanidad. Plan Integral de Alzheimer y otras Demencias (2019-2023). Madrid: Ministerio de Sanidad, 2019. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/docs/Plan_Integral_Alhzeimer_Octubre_2019.pdf. [Consultado el 2 de marzo de 2022].</mixed-citation><element-citation publication-type="book" id="element-citation2"><person-group person-group-type="author">
+<collab>Ministerio de Sanidad</collab>
+</person-group><year>2019</year><publisher-loc>Madrid</publisher-loc><publisher-name>Ministerio de Sanidad</publisher-name><comment>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.mscbs.gob.es/profesionales/saludPublica/docs/Plan_Integral_Alhzeimer_Octubre_2019.pdf" ext-link-type="uri">https://www.mscbs.gob.es/profesionales/saludPublica/docs/Plan_Integral_Alhzeimer_Octubre_2019.pdf</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2022-03-02">02-03-2022</date-in-citation></element-citation></ref><ref id="B3"><label>3</label><mixed-citation publication-type="other" id="mixed-citation3">Sociedad Española de Enfermería Neurológica (SEDENE). Tratado de Enfermería Neurológica. La persona, la enfermedad y los cuidados. 3ª ed. Barcelona: ELSEVIER, 2013.</mixed-citation><element-citation publication-type="book" id="element-citation3"><person-group person-group-type="author">
+<collab>Sociedad Española de Enfermería Neurológica</collab>
+</person-group><year>2013</year><publisher-loc>Barcelona</publisher-loc><publisher-name>ELSEVIER</publisher-name></element-citation></ref><ref id="B4"><label>4</label><mixed-citation publication-type="other" id="mixed-citation4">Armenteros Borrell FM. Enfermedad de Alzheimer y factores de riesgo ambientales. Rev Cubana Enferm [Internet]. 2017 [Consultado el 4 de marzo de 2022]; 33(2):159-172. Disponible en: https://www.medigraphic.com/pdfs/revcubenf/cnf-2017/cnf171r.pdf</mixed-citation><element-citation publication-type="journal" id="element-citation4"><person-group person-group-type="author">
+<name name-style="western"><surname>Armenteros Borrell</surname><given-names>FM</given-names></name>
+</person-group><article-title>Enfermedad de Alzheimer y factores de riesgo ambientales.</article-title><source>Rev Cubana Enferm</source><year>2017</year><volume>33</volume><issue>2</issue><fpage>159</fpage><lpage>172</lpage><comment>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.medigraphic.com/pdfs/revcubenf/cnf-2017/cnf171r.pdf" ext-link-type="uri"> https://www.medigraphic.com/pdfs/revcubenf/cnf-2017/cnf171r.pdf</ext-link>
+</comment></element-citation></ref><ref id="B5"><label>5</label><mixed-citation publication-type="other" id="mixed-citation5">Stern Y. Cognitive reserve in ageing and Alzheimer disease. Lancet Neurol. 2012; 11(11):1006-1012. doi: https://dx.doi.org/10.1016/S1474-4422(12)70191-6<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(12)70191-6</pub-id><pub-id pub-id-type="pmcid">PMC3507991</pub-id><pub-id pub-id-type="pmid">23079557</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation5"><person-group person-group-type="author">
+<name name-style="western"><surname>Stern</surname><given-names>Y</given-names></name>
+</person-group><article-title>Cognitive reserve in ageing and Alzheimer disease.</article-title><source>Lancet Neurol</source><year>2012</year><volume>11</volume><issue>11</issue><fpage>1006</fpage><lpage>1012</lpage><pub-id pub-id-type="doi">10.1016/S1474-4422(12)70191-6</pub-id><pub-id pub-id-type="pmid">23079557</pub-id><pub-id pub-id-type="pmcid">PMC3507991</pub-id></element-citation></ref><ref id="B6"><label>6</label><mixed-citation publication-type="other" id="mixed-citation6">Compdeclacreu J. Enfermedad de Parkinson y enfermedad de Alzheimer: factores de riesgo ambientales. Servicios de Neurología. Hospital Universitario de Bellvilge: ELSEVIER; 2011. doi: https://dx.doi.org/10.1016/j.nrl.2012.04.001</mixed-citation><element-citation publication-type="journal" id="element-citation6"><person-group person-group-type="author">
+<name name-style="western"><surname>Compdeclacreu</surname><given-names>J</given-names></name>
+</person-group><article-title>Enfermedad de Parkinson y enfermedad de Alzheimer: factores de riesgo ambientales. Servicios de Neurología.</article-title><source>ELSEVIER</source><year>2011</year><pub-id pub-id-type="doi">10.1016/j.nrl.2012.04.001</pub-id></element-citation></ref><ref id="B7"><label>7</label><mixed-citation publication-type="other" id="mixed-citation7">Rolo A, Palmeira C. Diabetes and mitochondrial function: role of hyperglycemia and oxidative stress toxical. Appi Pharmacal. 2006; 212:167-178. doi: https://dx.doi.org/10.1016/j.taap.2006.01.003 <pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.taap.2006.01.003</pub-id><pub-id pub-id-type="pmid">16490224</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation7"><person-group person-group-type="author">
+<name name-style="western"><surname>Rolo</surname><given-names>A</given-names></name><name name-style="western"><surname>Palmeira</surname><given-names>C</given-names></name>
+</person-group><article-title>Diabetes and mitochondrial function: role of hyperglycemia and oxidative stress toxical.</article-title><source>Appi Pharmacal</source><year>2006</year><volume>212</volume><fpage>167</fpage><lpage>178</lpage><pub-id pub-id-type="doi">10.1016/j.taap.2006.01.003</pub-id><pub-id pub-id-type="pmid">16490224</pub-id></element-citation></ref><ref id="B8"><label>8</label><mixed-citation publication-type="other" id="mixed-citation8">Wu KY, Lin KJ, Chen CH, Chen CS, Liu CY, Huang SY et al. Diversity of neurodegenerative pathophysiology in nondemented patients with major depressive disorder: Evidence of cerebral amyloidosis and hippocampal atrophy. Brain Behav 2018; 8(7):e01016. doi: https://dx.doi.org/10.1002/brb3.1016<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/brb3.1016</pub-id><pub-id pub-id-type="pmcid">PMC6043710</pub-id><pub-id pub-id-type="pmid">29927088</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation8"><person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>KY</given-names></name><name name-style="western"><surname>Lin</surname><given-names>KJ</given-names></name><name name-style="western"><surname>Chen</surname><given-names>CH</given-names></name><name name-style="western"><surname>Chen</surname><given-names>CS</given-names></name><name name-style="western"><surname>Liu</surname><given-names>CY</given-names></name><name name-style="western"><surname>Huang</surname><given-names>SY</given-names></name>
+</person-group><article-title>Diversity of neurodegenerative pathophysiology in nondemented patients with major depressive disorder: Evidence of cerebral amyloidosis and hippocampal atrophy.</article-title><source>Brain Behav</source><year>2018</year><volume>8</volume><issue>7</issue><fpage>e01016</fpage><lpage>e01016</lpage><pub-id pub-id-type="doi">10.1002/brb3.1016</pub-id><pub-id pub-id-type="pmid">29927088</pub-id><pub-id pub-id-type="pmcid">PMC6043710</pub-id></element-citation></ref><ref id="B9"><label>9</label><mixed-citation publication-type="other" id="mixed-citation9">Confederación Española de Familiares de Enfermos de Alzheimer y otras Demencias (CEAFA). Alzheimer: La enfermedad. 2017. Disponible en: https://www.ceafa.es/es/el-alzheimer/la-enfermedad-alzheimer. [Consultado el 8 de marzo de 2022].</mixed-citation><element-citation publication-type="report" id="element-citation9"><person-group person-group-type="author">
+<collab>Confederación Española de Familiares de Enfermos de Alzheimer y otras Demencias</collab>
+</person-group><year>2017</year><comment>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ceafa.es/es/el-alzheimer/la-enfermedad-alzheimer" ext-link-type="uri">https://www.ceafa.es/es/el-alzheimer/la-enfermedad-alzheimer</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2022-03-08">08-03-2022</date-in-citation></element-citation></ref><ref id="B10"><label>10</label><mixed-citation publication-type="other" id="mixed-citation10">Guarino A, Favieri F, Boncompagni I, Agostini F, Cantone M, Casagrande M. Executive Functions in Alzheimer Disease: A Systematic Review. Front Aging Neurosci. 2019; 10:437. doi: https://dx.doi.org/10.3389/fnagi.2018.00437<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2018.00437</pub-id><pub-id pub-id-type="pmcid">PMC6341024</pub-id><pub-id pub-id-type="pmid">30697157</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation10"><person-group person-group-type="author">
+<name name-style="western"><surname>Guarino</surname><given-names>A</given-names></name><name name-style="western"><surname>Favieri</surname><given-names>F</given-names></name><name name-style="western"><surname>Boncompagni</surname><given-names>I</given-names></name><name name-style="western"><surname>Agostini</surname><given-names>F</given-names></name><name name-style="western"><surname>Cantone</surname><given-names>M</given-names></name><name name-style="western"><surname>Casagrande</surname><given-names>M</given-names></name>
+</person-group><article-title>Executive Functions in Alzheimer Disease: A Systematic Review.</article-title><source>Front Aging Neurosci</source><year>2019</year><volume>10</volume><issue>437</issue><pub-id pub-id-type="doi">10.3389/fnagi.2018.00437</pub-id><pub-id pub-id-type="pmcid">PMC6341024</pub-id><pub-id pub-id-type="pmid">30697157</pub-id></element-citation></ref><ref id="B11"><label>11</label><mixed-citation publication-type="other" id="mixed-citation11">Gobierno de Canarias. Conserjería de Sanidad. Manual de Actuación en la enfermedad de Alzheimer y otras Demencias. Canarias, 2011. Disponible en: https://www3.gobiernodecanarias.org/sanidad/scs/content/7730420f-4820-11e1-92c3-9195656fdecf/26797_ag%20ALZHEIMER_%20baja.pdf. [Consultado el 7 de marzo de 2022].</mixed-citation><element-citation publication-type="book" id="element-citation11"><person-group person-group-type="author">
+<collab>Gobierno de Canarias. Conserjería de Sanidad</collab>
+</person-group><year>2011</year><publisher-loc>Canarias</publisher-loc><comment>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www3.gobiernodecanarias.org/sanidad/scs/content/7730420f-4820-11e1-92c3-9195656fdecf/26797_ag%20ALZHEIMER_%20baja.pdf" ext-link-type="uri">https://www3.gobiernodecanarias.org/sanidad/scs/content/7730420f-4820-11e1-92c3-9195656fdecf/26797_ag%20ALZHEIMER_%20baja.pdf</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2022-03-07">07-03-2022</date-in-citation></element-citation></ref><ref id="B12"><label>12</label><mixed-citation publication-type="other" id="mixed-citation12">Wübbeler M, Thyrian JR, Michalowsky B, Hertel J, Laporte Uribe F, Wolf-Ostermann K et al. Nonpharmacological therapies and provision of aids in outpatient dementia networks in Germany: utilization rates and associated factors. J Multidiscip Healthc. 2015; 8:229-236. doi: https://dx.doi.org/10.2147/JMDH.S80560<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/JMDH.S80560</pub-id><pub-id pub-id-type="pmcid">PMC4445947</pub-id><pub-id pub-id-type="pmid">26056468</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation12"><person-group person-group-type="author">
+<name name-style="western"><surname>Wübbeler</surname><given-names>M</given-names></name><name name-style="western"><surname>Thyrian</surname><given-names>JR</given-names></name><name name-style="western"><surname>Michalowsky</surname><given-names>B</given-names></name><name name-style="western"><surname>Hertel</surname><given-names>J</given-names></name><name name-style="western"><surname>Laporte Uribe</surname><given-names>F</given-names></name><name name-style="western"><surname>Wolf-Ostermann</surname><given-names>K</given-names></name>
+</person-group><article-title>Nonpharmacological therapies and provision of aids in outpatient dementia networks in Germany: utilization rates and associated factors.</article-title><source>J Multidiscip Healthc</source><year>2015</year><volume>8</volume><fpage>229</fpage><lpage>236</lpage><pub-id pub-id-type="doi">10.2147/JMDH.S80560</pub-id><pub-id pub-id-type="pmid">26056468</pub-id><pub-id pub-id-type="pmcid">PMC4445947</pub-id></element-citation></ref><ref id="B13"><label>13</label><mixed-citation publication-type="other" id="mixed-citation13">Ramos Cordero P, Yubero R. Tratamiento no farmacológico del deterioro cognitivo. Rev. Esp Geriatr Gerontol. 2016; 51:12-21. doi: https://dx.doi.org/10.1016/S0211-139X(16)30138-X<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0211-139X(16)30138-X</pub-id><pub-id pub-id-type="pmid">27719967</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation13"><person-group person-group-type="author">
+<name name-style="western"><surname>Ramos Cordero</surname><given-names>P</given-names></name><name name-style="western"><surname>Yubero</surname><given-names>R</given-names></name>
+</person-group><article-title>Tratamiento no farmacológico del deterioro cognitivo.</article-title><source>Rev. Esp Geriatr Gerontol</source><year>2016</year><volume>51</volume><fpage>12</fpage><lpage>21</lpage><pub-id pub-id-type="doi">10.1016/S0211-139X(16)30138-X</pub-id><pub-id pub-id-type="pmid">27719967</pub-id></element-citation></ref><ref id="B14"><label>14</label><mixed-citation publication-type="other" id="mixed-citation14">Ministerio de Sanidad, Consumo y Bienestar Social. Plan Integral de Alzheimer y otras Demencias (2019-2023). 2019. Disponible en: https://www.sanidad.gob.es/profesionales/saludPublica/docs/Plan_Integral_Alhzeimer_Octubre_2019.pdf. [Consultado el 4 de marzo de 2022].</mixed-citation><element-citation publication-type="report" id="element-citation14"><person-group person-group-type="author">
+<collab>Ministerio de Sanidad, Consumo y Bienestar Social</collab>
+</person-group><year>2019</year><comment>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.sanidad.gob.es/profesionales/saludPublica/docs/Plan_Integral_Alhzeimer_Octubre_2019.pdf" ext-link-type="uri">https://www.sanidad.gob.es/profesionales/saludPublica/docs/Plan_Integral_Alhzeimer_Octubre_2019.pdf</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2022-03-04">04-03-2022</date-in-citation></element-citation></ref><ref id="B15"><label>15</label><mixed-citation publication-type="other" id="mixed-citation15">Thyrian JR. People with dementia in primary care: Prevalence, incidence, risk factors and interventions. Z Gerontol Geriatr. 2017 May; 50(Suppl 2):32-38. doi: https://dx.doi.org/10.1007/s00391-017-1223-5<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00391-017-1223-5</pub-id><pub-id pub-id-type="pmid">28386806</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation15"><person-group person-group-type="author">
+<name name-style="western"><surname>Thyrian</surname><given-names>JR</given-names></name>
+</person-group><article-title>People with dementia in primary care: Prevalence, incidence, risk factors and interventions.</article-title><source>Z Gerontol Geriatr</source><month>May</month><year>2017</year><volume>50</volume><issue>2</issue><fpage>32</fpage><lpage>38</lpage><pub-id pub-id-type="doi">10.1007/s00391-017-1223-5</pub-id><pub-id pub-id-type="pmid">28386806</pub-id></element-citation></ref><ref id="B16"><label>16</label><mixed-citation publication-type="other" id="mixed-citation16">Page MJ, McKenzie JE, Bossuyt, PM, Boutron I, Hoffman TC, Mulrow CD. La declaración PRISMA 2020: una guía actualizada para informar revisiones sistemáticas. Syst Rev 2021; 10:89. doi: https://dx.doi.org/10.1186/s13643-021-01626-4 <pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.rec.2021.07.010</pub-id><pub-id pub-id-type="pmid">34446261</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation16"><person-group person-group-type="author">
+<name name-style="western"><surname>Page</surname><given-names>MJ</given-names></name><name name-style="western"><surname>McKenzie</surname><given-names>JE</given-names></name><name name-style="western"><surname>Bossuyt</surname><given-names>PM</given-names></name><name name-style="western"><surname>Boutron</surname><given-names>I</given-names></name><name name-style="western"><surname>Hoffman</surname><given-names>TC</given-names></name><name name-style="western"><surname>Mulrow</surname><given-names>CD</given-names></name>
+</person-group><article-title>La declaración PRISMA 2020: una guía actualizada para informar revisiones sistemáticas.</article-title><source>Syst Rev</source><year>2021</year><volume>10</volume><issue>89</issue><pub-id pub-id-type="doi">10.1186/s13643-021-01626-4</pub-id><pub-id pub-id-type="pmid">34446261</pub-id></element-citation></ref><ref id="B17"><label>17</label><mixed-citation publication-type="other" id="mixed-citation17">Methley AM, Campbell S, Chew-Graham C, McNally R, Cheraghi-Sohi S. PICO, PICOS and SPIDER: a comparison study of specificity and sensitivity in three search tools for qualitative systematic reviews. BMC Health Serv Res. 2014 Nov 21; 14:579. doi: https://dx.doi.org/10.1186/s12913-014-0579-0<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12913-014-0579-0</pub-id><pub-id pub-id-type="pmcid">PMC4310146</pub-id><pub-id pub-id-type="pmid">25413154</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation17"><person-group person-group-type="author">
+<name name-style="western"><surname>Methley</surname><given-names>AM</given-names></name><name name-style="western"><surname>Campbell</surname><given-names>S</given-names></name><name name-style="western"><surname>Chew-Graham</surname><given-names>C</given-names></name><name name-style="western"><surname>McNally</surname><given-names>R</given-names></name><name name-style="western"><surname>Cheraghi-Sohi</surname><given-names>S</given-names></name>
+</person-group><article-title>PICO, PICOS and SPIDER: a comparison study of specificity and sensitivity in three search tools for qualitative systematic reviews.</article-title><source>BMC Health Serv Res</source><month>Nov</month><year>2014</year><volume>21</volume><issue>14</issue><fpage>579</fpage><lpage>579</lpage><pub-id pub-id-type="doi">10.1186/s12913-014-0579-0</pub-id><pub-id pub-id-type="pmcid">PMC4310146</pub-id><pub-id pub-id-type="pmid">25413154</pub-id></element-citation></ref><ref id="B18"><label>18</label><mixed-citation publication-type="other" id="mixed-citation18">Von Elm E, Altman DG, Egger M, Pocock SJ, Gotzsche PC, Vandenbroucke JP. Declaración de la Iniciativa STROBE (Strengthening the Reporting of Observational studies in Epidemiology): directrices para la comunicación de estudios observacionales. Gac Sanit [Internet]. 2008 [Consultado el 8 de marzo de 2022]; 22(2):144-150. Disponible en: http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S021391112008000200011&amp;lng=es<pub-id pub-id-type="doi" assigning-authority="pmc">10.1157/13119325</pub-id><pub-id pub-id-type="pmid">18420014</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation18"><person-group person-group-type="author">
+<name name-style="western"><surname>Von Elm</surname><given-names>E</given-names></name><name name-style="western"><surname>Altman</surname><given-names>DG</given-names></name><name name-style="western"><surname>Egger</surname><given-names>M</given-names></name><name name-style="western"><surname>Pocock</surname><given-names>SJ</given-names></name><name name-style="western"><surname>Gotzsche</surname><given-names>PC</given-names></name><name name-style="western"><surname>Vandenbroucke</surname><given-names>JP</given-names></name>
+</person-group><article-title>Declaración de la Iniciativa STROBE (Strengthening the Reporting of Observational studies in Epidemiology): directrices para la comunicación de estudios observacionales.</article-title><source>Gac Sanit</source><year>2008</year><volume>22</volume><issue>2</issue><fpage>144</fpage><lpage>150</lpage><comment>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S021391112008000200011&amp;lng=es" ext-link-type="uri">http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S021391112008000200011&amp;lng=es</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2022-03-08">08-03-2022</date-in-citation><pub-id pub-id-type="pmid">18420014</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1157/13119325</pub-id></element-citation></ref><ref id="B19"><label>19</label><mixed-citation publication-type="other" id="mixed-citation19">Higgins JPT, Green S (editores). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [actualizado 11 marzo 2011]. The Cochrane Collaboration. 2011. Disponible en: www.cochrane-handbook.org. [Consultado el 8 de marzo de 2022].</mixed-citation><element-citation publication-type="book" id="element-citation19"><person-group person-group-type="author">
+<name name-style="western"><surname>Higgins</surname><given-names>JPT</given-names></name><name name-style="western"><surname>Green</surname><given-names>S</given-names></name>
+</person-group><year>2011</year><publisher-name>The Cochrane Collaboration</publisher-name><comment>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="www.cochrane-handbook.org" ext-link-type="uri">www.cochrane-handbook.org</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2022-03-11">11-03-2022</date-in-citation></element-citation></ref><ref id="B20"><label>20</label><mixed-citation publication-type="other" id="mixed-citation20">Pizarro AB, Carvajal S, Buitrago-López A. Assessing the methodologica l quality of systematic reviews using the AMSTAR tool. Colombino J. Anesthesiol. 2021; 49(1):e913. doi: https://dx.doi.org/10.5554/22562087.e913</mixed-citation><element-citation publication-type="journal" id="element-citation20"><person-group person-group-type="author">
+<name name-style="western"><surname>Pizarro</surname><given-names>AB</given-names></name><name name-style="western"><surname>Carvajal</surname><given-names>S</given-names></name><name name-style="western"><surname>Buitrago-López</surname><given-names>A</given-names></name>
+</person-group><article-title>Assessing the methodologica l quality of systematic reviews using the AMSTAR tool.</article-title><source>Colombino J. Anesthesiol</source><year>2021</year><volume>49</volume><issue>1</issue><fpage>e913</fpage><lpage>e913</lpage><pub-id pub-id-type="doi">10.5554/22562087.e913</pub-id></element-citation></ref><ref id="B21"><label>21</label><mixed-citation publication-type="other" id="mixed-citation21">The Joanna Briggs Institute. New JBI Levels of Evidence. 2014. Disponible en: https://jbi.global/sites/default/files/2019-05/JBILevels-of-evidence_2014_0.pdf. [Consultado el 8 de marzo de 2022].</mixed-citation><element-citation publication-type="report" id="element-citation21"><person-group person-group-type="author">
+<collab>The Joanna Briggs Institute</collab>
+</person-group><year>2014</year><comment>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://jbi.global/sites/default/files/2019-05/JBILevels-of-evidence_2014_0.pdf" ext-link-type="uri">https://jbi.global/sites/default/files/2019-05/JBILevels-of-evidence_2014_0.pdf</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2022-03-08">08-03-2022</date-in-citation></element-citation></ref><ref id="B22"><label>22</label><mixed-citation publication-type="other" id="mixed-citation22">Zhou S, Chen S, Liu X, Zhang Y, Zhao M, Li W. Physical Activity Improves Cognition and Activities of Daily Living in Adults with Alzheimer’s Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Int J Environ Res Public Health. 2022; 19(3):1216. doi: https://dx.doi.org/10.3390/ijerph19031216<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph19031216</pub-id><pub-id pub-id-type="pmcid">PMC8834999</pub-id><pub-id pub-id-type="pmid">35162238</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation22"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhou</surname><given-names>S</given-names></name><name name-style="western"><surname>Chen</surname><given-names>S</given-names></name><name name-style="western"><surname>Liu</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>M</given-names></name><name name-style="western"><surname>Li</surname><given-names>W</given-names></name>
+</person-group><article-title>Physical Activity Improves Cognition and Activities of Daily Living in Adults with Alzheimer’s Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.</article-title><source>Int J Environ Res Public Health</source><year>2022</year><volume>19</volume><issue>3</issue><fpage>1216</fpage><lpage>1216</lpage><pub-id pub-id-type="doi">10.3390/ijerph19031216</pub-id><pub-id pub-id-type="pmid">35162238</pub-id><pub-id pub-id-type="pmcid">PMC8834999</pub-id></element-citation></ref><ref id="B23"><label>23</label><mixed-citation publication-type="other" id="mixed-citation23">Liang JH, Xu Y, Lin L, Jia RX, Zhang HB, Hang L. Comparison of multiple interventions for older adults with Alzheimer disease or mild cognitive impairment. A PRISMA-compliant network meta-analysis. Medicine. 2018; 97(20):e10744. doi: https://dx.doi.org/10.1097/MD.0000000000010744<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MD.0000000000010744</pub-id><pub-id pub-id-type="pmcid">PMC5976284</pub-id><pub-id pub-id-type="pmid">29768349</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation23"><person-group person-group-type="author">
+<name name-style="western"><surname>Liang</surname><given-names>JH</given-names></name><name name-style="western"><surname>Xu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Lin</surname><given-names>L</given-names></name><name name-style="western"><surname>Jia</surname><given-names>RX</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>HB</given-names></name><name name-style="western"><surname>Hang</surname><given-names>L</given-names></name>
+</person-group><article-title>Comparison of multiple interventions for older adults with Alzheimer disease or mild cognitive impairment. A PRISMA-compliant network meta-analysis.</article-title><source>Medicine</source><year>2018</year><volume>97</volume><issue>20</issue><fpage>e10744</fpage><lpage>e10744</lpage><pub-id pub-id-type="doi">10.1097/MD.0000000000010744</pub-id><pub-id pub-id-type="pmid">29768349</pub-id><pub-id pub-id-type="pmcid">PMC5976284</pub-id></element-citation></ref><ref id="B24"><label>24</label><mixed-citation publication-type="other" id="mixed-citation24">García-Moreno J, Calvo-Muñoz I, Gómez-Conesa A. Efectos del ejercicio físico en la prevención de caídas en pacientes con enfermedad de Alzheimer: revisión sistemática. Fisioterapia. 2021; 43(1):38-47. doi: https://dx.doi.org/10.1016/j.ft.2020.06.002</mixed-citation><element-citation publication-type="journal" id="element-citation24"><person-group person-group-type="author">
+<name name-style="western"><surname>García-Moreno</surname><given-names>J</given-names></name><name name-style="western"><surname>Calvo-Muñoz</surname><given-names>I</given-names></name><name name-style="western"><surname>Gómez-Conesa</surname><given-names>A</given-names></name>
+</person-group><article-title>Efectos del ejercicio físico en la prevención de caídas en pacientes con enfermedad de Alzheimer: revisión sistemática.</article-title><source>Fisioterapia</source><year>2021</year><volume>43</volume><issue>1</issue><fpage>38</fpage><lpage>47</lpage><pub-id pub-id-type="doi">10.1016/j.ft.2020.06.002</pub-id></element-citation></ref><ref id="B25"><label>25</label><mixed-citation publication-type="other" id="mixed-citation25">Klimova B, Toman J, Kuca K. Effectiveness of the dog therapy for patients with dementia-a systematic review. BMC Psychiatry. 2019; 19:276. doi: https://dx.doi.org/10.1186/s12888-019-2245-x<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12888-019-2245-x</pub-id><pub-id pub-id-type="pmcid">PMC6731615</pub-id><pub-id pub-id-type="pmid">31492131</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation25"><person-group person-group-type="author">
+<name name-style="western"><surname>Klimova</surname><given-names>B</given-names></name><name name-style="western"><surname>Toman</surname><given-names>J</given-names></name><name name-style="western"><surname>Kuca</surname><given-names>K</given-names></name>
+</person-group><article-title>Effectiveness of the dog therapy for patients with dementia-a systematic review.</article-title><source>BMC Psychiatry</source><year>2019</year><volume>19</volume><fpage>276</fpage><lpage>276</lpage><pub-id pub-id-type="doi">10.1186/s12888-019-2245-x</pub-id><pub-id pub-id-type="pmid">31492131</pub-id><pub-id pub-id-type="pmcid">PMC6731615</pub-id></element-citation></ref><ref id="B26"><label>26</label><mixed-citation publication-type="other" id="mixed-citation26">Ruiz-Muelle A, López-Rodríguez MM. Dance for People with Alzheimer’s Disease: En Systematic Review. Curr Alzheimer Res. 2019; 16(10):919-933. doi: https://dx.doi.org/10.2174/1567205016666190725151614<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1567205016666190725151614</pub-id><pub-id pub-id-type="pmid">31345149</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation26"><person-group person-group-type="author">
+<name name-style="western"><surname>Ruiz-Muelle</surname><given-names>A</given-names></name><name name-style="western"><surname>López-Rodríguez</surname><given-names>MM</given-names></name>
+</person-group><article-title>Dance for People with Alzheimer’s Disease.</article-title><source>Curr Alzheimer Res</source><year>2019</year><volume>16</volume><issue>10</issue><fpage>919</fpage><lpage>933</lpage><pub-id pub-id-type="doi">10.2174/1567205016666190725151614</pub-id><pub-id pub-id-type="pmid">31345149</pub-id></element-citation></ref><ref id="B27"><label>27</label><mixed-citation publication-type="other" id="mixed-citation27">Quintavalla F, Cao S, Spinelli D, Caffarra P, Rossi FM, Basini G et al. Effects of Dog-Assisted Therapies on Cognitive Mnemonic Capabilities in People Affected by Alzheimer’s Disease. Animals. 2021; 11(5):1366. doi: https://dx.doi.org/10.3390/ani11051366<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ani11051366</pub-id><pub-id pub-id-type="pmcid">PMC8151255</pub-id><pub-id pub-id-type="pmid">34064930</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation27"><person-group person-group-type="author">
+<name name-style="western"><surname>Quintavalla</surname><given-names>F</given-names></name><name name-style="western"><surname>Cao</surname><given-names>S</given-names></name><name name-style="western"><surname>Spinelli</surname><given-names>D</given-names></name><name name-style="western"><surname>Caffarra</surname><given-names>P</given-names></name><name name-style="western"><surname>Rossi</surname><given-names>FM</given-names></name><name name-style="western"><surname>Basini</surname><given-names>G</given-names></name>
+</person-group><article-title>Effects of Dog-Assisted Therapies on Cognitive Mnemonic Capabilities in People Affected by Alzheimer’s Disease.</article-title><source>Animals</source><year>2021</year><volume>11</volume><issue>5</issue><fpage>1366</fpage><lpage>1366</lpage><pub-id pub-id-type="doi">10.3390/ani11051366</pub-id><pub-id pub-id-type="pmid">34064930</pub-id><pub-id pub-id-type="pmcid">PMC8151255</pub-id></element-citation></ref><ref id="B28"><label>28</label><mixed-citation publication-type="other" id="mixed-citation28">Ávila A, De-Rosende-Celeiro I, Torres GG, Vizcaíno M, Peralbo MM, Durán MM. Promoting functional independence in people with Alzheimer’s disease: Outcomes of a home-based occupational therapy intervention in Spain. Health Soc Care Community. 2018; 26(5):734. doi: https://dx.doi.org/10.1111/hsc.12594<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hsc.12594</pub-id><pub-id pub-id-type="pmid">29998539</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation28"><person-group person-group-type="author">
+<name name-style="western"><surname>Ávila</surname><given-names>A</given-names></name><name name-style="western"><surname>De-Rosende-Celeiro</surname><given-names>I</given-names></name><name name-style="western"><surname>Torres</surname><given-names>GG</given-names></name><name name-style="western"><surname>Vizcaíno</surname><given-names>M</given-names></name><name name-style="western"><surname>Peralbo</surname><given-names>MM</given-names></name><name name-style="western"><surname>Durán</surname><given-names>MM</given-names></name>
+</person-group><article-title>Promoting functional independence in people with Alzheimer’s disease: Outcomes of a home-based occupational therapy intervention in Spain.</article-title><source>Health Soc Care Community</source><year>2018</year><volume>26</volume><issue>5</issue><fpage>734</fpage><lpage>734</lpage><pub-id pub-id-type="doi">10.1111/hsc.12594</pub-id><pub-id pub-id-type="pmid">29998539</pub-id></element-citation></ref><ref id="B29"><label>29</label><mixed-citation publication-type="other" id="mixed-citation29">De la Rubia Ortí JE, García-Pardo MP, Iranzo CC, Madrigal JJC, Castillo SS, Rochina MJ et al. Does Music Therapy Improve Anxiety and Depression in Alzheimer’s Patients? J Altern Complement Med. 2018 Jan; 24(1):33-36. doi: https://dx.doi.org/10.1089/acm.2016.0346<pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/acm.2016.0346</pub-id><pub-id pub-id-type="pmid">28714736</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation29"><person-group person-group-type="author">
+<name name-style="western"><surname>De la Rubia Ortí</surname><given-names>JE</given-names></name><name name-style="western"><surname>García-Pardo</surname><given-names>MP</given-names></name><name name-style="western"><surname>Iranzo</surname><given-names>CC</given-names></name><name name-style="western"><surname>Madrigal</surname><given-names>JJC</given-names></name><name name-style="western"><surname>Castillo</surname><given-names>SS</given-names></name><name name-style="western"><surname>Rochina</surname><given-names>MJ</given-names></name>
+</person-group><article-title>Does Music Therapy Improve Anxiety and Depression in Alzheimer’s Patients?</article-title><source>J Altern Complement Med</source><month>Jan</month><year>2018</year><volume>24</volume><issue>1</issue><fpage>33</fpage><lpage>36</lpage><pub-id pub-id-type="doi">10.1089/acm.2016.0346</pub-id><pub-id pub-id-type="pmid">28714736</pub-id></element-citation></ref><ref id="B30"><label>30</label><mixed-citation publication-type="other" id="mixed-citation30">Domínguez Toscano PM, Román Benticuaga JR, Montero Domínguez A. Arteterapia para enfermos con Alzhéimer. 2018. Universidad de Huelva. UHU.es publicaciones. Disponible en: http://www.uhu.es/publicaciones/?q=libros&amp;code=1164. [Consultado el 12 de marzo de 2022].</mixed-citation><element-citation publication-type="book" id="element-citation30"><person-group person-group-type="author">
+<name name-style="western"><surname>Domínguez Toscano</surname><given-names>PM</given-names></name><name name-style="western"><surname>Román Benticuaga</surname><given-names>JR</given-names></name><name name-style="western"><surname>Montero Domínguez</surname><given-names>A</given-names></name>
+</person-group><year>2018</year><publisher-name>Universidad de Huelva</publisher-name><comment>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.uhu.es/publicaciones/?q=libros&amp;code=1164" ext-link-type="uri">http://www.uhu.es/publicaciones/?q=libros&amp;code=1164</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2022-03-12">12-03-2022</date-in-citation></element-citation></ref><ref id="B31"><label>31</label><mixed-citation publication-type="other" id="mixed-citation31">García-Casal JA, Goñi Imízcoz M, Pedro Bartolomé MV, García Moja C, Calvo Simal S, Cardelle García F et al. Rehabilitación del reconocimiento de emociones combinada con estimulación cognitiva para personas con enfermedad de Alzheimer. Eficacia sobre aspectos cognitivos y funcionales. Rev. neurol. 2017; 65(3):97-104. doi: https://dx.doi.org/10.33588/rn.6503.2017031<pub-id pub-id-type="pmid">28699151</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation31"><person-group person-group-type="author">
+<name name-style="western"><surname>García-Casal</surname><given-names>JA</given-names></name><name name-style="western"><surname>Goñi Imízcoz</surname><given-names>M</given-names></name><name name-style="western"><surname>Pedro Bartolomé</surname><given-names>MV</given-names></name><name name-style="western"><surname>García Moja</surname><given-names>C</given-names></name><name name-style="western"><surname>Calvo Simal</surname><given-names>S</given-names></name><name name-style="western"><surname>Cardelle García</surname><given-names>F</given-names></name>
+</person-group><article-title>Rehabilitación del reconocimiento de emociones combinada con estimulación cognitiva para personas con enfermedad de Alzheimer. Eficacia sobre aspectos cognitivos y funcionales.</article-title><source>Rev. neurol</source><year>2017</year><volume>65</volume><issue>3</issue><fpage>97</fpage><lpage>104</lpage><pub-id pub-id-type="doi">10.33588/rn.6503.2017031</pub-id><pub-id pub-id-type="pmid">28699151</pub-id></element-citation></ref><ref id="B32"><label>32</label><mixed-citation publication-type="other" id="mixed-citation32">Todri J, Todri A, Lena O. Why Not a Global Postural Reeducation as an Alternative Therapy Applied to Alzheimer’s Patients in Nursing Homes? A Pioneer Randomized Controlled Trial. Dementia and geriatric cognitive disorders. Dement Geriatr Cogn Disord. 2019; 48:172-179. doi: https://dx.doi.org/10.1159/000505397<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000505397</pub-id><pub-id pub-id-type="pmid">32007991</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation32"><person-group person-group-type="author">
+<name name-style="western"><surname>Todri</surname><given-names>J</given-names></name><name name-style="western"><surname>Todri</surname><given-names>A</given-names></name><name name-style="western"><surname>Lena</surname><given-names>O</given-names></name>
+</person-group><article-title>Why Not a Global Postural Reeducation as an Alternative Therapy Applied to Alzheimer’s Patients in Nursing Homes? A Pioneer Randomized Controlled Trial.Dementia and geriatric cognitive disorders.</article-title><source>Dement Geriatr Cogn Disord</source><year>2019</year><volume>48</volume><fpage>172</fpage><lpage>179</lpage><pub-id pub-id-type="doi">10.1159/000505397</pub-id><pub-id pub-id-type="pmid">32007991</pub-id></element-citation></ref><ref id="B33"><label>33</label><mixed-citation publication-type="other" id="mixed-citation33">Kim D. The Effects of a Recollection-Based Occupational Therapy Program of Alzheimer’s Disease: A Randomized Controlled Trial. Occup Ther Int. 2020; (8):1-8. doi: https://dx.doi.org/10.1155/2020/6305727<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2020/6305727</pub-id><pub-id pub-id-type="pmcid">PMC7416254</pub-id><pub-id pub-id-type="pmid">32821251</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation33"><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>D</given-names></name>
+</person-group><article-title>The Effects of a Recollection-Based Occupational Therapy Program of Alzheimer’s Disease: A Randomized Controlled Trial.</article-title><source>Occup Ther Int</source><year>2020</year><volume>8</volume><fpage>1</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1155/2020/6305727</pub-id><pub-id pub-id-type="pmcid">PMC7416254</pub-id><pub-id pub-id-type="pmid">32821251</pub-id></element-citation></ref><ref id="B34"><label>34</label><mixed-citation publication-type="other" id="mixed-citation34">Todri J, Lena O, Martínez Gil JL. A single blind randomized controlled trial of global postural re-education: Cognitive effects on Alzheimer disease patients. Eur J Psychiatry. 2019 Apr; 33(2):83-90. doi: 10.1016/j.ejpsy.2019.01.001</mixed-citation><element-citation publication-type="journal" id="element-citation34"><person-group person-group-type="author">
+<name name-style="western"><surname>Todri</surname><given-names>J</given-names></name><name name-style="western"><surname>Lena</surname><given-names>O</given-names></name><name name-style="western"><surname>Martínez Gil</surname><given-names>JL</given-names></name>
+</person-group><article-title>A single blind randomized controlled trial of global postural re-education: Cognitive effects on Alzheimer disease patients.</article-title><source>Eur J Psychiatry</source><month>Apr</month><year>2019</year><volume>33</volume><issue>2</issue><fpage>83</fpage><lpage>90</lpage><pub-id pub-id-type="doi">10.1016/j.ejpsy.2019.01.001</pub-id></element-citation></ref><ref id="B35"><label>35</label><mixed-citation publication-type="other" id="mixed-citation35">Lyu J, Zhang J, Mu H, Li W, Champ M, Xiong Q et al. The Effects of Music Therapy on Cognition, Psychiatric Symptoms, and Activities of Daily Living in Patients with Alzheimer’s Disease. J Alzheimers Dis. 2018; 64(4):1347-1358. doi: https://dx.doi.org/10.3233/JAD-180183<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-180183</pub-id><pub-id pub-id-type="pmid">29991131</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation35"><person-group person-group-type="author">
+<name name-style="western"><surname>Lyu</surname><given-names>J</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>J</given-names></name><name name-style="western"><surname>Mu</surname><given-names>H</given-names></name><name name-style="western"><surname>Li</surname><given-names>W</given-names></name><name name-style="western"><surname>Champ</surname><given-names>M</given-names></name><name name-style="western"><surname>Xiong</surname><given-names>Q</given-names></name>
+</person-group><article-title>The Effects of Music Therapy on Cognition, Psychiatric Symptoms, and Activities of Daily Living in Patients with Alzheimer’s Disease.</article-title><source>J Alzheimers Dis</source><year>2018</year><volume>64</volume><issue>4</issue><fpage>1347</fpage><lpage>1358</lpage><pub-id pub-id-type="doi">10.3233/JAD-180183</pub-id><pub-id pub-id-type="pmid">29991131</pub-id></element-citation></ref><ref id="B36"><label>36</label><mixed-citation publication-type="other" id="mixed-citation36">Lanza G, Centonce SS, Destro G, Vieja V, Bellomo M, Penisio M et al. Shiatsu as an adjuvant therapy for depression in patients with Alzheimer’s disease: A pilot study. Complement Ther Med. 2018; 38:74-78. doi: https://dx.doi.org/10.1016/j.ctim.2018.04.013<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ctim.2018.04.013</pub-id><pub-id pub-id-type="pmid">29857884</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation36"><person-group person-group-type="author">
+<name name-style="western"><surname>Lanza</surname><given-names>G</given-names></name><name name-style="western"><surname>Centonce</surname><given-names>SS</given-names></name><name name-style="western"><surname>Destro</surname><given-names>G</given-names></name><name name-style="western"><surname>Vieja</surname><given-names>V</given-names></name><name name-style="western"><surname>Bellomo</surname><given-names>M</given-names></name><name name-style="western"><surname>XionPenisiog</surname><given-names>M</given-names></name>
+</person-group><article-title>Shiatsu as an adjuvant therapy for depression in patients with Alzheimer’s disease: A pilot study.</article-title><source>Complement Ther Med</source><year>2018</year><volume>38</volume><fpage>74</fpage><lpage>78</lpage><pub-id pub-id-type="doi">10.1016/j.ctim.2018.04.013</pub-id><pub-id pub-id-type="pmid">29857884</pub-id></element-citation></ref><ref id="B37"><label>37</label><mixed-citation publication-type="other" id="mixed-citation37">López de Luis C. Influencia de la reserva cognitiva en un modelo de estimulación cognitiva en sujetos con enfermedad de Alzheimer esporádica de inicio tardío [Tesis Doctoral]. 2018. Universidad de Salamanca: Instituto de Neurociencias de Castilla y León. Disponible en: https://gredos.usal.es/handle/10366/139597. [Consultado el 8 de marzo de 2022].</mixed-citation><element-citation publication-type="book" id="element-citation37"><person-group person-group-type="author">
+<name name-style="western"><surname>López de Luis</surname><given-names>C</given-names></name>
+</person-group><year>2018</year><publisher-name>Universidad de Salamanca: Instituto de Neurociencias de Castilla y León</publisher-name><comment>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://gredos.usal.es/handle/10366/139597" ext-link-type="uri">https://gredos.usal.es/handle/10366/139597</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2022-03-08">08-03-2022</date-in-citation></element-citation></ref><ref id="B38"><label>38</label><mixed-citation publication-type="other" id="mixed-citation38">Morris JK, Vidoni ED, Johnson DK, A, Mahnken JD, Honea RA et al. Aerobic exercise for Alzheimer’s disease: A randomized controlled pilot trial. Plos One. 2017; 12 (2): e0170547. doi: https://dx.doi.org/10.1371/journal.pone.0170547<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0170547</pub-id><pub-id pub-id-type="pmcid">PMC5302785</pub-id><pub-id pub-id-type="pmid">28187125</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation38"><person-group person-group-type="author">
+<name name-style="western"><surname>Morris</surname><given-names>JK</given-names></name><name name-style="western"><surname>Vidoni</surname><given-names>ED</given-names></name><name name-style="western"><surname>Johnson</surname><given-names>DK</given-names></name><name name-style="western"><surname>Van</surname><given-names>A</given-names></name><name name-style="western"><surname>Mahnken</surname><given-names>JD</given-names></name><name name-style="western"><surname>Honea</surname><given-names>RA</given-names></name>
+</person-group><article-title>Aerobic exercise for Alzheimer’s disease: A randomized controlled pilot trial.</article-title><source>Plos One</source><year>2017</year><volume>12</volume><issue>2</issue><fpage>e0170547</fpage><lpage>e0170547</lpage><pub-id pub-id-type="doi">10.1371/journal.pone.0170547</pub-id><pub-id pub-id-type="pmid">28187125</pub-id><pub-id pub-id-type="pmcid">PMC5302785</pub-id></element-citation></ref><ref id="B39"><label>39</label><mixed-citation publication-type="other" id="mixed-citation39">Pongan E, Tillmann B, Leveque Y, Trombert B, Getenet JC, Auguste N et al. Can Musical or Painting Interventions Improve Chronic Pain, Mood, Quality of Life, and Cognition in Patients with Mild Alzheimer’s Disease? Evidence from a Randomized Controlled Trial. J Alzheimers Dis. 2017; 60(2): 663-677. doi: https://dx.doi.org/10.3233/JAD-170410<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-170410</pub-id><pub-id pub-id-type="pmid">28922159</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation39"><person-group person-group-type="author">
+<name name-style="western"><surname>Pongan</surname><given-names>E</given-names></name><name name-style="western"><surname>Tillmann</surname><given-names>B</given-names></name><name name-style="western"><surname>Leveque</surname><given-names>Y</given-names></name><name name-style="western"><surname>Trombert</surname><given-names>B</given-names></name><name name-style="western"><surname>Getenet</surname><given-names>JC</given-names></name><name name-style="western"><surname>Auguste</surname><given-names>N</given-names></name>
+</person-group><article-title>Can Musical or Painting Interventions Improve Chronic Pain, Mood, Quality of Life, and Cognition in Patients with Mild Alzheimer’s Disease? Evidence from a Randomized Controlled Trial.</article-title><source>J Alzheimers Dis</source><year>2017</year><volume>60</volume><issue>2</issue><fpage>663</fpage><lpage>677</lpage><pub-id pub-id-type="doi">10.3233/JAD-170410</pub-id><pub-id pub-id-type="pmid">28922159</pub-id></element-citation></ref><ref id="B40"><label>40</label><mixed-citation publication-type="other" id="mixed-citation40">De Souto Barreto P, Cesari M, Denormandie P, Armaingaud D, Vellas B, Rolland Y. Exercise or Social Intervention for Nursing Home Residents with Dementia: A Pilot Randomized, Controlled Trial. J Am Geriatr Soc. 2017; 65(9):E123-E129. doi: https://dx.doi.org/10.1111/jgs.14947<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jgs.14947</pub-id><pub-id pub-id-type="pmid">28542742</pub-id></mixed-citation><element-citation publication-type="journal" id="element-citation40"><person-group person-group-type="author">
+<name name-style="western"><surname>De Souto Barreto</surname><given-names>P</given-names></name><name name-style="western"><surname>Cesari</surname><given-names>M</given-names></name><name name-style="western"><surname>Denormandie</surname><given-names>P</given-names></name><name name-style="western"><surname>Armaingaud</surname><given-names>D</given-names></name><name name-style="western"><surname>Vellas</surname><given-names>B</given-names></name><name name-style="western"><surname>Rolland</surname><given-names>Y</given-names></name>
+</person-group><article-title>Exercise or Social Intervention for Nursing Home Residents with Dementia: A Pilot Randomized, Controlled Trial.</article-title><source>J Alzheimers Dis</source><year>2017</year><volume>65</volume><issue>9</issue><fpage>E123</fpage><lpage>E129</lpage><pub-id pub-id-type="doi">10.1111/jgs.14947</pub-id><pub-id pub-id-type="pmid">28542742</pub-id></element-citation></ref></ref-list></back></article></pmc-articleset>

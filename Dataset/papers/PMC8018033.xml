@@ -1,0 +1,1219 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Brain Pathol</journal-id><journal-id journal-id-type="iso-abbrev">Brain Pathol</journal-id><journal-id journal-id-type="pmc-domain-id">4024</journal-id><journal-id journal-id-type="pmc-domain">brainpath</journal-id><journal-id journal-id-type="publisher-id">BPA</journal-id><journal-title-group><journal-title>Brain Pathology</journal-title></journal-title-group><issn pub-type="ppub">1015-6305</issn><issn pub-type="epub">1750-3639</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC8018033</article-id><article-id pub-id-type="pmcid-ver">PMC8018033.1</article-id><article-id pub-id-type="pmcaid">8018033</article-id><article-id pub-id-type="pmcaiid">8018033</article-id><article-id pub-id-type="pmid">32876357</article-id><article-id pub-id-type="doi">10.1111/bpa.12897</article-id><article-id pub-id-type="publisher-id">BPA12897</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Denser brain capillary network with preserved pericytes in Alzheimer's disease</article-title></title-group><contrib-group><contrib id="bpa12897-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Fernandez‐Klett</surname><given-names initials="F">Francisco</given-names></name><xref ref-type="aff" rid="bpa12897-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bpa12897-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="bpa12897-note-0001">
+<sup>#</sup>
+</xref><address><email>francisco.fernandez@uk-halle.de</email></address></contrib><contrib id="bpa12897-cr-0002" contrib-type="author"><name name-style="western"><surname>Brandt</surname><given-names initials="L">Lasse</given-names></name><xref ref-type="aff" rid="bpa12897-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bpa12897-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="author-notes" rid="bpa12897-note-0001">
+<sup>#</sup>
+</xref></contrib><contrib id="bpa12897-cr-0003" contrib-type="author"><name name-style="western"><surname>Fernández‐Zapata</surname><given-names initials="C">Camila</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4795-6053</contrib-id><xref ref-type="aff" rid="bpa12897-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bpa12897-cr-0004" contrib-type="author"><name name-style="western"><surname>Abuelnor</surname><given-names initials="B">Basim</given-names></name><xref ref-type="aff" rid="bpa12897-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bpa12897-cr-0005" contrib-type="author"><name name-style="western"><surname>Middeldorp</surname><given-names initials="J">Jinte</given-names></name><xref ref-type="aff" rid="bpa12897-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bpa12897-cr-0006" contrib-type="author"><name name-style="western"><surname>Sluijs</surname><given-names initials="JA">Jacqueline A.</given-names></name><xref ref-type="aff" rid="bpa12897-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bpa12897-cr-0007" contrib-type="author"><name name-style="western"><surname>Curtis</surname><given-names initials="M">Maurice</given-names></name><xref ref-type="aff" rid="bpa12897-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="bpa12897-cr-0008" contrib-type="author"><name name-style="western"><surname>Faull</surname><given-names initials="R">Richard</given-names></name><xref ref-type="aff" rid="bpa12897-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="bpa12897-cr-0009" contrib-type="author"><name name-style="western"><surname>Harris</surname><given-names initials="LW">Laura W.</given-names></name><xref ref-type="aff" rid="bpa12897-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="bpa12897-cr-0010" contrib-type="author"><name name-style="western"><surname>Bahn</surname><given-names initials="S">Sabine</given-names></name><xref ref-type="aff" rid="bpa12897-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="bpa12897-cr-0011" contrib-type="author"><name name-style="western"><surname>Hol</surname><given-names initials="EM">Elly M.</given-names></name><xref ref-type="aff" rid="bpa12897-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="bpa12897-cr-0012" contrib-type="author" corresp="yes"><name name-style="western"><surname>Priller</surname><given-names initials="J">Josef</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7596-0979</contrib-id><xref ref-type="aff" rid="bpa12897-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bpa12897-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="bpa12897-aff-0007">
+<sup>7</sup>
+</xref><xref ref-type="aff" rid="bpa12897-aff-0008">
+<sup>8</sup>
+</xref><address><email>josef.priller@charite.de</email></address></contrib></contrib-group><aff id="bpa12897-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Laboratory of Molecular Psychiatry</named-content>
+<named-content content-type="organisation-division">Department of Neuropsychiatry</named-content>
+<institution>Charité − Universitätsmedizin Berlin</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="bpa12897-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Institute for Pathology</named-content>
+<institution>Universitätsklinik Halle</institution>
+<city>Halle</city>
+<country country="DE">Germany</country>
+</aff><aff id="bpa12897-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Psychiatry and Psychotherapy</named-content>
+<institution>Charité − Universitätsmedizin Berlin</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="bpa12897-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Translational Neuroscience</named-content>
+<institution>University Medical Center Utrecht Brain Center</institution>
+<institution>Utrecht University</institution>
+<city>Utrecht</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="bpa12897-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">The New Zealand Neurological Foundation Human Brain Bank</named-content>
+<named-content content-type="organisation-division">Centre for Brain Research</named-content>
+<institution>University of Auckland</institution>
+<city>Auckland</city>
+<country country="NZ">New Zealand</country>
+</aff><aff id="bpa12897-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Chemical Engineering and Biotechnology</named-content>
+<institution>University of Cambridge</institution>
+<city>Cambridge</city>
+<country country="GB">UK</country>
+</aff><aff id="bpa12897-aff-0007">
+<label><sup>7</sup></label>
+<institution>DZNE and BIH</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="bpa12897-aff-0008">
+<label><sup>8</sup></label>
+<institution>University of Edinburgh and UK DRI</institution>
+<city>Edinburgh</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Corresponding author:</bold><break/>
+Francisco Fernández-Klett and Josef Priller, Laboratory of Molecular Psychiatry, Department of Neuropsychiatry, Charité − Universitätsmedizin Berlin, Berlin, Germany (Email: <email>francisco.fernandez@uk-halle.de</email> and <email>josef.priller@charite.de</email> )<break/></corresp><fn id="bpa12897-note-0001"><label>#</label><p>These authors contributed equally to this work</p></fn></author-notes><pub-date pub-type="epub"><day>29</day><month>9</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2020</year></pub-date><volume>30</volume><issue>6</issue><issue-id pub-id-type="pmc-issue-id">378820</issue-id><issue-id pub-id-type="doi">10.1111/bpa.v30.6</issue-id><fpage>1071</fpage><lpage>1086</lpage><pub-history><event event-type="pmc-release"><date><day>29</day><month>09</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>03</day><month>09</month><year>2021</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-02-09 18:25:22.113"><day>09</day><month>02</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. Brain Pathology published by John Wiley &amp; Sons Ltd on behalf of International Society of Neuropathology</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="BPA-30-1071.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:BPA-30-1071.pdf"/><abstract id="bpa12897-abs-0001"><title>Abstract</title><p>Pericytes are vascular mural cells that surround capillaries of the central nervous system (CNS). They are crucial for brain development and contribute to CNS homeostasis by regulating blood–brain barrier function and cerebral blood flow. It has been suggested that pericytes are lost in Alzheimer's disease (AD), implicating this cell type in disease pathology. Here, we have employed state‐of‐the‐art stereological morphometry techniques as well as tissue clearing and two‐photon imaging to assess the distribution of pericytes in two independent cohorts of AD (n = 16 and 13) and non‐demented controls (n = 16 and 4). Stereological quantification revealed increased capillary density with a normal pericyte population in the frontal cortex of AD brains, a region with early amyloid β deposition. Two‐photon analysis of cleared frontal cortex tissue confirmed the preservation of pericytes in AD cases. These results suggest that pericyte demise is not a general hallmark of AD pathology.</p></abstract><kwd-group><kwd id="bpa12897-kwd-0001">Alzheimer's disease (AD)</kwd><kwd id="bpa12897-kwd-0002">angiogenesis</kwd><kwd id="bpa12897-kwd-0003">blood–brain barrier (BBB)</kwd><kwd id="bpa12897-kwd-0004">capillaries</kwd><kwd id="bpa12897-kwd-0005">clarity</kwd><kwd id="bpa12897-kwd-0006">pericytes</kwd><kwd id="bpa12897-kwd-0007">stereology</kwd><kwd id="bpa12897-kwd-0008">two‐photon microscopy</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Deutsche Forschungsgemeinschaft </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001659</institution-id></institution-wrap></funding-source><award-id>SFB/TRR167</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="2"/><page-count count="15"/><word-count count="21223"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.0.1 mode:remove_FC converted:31.03.2021</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="bpa12897-body-0001"><sec id="bpa12897-sec-0001"><title>Introduction</title><p>Pericytes are paramount for the development and function of the capillary network (<xref rid="bpa12897-bib-0001" ref-type="ref">1</xref>). Pericytes are contractile under certain conditions, although it is still debated if this is a ubiquitous ability, and to which extent it contributes to the brain's functional blood flow regulation (<xref rid="bpa12897-bib-0016" ref-type="ref">16</xref>, <xref rid="bpa12897-bib-0020" ref-type="ref">20</xref>, <xref rid="bpa12897-bib-0024" ref-type="ref">24</xref>). In the CNS, vessels establish a tight barrier to blood constituents that might interfere with proper functioning of neural tissue—the blood–brain barrier (BBB). Pericyte coverage correlates with the tightness of the endothelial cell lining in different organs of the body, and is <bold>exceptionally</bold> high in the CNS (<xref rid="bpa12897-bib-0051" ref-type="ref">51</xref>). The investment of endothelium by pericytes is dependent upon platelet‐derived growth factor (PDGFR)β signaling, and experimental models that exploit this dependence collectively revealed the importance of pericytes in the development and regulation of the BBB. Mice lacking PDGFRβ show diminished coverage of endothelial cells by pericytes as well as structurally aberrant vessels and increased BBB permeability during early development, resulting in neonatal lethality (<xref rid="bpa12897-bib-0031" ref-type="ref">31</xref>). Genetically engineered mice with incomplete deficiency of PDGFRβ signaling exhibit reduced pericyte coverage in adults as well as increased BBB permeability (<xref rid="bpa12897-bib-0002" ref-type="ref">2</xref>, <xref rid="bpa12897-bib-0005" ref-type="ref">5</xref>, <xref rid="bpa12897-bib-0014" ref-type="ref">14</xref>, <xref rid="bpa12897-bib-0038" ref-type="ref">38</xref>). Recently, targeted diphtheria‐toxin (DT)‐mediated depletion of pericytes was shown to result in the rapid collapse of brain perfusion, and BBB disruption (<xref rid="bpa12897-bib-0040" ref-type="ref">40</xref>). Some murine models of impaired PDGFRβ‐signaling, as well as mice heterozygous for the <italic toggle="yes">PDGFRB</italic> gene or with two hypomorphous <italic toggle="yes">PDGFRB</italic> alleles show a progressive reduction of cortical pericyte coverage accompanied by increased BBB permeability, preceding neurodegeneration and behavioral alterations (<xref rid="bpa12897-bib-0005" ref-type="ref">5</xref>, <xref rid="bpa12897-bib-0038" ref-type="ref">38</xref>). However, other mouse models of PDGFRβ signaling deficiency do not present with an age‐dependent loss of pericyte coverage in the brain (<xref rid="bpa12897-bib-0061" ref-type="ref">61</xref>), suggesting that the observed functional differences may not necessarily be linked to pericyte demise.</p><p>Alzheimer's disease (AD) is a neurodegenerative disorder, whose hallmarks are the deposition of amyloid β (Aβ) in the brain parenchyma, the presence of hyperphosphorylated tau filaments in neurons, and reactive gliosis (<xref rid="bpa12897-bib-0043" ref-type="ref">43</xref>). In a large fraction of subjects with AD pathology, Aβ is deposited in the vascular walls of leptomeningeal and parenchymal arteries and arterioles (cerebral amyloid angiopathy, CAA), and these neuropathological changes are associated with accelerated cognitive decline (<xref rid="bpa12897-bib-0054" ref-type="ref">54</xref>). Ultrastructurally, Aβ is deposited around the basement membrane, thus, in direct, intimate contact to smooth muscle cells and pericytes of small arterioles and capillaries (<xref rid="bpa12897-bib-0063" ref-type="ref">63</xref>). In culture, Aβ is toxic to pericytes; this effect is partly dependent of apolipoprotein E (APOE) 4 genotype, the strongest genetic risk factor for the development of late‐onset AD (<xref rid="bpa12897-bib-0009" ref-type="ref">9</xref>, <xref rid="bpa12897-bib-0057" ref-type="ref">57</xref>, <xref rid="bpa12897-bib-0062" ref-type="ref">62</xref>, <xref rid="bpa12897-bib-0064" ref-type="ref">64</xref>). Pericytes may participate in Aβ clearance (<xref rid="bpa12897-bib-0032" ref-type="ref">32</xref>) and pericyte loss leads to increased deposition of Aβ in vessel walls and brain parenchyma in AD transgenic mice (<xref rid="bpa12897-bib-0047" ref-type="ref">47</xref>). Recent data show that soluble Aβ might lead to constriction of pericytes in microvessels (<xref rid="bpa12897-bib-0041" ref-type="ref">41</xref>). Altogether, the data suggest a complex interaction between the trafficking of Aβ and mural cell function in AD.</p><p>Post‐mortem studies of AD brain tissue have detected diminished absolute pericyte numbers and area coverage of capillaries in the frontal cortex and hippocampus, correlating with BBB leakage (<xref rid="bpa12897-bib-0050" ref-type="ref">50</xref>). This effect was increased in carriers of the APOE4 genotype (<xref rid="bpa12897-bib-0021" ref-type="ref">21</xref>). Others have shown decreased levels of PDGFRβ along with increased BBB permeability in post‐mortem tissue obtained from AD cases (<xref rid="bpa12897-bib-0035" ref-type="ref">35</xref>) and recently, another study correlated BBB disruption with increased levels of PDGFRβ in the cerebrospinal fluid (CSF), as well as neurocognitive decline independent of Aβ or tau pathology in APOE4 carriers (<xref rid="bpa12897-bib-0037" ref-type="ref">37</xref>). In these studies, the alterations of the levels of PDGFRβ in the brain tissue or in the CSF were considered a surrogate marker of pericyte damage. Due to the well documented impact of pericyte function on the BBB, these results collectively suggest that pericyte dysfunction or loss could represent a cause of BBB breakdown, leading ultimately to neurodegeneration in AD [as well as in amyotrophic lateral sclerosis, Ref. (<xref rid="bpa12897-bib-0065" ref-type="ref">65</xref>)]. However, earlier ultrastructural studies did not show increased pericyte degeneration in AD (<xref rid="bpa12897-bib-0015" ref-type="ref">15</xref>, <xref rid="bpa12897-bib-0052" ref-type="ref">52</xref>).</p><p>To reassess the impact of AD pathology on the pericyte population, we have used stereological techniques, which are considered the gold standard in morphometric studies, as well as clearing and two‐photon imaging of post‐mortem samples to measure capillary and pericyte density in two independent AD cohorts. We have focused on the frontal cortex, a region with early Aβ deposition (<xref rid="bpa12897-bib-0055" ref-type="ref">55</xref>). Our results indicate that pericyte loss is not a general feature of AD tissue. Instead, we find a denser capillary network with a normal pericyte population in the frontal cortex of AD subjects.</p></sec><sec sec-type="materials-and-methods" id="bpa12897-sec-0002"><title>Materials and Methods</title><sec id="bpa12897-sec-0003"><title>Samples</title><p>For the stereological study, we obtained a total of 16 frozen samples from patients with a clinical and neuropathologically confirmed diagnosis of AD as well as 16 age‐ and sex‐matched control cases without history of dementia, from the Neurological Foundation Human Brain Bank in New Zealand. In controls, the lack of history of dementia was confirmed by the general practitioner. For AD cases, neuropathological scores (four‐tier neurofibrillary tangle (NFT) score, CERAD score) were provided by the brain bank. For the analysis of cleared tissue, which precluded the use of archival frozen or formalin‐fixed materials, we obtained freshly fixed tissue from 14 cases with neuropathologically confirmed AD, as well as four control cases without history of dementia deceased during the same time period from the Netherlands Brain Bank. Neuropathological data (Thal, Braak, CERAD and CAA scores) were made available for both controls and AD cases by the brain bank. One case was excluded from the analysis due to incomplete tissue clearing. Human brain tissue was obtained in compliance with ethical and legal guidelines and the studies were approved by the institutional review boards. The available demographic and clinical data for all included cases are presented in Tables <xref rid="bpa12897-tbl-0001" ref-type="table">1</xref> and <xref rid="bpa12897-tbl-0002" ref-type="table">2</xref>.</p><table-wrap id="bpa12897-tbl-0001" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 1</label><caption><p>Clinical and neuropathological data of subjects in the stereological study.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Case</th><th align="center" valign="top" rowspan="1" colspan="1">Brain bank ID</th><th align="center" valign="top" rowspan="1" colspan="1">Group</th><th align="center" valign="top" rowspan="1" colspan="1">Age (y)</th><th align="center" valign="top" rowspan="1" colspan="1">Sex</th><th align="center" valign="top" rowspan="1" colspan="1">PMT (h)</th><th align="center" valign="top" rowspan="1" colspan="1">APOE genotype</th><th align="center" valign="top" rowspan="1" colspan="1">Atrophy</th><th align="center" valign="top" rowspan="1" colspan="1">Duration of dementia (y)</th><th align="center" valign="top" rowspan="1" colspan="1">NFT score</th><th align="center" valign="top" rowspan="1" colspan="1">Neuritic plaque score (CERAD) (<xref rid="bpa12897-bib-0036" ref-type="ref">36</xref>)</th><th align="center" valign="top" rowspan="1" colspan="1">Capillary CAA (<xref rid="bpa12897-bib-0054" ref-type="ref">54</xref>)</th><th align="center" valign="top" rowspan="1" colspan="1">Cause of death</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">H122</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">72</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Emphysema</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">H109</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">81</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Coronary atherosclerosis</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">H110</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">83</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">E2/E2</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Ruptured aortic aneurysm</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">H137</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">77</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">E3/E4</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Coronary atherosclerosis</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">H131</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">73</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Ischemic heart disease</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">H150</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">78</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Ruptured myocardial infarct</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">H123</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">78</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">7.5</td><td align="left" rowspan="1" colspan="1">E2/E3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Ruptured aortic aneurysm</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">H103</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">70</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Myocardial infarct</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">H79</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">75</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Myocardial infarct</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">H77</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">75</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">3.4</td><td align="left" rowspan="1" colspan="1">E3/E4</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Aortic aneurysm</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">H241</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">76</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">E3/E4</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Metastatic bowel cancer</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">H190</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">72</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Ruptured myocardial infarct</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">H181</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">78</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Aortic aneurysm</td></tr><tr><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">H238</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">63</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Dissecting aortic aneurysm</td></tr><tr><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">H164</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">73</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Ischemic heart disease</td></tr><tr><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">H152</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">79</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Congestive heart failure</td></tr><tr><td align="left" rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1">AZ46</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">82</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">E4/E4</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Coronary artery disease</td></tr><tr><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">AZ37</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">83</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">E3/E4</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Pos.</td><td align="left" rowspan="1" colspan="1">Bronchopneumonia</td></tr><tr><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">AZ33</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">65</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Hypostatic pneumonia</td></tr><tr><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">AZ22</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">81</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">E2/E3</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Pos.</td><td align="left" rowspan="1" colspan="1">Bronchopneumonia</td></tr><tr><td align="left" rowspan="1" colspan="1">21</td><td align="left" rowspan="1" colspan="1">AZ20</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">72</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Cachexia</td></tr><tr><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">AZ34</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">74</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Bronchopneumonia, breast carcinoma</td></tr><tr><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">AZ29</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">76</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Pos.</td><td align="left" rowspan="1" colspan="1">pneumonia</td></tr><tr><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">AZ32</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">75</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Bronchostatic pneumonia</td></tr><tr><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">AZ28</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">75</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Pneumonia</td></tr><tr><td align="left" rowspan="1" colspan="1">26</td><td align="left" rowspan="1" colspan="1">AZ23</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">71</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">E3/E4</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Bronchopneumonia</td></tr><tr><td align="left" rowspan="1" colspan="1">27</td><td align="left" rowspan="1" colspan="1">AZ38</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">5.5</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">17.5</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Respiratory arrest/ pulmonary edema</td></tr><tr><td align="left" rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">AZ39</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">74</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Sepsis</td></tr><tr><td align="left" rowspan="1" colspan="1">29</td><td align="left" rowspan="1" colspan="1">AZ80</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">77</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">4.5</td><td align="left" rowspan="1" colspan="1">E3/E4</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Myocardial infarct</td></tr><tr><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">AZ90</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">73</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Gastrointestinal hemorrhage</td></tr><tr><td align="left" rowspan="1" colspan="1">31</td><td align="left" rowspan="1" colspan="1">AZ43</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">21</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Bronchopneumonia</td></tr><tr><td align="left" rowspan="1" colspan="1">32</td><td align="left" rowspan="1" colspan="1">AZ88</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">83</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">21</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">Neg.</td><td align="left" rowspan="1" colspan="1">Pneumonia</td></tr></tbody></table><table-wrap-foot id="bpa12897-ntgp-0002"><fn id="bpa12897-note-0002"><p>PMT = post‐mortem time; NFT = neurofibrillary tangles; Atrophy and NFT stage = 1, mild; 2, moderate; 3, severe; Neuritic plaque score (CERAD) = 0, absent; 1, sparse; 2, moderate; 3, frequent; Capillary CAA was determined in one slide of the frontal cortex. n.d. = not determined due to technical reasons.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="bpa12897-tbl-0002" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 2</label><caption><p>Clinical and neuropathological data of subjects in the cleared tissue study.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Case</th><th align="center" rowspan="2" valign="top" colspan="1">Group</th><th align="center" rowspan="2" valign="top" colspan="1">Age (y)</th><th align="center" rowspan="2" valign="top" colspan="1">Sex</th><th align="center" rowspan="2" valign="top" colspan="1">PMT (h)</th><th align="center" rowspan="2" valign="top" colspan="1">Brain weight (g)</th><th align="center" rowspan="2" valign="top" colspan="1">APOE Genotype</th><th align="center" rowspan="2" valign="top" colspan="1">Aβ plaque score (<xref rid="bpa12897-bib-0055" ref-type="ref">55</xref>)</th><th align="center" rowspan="2" valign="top" colspan="1">NFT stage (<xref rid="bpa12897-bib-0007" ref-type="ref">7</xref>)</th><th align="center" rowspan="2" valign="top" colspan="1">Neuritic plaque score (CERAD (<xref rid="bpa12897-bib-0036" ref-type="ref">36</xref>)</th><th align="center" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">ABC score (<xref rid="bpa12897-bib-0026" ref-type="ref">26</xref>)</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">CAA (<xref rid="bpa12897-bib-0054" ref-type="ref">54</xref>)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="top" rowspan="1" colspan="1">A</th><th align="center" valign="top" rowspan="1" colspan="1">B</th><th align="center" valign="top" rowspan="1" colspan="1">C</th><th align="center" valign="top" rowspan="1" colspan="1">Type</th><th align="center" valign="top" rowspan="1" colspan="1">Stage</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">2016‐137</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">77</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">12.8</td><td align="char" char="." rowspan="1" colspan="1">1581</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">III</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td></tr><tr><td align="left" rowspan="1" colspan="1">2017‐003</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">96</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">6.25</td><td align="char" char="." rowspan="1" colspan="1">1135</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">III</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">2017‐005</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">60</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">5.5</td><td align="char" char="." rowspan="1" colspan="1">1215</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">2017‐043</td><td align="left" rowspan="1" colspan="1">CTRL</td><td align="char" char="." rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">9.5</td><td align="char" char="." rowspan="1" colspan="1">1460</td><td align="left" rowspan="1" colspan="1">E2/E3</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">II</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">n.d.</td><td align="left" rowspan="1" colspan="1">n.d.</td></tr><tr><td align="left" rowspan="1" colspan="1">2016‐120</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">88</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">6.67</td><td align="char" char="." rowspan="1" colspan="1">905</td><td align="left" rowspan="1" colspan="1">E2/E2</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">V</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">2</td></tr><tr><td align="left" rowspan="1" colspan="1">2016‐129</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">90</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">9</td><td align="char" char="." rowspan="1" colspan="1">1275</td><td align="left" rowspan="1" colspan="1">E3/E4</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">IV</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">2016‐130</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">73</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">5.83</td><td align="char" char="." rowspan="1" colspan="1">1300</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">VI</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">2016‐132</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">66</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">8</td><td align="char" char="." rowspan="1" colspan="1">1115</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">VI</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">2017‐018</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">65</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">7.83</td><td align="char" char="." rowspan="1" colspan="1">1305</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="char" char="." rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">V</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">2</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">2</td></tr><tr><td align="left" rowspan="1" colspan="1">2017‐024</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">59</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">6.5</td><td align="char" char="." rowspan="1" colspan="1">1305</td><td align="left" rowspan="1" colspan="1">E4/E4</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">V</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">3</td></tr><tr><td align="left" rowspan="1" colspan="1">2017‐030</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">10.8</td><td align="char" char="." rowspan="1" colspan="1">1455</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">VI</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">2</td></tr><tr><td align="left" rowspan="1" colspan="1">2017‐035</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">95</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">6.58</td><td align="char" char="." rowspan="1" colspan="1">890</td><td align="left" rowspan="1" colspan="1">E3/E4</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">VI</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">2017‐039</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">88</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">8.58</td><td align="char" char="." rowspan="1" colspan="1">1445</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">V</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">2017‐045</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">61</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">6.83</td><td align="char" char="." rowspan="1" colspan="1">920</td><td align="left" rowspan="1" colspan="1">E2/E4</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">VI</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">2017‐049</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">96</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">4.42</td><td align="char" char="." rowspan="1" colspan="1">1095</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">V</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">2017‐051</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">94</td><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">6.75</td><td align="char" char="." rowspan="1" colspan="1">1107</td><td align="left" rowspan="1" colspan="1">E4/E4</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">V</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">2017‐054</td><td align="left" rowspan="1" colspan="1">AD</td><td align="char" char="." rowspan="1" colspan="1">69</td><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">6.17</td><td align="char" char="." rowspan="1" colspan="1">1065</td><td align="left" rowspan="1" colspan="1">E3/E3</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">VI</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="char" char="." rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr></tbody></table><table-wrap-foot id="bpa12897-ntgp-0003"><fn id="bpa12897-note-0003"><p>PMT = post‐mortem time; NFT = neurofibrillary tangles; CAA = cerebral amyloid angiopathy; Neuritic plaque score (CERAD) = 0, absent; 1, sparse; 2, moderate; 3, severe; n.d. = not determined.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="bpa12897-sec-0004"><title>Preparation of samples for stereology</title><p>Fresh frozen (−80°C) blocks were cut orthogonally to the middle frontal gyrus at a thickness of 60 µm. We fixed the mounted slices for 10 minutes in 100% of methanol at −20°C, except for slices stained for the proliferation marker Ki67, which were fixed in ice‐cold 4% of paraformaldehyde (PFA). All primary antibodies were incubated in 1% of normal donkey serum (NDS), 0.3% of Triton X‐100 and Tris‐buffered saline (TBS) overnight at 4°C. For the stereological measurement of pericyte linear density and proliferation, the following primary antibodies were employed: laminin (mouse anti‐human, γ1, clone 2E8, Millipore, 1:800); PDGFRβ (rabbit anti‐human, Y92, GeneTex, 1:100); Ki67 (Abcam, 1:1000). To reveal endothelia, mouse anti‐CD31 (Clone JC70A, DAKO, 1:100) was employed. Binding of the primary antibodies was detected by incubation with the secondary antibodies Alexa‐488 donkey anti‐mouse and Alexa 568 donkey anti‐rabbit (Invitrogen, both 1:1000) in 5% of NDS, 0.3% of Triton X‐100 in TBS. 4′,6‐diamidino‐2‐phenylindole (DAPI) was used to stain nuclei.</p><p>For the stereological quantification of total and vascular Aβ, fresh frozen mounted slices were fixed in methanol. Incubation with 0.3% of H<sub>2</sub>O<sub>2</sub> was used to inactivate endogenous peroxidase. Aβ was stained with a primary antibody against Aβ (clone DE2B4, Santa Cruz, 1:500) revealed by a biotinylated secondary horse anti‐mouse antibody (Vector Laboratories, 1:200). We applied the avidin‐biotin complex (ABC) kit (Vector Laboratories) according to the manufacturer's instructions and nuclei were stained with Harris' hematoxylin.</p></sec><sec id="bpa12897-sec-0005"><title>Stereological analysis</title><p>The stereological approach for the measurement of pericyte and vascular densities is described in the Supporting Figure <xref rid="bpa12897-sup-0001" ref-type="supplementary-material">S1</xref>. We counted pericyte bodies, defined as PDGFRβ‐immunoreactive cells with round or oval nuclei, whose cell bodies were embedded in the laminin‐immunoreactive basement membrane (<xref rid="bpa12897-bib-0001" ref-type="ref">1</xref>). To identify cells, we used a LEICA DMIL microscope equipped with a 40× (NA 1.25–0.75) oil‐immersion objective. Pericyte density and linear density was quantified by stereological sampling over three second‐consecutive slices per subject. The optical fractionator was implemented as detailed previously (<xref rid="bpa12897-bib-0027" ref-type="ref">27</xref>). Briefly, the dedicated stereological software (Stereo investigator 10, MBF Bioscience) drove an x/y stage to access sampling sites in a random and systematic manner from the entire cortical tissue represented in the probe. At those places, a counting frame was projected over the live images acquired with a CCD camera. Pericytes were then identified and counted online. The size of the counting frame area in each sampling site (14 400 µm<sup>2</sup>) was chosen so as to contain about two pericytes. Typically, we counted about 450 pericytes per subject from more than 200 sampling sites encompassing the entire cortical tissue presented in the sections. Capillaries were defined as laminin‐immunoreactive tubular vascular structures with a diameter ≤9 µm (<xref rid="bpa12897-bib-0029" ref-type="ref">29</xref>). We implemented the space balls method to analyze capillary density (<xref rid="bpa12897-bib-0039" ref-type="ref">39</xref>), counting every intersection between the projected hemisphere and the central axis of the capillary. Pericyte linear density was calculated as the pericyte number divided by the total capillary length for a given subject. In addition, we estimated the density of intermediate (diameter &gt;9 and ≤50 µm) and large vessels (diameter &gt;50 µm).</p><p>For pericyte coverage analysis, images of the laminin‐immunoreactive vasculature and PDGFRβ‐immunoreactive structures were obtained with a 100 × oil‐immersion objective (NA 1.4) at random systematically placed locations selected with the stereological optical fractionator. A total of ~10 intersections were sampled per subject, obtained from one of the three consecutive sections included in the stereological pericyte and vascular density analysis. After manual thresholding in ImageJ (v1.51s), the fraction of area of the laminin‐immunoreactive vessels covered by PDGFRβ‐immunoreactive signal was determined.</p><p>Aβ analysis was performed on a single slice per subject and the Aβ signal was divided into two fractions: “vascular” and “parenchymal.” We used the stereological area fraction fractionator as previously described, projecting ~200 counting grids into the counting space at each crossing of the lattice per subject (<xref rid="bpa12897-bib-0025" ref-type="ref">25</xref>). This analysis yielded the Aβ‐immunoreactive area fraction as a percent of the total gray matter area. The presence or absence of capillary CAA (Table <xref rid="bpa12897-tbl-0001" ref-type="table">1</xref>) was determined in the same frontal sample.</p><p>For illustration purposes, we acquired confocal images using a Leica SP5 confocal microscope.</p></sec><sec id="bpa12897-sec-0006"><title>Clearing</title><p>Cortical tissue from the middle frontal gyrus obtained from the Netherlands Brain Bank was dissected and fixated in 4% of PFA for 4 hours before being transferred into PBS containing 0.035% of sodium azide. Clearing was performed using the original Clarity protocol with slight modifications (<xref rid="bpa12897-bib-0012" ref-type="ref">12</xref>, <xref rid="bpa12897-bib-0058" ref-type="ref">58</xref>). These were directed to minimize the duration of the incubation with the PFA fixative. The cortical tissue was cut to obtain a cuboid of approximately 1 × 1 × 3–5 mm entailing all cortical layers and a small fraction of subcortical tissue. The tissue was incubated in the polyacrylamide solution overnight, and thereafter in 4% of PFA‐containing polyacrylamide solution for 4 h. For cross‐linking of proteins with the polyacrylamide scaffold, the tissue was degassed and incubated at 37°C for another 2 h. After cross‐linking, the excess acrylamide was scraped off the tissue. The cross‐linked tissue was then incubated at 37°C in 4% of SDS‐containing PBS for 7–10 days, after which an optimum of clearing was typically reached. SDS was then removed by repeated washes in PBS with 0.5% of Triton‐X before immunostaining. In order to reveal the pericyte‐containing vascular network as well as Aβ plaques, we incubated with rabbit primary antibodies against the pericyte marker PDGFRβ (clone Y92, GeneTex) and against Aβ peptide (Clone DE2B4, Santa Cruz, both at 1:100) for 72 h at 37°C. After washing off the primary antibodies with PBS containing 0.5% of Triton‐X, incubation with secondary Alexa‐488 anti‐mouse and Alexa‐638 anti‐rat antibodies (1:100) was performed for another 72 h at 37°C.</p></sec><sec id="bpa12897-sec-0007"><title>Two‐photon imaging of cleared tissue</title><p>Prior to imaging, the samples were incubated in 30% of 2,20‐Thiodiethanol (TDE) to match the refractive index of water (<xref rid="bpa12897-bib-0013" ref-type="ref">13</xref>), and then, placed in a custom‐built chamber. Imaging was performed on a Nikon A1R MP multiphoton microscope equipped with a 25x N.A. 1.1 objective, Nikon) and a Ti:Sa laser (Spectra Physics, Insight DeepSee) at the AMBIO Life Cell Imaging Core Facility (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://AMBIO.charite.de">http://AMBIO.chari​te.de</ext-link>). For each fragment, we produced 15–20 stacks arranged as tiles with 10% overlap covering the entire fragment. At each of the position of the tile, the tissue was subsequently scanned with the IR laser tuned for excitation at 980 nm for Alexa‐488 imaging or 1200 for Alexa‐647 imaging. The fluorescence of the Alexa dyes was recorded with 525/50 or 575/25 nm bandpass filters, respectively. A third image was acquired with excitation at 980 nm and the emission bandpass filter at 575/25 to record the tissue autofluorescence. The size of a single tile was typically with a voxel size of about 1 µm × 1 µm × 4 µm. Using this approach, the typical imaging time for a whole tissue fragment lasted for about 3 h.</p></sec><sec id="bpa12897-sec-0008"><title>Image processing</title><p>We stitched the tiles using the Nikon software. We applied a Gaussian filter for noise reduction and resampled the images to a half of the original resolution to make further analysis feasible using ImageJ. The contrast of the PDGFRβ‐immunoreactive signal was enhanced using the CLAHE ImageJ plugin. In order to increase the specificity of the detection of the PDGFRβ‐immunoreactive and Aβ‐immunoreactive signal, we employed a color extraction procedure in the imaging processing program Imaris 8.3.1 (Bitplane). This enhanced the fluorescent signals over tissue autofluorescence. Using Imaris, both the PDGFRβ‐immunoreactive and Aβ‐immunoreactive signals were segmented. The rendered volume of the PDGFRβ‐immunoreactive vascular network was skeletonized using a custom‐written plugin based on the Skel2Graph3D MATLAB function (<xref rid="bpa12897-bib-0028" ref-type="ref">28</xref>); MATLAB version R2015a, MathWorks). This procedure provided a network of segments, connected by nodes, from which several metrics were calculated: length of the vascular network, tortuosity (the quotient of the vascular segment length and the distance between their endpoints) as well as, for every voxel, the distance to the nearest vessel. In addition, the volume occupied by Aβ positive immunostaining was measured. A scheme of the image analysis is presented in the Supporting Figure <xref rid="bpa12897-sup-0002" ref-type="supplementary-material">S2</xref>.</p></sec><sec id="bpa12897-sec-0009"><title>APOE genotyping</title><p>For APOE genotyping, we extracted genomic DNA either from unfixed frozen or fixed brain tissue. We employed a semi‐nested PCR assay based on (<xref rid="bpa12897-bib-0018" ref-type="ref">18</xref>). Outer primers for amplification of exon 4 of the APOE gene were 5′‐TACAAATCGGAACTGGAGGAAC‐3′ (forward) and 5′‐CCTGCTCCTTCACCTCGTC‐3′(reverse); inner primers were 5′‐GGCACGGCTGTCCAAGGAGC‐3′(forward) and 5′‐ACGCGGCCCTGTTCCACCAG‐3′ (reverse). The product of the nested PCR was digested with the HhaI restriction enzyme to yield bands specific for the APOE2, APOE3 and APOE4 genotypes (<xref rid="bpa12897-bib-0018" ref-type="ref">18</xref>). For statistical analysis, subjects presenting any APOE4‐allele, either homo‐ or heterozygotes, were pooled in the “APOE4” group. Subjects with any combination of the APOE2 and APOE3 alleles were pooled into the “APOE2‐3” group.</p></sec><sec id="bpa12897-sec-0010"><title>Statistics</title><p>The effect of diagnosis (AD vs. control) on pericyte density, pericyte linear density, capillary density, intermediate vessel density and large vessel density was determined by a multivariate analysis (one‐way MANOVA). Univariate analysis (one‐way ANOVA) was used in case of significant multivariate analysis (<italic toggle="yes">P</italic> &lt; 0.05). We carried out a Mann–Whitney <italic toggle="yes">U</italic> Test to investigate the effect of diagnosis (AD vs. control) or genotype on the non‐normally distributed variables. Comparison between more than two groups was performed with the Kruskal–Wallis nonparametric test followed by the Dunn‐Šidák correction for multiple comparisons. Pericyte and capillary densities were correlated with total Aβ and vascular Aβ (Spearman's rank‐order correlation). Data are presented as means ± standard deviation or the median for non‐normally distributed variables. In boxplots, box and whiskers indicate median and 25<sup>th</sup> and 75<sup>th</sup> percentiles and whiskers represent 5<sup>th</sup> and 95<sup>th</sup> percentiles. SPSS (version 23, IBM) and MATLAB were used for statistical analysis.</p></sec></sec><sec sec-type="results" id="bpa12897-sec-0011"><title>RESULTS</title><sec id="bpa12897-sec-0012"><title>Demographic, clinical and neuropathological data</title><p>Demographic and neuropathological characteristics of all included cases are shown in Tables <xref rid="bpa12897-tbl-0001" ref-type="table">1</xref> and <xref rid="bpa12897-tbl-0002" ref-type="table">2</xref>. Matched samples of 16 control and 16 AD subjects were included in the stereological study. Median ages were 75.5 years for both the control and AD groups, and the sex distribution was matched to eight males and eight females (Table <xref rid="bpa12897-tbl-0001" ref-type="table">1</xref>). Median post‐mortem times were 12 and 9 h in controls and AD subjects, respectively. In AD subjects, the CERAD score of neuritic plaques (<xref rid="bpa12897-bib-0036" ref-type="ref">36</xref>) ranged from moderate (11/16) to frequent (5/16). In a semiquantitative four‐tier classification of the presence of NFTs, the scores of AD subjects varied from mild (3/16) to moderate (10/16) and severe (3/16). AD subjects showed mild (7/16) to moderate (5/16) and severe (4/16) degrees of atrophy. We did not find any statistically significant differences for any morphometric parameter among the different stages of pathology, and therefore, pooled all data.</p><p>Tissue employed for clearing comprised 13 AD cases as well as four control cases. The necessity of using freshly fixed tissue for clearing and staining for PDGFRβ accounted for the skewed group sizes. All demographic and neuropathological data of subjects included in the cleared tissue study are provided in the Table <xref rid="bpa12897-tbl-0002" ref-type="table">2</xref>. Mean ages were 78.3 ± 14.8 and 78.8 ± 13.8 years and sex distribution (f:m) was 2:2 and 6:7 in the control and AD groups, respectively. Aβ plaque, Braak and CERAD scores were known for all subjects and differed significantly between the control and AD groups [Mann–Whitney <italic toggle="yes">U</italic> test, Supporting Figure <xref rid="bpa12897-sup-0003" ref-type="supplementary-material">S3</xref>; Refs. (<xref rid="bpa12897-bib-0007" ref-type="ref">7</xref>, <xref rid="bpa12897-bib-0036" ref-type="ref">36</xref>, <xref rid="bpa12897-bib-0055" ref-type="ref">55</xref>)]. Mean brain weight for controls and AD subjects were 1348 ± 208 g and 1168 ± 195 g, respectively, not reaching a statistically significant difference (Supporting Figure <xref rid="bpa12897-sup-0003" ref-type="supplementary-material">S3</xref>). Out of all AD cases, four cases displayed grade 2 or 3 type 1 (capillary) CAA. We did not find any statistically significant difference for any metric between cases with grade 2 or 3 CAA and the cases without CAA, and therefore, we pooled all cases in one single AD group.</p></sec><sec id="bpa12897-sec-0013"><title>Stereological analysis</title><p>We identified pericytes as PDGFRβ‐immunoreactive cells with cellular bodies and projections embedded in the laminin‐immunoreactive vascular basement membrane (Figure <xref rid="bpa12897-fig-0001" ref-type="fig">1A</xref>). As PDGFRβ‐immunoreactivity surrounded the CD31‐immunoreactive endothelium, we confirmed the specific staining of mural cells by the anti‐PDGFRβ antibody. (Supporting Figure <xref rid="bpa12897-sup-0004" ref-type="supplementary-material">S4</xref>). Pericyte density was increased by 28% in AD cases compared to controls (controls: 2,412 ± 376 cells/mm<sup>3</sup> vs. AD: 3,081 ± 584 cells/mm<sup>3</sup>; <italic toggle="yes">P</italic> = 0.0006; one‐way‐ANOVA; Figure <xref rid="bpa12897-fig-0001" ref-type="fig">1B</xref>). The increase in pericyte density was paralleled by a similar increase in the capillary density (see below), so that the linear pericyte density remained unchanged (controls: 8.3 ± 0.7 vs. AD: 8.5 ± 1 cells/mm; Figure <xref rid="bpa12897-fig-0001" ref-type="fig">1C</xref>). Pericyte coverage (the fraction of laminin‐immunoreactive area occupied by PDGFRβ immunoreactivity) was not different between AD cases and controls (control: 75.6 %, AD: 75.8 %; Figure <xref rid="bpa12897-fig-0001" ref-type="fig">1D</xref>). The percentage of brain tissue immunoreactive for Aβ (Aβ burden) was increased in AD cases compared to non‐demented controls, although a fraction of the latter also presented with some Aβ immunoreactivity (median 0.18% in control vs. 0.91% in AD cases, <italic toggle="yes">P</italic> &lt; 0.001, Mann–Whitney <italic toggle="yes">U</italic> Test, Figure <xref rid="bpa12897-fig-0002" ref-type="fig">2A,E</xref>. The vascular fraction of Aβ also differed between controls (0%) and AD cases (0.07%) (<italic toggle="yes">P</italic> &lt; 0.0001, Mann–Whitney <italic toggle="yes">U</italic> Test, Figure <xref rid="bpa12897-fig-0002" ref-type="fig">2F</xref>). The increase in pericyte density correlated with total Aβ burden (<italic toggle="yes">r</italic>
+<sub>s</sub> = 0.54, <italic toggle="yes">P</italic> &lt; 0.01; Spearman's rank‐order correlation; Figure <xref rid="bpa12897-fig-0002" ref-type="fig">2G</xref>). Among AD cases, neither pericyte density nor pericyte coverage varied significantly between different stages of the four‐tier NFT or neuritic plaque (CERAD) classifications (Supporting Figure <xref rid="bpa12897-sup-0005" ref-type="supplementary-material">S5</xref>). In summary, total pericyte numbers increased in AD subjects, while no statistically significant changes in pericyte linear density (i.e. corrected for vascular density) or endothelial area coverage were detected in AD cases. These findings show that pericyte loss was not present in the frontal cortex of AD cases.</p><fig fig-type="Figure" xml:lang="en" id="bpa12897-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>
+<italic toggle="yes">Pericyte density changes in AD</italic>. <bold>A.</bold> Representative confocal image showing PDGFRβ‐immunoreactive pericytes and the laminin‐immunoreactive vascular basement membrane in the frontal cortex of an AD case. The arrowhead demonstrates a PDGFRβ‐immunoreactive pericyte body contained within the laminin‐immunoreactive basement membrane. Those were counted with the stereological fractionator method (see Supporting Figure <xref rid="bpa12897-sup-0001" ref-type="supplementary-material">S1</xref> for details). <bold>B.</bold> The density of pericytes (number of pericytes in a given tissue volume) is increased in AD cases (one‐way ANOVA; *<italic toggle="yes">P</italic> = 0.00058). <bold>C</bold> and <bold>D.</bold> The linear density of pericytes (pericyte number in a given capillary segment; C; one‐way ANOVA; <italic toggle="yes">P</italic> = 0.46) as well as the vascular coverage (<bold>D</bold>; Mann–Whitney <italic toggle="yes">U</italic> test; <italic toggle="yes">P</italic> = 0.78) did not change in AD cases compared to controls. Scale bar: 50 µm. [Colour figure can be viewed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="jats-graphic-1" position="float" orientation="portrait" xlink:href="BPA-30-1071-g002.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="bpa12897-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<italic toggle="yes">Correlation of pericyte density with AD pathology</italic>. <bold>A‐D.</bold> Representative images showing immunoreactivity for β‐amyloid in two non‐demented cases (<bold>A</bold> and <bold>B</bold>) and two AD cases (<bold>C</bold> and <bold>D</bold>). Non‐demented controls showed variable degree of β‐amyloid deposition. The insets in <bold>C</bold> and <bold>D</bold> demonstrate plaques and parenchymal vascular amyloid deposition, respectively. <bold>E</bold> and <bold>F.</bold> Boxplots showing the fraction of the area occupied by total Aβ immunoreactivity (<bold>E</bold>) or vessel‐associated Aβ immunoreactivity (<bold>F</bold>) in non‐demented control and AD cases. *<italic toggle="yes">P</italic> = 0.00015, **<italic toggle="yes">P</italic> = 0.000016; Mann–Whitney <italic toggle="yes">U</italic> Test. <bold>G.</bold> Pericyte density correlated with the total Aβ load (<italic toggle="yes">r</italic>
+<sub>s</sub> = 0.54, <italic toggle="yes">P</italic> = 0.0012, Spearman's rank‐order correlation. Scale bar: 100 µm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="jats-graphic-3" position="float" orientation="portrait" xlink:href="BPA-30-1071-g004.jpg"/></fig><p>We stained for the basement marker laminin to measure vascular density (Figure <xref rid="bpa12897-fig-0003" ref-type="fig">3A,B</xref>). The microvascular network of AD subjects displayed a 24% increase in capillary density compared to controls (controls: 291 ± 39 mm/mm<sup>3</sup> vs. AD: 361 ± 48 mm/mm<sup>3</sup>; <italic toggle="yes">P</italic> = 0.000079; one‐way‐ANOVA; Figure <xref rid="bpa12897-fig-0003" ref-type="fig">3C</xref>). In contrast, no significant differences between AD cases and controls was detected for the densities of intermediate sized vessels (controls: 72 ± 23 vs. AD: 73 ± 27 mm/mm<sup>3</sup>; Figure <xref rid="bpa12897-fig-0003" ref-type="fig">3C</xref>) or large vessels (controls: 0.55 ± 0.25 vs. AD: 0.43 ± 0.30 mm/mm<sup>3</sup>; <italic toggle="yes">P</italic> = 0.24; one‐way‐ANOVA; Figure <xref rid="bpa12897-fig-0003" ref-type="fig">3C</xref>). The capillary density correlated with the total Aβ burden (<italic toggle="yes">r</italic>
+<sub>s</sub> = 0.6419, <italic toggle="yes">P</italic> &lt; 0.0001; Spearman's rank‐order correlation; Figure <xref rid="bpa12897-fig-0003" ref-type="fig">3D</xref>). In AD subjects, vascular density of intermediate vessels was significantly higher in subjects with a score of 3 when compared with those with a score of 2 (median of 47.6 vs. 87.9, <italic toggle="yes">P</italic> &lt; 0.005, Mann–Whitney <italic toggle="yes">U</italic> Test). Otherwise, the density of vessels did not vary significantly between different stages of the four‐tier NFT or neuritic plaque (CERAD) classifications (Supporting Figures <xref rid="bpa12897-sup-0006" ref-type="supplementary-material">S6</xref> and <xref rid="bpa12897-sup-0007" ref-type="supplementary-material">S7</xref>).</p><fig fig-type="Figure" xml:lang="en" id="bpa12897-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<italic toggle="yes">Vascular density changes in AD</italic>. <bold>A</bold> and <bold>B.</bold> Representative immunohistochemical stains for laminin showing changes in capillary density in a non‐demented control (<bold>A</bold>) versus an AD case (<bold>B</bold>). The discontinuous pattern of staining is owed to the sectioning of fresh‐frozen samples. <bold>C.</bold> The density of capillaries (defined as vessels with diameters ≤9 µm) is significantly increased in AD cases compared to controls (*<italic toggle="yes">P</italic> = 0.000079, one‐way ANOVA). The density of intermediate and large vessels (including arterioles and veins) remains constant (<italic toggle="yes">P</italic> = 0.9 and 0.24, respectively; one‐way ANOVA). <bold>D.</bold> Vascular density correlated with the total Aβ load (<italic toggle="yes">r</italic>
+<sub>s</sub> = 0.6419, <italic toggle="yes">P</italic> = 0.000075, Spearman's rank‐order correlation). Scale bars: 250 µm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="jats-graphic-5" position="float" orientation="portrait" xlink:href="BPA-30-1071-g005.jpg"/></fig><p>Some of the non‐demented control cases showed Aβ‐immunoreactive plaques (Figure <xref rid="bpa12897-fig-0002" ref-type="fig">2G</xref>). We separated the control cases into subjects with negligible Aβ‐immunoreactivity (&lt; 0.1% area fraction; n = 5), and non‐demented subjects with positive Aβ immunoreactivity (Aβ‐immunoreactive plaques in&gt; 0.1%; n = 9). The analysis of pericyte and capillary densities showed significant differences between these two groups and the AD group, while no difference was found between control and non‐demented subjects with AD‐like pathology for any other metric studied (Supporting Figure <xref rid="bpa12897-sup-0008" ref-type="supplementary-material">S8</xref>). No differences were found for pericyte linear density, intermediate vascular or large vascular densities (Supporting Figure <xref rid="bpa12897-sup-0008" ref-type="supplementary-material">S8</xref>). These results suggest that clinically patent and neuropathologically confirmed AD, and not merely the presence of Aβ‐immunoreactive plaques, is associated with the observed increases in pericyte and capillary density. The APOE genotype did not influence Aβ plaque load, pericyte or vascular density in neither the control nor the AD groups, although a trend to a higher amount of Aβ vascular deposition was found in carriers of the APOE4 allele (Supporting Figures <xref rid="bpa12897-sup-0009" ref-type="supplementary-material">S9</xref> and <xref rid="bpa12897-sup-0010" ref-type="supplementary-material">S10</xref>).</p></sec><sec id="bpa12897-sec-0014"><title>Analysis of cleared samples</title><p>Upon clearing, double‐labeling and two‐photon imaging of brain tissue samples revealed Aβ deposits as well as the PDGFRβ‐immunoreactive vascular network (Figure <xref rid="bpa12897-fig-0004" ref-type="fig">4</xref>A,B). Pericyte‐containing vessels were detected in both controls and in AD cases along all cortical layers, often in close apposition to Aβ plaques (Figure <xref rid="bpa12897-fig-0004" ref-type="fig">4B</xref>). The PDGFRβ‐immunoreactive mural cell lining of arteries, capillaries and veins was clearly rendered (Figure <xref rid="bpa12897-fig-0004" ref-type="fig">4C,E</xref>). The Supporting Videos <xref rid="bpa12897-sup-0013" ref-type="supplementary-material">S1</xref> and <xref rid="bpa12897-sup-0014" ref-type="supplementary-material">S2</xref> demonstrate the staining and imaging of whole tissue fragments. The volume occupied by Aβ deposition was significantly higher in AD cases than controls, although we encountered some degree of Aβ immunoreactivity in one control case (median 0% in control vs. 0.6% in AD cases, <italic toggle="yes">P</italic> &lt; 0.005, Mann–Whitney <italic toggle="yes">U</italic> Test, Supporting Figure <xref rid="bpa12897-sup-0011" ref-type="supplementary-material">S11</xref>A). Aβ deposition did not vary significantly in dependence of the APOE genotype (Supporting Figure <xref rid="bpa12897-sup-0011" ref-type="supplementary-material">S11</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="bpa12897-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>
+<italic toggle="yes">Pericyte vascular network in cleared brain samples</italic>. <bold>A</bold> and <bold>B.</bold> 3D‐rendering of stitched and processed two‐photon images from two cleared specimens, one non‐demented control case (<bold>A</bold>) and one AD case (<bold>B</bold>) showing PDGFRβ‐immunoreactive (red) and Aβ‐immunoreactive (green) signals. The spurious green signal in the surface of <bold>A</bold> represent contaminating particles of the tissue piece. The density of PDGFRβ‐immunoreactive structures is similar between the control and AD tissue. <bold>C</bold>–<bold>E.</bold> raw scanning images of the signal corresponding to PDGFRβ‐immunoreactivity. Under the imaging protocol employed for the sampling of large tissue volumes, two‐photon imaging did not resolve the fine cellular structures of pericytes. However, the staining revealed unambiguously the lining of PDGFRβ‐immunoreactive mural cells in arterioles, capillaries and venules. Scale bars: 400 µm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="jats-graphic-7" position="float" orientation="portrait" xlink:href="BPA-30-1071-g001.jpg"/></fig><p>For the morphometric analysis, we first produced a skeleton of the PDGFRβ‐immunoreactive vascular network, which comprised pericyte‐containing capillaries in addition to mural cell‐containing larger arterioles and venules. (Figure <xref rid="bpa12897-fig-0005" ref-type="fig">5A,D</xref>). The linear density of PDGFRβ‐immunoreactive vessels as well as the density of junctions were calculated as independent morphometric endpoints. Further, the mean parenchymal distance to the next vessel and the tortuosity were calculated. The values of the linear vascular density matched with previously published results (<xref rid="bpa12897-bib-0029" ref-type="ref">29</xref>) and the stereological measurements of laminin‐immunoreactive capillaries reported above (Figure <xref rid="bpa12897-fig-0003" ref-type="fig">3</xref>). We did not find statistically significant differences of PDGFRβ‐immunoreactive vascular density, mean parenchymal distance to the next vessel or tortuosity between AD cases and controls (Figure <xref rid="bpa12897-fig-0005" ref-type="fig">5E,G</xref>). Also, the PDGFRβ‐immunoreactive vascular density did not change significantly among APOE genotypes, Aβ plaque scores, NFT (Braak) stages or neuritic plaque (CERAD) scores (Supporting Figure <xref rid="bpa12897-sup-0012" ref-type="supplementary-material">S12</xref>).</p><fig fig-type="Figure" xml:lang="en" id="bpa12897-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>
+<italic toggle="yes">Morphometric analysis of the pericyte vascular network in cleared samples</italic>. <bold>A–D.</bold> 3D‐rendering of the skeletonized PDGFRβ‐immunoreactive vascular network of a non‐demented control (<bold>A</bold> and <bold>B</bold>, same as in Figure <xref rid="bpa12897-fig-0004" ref-type="fig">4</xref>A) and an AD case (<bold>C</bold>,<bold>D</bold>, same as in Figure <xref rid="bpa12897-fig-0004" ref-type="fig">4</xref> B). The green surfaces in <bold>C</bold> represent thresholded Aβ‐immunoreactive plaques. The boxes in <bold>B</bold> and <bold>D</bold> display the skeleton along the PDGFRβ‐ or Aβ‐signals (box comprises 75 µm in each dimension). <bold>E–G.</bold> No differences between AD cases and non‐demented controls were found for neither PDGFRβ‐immunoreactive vascular network (E; Mann–Whitney <italic toggle="yes">U</italic> test; <italic toggle="yes">P</italic> = 1) nor the average distance in the parenchyma to the nearest vessel (F; Mann–Whitney <italic toggle="yes">U</italic> test; <italic toggle="yes">P</italic> = 0.83) or the tortuosity of the vascular structures (G; Mann–Whitney <italic toggle="yes">U</italic> test; <italic toggle="yes">P</italic> = 0.50). Scale bars: 400 µm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="jats-graphic-9" position="float" orientation="portrait" xlink:href="BPA-30-1071-g003.jpg"/></fig><p>Collectively, our results show a preservation of capillary pericytes in the frontal cortex of AD.</p></sec></sec><sec sec-type="discussion" id="bpa12897-sec-0015"><title>Discussion</title><p>Located in capillaries throughout the CNS at the interface between the neural tissue and the circulatory system, pericytes are involved in the development of the brain's vascular system and the regulation of the BBB (<xref rid="bpa12897-bib-0001" ref-type="ref">1</xref>). Pericytes appear to be contractile under certain conditions, and a population of pericyte‐like mural cells in the arteriolar vasculature contributes to the control of blood flow in the CNS (<xref rid="bpa12897-bib-0016" ref-type="ref">16</xref>, <xref rid="bpa12897-bib-0020" ref-type="ref">20</xref>, <xref rid="bpa12897-bib-0024" ref-type="ref">24</xref>, <xref rid="bpa12897-bib-0045" ref-type="ref">45</xref>). Pericyte function thus determines the maintenance of a homeostatic environment in the CNS. An adequate blood supply and the isolation of the neural tissue from blood electrolytes, proteins and inflammatory mediators are necessary conditions to ensure proper brain function. Experimental conditions which target the brain's pericyte population, either by interfering with PDGFRβ signaling (<xref rid="bpa12897-bib-0002" ref-type="ref">2</xref>, <xref rid="bpa12897-bib-0005" ref-type="ref">5</xref>, <xref rid="bpa12897-bib-0014" ref-type="ref">14</xref>, <xref rid="bpa12897-bib-0031" ref-type="ref">31</xref>) or by iDTR‐mediated ablation of pericytes (<xref rid="bpa12897-bib-0040" ref-type="ref">40</xref>), result in CNS pathology (disturbances of the BBB and CNS blood flow, inflammation and neurodegeneration) and are in some cases associated with cognitive dysfunction or even death.</p><p>The effect of CNS pathology on the pericyte population is not fully known. Ischemia leads to a rapid demise of pericytes (<xref rid="bpa12897-bib-0017" ref-type="ref">17</xref>, <xref rid="bpa12897-bib-0020" ref-type="ref">20</xref>). Loss of pericytes has also been described in neurodegenerative disorders, particularly in AD (<xref rid="bpa12897-bib-0021" ref-type="ref">21</xref>, <xref rid="bpa12897-bib-0050" ref-type="ref">50</xref>). Some ultrastructural studies showed increased signs of pericyte degeneration in post‐mortem AD brains, such as the accumulation of intracellular lipofuscin‐like material and damaged mitochondria (<xref rid="bpa12897-bib-0003" ref-type="ref">3</xref>). However, other studies did not confirm pericyte degeneration (<xref rid="bpa12897-bib-0015" ref-type="ref">15</xref>, <xref rid="bpa12897-bib-0052" ref-type="ref">52</xref>). Aβ is internalized by pericytes and has toxic effects on cultured pericytes (<xref rid="bpa12897-bib-0009" ref-type="ref">9</xref>, <xref rid="bpa12897-bib-0057" ref-type="ref">57</xref>, <xref rid="bpa12897-bib-0062" ref-type="ref">62</xref>, <xref rid="bpa12897-bib-0064" ref-type="ref">64</xref>). These observations have led to the hypothesis that pericyte loss might be a major factor in the cascade leading to neurodegeneration in AD (<xref rid="bpa12897-bib-0021" ref-type="ref">21</xref>, <xref rid="bpa12897-bib-0050" ref-type="ref">50</xref>).</p><p>Here, we used state‐of‐the‐art techniques, such as stereology which is considered the gold standard in morphometric studies, as well as novel tissue clearing and two‐photon imaging techniques to characterize the presence of pericytes in two independent samples of AD brains and controls. Our results clearly demonstrate that pericytes are not diminished in the frontal cortex of individuals with clinically diagnosed AD. These findings are in line with previous ultrastructural studies of pericytes in the AD brain (<xref rid="bpa12897-bib-0015" ref-type="ref">15</xref>, <xref rid="bpa12897-bib-0052" ref-type="ref">52</xref>). However, our results contradict more recent reports suggesting that capillary pericytes are lost in AD, in particular in dependence of the APOE genotype (<xref rid="bpa12897-bib-0021" ref-type="ref">21</xref>, <xref rid="bpa12897-bib-0050" ref-type="ref">50</xref>).</p><p>This discrepancy could be explained by the different techniques employed. We did not produce measurements of the area covered by pericyte or endothelial markers above a certain intensity threshold, as in (<xref rid="bpa12897-bib-0021" ref-type="ref">21</xref>, <xref rid="bpa12897-bib-0050" ref-type="ref">50</xref>), because this measure is influenced by the amount of expressed proteins, which is subject to regulation in disease. For instance, the Ulex europaeus agglutinin I used to reveal endothelia in (<xref rid="bpa12897-bib-0021" ref-type="ref">21</xref>, <xref rid="bpa12897-bib-0050" ref-type="ref">50</xref>) binds to fucosylated glycoproteins, which are effectors of leukocyte adhesion and could be upregulated during endothelial activation (<xref rid="bpa12897-bib-0030" ref-type="ref">30</xref>). It is not well established how AD affects the expression levels of pericyte markers, but <italic toggle="yes">in vitro</italic> studies show that pericytes shed PDGFRβ into the medium upon hypoxia or exposure to β‐amyloid, which may explain why lower levels of PDGFRβ protein are found in AD brains (<xref rid="bpa12897-bib-0035" ref-type="ref">35</xref>, <xref rid="bpa12897-bib-0047" ref-type="ref">47</xref>), even in the absence of pericyte degeneration. In our stereological study, pericyte numbers were assessed visually by an investigator blinded to the groups, who identified pericytes and vessels independently of the intensity of the immunofluorescence signal. Similarly, in the cleared tissue analysis, skeletonization of the PDGFRβ‐immunoreactive signal yields measurements that are largely independent of the cross‐sectional area of positive immunoreactivity.</p><p>In line with previous results (<xref rid="bpa12897-bib-0004" ref-type="ref">4</xref>, <xref rid="bpa12897-bib-0022" ref-type="ref">22</xref>, <xref rid="bpa12897-bib-0034" ref-type="ref">34</xref>, <xref rid="bpa12897-bib-0044" ref-type="ref">44</xref>), our stereological analysis demonstrates an increased capillary density in the AD cortex. Increased capillary density has also been described in the brains of different AD mouse models by chronic intravital imaging (<xref rid="bpa12897-bib-0006" ref-type="ref">6</xref>). Since the cortex is subject to atrophy in AD, the increase in capillary density could be explained by the persistence of the vascular network in a context of parenchymal volume shrinking. However, we did not detect increased densities of intermediate sized and large vessels, which is hard to reconcile with a passive effect of atrophy. The increased density of capillaries is more likely to result from angiogenesis, since angiogenic genes are upregulated in AD (<xref rid="bpa12897-bib-0006" ref-type="ref">6</xref>, <xref rid="bpa12897-bib-0042" ref-type="ref">42</xref>). Upregulation of ANGPTL4 expression has been associated to angiogenesis and increased capillary density in in patients with capillary CAA (<xref rid="bpa12897-bib-0011" ref-type="ref">11</xref>). The intrathecal concentration of vascular endothelial growth factor (VEGF), an angiogenic molecule, is increased in patients with AD and might serve as a biomarker (<xref rid="bpa12897-bib-0053" ref-type="ref">53</xref>, <xref rid="bpa12897-bib-0056" ref-type="ref">56</xref>). The rise in angiogenesis and increase in capillary density could reflect a regulatory response to reduced cerebral blood perfusion or an effect of brain inflammation, among other potential mechanisms (<xref rid="bpa12897-bib-0059" ref-type="ref">59</xref>).</p><p>One limitation of our study is the focus on only one brain region, namely the frontal cortex. Although amyloid deposits are found early on in the frontal cortex of AD cases (<xref rid="bpa12897-bib-0055" ref-type="ref">55</xref>), neurofibrillary tangles and cortical atrophy occur first and predominantly in limbic structures, such as the hippocampus or the entorhinal cortex (<xref rid="bpa12897-bib-0008" ref-type="ref">8</xref>, <xref rid="bpa12897-bib-0048" ref-type="ref">48</xref>). More advanced AD pathology, including atrophy, might be associated with a different vascular phenotype. However, our study recapitulates the increase in capillary density found by others in the hippocampus or temporal cortex (<xref rid="bpa12897-bib-0004" ref-type="ref">4</xref>, <xref rid="bpa12897-bib-0010" ref-type="ref">10</xref>, <xref rid="bpa12897-bib-0044" ref-type="ref">44</xref>), showing that vascular remodeling is a common feature of AD among different brain regions, including the frontal cortex.</p><p>It is important to note that our results do not imply that pericyte function is intact in AD. CAA affects parenchymal vessels in about one‐third of AD cases (<xref rid="bpa12897-bib-0023" ref-type="ref">23</xref>) and contributes to microhemorrhages and infarcts, having thus a direct impact on vascular function (<xref rid="bpa12897-bib-0019" ref-type="ref">19</xref>, <xref rid="bpa12897-bib-0033" ref-type="ref">33</xref>). Aβ oligomers constrict pericytes in capillaries (<xref rid="bpa12897-bib-0041" ref-type="ref">41</xref>). Vascular amyloid deposition may lead to immune reaction and vasculitis (<xref rid="bpa12897-bib-0049" ref-type="ref">49</xref>), and pericytes actively participate in neuroinflammatory responses through the production of a plethora of chemokines and cytokines (<xref rid="bpa12897-bib-0046" ref-type="ref">46</xref>).</p><p>In conclusion, our study demonstrates that pericyte loss is not a general feature of AD. Methods to isolate pericytes, endothelia, and other vascular cells in the neurovascular niche are rapidly evolving (<xref rid="bpa12897-bib-0060" ref-type="ref">60</xref>) and will shed light on functional changes of pericytes and their contribution to the cascade of neurodegeneration in AD.</p></sec><sec sec-type="COI-statement" id="bpa12897-sec-0017"><title>Conflict of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="bpa12897-sup-0001" position="float" orientation="portrait"><caption><p>Fig S1</p><p>
+<bold>Figure S1. Methods for stereological counting of pericyte density</bold>. Frozen samples of the middle frontal gyrus were provided by the Neurological Foundation Douglas Human Brain Bank in New Zealand. About 60 µm thick slides were stained for PDGFRβ and laminin expression. For assessment of the pericyte density (pericytes in a given tissue volume), we counted pericyte bodies with the optical fractionator. The space ball method was employed for measuring the vascular density (length of vascular segments in a given volume). The pericyte linear density (number of pericytes in a given vascular segment) was inferred from the above measurements.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s001.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bpa12897-sup-0002" position="float" orientation="portrait"><caption><p>Fig S2</p><p>
+<bold>Figure S2. Image processing and analysis of the cleared brain tissue samples</bold>. The cleared samples were imaged with the two‐photon microscope to obtain three different images, corresponding to the Alexa‐647 signal (PDGFRβ), the Alexa‐488 signal (Aβ) or tissue autofluorescence, largely due to lipofuscin deposits in the aged brain tissue. Using Imaris “Channel Extraction” color deconvolution algorithm, the autofluorescence) was subtracted from the Aβ‐immunoreactive image. For PDGFRβ detection, a far‐red fluorochrome was employed, whose emission spectrum did not overlap with the autofluorescence. The PDGFRβ‐immunoreactive signal was enhanced using a rolling contrast enhancing algorithm (CLAHE) using ImageJ. Both PDGFRβ‐immunoreactive and Aβ‐immunoreactive signals were segmented. For the analysis of the vascular network, the segmented images were skeletonized using a custom MATLAB Imaris plugin based on the Skel2Graph3D MATLAB function (<xref rid="bpa12897-bib-0028" ref-type="ref">28</xref>).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s012.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bpa12897-sup-0003" position="float" orientation="portrait"><caption><p>Fig S3</p><p>
+<bold>Figure S3. Neuropathology scores of donors of cleared brain tissue samples</bold>. Boxplots showing <bold>A</bold> the Aβ plaque scores (*<italic toggle="yes">P</italic> = 0.0008, Mann–Whitney <italic toggle="yes">U</italic> test), <bold>B</bold> NFT (Braak) stages (*<italic toggle="yes">P</italic> = 0.0008, Mann–Whitney <italic toggle="yes">U</italic> test), <bold>C</bold> neuritic plaque (CERAD) scores (*<italic toggle="yes">P</italic> = 0.0017, Mann–Whitney U test) and <bold>D</bold> the brain weight (<italic toggle="yes">P</italic> = 0.12, Mann–Whitney <italic toggle="yes">U</italic> test) of donors of cleared brain tissue.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s011.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bpa12897-sup-0004" position="float" orientation="portrait"><caption><p>Fig S4</p><p>
+<bold>Figure S4. PDGFRβ‐CD31 double staining</bold>. Maximum projection (<bold>A</bold>) as well as single confocal slice and orthogonal views (<bold>B</bold>) of a confocal stack of frontal brain tissue double stained for PDGFRβ (pericytes) and CD31 (endothelial cells). The images demonstrate the distinct PDGFRβ‐positive immunoreactivity of pericytes lining endothelia in capillaries. Scalebar: 50 µm.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s013.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bpa12897-sup-0005" position="float" orientation="portrait"><caption><p>Fig S5</p><p>
+<bold>Figure S5. Effect of NFT and CERAD scores on pericyte density in AD subjects</bold>. <bold>A,B</bold> Boxplots represent pericyte density, pericyte linear density, pericyte area coverage of AD subjects stratified along the different scores of the four‐tier NFT classification (<bold>A</bold>) or the neurofibrillary plaque (CERAD) score (<bold>B</bold>).The numbers represent the <italic toggle="yes">P</italic>‐values of the Kruskal–Wallis test followed by post hoc Dunn‐Šidák correction for multiple comparisons. n.p. = not present (no matching cases).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s014.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bpa12897-sup-0006" position="float" orientation="portrait"><caption><p>Fig S6</p><p>
+<bold>Figure S6. Effect of NFT score on vascular density in AD subjects</bold>. Boxplots represent vascular densities of capillaries, intermediate or large vessels of AD subjects stratified along the different scores of the four‐tier NFT classification. The numbers represent the <italic toggle="yes">P</italic>‐values of the Kruskal–Wallis test followed by post hoc Dunn‐Šidák correction for multiple comparisons. n.p. = not present (no matching cases).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s002.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bpa12897-sup-0007" position="float" orientation="portrait"><caption><p>Fig S7</p><p>
+<bold>Figure S7. Effect of CERAD score on vascular density in AD subjects</bold>. Boxplots represent vascular densities of capillaries, intermediate or large vessels of AD subjects stratified along the different CERAD scores. The numbers represent the <italic toggle="yes">P</italic>‐values of the Kruskal–Wallis test followed by post hoc Dunn‐Šidák correction for multiple comparisons. Intermediate vessels display a higher density in AD subjects with CERAD score of 3 compared to 2. n.p. = not present (no matching cases).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s003.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bpa12897-sup-0008" position="float" orientation="portrait"><caption><p>Fig S8</p><p>
+<bold>Figure S8. Analysis of non‐demented subjects with AD‐like pathology</bold>. Boxplots display pericyte density (<bold>A</bold>), pericyte linear density (<bold>B</bold>), pericyte area coverage (<bold>C</bold>) and vascular density (<bold>D</bold>) in control subjects with negligible Aβ immunoreactivity, non‐demented subjects with Aβ immunoreactivity and AD cases. The numbers represent the <italic toggle="yes">P</italic>‐values of the Kruskal–Wallis test followed by post hoc Dunn‐Šidák correction for multiple comparisons.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s004.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bpa12897-sup-0009" position="float" orientation="portrait"><caption><p>Fig S9</p><p>
+<bold>Figure S9. Effect of APOE genotype on total and vascular Aβ load</bold>. Boxplots display total (<bold>A</bold>) or vascular Aβ load (<bold>B</bold>) of subjects stratified along the APOE genotype for the control and AD groups. Numbers represent the <italic toggle="yes">P</italic>‐values of the Kruskal–Wallis test followed by post hoc Dunn‐Šidák correction for multiple comparisons (A) or of the Mann–Whitney <italic toggle="yes">U</italic> Test (B).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s005.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bpa12897-sup-0010" position="float" orientation="portrait"><caption><p>Fig S10</p><p>
+<bold>Figure S10. Effect of APOE genotype on pericyte and vascular densities</bold>. Boxplots display pericyte density (<bold>A</bold>), pericyte linear density (<bold>B</bold>), pericyte area coverage (<bold>C</bold>) and vascular density (<bold>D</bold>) of subjects stratified along the APOE genotype for the control and AD groups. Numbers represent the <italic toggle="yes">P</italic>‐values of the Kruskal–Wallis test followed by post hoc Dunn‐Šidák correction for multiple comparisons.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s006.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bpa12897-sup-0011" position="float" orientation="portrait"><caption><p>Fig S11</p><p>
+<bold>Figure S11. Aβ load in cleared brain tissue samples</bold>. <bold>A</bold> Boxplots display the fraction of tissue volume occupied by Aβ immunoreactivity (Aβ load) in control and AD subjects. *<italic toggle="yes">P</italic> = 0.0017, Mann–Whitney <italic toggle="yes">U</italic> Test. <bold>B</bold> Aβ load in subjects stratified by clinical diagnosis and APOE genotype. The number represents the <italic toggle="yes">P</italic>‐values of the of the Kruskal–Wallis test followed by post hoc Dunn‐Šidák correction for multiple comparisons.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s007.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bpa12897-sup-0012" position="float" orientation="portrait"><caption><p>Fig S12</p><p>
+<bold>Figure S12. PDGFRβ‐immunoreactive vascular density contrasted by APOE Genotype and neuropathological scores</bold>. Boxplots display the density of PDGFRβ‐immunoreactive vessels in control and AD subjects stratified by APOE genotype (<bold>A</bold>), Aβ plaque score (<bold>B</bold>), NFT stage (Braak) stage (<bold>C</bold>) or neuritic plaque (CERAD) score (<bold>D</bold>). No significant differences were found (A: <italic toggle="yes">P</italic> = 0.58, <italic toggle="yes">P</italic> = 0.67, <italic toggle="yes">P</italic> = 0.51, <italic toggle="yes">P</italic> = 0.50, respectively; Kruskal–Wallis test). n.p. = not present (no matching cases).</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s008.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bpa12897-sup-0013" position="float" orientation="portrait"><caption><p>Supplementary Material</p><p>
+<bold>Movie S1. 3D‐reconstruction of the cortical volume of a non‐demented control, showing the orthogonal slicing of the sample.</bold> PDGFRβ‐immunoreactivity is displayed in red pseudocolor. Green‐pseudocolored signal at the surface of the piece of tissue represents autofluorescent debris. Scale bar: 500 µm.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s009.mp4" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bpa12897-sup-0014" position="float" orientation="portrait"><caption><p>Supplementary Material</p><p>
+<bold>Movie S2. 3D‐reconstruction of the cortical volume of an AD case, showing the orthogonal slicing of the sample.</bold> PDGFRβ‐immunoreactivity is displayed in red, Aβ plaques in green pseudocolor. Green‐pseudocolored signal at the surface of the piece of tissue represents autofluorescent debris. Scale bar: 500 µm.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BPA-30-1071-s010.mp4" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bpa12897-sec-0016"><title>Acknowledgments</title><p>This work was supported by grants from the German Research Foundation (SFB/TRR 167). Open access funding enabled and organized by Projekt DEAL.</p><p>[Correction added on October 1, 2020, after first online publication: Projekt Deal funding statement has been added.]</p></ack><sec sec-type="data-availability" id="bpa12897-sec-0019"><title>Data Availability Statement</title><p>The data that support the findings of this study are available on request from the corresponding authors. The data are not publicly available due to privacy or ethical restrictions.</p></sec><ref-list content-type="cited-references" id="bpa12897-bibl-0001"><title>References</title><ref id="bpa12897-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="bpa12897-cit-0001">
+<string-name name-style="western">
+<surname>Armulik</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Genové</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Betsholtz</surname>
+<given-names>C</given-names>
+</string-name> (<year>2011</year>) <article-title>Pericytes: developmental, physiological, and pathological perspectives, problems, and promises</article-title>. <source xml:lang="en">Dev Cell</source>
+<volume>21</volume>:<fpage>193</fpage>–<lpage>215</lpage>.<pub-id pub-id-type="pmid">21839917</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.devcel.2011.07.001</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="bpa12897-cit-0002">
+<string-name name-style="western">
+<surname>Armulik</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Genové</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mäe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nisancioglu</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wallgard</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niaudet</surname>
+<given-names>C</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2010</year>) <article-title>Pericytes regulate the blood‐brain barrier</article-title>. <source xml:lang="en">Nature</source>
+<volume>468</volume>:<fpage>557</fpage>–<lpage>561</lpage>.<pub-id pub-id-type="pmid">20944627</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature09522</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="bpa12897-cit-0003">
+<string-name name-style="western">
+<surname>Baloyannis</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baloyannis</surname>
+<given-names>IS</given-names>
+</string-name> (<year>2012</year>) <article-title>The vascular factor in Alzheimer's disease: a study in Golgi technique and electron microscopy</article-title>. <source xml:lang="en">J Neurol Sci</source>
+<volume>322</volume>:<fpage>117</fpage>–<lpage>121</lpage>.<pub-id pub-id-type="pmid">22857991</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jns.2012.07.010</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="bpa12897-cit-0004">
+<string-name name-style="western">
+<surname>Bell</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ball</surname>
+<given-names>MJ</given-names>
+</string-name> (<year>1981</year>) <article-title>Morphometric comparison of hippocampal microvasculature in ageing and demented people: diameters and densities</article-title>. <source xml:lang="en">Acta Neuropathol</source>
+<volume>53</volume>:<fpage>299</fpage>–<lpage>318</lpage>.<pub-id pub-id-type="pmid">7223373</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF00690372</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="bpa12897-cit-0005">
+<string-name name-style="western">
+<surname>Bell</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winkler</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sagare</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Singh</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Larue</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deane</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zlokovic</surname>
+<given-names>BV</given-names>
+</string-name> (<year>2010</year>) <article-title>Pericytes control key neurovascular functions and neuronal phenotype in the adult brain and during brain aging</article-title>. <source xml:lang="en">Neuron</source>
+<volume>68</volume>:<fpage>409</fpage>–<lpage>427</lpage>.<pub-id pub-id-type="pmid">21040844</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuron.2010.09.043</pub-id><pub-id pub-id-type="pmcid">PMC3056408</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="bpa12897-cit-0006">
+<string-name name-style="western">
+<surname>Bennett</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robbins</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Betensky</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clark</surname>
+<given-names>T</given-names>
+</string-name>v <year>2018</year>) <article-title>Tau induces blood vessel abnormalities and angiogenesis‐related gene expression in P301L transgenic mice and human Alzheimer's disease</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>
+<volume>115</volume>:<fpage>E1289</fpage>–<lpage>E1298</lpage>.<pub-id pub-id-type="pmid">29358399</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1710329115</pub-id><pub-id pub-id-type="pmcid">PMC5819390</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="bpa12897-cit-0007">
+<string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alafuzoff</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arzberger</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kretzschmar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Tredici</surname>
+<given-names>K</given-names>
+</string-name> (<year>2006</year>) <article-title>Staging of Alzheimer disease‐associated neurofibrillary pathology using paraffin sections and immunocytochemistry</article-title>. <source xml:lang="en">Acta Neuropathologica</source>
+<volume>112</volume>:<fpage>389</fpage>–<lpage>404</lpage>.<pub-id pub-id-type="pmid">16906426</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00401-006-0127-z</pub-id><pub-id pub-id-type="pmcid">PMC3906709</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="bpa12897-cit-0008">
+<string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Braak</surname>
+<given-names>E</given-names>
+</string-name> (<year>1991</year>) <article-title>Neuropathological stageing of Alzheimer‐related changes</article-title>. <source xml:lang="en">Acta Neuropathol</source>
+<volume>82</volume>:<fpage>239</fpage>–<lpage>259</lpage>.<pub-id pub-id-type="pmid">1759558</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF00308809</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="bpa12897-cit-0009">
+<string-name name-style="western">
+<surname>Bruinsma</surname>
+<given-names>IB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilhelmus</surname>
+<given-names>MMM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kox</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Veerhuis</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Waal</surname>
+<given-names>RMW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verbeek</surname>
+<given-names>MM</given-names>
+</string-name> (<year>2010</year>) <article-title>Apolipoprotein E protects cultured pericytes and astrocytes from D‐Abeta(1–40)‐mediated cell death</article-title>. <source xml:lang="en">Brain Res</source>
+<volume>1315</volume>:<fpage>169</fpage>–<lpage>180</lpage>.<pub-id pub-id-type="pmid">20034483</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.brainres.2009.12.039</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="bpa12897-cit-0010">
+<string-name name-style="western">
+<surname>Burke</surname>
+<given-names>MJC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nelson</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Slade</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oakley</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khundakar</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalaria</surname>
+<given-names>RN</given-names>
+</string-name> (<year>2014</year>) <article-title>Morphometry of the hippocampal microvasculature in post‐stroke and age‐related dementias</article-title>. <source xml:lang="en">Neuropathol Appl Neurobiol</source>
+<volume>40</volume>:<fpage>284</fpage>–<lpage>295</lpage>.<pub-id pub-id-type="pmid">24003901</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/nan.12085</pub-id><pub-id pub-id-type="pmcid">PMC4282329</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="bpa12897-cit-0011">
+<string-name name-style="western">
+<surname>Chakraborty</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kamermans</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van het Hof</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Castricum</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aanhane</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Horssen</surname>
+<given-names>J</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2018</year>) <article-title>Angiopoietin like‐4 as a novel vascular mediator in capillary cerebral amyloid angiopathy</article-title>. <source xml:lang="en">Brain</source>
+<volume>141</volume>:<fpage>3377</fpage>–<lpage>3388</lpage>.<pub-id pub-id-type="pmid">30462206</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awy274</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="bpa12897-cit-0012">
+<string-name name-style="western">
+<surname>Chung</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wallace</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>S‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalyanasundaram</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andalman</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davidson</surname>
+<given-names>TJ</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2013</year>) <article-title>Structural and molecular interrogation of intact biological systems</article-title>. <source xml:lang="en">Nature</source>
+<volume>497</volume>:<fpage>332</fpage>–<lpage>337</lpage>.<pub-id pub-id-type="pmid">23575631</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature12107</pub-id><pub-id pub-id-type="pmcid">PMC4092167</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="bpa12897-cit-0013">
+<string-name name-style="western">
+<surname>Costantini</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ghobril</surname>
+<given-names>J‐P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Giovanna</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mascaro</surname>
+<given-names>ALA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silvestri</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Müllenbroich</surname>
+<given-names>MC</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>A versatile clearing agent for multi‐modal brain imaging</article-title>. <source xml:lang="en">Sci Rep</source>
+<volume>5</volume>:<fpage>168</fpage>–<lpage>169</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/srep09808</pub-id><pub-id pub-id-type="pmcid">PMC4423470</pub-id><pub-id pub-id-type="pmid">25950610</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="bpa12897-cit-0014">
+<string-name name-style="western">
+<surname>Daneman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kebede</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barres</surname>
+<given-names>BA</given-names>
+</string-name> (<year>2010</year>) <article-title>Pericytes are required for blood‐brain barrier integrity during embryogenesis</article-title>. <source xml:lang="en">Nature</source>
+<volume>468</volume>:<fpage>562</fpage>–<lpage>566</lpage>.<pub-id pub-id-type="pmid">20944625</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature09513</pub-id><pub-id pub-id-type="pmcid">PMC3241506</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="bpa12897-cit-0015">
+<string-name name-style="western">
+<surname>Farkas</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Jong</surname>
+<given-names>GI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Vos</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jansen Steur</surname>
+<given-names>EN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luiten</surname>
+<given-names>PG</given-names>
+</string-name> (<year>2000</year>) <article-title>Pathological features of cerebral cortical capillaries are doubled in Alzheimer&amp;apos;s disease and Parkinson&amp;apos;s disease</article-title>. <source xml:lang="en">Acta Neuropathol</source>
+<volume>100</volume>:<fpage>395</fpage>–<lpage>402</lpage>.<pub-id pub-id-type="pmid">10985698</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s004010000195</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="bpa12897-cit-0016">
+<string-name name-style="western">
+<surname>Fernández‐Klett</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Offenhauser</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dirnagl</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Priller</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lindauer</surname>
+<given-names>U</given-names>
+</string-name> (<year>2010</year>) <article-title>Pericytes in capillaries are contractile in vivo, but arterioles mediate functional hyperemia in the mouse brain</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>
+<volume>107</volume>:<fpage>22290</fpage>–<lpage>22295</lpage>.<pub-id pub-id-type="pmid">21135230</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1011321108</pub-id><pub-id pub-id-type="pmcid">PMC3009761</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="bpa12897-cit-0017">
+<string-name name-style="western">
+<surname>Fernández‐Klett</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Potas</surname>
+<given-names>JRJR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hilpert</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blazej</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Radke</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huck</surname>
+<given-names>J</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2013</year>) <article-title>Early loss of pericytes and perivascular stromal cell‐induced scar formation after stroke</article-title>. <source xml:lang="en">J Cereb Blood Flow Metab</source>
+<volume>33</volume>:<fpage>428</fpage>–<lpage>439</lpage>.<pub-id pub-id-type="pmid">23250106</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/jcbfm.2012.187</pub-id><pub-id pub-id-type="pmcid">PMC3587816</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="bpa12897-cit-0018">
+<string-name name-style="western">
+<surname>Gioia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vogt</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Freeman</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flood</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vogt</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vrana</surname>
+<given-names>KE</given-names>
+</string-name> (<year>1998</year>) <article-title>PCR‐based apolipoprotein E genotype analysis from archival fixed brain</article-title>. <source xml:lang="en">J Neurosci Methods</source>
+<volume>80</volume>:<fpage>209</fpage>–<lpage>214</lpage>.<pub-id pub-id-type="pmid">9667394</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0165-0270(98)00002-8</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="bpa12897-cit-0019">
+<string-name name-style="western">
+<surname>Greenberg</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vernooij</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cordonnier</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Viswanathan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Shahi Salman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warach</surname>
+<given-names>S</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2009</year>) <article-title>Cerebral microbleeds: a guide to detection and interpretation</article-title>. <source xml:lang="en">Lancet Neurol</source>
+<volume>8</volume>:<fpage>165</fpage>–<lpage>174</lpage>.<pub-id pub-id-type="pmid">19161908</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(09)70013-4</pub-id><pub-id pub-id-type="pmcid">PMC3414436</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="bpa12897-cit-0020">
+<string-name name-style="western">
+<surname>Hall</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reynell</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gesslein</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hamilton</surname>
+<given-names>NB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mishra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sutherland</surname>
+<given-names>BA</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2014</year>) <article-title>Capillary pericytes regulate cerebral blood flow in health and disease</article-title>. <source xml:lang="en">Nature</source>
+<volume>508</volume>:<fpage>55</fpage>–<lpage>60</lpage>.<pub-id pub-id-type="pmid">24670647</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature13165</pub-id><pub-id pub-id-type="pmcid">PMC3976267</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="bpa12897-cit-0021">
+<string-name name-style="western">
+<surname>Halliday</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rege</surname>
+<given-names>SV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winkler</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zlokovic</surname>
+<given-names>BV</given-names>
+</string-name> (<year>2015</year>) <article-title>Accelerated pericyte degeneration and blood–brain barrier breakdown in apolipoprotein E4 carriers with Alzheimer's disease</article-title>. <source xml:lang="en">J Cereb Blood Flow Metab</source>
+<volume>36</volume>:<fpage>216</fpage>–<lpage>227</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/jcbfm.2015.44</pub-id><pub-id pub-id-type="pmcid">PMC4758554</pub-id><pub-id pub-id-type="pmid">25757756</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="bpa12897-cit-0022">
+<string-name name-style="western">
+<surname>Hase</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ding</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harrison</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hawthorne</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>King</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gettings</surname>
+<given-names>S</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2019</year>) <article-title>White matter capillaries in vascular and neurodegenerative dementias</article-title>. <source xml:lang="en">Acta Neuropathol Com</source>
+<volume>7</volume>:<fpage>1</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40478-019-0666-x</pub-id><pub-id pub-id-type="pmcid">PMC6366070</pub-id><pub-id pub-id-type="pmid">30732655</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="bpa12897-cit-0023">
+<string-name name-style="western">
+<surname>Hecht</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krämer</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>von Arnim</surname>
+<given-names>CAF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Otto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thal</surname>
+<given-names>DR</given-names>
+</string-name> (<year>2018</year>) <article-title>Capillary cerebral amyloid angiopathy in Alzheimer's disease: association with allocortical/hippocampal microinfarcts and cognitive decline</article-title>. <source xml:lang="en">Acta Neuropathol</source>
+<volume>135</volume>:<fpage>681</fpage>–<lpage>694</lpage>.<pub-id pub-id-type="pmid">29574591</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00401-018-1834-y</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="bpa12897-cit-0024">
+<string-name name-style="western">
+<surname>Hill</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tong</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yuan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murikinati</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grutzendler</surname>
+<given-names>J</given-names>
+</string-name> (<year>2015</year>) <article-title>Regional blood flow in the normal and ischemic brain is controlled by arteriolar smooth muscle cell contractility and not by capillary pericytes</article-title>. <source xml:lang="en">Neuron</source>
+<volume>87</volume>:<fpage>95</fpage>–<lpage>110</lpage>.<pub-id pub-id-type="pmid">26119027</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuron.2015.06.001</pub-id><pub-id pub-id-type="pmcid">PMC4487786</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0025"><label>25</label><mixed-citation publication-type="book" id="bpa12897-cit-0025">
+<string-name name-style="western">
+<surname>Howard</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reed</surname>
+<given-names>M</given-names>
+</string-name> (<year>2004</year>) <source xml:lang="en">Unbiased Stereology</source>. <publisher-loc>Oxon, UK</publisher-loc>
+<publisher-name>Garland Science/BIOS Scientific</publisher-name>.</mixed-citation></ref><ref id="bpa12897-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="bpa12897-cit-0026">
+<string-name name-style="western">
+<surname>Hyman</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phelps</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bigio</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cairns</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carrillo</surname>
+<given-names>MC</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2012</year>) <article-title>National Institute on Aging–Alzheimer“s Association guidelines for the neuropathologic assessment of Alzheimer”s disease</article-title>. <source xml:lang="en">Alzheimer's &amp; Dementia</source>
+<volume>8</volume>:<fpage>1</fpage>–<lpage>13</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2011.10.007</pub-id><pub-id pub-id-type="pmcid">PMC3266529</pub-id><pub-id pub-id-type="pmid">22265587</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="bpa12897-cit-0027">
+<string-name name-style="western">
+<surname>Keuker</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vollmann‐Honsdorf</surname>
+<given-names>GK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fuchs</surname>
+<given-names>E</given-names>
+</string-name> (<year>2001</year>) <article-title>How to use the optical fractionator: an example based on the estimation of neurons in the hippocampal CA1 and CA3 regions of tree shrews</article-title>. <source xml:lang="en">Brain Res Protoc</source>
+<volume>7</volume>:<fpage>211</fpage>–<lpage>221</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1385-299x(01)00064-2</pub-id><pub-id pub-id-type="pmid">11431122</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="bpa12897-cit-0028">
+<string-name name-style="western">
+<surname>Kollmannsberger</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kerschnitzki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Repp</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wagermaier</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weinkamer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fratzl</surname>
+<given-names>P</given-names>
+</string-name> (<year>2017</year>) <article-title>The small world of osteocytes: connectomics of the lacuno‐canalicular network in bone</article-title>. <source xml:lang="en">New J Phys</source>
+<volume>19</volume>:<elocation-id>073019</elocation-id>.</mixed-citation></ref><ref id="bpa12897-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="bpa12897-cit-0029">
+<string-name name-style="western">
+<surname>Kreczmanski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmidt‐Kastner</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heinsen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steinbusch</surname>
+<given-names>HWM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hof</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmitz</surname>
+<given-names>C</given-names>
+</string-name> (<year>2005</year>) <article-title>Stereological studies of capillary length density in the frontal cortex of schizophrenics</article-title>. <source xml:lang="en">Acta Neuropathol</source>
+<volume>109</volume>:<fpage>510</fpage>–<lpage>518</lpage>.<pub-id pub-id-type="pmid">15886994</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00401-005-1003-y</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="bpa12897-cit-0030">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsu</surname>
+<given-names>H‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mountz</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Allen</surname>
+<given-names>JG</given-names>
+</string-name> (<year>2018</year>) <article-title>Unmasking Fucosylation: from Cell Adhesion to Immune System Regulation and Diseases</article-title>. <source xml:lang="en">Cell Chemical Biology</source>
+<volume>25</volume>:<fpage>499</fpage>–<lpage>512</lpage>.<pub-id pub-id-type="pmid">29526711</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.chembiol.2018.02.005</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="bpa12897-cit-0031">
+<string-name name-style="western">
+<surname>Lindahl</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johansson</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levéen</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Betsholtz</surname>
+<given-names>C</given-names>
+</string-name>. (<year>1997</year>) <article-title>Pericyte loss and microaneurism formation in PDGF‐B-deficient mice</article-title>. <source xml:lang="en">Science</source>
+<volume>277</volume>:<fpage>242</fpage>–<lpage>245</lpage>.<pub-id pub-id-type="pmid">9211853</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.277.5323.242</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="bpa12897-cit-0032">
+<string-name name-style="western">
+<surname>Ma</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sagare</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Owens</surname>
+<given-names>NC</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2018</year>) <article-title>Blood‐brain barrier‐associated pericytes internalize and clear aggregated amyloid‐β42 by LRP1‐dependent apolipoprotein E isoform‐specific mechanism</article-title>. <source xml:lang="en">Mol Neurodegener</source>
+<volume>13</volume>:<fpage>57</fpage>–<lpage>13</lpage>.<pub-id pub-id-type="pmid">30340601</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13024-018-0286-0</pub-id><pub-id pub-id-type="pmcid">PMC6194676</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="bpa12897-cit-0033">
+<string-name name-style="western">
+<surname>Mandybur</surname>
+<given-names>TI</given-names>
+</string-name> (<year>1986</year>) <article-title>Cerebral amyloid angiopathy: the vascular pathology and complications</article-title>. <source xml:lang="en">J Neuropathol Exp Neurol</source>
+<volume>45</volume>:<fpage>79</fpage>–<lpage>90</lpage>.<pub-id pub-id-type="pmid">3941328</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="bpa12897-cit-0034">
+<string-name name-style="western">
+<surname>Meier‐Ruge</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ulrich</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stähelin</surname>
+<given-names>HB</given-names>
+</string-name> (<year>1985</year>) <article-title>Morphometric investigation of nerve cells, neuropil and senile plaques in senile dementia of the Alzheimer type</article-title>. <source xml:lang="en">Arch Gerontol Geriatr</source>
+<volume>4</volume>:<fpage>219</fpage>–<lpage>229</lpage>.<pub-id pub-id-type="pmid">4074021</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0167-4943(85)90004-4</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="bpa12897-cit-0035">
+<string-name name-style="western">
+<surname>Miners</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schulz</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Love</surname>
+<given-names>S</given-names>
+</string-name> (<year>2017</year>) <article-title>Differing associations between Aβ accumulation, hypoperfusion, blood–brain barrier dysfunction and loss of PDGFRB pericyte marker in the precuneus and parietal white matter in Alzheimer's disease</article-title>. <source xml:lang="en">J Cereb Blood Flow Metab</source>
+<volume>38</volume>:<fpage>103</fpage>–<lpage>115</lpage>.<pub-id pub-id-type="pmid">28151041</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0271678X17690761</pub-id><pub-id pub-id-type="pmcid">PMC5757436</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="bpa12897-cit-0036">
+<string-name name-style="western">
+<surname>Mirra</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heyman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McKeel</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sumi</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crain</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brownlee</surname>
+<given-names>LM</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>1991</year>) <article-title>The Consortium to Establish a Registry for Alzheimer“s Disease (CERAD). Part II. Standardization of the neuropathologic assessment of Alzheimer”s disease</article-title>. <source xml:lang="en">Neurology</source>
+<volume>41</volume>:<fpage>479</fpage>–<lpage>486</lpage>.<pub-id pub-id-type="pmid">2011243</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.41.4.479</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="bpa12897-cit-0037">
+<string-name name-style="western">
+<surname>Montagne</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nation</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sagare</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barisano</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sweeney</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chakhoyan</surname>
+<given-names>A</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2020</year>) <article-title>APOE4 leads to blood–brain barrier dysfunction predicting cognitive decline</article-title>. <source xml:lang="en">Nature</source>
+<volume>581</volume>:<fpage>71</fpage>–<lpage>76</lpage>.<pub-id pub-id-type="pmid">32376954</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-020-2247-3</pub-id><pub-id pub-id-type="pmcid">PMC7250000</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="bpa12897-cit-0038">
+<string-name name-style="western">
+<surname>Montagne</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nikolakopoulou</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sagare</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Si</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lazic</surname>
+<given-names>D</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2018</year>) <article-title>Pericyte degeneration causes white matter dysfunction in the mouse central nervous system</article-title>. <source xml:lang="en">Nat Med</source>
+<volume>24</volume>:<fpage>326</fpage>–<lpage>337</lpage>.<pub-id pub-id-type="pmid">29400711</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nm.4482</pub-id><pub-id pub-id-type="pmcid">PMC5840035</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC11036445"/></mixed-citation></ref><ref id="bpa12897-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="bpa12897-cit-0039">
+<string-name name-style="western">
+<surname>Mouton</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gokhale</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ward</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>West</surname>
+<given-names>MJ</given-names>
+</string-name> (<year>2002</year>) <article-title>Stereological length estimation using spherical probes</article-title>. <source xml:lang="en">J Microsc</source>
+<volume>206</volume>:<fpage>54</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">12000563</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1365-2818.2002.01006.x</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="bpa12897-cit-0040">
+<string-name name-style="western">
+<surname>Nikolakopoulou</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Montagne</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kisler</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dai</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huuskonen</surname>
+<given-names>MT</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2019</year>) <article-title>Pericyte loss leads to circulatory failure and pleiotrophin depletion causing neuron loss</article-title>. <source xml:lang="en">Nat Neurosci</source>
+<volume>22</volume>:<fpage>1</fpage>–<lpage>20</lpage>.<pub-id pub-id-type="pmid">31235908</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41593-019-0434-z</pub-id><pub-id pub-id-type="pmcid">PMC6668719</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="bpa12897-cit-0041">
+<string-name name-style="western">
+<surname>Nortley</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Korte</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Izquierdo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hirunpattarasilp</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mishra</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jaunmuktane</surname>
+<given-names>Z</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2019</year>) <article-title>Amyloid β oligomers constrict human capillaries in Alzheimer's disease via signaling to pericytes</article-title>. <source xml:lang="en">Science</source>
+<volume>365</volume>:<elocation-id>eaav9518</elocation-id>.<pub-id pub-id-type="pmid">31221773</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.aav9518.</pub-id><pub-id pub-id-type="pmcid">PMC6658218</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="bpa12897-cit-0042">
+<string-name name-style="western">
+<surname>Pogue</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lukiw</surname>
+<given-names>WJ</given-names>
+</string-name> (<year>2004</year>) <article-title>Angiogenic signaling in Alzheimer's disease</article-title>. <source xml:lang="en">NeuroReport</source>
+<volume>15</volume>:<fpage>1507</fpage>–<lpage>1510</lpage>.<pub-id pub-id-type="pmid">15194884</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/01.wnr.0000130539.39937.1d</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="bpa12897-cit-0043">
+<string-name name-style="western">
+<surname>Querfurth</surname>
+<given-names>HW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>LaFerla</surname>
+<given-names>FM</given-names>
+</string-name> (<year>2010</year>) <article-title>Alzheimer's disease</article-title>. <source xml:lang="en">N Engl J Med</source>
+<volume>362</volume>:<fpage>329</fpage>–<lpage>344</lpage>.<pub-id pub-id-type="pmid">20107219</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMra0909142</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="bpa12897-cit-0044">
+<string-name name-style="western">
+<surname>Richard</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Gool</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoozemans</surname>
+<given-names>JJM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Haastert</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eikelenboom</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rozemuller</surname>
+<given-names>AJM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van de Berg</surname>
+<given-names>WDJ</given-names>
+</string-name> (<year>2010</year>) <article-title>Morphometric changes in the cortical microvascular network in Alzheimer's disease</article-title>. <source xml:lang="en">J Alzheimers Dis</source>
+<volume>22</volume>:<fpage>811</fpage>–<lpage>818</lpage>.<pub-id pub-id-type="pmid">20858968</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-2010-100849</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="bpa12897-cit-0045">
+<string-name name-style="western">
+<surname>Rungta</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chaigneau</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Osmanski</surname>
+<given-names>B‐F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Charpak</surname>
+<given-names>S</given-names>
+</string-name> (<year>2018</year>) <article-title>Vascular compartmentalization of functional hyperemia from the synapse to the pia</article-title>. <source xml:lang="en">Neuron</source>
+<volume>99</volume>:<fpage>362</fpage>–<lpage>375.e4</lpage>.<pub-id pub-id-type="pmid">29937277</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuron.2018.06.012</pub-id><pub-id pub-id-type="pmcid">PMC6069674</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="bpa12897-cit-0046">
+<string-name name-style="western">
+<surname>Rustenhoven</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jansson</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smyth</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dragunow</surname>
+<given-names>M</given-names>
+</string-name> (<year>2017</year>) <article-title>Brain pericytes as mediators of neuroinflammation</article-title>. <source xml:lang="en">Trends Pharmacol Sci</source>
+<volume>38</volume>:<fpage>291</fpage>–<lpage>304</lpage>.<pub-id pub-id-type="pmid">28017362</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tips.2016.12.001</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="bpa12897-cit-0047">
+<string-name name-style="western">
+<surname>Sagare</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bell</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winkler</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramanathan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zlokovic</surname>
+<given-names>BV</given-names>
+</string-name> (<year>2013</year>) <article-title>Pericyte loss influences Alzheimer‐like neurodegeneration in mice</article-title>. <source xml:lang="en">Nat Commun</source>
+<volume>4</volume>:<elocation-id>2932</elocation-id>.<pub-id pub-id-type="pmid">24336108</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/ncomms3932</pub-id><pub-id pub-id-type="pmcid">PMC3945879</pub-id><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="retraction-forward" ext-link-type="pmc" xlink:href="PMC10991248"/></mixed-citation></ref><ref id="bpa12897-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="bpa12897-cit-0048">
+<string-name name-style="western">
+<surname>Scahill</surname>
+<given-names>RI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schott</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stevens</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rossor</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fox</surname>
+<given-names>NC</given-names>
+</string-name> (<year>2002</year>) <article-title>Mapping the evolution of regional atrophy in Alzheimer's disease: Unbiased analysis of fluid‐registered serial MRI</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>
+<volume>99</volume>:<fpage>4703</fpage>–<lpage>4707</lpage>.<pub-id pub-id-type="pmid">11930016</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.052587399</pub-id><pub-id pub-id-type="pmcid">PMC123711</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="bpa12897-cit-0049">
+<string-name name-style="western">
+<surname>Scolding</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joseph</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirby</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mazanti</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gray</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mikol</surname>
+<given-names>J</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2005</year>) <article-title>Abeta‐related angiitis: primary angiitis of the central nervous system associated with cerebral amyloid angiopathy</article-title>. <source xml:lang="en">Brain</source>
+<volume>128</volume>:<fpage>500</fpage>–<lpage>515</lpage>.<pub-id pub-id-type="pmid">15659428</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awh379</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="bpa12897-cit-0050">
+<string-name name-style="western">
+<surname>Sengillo</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winkler</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walker</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sullivan</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zlokovic</surname>
+<given-names>BV</given-names>
+</string-name> (<year>2012</year>) <article-title>Deficiency in mural vascular cells coincides with blood‐brain barrier disruption in Alzheimer's disease</article-title>. <source xml:lang="en">Brain Pathol</source>
+<volume>23</volume>:<fpage>303</fpage>–<lpage>310</lpage>.<pub-id pub-id-type="pmid">23126372</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bpa.12004</pub-id><pub-id pub-id-type="pmcid">PMC3628957</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="bpa12897-cit-0051">
+<string-name name-style="western">
+<surname>Sims</surname>
+<given-names>DE</given-names>
+</string-name> (<year>1986</year>) <article-title>The pericyte—a review</article-title>. <source xml:lang="en">Tissue Cell</source>
+<volume>18</volume>:<fpage>153</fpage>–<lpage>174</lpage>.<pub-id pub-id-type="pmid">3085281</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0040-8166(86)90026-1</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="bpa12897-cit-0052">
+<string-name name-style="western">
+<surname>Stewart</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hayakawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akers</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vinters</surname>
+<given-names>HV</given-names>
+</string-name> (<year>1992</year>) <article-title>A morphometric study of the blood‐brain barrier in Alzheimer's disease</article-title>. <source xml:lang="en">Lab Invest</source>
+<volume>67</volume>:<fpage>734</fpage>–<lpage>742</lpage>.<pub-id pub-id-type="pmid">1460864</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="bpa12897-cit-0053">
+<string-name name-style="western">
+<surname>Tarkowski</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Issa</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sjögren</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wallin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tarkowski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>P</given-names>
+</string-name> (<year>2002</year>) <article-title>Increased intrathecal levels of the angiogenic factors VEGF and TGF‐β in Alzheimer's disease and vascular dementia</article-title>. <source xml:lang="en">Neurobiol Aging</source>
+<volume>23</volume>:<fpage>237</fpage>–<lpage>243</lpage>.<pub-id pub-id-type="pmid">11804709</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0197-4580(01)00285-8</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="bpa12897-cit-0054">
+<string-name name-style="western">
+<surname>Thal</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ghebremedhin</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orantes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wiestler</surname>
+<given-names>OD</given-names>
+</string-name> (<year>2003</year>) <article-title>Vascular pathology in Alzheimer disease: correlation of cerebral amyloid angiopathy and arteriosclerosis/lipohyalinosis with cognitive decline</article-title>. <source xml:lang="en">J Neuropathol Exp Neurol</source>
+<volume>62</volume>:<fpage>1287</fpage>–<lpage>1301</lpage>.<pub-id pub-id-type="pmid">14692704</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jnen/62.12.1287</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="bpa12897-cit-0055">
+<string-name name-style="western">
+<surname>Thal</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rüb</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orantes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name> (<year>2002</year>) <article-title>Phases of A beta‐deposition in the human brain and its relevance for the development of AD</article-title>. <source xml:lang="en">Neurology</source>
+<volume>58</volume>:<fpage>1791</fpage>–<lpage>1800</lpage>.<pub-id pub-id-type="pmid">12084879</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.58.12.1791</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="bpa12897-cit-0056">
+<string-name name-style="western">
+<surname>Thirumangalakudi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samany</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Owoso</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wiskar</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grammas</surname>
+<given-names>P</given-names>
+</string-name> (<year>2006</year>) <article-title>Angiogenic proteins are expressed by brain blood vessels in Alzheimer's disease</article-title>. <source xml:lang="en">J Alzheimers Dis</source>
+<volume>10</volume>:<fpage>111</fpage>–<lpage>118</lpage>.<pub-id pub-id-type="pmid">16988487</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/jad-2006-10114</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="bpa12897-cit-0057">
+<string-name name-style="western">
+<surname>Timmer</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schirris</surname>
+<given-names>TJJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bruinsma</surname>
+<given-names>IB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Otte‐Höller</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Kuppevelt</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Waal</surname>
+<given-names>RMW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verbeek</surname>
+<given-names>MM</given-names>
+</string-name> (<year>2010</year>) <article-title>Aggregation and cytotoxic properties towards cultured cerebrovascular cells of Dutch‐mutated Abeta40 (DAbeta(1–40)) are modulated by sulfate moieties of heparin</article-title>. <source xml:lang="en">Neurosci Res</source>
+<volume>66</volume>:<fpage>380</fpage>–<lpage>389</lpage>.<pub-id pub-id-type="pmid">20036698</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neures.2009.12.012</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="bpa12897-cit-0058">
+<string-name name-style="western">
+<surname>Tomer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ye</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsueh</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name> (<year>2014</year>) <article-title>Advanced CLARITY for rapid and high‐resolution imaging of intact tissues</article-title>. <source xml:lang="en">Nat Protoc</source>
+<volume>9</volume>:<fpage>1682</fpage>–<lpage>1697</lpage>.<pub-id pub-id-type="pmid">24945384</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nprot.2014.123</pub-id><pub-id pub-id-type="pmcid">PMC4096681</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="bpa12897-cit-0059">
+<string-name name-style="western">
+<surname>Vagnucci</surname>
+<given-names>AH</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>WW</given-names>
+</string-name> (<year>2003</year>) <article-title>Alzheimer's disease and angiogenesis</article-title>. <source xml:lang="en">Lancet</source>
+<volume>361</volume>:<fpage>605</fpage>–<lpage>608</lpage>.<pub-id pub-id-type="pmid">12598159</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(03)12521-4</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="bpa12897-cit-0060">
+<string-name name-style="western">
+<surname>Vanlandewijck</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>He</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mäe</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrae</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ando</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Gaudio</surname>
+<given-names>F</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2018</year>) <article-title>A molecular atlas of cell types and zonation in the brain vasculature</article-title>. <source xml:lang="en">Nature</source>
+<volume>554</volume>:<fpage>475</fpage>–<lpage>480</lpage>.<pub-id pub-id-type="pmid">29443965</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature25739</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="bpa12897-cit-0061">
+<string-name name-style="western">
+<surname>Vanlandewijck</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lebouvier</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andaloussi Mäe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nahar</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hornemann</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kenkel</surname>
+<given-names>D</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2015</year>) <article-title>Functional characterization of germline mutations in PDGFB and PDGFRB in primary familial brain calcification</article-title>. <source xml:lang="en">PLoS One</source>
+<volume>10</volume>:<elocation-id>e0143407</elocation-id>.<pub-id pub-id-type="pmid">26599395</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0143407</pub-id><pub-id pub-id-type="pmcid">PMC4658112</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="bpa12897-cit-0062">
+<string-name name-style="western">
+<surname>Verbeek</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Nostrand</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Otte‐Holler</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wesseling</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Waal</surname>
+<given-names>RM</given-names>
+</string-name> (<year>2000</year>) <article-title>Amyloid‐beta-induced degeneration of human brain pericytes is dependent on the apolipoprotein E genotype</article-title>. <source xml:lang="en">Ann N Y Acad Sci</source>
+<volume>903</volume>:<fpage>187</fpage>–<lpage>199</lpage>.<pub-id pub-id-type="pmid">10818507</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1749-6632.2000.tb06368.x</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="bpa12897-cit-0063">
+<string-name name-style="western">
+<surname>Vinters</surname>
+<given-names>HV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Secor</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Read</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frazee</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tomiyasu</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stanley</surname>
+<given-names>TM</given-names>
+</string-name>
+<italic toggle="yes">et al</italic> (<year>2009</year>) <article-title>Microvasculature in brain biopsy specimens from patients with Alzheimer's disease: an immunohistochemical and ultrastructural study</article-title>. <source xml:lang="en">Ultrastruct Pathol</source>
+<volume>18</volume>:<fpage>333</fpage>–<lpage>348</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/01913129409023202</pub-id><pub-id pub-id-type="pmid">8066824</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="bpa12897-cit-0064">
+<string-name name-style="western">
+<surname>Wilhelmus</surname>
+<given-names>MMM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Otte‐Höller</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davis</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Nostrand</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Waal</surname>
+<given-names>RMW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verbeek</surname>
+<given-names>MM</given-names>
+</string-name> (<year>2005</year>) <article-title>Apolipoprotein E genotype regulates amyloid‐beta cytotoxicity</article-title>. <source xml:lang="en">J Neurosci</source>
+<volume>25</volume>:<fpage>3621</fpage>–<lpage>3627</lpage>.<pub-id pub-id-type="pmid">15814793</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.4213-04.2005</pub-id><pub-id pub-id-type="pmcid">PMC6725371</pub-id></mixed-citation></ref><ref id="bpa12897-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="bpa12897-cit-0065">
+<string-name name-style="western">
+<surname>Winkler</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sengillo</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sullivan</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henkel</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Appel</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zlokovic</surname>
+<given-names>BV</given-names>
+</string-name> (<year>2012</year>) <article-title>Blood–spinal cord barrier breakdown and pericyte reductions in amyotrophic lateral sclerosis</article-title>. <source xml:lang="en">Acta Neuropathol</source>
+<volume>125</volume>:<fpage>111</fpage>–<lpage>120</lpage>.<pub-id pub-id-type="pmid">22941226</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00401-012-1039-8</pub-id><pub-id pub-id-type="pmcid">PMC3535352</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

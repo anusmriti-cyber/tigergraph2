@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="RAG Evaluator – Evaluate and benchmark Retrieval-Augmented Generation pipelines with precision.">
+    <title>RAG Evaluator</title>
+    <link rel="icon" href="logo.png" type="image/png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- ===== Particle Canvas Background ===== -->
+    <canvas id="particleCanvas"></canvas>
+
+    <!-- ===== Splash / Hero Screen ===== -->
+    <main id="splashScreen" class="splash">
+
+        <!-- Orbiting rings around logo -->
+        <div class="orbit-container" id="orbitContainer">
+            <div class="orbit orbit--1"></div>
+            <div class="orbit orbit--2"></div>
+            <div class="orbit orbit--3"></div>
+
+            <!-- Logo -->
+            <div class="logo-wrapper" id="logoWrapper">
+                <img src="logo.png" alt="RAG Evaluator Logo" class="logo-img" id="logoImg">
+                <div class="logo-glow"></div>
+            </div>
+        </div>
+
+        <!-- Title -->
+        <h1 class="title" id="mainTitle">
+            <span class="title__word title__word--rag">RAG</span>
+            <span class="title__word title__word--eval">Evaluator</span>
+        </h1>
+
+        <!-- Tagline -->
+        <p class="tagline" id="tagline">Precision benchmarking for intelligent retrieval pipelines</p>
+
+        <!-- Animated underline -->
+        <div class="accent-line" id="accentLine"></div>
+
+        <!-- CTA Button -->
+        <button class="cta-btn" id="ctaBtn" onclick="enterDashboard()">
+            <span class="cta-btn__text">Enter Dashboard</span>
+            <span class="cta-btn__icon">→</span>
+            <div class="cta-btn__shine"></div>
+        </button>
+
+        <!-- Floating metric badges -->
+        <div class="floating-badges">
+            <div class="badge badge--1" id="badge1">
+                <span class="badge__icon">⚡</span>
+                <span class="badge__label">Latency</span>
+            </div>
+            <div class="badge badge--2" id="badge2">
+                <span class="badge__icon">🎯</span>
+                <span class="badge__label">BERTScore</span>
+            </div>
+            <div class="badge badge--3" id="badge3">
+                <span class="badge__icon">📊</span>
+                <span class="badge__label">Metrics</span>
+            </div>
+            <div class="badge badge--4" id="badge4">
+                <span class="badge__icon">🔍</span>
+                <span class="badge__label">Retrieval</span>
+            </div>
+        </div>
+    </main>
+
+    <!-- ===== Dashboard (revealed after splash) ===== -->
+    <section id="dashboardScreen" class="dashboard hidden">
+
+        <!-- Navigation -->
+        <nav class="dashboard__nav" id="dashboardNav">
+            <div class="dashboard__brand">
+                <img src="logo.png" alt="Logo" class="dashboard__logo">
+                <span class="dashboard__name">RAG Evaluator</span>
+            </div>
+            <ul class="dashboard__links">
+                <li>
+                    <a href="#" class="active" id="navDashboard" onclick="switchPage('pageDashboard', this); return false;">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+                        Dashboard
+                    </a>
+                </li>
+                <li>
+                    <a href="#" id="navUpload" onclick="switchPage('pageEvaluate', document.getElementById('navEvaluate')); setTimeout(() => document.getElementById('uploadInline').scrollIntoView({behavior: 'smooth', block: 'center'}), 100); return false;">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line></svg>
+                        Upload Data
+                    </a>
+                </li>
+                <li>
+                    <a href="#" id="navEvaluate" onclick="switchPage('pageEvaluate', this); return false;">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg>
+                        Evaluate
+                    </a>
+                </li>
+                <li>
+                    <a href="#" id="navModels" onclick="switchPage('pageDashboard', document.getElementById('navDashboard')); setTimeout(() => document.getElementById('pipelineSection').scrollIntoView({behavior: 'smooth'}), 100); return false;">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+                        Models
+                    </a>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- Animated Grid Overlay -->
+        <div class="grid-overlay"></div>
+
+        <!-- Main Content -->
+        <div class="dash-content">
+        
+            <!-- PAGE: DASHBOARD (Hero + Pipeline) -->
+            <div id="pageDashboard" class="page-view active">
+
+            <!-- ===== Hero Section ===== -->
+            <section class="hero-section" id="heroSection">
+                <div class="hero-section__left">
+                    <div class="hero-pill">
+                        <span class="hero-pill__icon">🧬</span>
+                        Biomedical Evaluation Platform
+                    </div>
+                    <h1 class="hero-title">
+                        Stop Guessing,<br>
+                        Start <span>Evaluating</span><br>
+                        AI Pipelines
+                    </h1>
+                    <p class="hero-desc">
+                        Enter your biomedical query and get instant AI-powered analysis. Compare retrieval accuracy, measure latency, and evaluate token cost across LLM, RAG, and GraphRAG in seconds.
+                    </p>
+                    <button class="hero-btn" onclick="switchPage('pageEvaluate', document.getElementById('navEvaluate'))">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="7 10 12 15 17 10"></polyline>
+                            <line x1="12" y1="15" x2="12" y2="3"></line>
+                        </svg>
+                        Evaluate Your Query
+                    </button>
+                    <div class="hero-features">
+                        <span class="hero-feature"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--cyan)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg> Precision Metrics</span>
+                        <span class="hero-feature"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--cyan)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg> Instant Analysis</span>
+                        <span class="hero-feature"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--cyan)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg> Transparent Scoring</span>
+                    </div>
+                </div>
+                <div class="hero-section__right">
+                    <div class="hero-image-container">
+                        <div class="hero-image-glow"></div>
+                        <div class="hero-image-wrapper">
+                            <img src="pipeline.jpg" alt="RAG vs Graph Architecture" class="hero-image" onerror="this.src='https://via.placeholder.com/600x500/06060e/00f0ff?text=Place+pipeline.jpg+Here'">
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ===== Pipeline Working Section ===== -->
+            <section class="pipeline-section" id="pipelineSection">
+                <h2 class="section-title" style="justify-content: center;">
+                    <span class="section-title__icon">⚙️</span>
+                    How The Comparison Works
+                </h2>
+                <p class="section-subtitle" style="text-align: center; margin-bottom: 2rem;">Simultaneous evaluation across three distinct architectural paths</p>
+                
+                <div class="pipeline-flow">
+                    <div class="pipeline-node pipeline-node--llm">
+                        <div class="pipeline-node__icon">🤖</div>
+                        <h3>1. LLM-Only</h3>
+                        <p>Baseline parametric memory without external retrieval.</p>
+                    </div>
+                    <svg class="pipeline-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                    <div class="pipeline-node pipeline-node--rag">
+                        <div class="pipeline-node__icon">🔍</div>
+                        <h3>2. Standard RAG</h3>
+                        <p>Vector database retrieval for augmented context generation.</p>
+                    </div>
+                    <svg class="pipeline-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                    <div class="pipeline-node pipeline-node--graph">
+                        <div class="pipeline-node__icon">🕸️</div>
+                        <h3>3. GraphRAG</h3>
+                        <p>Knowledge graph traversal for deep entity relationships.</p>
+                    </div>
+                </div>
+            </section>
+            
+            </div> <!-- End pageDashboard -->
+
+            <!-- PAGE: EVALUATE (Query + Charts) -->
+            <div id="pageEvaluate" class="page-view" style="display: none;">
+
+            <!-- Wrapper to hide the Comparison Dashboard initially (No longer needed since it's on a separate page, but keeping div structure) -->
+            <div id="comparisonDashboardWrapper">
+            
+                <div class="section-divider">
+                    <span>COMPARISON DASHBOARD</span>
+                </div>
+
+                <!-- ===== Query Section ===== -->
+            <section class="query-section" id="querySection">
+                <div class="query-section__header">
+                    <h2 class="section-title">
+                        <span class="section-title__icon">🔬</span>
+                        Query
+                    </h2>
+                    <p class="section-subtitle">Enter a biomedical research query to compare all three RAG pipelines side-by-side</p>
+                </div>
+
+                <div class="query-box" id="queryBox">
+                    <div class="query-box__input-wrap">
+                        <svg class="query-box__search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                        </svg>
+                        <input
+                            type="text"
+                            id="queryInput"
+                            class="query-box__input"
+                            placeholder="e.g., What are the mechanisms of CRISPR-Cas9 gene editing in oncology?"
+                            autocomplete="off"
+                        >
+                        <button class="query-box__btn" id="queryBtn" onclick="submitQuery()">
+                            <span class="query-box__btn-text">Evaluate</span>
+                            <svg class="query-box__btn-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="5" y1="12" x2="19" y2="12"></line>
+                                <polyline points="12 5 19 12 12 19"></polyline>
+                            </svg>
+                        </button>
+                    </div>
+                    <div class="query-box__tags">
+                        <span class="query-tag" onclick="useExample(this)">CRISPR gene editing mechanisms</span>
+                        <span class="query-tag" onclick="useExample(this)">Alzheimer's disease biomarkers</span>
+                        <span class="query-tag" onclick="useExample(this)">mRNA vaccine technology</span>
+                        <span class="query-tag" onclick="useExample(this)">Drug resistance in cancer therapy</span>
+                    </div>
+
+                    <!-- ===== Inline Upload Data Option ===== -->
+                    <div class="upload-inline" id="uploadInline">
+                        <div class="upload-inline__content">
+                            <svg class="upload-inline__icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                                <polyline points="17 8 12 3 7 8"></polyline>
+                                <line x1="12" y1="3" x2="12" y2="15"></line>
+                            </svg>
+                            <div class="upload-inline__text">
+                                <h4 style="color: #fff; font-weight: 500; font-size: 0.95rem;">Upload Context Data</h4>
+                                <p style="color: var(--text-muted); font-size: 0.8rem; margin-top: 0.2rem;">Drag & drop PDFs, Images, or CSVs here</p>
+                            </div>
+                        </div>
+                        <button class="upload-inline__btn" onclick="alert('Files successfully queued for vectorization!')">
+                            Browse Files
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ===== Loading State ===== -->
+            <div class="loading-overlay hidden" id="loadingOverlay">
+                <div class="loading-spinner">
+                    <div class="spinner-ring"></div>
+                    <div class="spinner-ring spinner-ring--2"></div>
+                    <div class="spinner-ring spinner-ring--3"></div>
+                </div>
+                <p class="loading-text">Evaluating pipelines<span class="loading-dots"></span></p>
+            </div>
+
+            <!-- ===== Pipeline Responses ===== -->
+            <section class="responses-section hidden" id="responsesSection">
+                <h2 class="section-title">
+                    <span class="section-title__icon">💬</span>
+                    Pipeline Responses
+                </h2>
+
+                <div class="responses-grid" id="responsesGrid">
+                    <!-- Pipeline 1: LLM Only -->
+                    <div class="response-card response-card--llm" id="cardLLM">
+                        <div class="response-card__glow"></div>
+                        <div class="response-card__header">
+                            <div class="response-card__badge response-card__badge--llm">
+                                <span class="response-card__badge-dot"></span>
+                                LLM-Only
+                            </div>
+                            <div class="response-card__header-right">
+                                <span class="winner-badge hidden" id="winnerLLM">👑 Best</span>
+                                <span class="response-card__pipeline-tag">Baseline</span>
+                            </div>
+                        </div>
+                        <div class="response-card__body" id="responseLLM">
+                            <p class="response-placeholder">Response will appear here...</p>
+                        </div>
+                        <div class="response-card__footer">
+                            <div class="metric-chip">
+                                <span class="metric-chip__label">Tokens</span>
+                                <span class="metric-chip__value" id="tokensLLM">—</span>
+                            </div>
+                            <div class="metric-chip">
+                                <span class="metric-chip__label">Latency</span>
+                                <span class="metric-chip__value" id="latencyLLM">—</span>
+                            </div>
+                            <div class="metric-chip">
+                                <span class="metric-chip__label">Cost</span>
+                                <span class="metric-chip__value" id="costLLM">—</span>
+                            </div>
+                            <div class="metric-chip">
+                                <span class="metric-chip__label">LLM-as-Judge</span>
+                                <span class="metric-chip__value" id="llmJudgeLLM" style="font-weight: 700;">—</span>
+                            </div>
+                            <div class="metric-chip metric-chip--accent">
+                                <span class="metric-chip__label">BERTScore</span>
+                                <span class="metric-chip__value" id="accuracyLLM">—</span>
+                            </div>
+                            <div class="accuracy-bar-wrap">
+                                <div class="accuracy-bar" id="accuracyBarLLM" style="--bar-width:0%;--bar-color:#3b82f6"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Pipeline 2: Standard RAG -->
+                    <div class="response-card response-card--rag" id="cardRAG">
+                        <div class="response-card__glow"></div>
+                        <div class="response-card__header">
+                            <div class="response-card__badge response-card__badge--rag">
+                                <span class="response-card__badge-dot"></span>
+                                Standard RAG
+                            </div>
+                            <div class="response-card__header-right">
+                                <span class="winner-badge hidden" id="winnerRAG">👑 Best</span>
+                                <span class="response-card__pipeline-tag">Vector Search</span>
+                            </div>
+                        </div>
+                        <div class="response-card__body" id="responseRAG">
+                            <p class="response-placeholder">Response will appear here...</p>
+                        </div>
+                        <div class="response-card__footer">
+                            <div class="metric-chip">
+                                <span class="metric-chip__label">Tokens</span>
+                                <span class="metric-chip__value" id="tokensRAG">—</span>
+                            </div>
+                            <div class="metric-chip">
+                                <span class="metric-chip__label">Latency</span>
+                                <span class="metric-chip__value" id="latencyRAG">—</span>
+                            </div>
+                            <div class="metric-chip">
+                                <span class="metric-chip__label">Cost</span>
+                                <span class="metric-chip__value" id="costRAG">—</span>
+                            </div>
+                            <div class="metric-chip">
+                                <span class="metric-chip__label">LLM-as-Judge</span>
+                                <span class="metric-chip__value" id="llmJudgeRAG" style="font-weight: 700;">—</span>
+                            </div>
+                            <div class="metric-chip metric-chip--accent">
+                                <span class="metric-chip__label">BERTScore</span>
+                                <span class="metric-chip__value" id="accuracyRAG">—</span>
+                            </div>
+                            <div class="accuracy-bar-wrap">
+                                <div class="accuracy-bar" id="accuracyBarRAG" style="--bar-width:0%;--bar-color:#00f0ff"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Pipeline 3: GraphRAG -->
+                    <div class="response-card response-card--graph" id="cardGraph">
+                        <div class="response-card__glow"></div>
+                        <div class="response-card__header">
+                            <div class="response-card__badge response-card__badge--graph">
+                                <span class="response-card__badge-dot"></span>
+                                GraphRAG
+                            </div>
+                            <div class="response-card__header-right">
+                                <span class="winner-badge hidden" id="winnerGraph">👑 Best</span>
+                                <span class="response-card__pipeline-tag">Knowledge Graph</span>
+                            </div>
+                        </div>
+                        <div class="response-card__body" id="responseGraph">
+                            <p class="response-placeholder">Response will appear here...</p>
+                        </div>
+                        <div class="response-card__footer">
+                            <div class="metric-chip">
+                                <span class="metric-chip__label">Tokens</span>
+                                <span class="metric-chip__value" id="tokensGraph">—</span>
+                            </div>
+                            <div class="metric-chip">
+                                <span class="metric-chip__label">Latency</span>
+                                <span class="metric-chip__value" id="latencyGraph">—</span>
+                            </div>
+                            <div class="metric-chip">
+                                <span class="metric-chip__label">Cost</span>
+                                <span class="metric-chip__value" id="costGraph">—</span>
+                            </div>
+                            <div class="metric-chip">
+                                <span class="metric-chip__label">LLM-as-Judge</span>
+                                <span class="metric-chip__value" id="llmJudgeGraph" style="font-weight: 700;">—</span>
+                            </div>
+                            <div class="metric-chip metric-chip--accent">
+                                <span class="metric-chip__label">BERTScore</span>
+                                <span class="metric-chip__value" id="accuracyGraph">—</span>
+                            </div>
+                            <div class="accuracy-bar-wrap">
+                                <div class="accuracy-bar" id="accuracyBarGraph" style="--bar-width:0%;--bar-color:#a855f7"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ===== Verdict Banner ===== -->
+            <div class="verdict-banner hidden" id="verdictBanner">
+                <div class="verdict-banner__glow"></div>
+                <div class="verdict-banner__content">
+                    <span class="verdict-banner__crown">👑</span>
+                    <div class="verdict-banner__text">
+                        <h3 class="verdict-banner__title" id="verdictTitle">GraphRAG Wins!</h3>
+                        <p class="verdict-banner__desc" id="verdictDesc">Highest accuracy with 47% fewer tokens than baseline</p>
+                    </div>
+                    <div class="verdict-banner__score">
+                        <span class="verdict-banner__score-num" id="verdictScore">94%</span>
+                        <span class="verdict-banner__score-label">BERTScore</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ===== Metrics Summary ===== -->
+            <section class="metrics-summary hidden" id="metricsSummary">
+                <h2 class="section-title">
+                    <span class="section-title__icon">📈</span>
+                    Performance Summary
+                </h2>
+
+                <div class="summary-cards">
+                    <div class="summary-stat" id="statBestAccuracy">
+                        <div class="summary-stat__icon">🎯</div>
+                        <div class="summary-stat__info">
+                            <span class="summary-stat__value" id="bestAccuracyValue">—</span>
+                            <span class="summary-stat__label">Best BERTScore</span>
+                        </div>
+                    </div>
+                    <div class="summary-stat" id="statFastest">
+                        <div class="summary-stat__icon">⚡</div>
+                        <div class="summary-stat__info">
+                            <span class="summary-stat__value" id="fastestValue">—</span>
+                            <span class="summary-stat__label">Fastest Pipeline</span>
+                        </div>
+                    </div>
+                    <div class="summary-stat" id="statCheapest">
+                        <div class="summary-stat__icon">💰</div>
+                        <div class="summary-stat__info">
+                            <span class="summary-stat__value" id="cheapestValue">—</span>
+                            <span class="summary-stat__label">Lowest Cost</span>
+                        </div>
+                    </div>
+                    <div class="summary-stat" id="statTokenSaved">
+                        <div class="summary-stat__icon">📊</div>
+                        <div class="summary-stat__info">
+                            <span class="summary-stat__value" id="tokenSavedValue">—</span>
+                            <span class="summary-stat__label">Token Reduction</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ===== Charts Section ===== -->
+            <section class="charts-section hidden" id="chartsSection">
+                <h2 class="section-title">
+                    <span class="section-title__icon">📊</span>
+                    Visual Comparison
+                </h2>
+
+                <div class="charts-grid">
+                    <div class="chart-card chart-card--wide" id="radarChartCard">
+                        <h3 class="chart-card__title">🕸️ Multi-Dimensional Comparison</h3>
+                        <p class="chart-card__subtitle">Radar view of all pipeline metrics (normalized)</p>
+                        <div class="chart-card__canvas-wrap chart-card__canvas-wrap--tall">
+                            <canvas id="radarChart"></canvas>
+                        </div>
+                    </div>
+
+                    <div class="chart-card" id="tokenChartCard">
+                        <h3 class="chart-card__title">Token Usage Comparison</h3>
+                        <p class="chart-card__subtitle">Tokens consumed per pipeline query</p>
+                        <div class="chart-card__canvas-wrap">
+                            <canvas id="tokenChart"></canvas>
+                        </div>
+                    </div>
+
+                    <div class="chart-card" id="accuracyChartCard">
+                        <h3 class="chart-card__title">BERTScore Semantic Similarity</h3>
+                        <p class="chart-card__subtitle">Response similarity to ground truth</p>
+                        <div class="chart-card__canvas-wrap">
+                            <canvas id="accuracyChart"></canvas>
+                        </div>
+                    </div>
+
+                    <div class="chart-card" id="latencyChartCard">
+                        <h3 class="chart-card__title">Latency Benchmark</h3>
+                        <p class="chart-card__subtitle">Response time in milliseconds</p>
+                        <div class="chart-card__canvas-wrap">
+                            <canvas id="latencyChart"></canvas>
+                        </div>
+                    </div>
+
+                    <div class="chart-card" id="costChartCard">
+                        <h3 class="chart-card__title">Cost per Query</h3>
+                        <p class="chart-card__subtitle">Estimated cost in USD</p>
+                        <div class="chart-card__canvas-wrap">
+                            <canvas id="costChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+            <!-- ===== AI Comparative Summary ===== -->
+            <section class="summary-analysis-section hidden" id="summarySection">
+                <h2 class="section-title">
+                    <span class="section-title__icon">🧠</span>
+                    AI Comparative Analysis
+                </h2>
+                <p class="section-subtitle">Groq-powered instant evaluation summary across all three pipelines</p>
+
+                <div class="summary-analysis-card" id="summaryCard">
+                    <div class="summary-analysis-card__glow"></div>
+                    <div class="summary-analysis-card__header">
+                        <div class="summary-analysis-card__badge">
+                            <span class="summary-analysis-card__badge-icon">⚡</span>
+                            Powered by Groq &times; LLaMA 3
+                        </div>
+                        <span class="summary-analysis-card__tag">Real-Time Judge</span>
+                    </div>
+                    <div class="summary-analysis-card__body" id="summaryBody">
+                        <p class="response-placeholder">Summary will appear here after evaluation...</p>
+                    </div>
+                </div>
+            </section>
+
+            </div><!-- /#comparisonDashboardWrapper -->
+            
+            </div> <!-- End pageEvaluate -->
+
+        </div><!-- /.dash-content -->
+    </section>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+    <script src="particles.js"></script>
+    <script src="animations.js"></script>
+    <script src="dashboard.js"></script>
+    <script>
+        function switchPage(pageId, navElement) {
+            // Hide all pages
+            document.querySelectorAll('.page-view').forEach(page => {
+                page.style.display = 'none';
+            });
+            
+            // Show the target page
+            const targetPage = document.getElementById(pageId);
+            if(targetPage) {
+                targetPage.style.display = 'block';
+                // Reset scroll to top
+                window.scrollTo(0,0);
+            }
+
+            // Update nav links active state
+            if (navElement) {
+                document.querySelectorAll('.dashboard__links a').forEach(link => {
+                    link.classList.remove('active');
+                });
+                navElement.classList.add('active');
+            }
+        }
+    </script>
+</body>
+</html>

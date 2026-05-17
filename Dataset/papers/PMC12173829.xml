@@ -1,0 +1,609 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz70258" xml:lang="en" article-type="other" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12173829</article-id><article-id pub-id-type="pmcid-ver">PMC12173829.1</article-id><article-id pub-id-type="pmcaid">12173829</article-id><article-id pub-id-type="pmcaiid">12173829</article-id><article-id pub-id-type="pmid">40528298</article-id><article-id pub-id-type="doi">10.1002/alz.70258</article-id><article-id pub-id-type="publisher-id">ALZ70258</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Perspective</subject></subj-group><subj-group subj-group-type="heading"><subject>Perspective</subject></subj-group></article-categories><title-group><article-title>Current advances and unmet needs in Alzheimer's disease trials for individuals with Down syndrome: Navigating new therapeutic frontiers</article-title><alt-title alt-title-type="left-running-head">BARROETA <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz70258-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Barroeta</surname><given-names initials="I">Isabel</given-names></name><xref rid="alz70258-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70258-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>ibarroeta@santpau.cat</email></address></contrib><contrib id="alz70258-cr-0002" contrib-type="author"><name name-style="western"><surname>Videla</surname><given-names initials="L">Laura</given-names></name><xref rid="alz70258-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70258-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70258-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70258-cr-0003" contrib-type="author"><name name-style="western"><surname>Carmona‐Iragui</surname><given-names initials="M">María</given-names></name><xref rid="alz70258-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70258-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70258-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70258-cr-0004" contrib-type="author"><name name-style="western"><surname>Fortea</surname><given-names initials="J">Juan</given-names></name><xref rid="alz70258-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70258-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70258-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70258-cr-0005" contrib-type="author"><name name-style="western"><surname>Rafii</surname><given-names initials="MS">Michael S.</given-names></name><xref rid="alz70258-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="alz70258-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Sant Pau Memory Unit</named-content>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Institut d'Investigacions Biomèdiques Sant Pau Hospital de Sant Pau, UniversitatAutònoma de Barcelona</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz70258-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Centro de Investigación Biomédica en Red en Enfermedades Neurodegenerativas (CIBERNED)</institution>
+<city>Madrid</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz70258-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Barcelona Down Medical Center</named-content>
+<institution>Fundació Catalana Síndrome de Down</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz70258-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Alzheimer's Therapeutic Research Institute</named-content>
+<institution>Keck School of Medicine of the University of Southern California</institution>
+<city>San Diego</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Isabel Barroeta, MD, PhD, Memory Unit / Neurology Department / Hospital de la Santa Creu i Sant Pau, Barcelona, Spain.<break/> Email: <email>ibarroeta@santpau.cat</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>6</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2025</year></pub-date><volume>21</volume><issue seq="590">6</issue><issue-id pub-id-type="pmc-issue-id">489620</issue-id><issue-id pub-id-type="doi">10.1002/alz.v21.6</issue-id><elocation-id>e70258</elocation-id><history><date date-type="rev-recd"><day>11</day><month>4</month><year>2025</year></date><date date-type="received"><day>03</day><month>2</month><year>2025</year></date><date date-type="accepted"><day>21</day><month>4</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>17</day><month>06</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>18</day><month>06</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-06-19 11:25:25.263"><day>19</day><month>06</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-21-e70258.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-21-e70258.pdf"/><abstract><title>Abstract</title><p>Individuals with Down syndrome (DS) have a genetically determined form of Alzheimer's disease (AD) due to the amyloid precursor protein (<italic toggle="yes">APP</italic>) gene dose effect. Nearly all individuals with DS develop AD pathology by age 40. Although dementia is rare before this age, its incidence rises sharply thereafter. Longitudinal studies estimate a lifetime dementia risk exceeding 90%, with prevalence reaching 88%–100% after age 65—a marked contrast to 10%–15% in the general population. Recent breakthroughs in sporadic AD, including anti‐amyloid therapies such as lecanemab and donanemab, have shown efficacy in slowing progression. However, individuals with DS were excluded from these trials, leaving critical gaps in safety and efficacy data. This perspective highlights the current state of AD clinical trials in DS, key challenges—(including ethical considerations, recruitment barriers, and cognitive assessment adaptations), and emerging research efforts. Addressing these gaps is essential to ensure equitable access to disease‐modifying therapies for individuals with DS.</p><sec id="alz70258-sec-0020"><title>Highlights</title><p>
+<list list-type="bullet" id="alz70258-list-0001"><list-item><p>Despite recent progress in Alzheimer's disease (AD) treatments for the general population—particularly monoclonal anti‐amyloid therapies such as lecanemab and donanemab—individuals with Down syndrome (DS) were excluded from pivotal trials, leaving significant gaps in knowledge regarding safety and efficacy.</p></list-item><list-item><p>A key concern in DS is the heightened risk of amyloid‐related imaging abnormalities (ARIAs), a known side effect of anti‐amyloid therapies, which may be aggravated by the increased prevalence and severity of cerebral amyloid angiopathy (CAA) in this population.</p></list-item><list-item><p>For the first time, growing awareness of the nearly universal AD risk in DS is driving a stronger focus on tailored clinical research. Ongoing and forthcoming studies, including TRC‐DS, ABATE, HERO, ALADDIN, and LESS‐AD, are beginning to address these gaps.</p></list-item><list-item><p>Beyond amyloid‐targeting therapies, investigating alternative mechanisms such as tau pathology, neuroinflammation, and synaptic dysfunction is key to advancing treatments for DS‐related AD.</p></list-item><list-item><p>Collaboration between advocacy groups, researchers, and pharmaceutical companies is essential for overcoming barriers in AD clinical trials for DS, including ethical concerns, recruitment challenges, and the need for adapted cognitive assessments. This perspective also proposes strategies to enhance inclusivity in future studies, ensuring broader access to emerging treatments.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz70258-kwd-0001">Alzheimer's disease</kwd><kwd id="alz70258-kwd-0002">biomarkers</kwd><kwd id="alz70258-kwd-0003">clinical trials</kwd><kwd id="alz70258-kwd-0004">Down syndrome</kwd><kwd id="alz70258-kwd-0005">monoclonal antibodies</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Institutes of Health
+</institution><institution-id institution-id-type="doi">10.13039/100000002</institution-id></institution-wrap></funding-source><award-id>1R61AG066543</award-id><award-id>R33AG066543</award-id></award-group><award-group id="funding-0002"><funding-source>Ionis</funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Instituto de Salud Carlos III
+</institution><institution-id institution-id-type="doi">10.13039/501100004587</institution-id></institution-wrap></funding-source><award-id>ICI23/00032</award-id></award-group><award-group id="funding-0004"><funding-source>AC Immune SA</funding-source></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>Eli Lilly and Company
+</institution><institution-id institution-id-type="doi">10.13039/100004312</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="0"/><page-count count="10"/><word-count count="7171"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.7 mode:remove_FC converted:17.06.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz70258-cite-0001">
+<string-name name-style="western">
+<surname>Barroeta</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Videla</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carmona‐Iragui</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fortea</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rafii</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Current advances and unmet needs in Alzheimer's disease trials for individuals with Down syndrome: Navigating new therapeutic frontiers</article-title>. <source>Alzheimer's Dement</source>. <year>2025</year>;<volume>21</volume>:<elocation-id>e70258</elocation-id>. <pub-id pub-id-type="doi">10.1002/alz.70258</pub-id>
+<pub-id pub-id-type="pmid">40528298</pub-id></mixed-citation>
+</p></notes></front><body><sec id="alz70258-sec-0030"><label>1</label><title>BACKGROUND</title><p>Alzheimer's disease (AD) represents a major medical burden for individuals with Down syndrome (DS). The triplication of chromosome 21, which includes the amyloid precursor protein (<italic toggle="yes">APP</italic>) gene, results in overproduction of amyloid beta (Aβ) plaques, a critical driver of AD pathophysiology.<xref rid="alz70258-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="alz70258-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="alz70258-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz70258-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> This genetic predisposition increases the lifetime risk of developing AD‐related dementia to over 90% by the sixth decade of life,<xref rid="alz70258-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz70258-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> compared to ≈10%–15% in the general population at the same age.<xref rid="alz70258-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Notably, the clinical manifestations of AD in DS often begin as early as the 40s, with memory loss, functional decline, and behavioral symptoms.<xref rid="alz70258-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz70258-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Reflecting the unique risk profile of this population, DS is now recognized, since birth, as Stage 0 AD in the revised National Institute on Aging–Alzheimer's Association (NIA‐AA) research framework.<xref rid="alz70258-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> This classification highlights DS as a preclinical phase of AD due to the near‐universal presence of amyloid pathology decades before dementia onset.</p><p>AD is one of the leading causes of death among adults with DS, contributing to reduced life expectancy, which is on average two decades shorter than in the general population.<xref rid="alz70258-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Beyond the associated intellectual disability, AD exacerbates other health vulnerabilities in DS, such as obesity and cardiovascular conditions,<xref rid="alz70258-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> which can further complicate disease progression and increase mortality risks. In addition, challenges in diagnosing dementia in DS, due to baseline intellectual disabilities and, in some cases, atypical symptom presentation, often lead to delays in intervention.<xref rid="alz70258-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> This intersection of AD and DS underscores the urgent need for tailored clinical trials and therapeutic strategies to address the disproportionate impact of AD on morbidity and mortality in this population.<xref rid="alz70258-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz70258-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Recent breakthroughs in AD treatment in the general population have centered on therapies targeting Aβ, a hallmark protein implicated in AD pathology. Lecanemab and donanemab, two monoclonal antibodies, represent significant advancements in the field. Lecanemab was approved by the U.S. Food and Drug Administration (FDA) in 2023 as one of the first disease‐modifying therapies to show clinical benefit in slowing cognitive decline.<xref rid="alz70258-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Similarly, donanemab was approved by the FDA in July 2024.<xref rid="alz70258-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Despite their promise, the evidence base for using these therapies in individuals with DS is limited, representing a critical unmet need. The unique pathophysiology of AD in DS, makes this population theoretically eligible for such treatments.<xref rid="alz70258-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz70258-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> However, individuals with DS were excluded from pivotal trials, leaving significant gaps in safety and efficacy data. Exclusion is especially concerning given the increased risk of amyloid‐related imaging abnormalities (ARIAs), a known side effect of these therapies, which could be exacerbated by a more frequent and severe cerebral amyloid angiopathy (CAA) in DS.</p><p>Given the early and well‐characterized onset of amyloid pathology in individuals with DS, anti‐amyloid therapies may offer particular benefit if administered in preclinical or prodromal stages. This population presents a unique opportunity to intervene before symptom onset, potentially altering disease trajectory more effectively than in sporadic AD. However, initiating treatment in young, asymptomatic individuals raises important ethical and clinical questions, including risk–benefit considerations, the need for long‐term safety data, and challenges in communicating the rationale for early intervention to families and caregivers.</p><p>Addressing these gaps through targeted clinical trials is crucial, not only to extend the benefits of these therapies to a high‐risk population but also to ensure safe and effective application tailored to their specific needs.</p><p>This perspective paper aims to shed light on the critical barriers that hinder progress in AD research for individuals with DS. Key objectives include: (1) identifying the unique challenges in translating recent therapeutic breakthroughs, such as monoclonal anti‐amyloid therapies, to this underserved population; (2) addressing the ethical, logistical, and methodological constraints that have excluded individuals with DS from pivotal clinical trials; and (3) proposing solutions to foster inclusivity and safety in future trial designs. Furthermore, we emphasize the importance of expanding research efforts beyond amyloid‐targeting approaches to include alternative mechanisms, such as tau pathology, neuroinflammation, and synaptic dysfunction, which are also central to AD pathophysiology. By exploring these frontiers, we aim to guide future research and clinical strategies to improve diagnosis, therapeutic intervention, and long‐term outcomes for individuals with DS at risk of or living with AD.</p><sec id="alz70258-sec-0040"><label>1.1</label><title>Recent advances in AD therapies</title><p>The landscape of AD treatment in the general population has undergone a paradigm shift with the approval of disease‐modifying therapies targeting Aβ, a hallmark protein of AD pathology. Lecanemab and donanemab, two monoclonal antibodies, have demonstrated significant breakthroughs in slowing cognitive decline, marking a transition from symptomatic management to targeting the underlying biology of AD. Lecanemab binds to soluble Aβ protofibrils, facilitating their clearance and reducing amyloid plaques in the brain. In Phase 3 clinical trials (Clarity AD), lecanemab demonstrated a 27% reduction in the rate of cognitive and functional decline over 18 months in patients with mild cognitive impairment (MCI) or early‐stage AD.<xref rid="alz70258-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> These findings represent a pivotal milestone in AD treatment, offering hope for altering disease progression rather than merely managing symptoms. Donanemab, a monoclonal antibody targeting a modified form of</p><p>Aβ (pyroglutamate‐Aβ), has shown similarly promising results. In Phase 3 trials (TRAILBLAZER‐ALZ 2), donanemab reduced amyloid plaques and slowed disease progression by ≈29% in patients with early‐stage AD. Notably, its ability to clear amyloid plaques rapidly and achieve meaningful cognitive and functional benefits further solidifies its potential as a transformative therapy in AD treatment.<xref rid="alz70258-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p><p>Despite these advances, in the pivotal trials of lecanemab and donanemab individuals with DS were excluded. Although the diagnosis of DS itself was not listed as a formal exclusion criterion, most trials excluded individuals with intellectual disabilities or pre‐existing neurodevelopmental conditions, which indirectly excluded the DS population. Moreover, eligibility criteria related to age, cognitive status, or coexisting medical conditions may have further limited participation. The Clarity AD trial included participants 50 to 90 years of age, and the TRAILBLAZER‐ALZ 2 trial enrolled participants 60 to 85 years of age; these age ranges do not align with the earlier onset of AD in the DS population, which typically begins in the fourth or fifth decade of life. More generally, most AD trials include age eligibility criteria that do not capture younger adults with DS who are at highest risk. In addition, the outcome measures used to evaluate cognitive and functional change are not adapted or validated for individuals with intellectual disability. Although these factors were not formal exclusion criteria, they rendered participation infeasible for individuals with DS.</p><p>The approval of lecanemab and donanemab marks a historic moment in AD research; however, extending these therapies to the DS population requires tailored clinical trials. Ongoing efforts, such as the ALADDIN trial (<underline underline-style="single">A</underline>myloid <underline underline-style="single">L</underline>owering for <underline underline-style="single">A</underline>lzheimer's in <underline underline-style="single">D</underline>own‘s <underline underline-style="single">D</underline>onanemab <underline underline-style="single">In</underline>vestigation) testing donanemab in DS will represent a critical step toward addressing this unmet need and ensuring equitable access to these promising therapies.</p></sec><sec id="alz70258-sec-0050"><label>1.2</label><title>Current state of clinical trials in AD and DS</title><p>Clinical trials targeting AD in individuals with DS have been limited historically; however, growing recognition of the nearly universal risk of AD in DS has led to an increased focus on tailored clinical research.<xref rid="alz70258-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="alz70258-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz70258-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Below, we highlight key trials that have shaped the current understanding of AD in DS (Figure <xref rid="alz70258-fig-0001" ref-type="fig">1</xref>), including observational and interventional studies such as the Trial‐Ready Cohort for Down Syndrome (TRC‐DS), the ABATE and HERO trials, the ALADDIN, and the <underline underline-style="single">LE</underline>vetiracetam to prevent <underline underline-style="single">S</underline>eizures in <underline underline-style="single">S</underline>ymptomatic <underline underline-style="single">A</underline>lzheimer's <underline underline-style="single">D</underline>isease in adults with Down syndrome trial (LESS‐AD).</p><fig position="float" fig-type="FIGURE" id="alz70258-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Clinical trials in Alzheimer´s disease and Down syndrome. The <bold>ABATE trial</bold> is a Phase 1b/2 study evaluating ACI‐24.060, an anti‐amyloid beta (Aβ) vaccine, in adults with Down syndrome (DS) (ages 35–50 years) who are asymptomatic or in the prodromal stages of Alzheimer's disease (AD). ACI‐24.060 is an active immunotherapy designed to elicit an immune response against toxic forms of Aβ, including oligomers and fibrils. The <bold>HERO trial</bold> is a Phase 1b study of ION269, an antisense oligonucleotide therapy, in adults with DS (ages 35–55 years) at high risk for AD. It aims to reduce amyloid plaque accumulation by silencing the messenger RNA (mRNA) responsible for Aβ production. The <underline underline-style="single">A</underline>myloid <underline underline-style="single">L</underline>owering for <underline underline-style="single">A</underline>lzheimer's in <underline underline-style="single">D</underline>own's <underline underline-style="single">D</underline>onanemab <underline underline-style="single">IN</underline>vestigation <bold>(ALADDIN)</bold> trial is a forthcoming Phase 4 study evaluating donanemab in adults with DS (ages 35–55 years) at high risk for AD. Donanemab targets a modified form of Aβ, pyroglutamate‐Aβ, promoting plaque clearance. It was approved by the U.S. Food and Drug Administration (FDA) in July 2024 for sporadic AD. These studies are affiliated with the Alzheimer's Clinical Trials Consortium for Down Syndrome (ACTC‐DS).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-21-e70258-g002.jpg"/></fig><sec id="alz70258-sec-0060"><label>1.2.1</label><title>TRC‐DS</title><p>The TRC‐DS study is an ongoing longitudinal observational study aimed at establishing a biomarker‐rich, trial‐ready cohort of individuals with DS. It provides run‐in data and employs advanced methodologies, including neuroimaging, fluid biomarkers (e.g., amyloid‐beta, tau, neurofilament light chain), and adapted cognitive assessments to intellectual disability. TRC‐DS has demonstrated that individuals with DS exhibit amyloid pathology decades before dementia onset, validating their classification as “Stage 0 AD”, under the NIA‐AA research framework, since birth. The study also highlights unique trajectories of tau deposition and neuroinflammation in DS‐related AD. By building a trial‐ready cohort and refining outcome measures for use in interventional trials, TRC‐DS provides critical infrastructure for future studies testing disease‐modifying therapies. The TRC‐DS enrolls healthy adults with DS, 25 to 55 years of age, into a cohort prepared for participation in future AD prevention trials. Participants undergo longitudinal cognitive and clinical assessments, genetic and biomarker testing, as well as imaging and biospecimen collection. The study has enrolled over 300 participants worldwide, with the possibility of including up to 450 participants in total, including those co‐enrolled in the Alzheimer's Biomarkers Consortium‐Down Syndrome (ABC‐DS) study. As of now, TRC‐DS is actively recruiting participants across more than 15 international sites, including locations in the United States and Europe. The study is coordinated by the University of Southern California Alzheimer's Therapeutic Research Institute (USC ATRI) and is conducted under the Alzheimer's Clinical Trials Consortium for Down Syndrome (ACTC‐DS). The ACTC‐DS has several affiliated studies that are available to participants enrolled in TRC‐DS. These include ABATE, HERO, and ALADDIN (Figure <xref rid="alz70258-fig-0002" ref-type="fig">2</xref>).</p><fig position="float" fig-type="FIGURE" id="alz70258-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>
+<bold>ACTC‐DS affiliated studies</bold>. The Trial‐Ready Cohort for Down Syndrome <bold>(TRC‐DS)</bold> has enrolled over 300 participants worldwide, including those in the Alzheimer's Biomarkers Consortium‐Down Syndrome (ABC‐DS). Conducted under the Alzheimer's Clinical Trials Consortium for Down Syndrome <bold>(ACTC‐DS),</bold> TRC‐DS offers access to affiliated studies such as ABATE, HERO, and ALADDIN.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-21-e70258-g001.jpg"/></fig></sec><sec id="alz70258-sec-0070"><label>1.2.2</label><title>ABATE</title><p>The ABATE trial (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05462106">NCT05462106</ext-link>) is a Phase 1b/2 clinical trial evaluating ACI‐24.060, an anti‐Aβ vaccine, in individuals with prodromal AD and individuals with DS 35 to 50 years of age, who are either asymptomatic or in the prodromal stages of AD.<xref rid="alz70258-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> The study aims to assess the safety, tolerability, and immunogenicity of ACI‐24.060, with a focus on its potential to reduce brain amyloid plaques associated with AD progression. ACI‐24.060 is an active immunotherapy designed to elicit an immune response against toxic forms of Aβ, including oligomers and fibrils. By stimulating the body's immune system to produce antibodies targeting these Aβ species, the aim of the vaccine is to promote the clearance of amyloid plaques from the brain, thereby potentially slowing or halting disease progression. The ABATE trial also aims to address key safety concerns, including the risk of ARIAs, and uses detailed biomarker analyses to monitor amyloid plaque reduction and therapeutic impact. The ABATE study is an ACTC‐DS affiliated study and is being conducted across multiple sites in the United States, United Kingdom, and Spain, totaling 15 international locations including all TRC‐DS sites. The study began enrolling participants in early 2024. As of December 2024, interim safety data have been reported, indicating that ACI‐24.060 is generally safe and well‐tolerated in individuals with DS, with no serious adverse events related to the study drug and no cases of ARIAs observed. Based on these findings, the study plans to open a high‐dose cohort in individuals with DS to further assess the vaccine's efficacy and safety at increased doses. This trial marks one of the first targeted efforts to include individuals with DS in therapeutic interventions traditionally used in sporadic AD.</p></sec><sec id="alz70258-sec-0080"><label>1.2.3</label><title>HERO</title><p>The HERO trial (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT06673069">NCT06673069</ext-link>) is a groundbreaking Phase 1b clinical trial investigating ION269, an investigational antisense oligonucleotide (ASO) therapy, in adults with DS who are at high risk for developing AD. The HERO trial emphasizes early detection and intervention in individuals with DS who are at high risk for developing AD. Its objectives include identifying predictive biomarkers of cognitive decline and evaluating the effectiveness of early intervention strategies. This study addresses the unique genetic predisposition of individuals with DS, aiming to advance targeted therapies for this underserved population. ION269 is designed to selectively target and reduce the production of a protein implicated in AD pathology. By silencing the messenger RNA (mRNA) responsible for this protein, the therapy seeks to decrease its expression, mitigating amyloid plaque accumulation and potentially slowing disease progression. This innovative approach aligns with the emerging field of gene‐silencing therapies, offering a novel pathway to address AD at the molecular level. The study focuses on adults with DS, 35 to 55 years of age, who exhibit evidence of brain amyloid positivity through biomarkers such as amyloid positron emission tomography (PET) imaging or cerebrospinal fluid (CSF) analysis. The ION269 molecule is delivered via intrathecal injection, which may raise additional considerations related to participant acceptability, procedural burden, and the feasibility of repeated dosing in adults with DS. The HERO trial is also an ACTC‐DS‐affiliated study currently recruiting participants (including those enrolled in TRC‐DS) and employs a single ascending dose (SAD) design, in which participants receive one dose of ION269 and are monitored for a 36‐week period, followed by a 4‐week follow‐up phase. The primary objectives include assessing safety, tolerability, and pharmacokinetics, while secondary objectives focus on the pharmacodynamic effects of the therapy, including changes in biomarkers of amyloid pathology. The HERO trial is being conducted at specialized centers in the United States and in Spain. ION269 represents an innovative approach to AD therapy using ASOs, which could transform how neurodegenerative diseases are treated, particularly in genetically at‐risk populations such as individuals with DS. Targeting amyloid pathology in the preclinical stage of AD offers hope for delaying or preventing cognitive decline, significantly improving long‐term outcomes for individuals with DS.</p></sec><sec id="alz70258-sec-0090"><label>1.2.4</label><title>ALADDIN</title><p>The <underline underline-style="single">A</underline>myloid <underline underline-style="single">L</underline>owering for <underline underline-style="single">A</underline>lzheimer's in <underline underline-style="single">D</underline>own‘s Donanemab <underline underline-style="single">In</underline>vestigation (or ALADDIN) trial (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT06911944">NCT06911944</ext-link>), is a forthcoming Phase 4 clinical trial being conducted by ACTC‐DS and is designed to evaluate the safety, tolerability, and efficacy of donanemab, an FDA‐approved anti‐amyloid monoclonal antibody in adults with DS who are at high risk for developing AD. This study is groundbreaking as it represents one of the first efforts to include individuals with DS in targeted therapeutic interventions used in sporadic AD. Donanemab is engineered to target and facilitate the clearance of Aβ plaques, a hallmark of Alzheimer's pathology. It binds specifically to a specific form of Aβ, promoting its removal from the brain. By addressing the core pathology of AD, donanemab has been shown to slow disease progression in the sporadic form of AD. ALADDIN focuses on adults with DS who are 35 to 50 years of age. The ALADDIN trial is currently in the preparatory phase, with recruitment expected to commence soon. The trial will be conducted at multiple international research centers specializing in DS and AD. Given the heightened risk of ARIAs in the DS population due to their substantial amyloid burden, safety is a critical focus of the ALADDIN trial. Participants will undergo thorough baseline assessments, including magnetic resonance imaging (MRI) scans, to identify predisposing conditions such as CAA or vascular abnormalities. Regular monitoring will include scheduled neuroimaging and clinical evaluations throughout the trial to detect early signs of ARIA. Imaging protocols will adhere to the highest safety standards to ensure timely detection and intervention and a dose‐escalation design will be implemented, allowing for gradual adjustment of donanemab doses to achieve an optimal balance of efficacy and safety. The ALADDIN trial will establish foundational data for the use of donanemab in DS, guiding future trials and clinical applications. The study addresses the underrepresentation of DS populations in AD research, promoting inclusivity and advancing treatment options for this underserved group. The insights gained will not only improve outcomes for participants but also inform the broader field of neurodegenerative disease research, setting the stage for more inclusive and effective treatments.</p></sec><sec id="alz70258-sec-0100"><label>1.2.5</label><title>LESS‐AD</title><p>The <underline underline-style="single">LE</underline>vetiracetam to prevent <underline underline-style="single">S</underline>eizures in <underline underline-style="single">S</underline>ymptomatic <underline underline-style="single">A</underline>lzheimer's <underline underline-style="single">D</underline>isease in adults with Down syndrome trial (the LESS‐AD trial) will evaluate the efficacy and safety of levetiracetam in individuals with DSAD without clinical epilepsy. This landmark study aims to address the critical intersection of AD and epilepsy in this vulnerable population. Levetiracetam is an antiepileptic drug that reduces intraneuronal calcium release and binds to the synaptic vesicle protein SV2A, which is involved in neurotransmitter exocytosis. By suppressing neuronal hyperexcitability, levetiracetam aims to prevent epileptic seizures and potentially improve cognitive outcomes in individuals with DSAD. The LESS‐AD trial focuses on individuals with DSAD who do not have clinical epilepsy.</p><p>People with DS are predisposed to both AD and epilepsy, with the progression of dementia frequently accompanied by the onset of seizures. Epilepsy, in turn, exacerbates neurological deterioration in this population.<xref rid="alz70258-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz70258-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Notably, individuals with DS often exhibit a bimodal distribution of seizure onset, with a second peak occurring in adulthood that is closely associated with AD progression—even in those without a history of childhood or adolescent seizures. In fact, late‐onset myoclonic epilepsy associated with DS (LOMEDS) is a defined epileptic syndrome described in adults with DS. In this context, epileptic seizures, typically myoclonus and bilateral tonic–clonic seizures, develop, approximately, in parallel with the onset and progression of AD symptoms and are associated to worse cognitive performance.<xref rid="alz70258-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> This pattern underscores the importance of preventive strategies such as those being evaluated in the LESS‐AD trial. Levetiracetam is widely used as an anticonvulsant and has shown promise in reducing hyperexcitability, which may improve cognitive function and delay disease progression in DSAD. Although seizures are less common in sporadic AD than in DSAD, recent evidence highlights the role of network hyperexcitability in a subset of individuals with AD. A phase 2a randomized clinical trial showed that low‐dose levetiracetam improved aspects of executive function and spatial memory in participants with AD who exhibited epileptiform activity.<xref rid="alz70258-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> These findings support the potential role of antiseizure therapies in sporadic AD, particularly when guided by neurophysiological markers. However, the significantly higher incidence of new‐onset seizures in adults with DS—often occurring in midlife as part of the AD phenotype—underscores the need for trials such as LESS‐AD that are tailored to the unique risk profile and clinical course in this population. The trial is currently in the pre‐recruitment phase, pending activation and awaiting final protocol approvals. Recruitment is expected to begin in 2025, with study initiation shortly thereafter. The study is coordinated by Hospital de la Santa Creu i Sant Pau, Barcelona, Spain and will be conducted across five leading clinical centers in Spain specializing in Down syndrome and AD research. This trial could establish levetiracetam as a dual‐purpose therapy, addressing both seizure prevention and cognitive dysfunction in DSAD. By targeting hyperexcitability, the study aims to improve overall health outcomes, quality of life, and caregiver burden for individuals with DS and AD.</p></sec></sec><sec id="alz70258-sec-0110"><label>1.3</label><title>Main challenges in conducting trials</title><p>Conducting AD clinical trials in individuals with DS presents unique challenges. These stem from the distinct genetic, biological, and social characteristics of this population, requiring tailored strategies to ensure safety, efficacy, and ethical compliance.<xref rid="alz70258-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz70258-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz70258-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz70258-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz70258-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz70258-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="alz70258-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</p><p>Safety concerns are a significant consideration when conducting clinical trials for anti‐amyloid therapies in individuals with DS. The heightened amyloid burden in this population raises specific safety concerns for therapies such as lecanemab and donanemab. One of the major concerns is the occurrence of ARIAs, a known side effect of amyloid‐targeting therapies that includes brain swelling and microhemorrhages.<xref rid="alz70258-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="alz70258-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> An increased ARIA risk may appear paradoxical given the lower prevalence of systemic vascular risk factors such as hypertension and atherosclerosis in individuals with DS. However, cerebrovascular pathology—including CAA, cerebral microbleeds, and age‐related increases in white matter hyperintensities (WMHs)—is more common in DSAD than in sporadic AD. Postmortem studies demonstrate that CAA is more prevalent, more severe, and emerges earlier in DS than in sporadic AD, even in the absence of typical vascular comorbidities.<xref rid="alz70258-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="alz70258-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> The occurrence of WMHs despite low hypertension rates further supports the role of DS‐specific vascular processes in conferring cerebrovascular vulnerability. However, above all this, the prevalence of intracerebral hemorrhage in DS is lower than would be expected because of the <italic toggle="yes">APP</italic> triplication.<xref rid="alz70258-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz70258-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> In brief, the confirmed high baseline CAA prevalence provides people with DS a higher theoretical risk of ARIAs<xref rid="alz70258-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> but whether this higher risk translates into actual ARIA outcomes should be addressed by further studies.<xref rid="alz70258-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Monitoring for side effects like ARIAs requires regular imaging, which can be challenging in individuals with DS due to discomfort and limited cooperation. These procedures are also resource intensive. Addressing this requires tailored safety protocols, including adjusted dosing, caregiver support during imaging, and alternative monitoring strategies to ensure trial safety and feasibility in this population.</p><p>The absence of DS‐specific safety and efficacy data for amyloid‐targeting therapies has significant implications for clinical care. Without evidence from dedicated clinical trials, physicians may hesitate to prescribe these treatments, even when AD is biomarker confirmed. This therapeutic uncertainty can result in limited access for individuals with DS, despite their extremely high risk for developing AD. Recent case reports<xref rid="alz70258-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> highlight the complexities faced by families and clinicians in managing dementia in DS, including decisions around whether to initiate treatment in the absence of robust safety data. These real‐world experiences underscore the urgent need for inclusive clinical trials that generate actionable data to guide care.</p><p>Recruitment and retention represent another critical challenge. The relatively small population of adults with DS, along with cultural and social barriers, further complicates recruitment efforts. Families and caregivers may be hesitant to enroll individuals with DS in clinical trials due to concerns about safety, a lack of trust in research institutions, or the perception that the individual may not directly benefit from participation. Retention is equally difficult, particularly in long‐term studies that require invasive procedures, frequent visits, or complex interventions. Sustained trial participation in DS requires active caregiver involvement, which can be complicated by time demands and emotional fatigue. Supporting caregivers through targeted programs, community outreach, and streamlined trial designs that reduce burden while ensuring data quality is essential to improve retention and engagement.</p><p>Ethical considerations present another layer of complexity. Informed consent poses a particular challenge due to intellectual disability and cognitive impairment, which often necessitate alternative approaches. Many participants require the involvement of legal guardians to provide consent on their behalf, which can complicate the process and raise ethical concerns about autonomy. Informed consent and assent in clinical trials involving individuals with DS require adapted communication strategies and support for decision‐making. Many individuals may need support to understand the goals, procedures, and potential risks of research participation due to varying levels of intellectual disability. Therefore, communication strategies should be tailored to each participant's abilities, using clear, concrete language and, when appropriate, visual aids or simplified materials. Legal guardians or representatives often play an essential role in the consent process; however, it remains critical to involve the individual with DS in discussions about participation and to seek their assent in a manner that respects their autonomy and preferences. As cognitive decline progresses, the capacity of individuals to comprehend trial information and provide meaningful consent diminishes, requiring sensitive and ongoing reassessment to ensure that ethical standards are upheld throughout the study. Balancing potential benefits and risks is paramount in this population, given their heightened vulnerability and safety considerations. Researchers have an ethical obligation to ensure that the potential benefits of participation, such as access to new therapies or closer medical monitoring, outweigh any risks posed by the intervention or study procedures. The disclosure of amyloid status to participants or their caregivers also presents a significant ethical challenge. Communicating such information requires careful consideration of the psychological impact, as well as ensuring that it is presented in a way that is understandable and sensitive to the unique needs of the DS community. Strategies must be in place to provide appropriate support, including counseling and resources, to help families process and respond to this information responsibly and compassionately. Addressing these ethical concerns is essential to fostering trust, safeguarding participant welfare, and upholding the integrity of clinical research. The ACTC‐DS Research Partnership Advisory Group (RPAG), a collaboration between ACTC‐DS and ABC‐DS at ATRI, consists of pairs of individuals with DS and their family members who serve alongside researchers and provide feedback on all ACTC‐DS and ACTC‐DS affiliated study protocols, procedures, and consent forms. In addition, the ACTC‐DS RPAG meets regularly to discuss best practices for disclosure of research results, community engagement, and education.</p><p>Trial designs for this population must also address specific logistical challenges, including slower recruitment rates, higher dropout rates, and complex care requirements. Adaptive trial methodologies, extended monitoring periods, and centralized care models could help mitigate these challenges and improve the feasibility of conducting robust and inclusive clinical trials for individuals with DS. In addition, the unique biology of DSAD further complicates trial design and interpretation.<xref rid="alz70258-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="alz70258-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+</p><p>Additional barriers to trial participation arise from the high prevalence of co‐occurring medical conditions in individuals with DS, including hypothyroidism, cardiovascular conditions, epilepsy, sleep disorders, psychiatric disorders, and obstructive sleep apnea. These comorbidities can mimic or exacerbate symptoms of dementia, complicating differential diagnosis and potentially confounding cognitive or functional outcome measures. Moreover, such conditions are often exclusionary in clinical trial protocols due to safety concerns or their impact on data interpretation. As a result, eligibility is further restricted, and findings may not be broadly generalizable to the DS population. This issue has also been underscored in clinical quality improvement initiatives that highlight the importance of comprehensive medical evaluation when screening for and diagnosing dementia in individuals with DS.<xref rid="alz70258-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+</p><p>Although amyloid pathology is nearly universal in this population, the rate of cognitive decline and progression to dementia may change between individuals. This heterogeneity in disease progression poses challenges in determining optimal trial endpoints and evaluating treatment efficacy. Furthermore, individuals with DS may respond differently to therapies like lecanemab and donanemab due to differences in amyloid processing, immune response, and the presence of coexisting conditions. Extrapolating findings from trials in sporadic AD to this population is therefore fraught with challenges and requires tailored study designs.</p><p>Methodological issues also play a significant role in shaping the success of clinical trials for individuals with DS. Standard cognitive assessments commonly used in AD trials are often inappropriate for this population due to pre‐existing intellectual disability. Tailored tools, such as the Cambridge Cognitive Examination for Older Adults with Down Syndrome (CAMCOG‐DS) or Modified Cued Recall Test (mCRT) are necessary to capture early and meaningful changes, particularly when administered longitudinally to track individual trajectories over time. Biomarkers, including amyloid PET imaging and CSF measures, are critical for diagnosis and monitoring but may have different utility in the DS population. Blood‐based biomarkers, which are less invasive, hold significant promise but require further validation to ensure reliability and accuracy in this unique context.</p></sec><sec id="alz70258-sec-0120"><label>1.4</label><title>Emerging trends and innovative approaches</title><p>As research into AD in individuals with DS advances, several emerging trends and innovative approaches are showing promise in enhancing early detection, improving trial designs, and facilitating the adaptation of new therapies for this unique population.</p><p>A key area of focus in Alzheimer's research is the early identification of individuals at risk, which is especially important in populations like individuals with DS, who have an elevated genetic predisposition to AD. Traditional diagnostic approaches based on clinical symptoms often lead to delayed intervention, but emerging biomarkers provide the potential for earlier detection, facilitating more timely therapeutic intervention. Plasma biomarkers, such as plasma phosphorylated tau‐217 (p‐tau217), are gaining attention for their ability to detect AD‐related pathology in the early stages. These biomarkers reflect the accumulation of tau, a protein that forms neurofibrillary tangles, and can predict neurodegeneration before significant clinical symptoms appear. Recent studies have demonstrated that plasma p‐tau217 levels correlate with amyloid burden and cognitive decline, making it a promising tool for early detection in both sporadic and genetic forms of AD, including those seen in DS.<xref rid="alz70258-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="alz70258-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> Biomarkers, including amyloid PET imaging and CSF measures, are used increasingly in clinical practice to support the diagnosis of AD in individuals with DS, particularly in specialized centers focused on DS and AD. In addition, these biomarkers are essential tools for identifying individuals who are eligible for clinical trials, especially those targeting preclinical and prodromal stages. Blood‐based biomarkers—such as plasma p‐tau species—represent a promising, less invasive option for broader clinical use, although further validation is needed to determine their reliability, prognostic value, and interpretation in the context of DS. Continued research is also needed to define appropriate thresholds and longitudinal patterns specific to this population. As these efforts advance, biomarkers are likely to play an expanding role in both diagnosis and trial readiness across clinical settings. However, because DS is a genetically determined form of AD, additional research is ongoing to find the different tailored cutoff points according to what process or stage they are aimed to track instead of a binary categorization. This broader view highlights the role of biomarkers in staging the disease and estimating prognosis, enabling both eligibility for clinical trials and guiding clinical care.</p><p>The use of plasma biomarkers in DS could enable researchers to identify individuals with elevated AD‐related pathology earlier, prior to the onset of dementia. This would allow for earlier enrollment in clinical trials, especially for disease‐modifying treatments like lecanemab and donanemab, facilitating their application in individuals with DS and potentially altering the course of the disease before cognitive decline becomes severe.</p><p>The traditional, one‐size‐fits‐all approach to clinical trials is seen increasingly as inadequate for populations with specific needs, such as individuals with DS. To address these challenges, new trial designs and methodologies are emerging, offering greater flexibility and inclusivity. Adaptive trial designs allow for modifications to the trial protocol based on interim data, making them particularly valuable in populations like DS, where disease progression can be heterogeneous. This flexibility can help refine inclusion criteria, optimize dosages, or modify treatment regimens as new information emerges. Adaptive trials are particularly relevant for testing complex treatments like amyloid‐targeting monoclonal antibodies, where ongoing data collection is essential to understanding efficacy and safety in a diverse population.</p><p>The coronavirus disease 2019 (COVID‐19) pandemic accelerated the adoption of virtual clinical trials, which have the potential to overcome many of the logistical challenges associated with traditional in‐person trials. Virtual trials, where data collection and monitoring occur remotely, are especially relevant for individuals with DS, who may face mobility issues, live in remote areas, or have difficulty attending frequent in‐person visits. These trials can include telemedicine consultations, remote cognitive testing, and virtual caregiver reporting, making participation in AD research more accessible and feasible.</p><p>Effective recruitment strategies for clinical trials in DS must involve not only the individuals with DS but also their caregivers and the wider community. Community‐based recruitment strategies, such as those promoted by the ACTC‐DS RPAG, are essential for building trust, fostering engagement, and ensuring that a diverse and representative cohort participates in studies. Engaging the community early on, providing educational resources, and addressing concerns can enhance recruitment and retention, particularly in a vulnerable population like DS.</p></sec><sec id="alz70258-sec-0130"><label>1.5</label><title>Future directions</title><p>As we look ahead, it is clear that further research is essential to ensure that the advancements in AD treatments can benefit individuals with DS. Clinical trials should specifically focus on the safety, efficacy, and optimal dosing of these therapies in DS, considering the higher amyloid burden and the potential for increased risks, such as ARIAs and CAA. Long‐term studies will also be necessary to evaluate the durability of therapeutic responses and the potential neuroprotective effects in this high‐risk group. In addition to amyloid‐targeting therapies, there is a need to explore combination therapies—such as anti‐inflammatory, tau‐targeted, and synaptic‐dysfunction therapies.</p><p>Future trials should implement inclusive clinical trial criteria, ensuring that individuals with DS are represented and that findings can be generalized to this population. Furthermore, community‐based recruitment strategies are essential for ensuring broad participation in clinical trials. Involvement of families, caregivers, and DS‐related organizations in trial design and recruitment will help build trust and engagement, leading to higher retention rates and more diverse participant pools. Public education campaigns and outreach initiatives are also needed.</p><p>The collaboration between advocacy groups, research institutions, and pharmaceutical companies will be essential for accelerating the development of safe and effective treatments for AD in DS.</p></sec></sec><sec id="alz70258-sec-0140"><label>2</label><title>CONCLUSIONS</title><p>The unmet needs highlighted in this perspective—limited evidence on treatment safety and efficacy, the biological complexity of DS, and ethical considerations—underscore the urgency of adapting AD trials for this population. Amyloid‐targeting therapies such as lecanemab and donanemab are promising, but their use in DS requires further study. Novel strategies, including combination therapies and early detection biomarkers, could also improve outcomes.</p><p>Future research must prioritize inclusivity, using tailored trial designs and adapted therapies to meet the specific needs of individuals with DS. These efforts will not only advance treatment for the DS population but also offer broader insights into AD pathophysiology and therapeutic development.</p><p>Addressing these challenges through focused research and collaboration is essential to improving care and quality of life for individuals with DS at risk of or living with AD.</p></sec><sec sec-type="COI-statement" id="alz70258-sec-0160"><title>CONFLICT OF INTEREST STATEMENT</title><p>I.B. reported receiving personal fees for educational activities from Adium. L.V. has no disclosures. M.C.I. reported receiving personal fees for service on the advisory boards, speaker honoraria, or educational activities from Esteve, Lilly, Neuraxpharm, Adium, and Roche. J.F. reported receiving personal fees for service on the advisory boards and adjudication committees or speaker honoraria from AC Immune, Adamed, Alzheon, Biogen, Eisai, Esteve, Fujirebio, Ionis, Laboratorios Carnot, Life Molecular Imaging, Lilly, Lundbeck, Novo Nordisk, Perha, Roche, and Zambón, outside the submitted work; and for holding a patent for markers of synaptopathy in neurodegenerative disease (licensed to ADx, EPI8382175.0). M.S.R. is a consultant to AC Immune and Ionis.  He serves as Data Safety Monitoring Board Chair for Alzheon and Biohaven and is on the Scientific Advisory Board for Embic, Prescient, and Positrigo. His institution has received grants from Eisai and Lilly. Author disclosures are available in <xref rid="alz70258-supinfo-0001" ref-type="">Supporting Information</xref>.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz70258-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz70258-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e70258-s001.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz70258-sec-0150"><title>ACKNOWLEDGMENTS</title><p>The authors would like to express their sincere gratitude to all study participants, their families, and caregivers. TRC‐DS is funded by National Institutes of Health (NIH) INCLUDE 1R61AG066543. ALADDIN is funded by NIH INCLUDE R33AG066543 and Lilly. ABATE is funded by AC Immune SA. HERO us funded by Ionis. LESS‐AD is funded by Instituto de Salud Carlos III (Ministerio de ciencia, innovación y universidades de España) through the project ICI23/00032, Eli Lilly and Company.</p></ack><ref-list id="alz70258-bibl-0001"><title>REFERENCES</title><ref id="alz70258-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz70258-cite-0002">
+<string-name name-style="western">
+<surname>Wisniewski</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wisniewski</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wen</surname>
+<given-names>GY</given-names>
+</string-name>. <article-title>Occurrence of neuropathological changes and dementia of Alzheimer's disease in Down's syndrome</article-title>. <source>Ann Neurol</source>. <year>1985</year>;<volume>17</volume>(<issue>3</issue>):<fpage>278</fpage>‐<lpage>282</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ana.410170310</pub-id>
+<pub-id pub-id-type="pmid">3158266</pub-id>
+</mixed-citation></ref><ref id="alz70258-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz70258-cite-0003">
+<string-name name-style="western">
+<surname>Margallo‐Lana</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moore</surname>
+<given-names>PB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kay</surname>
+<given-names>DWK</given-names>
+</string-name>, et al. <article-title>Fifteen‐year follow‐up of 92 hospitalized adults with Down's syndrome: incidence of cognitive decline, its relationship to age and neuropathology</article-title>. <source>J Intellect Disabil Res</source>. <year>2007</year>;<volume>51</volume>(<issue>6</issue>):<fpage>463</fpage>‐<lpage>477</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1365-2788.2006.00902.x</pub-id>
+<pub-id pub-id-type="pmid">17493029</pub-id>
+</mixed-citation></ref><ref id="alz70258-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz70258-cite-0004">
+<string-name name-style="western">
+<surname>Benejam</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Videla</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vilaplana</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Diagnosis of prodromal and Alzheimer's disease dementia in adults with Down syndrome using neuropsychological tests</article-title>. <source>Alzheimer's Dement</source>. <year>2020</year>;<volume>12</volume>(<issue>1</issue>):<elocation-id>e12047</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/dad2.12047</pub-id>
+<pub-id pub-id-type="pmcid">PMC7322242</pub-id><pub-id pub-id-type="pmid">32613076</pub-id></mixed-citation></ref><ref id="alz70258-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz70258-cite-0005">
+<string-name name-style="western">
+<surname>McCarron</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCallion</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reilly</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>A prospective 20‐year longitudinal follow‐up of dementia in persons with Down syndrome</article-title>. <source>J Intellect Disabil Res</source>. <year>2017</year>;<volume>61</volume>(<issue>9</issue>):<fpage>843</fpage>‐<lpage>852</lpage>. doi:<pub-id pub-id-type="doi">10.1111/jir.12390</pub-id>
+<pub-id pub-id-type="pmid">28664561</pub-id>
+</mixed-citation></ref><ref id="alz70258-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz70258-cite-0006">
+<string-name name-style="western">
+<surname>Fortea</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vilaplana</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carmona‐Iragui</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Clinical and biomarker changes of Alzheimer's disease in adults with Down syndrome: a cross‐sectional study</article-title>. <source>The Lancet</source>. <year>2020</year>;<volume>395</volume>(<issue>10242</issue>):<fpage>1988</fpage>‐<lpage>1997</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S0140-6736(20)30689-9</pub-id>
+<pub-id pub-id-type="pmcid">PMC7322523</pub-id><pub-id pub-id-type="pmid">32593336</pub-id></mixed-citation></ref><ref id="alz70258-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz70258-cite-0007">
+<string-name name-style="western">
+<surname>Videla</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benejam</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pegueroles</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Longitudinal clinical and cognitive changes along the Alzheimer disease continuum in Down syndrome</article-title>. <source>JAMA Netw Open</source>. <year>2022</year>;<volume>5</volume>(<issue>8</issue>):<elocation-id>E2225573</elocation-id>. doi:<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.25573</pub-id>
+<pub-id pub-id-type="pmid">35930282</pub-id>
+<pub-id pub-id-type="pmcid">PMC9356319</pub-id></mixed-citation></ref><ref id="alz70258-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz70258-cite-0008">
+<string-name name-style="western">
+<surname>Hartley</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Handen</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Devenny</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Cognitive indicators of transition to preclinical and prodromal stages of Alzheimer's disease in Down syndrome</article-title>. <source>Alzheimer's Dement</source>. <year>2020</year>;<volume>12</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>10</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dad2.12096</pub-id>
+<pub-id pub-id-type="pmcid">PMC7507534</pub-id><pub-id pub-id-type="pmid">32995465</pub-id></mixed-citation></ref><ref id="alz70258-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz70258-cite-0009">
+<string-name name-style="western">
+<surname>Dubois</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Villain</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Alzheimer Disease as a clinical‐biological construct—An International Working Group recommendation</article-title>. <source>JAMA Neurol</source>. <year>2024</year>;<volume>12</volume>(<issue>81</issue>):<fpage>1304</fpage>‐<lpage>1311</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2024.3770</pub-id>
+<pub-id pub-id-type="pmcid">PMC12010406</pub-id><pub-id pub-id-type="pmid">39483064</pub-id></mixed-citation></ref><ref id="alz70258-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz70258-cite-0010">
+<string-name name-style="western">
+<surname>Iulita</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garzón Chavez</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klitgaard Christensen</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Association of Alzheimer disease with life expectancy in people with Down syndrome</article-title>. <source>JAMA Netw Open</source>. <year>2022</year>;<volume>5</volume>(<issue>5</issue>):<elocation-id>e2212910</elocation-id>. doi:<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.12910</pub-id>
+<pub-id pub-id-type="pmid">35604690</pub-id>
+<pub-id pub-id-type="pmcid">PMC9127560</pub-id></mixed-citation></ref><ref id="alz70258-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz70258-cite-0011">
+<string-name name-style="western">
+<surname>Marilyn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bull</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Down syndrome</article-title>. <source>N Engl J Med</source>. <year>2020</year>;<volume>382</volume>(<issue>24</issue>):<fpage>2344</fpage>‐<lpage>2352</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJMra1706537</pub-id>
+<pub-id pub-id-type="pmid">32521135</pub-id>
+</mixed-citation></ref><ref id="alz70258-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz70258-cite-0012">
+<string-name name-style="western">
+<surname>Strydom</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hassiotis</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Diagnostic instruments for dementia in older people with intellectual disability in clinical practice</article-title>. <source>Aging Ment Health</source>. <year>2003</year>;<volume>7</volume>(<issue>6</issue>):<fpage>431</fpage>‐<lpage>437</lpage>. doi:<pub-id pub-id-type="doi">10.1080/13607860310001594682</pub-id>
+<pub-id pub-id-type="pmid">14578004</pub-id>
+</mixed-citation></ref><ref id="alz70258-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz70258-cite-0013">
+<string-name name-style="western">
+<surname>Fortea</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zaman</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hartley</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Alzheimer's disease associated with Down syndrome: a genetic form of dementia</article-title>. <source>Lancet Neurol</source>. <year>2021</year>;<volume>20</volume>(<issue>11</issue>):<fpage>930</fpage>‐<lpage>942</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(21)00245-3</pub-id>
+<pub-id pub-id-type="pmid">34687637</pub-id>
+<pub-id pub-id-type="pmcid">PMC9387748</pub-id></mixed-citation></ref><ref id="alz70258-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz70258-cite-0014">
+<string-name name-style="western">
+<surname>Baumer</surname>
+<given-names>NT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Becker</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Capone</surname>
+<given-names>GT</given-names>
+</string-name>, et al. <article-title>Conducting clinical trials in persons with Down syndrome: summary from the NIH INCLUDE Down syndrome clinical trials readiness working group</article-title>. <source>J Neurodev Disord</source>. <year>2022</year>;<volume>14</volume>(<issue>1</issue>):<fpage>22</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s11689-022-09435-z</pub-id>
+<pub-id pub-id-type="pmid">35321660</pub-id>
+<pub-id pub-id-type="pmcid">PMC8942061</pub-id></mixed-citation></ref><ref id="alz70258-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz70258-cite-0015">
+<string-name name-style="western">
+<surname>van Dyck</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swanson</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aisen</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Lecanemab in early Alzheimer's disease</article-title>. <source>N Engl J Med</source>. <year>2023</year>;<volume>388</volume>(<issue>1</issue>):<fpage>9</fpage>‐<lpage>21</lpage>. doi:<pub-id pub-id-type="doi">10.1056/nejmoa2212948</pub-id>
+<pub-id pub-id-type="pmid">36449413</pub-id>
+</mixed-citation></ref><ref id="alz70258-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz70258-cite-0016">
+<string-name name-style="western">
+<surname>Sims</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zimmer</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evans</surname>
+<given-names>CD</given-names>
+</string-name>, et al. <article-title>Donanemab in early symptomatic Alzheimer's disease</article-title>. <source>JAMA</source>. <year>2023</year>;<volume>330</volume>(<issue>6</issue>):<fpage>512</fpage>‐<lpage>527</lpage>. doi:<pub-id pub-id-type="doi">10.1136/dtb.2024.000020</pub-id>
+<pub-id pub-id-type="pmid">37459141</pub-id>
+<pub-id pub-id-type="pmcid">PMC10352931</pub-id></mixed-citation></ref><ref id="alz70258-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz70258-cite-0017">
+<string-name name-style="western">
+<surname>Strydom</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coppus</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blesa</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Alzheimer's disease in Down syndrome: an overlooked population for prevention trials</article-title>. <source>Alzheimer's Dement</source>. <year>2018</year>;<volume>4</volume>:<fpage>703</fpage>‐<lpage>713</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.trci.2018.10.006</pub-id>
+<pub-id pub-id-type="pmcid">PMC6296162</pub-id><pub-id pub-id-type="pmid">30581976</pub-id></mixed-citation></ref><ref id="alz70258-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz70258-cite-0018">
+<string-name name-style="western">
+<surname>Rafii</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fortea</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Down Syndrome in a New Era for Alzheimer Disease</article-title>. <source>JAMA</source>. <year>2023</year>;<volume>330</volume>(<issue>22</issue>):<fpage>2157</fpage>‐<lpage>2158</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2023.22924</pub-id>
+<pub-id pub-id-type="pmid">37991807</pub-id>
+<pub-id pub-id-type="pmcid">PMC11324235</pub-id></mixed-citation></ref><ref id="alz70258-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz70258-cite-0019">
+<string-name name-style="western">
+<surname>Rafii</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Development of treatments for Down syndrome</article-title>. <source>Lancet Neurol</source>. <year>2022</year>;<volume>21</volume>(<issue>1</issue>):<fpage>22</fpage>‐<lpage>23</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(21)00411-7</pub-id>
+<pub-id pub-id-type="pmid">34942129</pub-id>
+<pub-id pub-id-type="pmcid">PMC11108095</pub-id></mixed-citation></ref><ref id="alz70258-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz70258-cite-0020">
+<string-name name-style="western">
+<surname>Rafii</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Pro: are we ready to translate Alzheimer's disease modifying therapies to people with Down syndrome?</article-title>. <source>Alzheimers Res Ther</source>. <year>2014</year>;<volume>6</volume>(<issue>5‐8</issue>):<fpage>4</fpage>‐<lpage>7</lpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-014-0060-7</pub-id>
+<pub-id pub-id-type="pmid">25478025</pub-id>
+<pub-id pub-id-type="pmcid">PMC4255529</pub-id></mixed-citation></ref><ref id="alz70258-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz70258-cite-0021">
+<string-name name-style="western">
+<surname>Rafii</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sol</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mobley</surname>
+<given-names>WC</given-names>
+</string-name>, et al. <article-title>Safety tolerability and immunogenicity of the aci24 vaccine in adults with Down syndrome A Phase 1b randomized clinical trial</article-title>. <source>JAMA Neurol</source>. <year>2022</year>;<volume>79</volume>(<issue>6</issue>):<fpage>565</fpage>‐<lpage>574</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2022.0983</pub-id>
+<pub-id pub-id-type="pmid">35532913</pub-id>
+<pub-id pub-id-type="pmcid">PMC9086937</pub-id></mixed-citation></ref><ref id="alz70258-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz70258-cite-0022">
+<string-name name-style="western">
+<surname>Altuna</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giménez</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fortea</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Epilepsy in down syndrome: a highly prevalent comorbidity</article-title>. <source>J Clin Med</source>. <year>2021</year>;<volume>10</volume>(<issue>13</issue>):<fpage>1</fpage>‐<lpage>17</lpage>. doi:<pub-id pub-id-type="doi">10.3390/jcm10132776</pub-id>
+<pub-id pub-id-type="pmcid">PMC8268854</pub-id><pub-id pub-id-type="pmid">34202784</pub-id></mixed-citation></ref><ref id="alz70258-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz70258-cite-0023">
+<string-name name-style="western">
+<surname>Santoro</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pagarkar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chu</surname>
+<given-names>DT</given-names>
+</string-name>, et al. <article-title>Neurologic complications of Down syndrome: a systematic review</article-title>. <source>J Neurol</source>. <year>2021</year>;<volume>268</volume>(<issue>12</issue>):<fpage>4495</fpage>‐<lpage>4509</lpage>.<pub-id pub-id-type="pmid">32920658</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00415-020-10179-w</pub-id></mixed-citation></ref><ref id="alz70258-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz70258-cite-0024">
+<string-name name-style="western">
+<surname>Vossel</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ranasinghe</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beagle</surname>
+<given-names>AJ</given-names>
+</string-name>, et al. <article-title>Effect of levetiracetam on cognition in patients With Alzheimer disease with and without epileptiform activity: a randomized clinical trial</article-title>. <source>JAMA Neurol</source>. <year>2021</year>;<volume>78</volume>(<issue>8</issue>):<fpage>961</fpage>‐<lpage>970</lpage>. doi:<pub-id pub-id-type="doi">10.1142/9781786346827_0007</pub-id>
+<pub-id pub-id-type="pmid">34570177</pub-id>
+<pub-id pub-id-type="pmcid">PMC8477304</pub-id></mixed-citation></ref><ref id="alz70258-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz70258-cite-0025">
+<string-name name-style="western">
+<surname>Lorenzon</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Musoles‐Lleó</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turrisi</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>State‐of‐the‐art therapy for Down syndrome.pdf</article-title>. <source>Dev Med Child Neurol</source>. <year>2023</year>;<volume>65</volume>(<issue>7</issue>):<fpage>870</fpage>‐<lpage>884</lpage>.<pub-id pub-id-type="pmid">36692980</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/dmcn.15517</pub-id></mixed-citation></ref><ref id="alz70258-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz70258-cite-0026">
+<string-name name-style="western">
+<surname>Tsou</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bulova</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Capone</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Medical care of adults with Down syndrome: a clinical guideline</article-title>. <source>JAMA</source>. <year>2020</year>;<volume>324</volume>(<issue>15</issue>):<fpage>1543</fpage>‐<lpage>1556</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2020.17024</pub-id>
+<pub-id pub-id-type="pmid">33079159</pub-id>
+</mixed-citation></ref><ref id="alz70258-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz70258-cite-0027">
+<string-name name-style="western">
+<surname>Rafii</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Alzheimer's disease in Down syndrome: progress in the design and conduct of Drug Prevention Trials</article-title>. <source>CNS Drugs</source>. <year>2020</year>;<volume>34</volume>(<issue>8</issue>):<fpage>785</fpage>‐<lpage>794</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s40263-020-00740-6</pub-id>
+<pub-id pub-id-type="pmid">32506291</pub-id>
+<pub-id pub-id-type="pmcid">PMC7395870</pub-id></mixed-citation></ref><ref id="alz70258-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz70258-cite-0028">
+<string-name name-style="western">
+<surname>Snyder</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bain</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brickman</surname>
+<given-names>AM</given-names>
+</string-name>, et al. <article-title>Further understanding the connection between Alzheimer's disease and Down syndrome</article-title>. <source>Alzheimer's Dement</source>. <year>2020</year>;<volume>16</volume>(<issue>7</issue>):<fpage>1065</fpage>‐<lpage>1077</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12112</pub-id>
+<pub-id pub-id-type="pmid">32544310</pub-id>
+<pub-id pub-id-type="pmcid">PMC8865308</pub-id></mixed-citation></ref><ref id="alz70258-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz70258-cite-0029">
+<string-name name-style="western">
+<surname>Carmona‐Iragui</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balasa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benejam</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Cerebral amyloid angiopathy in Down syndrome and sporadic and autosomal‐dominant Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2017</year>;<volume>13</volume>(<issue>11</issue>):<fpage>1251</fpage>‐<lpage>1260</lpage>. doi:<pub-id pub-id-type="doi">10.1016/J.JALZ.2017.03.007</pub-id>
+<pub-id pub-id-type="pmid">28463681</pub-id>
+<pub-id pub-id-type="pmcid">PMC5660938</pub-id></mixed-citation></ref><ref id="alz70258-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz70258-cite-0030">
+<string-name name-style="western">
+<surname>Helman</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siever</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCarty</surname>
+<given-names>KL</given-names>
+</string-name>, et al. <article-title>Microbleeds and cerebral amyloid angiopathy in the brains of people with Down syndrome with Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2019</year>;<volume>67</volume>(<issue>1</issue>):<fpage>103</fpage>‐<lpage>112</lpage>. doi:<pub-id pub-id-type="doi">10.5771/9783845290652-91</pub-id>
+<pub-id pub-id-type="pmid">30452414</pub-id>
+<pub-id pub-id-type="pmcid">PMC6424116</pub-id></mixed-citation></ref><ref id="alz70258-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz70258-cite-0031">
+<string-name name-style="western">
+<surname>Head</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phelan</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doran</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Cerebrovascular pathology in Down syndrome and Alzheimer disease</article-title>. <source>Acta Neuropathol Commun</source>. <year>2017</year>;<volume>5</volume>(<issue>1</issue>):<fpage>93</fpage>. doi:<pub-id pub-id-type="doi">10.1017/cbo9780511641961.013</pub-id>
+<pub-id pub-id-type="pmid">29195510</pub-id>
+<pub-id pub-id-type="pmcid">PMC5709935</pub-id></mixed-citation></ref><ref id="alz70258-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz70258-cite-0032">
+<string-name name-style="western">
+<surname>Carmona‐Iragui</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balasa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benejam</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Cerebral amyloid angiopathy in Down syndrome and sporadic and autosomal‐dominant Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2017</year>;<volume>13</volume>(<issue>11</issue>):<fpage>1251</fpage>‐<lpage>1260</lpage>. doi:<pub-id pub-id-type="doi">10.1007/978-1-4471-1772-8_4</pub-id>
+<pub-id pub-id-type="pmid">28463681</pub-id>
+<pub-id pub-id-type="pmcid">PMC5660938</pub-id></mixed-citation></ref><ref id="alz70258-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz70258-cite-0033">
+<string-name name-style="western">
+<surname>Cummings</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Apostolova</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rabinovici</surname>
+<given-names>GD</given-names>
+</string-name>, et al. <article-title>Lecanemab: appropriate use recommendations</article-title>. <source>J Prev Alzheimers Dis</source>. <year>2023</year>;<volume>10</volume>(<issue>3</issue>):<fpage>362</fpage>‐<lpage>377</lpage>. doi:<pub-id pub-id-type="doi">10.1142/9781786346827_0005</pub-id>
+<pub-id pub-id-type="pmid">37357276</pub-id>
+<pub-id pub-id-type="pmcid">PMC10313141</pub-id></mixed-citation></ref><ref id="alz70258-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz70258-cite-0034">
+<string-name name-style="western">
+<surname>Harisinghani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cottrell</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Donelan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lam</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pulsifer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santoro</surname>
+<given-names>SL</given-names>
+</string-name>. <article-title>Practicalities (and real‐life experiences) of dementia in adults with Down syndrome</article-title>. <source>Am J Med Genet C Semin Med Genet</source>. <year>2024</year>;<volume>196</volume>(<issue>4</issue>):<elocation-id>e32098</elocation-id>. doi:<pub-id pub-id-type="doi">10.1142/9781786346827_0008</pub-id>
+<pub-id pub-id-type="pmid">38967370</pub-id>
+</mixed-citation></ref><ref id="alz70258-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz70258-cite-0035">
+<string-name name-style="western">
+<surname>Sukreet</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rafii</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rissman</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>From understanding to action: exploring molecular connections of Down syndrome to Alzheimer's disease for targeted therapeutic approach</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>16</volume>(<issue>2</issue>):<fpage>1</fpage>‐<lpage>17</lpage>. doi:<pub-id pub-id-type="doi">10.1002/dad2.12580</pub-id>
+<pub-id pub-id-type="pmcid">PMC11016820</pub-id><pub-id pub-id-type="pmid">38623383</pub-id></mixed-citation></ref><ref id="alz70258-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz70258-cite-0036">
+<string-name name-style="western">
+<surname>Santoro</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harisinghani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bregman</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Implementing a quality improvement initiative to screen for dementia in a Down syndrome specialty clinic</article-title>. <source>Am J Med Genet A</source>. <year>2025</year>;<volume>197</volume>(<issue>4</issue>):<elocation-id>e63948</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/ajmg.a.63948</pub-id>
+<pub-id pub-id-type="pmid">39607288</pub-id>
+</mixed-citation></ref><ref id="alz70258-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz70258-cite-0037">
+<string-name name-style="western">
+<surname>Rafii</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zaman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Handen</surname>
+<given-names>BL</given-names>
+</string-name>. <article-title>Integrating biomarker outcomes into clinical trials for Alzheimer's disease in Down syndrome</article-title>. <source>J Prev Alzheimers Dis</source>. <year>2021</year>;<volume>8</volume>(<issue>1</issue>):<fpage>48</fpage>‐<lpage>51</lpage>. doi:<pub-id pub-id-type="doi">10.14283/jpad.2020.35</pub-id>
+<pub-id pub-id-type="pmid">33336224</pub-id>
+<pub-id pub-id-type="pmcid">PMC8279390</pub-id></mixed-citation></ref><ref id="alz70258-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz70258-cite-0038">
+<string-name name-style="western">
+<surname>Montoliu‐Gaya</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strydom</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Blood biomarkers for alzheimer's disease in down syndrome</article-title>. <source>J Clin Med</source>. <year>2021</year>;<volume>10</volume>(<issue>16</issue>):<fpage>1</fpage>‐<lpage>21</lpage>. doi:<pub-id pub-id-type="doi">10.3390/jcm10163639</pub-id>
+<pub-id pub-id-type="pmcid">PMC8397053</pub-id><pub-id pub-id-type="pmid">34441934</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

@@ -1,0 +1,2009 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="acn351539" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="iso-abbrev">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="pmc-domain-id">2565</journal-id><journal-id journal-id-type="pmc-domain">ancltransneuro</journal-id><journal-id journal-id-type="publisher-id">ACN3</journal-id><journal-title-group><journal-title>Annals of Clinical and Translational Neurology</journal-title></journal-title-group><issn pub-type="epub">2328-9503</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC8994981</article-id><article-id pub-id-type="pmcid-ver">PMC8994981.1</article-id><article-id pub-id-type="pmcaid">8994981</article-id><article-id pub-id-type="pmcaiid">8994981</article-id><article-id pub-id-type="pmid">35293158</article-id><article-id pub-id-type="doi">10.1002/acn3.51539</article-id><article-id pub-id-type="publisher-id">ACN351539</article-id><article-id pub-id-type="other">ACN3-2022-01-0005-RV.R1</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>New approaches for the quantification and targeting of noradrenergic dysfunction in Alzheimer's disease</article-title><alt-title alt-title-type="right-running-head">Noradrenergic Function Biomarkers in Alzheimer's</alt-title><alt-title alt-title-type="left-running-head">M. David &amp; P.A. Malhotra</alt-title></title-group><contrib-group><contrib id="acn351539-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>David</surname><given-names initials="M">Michael</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8724-2840</contrib-id><xref rid="acn351539-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn351539-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="acn351539-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>md2012@ic.ac.uk</email></address></contrib><contrib id="acn351539-cr-0002" contrib-type="author"><name name-style="western"><surname>Malhotra</surname><given-names initials="PA">Paresh A.</given-names></name><xref rid="acn351539-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="acn351539-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="acn351539-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="acn351539-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Imperial College London and the University of Surrey</named-content>
+<institution>UK Dementia Research Institute Care Research and Technology Centre</institution>
+<named-content content-type="street">Sir Michael Uren Hub, 86 Wood Lane</named-content>
+<city>London</city>
+<postal-code>W12 0BZ</postal-code>
+<country country="GB">UK</country>
+</aff><aff id="acn351539-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Imperial College London, Brain Sciences</institution>
+<named-content content-type="street">South Kensington</named-content>
+<city>London</city>
+<postal-code>SW7 2AZ</postal-code>
+<country country="GB">UK</country>
+</aff><aff id="acn351539-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Imperial College Healthcare NHS Trust, Clinical Neurosciences</named-content>
+<institution>Charing Cross Hospital</institution>
+<city>London</city>
+<postal-code>W2 1NY</postal-code>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Michael David, Imperial College London, UK Dementia Research Institute Care Research and Technology Centre, Sir Michael Uren Hub, 86 Wood Lane, London, UK W12 0BZ. Tel: +44 (0)20 7594 1356; E‐mail: <email>md2012@ic.ac.uk</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>3</month><year>2022</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2022</year></pub-date><volume>9</volume><issue seq="180">4</issue><issue-id pub-id-type="pmc-issue-id">405118</issue-id><issue-id pub-id-type="doi">10.1002/acn3.v9.4</issue-id><fpage>582</fpage><lpage>596</lpage><history><date date-type="rev-recd"><day>23</day><month>2</month><year>2022</year></date><date date-type="received"><day>05</day><month>1</month><year>2022</year></date><date date-type="accepted"><day>25</day><month>2</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>15</day><month>03</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>15</day><month>04</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-11-01 12:25:09.983"><day>01</day><month>11</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Annals of Clinical and Translational Neurology</italic> published by Wiley Periodicals LLC on behalf of American Neurological Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ACN3-9-582.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ACN3-9-582.pdf"/><abstract><title>Abstract</title><p>There is clear, early noradrenergic dysfunction in Alzheimer's disease. This is likely secondary to pathological tau deposition in the locus coeruleus, the pontine nucleus that produces and releases noradrenaline, prior to involvement of cortical brain regions. Disruption of noradrenergic pathways affects cognition, especially attention, impacting memory and broader functioning. Additionally, it leads to autonomic and neuropsychiatric symptoms. Despite the strong evidence of noradrenergic involvement in Alzheimer's, there are no clear trial data supporting the clinical use of any noradrenergic treatments. Several approaches have been tried, including proof‐of‐principle studies and (mostly small scale) randomised controlled trials. Treatments have included pharmacotherapies as well as stimulation. The lack of clear positive findings is likely secondary to limitations in gauging locus coeruleus integrity and dysfunction at an individual level. However, the recent development of several novel biomarkers holds potential and should allow quantification of dysfunction. This may then inform inclusion criteria and stratification for future trials. Imaging approaches have improved greatly following the development of neuromelanin‐sensitive sequences, enabling the use of structural MRI to estimate locus coeruleus integrity. Additionally, functional MRI scanning has the potential to quantify network dysfunction. As well as neuroimaging, EEG, fluid biomarkers and pupillometry techniques may prove useful in assessing noradrenergic tone. Here, we review the development of these biomarkers and how they might augment clinical studies, particularly randomised trials, through identification of patients most likely to benefit from treatment. We outline the biomarkers with most potential, and how they may transform symptomatic therapy for people living with Alzheimer's disease.</p></abstract><counts><fig-count count="5"/><table-count count="0"/><page-count count="596"/><word-count count="10974"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.3 mode:remove_FC converted:10.04.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="acn351539-ntgp-0001"><fn id="acn351539-note-0001"><p>
+<bold>Funding Information</bold>
+</p><p>No funding information provided.</p></fn></fn-group></notes></front><body id="acn351539-body-0001"><sec id="acn351539-sec-0001"><title>Introduction</title><p>The mainstay of medical treatment for Alzheimer's disease (AD) for over two decades has consisted of pharmacological therapies targeting well‐established cholinergic deficits.<xref rid="acn351539-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> In recent years development of new treatments has focussed on disease modification rather than the modulation of symptoms through targeting of dysfunctional neurotransmitter pathways. However, in addition to cholinergic disruption, there is clear and early pathological involvement of noradrenergic pathways in AD, with increasing evidence to suggest that this may be related to cognitive and behavioural dysfunction,<xref rid="acn351539-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="acn351539-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="acn351539-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="acn351539-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="acn351539-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> and possibly even disease progression.<xref rid="acn351539-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</p><p>Noradrenergic compounds have previously been trialled in dementia and AD in particular, but most of these studies were carried out in an era preceding the standardisation of randomised controlled trials and systematic AD diagnosis.<xref rid="acn351539-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="acn351539-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="acn351539-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Thus, trials tended to be underpowered and were extremely likely to have included patients with cognitive impairment secondary to other diseases.<xref rid="acn351539-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> Within the context of biomarker‐confirmed AD, it is becoming increasingly clear that AD pathology and symptom profile vary between individuals and over time.<xref rid="acn351539-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="acn351539-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> AD can present with a spectrum of cognitive impairments<xref rid="acn351539-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>—likely underpinned by varying involvement of different neurotransmitter systems. Hence future trials of noradrenergic therapies may benefit considerably from incorporating indices of neurotransmitter pathway‐specific dysfunction.</p><p>Until recently, noradrenergic involvement in AD could only be reliably measured at autopsy, limiting any possibility of biomarker‐informed treatment. This is in contrast to other neurotransmitters and causes of neurodegeneration, particularly dopamine and idiopathic Parkinson's disease (PD) and Dementia with Lewy Bodies.<xref rid="acn351539-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> However, recent developments in imaging techniques<xref rid="acn351539-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> and other physiological biomarkers such as EEG and pupillometry<xref rid="acn351539-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="acn351539-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="acn351539-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> that enable the detection and measurement of noradrenergic dysfunction, highlight promising avenues for more targeted treatment. Below we outline the evidence for noradrenergic dysfunction in AD before reviewing the methods through which this can be identified and quantified to guide noradrenergic therapy.</p></sec><sec id="acn351539-sec-0002"><title>The locus coeruleus‐norepinephrine system</title><sec id="acn351539-sec-0003"><title>Normal function</title><p>Noradrenaline (or norepinephrine (NE)) is a catecholamine synthesised and then released by noradrenergic neurons before acting on one of the three adrenoreceptor (AR) subtypes: α<sub>1</sub>, α<sub>2</sub> and β.<xref rid="acn351539-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+</p><p>The principal source of NE in the brain is the locus coeruleus (LC),<xref rid="acn351539-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> which comprises a pair of tiny nuclei in the pons, from which cells project throughout the brain.<xref rid="acn351539-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> As well as the thalamus, amygdala and hippocampus, noradrenergic neurons connect the LC with the entorhinal and frontal cortices,<xref rid="acn351539-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> with extensive prefrontal cortex (PFC) inputs.<xref rid="acn351539-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="acn351539-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="acn351539-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> In addition to general arousal and alertness,<xref rid="acn351539-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="acn351539-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> they have been shown to influence attention,<xref rid="acn351539-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="acn351539-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="acn351539-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> memory<xref rid="acn351539-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="acn351539-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="acn351539-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> and executive function<xref rid="acn351539-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="acn351539-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> (Fig. <xref rid="acn351539-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="Figure" id="acn351539-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Schematic showing the locus coeruleus and its projections throughout the brain. Details of autonomic functions of the noradrenergic system are also shown. Actions of the noradrenergic system on cognition, as well as the nature of pathology seen in AD, and potential tools to modulate this system when dysfunctional are also shown. TH, thalamus; HYP, hypothalamus; SN, substantia nigra; VTA, ventral tegmental area; AMY, amygdala; HIP, hippocampus; LC, locus coeruleus; NTS, nucleus tractus solitarius.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ACN3-9-582-g002.jpg"/></fig><p>Recent understanding of the LC points to a modular structure with sub‐domains that project to terminal structures independently and as such have differential influence on behavioural and cognitive function.<xref rid="acn351539-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="acn351539-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> It is increasingly possible to investigate and quantify the integrity of this system with a greater degree of precision with the development of modern biomarker techniques such as ultra‐high field 7‐Tesla magnetic resonance imaging (MRI).<xref rid="acn351539-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+</p><p>According to the influential ‘adaptive‐gain theory’, the LC‐NE system has two modes of activity: tonic and phasic.<xref rid="acn351539-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> Cognitive performance and phasic activity appear to be optimal at an intermediate level of tonic LC activity, in accordance with the classic Yerkes–Dodson arousal curve.<xref rid="acn351539-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="acn351539-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="acn351539-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> Critically, this suggests that the relationship between LC‐NE dysfunction and any treatment response is not linear (Fig. <xref rid="acn351539-fig-0002" ref-type="fig">2</xref>).</p><fig position="float" fig-type="Figure" id="acn351539-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Schematic showing the Yerkes–Dodson arousal curve and the possible effects of noradrenergic therapy. (A) Shows the two theoretical versions of the arousal curve; one representing normal LC function in health (blue), and one representing the curve that may be seen with LC dysfunction in AD (red). The black arrow represents the transformation between the two curves. Pathology in this system in AD is likely to affect the dynamics of the ascending arousal system and disturb the balance of arousal seen in health. This dysfunction results in the curve moving to the left, representing a decreased likelihood that they will be in an ‘engaged’ state, whilst they also have an increased tendency to be in low performance states; ‘drowsy’ and ‘stressed’. (B) Shows the same curve for LC dysfunction in AD as well as the theoretical curve seen patients who have received noradrenergic therapy. The black arrow represents the transformation between the two curves. Noradrenergic therapy is theorised to heighten the noradrenergic tone in patients, moving the curve to the right, and therefore leading to an increasing likelihood that patients will be in an ‘engaged’ state. Successful use of noradrenergic treatments may rely on dose titration in order to ‘tune’ the system to the central peak of the classic inverted‐U curve.<xref rid="acn351539-bib-0136" ref-type="bibr">
+<sup>136</sup>
+</xref> It has the potential to lead to ‘over‐arousal’, however, with the line shifted too far to the right, and therefore patients may be more ‘stressed’ than ‘engaged’. LC, locus coeruleus; AD, Alzheimer's disease, NE, noradrenaline.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ACN3-9-582-g003.jpg"/></fig></sec><sec id="acn351539-sec-0004"><title>Noradrenergic dysfunction in Alzheimer's disease</title><p>In 1981, Tomlinson and colleagues discovered that AD leads to early neuronal loss in the LC<xref rid="acn351539-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> and in the last 40 years, a range of functional and anatomical changes to the noradrenergic system have been observed. In fact, the LC is the site at which the accumulation of neurofibrillary tau tangles is first seen in AD, prior to their appearance in the medial temporal lobe.<xref rid="acn351539-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> MRI sequences have more recently been developed to measure LC integrity<xref rid="acn351539-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> and have corroborated evidence that early LC degeneration occurs in AD.<xref rid="acn351539-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="acn351539-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> Critically, LC neuron loss<xref rid="acn351539-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="acn351539-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="acn351539-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> and NE concentration in several brain regions<xref rid="acn351539-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="acn351539-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> have been shown to correlate with severity of disease. A recent study from Jacobs et al. showed that MRI measures of LC integrity are associated with a pattern of tau accumulation that is consistent with Braak staging.<xref rid="acn351539-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> They also showed that imaging measures of LC intensity are associated with cognitive decline in the context of elevated β‐amyloid in clinically normal older adults, with the authors proposing that these may be used as a predictor of AD‐related cognitive decline.<xref rid="acn351539-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Additionally, whilst it appears plasma and cerebrospinal fluid (CSF) levels of NE (and its metabolite 3‐methoxy‐4‐hydroxyphenylglycol (MHPG)) are maintained or even elevated in the earlier stages of AD, LC degeneration ultimately leads to decreased levels of NE in terminal regions.<xref rid="acn351539-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>
+</p><sec id="acn351539-sec-0005"><title>Symptoms associated with locus coeruleus‐noradrenaline dysfunction in Alzheimer's disease</title><sec id="acn351539-sec-0006"><title>Attentional deficits in Alzheimer's disease</title><p>Attentional functions have been examined systematically in AD<xref rid="acn351539-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> and it is clear that attention is frequently affected early in the course of disease.<xref rid="acn351539-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> In 1990, Posner and Peterson laid out their influential model for human attention, describing a combination of three interlinked networks; alerting, orienting and executive.<xref rid="acn351539-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> Within the broad domain of attention, arousal and alerting appear to be especially reliant on an intact LC‐NE system.<xref rid="acn351539-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> However, impairments of all three networks are likely to be caused by disruption of LC‐NE pathways as well as effects on other ascending arousal systems.<xref rid="acn351539-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="acn351539-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> In their recent 7‐Tesla fMRI study, Munn and colleagues provided further evidence of how the LC‐NE system's role in ascending arousal system modulates the configuration of neural networks and subsequently influences conscious awareness.<xref rid="acn351539-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> Deficits in awareness have consequences for patients' perceptual sensitivity<xref rid="acn351539-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> and ability to orient attention to salient stimuli,<xref rid="acn351539-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> with real‐world impact for patients. For example, in affecting their ability to drive on a busy road or to follow a conversation in a busy restaurant––situations in which orienting and sustaining attention are vital, and where patients with AD repeatedly report difficulties.</p><p>Attentional functions should not be considered in isolation from other cognitive domains in the context of noradrenergic dysfunction. Most relevant to AD, Clewett and colleagues revealed that the LC‐NE system influences the efficacy of memory formation under arousal.<xref rid="acn351539-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> Using simultaneous functional MRI (fMRI) and pupillometry, they showed that greater scene encoding activity in the LC and parahippocampal cortex correlated with greater threat‐evoked pupil dilations. The LC engagement for encoding, as measured by pupil dilations, was correlated with neuromelanin signal intensity (a measure of LC integrity discussed in detail in Section 3.2.1.), providing evidence that LC structure relates to its activation pattern during cognitive processing.<xref rid="acn351539-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> A further MRI study of healthy older adults showed participants with higher neuromelanin‐related signal intensity in the LC performed better on a memory task.<xref rid="acn351539-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> This has clear implications for AD and suggests a mechanism by which impaired LC function might lead to impaired episodic memory.</p></sec><sec id="acn351539-sec-0007"><title>Neuropsychiatric dysfunction</title><p>In addition to cognitive dysfunction, multiple neuropsychiatric symptoms are associated with AD, including depression, anxiety and psychosis.<xref rid="acn351539-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> Much like the other symptoms described, these neuropsychiatric problems have a well‐established association with NE.<xref rid="acn351539-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="acn351539-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> Patients with a history of depression have fewer LC neurons post‐mortem,<xref rid="acn351539-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> and in dementia there is a positive correlation between LC degeneration and both depression<xref rid="acn351539-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref> and aggressive behaviour.<xref rid="acn351539-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> As with cognitive function, the relationship between NE and neuropsychiatric state may not be linear. In fact, patients appear to be vulnerable to the effects of both over and under‐arousal. Thus there is a potential risk of inducing undesired states of stress with excessive noradrenergic treatment<xref rid="acn351539-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref> (Fig. <xref rid="acn351539-fig-0002" ref-type="fig">2</xref>).</p></sec><sec id="acn351539-sec-0008"><title>Autonomic dysfunction</title><p>Autonomic dysfunction is common in AD but often overlooked, and LC‐NE disruption is implicated in its pathogenesis. Stimulation of the LC‐NE provokes a pressor response in the arterioles and increase in heart rate,<xref rid="acn351539-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref>, <xref rid="acn351539-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref>, <xref rid="acn351539-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> as well as stimulation of the sweat glands, via sympathetic innervation.<xref rid="acn351539-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> Symptoms such as orthostatic hypotension which, although more common in α‐synucleinopathies such as PD, are more prevalent in AD than in individuals without dementia.<xref rid="acn351539-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref> This may be through loss of LC projections to pre‐ganglionic neurons that increase sympathetic activity and decrease parasympathetic activity via the α<sub>1</sub>‐AR and α<sub>2</sub>‐AR, respectively.<xref rid="acn351539-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> Pupillary fluctuations, under autonomic control, are related to arousal and can be measured as a proxy for LC function––as discussed in detail in section 3.3.</p></sec><sec id="acn351539-sec-0009"><title>Sleep–wake cycle disturbance</title><p>Disturbance of the sleep–wake cycle is significantly more common in AD, often preceding cognitive symptoms.<xref rid="acn351539-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref> Symptoms include frequent awakenings, nocturnal wandering and excessive daytime sleepiness, together causing considerable burden to patients and their families. This may in part be due to tau accumulation in the LC which contains wake‐promoting neurons.<xref rid="acn351539-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref> This account is supported by correlation between symptoms of sleep disturbance and reduced LC integrity as measured by 7 T MRI.<xref rid="acn351539-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref>
+</p></sec></sec></sec></sec><sec id="acn351539-sec-0010"><title>Using biomarkers to guide therapeutic approaches</title><sec id="acn351539-sec-0011"><title>Introduction</title><p>The NIH‐FDA Biomarker Working Group define a biomarker as a ‘characteristic that is measured as an indicator of normal biological processes, pathogenic processes, or responses to an exposure or intervention, including therapeutic interventions’.<xref rid="acn351539-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref> Here, we review the most promising biomarkers that investigators have proposed as indices of LC‐NE function, and the extent to which they satisfy that definition. In some instances, notably structural MRI, pupillometry and EEG, there are studies linking LC activity and integrity with biomarker changes in a causal manner, through the stimulation of blocking of LC activity, and we have referred to these accordingly. However, there is minimal evidence to‐date that functional MRI measures, for example, provide specific measurements of LC activity.</p><p>Neurodegenerative diseases lead to heterogeneous patterns of pathology and phenotypes.<xref rid="acn351539-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> The extent of LC damage and noradrenergic dysfunction varies considerably across the AD spectrum. AD patients stratified to ‘early onset’ rather than ‘late onset’ show nearly four times greater likelihood of higher LC atrophy on autopsy after controlling for other measures of pathological progression. Although LC atrophy did not appear to affect overall cognitive performance in this study, it did correlate with attentional function.<xref rid="acn351539-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>
+</p><p>The effect of treatment may well also be influenced by disease progression. Dysregulation of the LC‐NE system in the early stages contributes to increased aberrant amyloid accumulation. Thus, using medication to modulate the accumulation of this pathology may be best used as the start of the disease process.<xref rid="acn351539-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> Although the integrity of the LC and pharmacological responsiveness in prodromal AD need further investigation, this account would suggest that the stage of mild cognitive impairment (MCI) may offer a critical window of time to initiate novel noradrenergic‐based therapies.<xref rid="acn351539-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</p><p>The difficulties associated with existing cholinergic treatments highlight the need for biomarkers to guide noradrenergic approaches if they are to be successful. Cholinergic effects are modest at the group level but the benefit to some individuals is perhaps underestimated. This may to some extent, be due to the insensitivity of the tools traditionally used to assess improvement but, regardless, there is considerable variability in response to cholinergic treatment between individuals, highlighting the need for tools to identify those most likely to respond.<xref rid="acn351539-bib-0074" ref-type="bibr">
+<sup>74</sup>
+</xref> This approach has been developed in the context of methylphenidate both in attention deficit hyperactivity disorder (ADHD) where children who have particularly poor sustained attention are most likely to benefit<xref rid="acn351539-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref> and traumatic brain injury in which drug response has been linked to neuroimaging markers.<xref rid="acn351539-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> There has also been preliminary success with a similar approach being used to correlate LC integrity and response to a single dose of noradrenergic treatment in PD.<xref rid="acn351539-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref>
+</p><p>To this end, there is a current need to develop robust biomarkers of LC‐NE dysfunction to guide and inform trials, as well as confirm mechanisms of action and allow for targeted treatment. Such an approach would enable individualising of treatment in accordance with the indexed pathology, in contrast to findings from more broadly inclusive randomised controlled trials that might be misleading by averaging results across heterogeneous cohorts.<xref rid="acn351539-bib-0078" ref-type="bibr">
+<sup>78</sup>
+</xref>, <xref rid="acn351539-bib-0079" ref-type="bibr">
+<sup>79</sup>
+</xref> Furthermore, use of biomarkers that index noradrenergic activity could potentially provide important information regarding the therapeutic mechanism of interventions that act via multiple neurotransmitter systems.</p></sec><sec id="acn351539-sec-0012"><title>Imaging markers of the locus coeruleus‐noradrenaline system</title><p>Due to its small size, low magnetic resonance signal in conventional T1‐weighted MRI and location deep in the brainstem where it is susceptible to artefacts from adjacent blood vessels, the LC has historically been difficult to image.<xref rid="acn351539-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="acn351539-bib-0080" ref-type="bibr">
+<sup>80</sup>
+</xref>, <xref rid="acn351539-bib-0081" ref-type="bibr">
+<sup>81</sup>
+</xref> However, recent advances in structural and functional imaging techniques<xref rid="acn351539-bib-0082" ref-type="bibr">
+<sup>82</sup>
+</xref> have furthered our understanding of the noradrenergic system and allowed evaluation of its integrity in ageing and disease.<xref rid="acn351539-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="acn351539-bib-0080" ref-type="bibr">
+<sup>80</sup>
+</xref>, <xref rid="acn351539-bib-0083" ref-type="bibr">
+<sup>83</sup>
+</xref>, <xref rid="acn351539-bib-0084" ref-type="bibr">
+<sup>84</sup>
+</xref>, <xref rid="acn351539-bib-0085" ref-type="bibr">
+<sup>85</sup>
+</xref> It is worth noting, however, that unlike Ioflupane SPECT in PD, there is currently no direct functional measure of LC‐NE integrity.</p><sec id="acn351539-sec-0013"><title>Structural</title><p>Over the last decade, researchers have imaged the LC more precisely using MRI sequences sensitive to neuromelanin, a paramagnetic compound that accumulates in noradrenergic neurons.<xref rid="acn351539-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> Neuromelanin‐sensitive MRI constituted a major breakthrough in allowing accurate segmentation of the LC. Signal intensity (or contrast) on these sequences can be used as a measure of LC integrity.<xref rid="acn351539-bib-0085" ref-type="bibr">
+<sup>85</sup>
+</xref>, <xref rid="acn351539-bib-0086" ref-type="bibr">
+<sup>86</sup>
+</xref> A recent study showed the validity of this biomarker as an accurate measure of pathology by correlating MRI and post‐mortem findings.<xref rid="acn351539-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>However, this technique is not without its limitations. Substantial interindividual differences in LC measures are seen across healthy older adults<xref rid="acn351539-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="acn351539-bib-0087" ref-type="bibr">
+<sup>87</sup>
+</xref> and neuromelanin increases across the lifespan.<xref rid="acn351539-bib-0087" ref-type="bibr">
+<sup>87</sup>
+</xref> Furthermore, precise understanding of this variation is lacking.<xref rid="acn351539-bib-0085" ref-type="bibr">
+<sup>85</sup>
+</xref> We also note that neuromelanin‐sensitive MRI allows quantification of cell density, but not synaptic density, and not cell activity.<xref rid="acn351539-bib-0085" ref-type="bibr">
+<sup>85</sup>
+</xref>
+</p><p>As stated above, MRI has been used to differentiate AD patients from healthy controls, at the group level, based on LC integrity<xref rid="acn351539-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="acn351539-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> (Fig. <xref rid="acn351539-fig-0003" ref-type="fig">3</xref>). Recent advances in structural LC imaging may provide the key to unlock the potential of noradrenergic treatments in AD by enabling the stratification of patients in clinical trials according to the degree of noradrenergic dysfunction.<xref rid="acn351539-bib-0085" ref-type="bibr">
+<sup>85</sup>
+</xref> This may be improved further by higher resolution methods, and multiple studies have shown the LC can been successfully imaged using 7‐Tesla MRI.<xref rid="acn351539-bib-0088" ref-type="bibr">
+<sup>88</sup>
+</xref>, <xref rid="acn351539-bib-0089" ref-type="bibr">
+<sup>89</sup>
+</xref>, <xref rid="acn351539-bib-0090" ref-type="bibr">
+<sup>90</sup>
+</xref> Work in PD has shown that individual differences in LC structure measured using neuromelanin sequences at 7‐Tesla correlate with response to noradrenergic modulation of cognitive impairment, suggesting that a similar approach may be possible in AD<sup>79</sup>. This single dose proof‐of‐principle study points the way for longitudinal, prospective studies of noradrenergic treatments with systematic evaluation of the correlation between individual response and imaging findings.</p><fig position="float" fig-type="Figure" id="acn351539-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>Single slices from a 3‐Tesla magnetization transfer contrast MRI of the pons by our group. (A) (Axial) and (B) (sagittal) are from a 62‐year‐old healthy control, showing a healthy LC with clear contrast compared to the rest of the pons. (C) (Axial) is (D) (sagittal) are from 71‐year‐old patient with Alzheimer's disease with reduced contrast at the site of the LC, showing evidence of degeneration. White arrows and crosses highlight locus coeruleus (LC).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ACN3-9-582-g001.jpg"/></fig></sec><sec id="acn351539-sec-0014"><title>Functional</title><p>Resting state fMRI studies have shown functional connectivity (FC) between the LC and various brain regions<xref rid="acn351539-bib-0091" ref-type="bibr">
+<sup>91</sup>
+</xref> in healthy humans, most convincingly the amygdala.<xref rid="acn351539-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> With regards to memory, greater FC with the parahippocampal gyrus<xref rid="acn351539-bib-0092" ref-type="bibr">
+<sup>92</sup>
+</xref> and cerebellum<xref rid="acn351539-bib-0093" ref-type="bibr">
+<sup>93</sup>
+</xref> have been correlated with performance in people with early dementia and parental history of AD, respectively. In terms of FC changes seen in clinical AD, there are inconsistencies in the literature,<xref rid="acn351539-bib-0094" ref-type="bibr">
+<sup>94</sup>
+</xref>, <xref rid="acn351539-bib-0095" ref-type="bibr">
+<sup>95</sup>
+</xref> although there is evidence suggesting an important role for the LC. One study of AD patients demonstrated the LC to be one of the two foci (along with right orbitofrontal cortex) of disrupted paths of connectivity, when compared to controls.<xref rid="acn351539-bib-0096" ref-type="bibr">
+<sup>96</sup>
+</xref> These findings were corroborated in a later study in which results reached significance when using more generous statistical methods to account for the limited imaging resolution.<xref rid="acn351539-bib-0097" ref-type="bibr">
+<sup>97</sup>
+</xref> Interestingly, individuals with MCI have been found to have disrupted LC‐parahippocampal gyrus connectivity, whilst this measure still correlated with memory performance in higher functioning individuals, suggesting that altered FC is detectable early in the disease process.<xref rid="acn351539-bib-0092" ref-type="bibr">
+<sup>92</sup>
+</xref>
+</p><p>Taken together, there is significant evidence for the potential of fMRI as an adjunct to structural imaging in indexing LC‐NE dysfunction in this patient population. Whilst quantification of LC integrity with structural imaging can be used to index dysfunction on an individual level, functional neuroimaging has the potential to demonstrate treatment‐related changes in brain activity in tandem with established neuropsychological measures of cognitive response. Furthermore, given the relatively non‐specific action of many neuropsychiatric drugs, these techniques might also be used to assess the extent to which the noradrenergic action of the drug is contributing to said response. It is likely, however, that structural imaging will be implemented in the guidance of noradrenergic treatment some time before functional imaging can reliably be used in this way.</p><p>Positron emission tomography (PET) scanning uses radioligands to assess markers of brain function such as changes in metabolism and neurotransmitter levels.<xref rid="acn351539-bib-0086" ref-type="bibr">
+<sup>86</sup>
+</xref> PET has poorer spatial resolution compared to MRI and it is also more expensive and invasive than MRI, but offers additional information, depending on the tracer used.<xref rid="acn351539-bib-0086" ref-type="bibr">
+<sup>86</sup>
+</xref> For example, imaging of the intracellular NE transporter using PET has shown lower binding in LC and thalamus which correlated with post‐mortem Braak staging.<xref rid="acn351539-bib-0098" ref-type="bibr">
+<sup>98</sup>
+</xref> Tau‐PET has revolutionised the understanding of Alzheimer's pathophysiology but this technique's resolution remains too low at present to reliably detect tau pathology in LC.<xref rid="acn351539-bib-0099" ref-type="bibr">
+<sup>99</sup>
+</xref> Furthermore, subcortical Tau‐PET findings need to be interpreted with caution given off‐target binding to neuromelanin, which would likely be dependent on age as well as disease.<xref rid="acn351539-bib-0085" ref-type="bibr">
+<sup>85</sup>
+</xref>
+</p></sec></sec><sec id="acn351539-sec-0015"><title>Pupillometry</title><p>There has been a considerable recent increase in the volume of research using pupil dynamics as a route to understanding brain function, and ascending arousal systems in particular.<xref rid="acn351539-bib-0100" ref-type="bibr">
+<sup>100</sup>
+</xref> Baseline and evoked changes in pupil size are influenced by multiple brain regions and neurotransmitters, including dopamine, but there is compelling evidence directly linking noradrenergic pathways with pupil dilation.<xref rid="acn351539-bib-0101" ref-type="bibr">
+<sup>101</sup>
+</xref> Work in mice has shown pupil dilation increases monotonically with the number of LC spikes, although the relationship is highly variable.<xref rid="acn351539-bib-0102" ref-type="bibr">
+<sup>102</sup>
+</xref> More relevant to humans, a study by Joshi and colleagues in macaques, has demonstrated that stimulated LC activity leads to associated changes in pupil size.<xref rid="acn351539-bib-0101" ref-type="bibr">
+<sup>101</sup>
+</xref> Therefore changes in pupil diameter may provide a reliable index of LC‐NE function<xref rid="acn351539-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="acn351539-bib-0103" ref-type="bibr">
+<sup>103</sup>
+</xref>, <xref rid="acn351539-bib-0104" ref-type="bibr">
+<sup>104</sup>
+</xref> and pupillometry holds promise as a biomarker of this system in AD.</p><p>Multiple pupillometry indices have been linked to tonic and phasic LC‐NE function in animals and healthy humans,<xref rid="acn351539-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> and have shown to vary between AD/MCI patients and healthy controls.<xref rid="acn351539-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Pupillometry has also been used in conjunction with fMRI studies to evaluate the interplay between resting LC tone and brain activity during cognitive tasks.<xref rid="acn351539-bib-0101" ref-type="bibr">
+<sup>101</sup>
+</xref>, <xref rid="acn351539-bib-0105" ref-type="bibr">
+<sup>105</sup>
+</xref>, <xref rid="acn351539-bib-0106" ref-type="bibr">
+<sup>106</sup>
+</xref> For example, as mentioned above, LC‐NE activity, as indexed using pupillometry, has been associated with success of memory encoding.<xref rid="acn351539-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>
+</p><p>Crucially, there is potential to use pupillometry to not only detect noradrenergic dysfunction and thus predict treatment response, but also monitor treatment effect. One study of the effect of methylphenidate, a norepinephrine–dopamine reuptake inhibitor, in ADHD patients showed that, when off treatment, they had a decreased pupil diameter during an attentional task compared to healthy controls. The difference between groups was not present when the patients were on noradrenergic treatment.<xref rid="acn351539-bib-0107" ref-type="bibr">
+<sup>107</sup>
+</xref> Relative to neuroimaging, pupillometry is cheap, quick, portable, and well tolerated and thus has potential to be used at scale and longitudinally.</p></sec><sec id="acn351539-sec-0016"><title>Electroencephalogram</title><p>Event‐related potential (ERP) measured using electroencephalogram (EEG) correlates with pupillometry measures of LC function.<xref rid="acn351539-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> Importantly, this technology has the potential to be used practically in outpatient settings.</p><p>As per pupillometry, EEG may be used to index LC activity and can potentially also be used to gauge the effect of noradrenergic treatment. Rodent studies using pharmacological infusions at the site of the LC showed EEG responses to activation, with a shift from low‐frequency, high‐amplitude to high‐frequency, low‐amplitude EEG activity in the frontal neocortex as well as the appearance of theta‐rhythm in the hippocampus,<xref rid="acn351539-bib-0108" ref-type="bibr">
+<sup>108</sup>
+</xref> whilst a shift from high‐frequency, low‐amplitude to low‐frequency, high‐amplitude EEG activity was seen in response to <italic toggle="yes">inactivation</italic>.<xref rid="acn351539-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>
+</p><p>Cecchi and co‐workers identified ERP features associated with reduced attention, working memory, and executive function in an AD patient group.<xref rid="acn351539-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Further studies in AD patients have revealed decreases in gamma frequency bands,<xref rid="acn351539-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> putatively related to attention, and memory storage and retrieval.<xref rid="acn351539-bib-0109" ref-type="bibr">
+<sup>109</sup>
+</xref> The activation of gamma‐aminobutyric acid (GABA)‐A receptors is thought to promote these gamma oscillations<xref rid="acn351539-bib-0110" ref-type="bibr">
+<sup>110</sup>
+</xref> and GABA‐induced inhibition can be augmented by NE.<xref rid="acn351539-bib-0111" ref-type="bibr">
+<sup>111</sup>
+</xref> Therefore, a reduction in LC‐NE activity and NE levels could result in a decrease in GABAergic inhibitory activity leading to the abnormalities in gamma oscillations seen in AD.</p><p>Crucially, selective NE reuptake inhibitors have been shown to enhance gamma activity in rats,<xref rid="acn351539-bib-0112" ref-type="bibr">
+<sup>112</sup>
+</xref> showing how EEG could be used to index noradrenergic treatment. However, equivalent studies have yet to be performed in humans.</p><p>Both EEG and pupillometry offer a way of assessing noradrenergic tone <italic toggle="yes">in real time</italic>. High temporal resolution in measurements of response to stimuli may allow for greater understanding of the underlying neural networks at play, especially when used in conjunction with pupillometry.<xref rid="acn351539-bib-0113" ref-type="bibr">
+<sup>113</sup>
+</xref> Either of these media could guide treatment if used simultaneously with non‐pharmacological noradrenergic therapies, for example vagal nerve stimulation (VNS), which is known to affect noradrenergic pathways,<xref rid="acn351539-bib-0114" ref-type="bibr">
+<sup>114</sup>
+</xref> (see Section 4.4).</p></sec><sec id="acn351539-sec-0017"><title>Polysomnography</title><p>Polysomnography is the gold standard technique for assessment of physiologic parameters during sleep.<xref rid="acn351539-bib-0115" ref-type="bibr">
+<sup>115</sup>
+</xref> It has been successfully used in AD, showing that sleep efficiency and pattern is deleteriously affected when compared to controls.<xref rid="acn351539-bib-0116" ref-type="bibr">
+<sup>116</sup>
+</xref>, <xref rid="acn351539-bib-0117" ref-type="bibr">
+<sup>117</sup>
+</xref> There is growing evidence from this methodology of the relationship between sleep/wake disturbances and LC changes in AD.</p><p>As for treatments, current therapies used for sleep problems in AD are non‐specific, causing side effects (e.g. sedation, falls). The use of polysomnography provides the potential to target treatment for those patients with LC dysfunction that may be affecting the sleep–wake cycle.<xref rid="acn351539-bib-0118" ref-type="bibr">
+<sup>118</sup>
+</xref> New technologies have enabled higher quality home assessment of sleep physiology, and these are likely to lead to better diagnosis of sleep abnormalities<xref rid="acn351539-bib-0119" ref-type="bibr">
+<sup>119</sup>
+</xref> and targeted treatment approaches.</p></sec><sec id="acn351539-sec-0018"><title>Fluid biomarkers</title><p>Whilst LC degeneration ultimately leads to decreased levels of NE in terminal regions, there is evidence that plasma and CSF levels of NE (and its metabolite 3‐methoxy‐4‐hydroxyphenylglycol (MHPG)) are maintained or even elevated in the earlier stages of AD<sup>49</sup>. As the disease progresses, however, plasma NE falls in correlation with cognitive function.<xref rid="acn351539-bib-0120" ref-type="bibr">
+<sup>120</sup>
+</xref>
+</p></sec><sec id="acn351539-sec-0019"><title>Potential applications</title><p>Given the methodological advances described above, there is great potential in the use of biomarkers for guiding and optimising treatment in this context. Structural imaging can provide the opportunity to identify patients with damage to noradrenergic pathways. This can then be quantified and scaled in the broader context of the disease through techniques such as measuring the contrast ratio of the LC compared to surrounding reference regions.</p><p>Using an experimental medicine approach, a relationship can then be established between results generated using biomarkers and the likelihood of a response to noradrenergic treatment. Prospectively, patients can be stratified based on a prediction of whether they are likely to respond, and hence treatment can be targeted at those most likely to benefit. This can also be enhanced through real‐time monitoring of the effect of treatment using modalities such as EEG and pupillometry (Fig. <xref rid="acn351539-fig-0004" ref-type="fig">4</xref>).</p><fig position="float" fig-type="Figure" id="acn351539-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Examples of biomarker modalities that can be used to assess noradrenergic function in Alzheimer's disease. (A) Snapshot of unpublished pupillometry data from one individual during an oddball task. This task uses infrequent stimuli (oddballs), in a sequence of frequent stimuli to elicit a pupil dilation, that is used as a measure of attention as controlled by the LC‐NE system. Black box highlights pupil dilation in response to oddball (green arrow) rather than standard tone (red arrow). (B) Different frequency bands of EEG signal can be quantified. The highest frequency, gamma waves are thought to be altered in Alzheimer's disease as a result of noradrenergic dysfunction. Topoplots of unpublished healthy control data on the right of the figure show the different relative power across the cortex seen across the five frequency bands.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ACN3-9-582-g004.jpg"/></fig></sec></sec><sec id="acn351539-sec-0020"><title>Promising noradrenergic therapies</title><sec id="acn351539-sec-0021"><title>Introduction</title><p>Noradrenergic compounds can affect the LC‐NE system in various ways: by modifying the firing rate of the neurons, altering the release or reuptake of NE or by modulating stimulatory or inhibitory inputs to the LC<xref rid="acn351539-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> (Fig. <xref rid="acn351539-fig-0005" ref-type="fig">5</xref>).</p><fig position="float" fig-type="Figure" id="acn351539-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Schematic of a synapse showing the production of noradrenaline (from L‐DOPA) and its release across the synapse. Also, the reuptake and degradation of noradrenaline by COMT and MAO enzymes. Also shown are the key adrenergic receptors upon which it acts and the site of action of some key classes of drugs. DA, dopamine; NE, noradrenaline/norepinephrine; NET, norepinephrine transporter; L‐DOPA, levodopa; MAO, monoamine oxidase; COMT, catechol‐o‐methyltransferase.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ACN3-9-582-g005.jpg"/></fig><p>The majority of clinical trials investigating noradrenergic drugs in AD have been focused on improving the behavioural disturbances, such as aggression, that are often seen in the latter stages of the disease.<xref rid="acn351539-bib-0121" ref-type="bibr">
+<sup>121</sup>
+</xref>, <xref rid="acn351539-bib-0122" ref-type="bibr">
+<sup>122</sup>
+</xref> This does not preclude the possibility that noradrenergic stimulation might be of cognitive benefit when targeting specific subgroups of patients at an earlier stage of the disease process. The majority of evidence regarding the use of noradrenergic therapies in AD are from small‐scale, experimental trials that took place during several decades ago––at a time when the diagnostic criteria for AD were less clear.<xref rid="acn351539-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="acn351539-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="acn351539-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> On the whole, these did not show positive effects, but there is renewed hope from more recent work.</p></sec><sec id="acn351539-sec-0022"><title>Guanfacine</title><p>Noradrenergic influence on PFC function seems especially pertinent in terms of augmenting cognition. This has been investigated extensively by Arnsten and colleagues, who have shown that guanfacine, an α<sub>2A</sub>‐AR agonist that acts primarily on post‐synaptic receptors in the PFC, can improve working memory, and top‐down control of attention across species.<xref rid="acn351539-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p><p>Guanfacine is a drug licenced for treatment of childhood ADHD that acts primarily on the PFC. Guanfacine enhances cognitive processes associated with the PFC including working memory, and top‐down control of attention, in healthy subjects as well as in patients with ADHD, autism, delirium, schizophrenia, substance abuse and post‐traumatic stress disorder.<xref rid="acn351539-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Several small studies looking at the effects of guanfacine in AD patients approximately 30 years ago found no effect.<xref rid="acn351539-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="acn351539-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="acn351539-bib-0123" ref-type="bibr">
+<sup>123</sup>
+</xref> However the results of one subsequent, unpublished, open label study of 22 AD patients appeared to demonstrate that, when used in combination with the cholinergic drug donepezil, cognitive improvement was seen (see (15)). Our group are currently undertaking a Phase 3 trial of guanfacine in addition to cholinergic therapy in AD (‘NorAD’) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03116126" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT03116126</ext-link>).<xref rid="acn351539-bib-0124" ref-type="bibr">
+<sup>124</sup>
+</xref>
+</p></sec><sec id="acn351539-sec-0023"><title>Norepinephrine reuptake inhibitors</title><p>Reuptake of NE from the synapse terminates its action.<xref rid="acn351539-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> Drugs known to increase alertness, such as modafinil, amphetamine and cocaine, act by inhibiting reuptake, as do antidepressants such as reboxetine, venlafaxine and duloxetine.<xref rid="acn351539-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> Methylphenidate, the mainstay of ADHD treatment, acts by inhibiting both NE and dopamine reuptake in the PFC to improve attention and memory<xref rid="acn351539-bib-0125" ref-type="bibr">
+<sup>125</sup>
+</xref> and has been suggested as a potential treatment for attentional impairment and apathy in AD<sup>60</sup>, with a recent placebo‐controlled study showing that it does reduce the latter.<xref rid="acn351539-bib-0126" ref-type="bibr">
+<sup>126</sup>
+</xref>
+</p><p>Atomoxetine is by far the most extensively studied drug of this class. As well as its established benefits in ADHD, atomoxetine has been shown to boost executive function in PD and is both safe and tolerable.<xref rid="acn351539-bib-0127" ref-type="bibr">
+<sup>127</sup>
+</xref> Mohs et al. carried out a phase II placebo‐controlled trial of 25–80 mg/day of atomoxetine added to ongoing cholinesterase‐inhibitor in 92 mild‐to‐moderate AD patients. Patients were treated for up to 6 months and the researchers found that atomoxetine was well tolerated but not effective in improving cognitive function.<xref rid="acn351539-bib-0128" ref-type="bibr">
+<sup>128</sup>
+</xref> A recent study in MCI showed that whilst atomoxetine significantly reduced CSF Tau and pTau, there were no significant treatment effects on cognition and clinical outcomes.<xref rid="acn351539-bib-0129" ref-type="bibr">
+<sup>129</sup>
+</xref>
+</p></sec><sec id="acn351539-sec-0024"><title>Non‐pharmacological approaches</title><p>Afferent fibres in the vagus nerve synapse at the nucleus tractus solitarius, which in turn projects to the LC.<xref rid="acn351539-bib-0130" ref-type="bibr">
+<sup>130</sup>
+</xref> Whilst historically posited as having a predominantly dopaminergic mechanism, there is a strong argument that noradrenergic mechanisms underlie the effects of vagus nerve stimulation (VNS).<xref rid="acn351539-bib-0131" ref-type="bibr">
+<sup>131</sup>
+</xref> For example, activation of the vagus nerve has been shown to stimulate the LC to release NE in rats,<xref rid="acn351539-bib-0132" ref-type="bibr">
+<sup>132</sup>
+</xref> although findings from rodent studies must be taken with caution. In a single‐blind sham‐controlled randomised crossover pilot study in healthy older individuals, transcutaneous VNS has been shown to boost memory performance when compared to a sham‐controlled condition.<xref rid="acn351539-bib-0133" ref-type="bibr">
+<sup>133</sup>
+</xref> VNS has also been trialled in AD. A series of studies in 1990 applying non‐invasive transcutaneous electrical nerve stimulation showed a positive effect on cognition and behaviour was seen but the effects disappeared after cessation of stimulation.<xref rid="acn351539-bib-0134" ref-type="bibr">
+<sup>134</sup>
+</xref> Given its non‐invasive nature, limited side effects and efficacy after only a single session, this technique holds potential as a non‐pharmacological noradrenergic therapy. However, further investigation is required, particularly with respect to understanding the exact effects of VNS on the LC, identifying optimal stimulation parameters and ascertaining potential duration of effect.<xref rid="acn351539-bib-0135" ref-type="bibr">
+<sup>135</sup>
+</xref>
+</p></sec></sec><sec sec-type="conclusions" id="acn351539-sec-0025"><title>Conclusions</title><p>The LC‐NE system has consistently and reliably been shown to be dysfunctional in AD, causing an array of challenging and distressing symptoms that are not adequately alleviated by current therapies. Therapeutic modulation of the LC‐NE system has the potential to improve not only patients' cognition, but also the less‐reported symptoms of autonomic dysfunction and neuropsychiatric disturbance that many suffer from. However, there are no trials to‐date showing a clear effect of noradrenergic treatments in AD.</p><p>A series of underpowered trials in a poorly defined patient population approximately 30 years ago did not show efficacy for noradrenergic treatments in AD. Subsequent developments in neuroimaging, including neuromelanin‐sensitive sequences and functional approaches, have improved our ability to interrogate the integrity and function of the LC‐NE system at the individual level. Other measures of noradrenergic tone, such as pupillometry and EEG, have the potential to be used dynamically and at greater scale. The rationale for noradrenergic treatment in AD is strong and there are a range of treatments, pharmacological and non‐pharmacological, that are known to be safe, tolerable and effective in other patient groups. In order to gain further understanding and direct personalised treatment approaches, biomarkers should, where possible, be used to inform research and may eventually guide clinical practice.</p></sec><sec sec-type="COI-statement" id="acn351539-sec-0026"><title>Conflict of Interest</title><p>PM is the lead investigator for the NIHR‐funded NorAD trial. Investigational medicinal product and placebo for this study are provided via a ‘drugs‐only’ grant from Takeda (formerly Shire pharmaceuticals). This work was supported by the National Institute for Health Research (NIHR) Biomedical Research Centre at Imperial College London. MD is a Clinical Research Training Fellow funded by the Medical Research Council (MRC) (Grant Ref: MR/W016095/1).</p></sec></body><back><ack id="acn351539-sec-1005"><title>Acknowledgment</title><p>Open Access funding enabled and organized by Projekt DEAL.</p></ack><ref-list content-type="cited-references" id="acn351539-bibl-0001"><title>References</title><ref id="acn351539-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="acn351539-cit-0001">
+<string-name name-style="western">
+<surname>Hampel</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mesulam</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cuello</surname>
+<given-names>AC</given-names>
+</string-name>, et al. <article-title>The cholinergic system in the pathophysiology and treatment of Alzheimer's disease</article-title>. <source>Brain</source>. <year>2018</year>;<volume>141</volume>(<issue>7</issue>):<fpage>1917</fpage>‐<lpage>1933</lpage>.<pub-id pub-id-type="pmid">29850777</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awy132</pub-id><pub-id pub-id-type="pmcid">PMC6022632</pub-id></mixed-citation></ref><ref id="acn351539-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="acn351539-cit-0002">
+<string-name name-style="western">
+<surname>Gannon</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>Complex noradrenergic dysfunction in Alzheimer's disease: low norepinephrine input is not always to blame</article-title>. <source>Brain Res</source>. <year>2019</year>;<volume>1702</volume>:<fpage>12</fpage>‐<lpage>16</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.brainres.2018.01.001</pub-id>
+<pub-id pub-id-type="pmid">29307592</pub-id><pub-id pub-id-type="pmcid">PMC6855395</pub-id></mixed-citation></ref><ref id="acn351539-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="acn351539-cit-0003">
+<string-name name-style="western">
+<surname>Malhotra</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>Impairments of attention in Alzheimer's disease</article-title>. <source>Curr Opin Psychol</source>. <year>2019</year>;<volume>29</volume>:<fpage>41</fpage>‐<lpage>48</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.copsyc.2018.11.002</pub-id>
+<pub-id pub-id-type="pmid">30496975</pub-id></mixed-citation></ref><ref id="acn351539-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="acn351539-cit-0004">
+<string-name name-style="western">
+<surname>Weinshenker</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Functional consequences of locus Coeruleus degeneration in Alzheimers disease</article-title>. <source>Curr Alzheimer Res</source>. <year>2008</year>;<volume>5</volume>(<issue>3</issue>):<fpage>342</fpage>‐<lpage>345</lpage>.<pub-id pub-id-type="pmid">18537547</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/156720508784533286</pub-id></mixed-citation></ref><ref id="acn351539-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="acn351539-cit-0005">
+<string-name name-style="western">
+<surname>Jacobs</surname>
+<given-names>HIL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Becker</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kwong</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>In vivo and neuropathology data support locus coeruleus integrity as indicator of Alzheimer's disease pathology and cognitive decline</article-title>. <source>Sci Transl Med</source>. <year>2021</year>;<volume>13</volume>(<issue>612</issue>):<elocation-id>eabj2511</elocation-id>.<pub-id pub-id-type="pmid">34550726</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.abj2511</pub-id><pub-id pub-id-type="pmcid">PMC8641759</pub-id></mixed-citation></ref><ref id="acn351539-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="acn351539-cit-0006">
+<string-name name-style="western">
+<surname>Holland</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robbins</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rowe</surname>
+<given-names>JB</given-names>
+</string-name>. <article-title>The role of noradrenaline in cognition and cognitive disorders</article-title>. <source>Brain</source>. <year>2021</year>;<volume>144</volume>:<fpage>2243</fpage>‐<lpage>2256</lpage>.<pub-id pub-id-type="pmid">33725122</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awab111</pub-id><pub-id pub-id-type="pmcid">PMC8418349</pub-id></mixed-citation></ref><ref id="acn351539-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="acn351539-cit-0007">
+<string-name name-style="western">
+<surname>Chalermpalanupap</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kinkead</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>WT</given-names>
+</string-name>, et al. <article-title>Targeting norepinephrine in mild cognitive impairment and Alzheimer's disease</article-title>. <source>Alzheimer's Res Ther</source>. <year>2013</year>;<volume>5</volume>(<issue>2</issue>):<fpage>21</fpage>.<pub-id pub-id-type="pmid">23634965</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/alzrt175</pub-id><pub-id pub-id-type="pmcid">PMC3706916</pub-id></mixed-citation></ref><ref id="acn351539-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="acn351539-cit-0008">
+<string-name name-style="western">
+<surname>Mohr</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schlegel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fabbrini</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mouradian</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mann</surname>
+<given-names>UM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Claus</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fedio</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chase</surname>
+<given-names>TN</given-names>
+</string-name>
+<article-title>Clonidine treatment of Alzheimer's disease</article-title>. <source>Arch Neurol</source>
+<year>1989</year>;<volume>46</volume>(<issue>4</issue>):<fpage>376</fpage>–<lpage>8</lpage>. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://ovidsp.ovid.com/ovidweb.cgi?T=JS%26PAGE=reference%26D=emed4%26NEWS=N%26AN=19099328" ext-link-type="uri">http://ovidsp.ovid.com/ovidweb.cgi?T=JS&amp;PAGE=reference&amp;D=emed4&amp;NEWS=N&amp;AN=19099328</ext-link>.<pub-id pub-id-type="pmid">2650662</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archneur.1989.00520400030015</pub-id></mixed-citation></ref><ref id="acn351539-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="acn351539-cit-0009">
+<string-name name-style="western">
+<surname>Schlegel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohr</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mann</surname>
+<given-names>UM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gearing</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chase</surname>
+<given-names>TN</given-names>
+</string-name>. <article-title>Guanfacine treatment of Alzheimerʼs disease</article-title>. <source>Clin Neuropharmacol</source>. <year>1989</year>;<volume>12</volume>:<fpage>124</fpage>‐<lpage>128</lpage>.<pub-id pub-id-type="pmid">2566381</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00002826-198904000-00007</pub-id></mixed-citation></ref><ref id="acn351539-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="acn351539-cit-0010">
+<string-name name-style="western">
+<surname>McEntee</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crook</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jenkyn</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrie</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Larrabee</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coffey</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Treatment of age‐associated memory impairment with Guanfacine</article-title>. <source>Psychopharmacol Bull</source>. <year>1991</year>;<volume>27</volume>(<issue>1</issue>):<fpage>41</fpage>‐<lpage>46</lpage>.<pub-id pub-id-type="pmid">1862205</pub-id></mixed-citation></ref><ref id="acn351539-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="acn351539-cit-0011">
+<string-name name-style="western">
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monsell</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phillips</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kukull</surname>
+<given-names>WA</given-names>
+</string-name>. <article-title>Accuracy of the clinical diagnosis of Alzheimer disease at National Institute on Aging Alzheimer's Disease Centers, 2005–2010</article-title>. <source>J Neuropathol Exp Neurol</source>. <year>2012</year>;<volume>71</volume>(<issue>4</issue>):<fpage>266</fpage>‐<lpage>273</lpage>.<pub-id pub-id-type="pmid">22437338</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/NEN.0b013e31824b211b</pub-id><pub-id pub-id-type="pmcid">PMC3331862</pub-id></mixed-citation></ref><ref id="acn351539-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="acn351539-cit-0012">
+<string-name name-style="western">
+<surname>Vogel</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Young</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oxtoby</surname>
+<given-names>NP</given-names>
+</string-name>, et al. <article-title>Four distinct trajectories of tau deposition identified in Alzheimer's disease</article-title>. <source>Nat Med</source>. <year>2021</year>;<volume>27</volume>(<issue>5</issue>):<fpage>871</fpage>‐<lpage>881</lpage>.<pub-id pub-id-type="pmid">33927414</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-021-01309-6</pub-id><pub-id pub-id-type="pmcid">PMC8686688</pub-id></mixed-citation></ref><ref id="acn351539-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="acn351539-cit-0013">
+<string-name name-style="western">
+<surname>Ten Kate</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dicks</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Visser</surname>
+<given-names>PJ</given-names>
+</string-name>, et al. <article-title>Atrophy subtypes in prodromal Alzheimer's disease are associated with cognitive decline</article-title>. <source>Brain</source>. <year>2018</year>;<volume>141</volume>(<issue>12</issue>):<fpage>3443</fpage>‐<lpage>3456</lpage>.<pub-id pub-id-type="pmid">30351346</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awy264</pub-id><pub-id pub-id-type="pmcid">PMC6669409</pub-id></mixed-citation></ref><ref id="acn351539-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="acn351539-cit-0014">
+<string-name name-style="western">
+<surname>Kolanko</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malhotra</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>Exploring Alzheimer's disease subtypes at the prodromal stage</article-title>. <source>Brain</source>. <year>2018</year>;<volume>141</volume>(<issue>12</issue>):<fpage>3443</fpage>‐<lpage>3456</lpage>.<pub-id pub-id-type="pmid">30496363</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awy282</pub-id></mixed-citation></ref><ref id="acn351539-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="acn351539-cit-0015">
+<string-name name-style="western">
+<surname>Cummings</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henchcliffe</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schaier</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Simuni</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Waxman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kemp</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>The role of dopaminergic imaging in patients with symptoms of dopaminergic system neurodegeneration</article-title>. <source>Brain</source>. <year>2011</year>;<volume>134</volume>(<issue>11</issue>):<fpage>3146</fpage>‐<lpage>3166</lpage>.<pub-id pub-id-type="pmid">21810889</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awr177</pub-id></mixed-citation></ref><ref id="acn351539-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="acn351539-cit-0016">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>KY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marijatta</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hämmerer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Acosta‐Cabronero</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Düzel</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Howard</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Magnetic resonance imaging of the human locus coeruleus: a systematic review</article-title>. <source>Neurosci Biobehav Rev</source>. <year>2017</year>;<volume>83</volume>:<fpage>325</fpage>‐<lpage>355</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neubiorev.2017.10.023</pub-id>
+<pub-id pub-id-type="pmid">29107830</pub-id></mixed-citation></ref><ref id="acn351539-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="acn351539-cit-0017">
+<string-name name-style="western">
+<surname>Granholm</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panizzon</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elman</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>Pupillary responses as a biomarker of early risk for Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2017</year>;<volume>56</volume>(<issue>4</issue>):<fpage>1419</fpage>‐<lpage>1428</lpage>.<pub-id pub-id-type="pmid">28157098</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-161078</pub-id><pub-id pub-id-type="pmcid">PMC5808562</pub-id></mixed-citation></ref><ref id="acn351539-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="acn351539-cit-0018">
+<string-name name-style="western">
+<surname>Cecchi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moore</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sadowsky</surname>
+<given-names>CH</given-names>
+</string-name>, et al. <article-title>A clinical trial to validate event‐related potential markers of Alzheimer's disease in outpatient settings</article-title>. <source>Alzheimer's Dement</source>. <year>2015</year>;<volume>1</volume>(<issue>4</issue>):<fpage>387</fpage>‐<lpage>394</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.dadm.2015.08.004</pub-id>
+<pub-id pub-id-type="pmcid">PMC4879492</pub-id><pub-id pub-id-type="pmid">27239520</pub-id></mixed-citation></ref><ref id="acn351539-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="acn351539-cit-0019">
+<string-name name-style="western">
+<surname>Koenig</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prichep</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dierks</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Decreased EEG synchronization in Alzheimer's disease and mild cognitive impairment</article-title>. <source>Neurobiol Aging</source>. <year>2005</year>;<volume>26</volume>(<issue>2</issue>):<fpage>165</fpage>‐<lpage>171</lpage>.<pub-id pub-id-type="pmid">15582746</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neurobiolaging.2004.03.008</pub-id></mixed-citation></ref><ref id="acn351539-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="acn351539-cit-0020">
+<string-name name-style="western">
+<surname>Hein</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Adrenoceptors and signal transduction in neurons</article-title>. <source>Cell tissue Res</source>. <year>2006</year>;<volume>326</volume>(<issue>2</issue>):<fpage>541</fpage>‐<lpage>551</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00441-006-0285-2</pub-id>
+<pub-id pub-id-type="pmid">16896948</pub-id></mixed-citation></ref><ref id="acn351539-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="acn351539-cit-0021">
+<string-name name-style="western">
+<surname>Langley</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hussain</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flores</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bennett</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Characterization of age‐related microstructural changes in locus coeruleus and substantia nigra pars compacta</article-title>. <source>Neurobiol Aging</source>. <year>2020</year>;<volume>87</volume>:<fpage>89</fpage>‐<lpage>97</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2019.11.016</pub-id>
+<pub-id pub-id-type="pmid">31870645</pub-id><pub-id pub-id-type="pmcid">PMC7064384</pub-id></mixed-citation></ref><ref id="acn351539-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="acn351539-cit-0022">
+<string-name name-style="western">
+<surname>Friedman</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adler</surname>
+<given-names>DN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davis</surname>
+<given-names>KL</given-names>
+</string-name>. <article-title>The role of norepinephrine in the pathophysiology of cognitive disorders: potential applications to the treatment of cognitive dysfunction in schizophrenia and Alzheimer's disease</article-title>. <source>Biol Psychiatry</source>. <year>1999</year>;<volume>46</volume>(<issue>9</issue>):<fpage>1243</fpage>‐<lpage>1252</lpage>.<pub-id pub-id-type="pmid">10560029</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0006-3223(99)00232-2</pub-id></mixed-citation></ref><ref id="acn351539-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="acn351539-cit-0023">
+<string-name name-style="western">
+<surname>Loughlin</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foote</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grzanna</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Efferent projections of nucleus locus coeruleus: morphologic subpopulations have different efferent targets</article-title>. <source>Neuroscience</source>. <year>1986</year>;<volume>18</volume>(<issue>2</issue>):<fpage>307</fpage>‐<lpage>319</lpage>.<pub-id pub-id-type="pmid">3736861</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0306-4522(86)90156-9</pub-id></mixed-citation></ref><ref id="acn351539-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="acn351539-cit-0024">
+<string-name name-style="western">
+<surname>Szczepanski</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knight</surname>
+<given-names>RT</given-names>
+</string-name>. <article-title>Insights into human behavior from lesions to the prefrontal cortex</article-title>. <source>Neuron</source>. <year>2014</year>;<volume>83</volume>(<issue>5</issue>):<fpage>1002</fpage>‐<lpage>1018</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neuron.2014.08.011</pub-id>
+<pub-id pub-id-type="pmid">25175878</pub-id><pub-id pub-id-type="pmcid">PMC4156912</pub-id></mixed-citation></ref><ref id="acn351539-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="acn351539-cit-0025">
+<string-name name-style="western">
+<surname>Arnsten</surname>
+<given-names>AFT</given-names>
+</string-name>. <article-title>Guanfacine's mechanism of action in treating prefrontal cortical disorders: successful translation across species</article-title>. <source>Neurobiol Learn Mem</source>. <year>2020</year>;<volume>176</volume>:<fpage>107327</fpage>.<pub-id pub-id-type="pmid">33075480</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.nlm.2020.107327</pub-id><pub-id pub-id-type="pmcid">PMC7567669</pub-id></mixed-citation></ref><ref id="acn351539-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="acn351539-cit-0026">
+<string-name name-style="western">
+<surname>Berridge</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Page</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Valentino</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foote</surname>
+<given-names>SL</given-names>
+</string-name>. <article-title>Effects of locus coeruleus inactivation on electroencephalographic activity in neocortex and hippocampus</article-title>. <source>Neuroscience</source>. <year>1993</year>;<volume>55</volume>(<issue>2</issue>):<fpage>381</fpage>‐<lpage>393</lpage>.<pub-id pub-id-type="pmid">8104319</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0306-4522(93)90507-c</pub-id></mixed-citation></ref><ref id="acn351539-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="acn351539-cit-0027">
+<string-name name-style="western">
+<surname>Vazey</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aston‐Jones</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Designer receptor manipulations reveal a role of the locus coeruleus noradrenergic system in isoflurane general anesthesia</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>2014</year>;<volume>111</volume>(<issue>10</issue>):<fpage>3859</fpage>‐<lpage>3864</lpage>.<pub-id pub-id-type="pmid">24567395</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1310025111</pub-id><pub-id pub-id-type="pmcid">PMC3956184</pub-id></mixed-citation></ref><ref id="acn351539-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="acn351539-cit-0028">
+<string-name name-style="western">
+<surname>McGaughy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ross</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eichenbaum</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Noradrenergic, but not cholinergic, deafferentation of prefrontal cortex impairs attentional set‐shifting</article-title>. <source>Neuroscience</source>. <year>2008</year>;<volume>153</volume>(<issue>1</issue>):<fpage>63</fpage>‐<lpage>71</lpage>.<pub-id pub-id-type="pmid">18355972</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroscience.2008.01.064</pub-id><pub-id pub-id-type="pmcid">PMC2615225</pub-id></mixed-citation></ref><ref id="acn351539-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="acn351539-cit-0029">
+<string-name name-style="western">
+<surname>Arnsten</surname>
+<given-names>AFT</given-names>
+</string-name>. <article-title>Noradrenergic influences on prefrontal cortical cognitive function: opposing actions at postjunctional a1 versus a2‐adrenergic receptors</article-title>. <source>Adv Pharmacol</source>. <year>1998</year>;<volume>42</volume>:<fpage>764</fpage>‐<lpage>767</lpage>.<pub-id pub-id-type="pmid">9328010</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1054-3589(08)60859-5</pub-id></mixed-citation></ref><ref id="acn351539-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="acn351539-cit-0030">
+<string-name name-style="western">
+<surname>Borodovitsyna</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flamini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chandler</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Noradrenergic modulation of cognition in health and disease</article-title>. <source>Neural Plast</source>. <year>2017</year>;<volume>2017</volume>:<fpage>1</fpage>‐<lpage>14</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2017/6031478</pub-id><pub-id pub-id-type="pmcid">PMC5450174</pub-id><pub-id pub-id-type="pmid">28596922</pub-id></mixed-citation></ref><ref id="acn351539-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="acn351539-cit-0031">
+<string-name name-style="western">
+<surname>Schutsky</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ouyang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>SA</given-names>
+</string-name>. <article-title>Xamoterol impairs hippocampus‐dependent emotional memory retrieval via Gi/o‐coupled β2‐adrenergic signaling</article-title>. <source>Learn Mem</source>. <year>2011</year>;<volume>18</volume>(<issue>9</issue>):<fpage>598</fpage>‐<lpage>604</lpage>.<pub-id pub-id-type="pmid">21878527</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1101/lm.2302811</pub-id><pub-id pub-id-type="pmcid">PMC3166789</pub-id></mixed-citation></ref><ref id="acn351539-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="acn351539-cit-0032">
+<string-name name-style="western">
+<surname>Shutze</surname>
+<given-names>WP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shutze</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dhot</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Forge</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salazar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ogola</surname>
+<given-names>GO</given-names>
+</string-name>. <article-title>Sex as an independent risk factor for long‐term survival after endovascular aneurysm repair</article-title>. <source>J Vasc Surg</source>. <year>2019</year>;<volume>69</volume>:<fpage>1080</fpage>‐<lpage>1089.e1</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jvs.2018.07.057</pub-id>
+<pub-id pub-id-type="pmid">30497864</pub-id></mixed-citation></ref><ref id="acn351539-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="acn351539-cit-0033">
+<string-name name-style="western">
+<surname>Hansen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manahan‐Vaughan</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Hippocampal long‐term potentiation that is elicited by perforant path stimulation or that occurs in conjunction with spatial learning is tightly controlled by beta‐adrenoreceptors and the locus coeruleus</article-title>. <source>Hippocampus</source>. <year>2015</year>;<volume>25</volume>(<issue>11</issue>):<fpage>1285</fpage>‐<lpage>1298</lpage>.<pub-id pub-id-type="pmid">25727388</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hipo.22436</pub-id><pub-id pub-id-type="pmcid">PMC6680149</pub-id></mixed-citation></ref><ref id="acn351539-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="acn351539-cit-0034">
+<string-name name-style="western">
+<surname>Sara</surname>
+<given-names>SJ</given-names>
+</string-name>. <article-title>The locus coeruleus and noradrenergic modulation of cognition</article-title>. <source>Nat Rev Neurosci</source>. <year>2009</year>;<volume>10</volume>(<issue>3</issue>):<fpage>211</fpage>‐<lpage>223</lpage>.<pub-id pub-id-type="pmid">19190638</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrn2573</pub-id></mixed-citation></ref><ref id="acn351539-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="acn351539-cit-0035">
+<string-name name-style="western">
+<surname>Poe</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foote</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eschenko</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Locus coeruleus: a new look at the blue spot</article-title>. <source>Nat Rev Neurosci</source>. <year>2020</year>;<volume>21</volume>(<issue>11</issue>):<fpage>644</fpage>‐<lpage>659</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41583-020-0360-9</pub-id>
+<pub-id pub-id-type="pmid">32943779</pub-id><pub-id pub-id-type="pmcid">PMC8991985</pub-id></mixed-citation></ref><ref id="acn351539-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="acn351539-cit-0036">
+<string-name name-style="western">
+<surname>Dahl</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mather</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Werkle‐Bergner</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Noradrenergic modulation of rhythmic neural activity shapes selective attention</article-title>. <source>Trends Cogn Sci</source>. <year>2022</year>;<volume>26</volume>:<fpage>38</fpage>‐<lpage>52</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.tics.2021.10.009</pub-id>
+<pub-id pub-id-type="pmid">34799252</pub-id><pub-id pub-id-type="pmcid">PMC8678372</pub-id></mixed-citation></ref><ref id="acn351539-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="acn351539-cit-0037">
+<string-name name-style="western">
+<surname>Ye</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rua</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Callaghan</surname>
+<given-names>CO</given-names>
+</string-name>, et al. <article-title>An in vivo probabilistic atlas of the human locus coeruleus at ultra‐high field</article-title>. <source>Neuroimage</source>. <year>2020</year>;<volume>225</volume>:<fpage>117487</fpage>.<pub-id pub-id-type="pmid">33164875</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroimage.2020.117487</pub-id><pub-id pub-id-type="pmcid">PMC7779564</pub-id></mixed-citation></ref><ref id="acn351539-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="acn351539-cit-0038">
+<string-name name-style="western">
+<surname>Aston‐Jones</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohen</surname>
+<given-names>JD</given-names>
+</string-name>. <article-title>An integrative theory of locus coeruleus‐norepinephrine function: adaptive gain and optimal performance</article-title>. <source>Annu Rev Neurosci</source>. <year>2005</year>;<volume>28</volume>:<fpage>403</fpage>‐<lpage>450</lpage>.<pub-id pub-id-type="pmid">16022602</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev.neuro.28.061604.135709</pub-id></mixed-citation></ref><ref id="acn351539-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="acn351539-cit-0039">
+<string-name name-style="western">
+<surname>Yerkes</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dodson</surname>
+<given-names>JD</given-names>
+</string-name>. <article-title>The relation of strength of stimulus to rapidity of habit formation</article-title>. <source>J Comp Neurol Psychol</source>. <year>1908</year>;<volume>18</volume>:<fpage>459</fpage>‐<lpage>482</lpage>.</mixed-citation></ref><ref id="acn351539-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="acn351539-cit-0040">
+<string-name name-style="western">
+<surname>Murphy</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robertson</surname>
+<given-names>IH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balsters</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'connell</surname>
+<given-names>RG</given-names>
+</string-name>. <article-title>Pupillometry and P3 index the locus coeruleus‐noradrenergic arousal function in humans</article-title>. <source>Psychophysiology</source>. <year>2011</year>;<volume>48</volume>(<issue>11</issue>):<fpage>1532</fpage>‐<lpage>1543</lpage>.<pub-id pub-id-type="pmid">21762458</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1469-8986.2011.01226.x</pub-id></mixed-citation></ref><ref id="acn351539-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="acn351539-cit-0041">
+<string-name name-style="western">
+<surname>Tomlinson</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Irving</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blessed</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Cell loss in the locus coeruleus in senile dementia of Alzheimer type</article-title>. <source>J Neurol Sci</source>. <year>1981</year>;<volume>49</volume>(<issue>3</issue>):<fpage>419</fpage>‐<lpage>428</lpage>.<pub-id pub-id-type="pmid">7217992</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0022-510x(81)90031-9</pub-id></mixed-citation></ref><ref id="acn351539-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="acn351539-cit-0042">
+<string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Tredici</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>The preclinical phase of the pathological process underlying sporadic Alzheimer's disease</article-title>. <source>Brain</source>. <year>2015</year>;<volume>138</volume>(<issue>10</issue>):<fpage>2814</fpage>‐<lpage>2833</lpage>.<pub-id pub-id-type="pmid">26283673</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awv236</pub-id></mixed-citation></ref><ref id="acn351539-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="acn351539-cit-0043">
+<string-name name-style="western">
+<surname>Sasaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shibata</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tohyama</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Neuromelanin magnetic resonance imaging of locus ceruleus and substantia nigra in Parkinson's disease</article-title>. <source>Neuroreport</source>. <year>2006</year>;<volume>17</volume>(<issue>11</issue>):<fpage>1215</fpage>‐<lpage>1218</lpage>.<pub-id pub-id-type="pmid">16837857</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/01.wnr.0000227984.84927.a7</pub-id></mixed-citation></ref><ref id="acn351539-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="acn351539-cit-0044">
+<string-name name-style="western">
+<surname>Betts</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cardenas‐blanco</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kanowski</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Locus coeruleus MRI contrast is reduced in Alzheimer ’ s disease dementia and correlates with CSF a b levels</article-title>. <source>Alzheimers Dement (Amst)</source>. <year>2019</year>;<volume>11</volume>:<fpage>281</fpage>‐<lpage>285</lpage>.<pub-id pub-id-type="pmid">30976648</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.dadm.2019.02.001</pub-id><pub-id pub-id-type="pmcid">PMC6439222</pub-id></mixed-citation></ref><ref id="acn351539-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="acn351539-cit-0045">
+<string-name name-style="western">
+<surname>Takahashi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shibata</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sasaki</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Detection of changes in the locus coeruleus in patients with mild cognitive impairment and Alzheimer's disease: high‐resolution fast spin‐echo T1‐weighted imaging</article-title>. <source>Geriatr Gerontol Int</source>. <year>2015</year>;<volume>15</volume>(<issue>3</issue>):<fpage>334</fpage>‐<lpage>340</lpage>.<pub-id pub-id-type="pmid">24661561</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/ggi.12280</pub-id><pub-id pub-id-type="pmcid">PMC4405055</pub-id></mixed-citation></ref><ref id="acn351539-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="acn351539-cit-0046">
+<string-name name-style="western">
+<surname>Bondareff</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mountjoy</surname>
+<given-names>CQ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roth</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Selective loss of Neurones of origin of adrenergic projection to cerebral cortex (nucleus locus Coeruleus) in senile dementia</article-title>. <source>Lancet</source>. <year>1981</year>;<volume>317</volume>(<issue>8223</issue>):<fpage>783</fpage>‐<lpage>784</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0140-6736(81)92657-x</pub-id><pub-id pub-id-type="pmid">6110985</pub-id></mixed-citation></ref><ref id="acn351539-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="acn351539-cit-0047">
+<string-name name-style="western">
+<surname>Bolton</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tam</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Differential involvement of the locus Coeruleus in early‐ and late‐onset Alzheimer's disease: a potential mechanism of clinical differences?</article-title>
+<source>J Geriatr Psychiatry Neurol</source>. <year>2020</year>;<fpage>1</fpage>‐<lpage>7</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/08919887211044755</pub-id><pub-id pub-id-type="pmcid">PMC12023724</pub-id><pub-id pub-id-type="pmid">34496652</pub-id></mixed-citation></ref><ref id="acn351539-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="acn351539-cit-0048">
+<string-name name-style="western">
+<surname>Marcyniuk</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mann</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yates</surname>
+<given-names>PO</given-names>
+</string-name>. <article-title>Loss of nerve cells from locus coeruleus in Alzheimer's disease is topographically arranged</article-title>. <source>Neurosci Lett</source>. <year>1986</year>;<volume>64</volume>(<issue>3</issue>):<fpage>247</fpage>‐<lpage>252</lpage>.<pub-id pub-id-type="pmid">3960404</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0304-3940(86)90336-8</pub-id></mixed-citation></ref><ref id="acn351539-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="acn351539-cit-0049">
+<string-name name-style="western">
+<surname>Adolfsson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gottfries</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roos</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winblad</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Changes in the brain catecholamines in patients with dementia of Alzheimer type</article-title>. <source>Br J Psychiatry</source>. <year>1979</year> Sep;<volume>135</volume>:<fpage>216</fpage>‐<lpage>223</lpage>.<pub-id pub-id-type="pmid">486847</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1192/bjp.135.3.216</pub-id></mixed-citation></ref><ref id="acn351539-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="acn351539-cit-0050">
+<string-name name-style="western">
+<surname>Matthews</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>CPLH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Esiri</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keene</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Minger</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Francis</surname>
+<given-names>PT</given-names>
+</string-name>. <article-title>Noradrenergic changes, aggressive behavior, and cognition in patients with dementia</article-title>. <source>Biol Psychiatry</source>. <year>2002</year>;<volume>51</volume>(<issue>5</issue>):<fpage>407</fpage>‐<lpage>416</lpage>.<pub-id pub-id-type="pmid">11904135</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0006-3223(01)01235-5</pub-id></mixed-citation></ref><ref id="acn351539-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="acn351539-cit-0051">
+<string-name name-style="western">
+<surname>Sano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stern</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mayeux</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Simple reaction time as a measure of global attention in Alzheimer ’ s disease</article-title>. <source>J Int Neuropsychol Soc</source>. <year>1995</year>;<volume>1</volume>:<fpage>56</fpage>‐<lpage>61</lpage>.<pub-id pub-id-type="pmid">9375209</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/s1355617700000102</pub-id></mixed-citation></ref><ref id="acn351539-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="acn351539-cit-0052">
+<string-name name-style="western">
+<surname>Perry</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hodges</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>Attention and executive deficits in Alzheimer's disease: a critical review</article-title>. <source>Brain</source>. <year>1999</year>;<volume>122</volume>(<issue>3</issue>):<fpage>383</fpage>‐<lpage>404</lpage>.<pub-id pub-id-type="pmid">10094249</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/122.3.383</pub-id></mixed-citation></ref><ref id="acn351539-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="acn351539-cit-0053">
+<string-name name-style="western">
+<surname>Posner</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petersen</surname>
+<given-names>SE</given-names>
+</string-name>. <article-title>The attention system of the human brain</article-title>. <source>Annu Rev Neurosci</source>
+<year>1990</year>;<volume>13</volume>:<fpage>25</fpage>–<lpage>42</lpage>. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3413263%26tool=pmcentrez%26rendertype=abstract%5Cnhttp://www.ncbi.nlm.nih.gov/pubmed/2183676" ext-link-type="uri">http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3413263&amp;tool=pmcentrez&amp;rendertype=abstract%5Cnhttp://www.ncbi.nlm.nih.gov/pubmed/2183676</ext-link>.<pub-id pub-id-type="pmid">2183676</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev.ne.13.030190.000325</pub-id></mixed-citation></ref><ref id="acn351539-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="acn351539-cit-0054">
+<string-name name-style="western">
+<surname>Munn</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Müller</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wainstein</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shine</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>The ascending arousal system shapes neural dynamics to mediate awareness of cognitive states</article-title>. <source>Nat Commun</source>. <year>2021</year>;<volume>12</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>9</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41467-021-26268-x</pub-id>
+<pub-id pub-id-type="pmid">34650039</pub-id><pub-id pub-id-type="pmcid">PMC8516926</pub-id></mixed-citation></ref><ref id="acn351539-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="acn351539-cit-0055">
+<string-name name-style="western">
+<surname>Gelbard‐Sagiv</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Magidov</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharon</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hendler</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nir</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Noradrenaline modulates visual perception and late visually evoked activity</article-title>. <source>Curr biol</source>. <year>2018</year>;<volume>28</volume>:<fpage>2239</fpage>‐<lpage>2249.e6</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.cub.2018.05.051</pub-id>
+<pub-id pub-id-type="pmid">29983318</pub-id></mixed-citation></ref><ref id="acn351539-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="acn351539-cit-0056">
+<string-name name-style="western">
+<surname>Mather</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clewett</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sakaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harley</surname>
+<given-names>CW</given-names>
+</string-name>. <article-title>Norepinephrine ignites local hotspots of neuronal excitation: how arousal amplifies selectivity in perception and memory</article-title>. <source>Behav Brain Sci</source>. <year>2016</year>;<volume>39</volume>(<issue>2016</issue>):<fpage>e200</fpage>.<pub-id pub-id-type="pmid">26126507</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/S0140525X15000667</pub-id><pub-id pub-id-type="pmcid">PMC5830137</pub-id></mixed-citation></ref><ref id="acn351539-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="acn351539-cit-0057">
+<string-name name-style="western">
+<surname>Clewett</surname>
+<given-names>DV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Velasco</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mather</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Locus coeruleus activity strengthens prioritized memories under arousal</article-title>. <source>J Neurosci</source>. <year>2018</year>;<volume>38</volume>(<issue>6</issue>):<fpage>1558</fpage>‐<lpage>1574</lpage>.<pub-id pub-id-type="pmid">29301874</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.2097-17.2017</pub-id><pub-id pub-id-type="pmcid">PMC5815354</pub-id></mixed-citation></ref><ref id="acn351539-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="acn351539-cit-0058">
+<string-name name-style="western">
+<surname>Hämmerer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Callaghan</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hopkins</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Locus coeruleus integrity in old age is selectively related to memories linked with salient negative events</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>2018</year>;<volume>115</volume>(<issue>9</issue>):<fpage>2228</fpage>‐<lpage>2233</lpage>.<pub-id pub-id-type="pmid">29440429</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1712268115</pub-id><pub-id pub-id-type="pmcid">PMC5834676</pub-id></mixed-citation></ref><ref id="acn351539-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="acn351539-cit-0059">
+<string-name name-style="western">
+<surname>Lanctôt</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amatniek</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ancoli‐Israel</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Neuropsychiatric signs and symptoms of Alzheimer's disease: new treatment paradigms</article-title>. <source>Alzheimer's Dement Transl Res Clin Interv</source>. <year>2017</year>;<volume>3</volume>(<issue>3</issue>):<fpage>440</fpage>‐<lpage>449</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.trci.2017.07.001</pub-id><pub-id pub-id-type="pmcid">PMC5651439</pub-id><pub-id pub-id-type="pmid">29067350</pub-id></mixed-citation></ref><ref id="acn351539-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="acn351539-cit-0060">
+<string-name name-style="western">
+<surname>Jacobs</surname>
+<given-names>HIL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riphagen</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramakers</surname>
+<given-names>IHGB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verhey</surname>
+<given-names>FRJ</given-names>
+</string-name>. <article-title>Alzheimer's disease pathology: pathways between central norepinephrine activity, memory, and neuropsychiatric symptoms</article-title>. <source>Mol Psychiatry</source>. <year>2019</year>;<volume>26</volume>:<fpage>897</fpage>‐<lpage>906</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41380-019-0437-x</pub-id>
+<pub-id pub-id-type="pmid">31138892</pub-id></mixed-citation></ref><ref id="acn351539-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="acn351539-cit-0061">
+<string-name name-style="western">
+<surname>Förstl</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burns</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luthert</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cairns</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Disproportionate loss of noradrenergic and cholinergic neurons as cause of depression in Alzheimer's disease ‐ a hypothesis</article-title>. <source>Pharmacopsychiatry</source>. <year>1994</year>;<volume>27</volume>(<issue>1</issue>):<fpage>11</fpage>‐<lpage>15</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/s-2007-1014267</pub-id><pub-id pub-id-type="pmid">8159776</pub-id></mixed-citation></ref><ref id="acn351539-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="acn351539-cit-0062">
+<string-name name-style="western">
+<surname>Zubenko</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moossy</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Major depression in primary dementia. Clinical and Neuropathologic Correlates</article-title>. <source>Arch Neurol</source>. <year>1988</year>;<volume>45</volume>(<issue>11</issue>):<fpage>1182</fpage>‐<lpage>1186</lpage>.<pub-id pub-id-type="pmid">3190497</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archneur.1988.00520350020008</pub-id></mixed-citation></ref><ref id="acn351539-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="acn351539-cit-0063">
+<string-name name-style="western">
+<surname>Howells</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stein</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Russell</surname>
+<given-names>VA</given-names>
+</string-name>. <article-title>Synergistic tonic and phasic activity of the locus coeruleus norepinephrine (LC‐NE) arousal system is required for optimal attentional performance</article-title>. <source>Metab Brain Dis</source>. <year>2012</year>;<volume>27</volume>(<issue>3</issue>):<fpage>267</fpage>‐<lpage>274</lpage>.<pub-id pub-id-type="pmid">22399276</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11011-012-9287-9</pub-id></mixed-citation></ref><ref id="acn351539-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="acn351539-cit-0064">
+<string-name name-style="western">
+<surname>Drolet</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gauthier</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Peripheral and central mechanisms of the pressor response elicited by stimulation of the locus coeruleus in the rat</article-title>. <source>Can J Physiol Pharmacol</source>. <year>1985</year>;<volume>63</volume>(<issue>6</issue>):<fpage>599</fpage>‐<lpage>605</lpage>.<pub-id pub-id-type="pmid">4041999</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1139/y85-100</pub-id></mixed-citation></ref><ref id="acn351539-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="acn351539-cit-0065">
+<string-name name-style="western">
+<surname>Stock</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rupprecht</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stumpf</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schlör</surname>
+<given-names>KH</given-names>
+</string-name>. <article-title>Cardiovascular changes during arousal elicited by stimulation of amygdala, hypothalamus and locus coeruleus</article-title>. <source>J Auton Nerv Syst</source>. <year>1981</year>;<volume>3</volume>(<issue>2–4</issue>):<fpage>503</fpage>‐<lpage>510</lpage>.<pub-id pub-id-type="pmid">7276443</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0165-1838(81)90083-7</pub-id></mixed-citation></ref><ref id="acn351539-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="acn351539-cit-0066">
+<string-name name-style="western">
+<surname>Lightman</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Todd</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Everitt</surname>
+<given-names>BJ</given-names>
+</string-name>. <article-title>Ascending noradrenergic projections from the brainstem: evidence for a major role in the regulation of blood pressure and vasopressin secretion</article-title>. <source>Exp Brain Res</source>. <year>1984</year>;<volume>55</volume>(<issue>1</issue>):<fpage>145</fpage>‐<lpage>151</lpage>.<pub-id pub-id-type="pmid">6745345</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF00240508</pub-id></mixed-citation></ref><ref id="acn351539-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="acn351539-cit-0067">
+<string-name name-style="western">
+<surname>Samuels</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Szabadi</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Functional Neuroanatomy of the noradrenergic locus Coeruleus: its roles in the regulation of arousal and autonomic function part II: physiological and pharmacological manipulations and pathological alterations of locus Coeruleus activity in humans</article-title>. <source>Curr Neuropharmacol</source>. <year>2008</year>;<volume>6</volume>(<issue>3</issue>):<fpage>254</fpage>‐<lpage>285</lpage>.<pub-id pub-id-type="pmid">19506724</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/157015908785777193</pub-id><pub-id pub-id-type="pmcid">PMC2687931</pub-id></mixed-citation></ref><ref id="acn351539-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="acn351539-cit-0068">
+<string-name name-style="western">
+<surname>Isik</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kocyigit</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aydin</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soysal</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>A comparison of the prevalence of orthostatic hypotension between older patients with Alzheimer's disease, Lewy body dementia, and without dementia. [internet]. 2019;124(march):110628</article-title>. <source>Exp Gerontol</source>. <year>2019</year>;<volume>124</volume>:<fpage>110628</fpage>. doi:<pub-id pub-id-type="doi">10.1016/j.exger.2019.06.001</pub-id>
+<pub-id pub-id-type="pmid">31173842</pub-id></mixed-citation></ref><ref id="acn351539-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="acn351539-cit-0069">
+<string-name name-style="western">
+<surname>Ehrenberg</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suemoto</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petersen</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Neuropathologic correlates of psychiatric symptoms in Alzheimer's disease access</article-title>. <source>J Alzheimers Dis</source>. <year>2018</year>;<volume>66</volume>(<issue>1</issue>):<fpage>115</fpage>‐<lpage>126</lpage>.<pub-id pub-id-type="pmid">30223398</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-180688</pub-id><pub-id pub-id-type="pmcid">PMC6381997</pub-id></mixed-citation></ref><ref id="acn351539-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="acn351539-cit-0070">
+<string-name name-style="western">
+<surname>Oh</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eser</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ehrenberg</surname>
+<given-names>AJ</given-names>
+</string-name>, et al. <article-title>Profound degeneration of wake‐promoting neurons in Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2019</year>;<volume>15</volume>(<issue>10</issue>):<fpage>1253</fpage>‐<lpage>1263</lpage>.<pub-id pub-id-type="pmid">31416793</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2019.06.3916</pub-id><pub-id pub-id-type="pmcid">PMC6801040</pub-id></mixed-citation></ref><ref id="acn351539-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="acn351539-cit-0071">
+<string-name name-style="western">
+<surname>Van Egroo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Hooren</surname>
+<given-names>RWE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jacobs</surname>
+<given-names>HIL</given-names>
+</string-name>. <article-title>Associations between locus coeruleus integrity and nocturnal awakenings in the context of Alzheimer's disease plasma biomarkers: a 7T MRI study</article-title>. <source>Alzheimer's Res Ther</source>. <year>2021</year>;<volume>13</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>10</lpage>.<pub-id pub-id-type="pmid">34560904</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-021-00902-8</pub-id><pub-id pub-id-type="pmcid">PMC8464124</pub-id></mixed-citation></ref><ref id="acn351539-bib-0072"><label>72</label><mixed-citation publication-type="book" id="acn351539-cit-0072">
+<collab collab-type="authors">FDA‐NIH Biomarker Working Group</collab>
+. <source>BEST (Biomarkers, EndpointS, and Other Tools) Resource</source>. : <publisher-name>Food and Drug Administration (US)</publisher-name>; <year>2016</year>. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK326791/" ext-link-type="uri">https://www.ncbi.nlm.nih.gov/books/NBK326791/</ext-link> Co‐published by National Instit.<pub-id pub-id-type="pmid">27010052</pub-id></mixed-citation></ref><ref id="acn351539-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="acn351539-cit-0073">
+<string-name name-style="western">
+<surname>Ross</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McGonigle</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Bockstaele</surname>
+<given-names>EJ</given-names>
+</string-name>. <article-title>Locus coeruleus, norepinephrine and Aβ peptides in Alzheimer's disease</article-title>. <source>Neurobiol Stress</source>. <year>2015</year>;<volume>2</volume>:<fpage>73</fpage>‐<lpage>84</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.ynstr.2015.09.002</pub-id>
+<pub-id pub-id-type="pmid">26618188</pub-id><pub-id pub-id-type="pmcid">PMC4657149</pub-id></mixed-citation></ref><ref id="acn351539-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="acn351539-cit-0074">
+<string-name name-style="western">
+<surname>Husain</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehta</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Cognitive enhancement by drugs in health and disease</article-title>. <source>Trends Cogn Sci</source>. <year>2011</year>;<volume>15</volume>(<issue>1</issue>):<fpage>28</fpage>‐<lpage>36</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.tics.2010.11.002</pub-id>
+<pub-id pub-id-type="pmid">21146447</pub-id><pub-id pub-id-type="pmcid">PMC3020278</pub-id></mixed-citation></ref><ref id="acn351539-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="acn351539-cit-0075">
+<string-name name-style="western">
+<surname>Teicher</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Polcari</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anderson</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andersen</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lowen</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Navalta</surname>
+<given-names>CP</given-names>
+</string-name>. <article-title>Rate dependency revisited: understanding the effects of methylphenidate in children with attention deficit hyperactivity disorder</article-title>. <source>J Child Adolesc Psychopharmacol</source>. <year>2003</year>;<volume>13</volume>(<issue>1</issue>):<fpage>41</fpage>‐<lpage>51</lpage>.<pub-id pub-id-type="pmid">12804125</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/104454603321666180</pub-id></mixed-citation></ref><ref id="acn351539-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="acn351539-cit-0076">
+<string-name name-style="western">
+<surname>Jenkins</surname>
+<given-names>PO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Simoni</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bourke</surname>
+<given-names>NJ</given-names>
+</string-name>, et al. <article-title>Stratifying drug treatment of cognitive impairments after traumatic brain injury using neuroimaging</article-title>. <source>Brain</source>. <year>2019</year>;<volume>142</volume>(<issue>8</issue>):<fpage>2367</fpage>‐<lpage>2379</lpage>.<pub-id pub-id-type="pmid">31199462</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awz149</pub-id></mixed-citation></ref><ref id="acn351539-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="acn351539-cit-0077">
+<string-name name-style="western">
+<surname>O'Callaghan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hezemans</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ye</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Locus coeruleus integrity and the effect of atomoxetine on response inhibition in Parkinson's disease</article-title>. <source>Brain</source>. <year>2020</year>;<volume>144</volume>:<fpage>1</fpage>‐<lpage>32</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awab142</pub-id><pub-id pub-id-type="pmcid">PMC7611672</pub-id><pub-id pub-id-type="pmid">33783470</pub-id></mixed-citation></ref><ref id="acn351539-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="acn351539-cit-0078">
+<string-name name-style="western">
+<surname>Husain</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Time for N‐of‐1 trials in clinical decision‐making</article-title>. <source>Brain</source>. <year>2021</year>;<volume>144</volume>(<issue>4</issue>):<fpage>1031</fpage>‐<lpage>1032</lpage>.<pub-id pub-id-type="pmid">33871604</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awab107</pub-id></mixed-citation></ref><ref id="acn351539-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="acn351539-cit-0079">
+<string-name name-style="western">
+<surname>David</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>Cognitive neuropsychiatry?</article-title>
+<source>Psychol Med</source>. <year>1993</year>;<volume>23</volume>:<fpage>1</fpage>‐<lpage>5</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/s0033291700038782</pub-id><pub-id pub-id-type="pmid">8475196</pub-id></mixed-citation></ref><ref id="acn351539-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="acn351539-cit-0080">
+<string-name name-style="western">
+<surname>Jacobs</surname>
+<given-names>HIL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Priovoulos</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poser</surname>
+<given-names>BA</given-names>
+</string-name>, et al. <article-title>Dynamic behavior of the locus coeruleus during arousal‐related memory processing in a multi‐modal 7T fMRI paradigm</article-title>. <source>Elife</source>. <year>2020</year>;<volume>9</volume>:<fpage>1</fpage>‐<lpage>30</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.7554/eLife.52059</pub-id><pub-id pub-id-type="pmcid">PMC7343392</pub-id><pub-id pub-id-type="pmid">32579109</pub-id></mixed-citation></ref><ref id="acn351539-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="acn351539-cit-0081">
+<string-name name-style="western">
+<surname>Clewett</surname>
+<given-names>DV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Greening</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Neuromelanin marks the spot: identifying a locus coeruleus biomarker of cognitive reserve in healthy aging</article-title>. <source>Neurobiol Aging</source>. <year>2016</year>;<volume>37</volume>:<fpage>117</fpage>‐<lpage>126</lpage>.<pub-id pub-id-type="pmid">26521135</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neurobiolaging.2015.09.019</pub-id><pub-id pub-id-type="pmcid">PMC5134892</pub-id></mixed-citation></ref><ref id="acn351539-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="acn351539-cit-0082">
+<string-name name-style="western">
+<surname>Brooks</surname>
+<given-names>JCW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faull</surname>
+<given-names>OK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pattinson</surname>
+<given-names>KTS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jenkinson</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Physiological noise in brainstem fMRI</article-title>. <source>Front Hum Neurosci</source>. <year>2013</year>;<volume>7</volume>:<fpage>1</fpage>‐<lpage>13</lpage>.<pub-id pub-id-type="pmid">24109446</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnhum.2013.00623</pub-id><pub-id pub-id-type="pmcid">PMC3790256</pub-id></mixed-citation></ref><ref id="acn351539-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="acn351539-cit-0083">
+<string-name name-style="western">
+<surname>Plini</surname>
+<given-names>ERG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hanlon</surname>
+<given-names>EO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boyle</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Examining the role of the noradrenergic locus coeruleus for predicting attention and brain maintenance in healthy old age, mild cognitive impairment and Alzheimer ’ s Disease : an MRI structural study on the ADNI cohort</article-title>. <source>Cells</source>. <year>2021</year>;<volume>10</volume>(<issue>7</issue>):<fpage>1829</fpage>.<pub-id pub-id-type="pmid">34359997</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cells10071829</pub-id><pub-id pub-id-type="pmcid">PMC8306442</pub-id></mixed-citation></ref><ref id="acn351539-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="acn351539-cit-0084">
+<string-name name-style="western">
+<surname>Peterson</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>CR</given-names>
+</string-name>. <article-title>Noradrenergic dysfunction in Alzheimer's and Parkinson's diseases — an overview of imaging studies</article-title>. <source>Front Aging Neurosci</source>. <year>2018</year>;<volume>10</volume>:<fpage>1</fpage>‐<lpage>16</lpage>.<pub-id pub-id-type="pmid">29765316</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2018.00127</pub-id><pub-id pub-id-type="pmcid">PMC5938376</pub-id></mixed-citation></ref><ref id="acn351539-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="acn351539-cit-0085">
+<string-name name-style="western">
+<surname>Betts</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirilina</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Otaduy</surname>
+<given-names>MCG</given-names>
+</string-name>, et al. <article-title>Locus coeruleus imaging as a biomarker for noradrenergic dysfunction in neurodegenerative diseases</article-title>. <source>Brain</source>. <year>2019</year>;<volume>142</volume>(<issue>9</issue>):<fpage>2558</fpage>‐<lpage>2571</lpage>.<pub-id pub-id-type="pmid">31327002</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awz193</pub-id><pub-id pub-id-type="pmcid">PMC6736046</pub-id></mixed-citation></ref><ref id="acn351539-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="acn351539-cit-0086">
+<string-name name-style="western">
+<surname>Kelberman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keilholz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weinshenker</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>What's that (blue) spot on my MRI ? Multimodal neuroimaging of the locus coeruleus in neurodegenerative disease</article-title>. <source>Front Neurosci</source>. <year>2020</year>;<volume>14</volume>:<fpage>1</fpage>‐<lpage>17</lpage>.<pub-id pub-id-type="pmid">33122996</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnins.2020.583421</pub-id><pub-id pub-id-type="pmcid">PMC7573566</pub-id></mixed-citation></ref><ref id="acn351539-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="acn351539-cit-0087">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>KY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Howard</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Acosta‐Cabronero</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cardenas‐Blanco</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Betts</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loane</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>In vivo visualization of age‐related differences in the locus coeruleus</article-title>. <source>Neurobiol Aging</source>
+<year>2019</year>;<volume>74</volume>:<fpage>101</fpage>–<lpage>11</lpage>. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.elsevier.com/locate/neuaging" ext-link-type="uri">http://www.elsevier.com/locate/neuaging</ext-link>.<pub-id pub-id-type="pmid">30447418</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neurobiolaging.2018.10.014</pub-id><pub-id pub-id-type="pmcid">PMC6338679</pub-id></mixed-citation></ref><ref id="acn351539-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="acn351539-cit-0088">
+<string-name name-style="western">
+<surname>Priovoulos</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jacobs</surname>
+<given-names>HIL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ivanov</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uludağ</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verhey</surname>
+<given-names>FRJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poser</surname>
+<given-names>BA</given-names>
+</string-name>. <article-title>High‐resolution in vivo imaging of human locus coeruleus by magnetization transfer MRI at 3T and 7T</article-title>. <source>Neuroimage</source>. <year>2018</year>;<volume>168</volume>:<fpage>427</fpage>‐<lpage>436</lpage>.<pub-id pub-id-type="pmid">28743460</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroimage.2017.07.045</pub-id></mixed-citation></ref><ref id="acn351539-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="acn351539-cit-0089">
+<string-name name-style="western">
+<surname>Kerchner</surname>
+<given-names>GA</given-names>
+</string-name>. <article-title>Ultra‐high field 7T MRI: a new tool for studying Alzheimers disease</article-title>. <source>J Alzheimers Dis</source>. <year>2011</year>;<volume>26</volume>(<issue>SUPPL. 3</issue>):<fpage>91</fpage>‐<lpage>95</lpage>.<pub-id pub-id-type="pmid">21971453</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-2011-0023</pub-id></mixed-citation></ref><ref id="acn351539-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="acn351539-cit-0090">
+<string-name name-style="western">
+<surname>Jacobs</surname>
+<given-names>HIL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Müller‐Ehrenberg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Priovoulos</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roebroeck</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Curvilinear locus coeruleus functional connectivity trajectories over the adult lifespan: a 7T MRI study</article-title>. <source>Neurobiol Aging</source>. <year>2018</year>;<volume>69</volume>:<fpage>167</fpage>‐<lpage>176</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2018.05.021</pub-id>
+<pub-id pub-id-type="pmid">29908415</pub-id></mixed-citation></ref><ref id="acn351539-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="acn351539-cit-0091">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chao</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>CSR</given-names>
+</string-name>. <article-title>Resting‐state functional connectivity of the locus Coeruleus in humans: in comparison with the ventral tegmental area/Substantia Nigra pars Compacta and the effects of age</article-title>. <source>Cereb Cortex</source>. <year>2016</year>;<volume>26</volume>(<issue>8</issue>):<fpage>3413</fpage>‐<lpage>3427</lpage>.<pub-id pub-id-type="pmid">26223261</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/cercor/bhv172</pub-id><pub-id pub-id-type="pmcid">PMC4961017</pub-id></mixed-citation></ref><ref id="acn351539-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="acn351539-cit-0092">
+<string-name name-style="western">
+<surname>Jacobs</surname>
+<given-names>HIL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wiese</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van de Ven</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gronenschild</surname>
+<given-names>EHBM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verhey</surname>
+<given-names>FRJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matthews</surname>
+<given-names>PM</given-names>
+</string-name>. <article-title>Relevance of parahippocampal‐locus coeruleus connectivity to memory in early dementia</article-title>. <source>Neurobiol Aging</source>. <year>2015</year>;<volume>36</volume>(<issue>2</issue>):<fpage>618</fpage>‐<lpage>626</lpage>.<pub-id pub-id-type="pmid">25433457</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neurobiolaging.2014.10.041</pub-id></mixed-citation></ref><ref id="acn351539-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="acn351539-cit-0093">
+<string-name name-style="western">
+<surname>Del Cerro</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Villarreal</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abulafia</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Disrupted functional connectivity of the locus coeruleus in healthy adults with parental history of Alzheimer's disease</article-title>. <source>J Psychiatr Res</source>. <year>2020</year>;<volume>123</volume>:<fpage>81</fpage>‐<lpage>88</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jpsychires.2020.01.018</pub-id>
+<pub-id pub-id-type="pmid">32044590</pub-id></mixed-citation></ref><ref id="acn351539-bib-0094"><label>94</label><mixed-citation publication-type="journal" id="acn351539-cit-0094">
+<string-name name-style="western">
+<surname>Damoiseaux</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Resting‐state fMRI as a biomarker for Alzheimer's disease?</article-title>
+<source>Alzheimer's Res Ther</source>. <year>2012</year>;<volume>4</volume>(<issue>3</issue>):<fpage>8</fpage>.<pub-id pub-id-type="pmid">22423634</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/alzrt106</pub-id><pub-id pub-id-type="pmcid">PMC3334541</pub-id></mixed-citation></ref><ref id="acn351539-bib-0095"><label>95</label><mixed-citation publication-type="journal" id="acn351539-cit-0095">
+<string-name name-style="western">
+<surname>Vemuri</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+</string-name>. <article-title>Resting state functional MRI in Alzheimer's disease</article-title>. <source>Alzheimer's Res Ther</source>. <year>2012</year>;<volume>4</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>9</lpage>.<pub-id pub-id-type="pmid">22236691</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/alzrt100</pub-id><pub-id pub-id-type="pmcid">PMC3471422</pub-id></mixed-citation></ref><ref id="acn351539-bib-0096"><label>96</label><mixed-citation publication-type="journal" id="acn351539-cit-0096">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rangaprakash</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Venkataraman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Investigating focal connectivity deficits in Alzheimer's disease using directional brain networks derived from resting‐state fMRI</article-title>. <source>Front Aging Neurosci</source>. <year>2017</year>;<volume>9</volume>:<fpage>1</fpage>‐<lpage>12</lpage>.<pub-id pub-id-type="pmid">28729831</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2017.00211</pub-id><pub-id pub-id-type="pmcid">PMC5498531</pub-id></mixed-citation></ref><ref id="acn351539-bib-0097"><label>97</label><mixed-citation publication-type="journal" id="acn351539-cit-0097">
+<string-name name-style="western">
+<surname>Serra</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Amelio</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Domenico</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>In vivo mapping of brainstem nuclei functional connectivity disruption in Alzheimer's disease</article-title>. <source>Neurobiol Aging</source>. <year>2018</year>;<volume>72</volume>:<fpage>72</fpage>‐<lpage>82</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2018.08.012</pub-id>
+<pub-id pub-id-type="pmid">30237073</pub-id></mixed-citation></ref><ref id="acn351539-bib-0098"><label>98</label><mixed-citation publication-type="journal" id="acn351539-cit-0098">
+<string-name name-style="western">
+<surname>Gulyás</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brockschnieder</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nag</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The norepinephrine transporter (NET) radioligand (S,S)‐[18F]FMeNER‐D2 shows significant decreases in NET density in the human brain in Alzheimer's disease: a post‐mortem autoradiographic study</article-title>. <source>Neurochem Int</source>. <year>2010</year>;<volume>56</volume>(<issue>6–7</issue>):<fpage>789</fpage>‐<lpage>798</lpage>.<pub-id pub-id-type="pmid">20211213</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuint.2010.03.001</pub-id></mixed-citation></ref><ref id="acn351539-bib-0099"><label>99</label><mixed-citation publication-type="journal" id="acn351539-cit-0099">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>KY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Acosta‐Cabronero</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hong</surname>
+<given-names>YT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yi</surname>
+<given-names>Y‐J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hämmerer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Howard</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>FDG‐PET assessment of the locus coeruleus in Alzheimer's disease</article-title>. <source>Neuroimage: Reports</source>. <year>2021</year>;<volume>1</volume>(<issue>1</issue>):<fpage>100002</fpage>.<pub-id pub-id-type="pmid">34396361</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ynirp.2020.100002</pub-id><pub-id pub-id-type="pmcid">PMC8262255</pub-id></mixed-citation></ref><ref id="acn351539-bib-0100"><label>100</label><mixed-citation publication-type="journal" id="acn351539-cit-0100">
+<string-name name-style="western">
+<surname>Joshi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gold</surname>
+<given-names>JI</given-names>
+</string-name>. <article-title>Pupil size as a window on neural substrates of cognition</article-title>. <source>Trends Cogn Sci</source>. <year>2020</year>;<volume>24</volume>:<fpage>466</fpage>‐<lpage>480</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.tics.2020.03.005</pub-id>
+<pub-id pub-id-type="pmid">32331857</pub-id><pub-id pub-id-type="pmcid">PMC7271902</pub-id></mixed-citation></ref><ref id="acn351539-bib-0101"><label>101</label><mixed-citation publication-type="journal" id="acn351539-cit-0101">
+<string-name name-style="western">
+<surname>Joshi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kalwani</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gold</surname>
+<given-names>JI</given-names>
+</string-name>. <article-title>Relationships between pupil diameter and neuronal activity in the locus Coeruleus, Colliculi, and cingulate cortex</article-title>. <source>Neuron</source>. <year>2016</year>;<volume>89</volume>(<issue>1</issue>):<fpage>221</fpage>‐<lpage>234</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neuron.2015.11.028</pub-id>
+<pub-id pub-id-type="pmid">26711118</pub-id><pub-id pub-id-type="pmcid">PMC4707070</pub-id></mixed-citation></ref><ref id="acn351539-bib-0102"><label>102</label><mixed-citation publication-type="miscellaneous" id="acn351539-cit-0102">
+<string-name name-style="western">
+<surname>Megemont</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mcburney</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Pupil diameter is not an accurate real‐ ­ time readout of locus coeruleus activity</article-title>. <year>2022</year>;<fpage>1</fpage>–<lpage>17</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.7554/eLife.70510</pub-id><pub-id pub-id-type="pmcid">PMC8809893</pub-id><pub-id pub-id-type="pmid">35107419</pub-id></mixed-citation></ref><ref id="acn351539-bib-0103"><label>103</label><mixed-citation publication-type="journal" id="acn351539-cit-0103">
+<string-name name-style="western">
+<surname>Gilzenrat</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nieuwenhuis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jepma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohen</surname>
+<given-names>JD</given-names>
+</string-name>. <article-title>Pupil diameter tracks changes in control state predicted by the adaptive gain theory of locus coeruleus function</article-title>. <source>Cogn Affect Behav Neurosci</source>. <year>2010</year>;<volume>10</volume>(<issue>2</issue>):<fpage>252</fpage>‐<lpage>269</lpage>.<pub-id pub-id-type="pmid">20498349</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3758/CABN.10.2.252</pub-id><pub-id pub-id-type="pmcid">PMC3403821</pub-id></mixed-citation></ref><ref id="acn351539-bib-0104"><label>104</label><mixed-citation publication-type="journal" id="acn351539-cit-0104">
+<string-name name-style="western">
+<surname>Hämmerer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hopkins</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Betts</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maaß</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dolan</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Düzel</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Emotional arousal and recognition memory are differentially reflected in pupil diameter responses during emotional memory for negative events in younger and older adults</article-title>. <source>Neurobiol Aging</source>. <year>2017</year>;<volume>58</volume>:<fpage>129</fpage>‐<lpage>139</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2017.06.021</pub-id>
+<pub-id pub-id-type="pmid">28734217</pub-id></mixed-citation></ref><ref id="acn351539-bib-0105"><label>105</label><mixed-citation publication-type="journal" id="acn351539-cit-0105">
+<string-name name-style="western">
+<surname>Elman</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panizzon</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eyler</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Task‐evoked pupil dilation and BOLD variance as indicators of locus coeruleus dysfunction</article-title>. <source>Cortex</source>. <year>2017</year>;<volume>97</volume>:<fpage>60</fpage>‐<lpage>69</lpage>.<pub-id pub-id-type="pmid">29096196</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cortex.2017.09.025</pub-id><pub-id pub-id-type="pmcid">PMC5716879</pub-id></mixed-citation></ref><ref id="acn351539-bib-0106"><label>106</label><mixed-citation publication-type="journal" id="acn351539-cit-0106">
+<string-name name-style="western">
+<surname>Murphy</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Connell</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Sullivan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robertson</surname>
+<given-names>IH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balsters</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>Pupil diameter covaries with BOLD activity in human locus coeruleus</article-title>. <source>Hum Brain Mapp</source>. <year>2014</year>;<volume>35</volume>(<issue>8</issue>):<fpage>4140</fpage>‐<lpage>4154</lpage>.<pub-id pub-id-type="pmid">24510607</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/hbm.22466</pub-id><pub-id pub-id-type="pmcid">PMC6869043</pub-id></mixed-citation></ref><ref id="acn351539-bib-0107"><label>107</label><mixed-citation publication-type="journal" id="acn351539-cit-0107">
+<string-name name-style="western">
+<surname>Wainstein</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rojas‐Líbano</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crossley</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carrasco</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aboitiz</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ossandón</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Pupil size tracks Attentional performance in attention‐deficit/hyperactivity disorder</article-title>. <source>Sci Rep</source>. <year>2017</year>;<volume>7</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>9</lpage>.<pub-id pub-id-type="pmid">28811624</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-017-08246-w</pub-id><pub-id pub-id-type="pmcid">PMC5557799</pub-id></mixed-citation></ref><ref id="acn351539-bib-0108"><label>108</label><mixed-citation publication-type="journal" id="acn351539-cit-0108">
+<string-name name-style="western">
+<surname>Berridge</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foote</surname>
+<given-names>SL</given-names>
+</string-name>. <article-title>Effects of locus coeruleus activation on electroencephalographic activity in neocortex and hippocampus</article-title>. <source>J Neurosci</source>. <year>1991</year>;<volume>11</volume>(<issue>10</issue>):<fpage>3135</fpage>‐<lpage>3145</lpage>.<pub-id pub-id-type="pmid">1682425</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.11-10-03135.1991</pub-id><pub-id pub-id-type="pmcid">PMC3058938</pub-id></mixed-citation></ref><ref id="acn351539-bib-0109"><label>109</label><mixed-citation publication-type="journal" id="acn351539-cit-0109">
+<string-name name-style="western">
+<surname>Jensen</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaiser</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lachaux</surname>
+<given-names>J‐P</given-names>
+</string-name>. <article-title>Human gamma‐frequency oscillations associated with attention and memory</article-title>. <source>Trends Neurosci</source>. <year>2007</year>;<volume>30</volume>(<issue>7</issue>):<fpage>317</fpage>‐<lpage>324</lpage>.<pub-id pub-id-type="pmid">17499860</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tins.2007.05.001</pub-id></mixed-citation></ref><ref id="acn351539-bib-0110"><label>110</label><mixed-citation publication-type="journal" id="acn351539-cit-0110">
+<string-name name-style="western">
+<surname>Traub</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cunningham</surname>
+<given-names>MO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gloveli</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>GABA‐enhanced collective behavior in neuronal axons underlies persistent gamma‐frequency oscillations</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>2003</year>;<volume>100</volume>(<issue>19</issue>):<fpage>11047</fpage>‐<lpage>11052</lpage>.<pub-id pub-id-type="pmid">12960382</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1934854100</pub-id><pub-id pub-id-type="pmcid">PMC196924</pub-id></mixed-citation></ref><ref id="acn351539-bib-0111"><label>111</label><mixed-citation publication-type="journal" id="acn351539-cit-0111">
+<string-name name-style="western">
+<surname>Waterhouse</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moises</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Woodward</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Noradrenergic modulation of somatosensory cortical neuronal responses to lontophoretically applied putative neurotransmitters</article-title>. <source>Exp Neurol</source>. <year>1980</year>;<volume>69</volume>(<issue>1</issue>):<fpage>30</fpage>‐<lpage>49</lpage>.<pub-id pub-id-type="pmid">7389849</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0014-4886(80)90141-7</pub-id></mixed-citation></ref><ref id="acn351539-bib-0112"><label>112</label><mixed-citation publication-type="journal" id="acn351539-cit-0112">
+<string-name name-style="western">
+<surname>Hajós</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoffmann</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robinson</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hajós‐Korcsok</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Norepinephrine but not serotonin reuptake inhibitors enhance theta and gamma activity of the septo‐hippocampal system</article-title>. <source>Neuropsychopharmacol</source>. <year>2003</year>;<volume>28</volume>(<issue>5</issue>):<fpage>857</fpage>‐<lpage>864</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.npp.1300116</pub-id><pub-id pub-id-type="pmid">12637957</pub-id></mixed-citation></ref><ref id="acn351539-bib-0113"><label>113</label><mixed-citation publication-type="journal" id="acn351539-cit-0113">
+<string-name name-style="western">
+<surname>Wolff</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mückschel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ziemssen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beste</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>The role of phasic norepinephrine modulations during task switching: evidence for specific effects in parietal areas</article-title>. <source>Brain Struct Funct</source>. <year>2018</year>;<volume>223</volume>(<issue>2</issue>):<fpage>925</fpage>‐<lpage>940</lpage>.<pub-id pub-id-type="pmid">29026994</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00429-017-1531-y</pub-id></mixed-citation></ref><ref id="acn351539-bib-0114"><label>114</label><mixed-citation publication-type="journal" id="acn351539-cit-0114">
+<string-name name-style="western">
+<surname>Sharon</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fahoum</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nir</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Transcutaneous vagus nerve stimulation in humans induces pupil dilation and attenuates alpha oscillations</article-title>. <source>J Neurosci</source>. <year>2021</year>;<volume>41</volume>(<issue>2</issue>):<fpage>320</fpage>‐<lpage>330</lpage>.<pub-id pub-id-type="pmid">33214317</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.1361-20.2020</pub-id><pub-id pub-id-type="pmcid">PMC7810665</pub-id></mixed-citation></ref><ref id="acn351539-bib-0115"><label>115</label><mixed-citation publication-type="journal" id="acn351539-cit-0115">
+<string-name name-style="western">
+<surname>Rundo</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Downey</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Polysomnography</article-title>. <source>Handb Clin Neurol</source>. <year>1877</year>;<volume>2019</volume>(<issue>160</issue>):<fpage>381</fpage>‐<lpage>392</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/B978-0-444-64032-1.00025-4</pub-id><pub-id pub-id-type="pmid">31277862</pub-id></mixed-citation></ref><ref id="acn351539-bib-0116"><label>116</label><mixed-citation publication-type="journal" id="acn351539-cit-0116">
+<string-name name-style="western">
+<surname>Liguori</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Placidi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Izzi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spanetta</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mercuri</surname>
+<given-names>NB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Pucchio</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Sleep dysregulation, memory impairment, and CSF biomarkers during different levels of neurocognitive functioning in Alzheimer's disease course</article-title>. <source>Alzheimer's Res Ther.</source>
+<year>2020</year>;<volume>12</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>13</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-019-0571-3</pub-id><pub-id pub-id-type="pmcid">PMC6942389</pub-id><pub-id pub-id-type="pmid">31901236</pub-id></mixed-citation></ref><ref id="acn351539-bib-0117"><label>117</label><mixed-citation publication-type="journal" id="acn351539-cit-0117">
+<string-name name-style="western">
+<surname>Carnicelli</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maestri</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Coscio</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>A longitudinal study of polysomnographic variables in patients with mild cognitive impairment converting to Alzheimer's disease</article-title>. <source>J Sleep Res</source>. <year>2019</year>;<volume>28</volume>(<issue>5</issue>):<fpage>1</fpage>‐<lpage>9</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jsr.12821</pub-id><pub-id pub-id-type="pmid">30724408</pub-id></mixed-citation></ref><ref id="acn351539-bib-0118"><label>118</label><mixed-citation publication-type="journal" id="acn351539-cit-0118">
+<string-name name-style="western">
+<surname>Falgàs</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walsh</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neylan</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grinberg</surname>
+<given-names>LT</given-names>
+</string-name>. <article-title>Deepen into sleep and wake patterns across Alzheimer's disease phenotypes</article-title>. <source>Alzheimers Dement</source>. <year>2021</year>;<volume>17</volume>(<issue>8</issue>):<fpage>1403</fpage>‐<lpage>1406</lpage>.<pub-id pub-id-type="pmid">33710762</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12304</pub-id><pub-id pub-id-type="pmcid">PMC8364869</pub-id></mixed-citation></ref><ref id="acn351539-bib-0119"><label>119</label><mixed-citation publication-type="journal" id="acn351539-cit-0119">
+<string-name name-style="western">
+<surname>Ravindran</surname>
+<given-names>KKG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Della</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Atzori</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Validation of technology to monitor sleep and bed occupancy in older men and women</article-title>. <source>Alzheimers Dement</source>. <year>2021</year>;<volume>17</volume>:<elocation-id>e056018</elocation-id>.</mixed-citation></ref><ref id="acn351539-bib-0120"><label>120</label><mixed-citation publication-type="journal" id="acn351539-cit-0120">
+<string-name name-style="western">
+<surname>Pillet</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taccola</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cotoni</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thiriez</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>André</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verpillot</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Correlation between cognition and plasma noradrenaline level in Alzheimer's disease: a potential new blood marker of disease evolution</article-title>. <source>Transl Psychiatry</source>. <year>2020</year>;<volume>10</volume>:<fpage>213</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41398-020-0841-7</pub-id>
+<pub-id pub-id-type="pmid">32620743</pub-id><pub-id pub-id-type="pmcid">PMC7335170</pub-id></mixed-citation></ref><ref id="acn351539-bib-0121"><label>121</label><mixed-citation publication-type="journal" id="acn351539-cit-0121">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>LY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shofer</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rohde</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Prazosin for the treatment of behavioral symptoms in patients with Alzheimer disease with agitation and aggression</article-title>. <source>Am J Geriatr Psychiatry</source>. <year>2009</year>;<volume>17</volume>(<issue>9</issue>):<fpage>744</fpage>‐<lpage>751</lpage>.<pub-id pub-id-type="pmid">19700947</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/JGP.0b013e3181ab8c61</pub-id><pub-id pub-id-type="pmcid">PMC2842091</pub-id></mixed-citation></ref><ref id="acn351539-bib-0122"><label>122</label><mixed-citation publication-type="journal" id="acn351539-cit-0122">
+<string-name name-style="western">
+<surname>Shankle</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nielson</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cotman</surname>
+<given-names>CW</given-names>
+</string-name>. <article-title>Low‐dose propranolol reduces aggression and agitation resembling that associated with orbitofrontal dysfunction in elderly demented patients</article-title>. <source>Alzheimer Dis Assoc Disord</source>. <year>1995</year>;<volume>9</volume>(<issue>4</issue>):<fpage>233</fpage>‐<lpage>237</lpage>.<pub-id pub-id-type="pmid">8749613</pub-id></mixed-citation></ref><ref id="acn351539-bib-0123"><label>123</label><mixed-citation publication-type="journal" id="acn351539-cit-0123">
+<string-name name-style="western">
+<surname>Crook</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilner</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rothwell</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winterling</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McEntee</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Noradrenergic intervention in Alzheimer's disease</article-title>. <source>Psychopharmacol Bull</source>. <year>1992</year>;<volume>28</volume>(<issue>1</issue>):<fpage>67</fpage>‐<lpage>70</lpage>.<pub-id pub-id-type="pmid">1609045</pub-id></mixed-citation></ref><ref id="acn351539-bib-0124"><label>124</label><mixed-citation publication-type="miscellaneous" id="acn351539-cit-0124">
+<string-name name-style="western">
+<surname>Hoang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Watt</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Golemme</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perry</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ritchie</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Noradrenergic add‐on therapy with extended‐release Guanfacine in Alzheimer's disease: study protocol for a randomised clinical trial (NorAD) and COVID‐19 amendments</article-title>. Submiss.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13063-022-06190-3</pub-id><pub-id pub-id-type="pmcid">PMC9340683</pub-id><pub-id pub-id-type="pmid">35915506</pub-id></mixed-citation></ref><ref id="acn351539-bib-0125"><label>125</label><mixed-citation publication-type="journal" id="acn351539-cit-0125">
+<string-name name-style="western">
+<surname>Devilbiss</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berridge</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Cognition‐enhancing doses of methylphenidate preferentially increase prefrontal cortical neuronal responsiveness</article-title>. <source>Biol Psychiatry</source>. <year>2008</year>;<volume>64</volume>(<issue>7</issue>):<fpage>626</fpage>‐<lpage>635</lpage>.<pub-id pub-id-type="pmid">18585681</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopsych.2008.04.037</pub-id><pub-id pub-id-type="pmcid">PMC2603602</pub-id></mixed-citation></ref><ref id="acn351539-bib-0126"><label>126</label><mixed-citation publication-type="journal" id="acn351539-cit-0126">
+<string-name name-style="western">
+<surname>Mintzer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lanctôt</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scherer</surname>
+<given-names>RW</given-names>
+</string-name>, et al. <article-title>Effect of methylphenidate on apathy in patients with Alzheimer disease the ADMET 2 randomized clinical trial</article-title>. <source>JAMA Neurol</source>. <year>2021</year>;<volume>29403</volume>:<fpage>1</fpage>‐<lpage>9</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaneurol.2021.3356</pub-id><pub-id pub-id-type="pmcid">PMC8477302</pub-id><pub-id pub-id-type="pmid">34570180</pub-id></mixed-citation></ref><ref id="acn351539-bib-0127"><label>127</label><mixed-citation publication-type="journal" id="acn351539-cit-0127">
+<string-name name-style="western">
+<surname>Marsh</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Biglan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gerstenhaer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Atomoxetine for the treatment of executive dysfunction in Parkinson's disease: a pilot open‐label study</article-title>. <source>Mov Disord</source>. <year>2009</year>;<volume>24</volume>(<issue>2</issue>):<fpage>274</fpage>‐<lpage>277</lpage>.<pub-id pub-id-type="pmid">19025777</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/mds.22307</pub-id><pub-id pub-id-type="pmcid">PMC2683743</pub-id></mixed-citation></ref><ref id="acn351539-bib-0128"><label>128</label><mixed-citation publication-type="journal" id="acn351539-cit-0128">
+<string-name name-style="western">
+<surname>Mohs</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shiovitz</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tariot</surname>
+<given-names>PN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Porsteinsson</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baker</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feldman</surname>
+<given-names>PD</given-names>
+</string-name>. <article-title>Atomoxetine augmentation of cholinesterase inhibitor therapy in patients with alzheimer disease: 6‐month, randomized, double‐blind, placebo‐controlled, parallel‐trial study</article-title>. <source>Am J Geriatr Psychiatry [Internet]</source>. <year>2009</year>;<volume>17</volume>(<issue>9</issue>):<fpage>752</fpage>‐<lpage>759</lpage>. doi:<pub-id pub-id-type="doi">10.1097/JGP.0b013e3181aad585</pub-id>
+<pub-id pub-id-type="pmid">19700948</pub-id></mixed-citation></ref><ref id="acn351539-bib-0129"><label>129</label><mixed-citation publication-type="journal" id="acn351539-cit-0129">
+<string-name name-style="western">
+<surname>Levey</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qiu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>A phase II study repurposing atomoxetine for neuroprotection in mild cognitive impairment</article-title>. <source>Brain</source>. <year>2021</year>;2021.07.06.21260104. doi:<pub-id pub-id-type="doi">10.1093/brain/awab452</pub-id>
+<pub-id pub-id-type="pmcid">PMC9630662</pub-id><pub-id pub-id-type="pmid">34919634</pub-id></mixed-citation></ref><ref id="acn351539-bib-0130"><label>130</label><mixed-citation publication-type="journal" id="acn351539-cit-0130">
+<string-name name-style="western">
+<surname>McIntyre</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McGaugh</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>Interacting brain systems modulate memory consolidation</article-title>. <source>Neurosci Biobehav Rev</source>. <year>2012</year>;<volume>36</volume>(<issue>7</issue>):<fpage>1750</fpage>‐<lpage>1762</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neubiorev.2011.11.001</pub-id>
+<pub-id pub-id-type="pmid">22085800</pub-id><pub-id pub-id-type="pmcid">PMC3315607</pub-id></mixed-citation></ref><ref id="acn351539-bib-0131"><label>131</label><mixed-citation publication-type="journal" id="acn351539-cit-0131">
+<string-name name-style="western">
+<surname>Neuser</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Teckentrup</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kühnel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hallschmid</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walter</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kroemer</surname>
+<given-names>NB</given-names>
+</string-name>. <article-title>Vagus nerve stimulation boosts the drive to work for rewards</article-title>. <source>Nat Commun</source>. <year>2020</year>;<volume>11</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>11</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41467-020-17344-9</pub-id>
+<pub-id pub-id-type="pmid">32678082</pub-id><pub-id pub-id-type="pmcid">PMC7366927</pub-id></mixed-citation></ref><ref id="acn351539-bib-0132"><label>132</label><mixed-citation publication-type="journal" id="acn351539-cit-0132">
+<string-name name-style="western">
+<surname>Dorr</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Debonnel</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Effect of vagus nerve stimulation on serotonergic and noradrenergic transmission</article-title>. <source>J Pharmacol Exp Ther</source>. <year>2006</year>;<volume>318</volume>(<issue>2</issue>):<fpage>890</fpage>‐<lpage>898</lpage>.<pub-id pub-id-type="pmid">16690723</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1124/jpet.106.104166</pub-id></mixed-citation></ref><ref id="acn351539-bib-0133"><label>133</label><mixed-citation publication-type="journal" id="acn351539-cit-0133">
+<string-name name-style="western">
+<surname>Jacobs</surname>
+<given-names>HIL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Riphagen</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Razat</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wiese</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sack</surname>
+<given-names>AT</given-names>
+</string-name>. <article-title>Transcutaneous vagus nerve stimulation boosts associative memory in older individuals</article-title>. <source>Neurobiol Aging</source>. <year>2015</year>;<volume>36</volume>(<issue>5</issue>):<fpage>1860</fpage>‐<lpage>1867</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2015.02.023</pub-id>
+<pub-id pub-id-type="pmid">25805212</pub-id></mixed-citation></ref><ref id="acn351539-bib-0134"><label>134</label><mixed-citation publication-type="journal" id="acn351539-cit-0134">
+<string-name name-style="western">
+<surname>Scherder</surname>
+<given-names>EJA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luijpen</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Dijk</surname>
+<given-names>KRA</given-names>
+</string-name>. <article-title>Activation of the dorsal raphe nucleus and locus coeruleus by transcutaneous electrical nerve stimulation in Alzheimer's disease: a reconsideration of stimulation‐parameters derived from animal studies</article-title>. <source>Chin J Physiol</source>. <year>2003</year>;<volume>46</volume>(<issue>4</issue>):<fpage>143</fpage>‐<lpage>150</lpage>.<pub-id pub-id-type="pmid">15074834</pub-id></mixed-citation></ref><ref id="acn351539-bib-0135"><label>135</label><mixed-citation publication-type="journal" id="acn351539-cit-0135">
+<string-name name-style="western">
+<surname>Ludwig</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wienke</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Betts</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zaehle</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hämmerer</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Current challenges in reliably targeting the noradrenergic locus coeruleus using transcutaneous auricular vagus nerve stimulation (taVNS)</article-title>. <source>Auton Neurosci Basic Clin</source>. <year>2021</year>;<volume>236</volume>(<issue>June</issue>):<fpage>102900</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.autneu.2021.102900</pub-id><pub-id pub-id-type="pmid">34781120</pub-id></mixed-citation></ref><ref id="acn351539-bib-0136"><label>136</label><mixed-citation publication-type="journal" id="acn351539-cit-0136">
+<string-name name-style="western">
+<surname>Ross</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Bockstaele</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gliebus</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Stress induced neural reorganization: a conceptual framework linking depression and Alzheimer's disease</article-title>. <source>Prog Neuropsychopharmacol Biol Psychiatry</source>. <year>2018</year>;<volume>85</volume>:<fpage>136</fpage>‐<lpage>151</lpage>. Available from:. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.sciencedirect.com/science/journal/02785846" ext-link-type="uri">http://www.sciencedirect.com/science/journal/02785846</ext-link>
+<pub-id pub-id-type="pmid">28803923</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pnpbp.2017.08.004</pub-id><pub-id pub-id-type="pmcid">PMC5809232</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

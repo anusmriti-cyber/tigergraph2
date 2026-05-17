@@ -1,0 +1,882 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Actas Esp Psiquiatr</journal-id><journal-id journal-id-type="iso-abbrev">Actas Esp Psiquiatr</journal-id><journal-id journal-id-type="pmc-domain-id">4213</journal-id><journal-id journal-id-type="pmc-domain">aep</journal-id><journal-id journal-id-type="publisher-id">stme</journal-id><journal-title-group><journal-title>Actas Españolas de Psiquiatría</journal-title></journal-title-group><issn pub-type="ppub">1139-9287</issn><issn pub-type="epub">1578-2735</issn><publisher><publisher-name>Fundación Juan José López-Ibor</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11898251</article-id><article-id pub-id-type="pmcid-ver">PMC11898251.1</article-id><article-id pub-id-type="pmcaid">11898251</article-id><article-id pub-id-type="pmcaiid">11898251</article-id><article-id pub-id-type="pmid">40071377</article-id><article-id pub-id-type="doi">10.62641/aep.v53i2.1682</article-id><article-id pub-id-type="publisher-id">10.62641/aep.v53i2.1682</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Impact of 16S rRNA on Intestinal Flora Alterations and Early Diagnosis in Early Alzheimer’s Disease Patients</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Lv</surname><given-names initials="D">Danping</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Lin</surname><given-names initials="X">Xiuqin</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="X">Xinyuan</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Shen</surname><given-names initials="Q">Qundi</given-names></name><xref rid="aff1" ref-type="aff"><sup>1</sup>
+</xref><xref rid="cor1" ref-type="corresp"><sup>*</sup>
+</xref></contrib></contrib-group><aff id="aff1"><sup>1</sup>Department of Laboratory, Shaoxing Seventh People’s Hospital, 312000 Shaoxing, Zhejiang, China
+</aff><author-notes><corresp id="cor1"><sup>*</sup>Corresponding author details: Qundi Shen, Department of Laboratory, Shaoxing Seventh People’s Hospital, 312000 Shaoxing, Zhejiang, China. Email:
+<email>shenqundi@163.com</email>
+</corresp></author-notes><pub-date pub-type="epub"><day>5</day><month>3</month><year>2025</year></pub-date><pub-date pub-type="collection"><season>Mar-Apr</season><year>2025</year></pub-date><volume>53</volume><issue>2</issue><issue-id pub-id-type="pmc-issue-id">484050</issue-id><fpage>208</fpage><lpage>221</lpage><history><date date-type="received"><day>29</day><month>4</month><year>2024</year></date><date date-type="rev-recd"><day>21</day><month>6</month><year>2024</year></date><date date-type="accepted"><day>4</day><month>7</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>05</day><month>03</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>13</day><month>03</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-03-13 10:25:16.433"><day>13</day><month>03</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright: © 2025 The Author(s).</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+CC BY 4.0 license</ext-link>.
+</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ActEsp-53-2-208-221.pdf"/><abstract><sec><title>Background:</title><p>Alzheimer’s Disease (AD), a complex clinical condition, relies on neuropsychological assessments for early diagnosis. Recently, the gut-brain axis has been recognized as crucial in AD development, with dysbiosis in gut microbiota implicated in disease progression. Utilizing 16S rRNA analysis provides comprehensive monitoring of gut microbiota, potentially revealing biological markers for Early Alzheimer’s Disease (EAD). Therefore, this study aimed to investigate the diagnostic impact of 16S ribosomal RNA (rRNA) on changes in intestinal flora among EAD patients.</p></sec><sec><title>Methods:</title><p>This study analyzed stool samples from 50 AD patients and 50 healthy controls between June 2022 and June 2023. Based on the disease stage, patients were categorized into EAD (<italic toggle="yes">n</italic> = 14) and Late Alzheimer’s Disease (LAD) groups (<italic toggle="yes">n</italic> = 36). The V3–V4 region was sequenced using 16S rRNA quantitative Polymerase Chain Reaction (qPCR) to compare the composition of gut microbiota and differences in abundance among the three experimental groups.
+</p></sec><sec><title>Results:</title><p>The abundance and diversity of gut microbiota significantly increased in EAD patients compared to the healthy control group. Furthermore, 39 genera showed considerable variations between EAD and LAD patients and healthy controls, with notable increases in the abundance of <italic toggle="yes">Bryantella</italic>, <italic toggle="yes">Gemmiger</italic>, <italic toggle="yes">Desulfovibrio</italic>, <italic toggle="yes">Collinsella</italic>, and <italic toggle="yes">Odoribacter</italic> among EAD patients. Additionally, significant differences were observed across the <italic toggle="yes">Desulfovibrioales </italic>and <italic toggle="yes">Verrucomicrobiales</italic>, which could help distinguish EAD patients (Area Under the Curve (AUC) range 0.854, 0.966, <italic toggle="yes">p</italic> &lt; 0.05).
+</p></sec><sec><title>Conclusion:</title><p>16S rRNA technology can be used to identify EAD patients, with the <italic toggle="yes">Desulfovibrioales</italic> and<italic toggle="yes"> Verrucomicrobiales</italic> indicators serving as potential biological markers.
+</p></sec></abstract><kwd-group kwd-group-type="author"><kwd>Alzheimer’s Disease</kwd><kwd>16S rRNA</kwd><kwd>intestinal microbiota</kwd><kwd>Early Alzheimer’s Disease</kwd><kwd>diagnosis</kwd></kwd-group><funding-group><award-group><funding-source>Zhejiang province medical health science and technology plan “Study on early diagnosis of AD by intestinal flora detection based on 16S rRNA”</funding-source><award-id>2023KY1271</award-id></award-group><funding-statement>The research is supported by Zhejiang province medical health science and technology plan “Study on early diagnosis of AD by intestinal flora detection based on 16S rRNA” (2023KY1271).</funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="S1"><title>Introduction</title><p id="S1.p1">Alzheimer’s Disease (AD) significantly affects the physical and psychological 
+health of the elderly [<xref rid="b1" ref-type="bibr">1</xref>, <xref rid="b2" ref-type="bibr">2</xref>]. According to the International Alzheimer’s 
+Association, the total cost of healthcare, long-term care, and end-of-life 
+services for AD patients over 65 was estimated at $321 billion in 2022 [<xref rid="b3" ref-type="bibr">3</xref>]. The 
+“China Alzheimer’s Disease Report” [<xref rid="b4" ref-type="bibr">4</xref>] indicated that in 2019, the prevalence 
+of AD and other dementias was 924.1 per 100,000, with a mortality rate of 22.5 
+per 100,000.</p><p id="S1.p2">AD is a pathologically complex, progressive, and fatal disease [<xref rid="b5" ref-type="bibr">5</xref>]. The 
+mechanisms underlying AD are not fully understood, and early diagnosis remains 
+challenging. Subjective assessment methods, such as the Montreal Cognitive 
+Assessment and Brain Health Survey, have been primarily used for early diagnosis, 
+making early detection and intervention difficult [<xref rid="b6" ref-type="bibr">6</xref>]. However, subjective 
+diagnosis methods are susceptible to interference from multiple factors, 
+resulting in insufficient diagnostic accuracy [<xref rid="b7" ref-type="bibr">7</xref>]. Therefore, identifying a 
+non-invasive diagnostic protocol for Early Alzheimer’s Disease (EAD) is critical 
+for the prevention and treatment of AD.</p><p id="S1.p3">It is widely accepted that patients experience a phase of silence and early 
+symptoms before irreversible cognitive decline, leading to debilitating disease 
+[<xref rid="b8" ref-type="bibr">8</xref>]. Early identification of mild cognitive dysfunction is a crucial step in 
+preventing the occurrence and progression of AD [<xref rid="b9" ref-type="bibr">9</xref>]. Recent research has reported 
+intestinal barrier dysfunction in AD patients, which can be related to its 
+etiology [<xref rid="b10" ref-type="bibr">10</xref>]. The microbiota, proteomic, and molecular changes in the gut occur 
+long before symptoms appear. Moreover, differences between the gut microbiota of 
+normal-aging individuals and mice with advanced AD highlight the potential of 
+these critical hyphae, proteins, and pathways as markers for both the early and 
+late stages of AD [<xref rid="b11" ref-type="bibr">11</xref>]. It has been suggested that gut microbial composition can 
+be used not only to diagnose neurodegenerative and neurodevelopmental diseases 
+early but also to alter the gut microbiota to influence the microbiota-gut-brain 
+axis, providing a therapeutic target for refractory diseases [<xref rid="b12" ref-type="bibr">12</xref>]. 
+Neuroinflammation induced by intestinal dysbiosis and lipid metabolism disorders 
+plays a significant role in the progression of AD [<xref rid="b13" ref-type="bibr">13</xref>]. Furthermore, the gut is a 
+major source of bacteria and antigens responsible for neuroinflammation following 
+brain injury [<xref rid="b14" ref-type="bibr">14</xref>]. Therefore, considering the intestinal flora of AD patients as 
+a monitoring index for screening and diagnosis of EAD is useful.</p><p id="S1.p4">16S ribosomal RNA (rRNA) gene sequencing, a fundamental approach in microbial 
+community profiling, leverages next-generation sequencing (NGS) platforms to 
+elucidate the taxonomic composition and phylogenetic relationships of complex 
+microbial populations within fecal samples [<xref rid="b15" ref-type="bibr">15</xref>, <xref rid="b16" ref-type="bibr">16</xref>]. This approach has been 
+extensively applied to patients with diabetes mellitus who also exhibit 
+neurological dysfunction [<xref rid="b17" ref-type="bibr">17</xref>], epilepsy [<xref rid="b18" ref-type="bibr">18</xref>], and cognitive disorders [<xref rid="b19" ref-type="bibr">19</xref>] to 
+determine the degree of intestinal flora disturbance and the specific location of 
+bacterial distribution [<xref rid="b20" ref-type="bibr">20</xref>]. Animal experiments have revealed substantial changes 
+in the abundance of intestinal flora in AD mouse models, including a decrease in 
+Proteus, Enterococcus, Dulibacterium, and Ruminococcus, and an increase in 
+pseudomonas [<xref rid="b21" ref-type="bibr">21</xref>]. Furthermore, research has revealed that degenerative cervical 
+spondylosis causes dynamic changes in the intestinal flora over time, reducing 
+the number of butyl-ureas and lactic acid-producing bacteria [<xref rid="b22" ref-type="bibr">22</xref>]. However, there 
+is a considerable paucity of research on the use of 16S rRNA assays to identify 
+neuropathological areas in Early Alzheimer’s Disease (EAD). Therefore, employing 
+high-throughput quantitative detection technologies that focus on 16S rRNA is 
+crucial for fully understanding the role of intestinal flora in the early 
+diagnosis of Alzheimer’s Disease (AD). This study utilized quantitative 
+Polymerase Chain Reaction (qPCR) based on 16S rRNA to extensively monitor changes 
+in the intestinal microecology of 50 AD patients and control groups, aiming to 
+assess its effectiveness for EAD detection. The existing literature also 
+indicates a scarcity of data on applying 16S rRNA gene sequencing in pinpointing 
+EAD neuropathological regions. Consequently, adopting high-throughput 
+quantitative detection technologies based on 16S rRNA analysis is essential for 
+elucidating the prognostic significance of gut microbiota in the early detection 
+of EAD. Additionally, this study strategically utilized qPCR targeting 16S rRNA 
+to carefully track and document fluctuations in the intestinal microbiota of the 
+study cohort. This study aimed to determine the potential utility of 16S rRNA in 
+the context of EAD. Furthermore, this study aims to discover new biomarkers and 
+improve the early identification of AD, providing a biological basis for early 
+intervention and treatment.</p></sec><sec id="S2"><title>Materials and Methods</title><sec id="S2.SS1"><title>Recruitment of Study Subjects</title><p id="S2.SS1.p1">This study included stool specimens of 50 AD patients who visited the Shaoxing 
+Seventh People’s Hospital, China, from June 2022 to June 2023, and 50 healthy 
+individuals who visited during the same period were selected as the control 
+group. The ratio of age and gender between AD patients and healthy controls was 
+1:1 utilizing the propensity score method. The study design was approved by the 
+Medical Ethics Committee of the Shaoxing Seventh People’s Hospital, China and was 
+performed following the Declaration of Helsinki (ethical approval number: 
+2022-013). All study subjects signed the informed consent form.</p><p id="S2.SS1.p2">Inclusion criteria for AD patients were as follows: Patients meeting the 
+diagnostic criteria for AD according to the China Classification and Diagnostic 
+Criteria for Mental Disorders (3rd Edition), individuals with a Mini-Mental State 
+Examination (MMSE) score of 17 or lower were classified as having EAD [<xref rid="b23" ref-type="bibr">23</xref>], while 
+those with higher scores were categorized as having Late Alzheimer’s Disease 
+(LAD). This classification divides AD patients into EAD and LAD stages based on 
+their disease progression. However, the healthy control group was selected based 
+on the following criteria: MMSE score between 27 and 30, no history of 
+cerebrovascular disease, and normal cognitive function. Moreover, the exclusion 
+criteria included the use of antibiotics, immunosuppressants, proton pump 
+inhibitors, non-steroidal anti-inflammatory drugs, anticonvulsants, 
+antidepressants, and chemotherapeutic drugs (within 7 days before sample 
+collection), consumption of high-fat and high-sugar diet, long-term heavy use of 
+antipsychotic drugs, incomplete data, complication with chronic diseases (acute 
+infection or anemia), and inability to complete the MMSE scale assessment due to 
+mental illness or severe cognitive impairment. The study subject collection and 
+enrollment process is shown in Fig. <xref rid="S2.F1" ref-type="fig">1</xref>. Additionally, this study underwent a 
+medical ethical review.</p><fig position="float" id="S2.F1" orientation="portrait"><label>Fig. 1.
+</label><caption><p><bold>Technology roadmap of this study</bold>. Note: MMSE, Mini-Mental State 
+Examination; CCMD-3, Chinese classification of mental disorders 3; AD, 
+Alzheimer’s Disease.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="S2.F1.g1" position="float" orientation="portrait" xlink:href="ActEsp-53-2-208-221-F1.jpg"/></fig></sec><sec id="S2.SS2"><title>Samples Collection</title><p id="S2.SS2.p1">Before sampling, all participants were instructed to empty their bladders. A 
+fresh fecal sample of about the size of a soybean was collected in a properly 
+labeled sterile fecal sampler. Subsequently, the laboratory personnel dipped the 
+sampling stick into the fecal sample and transferred it to a collection tube. 
+After this, preservative fluid was blended with the fecal sample in the 
+collection tube to form a homogenous suspension, which was then stored at –80 
+°C.</p></sec><sec id="S2.SS3"><title>DNA Extraction and Polymerase Chain Reaction Sequencing</title><p id="S2.SS3.p1">The stool samples underwent four main steps: DNA extraction, PCR amplification, 
+DNA sequencing, and data screening. Initially, DNA was extracted using the 
+E.Z.N.A.® Soil Kit (Catalog No. D5625, manufactured by Omega 
+Bio-tek, Norcross, GA, USA). The concentration and purity of DNA were assessed 
+using a NanoDrop 2000 instrument, and the quality of DNA extraction was confirmed 
+via 1% agarose gel electrophoresis. After this, the V3-V4 variable regions were 
+amplified using primers 338F (5<sup>′</sup>-ACTCCTACGGGAGGCAGCAG-3<sup>′</sup>) and 806R 
+(5<sup>′</sup>-GGACTACHVGGGTWTCTAAT-3<sup>′</sup>) [<xref rid="b24" ref-type="bibr">24</xref>]. After amplification, DNA sequencing 
+was performed on the Illumina MiSeq PE 300 platform in the USA. Data sequencing 
+included a quality control step to remove low-quality and duplicate sequences, 
+and high-quality sequences were assembled into complete sequences. PCR conditions 
+involved: initial denaturation at 95 °C for 30 seconds; denaturation at 
+95 °C for 15 seconds; annealing: reducing temperature to 55 °C 
+for 30 seconds; extension at 72 °C for 45 seconds; cycle number: 
+repeating steps 2–4 for a total of 35 cycles. A final extension of the DNA 
+product was performed at 72 °C for 10 minutes to ensure complete 
+synthesis of the target region, keeping the reaction at 4 °C until the 
+next step.</p></sec><sec id="S2.SS4"><title>Data Processing</title><p id="S2.SS4.p1">Sequencing data were converted to barcode information and then processed using 
+the Quantitative Insights Into Microbial Ecology 2 (QIIME2) demux plugin (version 2021.2, QIIME2 development team, Flagstaff, AZ, USA) to demultiplex the feature sequences 
+of the samples. Post-demultiplexing, the QIIME2 dada2 plugin was used for 
+sequence quality control and chimera removal, strictly adhering to the quality 
+control parameters of the QIIME2 platform. The QIIME2 feature-classifier plugin 
+matches the representative sequences of sOTUs (sub-operational taxonomic units) 
+against the pre-trained GREENGENES database (version 13-8, University of 
+California, San Diego, CA, USA) with 99% similarity to obtain taxonomic 
+classification. Contaminating mitochondrial and chloroplast sequences were 
+eliminated using the QIIME2 feature-table plugin. Subsequently, the QIIME2 
+core-diversity plugin was used to compute diversity metrics, and the emperor 
+plugin was employed to visualize the diversity. Differences in microbial 
+abundance across groups and samples were assessed using various methods such as 
+Analysis of Composition of Microbiomes (ANCOM), Analysis of Variance (ANOVA), 
+Kruskal-Wallis test, Linear Discriminant Analysis Effect Size (LEfSe), and 
+differential gene expression analysis utilizing the negative binomial 
+distribution with DESeq2.</p></sec><sec id="S2.SS5"><title>Observation Indicators</title><p id="S2.SS5.p1">General data: The medical staff of the hospital recorded general data of both 
+patients and control groups, including gender, age, education level and Body Mass 
+Index (BMI). The propensity score matching method was utilized to match AD with a 
+control group at a 1:1 ratio.</p><p id="S2.SS5.p2">Distribution of intestinal flora: A Venn diagram was created based on data 
+sequencing to compare common species among different groups. Flora <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w1" alttext="\alpha{}" display="inline" overflow="scroll"><mml:mi>α</mml:mi></mml:math></inline-formula> 
+diversity indicators were analyzed, such as Faith’s phylogenetic diversity 
+(faith-pd) index, Chao1 richness estimator, Shannon diversity index (Shannon), 
+and OTU index (Observed-otus).</p><p id="S2.SS5.p3">Analysis of intestinal flora structure: Differences in intestinal flora across 
+each group were assessed at genus, species, and phyla levels.</p><p id="S2.SS5.p4">Correlation analysis between intestinal microflora and AD stage: Heat maps were 
+used to analyze the correlation between different AD stages and intestinal 
+microflora.</p></sec><sec id="S2.SS6"><title>Statistical Methods</title><p id="S2.SS6.p1">Statistical analyses were performed using Origin 2021 software (Northampton, MA, 
+USA). The normality of the data was tested using the Shapiro-Wilk test. Normally 
+distributed quantitative data were described using the mean and standard 
+deviation (<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w2" alttext="\bar{x}" display="inline" overflow="scroll"><mml:mover accent="true"><mml:mi>x</mml:mi><mml:mo stretchy="false">¯</mml:mo></mml:mover></mml:math></inline-formula>
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w3" alttext="\pm" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula>
+<italic toggle="yes">s</italic>), while non-normally distributed quantitative data were expressed as 
+median (P25, P75). Comparisons between groups were performed using ANOVA or 
+independent sample <italic toggle="yes">t</italic>-tests, with pairwise comparisons conducted using 
+the Student-Newman-Keuls q (SNK-q) test. The <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w4" alttext="\chi{}" display="inline" overflow="scroll"><mml:mi>χ</mml:mi></mml:math></inline-formula><sup>2</sup> test was used for 
+intergroup comparisons of all categorical data.</p><p id="S2.SS6.p2">Microbial community analysis employed the LEfSe test to differentiate relative 
+abundances between groups, and difference was considered statistically 
+significant when the logarithmic score of the linear discriminant analysis (LDA) 
+log 10 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w5" alttext="&gt;" display="inline" overflow="scroll"><mml:mo>&gt;</mml:mo></mml:math></inline-formula>2, with <italic toggle="yes">p </italic>
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w6" alttext="&lt;" display="inline" overflow="scroll"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> 0.05 [<xref rid="b25" ref-type="bibr">25</xref>]. Furthermore, various alpha diversity 
+indices were compared using the Wilcox analysis method, with an alpha correction 
+level set at 0.05. Receiver operating characteristic (ROC) curves were utilized 
+to identify biomarkers with significant differences for assessing the diagnostic 
+efficacy of EAD. Beta diversity analysis was performed using the “fast.prcomp” 
+function of the “gmodels” package (v.2.18.1) [<xref rid="b26" ref-type="bibr">26</xref>] in R software (R Foundation 
+for Statistical Computing, Vienna, Austria) (v.4.2.2), and the results were 
+visualized using the “ggpubr” package (v0.4.0) [<xref rid="b27" ref-type="bibr">27</xref>], a comprehensive web 
+service for biomedical data analysis and visualization. Variables in the ROC 
+curve analysis post-multivariate regression with results showing <italic toggle="yes">p </italic>
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w7" alttext="&lt;" display="inline" overflow="scroll"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> 
+0.05 and featuring an Area Under the Curve (AUC) <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w8" alttext="&gt;" display="inline" overflow="scroll"><mml:mo>&gt;</mml:mo></mml:math></inline-formula>0.5, <italic toggle="yes">p </italic>
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w9" alttext="&lt;" display="inline" overflow="scroll"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> 0.05, and 
+sensitivity generally <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w10" alttext="&gt;" display="inline" overflow="scroll"><mml:mo>&gt;</mml:mo></mml:math></inline-formula>0.6 were considered diagnostically significant for EAD. 
+We acknowledged the Hiplot Pro platform developed by Tengyun Biotech Co., Ltd., 
+Shanghai, China (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://hiplot.com.cn/">https://hiplot.com.cn/</uri>).</p></sec></sec><sec id="S3"><title>Results</title><sec id="S3.SS1"><title>General Data</title><p id="S3.SS1.p1">The healthy control group consisted of 17 males and 33 females, aged between 54 
+and 91 years, with an average age of 75.44 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w11" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 7.96 years and a body mass 
+index (BMI) ranging from 16.06 to 30.71 kg/m<sup>2</sup>, averaging 21.84 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w12" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 2.91 
+kg/m<sup>2</sup>. Regarding educational levels, 26 individuals had education up to 
+middle school or lower, while 24 had attained high school or higher. The 
+Alzheimer’s Disease (AD) patient group included 50 individuals, comprising 19 
+males and 31 females, aged between 59 and 92 years, with an average age of 74.80 
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w13" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 8.36 years and a BMI ranging from 16.93 to 27.78 kg/m<sup>2</sup>, averaging 
+22.44 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w14" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 2.32 kg/m<sup>2</sup>. Educational levels were middle school or lower for 
+27 patients and high school or above for 23. There were no statistically 
+significant differences in age, gender, BMI, or educational levels between the AD 
+patients and the healthy controls (<italic toggle="yes">p </italic>
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w15" alttext="&gt;" display="inline" overflow="scroll"><mml:mo>&gt;</mml:mo></mml:math></inline-formula> 0.05).</p><p id="S3.SS1.p2">Among the AD patients, 14 were diagnosed with Early Alzheimer’s Disease (EAD) 
+and 36 with Late Alzheimer’s Disease (LAD). In the EAD subgroup, there were 5 
+males and 9 females, aged between 60 and 85 years, with an average age of 75.07 
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w16" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 6.22 years and a BMI of 22.18 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w17" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 1.99 kg/m<sup>2</sup>. Educational levels 
+were middle school or lower for 9 individuals and high school or above for 5. The 
+LAD subgroup consisted of 14 males and 22 females, aged between 60 and 85 years, 
+with an average age of 74.69 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w18" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 9.13 years and a BMI of 22.54 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w19" alttext="\pm{}" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 2.45 
+kg/m<sup>2</sup>. Educational levels were middle school or lower for 18 individuals and 
+high school or above for 18. There were no significant statistical differences in 
+gender, age, or other general data between the EAD and LAD patients (<italic toggle="yes">p </italic>
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w20" alttext="&gt;" display="inline" overflow="scroll"><mml:mo>&gt;</mml:mo></mml:math></inline-formula> 0.05). Baseline characteristics of the study subjects are given in Table <xref rid="S3.T1" ref-type="table">1</xref>.</p><table-wrap position="float" id="S3.T1" orientation="portrait"><label>Table 1.
+</label><caption><p><bold>Comparison of general information among the three experimental 
+groups</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;"><td rowspan="2" colspan="1">Group (<italic toggle="yes">n</italic>)</td><td colspan="2" align="center" rowspan="1">Sex</td><td rowspan="2" colspan="1">Age (years)</td><td rowspan="2" colspan="1">Body mass index (kg/m<sup>2</sup>)</td><td colspan="2" align="center" rowspan="1">Educational qualifications (example)</td></tr><tr style="border-top:1px solid #000;"><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">Junior high school and below</td><td rowspan="1" colspan="1">High school and above</td></tr><tr style="border-top:1px solid #000;"><td rowspan="1" colspan="1">Healthy (50)</td><td rowspan="1" colspan="1">17</td><td rowspan="1" colspan="1">33</td><td rowspan="1" colspan="1">75.44 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w21" alttext="\pm" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 7.96</td><td rowspan="1" colspan="1">21.84 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w22" alttext="\pm" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 2.91</td><td rowspan="1" colspan="1">26</td><td rowspan="1" colspan="1">24</td></tr><tr><td rowspan="1" colspan="1">AD (50)</td><td rowspan="1" colspan="1">19</td><td rowspan="1" colspan="1">31</td><td rowspan="1" colspan="1">74.80 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w23" alttext="\pm" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 8.36</td><td rowspan="1" colspan="1">22.44 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w24" alttext="\pm" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 2.32</td><td rowspan="1" colspan="1">27</td><td rowspan="1" colspan="1">23</td></tr><tr><td rowspan="1" colspan="1">EAD (14)</td><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">9</td><td rowspan="1" colspan="1">75.07 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w25" alttext="\pm" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 6.22</td><td rowspan="1" colspan="1">22.18 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w26" alttext="\pm" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 1.99</td><td rowspan="1" colspan="1">9</td><td rowspan="1" colspan="1">5</td></tr><tr><td rowspan="1" colspan="1">LAD (36)</td><td rowspan="1" colspan="1">14</td><td rowspan="1" colspan="1">22</td><td rowspan="1" colspan="1">74.69 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w27" alttext="\pm" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 9.13</td><td rowspan="1" colspan="1">22.54 <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w28" alttext="\pm" display="inline" overflow="scroll"><mml:mo>±</mml:mo></mml:math></inline-formula> 2.45</td><td rowspan="1" colspan="1">18</td><td rowspan="1" colspan="1">18</td></tr><tr><td rowspan="1" colspan="1">χ<sup>2</sup><sub>1</sub><italic toggle="yes">/t</italic><sub>1</sub></td><td colspan="2" rowspan="1">0.174</td><td rowspan="1" colspan="1">0.392</td><td rowspan="1" colspan="1">1.140</td><td colspan="2" align="center" rowspan="1">0.040</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<sub>1</sub>
+</td><td colspan="2" rowspan="1">0.677</td><td rowspan="1" colspan="1">0.696</td><td rowspan="1" colspan="1">0.257</td><td colspan="2" align="center" rowspan="1">0.841</td></tr><tr><td rowspan="1" colspan="1">χ<sup>2</sup><sub>2</sub>/<italic toggle="yes">F</italic></td><td colspan="2" rowspan="1">0.218</td><td rowspan="1" colspan="1">0.087</td><td rowspan="1" colspan="1">0.745</td><td colspan="2" align="center" rowspan="1">0.866</td></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<sub>2</sub>
+</td><td colspan="2" rowspan="1">0.897</td><td rowspan="1" colspan="1">0.917</td><td rowspan="1" colspan="1">0.478</td><td colspan="2" align="center" rowspan="1">0.649</td></tr></tbody></table><table-wrap-foot><fn><p>Note: “χ<sup>2</sup><sub>1</sub>” refers to the chi-square test comparing the 
+Healthy group and the Alzheimer’s Disease (AD) group. “<italic toggle="yes">t</italic><sub>1</sub>” 
+denotes the <italic toggle="yes">t</italic>-test conducted between the Healthy group and the AD group. 
+“<italic toggle="yes">p</italic><sub>1</sub>” represents the <italic toggle="yes">p</italic>-value for the comparison between 
+the Healthy and AD groups. “χ<sup>2</sup><sub>2</sub>” indicates the chi-square 
+test comparing the Healthy, Late Alzheimer’s Disease (LAD), and Early Alzheimer’s 
+Disease (EAD) groups. “<italic toggle="yes">F</italic>” represents the Analysis of Variance (ANOVA) 
+results when comparing the Healthy, LAD, and EAD groups. “<italic toggle="yes">p</italic><sub>2</sub>” is 
+the <italic toggle="yes">p</italic>-value for comparing the Healthy, LAD, and EAD groups. Here, 
+‘Healthy’ pertains to the group without Alzheimer’s Disease, ‘EAD’ to the group 
+with Early Alzheimer’s Disease, and ‘LAD’ to the group with Late Alzheimer’s 
+Disease.</p></fn></table-wrap-foot></table-wrap></sec><sec id="S3.SS2"><title>Analysis of Beta Diversity among Intestinal Flora</title><p id="S3.SS2.p1">The variation explained by PC1 was 12.12% and by PC2 was 7.94%. PCA analysis 
+effectively distinguished between the microbial structures of the EAD group and 
+those of ‘healthy’ and ‘LAD’ groups, as shown in Fig. <xref rid="S3.F2" ref-type="fig">2</xref>.</p><fig position="float" id="S3.F2" orientation="portrait"><label>Fig. 2.
+</label><caption><p><bold>Principal Components Analysis (PCA) differentiation scenario</bold>. 
+Note: The X-axis: PC1, indicates the first principal component; the Y-axis: PC2, 
+represents the second principal component; “healthy”, “EAD”, and “LAD” 
+represent the healthy control group, Early Alzheimer’s Disease, and Late 
+Alzheimer’s Disease, respectively.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="S3.F2.g1" position="float" orientation="portrait" xlink:href="ActEsp-53-2-208-221-F2.jpg"/></fig></sec><sec id="S3.SS3"><title>Sequencing Data and Analysis of Common Strains</title><p id="S3.SS3.p1">The 100 fecal samples from the EAD, LAD, and healthy control groups were 
+analyzed using 16S rRNA sequencing, yielding 2,458,406 usable sequences with an 
+average length of 412 bp. After clustering and denoising processes, 2523 
+operational taxonomic units (OTUs) were identified. These OTUs were classified 
+into 11 phyla, 20 classes, 32 orders, 65 families, and 132 genera.</p><p id="S3.SS3.p2">Sequences of OTUs with an abundance <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w33" alttext="&gt;" display="inline" overflow="scroll"><mml:mo>&gt;</mml:mo></mml:math></inline-formula>1‰ were selected and 
+aligned to the sequence similarities in the GREENGE-NES Database, version 13-8 
+ribosomal RNA database for species annotation information. This step primarily 
+aimed to obtain the absolute abundance and annotation information of OTU and to 
+count the ratio of the number of sequences at the species, genus, family, and 
+phylum levels to the total number of sequences for each sample. As illustrated in 
+Fig. <xref rid="S3.F3" ref-type="fig">3</xref>, a total of 1418 effective OTUs were selected, with 360 bacterial species 
+shared between AD patients and healthy controls, and 590 shared between EAD and 
+LAD patients. Furthermore, EAD patients had 21 unique bacterial species.</p><fig position="float" id="S3.F3" orientation="portrait"><label>Fig. 3.
+</label><caption><p><bold>Venn diagrams of common and endemic species among the three 
+experimental groups</bold>. Note: (A) The Venn diagram of shared and unique species 
+among the three groups. (B) The number of bacterial species in each group. (C) The 1418 effective operational taxonomic units 
+(OTUs).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="S3.F3.g1" position="float" orientation="portrait" xlink:href="ActEsp-53-2-208-221-F3.jpg"/></fig></sec><sec id="S3.SS4"><title>Analysis of Microbial Diversity</title><p id="S3.SS4.p1">Patients in the EAD and LAD groups demonstrated significantly higher values 
+compared to the control group in metrics such as Faith’s phylogenetic diversity, 
+Chao1 index, Observed OTUs index, and Shannon index, with significant statistical 
+differences (F = 2486.926, 925.016, 10.248; <italic toggle="yes">p </italic>
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w34" alttext="&lt;" display="inline" overflow="scroll"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> 0.001 for all 
+indices). However, only the Chao1 and Observed-OTUs indexes showed significant 
+differences in pairwise comparisons among the three groups (<italic toggle="yes">p </italic>
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w35" alttext="&lt;" display="inline" overflow="scroll"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> 0.05, 
+Fig. <xref rid="S3.F4" ref-type="fig">4</xref>).</p><fig position="float" id="S3.F4" orientation="portrait"><label>Fig. 4.
+</label><caption><p><bold>Comparison of <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w36" alttext="\alpha{}" display="inline" overflow="scroll"><mml:mi>α</mml:mi></mml:math></inline-formula> diversity indicators among the three 
+experimental groups</bold>. Note: (A) Box plot of three groups of faith-pd index. (B) 
+Box plot of three groups of chao1 index. (C) Box plot of observed-otus index. (D) 
+Box plot of three groups of Shannon index. <sup>*</sup><italic toggle="yes">p </italic>
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w37" alttext="&lt;" display="inline" overflow="scroll"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> 0.05.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="S3.F4.g1" position="float" orientation="portrait" xlink:href="ActEsp-53-2-208-221-F4.jpg"/></fig></sec><sec id="S3.SS5"><title>Analysis of Gut Microbiome Composition at the Genus Level</title><p id="S3.SS5.p1">Among the 132 genera analyzed at the genus level, significant differences 
+between AD patients and the healthy control group were primarily observed in 39 
+genera. The predominant genera in the healthy control group included 
+<italic toggle="yes">Gemmiger</italic>, <italic toggle="yes">Bacteroides</italic>, and <italic toggle="yes">Mitsuokella</italic>. In the EAD 
+group, there was a substantial increase in the relative abundance of genera such 
+as <italic toggle="yes">Bryantella</italic>, <italic toggle="yes">Gemmiger</italic>, <italic toggle="yes">Desulfovibrio</italic>, 
+<italic toggle="yes">Collinsella</italic>, <italic toggle="yes">Odoribacter</italic>, and <italic toggle="yes">Enterococcus </italic>compared to 
+the healthy controls. Furthermore, the relative abundances of 
+<italic toggle="yes">Lactococcus</italic>, <italic toggle="yes">Gemmiger</italic>, and <italic toggle="yes">Desulfovibrio</italic> were higher 
+in the EAD group compared to the LAD group. These differences were assessed using 
+the LEfSe test (all <italic toggle="yes">p </italic>
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w38" alttext="&lt;" display="inline" overflow="scroll"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> 0.05, Fig. <xref rid="S3.F5" ref-type="fig">5</xref>).</p><fig position="float" id="S3.F5" orientation="portrait"><label>Fig. 5.
+</label><caption><p><bold>Comparison of bacterial abundance among the three experimental 
+groups at the genus level</bold>. Note: The left side of the figure indicates the 
+genus, other bacteria represent the bacterial abundance of other genera. Health, 
+EAD, and LAD represent the changes of the three groups of bacteria, respectively. 
+The numbers in the figure represent the minimum and maximum abundance of 
+bacterial species.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="S3.F5.g1" position="float" orientation="portrait" xlink:href="ActEsp-53-2-208-221-F5.jpg"/></fig></sec><sec id="S3.SS6"><title>Structural Analysis of Intestinal Flora at the Phylum and Order 
+Level</title><p id="S3.SS6.p1">As shown in Table <xref rid="S3.T2" ref-type="table">2</xref>, the main differences among the EAD, LAD, and healthy 
+control groups were observed in the phyla <italic toggle="yes">Actinobacteria</italic>, 
+<italic toggle="yes">Bacteroidetes</italic>, <italic toggle="yes">Firmicutes</italic>, <italic toggle="yes">Proteobacteria</italic>, and 
+<italic toggle="yes">Verrucomicrobia</italic>, as well as in the orders <italic toggle="yes">Clostridia</italic>, 
+<italic toggle="yes">Enterobacteriales</italic>, <italic toggle="yes">Desulfovibrionia</italic>, 
+<italic toggle="yes">Verrucomicrobiales</italic> and<italic toggle="yes"> Lactobacillales.</italic> These differences were 
+statistically significant (<italic toggle="yes">p </italic>
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w39" alttext="&lt;" display="inline" overflow="scroll"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> 0.01).</p><table-wrap position="float" id="S3.T2" orientation="portrait"><label>Table 2.
+</label><caption><p><bold>Comparison of dominant bacterial abundance among the three 
+experimental groups</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;"><td rowspan="2" colspan="1">Phylum, order</td><td colspan="3" align="center" rowspan="1">Relative abundance (%)</td><td rowspan="2" colspan="1">log 10 LDA</td><td rowspan="2" colspan="1">
+<italic toggle="yes">p</italic>
+</td></tr><tr style="border-top:1px solid #000;"><td rowspan="1" colspan="1">Healthy control group</td><td rowspan="1" colspan="1">EAD</td><td rowspan="1" colspan="1">LAD</td></tr><tr style="border-top:1px solid #000;"><td rowspan="1" colspan="1">
+<italic toggle="yes">Actinobacteria</italic>
+</td><td rowspan="1" colspan="1">0.03 (0.01, 0.74)</td><td rowspan="1" colspan="1">0.34 (0.23, 0.67)</td><td rowspan="1" colspan="1">0.44 (0.31, 0.64)</td><td rowspan="1" colspan="1">4.98</td><td rowspan="1" colspan="1">0.003</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Firmicutes</italic>
+</td><td rowspan="1" colspan="1">0.64 (0.52, 0.75)</td><td rowspan="1" colspan="1">0.73 (0.70, 0.75)</td><td rowspan="1" colspan="1">0.76 (0.70, 0.74)</td><td rowspan="1" colspan="1">4.72</td><td rowspan="1" colspan="1">0.004</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Proteobacteria</italic>
+</td><td rowspan="1" colspan="1">0.12 (0.10, 0.15)</td><td rowspan="1" colspan="1">0.06 (0.05, 0.07)</td><td rowspan="1" colspan="1">0.04 (0.03, 0.05)</td><td rowspan="1" colspan="1">5.32</td><td rowspan="1" colspan="1">0.002</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Bacteroidetes</italic>
+</td><td rowspan="1" colspan="1">0.06 (0.05, 0.07)</td><td rowspan="1" colspan="1">0.08 (0.07, 0.09)</td><td rowspan="1" colspan="1">0.09 (0.08, 0.10)</td><td rowspan="1" colspan="1">3.92</td><td rowspan="1" colspan="1">0.006</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Verrucomicrobia</italic>
+</td><td rowspan="1" colspan="1">0.03 (0.02, 0.04)</td><td rowspan="1" colspan="1">0.01 (0.01, 0.02)</td><td rowspan="1" colspan="1">0.03 (0.02, 0.03)</td><td rowspan="1" colspan="1">4.12</td><td rowspan="1" colspan="1">0.005</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Clostridiales</italic>
+</td><td rowspan="1" colspan="1">0.65 (0.60, 0.71)</td><td rowspan="1" colspan="1">0.58 (0.52, 0.64)</td><td rowspan="1" colspan="1">0.52 (0.50, 0.64)</td><td rowspan="1" colspan="1">3.58</td><td rowspan="1" colspan="1">0.008</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Enterobacteriales</italic>
+</td><td rowspan="1" colspan="1">0.11 (0.10, 0.14)</td><td rowspan="1" colspan="1">0.08 (0.07, 0.09)</td><td rowspan="1" colspan="1">0.04 (0.02, 0.05)</td><td rowspan="1" colspan="1">7.24</td><td rowspan="1" colspan="1">0.001</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Desulfovibrioales</italic>
+</td><td rowspan="1" colspan="1">0.03 (0.01, 0.03)</td><td rowspan="1" colspan="1">0.01 (0.01, 0.02)</td><td rowspan="1" colspan="1">0.05 (0.04, 0.06)</td><td rowspan="1" colspan="1">5.82</td><td rowspan="1" colspan="1">0.002</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Verrucomicrobiales</italic>
+</td><td rowspan="1" colspan="1">0.03 (0.02, 0.04)</td><td rowspan="1" colspan="1">0.01 (0.01, 0.02)</td><td rowspan="1" colspan="1">0.02 (0.02, 0.03)</td><td rowspan="1" colspan="1">3.98</td><td rowspan="1" colspan="1">0.006</td></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1">
+<italic toggle="yes">Lactobacillales</italic>
+</td><td rowspan="1" colspan="1">0.01 (0.01, 0.02)</td><td rowspan="1" colspan="1">0.06 (0.05, 0.07)</td><td rowspan="1" colspan="1">0.08 (0.07, 0.09)</td><td rowspan="1" colspan="1">8.14</td><td rowspan="1" colspan="1">0.000</td></tr></tbody></table><table-wrap-foot><fn><p>Note: EAD, Early Alzheimer’s Disease; LAD, Late Alzheimer’s Disease; log 10 LDA, 
+log-transformed Linear Discriminant Analysis.</p></fn></table-wrap-foot></table-wrap></sec><sec id="S3.SS7"><title>Discriminatory Analysis of Intestinal Microflora and EAD Staging</title><p id="S3.SS7.p1">Multivariate linear regression analysis revealed that the faith-pd index, 
+<italic toggle="yes">Enterobacteriales</italic>, <italic toggle="yes">Desulfovibrionia</italic>, <italic toggle="yes">Verrucomicrobiales</italic>, and <italic toggle="yes">Lactobacillales</italic> demonstrated a significant impact on EAD and LAD (F = 
+690.004, <italic toggle="yes">p</italic> = 0.000). These results are presented in Table <xref rid="S3.T3" ref-type="table">3</xref>. Using EAD 
+as the implicit variable, with EAD as positive and Healthy and LAD as negative, 
+the discriminating variables included the Faith-PD index, 
+<italic toggle="yes">Enterobacteriales</italic>, <italic toggle="yes">Desulfovibrionaceae</italic>, <italic toggle="yes">Verrucomicrobiales</italic>, and 
+<italic toggle="yes">Lactobacillales</italic>. Receiver operating characteristic (ROC) curves 
+illustrating these findings are displayed in Fig. <xref rid="S3.F5" ref-type="fig">5</xref>. Indicators with <italic toggle="yes">p </italic>
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w40" alttext="&lt;" display="inline" overflow="scroll"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> 0.05 were used to identify the intestinal flora indicators of EAD patients, 
+such as the observed-otus index and the relative abundance of 
+<italic toggle="yes">Enterobacteriale</italic>, <italic toggle="yes">Desulfovibrionia</italic>, <italic toggle="yes">Verrucomicrobiales</italic>, <italic toggle="yes">Lactobacillales</italic> (Table <xref rid="S3.T4" ref-type="table">4</xref>). The ROC curve results revealed that an index 
+only has a diagnostic value when AUC <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w41" alttext="&gt;" display="inline" overflow="scroll"><mml:mo>&gt;</mml:mo></mml:math></inline-formula>0.50, <italic toggle="yes">p </italic>
+<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w42" alttext="&lt;" display="inline" overflow="scroll"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> 0.05, and 
+sensitivity <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w43" alttext="&gt;" display="inline" overflow="scroll"><mml:mo>&gt;</mml:mo></mml:math></inline-formula>0.6. ROC curves (Fig. <xref rid="S3.F6" ref-type="fig">6</xref>) indicated that only 
+<italic toggle="yes">Desulfovibrionales</italic> and <italic toggle="yes">Verrucomicrobiales</italic> met the criteria as 
+mentioned above and were found suitable for clinical diagnostics.</p><table-wrap position="float" id="S3.T3" orientation="portrait"><label>Table 3.
+</label><caption><p><bold>Multivariate linear regression analysis of AD</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">Model</td><td rowspan="1" colspan="1">B</td><td rowspan="1" colspan="1">SE</td><td rowspan="1" colspan="1">Standardized coefficient beta</td><td rowspan="1" colspan="1">
+<italic toggle="yes">t</italic>
+</td><td rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</td></tr><tr><td rowspan="1" colspan="1">Constant</td><td rowspan="1" colspan="1">0.266</td><td rowspan="1" colspan="1">0.517</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">0.514</td><td rowspan="1" colspan="1">0.609</td></tr><tr><td rowspan="1" colspan="1">Faith_pd</td><td rowspan="1" colspan="1">–0.008</td><td rowspan="1" colspan="1">0.003</td><td rowspan="1" colspan="1">–0.034</td><td rowspan="1" colspan="1">–2.689</td><td rowspan="1" colspan="1">0.009</td></tr><tr><td rowspan="1" colspan="1">Chao1</td><td rowspan="1" colspan="1">0.004</td><td rowspan="1" colspan="1">0.002</td><td rowspan="1" colspan="1">0.118</td><td rowspan="1" colspan="1">1.615</td><td rowspan="1" colspan="1">0.110</td></tr><tr><td rowspan="1" colspan="1">Observed_otus</td><td rowspan="1" colspan="1">0.001</td><td rowspan="1" colspan="1">0.001</td><td rowspan="1" colspan="1">0.051</td><td rowspan="1" colspan="1">1.034</td><td rowspan="1" colspan="1">0.304</td></tr><tr><td rowspan="1" colspan="1">Shannon</td><td rowspan="1" colspan="1">0.006</td><td rowspan="1" colspan="1">0.007</td><td rowspan="1" colspan="1">0.010</td><td rowspan="1" colspan="1">0.884</td><td rowspan="1" colspan="1">0.379</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Desulfovibrio</italic>
+</td><td rowspan="1" colspan="1">–0.907</td><td rowspan="1" colspan="1">0.83</td><td rowspan="1" colspan="1">–0.063</td><td rowspan="1" colspan="1">–1.093</td><td rowspan="1" colspan="1">0.278</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Gemmiger</italic>
+</td><td rowspan="1" colspan="1">–1.246</td><td rowspan="1" colspan="1">0.861</td><td rowspan="1" colspan="1">–0.121</td><td rowspan="1" colspan="1">–1.447</td><td rowspan="1" colspan="1">0.152</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Lactococcus</italic>
+</td><td rowspan="1" colspan="1">0.008</td><td rowspan="1" colspan="1">0.741</td><td rowspan="1" colspan="1">0.001</td><td rowspan="1" colspan="1">0.011</td><td rowspan="1" colspan="1">0.991</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Actinobacteria</italic>
+</td><td rowspan="1" colspan="1">0.050</td><td rowspan="1" colspan="1">0.053</td><td rowspan="1" colspan="1">0.010</td><td rowspan="1" colspan="1">0.942</td><td rowspan="1" colspan="1">0.349</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Bacteroidetes</italic>
+</td><td rowspan="1" colspan="1">–0.216</td><td rowspan="1" colspan="1">0.226</td><td rowspan="1" colspan="1">–0.016</td><td rowspan="1" colspan="1">–0.958</td><td rowspan="1" colspan="1">0.341</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Firmicutes</italic>
+</td><td rowspan="1" colspan="1">–0.004</td><td rowspan="1" colspan="1">0.911</td><td rowspan="1" colspan="1">0.000</td><td rowspan="1" colspan="1">–0.005</td><td rowspan="1" colspan="1">0.996</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Proteobacteria</italic>
+</td><td rowspan="1" colspan="1">0.504</td><td rowspan="1" colspan="1">1.632</td><td rowspan="1" colspan="1">0.008</td><td rowspan="1" colspan="1">0.308</td><td rowspan="1" colspan="1">0.759</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Verrucomicrobia</italic>
+</td><td rowspan="1" colspan="1">3.551</td><td rowspan="1" colspan="1">2.014</td><td rowspan="1" colspan="1">0.027</td><td rowspan="1" colspan="1">1.763</td><td rowspan="1" colspan="1">0.082</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Clostridiales</italic>
+</td><td rowspan="1" colspan="1">–0.286</td><td rowspan="1" colspan="1">0.253</td><td rowspan="1" colspan="1">–0.019</td><td rowspan="1" colspan="1">–1.128</td><td rowspan="1" colspan="1">0.263</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Enterobacteriales</italic>
+</td><td rowspan="1" colspan="1">–6.492</td><td rowspan="1" colspan="1">0.952</td><td rowspan="1" colspan="1">–0.318</td><td rowspan="1" colspan="1">–6.817</td><td rowspan="1" colspan="1">0.000</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Desulfovibrionia</italic>
+</td><td rowspan="1" colspan="1">8.23</td><td rowspan="1" colspan="1">1.434</td><td rowspan="1" colspan="1">0.135</td><td rowspan="1" colspan="1">5.739</td><td rowspan="1" colspan="1">0.000</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Verrucomicrobiales</italic>
+</td><td rowspan="1" colspan="1">5.407</td><td rowspan="1" colspan="1">1.874</td><td rowspan="1" colspan="1">0.041</td><td rowspan="1" colspan="1">2.886</td><td rowspan="1" colspan="1">0.005</td></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1">
+<italic toggle="yes">Lactobacillales</italic>
+</td><td rowspan="1" colspan="1">8.200</td><td rowspan="1" colspan="1">1.974</td><td rowspan="1" colspan="1">0.266</td><td rowspan="1" colspan="1">4.153</td><td rowspan="1" colspan="1">0.000</td></tr></tbody></table><table-wrap-foot><fn><p>SE, standard error.</p></fn></table-wrap-foot></table-wrap><table-wrap position="float" id="S3.T4" orientation="portrait"><label>Table 4.
+</label><caption><p><bold>ROC curves of the main indicators of variation in intestinal 
+flora for Early Alzheimer’s Disease (EAD)</bold>.</p></caption><table frame="hsides" rules="groups"><tbody><tr style="border-top:1px solid #000;border-bottom:1px solid #000;"><td rowspan="1" colspan="1">Indicators of difference</td><td rowspan="1" colspan="1">AUC</td><td rowspan="1" colspan="1">Critical value</td><td rowspan="1" colspan="1">Sensitivity</td><td rowspan="1" colspan="1">Specificity</td><td rowspan="1" colspan="1">95% CI</td><td rowspan="1" colspan="1"><italic toggle="yes">p</italic>-value</td></tr><tr><td rowspan="1" colspan="1">
+<italic toggle="yes">Desulfovibrioales</italic>
+</td><td rowspan="1" colspan="1">0.854</td><td rowspan="1" colspan="1">0.019</td><td rowspan="1" colspan="1">92.86</td><td rowspan="1" colspan="1">73.26</td><td rowspan="1" colspan="1">0.722<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w44" alttext="\sim" display="inline" overflow="scroll"><mml:mo>∼</mml:mo></mml:math></inline-formula>0.986</td><td rowspan="1" colspan="1"><inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w45" alttext="&lt;" display="inline" overflow="scroll"><mml:mo>&lt;</mml:mo></mml:math></inline-formula>0.001</td></tr><tr style="border-bottom:1px solid #000;"><td rowspan="1" colspan="1">
+<italic toggle="yes">Verrucomicrobiales</italic>
+</td><td rowspan="1" colspan="1">0.966</td><td rowspan="1" colspan="1">0.020</td><td rowspan="1" colspan="1">92.86</td><td rowspan="1" colspan="1">100.00</td><td rowspan="1" colspan="1">0.930<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w46" alttext="\sim" display="inline" overflow="scroll"><mml:mo>∼</mml:mo></mml:math></inline-formula>1.001</td><td rowspan="1" colspan="1"><inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w47" alttext="&lt;" display="inline" overflow="scroll"><mml:mo>&lt;</mml:mo></mml:math></inline-formula>0.001</td></tr></tbody></table><table-wrap-foot><fn><p>Note: ROC, receiver operating characteristic; AUC, Area Under the Curve.</p></fn></table-wrap-foot></table-wrap><fig position="float" id="S3.F6" orientation="portrait"><label>Fig. 6.
+</label><caption><p><bold>Comparison of receiver operating characteristic curves for EAD 
+using main difference indicators of intestinal flora</bold>. Note: The X-axis 
+represents 1-Specificity, which is the proportion of test results that 
+incorrectly identify healthy individuals as patients. The Y-axis represents 
+sensitivity, which is the proportion of actual positive samples that are 
+correctly predicted as positive. The curve shows the relationship between 
+sensitivity and specificity at different thresholds. The closer the curve is to 
+the upper left corner, the better the predictive performance of the model.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="S3.F6.g1" position="float" orientation="portrait" xlink:href="ActEsp-53-2-208-221-F6.jpg"/></fig></sec></sec><sec id="S4"><title>Discussion</title><p id="S4.p1">In this study, we used 16S rRNA sequencing technology to systematically and 
+comprehensively analyze the intestinal flora composition of AD patients and 
+controls at different stages. This study aimed to explore the significance of 
+this method for early diagnosis of AD. The findings demonstrated that EAD 
+patients exhibited significantly increased gut microbial abundance and diversity 
+compared to healthy controls. Furthermore, substantial differences were found in 
+the relative abundance of specific genera, suggesting possible biological markers 
+for AD. The 16S rRNA technique is simple, cost-effective, and effectively detects 
+changes in gut microbial diversity, especially the <italic toggle="yes">Verrucomicrobiales</italic> 
+order, underscoring its potential for clinical translational applications [<xref rid="b28" ref-type="bibr">28</xref>]. 
+This study also identified potential predictive factors for EAD, such as the 
+observed-otus index and changes in the actinobacteria phylum, which showed some 
+abilities to distinguish EAD. AD is believed to be caused by the accumulation of 
+extracellular <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w48" alttext="\beta{}" display="inline" overflow="scroll"><mml:mi>β</mml:mi></mml:math></inline-formula>-amyloid and intracellular tau. Several studies have shown 
+that treatment with <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w49" alttext="\beta{}" display="inline" overflow="scroll"><mml:mi>β</mml:mi></mml:math></inline-formula>-amyloid binding antibodies reduces brain amyloid 
+levels and decreases cognitive function [<xref rid="b29" ref-type="bibr">29</xref>, <xref rid="b30" ref-type="bibr">30</xref>]. Furthermore, AD is accompanied 
+by intestinal cholinergic dysfunction and gastrointestinal issues [<xref rid="b31" ref-type="bibr">31</xref>]. 
+Currently, AD diagnosis relies on neuropsychological assessment, but the 
+sensitivity and specificity are inadequate, and there is a lack of biological 
+markers for early diagnosis. It was observed that an isolated central AD-like 
+neuropathology results in disrupted homeostatic control of Gastrointestinal (GI) 
+tract outflow via the BG axis, potentially increasing susceptibility in the 
+Streptozotocin-Intracerebroventricular (STZ-ICV) rat model of AD to systemic 
+inflammation induced by gastrointestinal and intraluminal toxin, microbial, and 
+drug [<xref rid="b32" ref-type="bibr">32</xref>]. Elucidating the intestinal flora status of patients is helpful in 
+determining their cognitive function and the degree of intestinal dysfunction.</p><p id="S4.p2">Compared to previous studies, this study observed EAD, healthy control and LAD 
+based on 16s rRNA detection technology to determine the intestinal microbial 
+dysbiosis of AD patients. A study previously reported that surgical procedures 
+exacerbate existing microbial dysbiosis and intestinal barrier dysfunction in 
+patients with pro-Alzheimer’s disease phenotype, leading to further cognitive 
+deterioration [<xref rid="b33" ref-type="bibr">33</xref>]. Furthermore, a study using quantitative Polymerase Chain 
+Reaction (qPCR) of bacterial 16S rDNA genes has examined the composition of oral 
+bacterial flora, indicating a significant correlation between changes in oral 
+microbial flora, increases in inflammatory cytokines and AD [<xref rid="b34" ref-type="bibr">34</xref>]. Furthermore, it 
+has been shown that AD-related alterations are not confined to the brain but 
+extend throughout the gastrointestinal tract, including immune and neuronal 
+changes [<xref rid="b35" ref-type="bibr">35</xref>]. In recent years, researchers have made considerable progress in 
+delaying the onset of AD through interventions targeting gur microbiota dysbiosis 
+and have indicated SLAB51’s ability to exert neuroprotective and 
+anti-inflammatory effects in AD models, demonstrating a novel mechanism [<xref rid="b36" ref-type="bibr">36</xref>]. In 
+AD research, alterations in the gut microbiome and an increase in intestinal 
+inflammation may result from pathways other than SIBO and are more complex than 
+bacterial overgrowth in the small intestine [<xref rid="b37" ref-type="bibr">37</xref>]. Interestingly, no correlation 
+has been observed previously between SIBO and stool calcin levels in AD patients 
+[<xref rid="b38" ref-type="bibr">38</xref>]. Moreover, research has revealed that A<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w50" alttext="\beta{}" display="inline" overflow="scroll"><mml:mi>β</mml:mi></mml:math></inline-formula> or Tau fibrils injected 
+into the colon or brain lysates from AD patients can diffuse from the intestine 
+to the brain via the vagus nerve, triggering AD pathology and cognitive 
+dysfunction [<xref rid="b39" ref-type="bibr">39</xref>]. These studies provide strong evidence of disrupted gut 
+microbiota in patients with AD, highlighting the need for specific investigation 
+into EAD.</p><p id="S4.p3">The sample size and grouping criteria selected in this research were similar to 
+ours, and the identified predictive factors differed: they found significant 
+changes in the genera Acetivibrio and Bifidobacterium, along with a decrease in 
+gut diversity [<xref rid="b40" ref-type="bibr">40</xref>]. The study primarily focused on patients with Parkinson’s 
+disease. In investigations involving the elderly population, researchers have 
+demonstrated changes in the gut microbiome associated with aging, such as a 
+reduction in the proportion of <italic toggle="yes">Firmicutes</italic> and <italic toggle="yes">Bifidobacteria</italic> 
+counts [<xref rid="b41" ref-type="bibr">41</xref>]. Furthermore, animal study have revealed that aging mice with 
+cognitive impairments exhibit abnormal fecal microbiota, characterized by higher 
+microbial <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w51" alttext="\alpha{}" display="inline" overflow="scroll"><mml:mi>α</mml:mi></mml:math></inline-formula>-diversity, increased <italic toggle="yes">Firmicutes/Bacteroidetes</italic>ratios, and elevated levels of pathogenic bacteria [<xref rid="b42" ref-type="bibr">42</xref>]. Various gut microbes, 
+such as <italic toggle="yes">Actinomycetes</italic>, <italic toggle="yes">Bacteroides</italic>, <italic toggle="yes">Escherichia coli</italic>, <italic toggle="yes">Firmicutes</italic>, 
+<italic toggle="yes">Proteobacteria</italic>, <italic toggle="yes">Tenericutes</italic>, and <italic toggle="yes">Verrucomicrobia</italic>, play crucial roles in 
+the pathogenesis of AD [<xref rid="b43" ref-type="bibr">43</xref>]. Some researchers have indicated the prevalence of 
+Bacillus and acidophilic bacteria in AD cases [<xref rid="b44" ref-type="bibr">44</xref>]. However, comprehensive 
+conclusions regarding assessments across various stages of AD are yet to be 
+explored. Our results indicated a significant increase in the relative abundance 
+and <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w52" alttext="\alpha{}" display="inline" overflow="scroll"><mml:mi>α</mml:mi></mml:math></inline-formula>-diversity of genera such as <italic toggle="yes">Bryantella</italic> in both early and 
+late stages of AD. The differences observed are likely due to variations in 
+sample demographics and timing. Additionally, assessing microbial functional 
+aspects could further elucidate the physiological mechanisms underlying gut 
+microbiota dysregulation.</p><p id="S4.p4">For instance, a study has investigated the effects of 8 weeks of 
+moderate-intensity aerobic exercise, consumption of chlorogenic acid, and their 
+combination on A<inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="w53" alttext="\beta{}" display="inline" overflow="scroll"><mml:mi>β</mml:mi></mml:math></inline-formula> deposition, inflammatory markers, oxidative stress 
+biomarkers, neuronal damage, and cognitive abilities in AD mice model, revealing 
+that lifestyle changes can aid in improving quality of life in AD-related 
+conditions [<xref rid="b45" ref-type="bibr">45</xref>]. Furthermore, recent research using transcriptome sequencing has 
+confirmed that inhibiting the Extracellular Signal-Regulated 
+Kinase (ERK)/Freiberg-Berk-Jenson Osteosarcoma Oncogene (FOS) axis to alleviate 
+inflammation can reverse the pathological symptoms of AD [<xref rid="b46" ref-type="bibr">46</xref>]. From a 
+pathophysiological perspective, cognitive impairments and biomarkers in AD 
+patients vary across various stages [<xref rid="b47" ref-type="bibr">47</xref>]. Therefore, it is reasonable to believe 
+that utilizing 16S rRNA to examine gut microbiota in patients can improve the 
+current challenges in early recognition of EAD, underscoring the significance of 
+this research.</p><p id="S4.p5">Based on the above findings, this study identifies certain limitations that 
+offer opportunities for reference and improvement to future studies. Given the 
+highly heterogeneous nature of AD, larger sample sizes allow a more comprehensive 
+assessment of differences among subpopulations. Additionally, the analysis of 16S 
+rRNA in this study was limited to structural levels, implying that future studies 
+could integrate genomic and transcriptomic data to unravel microbial differences 
+at functional and mechanistic levels. Simultaneously, there is a need to improve 
+the clinical database to explore the correlation between microbial markers and 
+disease progression and disintegration. Future research could also involve animal 
+experiments to validate the role of specific bacterial species on AD through 
+comparative group studies. Overall, this study establishes a foundation for 
+diagnosing EAD based on intestinal microbiota. However, the sample size and 
+follow-up time should be increased. It is believed that comprehensive research 
+will expand our biological understanding and improve AD diagnosis. These 
+limitations could restrict the universality and statistical robustness of the 
+findings. Moreover, the on-random sample selection complicates the ability to 
+fully represent the entire population, thus affecting the extrapolation of 
+results. The relatively short sample collection period hinders the evaluation of 
+long-term dysbacteriosis in the intestinal flora. In the future, using high 
+throughput approaches and larger sample sizes, it is anticipated that a more 
+comprehensive and systematic understanding will be obtained. This study is 
+expected to substantially promote the practice of early diagnosis and precise 
+treatment of AD.</p></sec><sec id="S5"><title>Conclusion</title><p id="S5.p1">By systematically analyzing and comparing the fecal microbial compositions of 
+early and late-stage AD patients with healthy controls, this research reveals 
+that 16S rRNA technology can effectively differentiate EAD patients, potentially 
+offering novel biological insights. Furthermore, this study successfully 
+identifies predictive factors within the gut microbiota, such as the 
+observed-otus index and changes in <italic toggle="yes">Actinobacteria</italic> and 
+<italic toggle="yes">Verrucomicrobiales</italic>, suggesting their potential application in diagnosing 
+EAD. These findings provide a reference for subsequent large-scale studies, 
+fostering precise diagnosis of EAD and contributing to the development of novel 
+therapeutic strategies targeting the microbiota, thus supporting early 
+identification and drug development for EAD.</p></sec><sec sec-type="data-availability" id="S6"><title>Availability of Data and Materials</title><p id="S6.p1">The data used and/or analyzed during the current study are available from the 
+corresponding author.</p></sec></body><back><ack id="S9"><title>Acknowledgment</title><p id="S9.p1">Not applicable.</p></ack><sec id="S7"><title>Author Contributions</title><p id="S7.p1">DL, XL and XZ designed the research study. DL and XL performed the research. XZ analyzed the data. QS drafted the manuscript and provided important insights for data interpretation and the development of research conclusions. All authors contributed to important editorial changes in the manuscript. All authors read and approved the final manuscript. All authors have participated sufficiently in the work and agreed to be accountable for all aspects of the work.</p></sec><sec id="S8"><title>Ethics Approval and Consent to Participate</title><p id="S8.p1">This study was approved by the ethics committee of Shaoxing Seventh People’s 
+Hospital (ethical approval number: 2022-013). Informed consent forms were signed by all participants and their families.</p></sec><sec id="S10"><title>Funding</title><p id="S10.p1">The research is supported by Zhejiang province medical health science and 
+technology plan “Study on early diagnosis of AD by intestinal flora detection 
+based on 16S rRNA” (2023KY1271).</p></sec><sec sec-type="COI-statement" id="S11"><title>Conflict of Interest</title><p id="S11.p1">The authors declare no conflicts of interest.</p></sec><ref-list><title>References</title><ref id="b1"><label>[1]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Scopa</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Barnada</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Cicardi</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Singer</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Trotti</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Trizzino</surname><given-names>M</given-names></name>
+</person-group><article-title>JUN upregulation drives aberrant transposable element mobilization, associated innate immune response, and impaired neurogenesis in Alzheimer’s disease</article-title><source>
+<italic toggle="yes">Nature Communications</italic>
+</source><year>2023</year><volume>14</volume><fpage>8021</fpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-023-43728-8</pub-id><pub-id pub-id-type="pmcid">PMC10696058</pub-id><pub-id pub-id-type="pmid">38049398</pub-id></element-citation></ref><ref id="b2"><label>[2]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Pérez-Martínez</surname><given-names>DA</given-names></name>
+</person-group><article-title>Lecanemab en la enfermedad de Alzheimer: ¿realmente estamos ante un cambio en el pronóstico de la enfermedad? [Lecanemab in Alzheimer’s disease: are we really before a shift in the prognosis of the disease?]</article-title><source>
+<italic toggle="yes">Rev Neurol</italic>
+</source><year>2023</year><volume>76</volume><fpage>185</fpage><lpage>188</lpage><comment>(In Spanish)</comment><pub-id pub-id-type="pmid">36908031</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.33588/rn.7606.2023055</pub-id><pub-id pub-id-type="pmcid">PMC10364063</pub-id></element-citation></ref><ref id="b3"><label>[3]</label><element-citation publication-type="webpage"><person-group person-group-type="author">
+<collab>Alzheimer’s Disease International</collab>
+</person-group><article-title>World Alzheimer Report 2022 Life after diagnosis: Navigating treatment, care and support</article-title><year>2022</year><comment>Available at:
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.alzint.org/u/World-Alzheimer-Report-2022.pdf" ext-link-type="uri">https://www.alzint.org/u/World-Alzheimer-Report-2022.pdf</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2023-09-26">(Accessed: 26 September 2023)</date-in-citation></element-citation></ref><ref id="b4"><label>[4]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ren</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Yin</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>ZH</given-names></name>
+<name name-style="western"><surname>Qi</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Tang</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>JT</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>China Alzheimer’s Disease Report 2021</article-title><source>
+<italic toggle="yes">Journal of Diagnostics Concepts &amp; Practice</italic>
+</source><year>2021</year><volume>20</volume><fpage>317</fpage><lpage>337</lpage><comment>(In Chinese)</comment></element-citation></ref><ref id="b5"><label>[5]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Che</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Dong</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Lv</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Xie</surname><given-names>W</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Orally administered selenium-containing α-D-1,6-glucan and α-D-1,6-glucan relief early cognitive deficit in APP/PS1 mice</article-title><source>
+<italic toggle="yes">International Journal of Biological Macromolecules</italic>
+</source><year>2024</year><volume>257</volume><fpage>128539</fpage><pub-id pub-id-type="pmid">38048923</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijbiomac.2023.128539</pub-id></element-citation></ref><ref id="b6"><label>[6]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gianina</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Lorena</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Dilaxy</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Patrick</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Florian</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Thomas</surname><given-names>M</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>The German version of the tablet-based UCSF Brain Health Assessment is sensitive to early symptoms of neurodegenerative disorders</article-title><source>
+<italic toggle="yes">Brain and Behavior</italic>
+</source><year>2023</year><volume>13</volume><fpage>e3329</fpage><pub-id pub-id-type="pmid">38041514</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/brb3.3329</pub-id><pub-id pub-id-type="pmcid">PMC10726871</pub-id></element-citation></ref><ref id="b7"><label>[7]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bu</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Xuan</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>J</given-names></name>
+</person-group><article-title>Serum Protein-Based Profiles for the Diagnostic Model of Alzheimer’s Disease</article-title><source>
+<italic toggle="yes">American Journal of Alzheimer’s Disease and other Dementias</italic>
+</source><year>2023</year><volume>38</volume><fpage>15333175231220166</fpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/15333175231220166</pub-id><pub-id pub-id-type="pmcid">PMC10693785</pub-id><pub-id pub-id-type="pmid">38041525</pub-id></element-citation></ref><ref id="b8"><label>[8]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bano</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Ehninger</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Bagetta</surname><given-names>G</given-names></name>
+</person-group><article-title>Decoding metabolic signatures in Alzheimer’s disease: a mitochondrial perspective</article-title><source>
+<italic toggle="yes">Cell Death Discovery</italic>
+</source><year>2023</year><volume>9</volume><fpage>432</fpage><pub-id pub-id-type="pmid">38040687</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41420-023-01732-3</pub-id><pub-id pub-id-type="pmcid">PMC10692234</pub-id></element-citation></ref><ref id="b9"><label>[9]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gu</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Lv</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Shi</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Fan</surname><given-names>Z</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>A Stable and Scalable Digital Composite Neurocognitive Test for Early Dementia Screening Based on Machine Learning: Model Development and Validation Study</article-title><source>
+<italic toggle="yes">Journal of Medical Internet Research</italic>
+</source><year>2023</year><volume>25</volume><fpage>e49147</fpage><pub-id pub-id-type="pmid">38039074</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2196/49147</pub-id><pub-id pub-id-type="pmcid">PMC10724812</pub-id></element-citation></ref><ref id="b10"><label>[10]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>He</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Luo</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Intestinal changes in permeability, tight junction and mucin synthesis in a mouse model of Alzheimer’s disease</article-title><source>
+<italic toggle="yes">International Journal of Molecular Medicine</italic>
+</source><year>2023</year><volume>52</volume><fpage>1</fpage><lpage>13</lpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.3892/ijmm.2023.5316</pub-id><pub-id pub-id-type="pmcid">PMC10599350</pub-id><pub-id pub-id-type="pmid">37830152</pub-id></element-citation></ref><ref id="b11"><label>[11]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ayan</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>DeMirci</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Serdar</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Palermo</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Baykal</surname><given-names>AT</given-names></name>
+</person-group><article-title>Bridging the Gap between Gut Microbiota and Alzheimer’s Disease: A Metaproteomic Approach for Biomarker Discovery in Transgenic Mice</article-title><source>
+<italic toggle="yes">International Journal of Molecular Sciences</italic>
+</source><year>2023</year><volume>24</volume><fpage>12819</fpage><pub-id pub-id-type="pmid">37629000</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms241612819</pub-id><pub-id pub-id-type="pmcid">PMC10454110</pub-id></element-citation></ref><ref id="b12"><label>[12]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bicknell</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Liebert</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Borody</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Herkes</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>McLachlan</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Kiat</surname><given-names>H</given-names></name>
+</person-group><article-title>Neurodegenerative and Neurodevelopmental Diseases and the Gut-Brain Axis: The Potential of Therapeutic Targeting of the Microbiome</article-title><source>
+<italic toggle="yes">International Journal of Molecular Sciences</italic>
+</source><year>2023</year><volume>24</volume><fpage>9577</fpage><pub-id pub-id-type="pmid">37298527</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms24119577</pub-id><pub-id pub-id-type="pmcid">PMC10253993</pub-id></element-citation></ref><ref id="b13"><label>[13]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Si</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Ren</surname><given-names>W</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Huanglian Jiedu decoction remodels the periphery microenvironment to inhibit Alzheimer’s disease progression based on the “brain-gut” axis through multiple integrated omics</article-title><source>
+<italic toggle="yes">Alzheimer’s Research &amp; Therapy</italic>
+</source><year>2021</year><volume>13</volume><fpage>44</fpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-021-00779-7</pub-id><pub-id pub-id-type="pmcid">PMC7881564</pub-id><pub-id pub-id-type="pmid">33579351</pub-id></element-citation></ref><ref id="b14"><label>[14]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Peesh</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Quaicoe</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Tan</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Banerjee</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mooz</surname><given-names>P</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Estradiol mediates colonic epithelial protection in aged mice after stroke and is associated with shifts in the gut microbiome</article-title><source>
+<italic toggle="yes">Gut Microbes</italic>
+</source><year>2023</year><volume>15</volume><fpage>2271629</fpage><pub-id pub-id-type="pmid">37910478</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/19490976.2023.2271629</pub-id><pub-id pub-id-type="pmcid">PMC10730206</pub-id></element-citation></ref><ref id="b15"><label>[15]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Xi</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ding</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Su</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>W</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Disturbed microbial ecology in Alzheimer’s disease: evidence from the gut microbiota and fecal metabolome</article-title><source>
+<italic toggle="yes">BMC Microbiology</italic>
+</source><year>2021</year><volume>21</volume><fpage>226</fpage><pub-id pub-id-type="pmid">34384375</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12866-021-02286-z</pub-id><pub-id pub-id-type="pmcid">PMC8361629</pub-id></element-citation></ref><ref id="b16"><label>[16]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jayaraman</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Babu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Saw</surname><given-names>TA</given-names></name>
+<name name-style="western"><surname>Jayaraman</surname><given-names>AK</given-names></name>
+</person-group><article-title>Profiling the Gut Microbiome Unraveled Signature Bacterial Groups in Autoimmune Diabetes, which Remain Unperturbed by the Low Ionic Strength of the Drinking Water in NOD mice</article-title><source>
+<italic toggle="yes">Discovery Medicine</italic>
+</source><year>2024</year><volume>36</volume><fpage>424</fpage><lpage>436</lpage><pub-id pub-id-type="pmid">38409847</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.24976/Discov.Med.202436181.40</pub-id></element-citation></ref><ref id="b17"><label>[17]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Ouyang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zhong</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Pueraria thomsonii Radix Water Extract Alleviate Type 2 Diabetes Mellitus in db/db Mice through Comprehensive Regulation of Metabolism and Gut Microbiota</article-title><source>
+<italic toggle="yes">Molecules (Basel, Switzerland)</italic>
+</source><year>2023</year><volume>28</volume><fpage>7471</fpage><pub-id pub-id-type="pmid">38005193</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/molecules28227471</pub-id><pub-id pub-id-type="pmcid">PMC10673130</pub-id></element-citation></ref><ref id="b18"><label>[18]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Amidu</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Boamah</surname><given-names>VE</given-names></name>
+<name name-style="western"><surname>Ekuadzi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Mante</surname><given-names>PK</given-names></name>
+</person-group><article-title>Gut-Brain-axis: effect of basil oil on the gut microbiota and its contribution to the anticonvulsant properties</article-title><source>
+<italic toggle="yes">BMC Complementary Medicine and Therapies</italic>
+</source><year>2023</year><volume>23</volume><fpage>393</fpage><pub-id pub-id-type="pmid">37924049</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12906-023-04211-5</pub-id><pub-id pub-id-type="pmcid">PMC10623859</pub-id></element-citation></ref><ref id="b19"><label>[19]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Qi</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Leng</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Walnut-Derived Peptide Improves Cognitive Impairment in Colitis Mice Induced by Dextran Sodium Sulfate via the Microbiota-Gut-Brain Axis (MGBA)</article-title><source>
+<italic toggle="yes">Journal of Agricultural and Food Chemistry</italic>
+</source><year>2023</year><volume>71</volume><fpage>19501</fpage><lpage>19515</lpage><pub-id pub-id-type="pmid">38039336</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.jafc.3c04807</pub-id></element-citation></ref><ref id="b20"><label>[20]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Yao</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Nie</surname><given-names>Y</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Characterizing bacterial and fungal communities along the longitudinal axis of the intestine in cynomolgus monkeys</article-title><source>
+<italic toggle="yes">Microbiology Spectrum</italic>
+</source><year>2023</year><volume>11</volume><fpage>e0199623</fpage><pub-id pub-id-type="pmid">37938001</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/spectrum.01996-23</pub-id><pub-id pub-id-type="pmcid">PMC10714780</pub-id></element-citation></ref><ref id="b21"><label>[21]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Qian</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Hai</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Tang</surname><given-names>H</given-names></name>
+</person-group><article-title>Multi-omics data reveals aberrant gut microbiota-host glycerophospholipid metabolism in association with neuroinflammation in APP/PS1 mice</article-title><source>
+<italic toggle="yes">Gut Microbes</italic>
+</source><year>2023</year><volume>15</volume><fpage>2282790</fpage><pub-id pub-id-type="pmid">37992400</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/19490976.2023.2282790</pub-id><pub-id pub-id-type="pmcid">PMC10730179</pub-id></element-citation></ref><ref id="b22"><label>[22]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Farkas</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Retamal-Fredes</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Ávila</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Fehlings</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Vidal</surname><given-names>PM</given-names></name>
+</person-group><article-title>Degenerative Cervical Myelopathy induces sex-specific dysbiosis in mice</article-title><source>
+<italic toggle="yes">Frontiers in Microbiology</italic>
+</source><year>2023</year><volume>14</volume><fpage>1229783</fpage><pub-id pub-id-type="pmid">37928672</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmicb.2023.1229783</pub-id><pub-id pub-id-type="pmcid">PMC10623434</pub-id></element-citation></ref><ref id="b23"><label>[23]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>García-Sánchez</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Estévez-González</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Boltes</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Otermín</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>López-Góngora</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gironell A et</surname><given-names>al</given-names></name>
+</person-group><article-title>Cognitive and functional decline in the stage previous to the diagnosis of Alzheimers disease</article-title><source>
+<italic toggle="yes">Neurologia</italic>
+</source><year>2003</year><volume>18</volume><fpage>716</fpage><lpage>722</lpage><comment>(In Spanish)</comment><pub-id pub-id-type="pmid">14648347</pub-id></element-citation></ref><ref id="b24"><label>[24]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Fadeev</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Cardozo-Mino</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Rapp</surname><given-names>JZ</given-names></name>
+<name name-style="western"><surname>Bienhold</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Salter</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Salman-Carvalho</surname><given-names>V</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Comparison of Two 16S rRNA Primers (V3-V4 and V4-V5) for Studies of Arctic Microbial Communities</article-title><source>
+<italic toggle="yes">Frontiers in Microbiology</italic>
+</source><year>2021</year><volume>12</volume><fpage>637526</fpage><pub-id pub-id-type="pmid">33664723</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fmicb.2021.637526</pub-id><pub-id pub-id-type="pmcid">PMC7920977</pub-id></element-citation></ref><ref id="b25"><label>[25]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Segata</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Izard</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Waldron</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Gevers</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Miropolsky</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Garrett</surname><given-names>WS</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Metagenomic biomarker discovery and explanation</article-title><source>
+<italic toggle="yes">Genome Biology</italic>
+</source><year>2011</year><volume>12</volume><fpage>R60</fpage><pub-id pub-id-type="pmid">21702898</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/gb-2011-12-6-r60</pub-id><pub-id pub-id-type="pmcid">PMC3218848</pub-id></element-citation></ref><ref id="b26"><label>[26]</label><element-citation publication-type="webpage"><person-group person-group-type="author">
+<name name-style="western"><surname>Warnes</surname><given-names>GR</given-names></name>
+<name name-style="western"><surname>Bolker</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Lumley</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Johnson</surname><given-names>RC</given-names></name>
+</person-group><article-title>gmodels: Various R Programming Tools for Model Fitting</article-title><year>2022</year><comment>Available at:
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/r-gregmisc/gmodels" ext-link-type="uri">https://github.com/r-gregmisc/gmodels</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2023-09-26">(Accessed: 26 September 2023)</date-in-citation></element-citation></ref><ref id="b27"><label>[27]</label><element-citation publication-type="webpage"><person-group person-group-type="author">
+<name name-style="western"><surname>Kassambara</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kassambara</surname><given-names>MA</given-names></name>
+</person-group><article-title>Package ‘ggpubr’. R package version 0.1 6</article-title><year>2020</year><comment>Available at:
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/cran/ggpubr" ext-link-type="uri">https://github.com/cran/ggpubr</ext-link>
+</comment><date-in-citation content-type="access-date" iso-8601-date="2023-09-26">(Accessed: 26 September 2023)</date-in-citation></element-citation></ref><ref id="b28"><label>[28]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Lai</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ding</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>Y</given-names></name>
+</person-group><article-title>The Role of Gut Microbiota in Various Neurological and Psychiatric Disorders-An Evidence Mapping Based on Quantified Evidence</article-title><source>
+<italic toggle="yes">Mediators of Inflammation</italic>
+</source><year>2023</year><volume>2023</volume><fpage>5127157</fpage><pub-id pub-id-type="pmid">36816743</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2023/5127157</pub-id><pub-id pub-id-type="pmcid">PMC9936509</pub-id></element-citation></ref><ref id="b29"><label>[29]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zalewska</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Klimiuk</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Zięba</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Wnorowska</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Rusak</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Waszkiewicz</surname><given-names>N</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Salivary gland dysfunction and salivary redox imbalance in patients with Alzheimer’s disease</article-title><source>
+<italic toggle="yes">Scientific Reports</italic>
+</source><year>2021</year><volume>11</volume><fpage>23904</fpage><pub-id pub-id-type="pmid">34903846</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-021-03456-9</pub-id><pub-id pub-id-type="pmcid">PMC8668975</pub-id></element-citation></ref><ref id="b30"><label>[30]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Weber</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Dilthey</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Finzer</surname><given-names>P</given-names></name>
+</person-group><article-title>The role of microbiome-host interactions in the development of Alzheimer´s disease</article-title><source>
+<italic toggle="yes">Frontiers in Cellular and Infection Microbiology</italic>
+</source><year>2023</year><volume>13</volume><fpage>1151021</fpage><pub-id pub-id-type="pmid">37333848</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fcimb.2023.1151021</pub-id><pub-id pub-id-type="pmcid">PMC10272569</pub-id></element-citation></ref><ref id="b31"><label>[31]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Henderson</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Strait</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fernandes</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Galligan</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Swain</surname><given-names>GM</given-names></name>
+</person-group><article-title>Ex Vivo Electrochemical Monitoring of Cholinergic Signaling in the Mouse Colon Using an Enzyme-Based Biosensor</article-title><source>
+<italic toggle="yes">ACS Chemical Neuroscience</italic>
+</source><year>2023</year><volume>14</volume><fpage>3460</fpage><lpage>3471</lpage><pub-id pub-id-type="pmid">37681686</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acschemneuro.3c00337</pub-id><pub-id pub-id-type="pmcid">PMC12519805</pub-id></element-citation></ref><ref id="b32"><label>[32]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Homolak</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>De Busscher</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zambrano-Lucio</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Joja</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Virag</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Babic Perhoc</surname><given-names>A</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Altered Secretion, Constitution, and Functional Properties of the Gastrointestinal Mucus in a Rat Model of Sporadic Alzheimer’s Disease</article-title><source>
+<italic toggle="yes">ACS Chemical Neuroscience</italic>
+</source><year>2023</year><volume>14</volume><fpage>2667</fpage><lpage>2682</lpage><pub-id pub-id-type="pmid">37477640</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acschemneuro.3c00223</pub-id><pub-id pub-id-type="pmcid">PMC10401635</pub-id></element-citation></ref><ref id="b33"><label>[33]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Liu</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Duan</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fu</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Lan</surname><given-names>F</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Orthopedic Surgery Causes Gut Microbiome Dysbiosis and Intestinal Barrier Dysfunction in Prodromal Alzheimer Disease Patients: A Prospective Observational Cohort Study</article-title><source>
+<italic toggle="yes">Annals of Surgery</italic>
+</source><year>2022</year><volume>276</volume><fpage>270</fpage><lpage>280</lpage><pub-id pub-id-type="pmid">35766370</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SLA.0000000000005489</pub-id><pub-id pub-id-type="pmcid">PMC9259038</pub-id></element-citation></ref><ref id="b34"><label>[34]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Taati Moghadam</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Amirmozafari</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Mojtahedi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bakhshayesh</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Shariati</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Masjedian Jazi</surname><given-names>F</given-names></name>
+</person-group><article-title>Association of perturbation of oral bacterial with incident of Alzheimer’s disease: A pilot study</article-title><source>
+<italic toggle="yes">Journal of Clinical Laboratory Analysis</italic>
+</source><year>2022</year><volume>36</volume><fpage>e24483</fpage><pub-id pub-id-type="pmid">35689551</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcla.24483</pub-id><pub-id pub-id-type="pmcid">PMC9279996</pub-id></element-citation></ref><ref id="b35"><label>[35]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sohrabi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sahu</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Kaur</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Hasler</surname><given-names>WA</given-names></name>
+<name name-style="western"><surname>Prakash</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Combs</surname><given-names>CK</given-names></name>
+</person-group><article-title>Gastrointestinal Changes and Alzheimer’s Disease</article-title><source>
+<italic toggle="yes">Current Alzheimer Research</italic>
+</source><year>2022</year><volume>19</volume><fpage>335</fpage><lpage>350</lpage><pub-id pub-id-type="pmid">35718965</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1567205019666220617121255</pub-id><pub-id pub-id-type="pmcid">PMC10497313</pub-id></element-citation></ref><ref id="b36"><label>[36]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bonfili</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Gong</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lombardi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Cifone</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Eleuteri</surname><given-names>AM</given-names></name>
+</person-group><article-title>Strategic Modification of Gut Microbiota through Oral Bacteriotherapy Influences Hypoxia Inducible Factor-1α: Therapeutic Implication in Alzheimer’s Disease</article-title><source>
+<italic toggle="yes">International Journal of Molecular Sciences</italic>
+</source><year>2021</year><volume>23</volume><fpage>357</fpage><pub-id pub-id-type="pmid">35008786</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms23010357</pub-id><pub-id pub-id-type="pmcid">PMC8745493</pub-id></element-citation></ref><ref id="b37"><label>[37]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sim</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>YT</given-names></name>
+<name name-style="western"><surname>Mamun</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Tay</surname><given-names>SY</given-names></name>
+<name name-style="western"><surname>Doshi</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Hameed</surname><given-names>S</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Assessment of small intestinal bacterial overgrowth in Alzheimer’s disease</article-title><source>
+<italic toggle="yes">Acta Neurologica Taiwanica</italic>
+</source><year>2021</year><volume>30</volume><fpage>102</fpage><lpage>107</lpage><pub-id pub-id-type="pmid">34841505</pub-id></element-citation></ref><ref id="b38"><label>[38]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kowalski</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Mulak</surname><given-names>A</given-names></name>
+</person-group><article-title>Small intestinal bacterial overgrowth in Alzheimer’s disease</article-title><source>
+<italic toggle="yes">Journal of Neural Transmission (Vienna, Austria: 1996)</italic>
+</source><year>2022</year><volume>129</volume><fpage>75</fpage><lpage>83</lpage><pub-id pub-id-type="pmid">34797427</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00702-021-02440-x</pub-id><pub-id pub-id-type="pmcid">PMC8738624</pub-id></element-citation></ref><ref id="b39"><label>[39]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Alam</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kang</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Ahn</surname><given-names>EH</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Gut inflammation triggers C/EBPβ/δ-secretase-dependent gut-to-brain propagation of Aβ and Tau fibrils in Alzheimer’s disease</article-title><source>
+<italic toggle="yes">The EMBO Journal</italic>
+</source><year>2021</year><volume>40</volume><fpage>e106320</fpage><pub-id pub-id-type="pmid">34260075</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.15252/embj.2020106320</pub-id><pub-id pub-id-type="pmcid">PMC8408610</pub-id></element-citation></ref><ref id="b40"><label>[40]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Gerhardt</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Mohajeri</surname><given-names>MH</given-names></name>
+</person-group><article-title>Changes of Colonic Bacterial Composition in Parkinson’s Disease and Other Neurodegenerative Diseases</article-title><source>
+<italic toggle="yes">Nutrients</italic>
+</source><year>2018</year><volume>10</volume><fpage>708</fpage><pub-id pub-id-type="pmid">29857583</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/nu10060708</pub-id><pub-id pub-id-type="pmcid">PMC6024871</pub-id></element-citation></ref><ref id="b41"><label>[41]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Pérez Martínez</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Bäuerl</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Collado</surname><given-names>MC</given-names></name>
+</person-group><article-title>Understanding gut microbiota in elderly’s health will enable intervention through probiotics</article-title><source>
+<italic toggle="yes">Beneficial Microbes</italic>
+</source><year>2014</year><volume>5</volume><fpage>235</fpage><lpage>246</lpage><pub-id pub-id-type="pmid">24889891</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3920/BM2013.0079</pub-id></element-citation></ref><ref id="b42"><label>[42]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zheng</surname><given-names>AN</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Dai</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>JJ</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Olfactory Three-Needle Electroacupuncture Improved Synaptic Plasticity and Gut Microbiota of SAMP8 Mice by Stimulating Olfactory Nerve</article-title><source>
+<italic toggle="yes">Chinese Journal of Integrative Medicine</italic>
+</source><year>2023</year><comment>(online ahead of print)</comment><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11655-023-3614-3</pub-id><pub-id pub-id-type="pmid">37999886</pub-id></element-citation></ref><ref id="b43"><label>[43]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Nagu</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Parashar</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Behl</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Mehta</surname><given-names>V</given-names></name>
+</person-group><article-title>Gut Microbiota Composition and Epigenetic Molecular Changes Connected to the Pathogenesis of Alzheimer’s Disease</article-title><source>
+<italic toggle="yes">Journal of Molecular Neuroscience: MN</italic>
+</source><year>2021</year><volume>71</volume><fpage>1436</fpage><lpage>1455</lpage><pub-id pub-id-type="pmid">33829390</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12031-021-01829-3</pub-id></element-citation></ref><ref id="b44"><label>[44]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Heravi</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Naseri</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>H</given-names></name>
+</person-group><article-title>Gut Microbiota Composition in Patients with Neurodegenerative Disorders (Parkinson’s and Alzheimer’s) and Healthy Controls: A Systematic Review</article-title><source>
+<italic toggle="yes">Nutrients</italic>
+</source><year>2023</year><volume>15</volume><fpage>4365</fpage><pub-id pub-id-type="pmid">37892440</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/nu15204365</pub-id><pub-id pub-id-type="pmcid">PMC10609969</pub-id></element-citation></ref><ref id="b45"><label>[45]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Shi</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Hao</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Qi</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Shi</surname><given-names>X</given-names></name>
+</person-group><article-title>Aerobic exercise combined with chlorogenic acid exerts neuroprotective effects and reverses cognitive decline in Alzheimer’s disease model mice (APP/PS1) via the SIRT1/ /PGC-1α/PPARγ signaling pathway</article-title><source>
+<italic toggle="yes">Frontiers in Aging Neuroscience</italic>
+</source><year>2023</year><volume>15</volume><fpage>1269952</fpage><pub-id pub-id-type="pmid">38046466</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2023.1269952</pub-id><pub-id pub-id-type="pmcid">PMC10693339</pub-id></element-citation></ref><ref id="b46"><label>[46]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Cui</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Dong</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Xia</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>X</given-names></name>
+<etal>et al</etal>
+</person-group><article-title>Attenuated memory impairment and neuroinflammation in Alzheimer’s disease by aucubin via the inhibition of ERK-FOS axis</article-title><source>
+<italic toggle="yes">International Immunopharmacology</italic>
+</source><year>2024</year><volume>126</volume><fpage>111312</fpage><pub-id pub-id-type="pmid">38043266</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.intimp.2023.111312</pub-id></element-citation></ref><ref id="b47"><label>[47]</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bhattarai</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Taha</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Soni</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Thakuri</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Ritter</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Chand</surname><given-names>GB</given-names></name>
+</person-group><article-title>Predicting cognitive dysfunction and regional hubs using Braak staging amyloid-beta biomarkers and machine learning</article-title><source>
+<italic toggle="yes">Brain Informatics</italic>
+</source><year>2023</year><volume>10</volume><fpage>33</fpage><pub-id pub-id-type="pmid">38043122</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40708-023-00213-8</pub-id><pub-id pub-id-type="pmcid">PMC10694120</pub-id></element-citation></ref></ref-list></back></article></pmc-articleset>

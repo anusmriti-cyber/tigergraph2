@@ -1,0 +1,855 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz14238" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11567870</article-id><article-id pub-id-type="pmcid-ver">PMC11567870.1</article-id><article-id pub-id-type="pmcaid">11567870</article-id><article-id pub-id-type="pmcaiid">11567870</article-id><article-id pub-id-type="pmid">39319998</article-id><article-id pub-id-type="doi">10.1002/alz.14238</article-id><article-id pub-id-type="publisher-id">ALZ14238</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>MEDI1814 selectively reduces free Aβ42 in cerebrospinal fluid of non‐clinical species and Alzheimer's disease patients</article-title><alt-title alt-title-type="left-running-head">LLOYD <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz14238-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lloyd</surname><given-names initials="C">Christopher</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>christopher.lloyd@astrazeneca.com</email></address></contrib><contrib id="alz14238-cr-0002" contrib-type="author"><name name-style="western"><surname>Freskgård</surname><given-names initials="PO">Per‐Ola</given-names></name><xref rid="alz14238-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz14238-cr-0003" contrib-type="author"><name name-style="western"><surname>Newton</surname><given-names initials="P">Philip</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14238-cr-0004" contrib-type="author"><name name-style="western"><surname>Lowne</surname><given-names initials="D">David</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz14238-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="alz14238-cr-0005" contrib-type="author"><name name-style="western"><surname>Nickson</surname><given-names initials="A">Adrian</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz14238-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="alz14238-cr-0006" contrib-type="author"><name name-style="western"><surname>Bogstedt</surname><given-names initials="A">Anna</given-names></name><xref rid="alz14238-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz14238-cr-0007" contrib-type="author"><name name-style="western"><surname>Eketjäll</surname><given-names initials="S">Susanna</given-names></name><xref rid="alz14238-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz14238-cr-0008" contrib-type="author"><name name-style="western"><surname>Höglund</surname><given-names initials="K">Kina</given-names></name><xref rid="alz14238-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz14238-cr-0009" contrib-type="author"><name name-style="western"><surname>Gustavsson</surname><given-names initials="S">Susanne</given-names></name><xref rid="alz14238-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz14238-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="alz14238-cr-0010" contrib-type="author"><name name-style="western"><surname>Welsh</surname><given-names initials="F">Fraser</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14238-cr-0011" contrib-type="author"><name name-style="western"><surname>Chessell</surname><given-names initials="T">Tharani</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14238-cr-0012" contrib-type="author"><name name-style="western"><surname>McFarlane</surname><given-names initials="M">Mary</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14238-cr-0013" contrib-type="author"><name name-style="western"><surname>Bhat</surname><given-names initials="RV">Ratan V.</given-names></name><xref rid="alz14238-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz14238-cr-0014" contrib-type="author"><name name-style="western"><surname>Turner</surname><given-names initials="R">Richard</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14238-cr-0015" contrib-type="author"><name name-style="western"><surname>Perkinton</surname><given-names initials="MS">Michael S.</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14238-cr-0016" contrib-type="author"><name name-style="western"><surname>Santisteban Valencia</surname><given-names initials="Z">Zulma</given-names></name><xref rid="alz14238-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz14238-cr-0017" contrib-type="author"><name name-style="western"><surname>Lindqvist</surname><given-names initials="E">Eva</given-names></name><xref rid="alz14238-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz14238-cr-0018" contrib-type="author"><name name-style="western"><surname>Pomfret</surname><given-names initials="M">Michael</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14238-cr-0019" contrib-type="author"><name name-style="western"><surname>Dudley</surname><given-names initials="AD">Amanda D.</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz14238-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="alz14238-cr-0020" contrib-type="author"><name name-style="western"><surname>Vaughan</surname><given-names initials="TJ">Tristan J.</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz14238-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="alz14238-cr-0021" contrib-type="author"><name name-style="western"><surname>Groves</surname><given-names initials="MT">Maria T.</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14238-cr-0022" contrib-type="author"><name name-style="western"><surname>Natanegara</surname><given-names initials="F">Fanni</given-names></name><xref rid="alz14238-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz14238-cr-0023" contrib-type="author"><name name-style="western"><surname>Feng</surname><given-names initials="Y">Yingdong</given-names></name><xref rid="alz14238-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz14238-cr-0024" contrib-type="author"><name name-style="western"><surname>Sims</surname><given-names initials="JR">John R.</given-names></name><xref rid="alz14238-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz14238-cr-0025" contrib-type="author"><name name-style="western"><surname>Proctor</surname><given-names initials="NK">Nicholas Kyle</given-names></name><xref rid="alz14238-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz14238-cr-0026" contrib-type="author"><name name-style="western"><surname>Dage</surname><given-names initials="JL">Jeffrey L.</given-names></name><xref rid="alz14238-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="alz14238-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="alz14238-cr-0027" contrib-type="author"><name name-style="western"><surname>Shering</surname><given-names initials="C">Craig</given-names></name><xref rid="alz14238-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="alz14238-cr-0028" contrib-type="author"><name name-style="western"><surname>Tan</surname><given-names initials="K">Keith</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14238-cr-0029" contrib-type="author"><name name-style="western"><surname>Ostenfeld</surname><given-names initials="T">Thor</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz14238-aff-0013" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="alz14238-cr-0030" contrib-type="author"><name name-style="western"><surname>Billinton</surname><given-names initials="A">Andy</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz14238-aff-0014" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="alz14238-cr-0031" contrib-type="author"><name name-style="western"><surname>Chessell</surname><given-names initials="IP">Iain P.</given-names></name><xref rid="alz14238-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="alz14238-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>BioPharmaceuticals R&amp;D</institution>
+<institution>AstraZeneca</institution>
+<city>Cambridge</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14238-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>BioArctic AB</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz14238-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>BioPharmaceuticals R&amp;D</institution>
+<institution>AstraZeneca</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz14238-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Center for Medical Genomics</named-content>
+<named-content content-type="organisation-division">Department of Clinical Genetics and Genomics</named-content>
+<institution>Sahlgrenska University Hospital</institution>
+<city>Göteborg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz14238-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Lilly Corporate Center</named-content>
+<institution>Eli Lilly and Company</institution>
+<city>Indianapolis</city>
+<named-content content-type="country-part">Indiana</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14238-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Indiana University School of Medicine</institution>
+<city>Indianapolis</city>
+<named-content content-type="country-part">Indiana</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14238-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<institution>BioPharmaceuticals R&amp;D</institution>
+<institution>AstraZeneca</institution>
+<city>Cambridge</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14238-aff-0008"><label>
+<sup>8</sup>
+</label>Present address:
+<institution>Immunocore Limited</institution>
+<city>Abingdon</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14238-aff-0009"><label>
+<sup>9</sup>
+</label>Present address:
+<institution>Pate's Grammar School</institution>
+<city>Cheltenham</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14238-aff-0010"><label>
+<sup>10</sup>
+</label>Present address:
+<institution>SDS Life Science</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz14238-aff-0011"><label>
+<sup>11</sup>
+</label>Present address:
+<institution>Sosei Heptares</institution>
+<city>Cambridge</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14238-aff-0013"><label>
+<sup>12</sup>
+</label>Present address:
+<institution>Grünenthal Limited</institution>
+<city>Maidenhead</city>
+<country country="GB">UK</country>
+</aff><aff id="alz14238-aff-0014"><label>
+<sup>13</sup>
+</label>Present address:
+<institution>Harness Therapeutics Ltd, Babraham Research Campus</institution>
+<city>Cambridge</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Christopher Lloyd, BioPharmaceuticals R&amp;D, AstraZeneca, 1 Francis Crick Avenue, Cambridge Biomedical Campus, Cambridge CB2 0AA, UK.<break/> Email: <email>christopher.lloyd@astrazeneca.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>9</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2024</year></pub-date><volume>20</volume><issue seq="240">11</issue><issue-id pub-id-type="pmc-issue-id">475213</issue-id><issue-id pub-id-type="doi">10.1002/alz.v20.11</issue-id><fpage>7762</fpage><lpage>7776</lpage><history><date date-type="rev-recd"><day>23</day><month>7</month><year>2024</year></date><date date-type="received"><day>03</day><month>4</month><year>2024</year></date><date date-type="accepted"><day>11</day><month>8</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>25</day><month>09</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>17</day><month>11</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-27 14:25:13.410"><day>27</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-20-7762.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-20-7762.pdf"/><abstract><title>Abstract</title><sec id="alz14238-sec-0010"><title>INTRODUCTION</title><p>Small molecules and antibodies are being developed to lower amyloid beta (Aβ) peptides.</p></sec><sec id="alz14238-sec-0020"><title>METHODS</title><p>We describe MEDI1814, a fully human high‐affinity monoclonal antibody selective for Aβ<sub>42</sub>, the pathogenic self‐aggregating species of Aβ.</p></sec><sec id="alz14238-sec-0030"><title>RESULTS</title><p>MEDI1814 reduces free Aβ<sub>42</sub> without impacting Aβ<sub>40</sub> in the cerebrospinal fluid of rats and cynomolgus monkeys after systemic administration. MEDI1814 administration to patients with Alzheimer's disease (AD; <italic toggle="yes">n</italic> = 57) in single or repeat doses up to 1800 mg intravenously or 200 mg subcutaneously was associated with a favorable safety and tolerability profile. No cases of amyloid‐related imaging abnormalities were observed. Predictable dose‐proportional changes in serum exposures for MEDI1814 were observed across cohorts. Cerebrospinal fluid (CSF) analysis demonstrated central nervous system penetration of MEDI1814. Pharmacodynamic data showed dose‐dependent suppression of free Aβ<sub>42</sub>, increases in total (bound and free) Aβ<sub>42</sub>, but no change in total Aβ<sub>40</sub> in CSF across doses.</p></sec><sec id="alz14238-sec-0040"><title>DISCUSSION</title><p>MEDI1814 offers a differentiated approach to impacting Aβ in AD via selective reduction of free Aβ<sub>42</sub>.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz14238-kwd-0001">amyloid beta 42</kwd><kwd id="alz14238-kwd-0002">drug development</kwd><kwd id="alz14238-kwd-0003">pharmacodynamics</kwd><kwd id="alz14238-kwd-0004">pharmacokinetics</kwd><kwd id="alz14238-kwd-0005">preclinical</kwd><kwd id="alz14238-kwd-0006">safety</kwd><kwd id="alz14238-kwd-0007">tolerability</kwd></kwd-group><counts><fig-count count="7"/><table-count count="1"/><page-count count="15"/><word-count count="9853"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.1 mode:remove_FC converted:15.11.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz14238-cit-0045">
+<string-name name-style="western">
+<surname>Lloyd</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Freskgård</surname>
+<given-names>P‐O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Newton</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>MEDI1814 selectively reduces free Aβ42 in cerebrospinal fluid of non‐clinical species and Alzheimer's disease patients</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>7762</fpage>–<lpage>7776</lpage>. <pub-id pub-id-type="doi">10.1002/alz.14238</pub-id>
+<pub-id pub-id-type="pmcid">PMC11567870</pub-id><pub-id pub-id-type="pmid">39319998</pub-id></mixed-citation>
+</p></notes></front><body><sec id="alz14238-sec-0050"><label>1</label><title>BACKGROUND</title><p>Alzheimer's disease (AD) is the most common type of dementia and is characterized by cognitive deterioration and impaired activities of daily living.<xref rid="alz14238-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> The predominant pathologies associated with AD in the brain are aggregates of amyloid beta (Aβ) deposited in the extracellular space, and intraneuronal neurofibrillary tangles of the microtubule‐associated protein tau.<xref rid="alz14238-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> The amyloid cascade hypothesis<xref rid="alz14238-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz14238-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="alz14238-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz14238-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> supported by preclinical work on oligomers<xref rid="alz14238-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="alz14238-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz14238-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> and recent clinical evaluation of plaque lowering mean that these remain a dominant model hypothesized for the progression of AD. As a consequence, Aβ has been a primary target for therapeutic interventions, with most experimental drugs in clinical trials over the last two decades aiming to either reduce its production (with small molecule γ‐secretase and β‐site amyloid precursor protein cleaving enzyme inhibitors) or promoting its clearance (with immunotherapies).<xref rid="alz14238-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Of the forms of Aβ targeted, Aβ<sub>42</sub> and Aβ<sub>43</sub> are highly hydrophobic and self‐aggregating, whereas Aβ<sub>40</sub> is less so. Indeed, Aβ<sub>40</sub> has been postulated to have anti‐amyloidogenic and neuroprotective effects in the brain, although this has not been demonstrated in clinical trials.<xref rid="alz14238-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="alz14238-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Presenilin 1 (PSEN1, the catalytic subunit of the γ‐secretase complex) is considered to play an important role in the generation of Aβ, with most mutations not increasing total Aβ generation, but instead increasing the release and ratio of longer (less trimmed), amyloidogenic species of Aβ (≥ Aβ<sub>42</sub>).<xref rid="alz14238-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz14238-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> In addition to full‐length Aβ<sub>42</sub>, other highly amyloidogenic and neurotoxic forms of Aβ are also abundant in the brains of AD patients, including N‐terminal truncated versions, such as pyroglutamate‐modified Aβ<sub>3‐42</sub> (pGlu‐Aβ<sub>3‐42</sub>).<xref rid="alz14238-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="alz14238-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz14238-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<list list-type="bullet" id="alz14238-list-0001"><list-item><p>MEDI1814 is a fully human high‐affinity monoclonal antibody selective for amyloid beta (Aβ)<sub>42</sub>.</p></list-item><list-item><p>MEDI1814 reduces free Aβ<sub>42</sub> without impacting Aβ<sub>40</sub> after systemic administration.</p></list-item><list-item><p>Predictable dose‐proportional changes in serum exposures for MEDI1814 were observed.</p></list-item><list-item><p>MEDI1814 was associated with a favorable safety and tolerability profile.</p></list-item></list>
+</p><p>Developments relating to the identification of cerebrospinal fluid (CSF) and positron emission tomography (PET) imaging biomarkers for AD have enabled earlier diagnosis, and their application in clinical research has led to successful Phase 2 and 3 clinical trials of immunotherapies.<xref rid="alz14238-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz14238-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz14238-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> As a result of some of these trials, the US Food and Drug Administration (FDA) has granted accelerated approval for, and approved, two passive immunotherapy treatments, aducanumab‐avwa<xref rid="alz14238-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> and lecanemab‐irmb,<xref rid="alz14238-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> which both demonstrate significant dose‐ and time‐dependent reduction of amyloid plaques.</p><p>However, passive immunotherapies targeting aggregated forms of Aβ, including those that have been approved for therapeutic use, are associated with increased amyloid‐related imaging abnormalities (ARIAs) and immunotherapies targeting soluble forms of Aβ in completed late‐stage trials have proven unsuccessful despite strong binding to total Aβ in periphery and reduction of free Aβ.<xref rid="alz14238-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="alz14238-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> One other critical factor to consider is that all the passive immunotherapeutic approaches have targeted both the Aβ<sub>40</sub> and Aβ<sub>42</sub> forms of the peptide, thus reducing levels of Aβ<sub>40</sub>, which has been suggested to have a neuroprotective effect.<xref rid="alz14238-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p><p>Here, we describe the discovery, non‐clinical, and early clinical development of MEDI1814, a fully human, effector‐null monoclonal antibody that has high affinity and selectivity for full‐length and N‐terminal truncated forms of the amyloidogenic species Aβ<sub>42/43</sub> versus the neuroprotective species Aβ<sub>40</sub>. Sequestering the free Aβ<sub>42</sub> monomer should prevent the further formation and accumulation of toxic oligomeric forms of Aβ<sub>42</sub>, thereby slowing disease progression. We also report early data on the downstream biomarker neurofilament light chain (NfL). Clinical data are presented from single ascending dose (SAD) and multiple ascending dose (MAD) studies undertaken to evaluate the safety and pharmacokinetics (PK) of MEDI1814 in patients with AD. Based on these data and the observed PK/pharmacodynamic (PD) profile for MEDI1814‐mediated Aβ<sub>42</sub> suppression in the CSF, this study identifies a potential dosing regimen for further clinical study in patients with AD.</p></sec><sec id="alz14238-sec-0060"><label>2</label><title>METHODS</title><sec id="alz14238-sec-0070"><label>2.1</label><title>Clinical study design</title><p>The Phase 1 clinical study was a randomized, double‐blind, placebo‐controlled, two‐part investigation to evaluate the safety, tolerability, PK, PD, and immunogenicity of single (Part 1) and multiple doses (Part 2) of MEDI1814 administered to patients with mild to moderate AD (Figure <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S1</xref> in supporting information). The protocol was executed in the United States under an investigational new drug application in accordance with the principles of Good Clinical Practice, having received the relevant institutional review board and FDA approvals (ClinicalTrials.gov Identifier <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT02036645">NCT02036645</ext-link>; AstraZeneca Protocol D4750C00001). Written informed consent was obtained from patients or their legal representative prior to any study procedures. Part 1 of the study was undertaken as a dose‐ascending study of single intravenous (IV) MEDI1814 doses (25, 100, 300, 90, and 1800 mg) or a single subcutaneous (SC) dose (100 mg) administered across six cohorts of patients with AD (<italic toggle="yes">n</italic> = 5 for 25 mg IV; <italic toggle="yes">n</italic> = 8 for other cohorts; and <italic toggle="yes">n</italic> = 2 placebo per cohort). In Part 2 of the study, multiple ascending doses were evaluated after IV (300, 900, and 1800 mg) or SC (200 mg) administration across four cohorts of patients with AD (<italic toggle="yes">n</italic> = 8 for all multiple dose cohorts; <italic toggle="yes">n</italic> = 2 placebo and <italic toggle="yes">n</italic> = 6 MEDI1814 per cohort). Three doses were administered, each dose separated by 29 days. For both study parts, eligibility criteria were for male and female (non‐childbearing potential) patients, aged 55 to 85 years, with mild to moderate AD (National Institute on Aging–Alzheimer's Association criteria<xref rid="alz14238-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>), with cognitive and functional symptoms of probable AD present for ≥ 6 months prior to randomization (Mini‐Mental State Examination [MMSE] score ≥ 16 to 26; magnetic resonance imaging [MRI] scan at screening consistent with a diagnosis of dementia; Rosen Modified Hachinski Ischemic score £4 and body mass index 17–32 kg/m<sup>2</sup>). Patients enrolled in Part 2 were also required to have a CSF Aβ<sub>1‐42</sub> concentration of &lt; 550 pg/mL.</p><p>Study participants were assessed at follow‐up visits for ≈ 13 weeks after the single dose (Part 1) and after the last repeat dose (Part 2). Safety and tolerability were monitored throughout both parts of the study by adverse events, clinical assessments (vital signs, electrocardiograms, physical and neurological examinations, MMSE, and Columbia‐Suicide Severity Rating Scale) and laboratory tests (clinical chemistry, hematology, and urinalysis). Data were reviewed by a safety review committee between successive cohorts of patients. A follow‐up MRI scan was undertaken at day 36 after the single dose (Part 1) and after the last repeat dose (Part 2). Blood was sampled for MEDI1814 PK and PD biomarkers (total Aβ<sub>1‐42</sub>) and immunogenicity throughout the respective follow‐up periods. Lumbar puncture was performed at day 29 after the single dose (Part 1) and after the last repeat dose (Part 2) for analysis of CSF biomarkers (total and free Aβ<sub>1‐42</sub>, total Aβ<sub>1‐40</sub>).</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz14238-sec-0080"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz14238-list-0002"><list-item><p>
+<bold>Systematic review</bold>: The authors reviewed the scientific literature using PubMed. Small molecules and antibodies are being developed to lower amyloid beta (Aβ) peptides and have been evaluated in clinical studies. However, these typically lower both Aβ<sub>40</sub> and Aβ<sub>42</sub>, and targeting the key toxic building blocks of Aβ while sparing Aβ<sub>40</sub> may provide advantages in terms of potential safety and efficacy.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: We describe the discovery and early development of MEDI1814, which selectively lowers free Aβ<sub>42</sub>, but not Aβ<sub>40</sub>, in the cerebrospinal fluid of patients with Alzheimer's disease (AD). Overall, MEDI1814 was well tolerated in human subjects after both single‐ and multiple‐dose intravenous administration.</p></list-item><list-item><p>
+<bold>Future directions</bold>: The question remains to be addressed whether selective reduction of free Aβ<sub>42</sub> can provide efficacy for patients with AD. Further clinical evaluation of MEDI1814 may provide greater insight into the involvement of Aβ in the initiation of AD.</p></list-item></list>
+</p></sec></boxed-text></sec><sec id="alz14238-sec-0090"><label>2.2</label><title>Materials</title><p>Aβ peptides were purchased from Anaspec, rPeptide, or Bachem and were reconstituted to 1 mg/mL in 1% ammonium hydroxide (v/v). Batches of MEDI1814 and other immunoglobulin G (IgG) antibodies were produced through Chinese hamster ovary (CHO) cell expression and subsequent protein A purification (as described by Daramola et al.<xref rid="alz14238-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>).</p></sec><sec id="alz14238-sec-0100"><label>2.3</label><title>Discovery of MEDI1814</title><p>Fab phage display libraries<xref rid="alz14238-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> were used to isolate Aβ<sub>1‐42</sub> specific antibodies via a series of selection cycles on synthetic human biotinylated Aβ<sub>1‐42</sub> (rPeptide), essentially as previously described.<xref rid="alz14238-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="alz14238-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Soluble Fab fragments were generated<xref rid="alz14238-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> and tested for binding to human Aβ<sub>1‐42</sub> and Aβ<sub>1‐40</sub> in a homogenous time‐resolved fluorescence assay (HTRF, Cisbio Bioassays). Abet0007 was converted to scFv format and cloned into a modified pCantab6 vector.<xref rid="alz14238-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Large scFv‐phage libraries were derived by oligonucleotide‐directed mutagenesis of the V<sub>H</sub> and V<sub>L</sub> complementarity determining regions (CDR)3s using standard molecular biology techniques as described by Clarkson and Lowman.<xref rid="alz14238-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> These were subjected to three rounds of selection on decreasing concentrations of Aβ<sub>1‐42</sub>. ScFv fragments were screened as above for improved binding over Abet0007, with binding kinetics measured by surface plasmon resonance (SPR; see methods below). Abet0144 underwent further affinity maturation by targeting all six CDRs as above and by selection using ribosome display (essentially as described by Lewis and Lloyd<xref rid="alz14238-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>). Briefly, each individual randomized CDR was subjected to several rounds of affinity selection and then recombined by polymerase chain reaction in a pair‐wise fashion to produce new libraries with 2/6 CDRs mutated. This proceeded until 4/6 CDRs were recombined and a total of 11 rounds of selection had been performed.</p></sec><sec id="alz14238-sec-0110"><label>2.4</label><title>BIAcore affinity measurements and peptide competition assay</title><p>The binding kinetics of anti‐Aβ<sub>42</sub> antibodies were measured by SPR using the BIAcore T‐100 (essentially as described by Karlsson et al.<xref rid="alz14238-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>). Antibodies were covalently coupled by amine linkage to a CM5 chip surface and Aβ peptides flowed over a range of concentrations (depending on K<sub>D</sub> of antibody tested). The peptide competition was performed by testing the ability of unlabeled Aβ peptides to compete for binding of Abet0144 or Abet0380 IgG to biotinylated Aβ<sub>1‐42</sub> using HTRF, with europium cryptate labelled anti‐human Fc IgG and XL665‐labelled streptavidin from CisBio.</p></sec><sec id="alz14238-sec-0120"><label>2.5</label><title>Animal care and use</title><p>All procedures were performed in accordance with the AstraZeneca Care and Use of Animals policy, complied with the Animals (Scientific Procedures) Act 1986, and were approved by a local ethics committee. The cynomolgus monkey study was performed at WIL Research (Lyon, France), study number <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="AB141816">AB141816</ext-link>, and was approved by their local ethics committee. The study was conducted in compliance with International Council for Harmonisation (ICH) and European Medicines Agency guidelines on repeated dose toxicity (CPMP/SWP/1042/99). In accordance with recommendations of the Weatherall report, the cynomolgus monkeys used in the study were housed in socialized groups of up to three of the same dose group in a communal housing compartment (dimensions: 1.80 × 1.20 × 2.10 m) with sawdust as bedding and separated into single units for the time necessary to complete the treatment procedures and the individual observations/examinations. The partitions between the units and main compartment were then removed to allow socialization. They were fed with expanded complete commercial primate diet (Special Diets Services: OWM [E] BANANA SQC SHORT), as well as receiving fruit or vegetables daily. The animals were fasted for at least 15 hours before clinical laboratory blood sampling, during urine collection, and before necropsy. All animals were also fasted before all procedures requiring anesthesia.</p></sec><sec id="alz14238-sec-0130"><label>2.6</label><title>In vivo pharmacodynamic effect of MEDI1814</title><p>MEDI1814 was formulated in a histidine buffer for IV and SC administration. Control animals were treated with the appropriate vehicle. The rat in vivo pharmacology study was performed in Sprague–Dawley rats (8–12 males per group), with MEDI1814 administered at 0.25, 1, 5, and 10 mg/kg IV weekly over 2 weeks.</p><p>In vivo animal toxicity studies were performed in Sprague–Dawley rats (14 animals per sex per group) and cynomolgus monkeys (4 animals per sex per group) with weekly doses of 0, 10, and 100 mg/kg IV or 75 mg/kg SC (or IV/SC vehicle) administered over 13 weeks, followed by an 8‐week (rats) or 9‐week (monkeys) treatment‐free period. Vehicle was administered by both routes to the same animals. At the end of the dosing period, CSF samples were collected from ten rats and six monkeys per group and, at the end of the treatment free period, from the five rats per group that continued on study (10 mg/kg IV not included), and the additional two monkeys included in the vehicle and 100 mg/kg IV groups. Free and total Aβ<sub>42</sub>, and total Aβ<sub>40</sub> were measured from CSF, while total Aβ<sub>42</sub> was measured in plasma.</p></sec><sec id="alz14238-sec-0140"><label>2.7</label><title>Quantitation of free and total Aβ<sub>42</sub> and Aβ<sub>40</sub> in rat and non‐human primate samples</title><p>Aβ<sub>42</sub> and Aβ<sub>40</sub> were assayed using commercially available enzyme‐linked immunosorbent assay (ELISA) kits validated at AstraZeneca. Methods were derived from Bogstedt et al.<xref rid="alz14238-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Briefly, to assess free peptide, Aβ<sub>42</sub> bound to MEDI1814 was removed by immunoprecipitation (IP) prior to ELISA analysis of the free Aβ<sub>42</sub>. To assess total peptide, samples were either heat treated to remove interfering MEDI1814 prior to analysis of total Aβ<sub>42</sub> by ELISA, or an excess of MEDI1814 was applied to the samples with a subsequent detection of the Aβ<sub>42</sub>–MEDI1814 complex. Aβ<sub>40</sub> was measured directly in CSF by ELISA.</p><sec id="alz14238-sec-0150"><label>2.7.1</label><title>Free Aβ<sub>42</sub> in CSF</title><p>Free Aβ<sub>42</sub> was analyzed in CSF from non‐human primates (NHPs) according to Bogstedt et al.<xref rid="alz14238-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Briefly, Aβ<sub>42</sub> bound to MEDI1814 was removed by IP prior to ELISA analysis of the free Aβ<sub>42</sub> using a commercial ELISA kit (Innogenetics: cat no 80177). Free Aβ<sub>42</sub> was analyzed in CSF from rats according to Bogstedt et al.<xref rid="alz14238-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> with some modifications. Further details can be found in the supporting information.</p></sec><sec id="alz14238-sec-0160"><label>2.7.2</label><title>Total Aβ<sub>42</sub> in CSF</title><p>Total Aβ<sub>42</sub> was analyzed in CSF from NHPs according to Bogstedt et al.<xref rid="alz14238-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Briefly, the CSF was heat treated to remove interfering MEDI1814 prior to analysis using a commercial ELISA kit (Innogenetics: cat no 80177). Total Aβ<sub>42</sub> was analyzed in CSF from rats according to Bogstedt et al.<xref rid="alz14238-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> either by using an excess of MEDI1814 and subsequent detection of the Aβ<sub>42</sub>‐MEDI1814 complex by a secondary anti‐hIgG antibody, or by heat treatment of the CSF to remove interfering MEDI1814 prior to analysis using a commercial ELISA kit. Further details can be found in the supporting information.</p></sec><sec id="alz14238-sec-0170"><label>2.7.3</label><title>Aβ<sub>40</sub> in CSF</title><p>Aβ<sub>40</sub> was analyzed in CSF from NHPs using the High Sensitivity Human Amyloid β<sub>40</sub> ELISA kit (MilliporeSigma; EZHS40). The ELISA analysis was performed according to the manufacturer's instructions and Bogstedt et al.<xref rid="alz14238-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>Analytical methods for quantification of total Aβ<sub>42</sub> in plasma and the brain, and Aβ<sub>40</sub> in the brain can be found in the supporting information.</p></sec></sec><sec id="alz14238-sec-0180"><label>2.8</label><title>Quantitation of free and total Aβ<sub>42</sub> and Aβ<sub>40</sub> in human samples</title><p>Aβ<sub>42</sub> and Aβ<sub>40</sub> were assayed using commercially available electrochemiluminescence immunoassay (ECLIA) kits validated at AstraZeneca (Meso Scale Diagnostics [MSD]). Briefly, to assess free peptide, Aβ<sub>42</sub> bound to MEDI1814 was removed by IP using peptide A and peptide G beads (Dynabeads, Novex by Life Technologies) prior to analysis, while unbound free Aβ<sub>1‐42</sub> remained in the supernatant. To assess total Aβ<sub>42</sub>, samples were heat treated to remove interfering MEDI1814. Total Aβ<sub>1‐40</sub> was measured directly in CSF by ECLIA. Further details can be found in the supporting information.</p></sec><sec id="alz14238-sec-0190"><label>2.9</label><title>PK analysis and PK/PD modeling</title><p>MEDI1814 PK concentrations in rat and cynomolgus monkey serum and CSF were measured using a quantitative MSD electrochemiluminescent (ECL) assay. Anti‐drug antibody (ADA) evaluations in rat and cynomolgus monkey serum were performed using a solution phase, ECL bridging immunoassay developed and validated at AstraZeneca. A validated ECL assay using an MSD platform was used for quantitative determination of MEDI1814 in human serum and CSF and the detection of ADA to MEDI1814 in human serum. Non‐compartmental PK analysis was performed using Phoenix WinNonlin Professional (version 6.3, Certera).</p><p>A two‐compartment model with IV/SC input and first‐order elimination was used to describe the PK data in cynomolgus monkeys. The relationship between serum concentration of MEDI1814 and plasma total Aβ<sub>42</sub> was described using a PK/PD model in which MEDI1814 binds with free Aβ<sub>42</sub> to form a MEDI1814‐Aβ<sub>42</sub> complex. Population PK/PD modeling was conducted using non‐linear mixed‐effects modeling (NONMEM version 7.2, ICON plc).</p><p>The PK/PD model based on cynomolgus monkeys was used to simulate the PK/PD profiles of MEDI1814 concentration profiles in humans with scaled human PK and PD parameter estimates and assumptions. The total and free Aβ<sub>42</sub> in CSF were simulated using a similar structural PK/PD model (as in blood) with a MEDI1814 CSF‐to‐serum concentration of ≈ 0.1%, and used to determine the starting and target doses of MEDI1814 for the Phase 1 clinical study.</p></sec><sec id="alz14238-sec-0200"><label>2.10</label><title>Quantitation of NfL and P‐tau217 in human samples</title><p>The Quanterix NfL assay (Catalog number: 103186) was run in accordance with the manufacturer's protocol on the Quanterix HD‐1 instrument. Briefly, human samples were thawed on wet ice and vortexed prior to centrifugation at 2000 × g for 10 minutes at 4°C. Plasma samples were then diluted 1:4 in the provided sample diluent, CSF samples were diluted 1:100 in the provided sample diluent from the kit, and each sample was run on the Quanterix HD‐1.</p><p>Eli Lilly and Company provided the measurements of the previously published in‐house immunoassay for phosphorylated tau (p‐tau)217 using the MSD platform and a streptavidin small spot plate (MSD, L45SA). A p‐tau217–specific biotinylated monoclonal antibody was used as the capture antibody (Lilly, biotinylated‐IBA493) and sulfo‐tagged amino‐terminal tau antibody as the detector (Lilly, SULFO‐TAG‐Ru‐4G10‐E2). Antibodies were conjugated with NHS‐PEG4‐Biotin (Thermo Scientific, catalog number: A39259) or MSD GOLD SULFO‐TAG NHS‐Ester (MSD, catalog number: R91AO‐1) according to the manufacturer's protocol. The assay was run as previously described.<xref rid="alz14238-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+</p></sec><sec id="alz14238-sec-0210"><label>2.11</label><title>Brain MRI</title><p>MRI, with central radiological read, was used during the course of this study to help assess safety such as the occurrence of ARIAs. These include hemosiderin deposition (ARIA‐H) and signs potentially indicative of inflammation or vasogenic edema (ARIA‐E).<xref rid="alz14238-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> MRI examination was performed on three occasions: screening, Day 36 (after a single dose), and Day 92 (after multiple doses). The MRI sequences to assess safety included 3D T1‐weighted gradient echo scans, T2*‐weighted gradient echo scans, T2‐weighted spin echo scans, and T2‐weighted fluid attenuated inversion recovery scans.</p></sec><sec id="alz14238-sec-0220"><label>2.12</label><title>Statistical analysis</title><p>For the non‐clinical in vivo profile of MEDI1814, decreases in free and total Aβ<sub>42</sub> in CSF and total Aβ<sub>40</sub> and Aβ<sub>42</sub> in the brain were assessed relative to isotype control using one‐way analysis of variance and Tukey multiple comparison (GraphPad Prism version 8.3).</p><p>For the clinical study, the safety analysis set included all subjects who received at least one dose of MEDI1814 or placebo, and for whom any post‐dose data were available. The PK analysis set included all evaluable PK data appropriate for the evaluation of interest from all subjects who received at least one dose of MEDI1814. Subjects who received placebo were not part of the PK analysis set. The PD (biomarker) analysis set included all evaluable biomarker data appropriate for the evaluation of interest. Statistical analyses were performed using SAS Enterprise Guide 4.3 supported by SAS version 9.2 on UNIX.</p><p>The main presentation period for adverse events (AEs) was the time from first dose to follow‐up. In addition, to capture AEs related to CSF sampling, AEs are also presented separately for each CSF sampling time period. Project‐specific reference limits were used to flag potentially clinically significant values for each subject. When project‐specific reference limits were not available, the reference limits of the local laboratory were used.</p><p>Dose proportionality was evaluated using a power model applied to each of the following PK parameters derived from MEDI1814 serum concentrations: maximum serum concentration (C<sub>max</sub>), area under the serum concentration‐time curve (AUC) from zero to the last measurable concentration (AUC<sub>0‐t</sub>), AUC from zero to infinity (AUC<sub>0‐∞</sub>), and AUC over the dosing interval (AUC<sub>0 τ</sub>). For Part 2 (MAD), separate analyses were conducted for Day 1 and Day 57. For CSF free Aβ<sub>1‐42</sub>, total Aβ<sub>1‐42</sub>, and total Aβ<sub>1‐40</sub>, an analysis of covariance linear model was used to estimate the difference between MEDI1814 and placebo in percent change from baseline response, with baseline value included in the model as a covariate.</p><p>Due to the exploratory nature of the study, the sample size was not based on formal statistical considerations. The sample size was based on experience from previous similar Phase 1 studies with other compounds to obtain adequate safety, tolerability, and PK data to achieve the objectives of the study while exposing as few subjects as possible to study medication and procedures.</p></sec></sec><sec id="alz14238-sec-0230"><label>3</label><title>RESULTS</title><sec id="alz14238-sec-0240"><label>3.1</label><title>Discovery of MEDI1814</title><p>Abet0007, the parental precursor of MEDI1814, was derived by phage display panning of antibody libraries against Aβ<sub>1‐42</sub>. This precursor had the desired Aβ<sub>42</sub> selectivity, but only a moderate affinity (K<sub>D</sub>) of 473 nM (Table <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S1</xref> in supporting information). Abet0007 was then subjected to in vitro affinity maturation by targeting the variable heavy (V<sub>H</sub>) and variable light (V<sub>L</sub>) CDRs through the generation of randomized libraries. First, libraries just targeting the CDR3 domains underwent further phage display panning and screening for higher affinity variants. This resulted in a variant, Abet0144, with a moderate improvement in affinity at a K<sub>D</sub> of 9.5 nM (Table <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S1</xref>), with retained selectivity for Aβ<sub>42</sub> over Aβ<sub>40</sub>. Thereafter, further affinity optimization was undertaken (as above), but this time targeting all six CDRs of Abet0144, using ribosome display for the panning<xref rid="alz14238-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="alz14238-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> and iteratively recombining beneficial mutations across the different CDR regions. This resulted in a large panel of scFv variants with improved K<sub>D</sub> versus Abet0144, while maintaining selectivity for Aβ<sub>42</sub>. The highest affinity clones were reformatted to human IgG1‐triple mutation (TM)<xref rid="alz14238-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> and profiled further. The lead Abet0380 had a measured K<sub>D</sub> of 322 pM (Table <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S1</xref>), with an improved off‐rate over Abet0144. The selectivity profile of Abet0380 for different Aβ peptides was reconfirmed in competition binding experiments (Figure <xref rid="alz14238-fig-0001" ref-type="fig">1</xref>). Inhibition was observed with full‐length Aβ<sub>1‐42,</sub> full‐length Aβ<sub>1‐43</sub>, and all Aβ<sub>1‐42</sub> peptide forms truncated only at the N‐terminus, with half‐maximal inhibitory concentration (IC<sub>50</sub>) values within 3‐fold of each other. No inhibition was observed with the truncated peptides Aβ<sub>1‐16</sub> and Aβ<sub>12‐28</sub>, and only relatively weak and incomplete inhibition was observed with Aβ<sub>1‐40</sub> (≈ 2000‐fold weaker than Aβ<sub>1‐42</sub>). This is consistent with MEDI1814 having a C‐terminal epitope, with high selectivity for full‐length Aβ<sub>1‐42</sub> and Aβ<sub>1‐43</sub> (versus Aβ<sub>1‐40</sub>) and high affinity for both full and N‐terminal–only truncated forms of Aβ<sub>1‐42</sub>.</p><fig position="float" fig-type="FIGURE" id="alz14238-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Aβ peptide selectivity of MEDI1814. Aβ peptide competition of MEDI1814 to biotinylated Aβ<sub>1‐42</sub> using homogeneous time‐resolved fluorescence, with europium cryptate labelled anti‐human Fc immunoglobulin and XL665‐labelled streptavidin from CisBio. Peptide sequences and half‐maximal inhibitory concentration values are depicted. MEDI1814 has high selectivity for full length Aβ<sub>1‐42</sub> and Aβ<sub>1‐43</sub> (versus Aβ<sub>1‐40</sub>) and high affinity for both full and N‐terminal‐only truncated forms of Aβ<sub>1‐42</sub>. Aβ, amyloid beta.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-20-7762-g007.jpg"/></fig></sec><sec id="alz14238-sec-0250"><label>3.2</label><title>Non‐clinical in vivo profile of MEDI1814</title><p>In a 14‐day rat study (Figure <xref rid="alz14238-fig-0002" ref-type="fig">2A‐D</xref>), two IV administrations of MEDI1814 (0.25–10 mg/kg) at days 0 and 7 gave a dose‐dependent decrease of free Aβ<sub>42</sub> in CSF measured at trough (7 days post second treatment). Maximal suppression of free Aβ<sub>42</sub> was observed at 5 and 10 mg/kg down to the limit of quantification (LOQ) in the assay (38pg/mL). Significant effects were observed at 0.5 to 10 mg/kg relative to isotype control (0.5 mg/kg, <italic toggle="yes">p</italic> &lt; 0.01; 1.0 mg/kg, <italic toggle="yes">p</italic> &lt; 0.001; 5 and 10 mg/kg, <italic toggle="yes">p</italic> &lt; 0.0001). Due to sequestration of Aβ<sub>42</sub> by MEDI1814, a dose‐dependent increase of total (bound and free) Aβ<sub>42</sub> was demonstrated in both CSF and brain (both <italic toggle="yes">p</italic> &lt; 0.0001 vs. isotype control at 5 and 10 mg/kg). Total Aβ<sub>40</sub> in the brain was unaffected by either isotype control or MEDI1814, thus demonstrating the selectivity of MEDI1814 for Aβ<sub>42</sub> in the brain. Plasma and CSF exposure to MEDI1814 were measured only at the end of the experiment, with 0.1% to 0.15% of the plasma concentration being present in the CSF (Figure <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S2</xref> in supporting information).</p><fig position="float" fig-type="FIGURE" id="alz14238-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Pharmacodynamics of MEDI1814 in Sprague–Dawley rats. Intravenous administration of MEDI1814 and m266 twice over 14 days with samples collected 7 days post second dose (A–D). Maximal suppression of free Aβ<sub>42</sub> was observed at 5 and 10 mg/kg, with significant effects being observed at 0.5–10 mg/kg relative to isotype control. Dose‐dependent increase of total (bound and free) Aβ<sub>42</sub> is observed both CSF and brain. Total Aβ<sub>40</sub> in the brain was unaffected by either isotype control or MEDI1814, showing selectivity of MEDI1814 for Aβ<sub>42</sub> in the brain. MEDI1814 dosed 14 times over 13 weeks, with samples collected 8 weeks after the final dose (E and F). Free Aβ<sub>42</sub> in CSF decreased in all the MEDI1814 treatment groups after 14 weekly doses (E). Total CSF Aβ<sub>42</sub> increased dose‐dependently in the 10 mg/kg and 100 mg/kg IV and 75 mg/kg SC groups compared to the appropriate vehicle group after 14 doses (F). At the end of the treatment‐free period, 8‐ and 3.5‐fold higher total Aβ<sub>42</sub> levels in the CSF were observed in the 100 mg/kg IV and 75 mg/kg SC groups, respectively. Concentrations shown are absolute in pg/mL as determined by ELISA. One‐way analysis of variance and Tukey multiple comparison: <sup>ns</sup>
+<italic toggle="yes">p</italic> ≥ 0.05, *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001, and ****<italic toggle="yes">p</italic> &lt; 0.0001. Aβ, amyloid beta; CSF, cerebrospinal fluid; ELISA, enzyme‐linked immunosorbent assay; IV, intravenous; SC, subcutaneous.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-20-7762-g006.jpg"/></fig><p>A 13‐week, repeat‐dose study was conducted to assess the toxicological profile of MEDI1814 (10 mg/kg IV, 100 mg/kg IV, or 75 mg/kg SC) in Sprague–Dawley rats and cynomolgus monkeys. In rats, free Aβ<sub>42</sub> in CSF was reduced to below the LOQ in all the MEDI1814 treatment groups after 14 weekly doses (<italic toggle="yes">p</italic> &lt; 0.0001; Figure <xref rid="alz14238-fig-0002" ref-type="fig">2E</xref>). After an 8‐week treatment‐free period, there was a 17.8% and 28.8% reduction in free Aβ<sub>42</sub> in the CSF remaining in the 100 mg/kg IV and 75 mg/kg SC groups, respectively, relative to the appropriate vehicle (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="alz14238-fig-0002" ref-type="fig">2E</xref>). Total CSF Aβ<sub>42</sub> increased dose‐dependently by 27‐, 36‐, and 26‐fold in the 10 mg/kg and 100 mg/kg IV and 75 mg/kg SC groups compared to the appropriate vehicle group after 14 doses (Figure <xref rid="alz14238-fig-0002" ref-type="fig">2F</xref>). At the end of the treatment‐free period, 8‐ and 3.5‐fold higher total Aβ<sub>42</sub> levels in the CSF were observed in the 100 mg/kg IV and 75 mg/kg SC groups, respectively, compared to the appropriate vehicle group (<italic toggle="yes">p</italic> &gt; 0.05 for both; Figure <xref rid="alz14238-fig-0002" ref-type="fig">2F</xref>). MEDI1814 serum concentrations over the course of the 13‐week treatment period in rats are shown in Figure <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S3</xref> in supporting information.</p><p>In cynomolgus monkeys, a dose‐dependent increase in total Aβ<sub>42</sub> in both plasma (1.1‐fold [<italic toggle="yes">p</italic> = 0.0002], and 2.1‐ and 1.5‐fold [both <italic toggle="yes">p</italic> &lt; 0.0001]) and CSF (3.7‐fold [<italic toggle="yes">p</italic> &lt; 0.01], and 7.7‐ and 6.1‐fold [both <italic toggle="yes">p</italic> &lt; 0.0001]) was observed at the end of the treatment phase in the 10 mg/kg IV, 100 mg/kg IV, or 75 mg/kg SC groups, respectively (Figure <xref rid="alz14238-fig-0003" ref-type="fig">3</xref>). Greater than 95% suppression of free Aβ<sub>42</sub> in CSF was achieved at all dose levels at the end of the treatment phase (<italic toggle="yes">p</italic> &lt; 0.0001; Figure <xref rid="alz14238-fig-0003" ref-type="fig">3A</xref>). At the end of a 9‐week treatment‐free period, total Aβ<sub>42</sub> levels in plasma were 1.8‐fold higher in the 100 mg/kg IV dose group compared to the vehicle group (Figure <xref rid="alz14238-fig-0003" ref-type="fig">3B</xref>); total CSF Aβ<sub>42</sub> was 3.5‐fold higher (not significant vs. vehicle group, Figure <xref rid="alz14238-fig-0003" ref-type="fig">3C</xref>), and free CSF Aβ<sub>42</sub> was suppressed by 87.5% compared to the vehicle group (<italic toggle="yes">p</italic> &lt; 0.0001). The specificity of MEDI1814 binding to Aβ<sub>42</sub> over Aβ<sub>40</sub> was confirmed in cynomolgus monkeys by lack of effect on total CSF Aβ<sub>40</sub> at all doses tested (Figure <xref rid="alz14238-fig-0003" ref-type="fig">3D</xref>, <italic toggle="yes">p</italic> &gt; 0.05 between all groups). MEDI1814 serum concentrations over the course of the 13‐week treatment period in cynomolgus monkeys are shown in Figure <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S4</xref> in supporting information.</p><fig position="float" fig-type="FIGURE" id="alz14238-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Pharmacodynamics of MEDI1814 in cynomolgus monkeys. Intravenous weekly administration of MEDI1814 over 13 weeks in cynomolgus monkey: (A), free CSF Aβ<sub>42</sub>; (B) total plasma Aβ<sub>42</sub>; (C) total CSF Aβ<sub>42</sub>; (D) total CSF Aβ<sub>40</sub>. A dose‐dependent increase in total Aβ<sub>42</sub> in both plasma and CSF was observed at the end of the treatment phase in the 10 mg/kg IV, 100 mg/kg IV, and 75 mg/kg SC groups. The majority of free Aβ<sub>42</sub> (&gt; 95%) was suppressed in CSF at all dose levels at the end of the treatment phase (A). At the end of a 9‐week treatment‐free period, total Aβ<sub>42</sub> levels in plasma increased in the 100 mg/kg IV dose group compared to the vehicle group (B); compared to the vehicle group, total CSF Aβ<sub>42</sub> was higher, though not significant (C), and free CSF Aβ<sub>42</sub> was suppressed. The specificity of MEDI1814 binding to Aβ<sub>42</sub> over Aβ<sub>40</sub> was confirmed by lack of effect on total CSF Aβ<sub>40</sub> at all tested doses (D). Washout denotes a period of 9 weeks after dosing had stopped. Aβ, amyloid beta; CSF, cerebrospinal fluid; ELISA, enzyme‐linked immunosorbent assay; IV, intravenous; LOQ, limit of quantification; SC, subcutaneous.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-20-7762-g005.jpg"/></fig></sec><sec id="alz14238-sec-0260"><label>3.3</label><title>Chronic non‐clinical safety of MEDI1814</title><p>The 13‐week repeat‐dose toxicity study described above was ICH S6‐compliant and conducted in two pharmacologically relevant animal species as part of the MEDI1814 non‐clinical development program. There were no MEDI1814‐related adverse effects or target organ toxicity identified in young adult male and female Sprague–Dawley rats or cynomolgus monkeys after 14 weekly administrations of 10 or 100 mg/kg IV, or 75 mg/kg SC MEDI1814.</p></sec><sec id="alz14238-sec-0270"><label>3.4</label><title>Projection of MEDI1814 non‐clinical data for human dose</title><p>The no‐observed‐adverse‐effect level was determined as 100 mg/kg IV, based on 14 weekly doses of MEDI1814 in the 13‐week repeat‐dose study described above. The safety margins based on rat and cynomolgus monkeys were similar, but the safety margins for human dose were based on cynomolgus monkeys because (1) no AEs were observed in either species after complete target (Aβ<sub>42</sub>) suppression; (2) ≈ 33% of rats were ADA‐positive in treatment groups, impacting toxicity exposure; (3) rat toxicokinetic exposure in satellite animals might not reflect toxicity exposure in main study animals because of ADA; and (4) more PK and PD data were available from cynomolgus monkeys.</p><p>The PK/PD profiles of MEDI1814 in humans were simulated from a PK/PD model based on cynomolgus monkeys (with appropriately scaled parameters; Figure <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S5</xref> in supporting information). The cynomolgus monkey model adequately described the MEDI1814 and total Aβ<sub>42</sub> concentration–time profiles after both IV and SC dosing regimens, with estimates of clearance (7.68 mL/day/kg) and apparent volume of distribution at steady state (118.4 mL/kg), very similar to values for a typical IgG1 in cynomolgus monkeys. The plasma half‐life of free Aβ<sub>42</sub>, binding affinity of MEDI1814 to free Aβ<sub>42</sub>, and half‐life of MEDI1814‐Aβ<sub>42</sub> complex were estimated at ≈ 5 minutes, ≈ 10 pM, and ≈ 6.73 days, respectively, with the complex half‐life similar to that of a typical monoclonal antibody in cynomolgus monkeys. Mean baseline‐free Aβ<sub>42</sub> in CSF of ≈ 527 pg/mL (preliminary recovery data from control animals) and first‐order degradation constant (K<sub>deg</sub>) of ≈ 1.386 days<sup>−1</sup> (or half‐life of 12 hours) were assumed (see Methods for details on these parameters). Other PD parameters including K<sub>D</sub>, off dissociation constant (K<sub>off</sub>), and K<sub>deg</sub> for the CSF compartment were assumed to be the same as for the blood compartment.</p><p>Using a version of this model with scaled human PK/PD parameters, a starting dose of 25 mg IV MEDI1814 (fixed dosing) was chosen for the initial Phase 1 clinical study based on expected suppression of free Aβ<sub>42</sub> in both plasma and CSF. At this dose level, a maximum suppression of ≈ 97% and 76% in free Aβ<sub>42</sub> in plasma and CSF, with Aβ<sub>42</sub> returning to baseline in ≈ 28 and 7 days, respectively, was expected. After IV doses of 300 mg every 4 weeks (Q4W; fixed dosing), ≥ 50% suppression of free Aβ<sub>42</sub> in CSF was expected throughout the dosing interval in the clinic. Hence, 300 mg IV Q4W was identified as the initial target efficacious dose in patients with AD.</p></sec><sec id="alz14238-sec-0280"><label>3.5</label><title>MEDI1814 selectively reduces CSF free Aβ<sub>42</sub> in patients with AD</title><p>The favorable non‐clinical profile described provided a basis for the evaluation of MEDI1814 in a first‐in‐human randomized, double‐blind, placebo‐controlled clinical trial in patients with mild‐to‐moderate AD receiving single doses (Part 1; <italic toggle="yes">n</italic> = 45) and multiple doses (Part 2; <italic toggle="yes">n</italic> = 32) of the antibody (see Table <xref rid="alz14238-tbl-0001" ref-type="table">1</xref> for demographic information and Figure <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S1</xref> for study design schematic). Eleven subjects participated in both Part 1 and Part 2. In total 57 patients received single or repeat doses of MEDI1814 up to 1800 mg IV or 200 mg SC and 20 patients received placebo.</p><table-wrap position="float" id="alz14238-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Demographics and baseline characteristics.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><thead><tr><th align="left" colspan="8" style="border-bottom:solid 1px #000000" rowspan="1">A. Single ascending dose (safety analysis set)</th></tr><tr><th align="left" rowspan="1" colspan="1"/><th align="char" rowspan="1" colspan="1"/><th align="left" colspan="6" style="border-bottom:solid 1px #000000" rowspan="1">MEDI1814</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">
+<p>Placebo</p>
+<p>
+<italic toggle="yes">n</italic> = 12</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>25 mg IV</p>
+<p>
+<italic toggle="yes">n</italic> = 3</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>100 mg IV</p>
+<p>
+<italic toggle="yes">n</italic> = 6</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>300 mg IV</p>
+<p>
+<italic toggle="yes">n</italic> = 6</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>900 mg IV</p>
+<p>
+<italic toggle="yes">n</italic> = 6</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>1800 mg IV</p>
+<p>
+<italic toggle="yes">n</italic> = 6</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>100 mg SC</p>
+<p>
+<italic toggle="yes">n</italic> = 6</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Age (years), mean (SD)</bold>
+</td><td align="char" rowspan="1" colspan="1">66.3 (7.22)</td><td align="char" rowspan="1" colspan="1">74.0 (8.89)</td><td align="char" rowspan="1" colspan="1">66.8 (1.94)</td><td align="char" rowspan="1" colspan="1">69.0 (6.10)</td><td align="char" rowspan="1" colspan="1">71.8 (5.15)</td><td align="char" rowspan="1" colspan="1">64.8 (5.91)</td><td align="char" rowspan="1" colspan="1">69.3 (4.84)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Female,</bold>
+<italic toggle="yes">n</italic>
+<bold>(%)</bold>
+</td><td align="char" rowspan="1" colspan="1">7 (58.3)</td><td align="char" rowspan="1" colspan="1">0 (0.0)</td><td align="char" rowspan="1" colspan="1">6 (100.0)</td><td align="char" rowspan="1" colspan="1">5 (83.3)</td><td align="char" rowspan="1" colspan="1">4 (66.7)</td><td align="char" rowspan="1" colspan="1">1 (16.7)</td><td align="char" rowspan="1" colspan="1">3 (50.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>White,</bold>
+<italic toggle="yes">n</italic>
+<bold>(%)</bold>
+</td><td align="char" rowspan="1" colspan="1">10 (83.3)</td><td align="char" rowspan="1" colspan="1">1 (33.0)</td><td align="char" rowspan="1" colspan="1">6 (100.0)</td><td align="char" rowspan="1" colspan="1">4 (66.7)</td><td align="char" rowspan="1" colspan="1">5 (83.3)</td><td align="char" rowspan="1" colspan="1">6 (100.0)</td><td align="char" rowspan="1" colspan="1">5 (83.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>BMI (kg/m<sup>2</sup>), mean (SD)</bold>
+</td><td align="char" rowspan="1" colspan="1">26.8 (2.90)</td><td align="char" rowspan="1" colspan="1">27.1 (3.40)</td><td align="char" rowspan="1" colspan="1">28.2 (1.67)</td><td align="char" rowspan="1" colspan="1">27.2 (2.74)</td><td align="char" rowspan="1" colspan="1">24.7 (1.68)</td><td align="char" rowspan="1" colspan="1">27.6 (3.70)</td><td align="char" rowspan="1" colspan="1">27.8 (2.29)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Baseline MMSE score, mean (SD)</bold>
+</td><td align="char" rowspan="1" colspan="1">21.8 (3.02)</td><td align="char" rowspan="1" colspan="1">22.0 (2.65)</td><td align="char" rowspan="1" colspan="1">22.3 (3.27)</td><td align="char" rowspan="1" colspan="1">22.5 (3.73)</td><td align="char" rowspan="1" colspan="1">22.2 (2.99)</td><td align="char" rowspan="1" colspan="1">21.0 (2.00)</td><td align="char" rowspan="1" colspan="1">23.2 (2.04)</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><thead><tr><th align="left" colspan="6" style="border-bottom:solid 1px #000000" rowspan="1">B. Multiple ascending dose (safety analysis set)</th></tr><tr><th align="left" rowspan="1" colspan="1"/><th align="char" rowspan="1" colspan="1"/><th align="left" colspan="4" style="border-bottom:solid 1px #000000" rowspan="1">MEDI1814</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">
+<p>Placebo</p>
+<p>
+<italic toggle="yes">n</italic> = 8</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>300 mg IV</p>
+<p>
+<italic toggle="yes">n</italic> = 6</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>900 mg IV</p>
+<p>
+<italic toggle="yes">n</italic> = 6</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>1800 mg IV</p>
+<p>
+<italic toggle="yes">n</italic> = 6</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>200 mg SC</p>
+<p>
+<italic toggle="yes">n</italic> = 6</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Age (years), mean (SD)</bold>
+</td><td align="char" rowspan="1" colspan="1">70.0 (5.90)</td><td align="char" rowspan="1" colspan="1">71.7 (6.62)</td><td align="char" rowspan="1" colspan="1">70.8 (6.62)</td><td align="char" rowspan="1" colspan="1">62.5 (6.16)</td><td align="char" rowspan="1" colspan="1">69.3 (8.71)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Female,</bold>
+<italic toggle="yes">n</italic>
+<bold>(%)</bold>
+</td><td align="char" rowspan="1" colspan="1">5 (62.5)</td><td align="char" rowspan="1" colspan="1">3 (50.0)</td><td align="char" rowspan="1" colspan="1">2 (33.3)</td><td align="char" rowspan="1" colspan="1">3 (50.0)</td><td align="char" rowspan="1" colspan="1">5 (83.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>White,</bold>
+<italic toggle="yes">n</italic>
+<bold>(%)</bold>
+</td><td align="char" rowspan="1" colspan="1">8 (100.0)</td><td align="char" rowspan="1" colspan="1">5 (83.3)</td><td align="char" rowspan="1" colspan="1">6 (100.0)</td><td align="char" rowspan="1" colspan="1">6 (100.0)</td><td align="char" rowspan="1" colspan="1">5 (83.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>BMI (kg/m<sup>2</sup>), mean (SD)</bold>
+</td><td align="char" rowspan="1" colspan="1">27.9 (2.90)</td><td align="char" rowspan="1" colspan="1">31.2 (0.73)</td><td align="char" rowspan="1" colspan="1">26.2 (4.45)</td><td align="char" rowspan="1" colspan="1">28.0 (3.93)</td><td align="char" rowspan="1" colspan="1">30.1 (1.52)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Baseline MMSE score, mean (SD)</bold>
+</td><td align="char" rowspan="1" colspan="1">22.1 (2.48)</td><td align="char" rowspan="1" colspan="1">19.8 (2.04)</td><td align="char" rowspan="1" colspan="1">20.2 (1.72)</td><td align="char" rowspan="1" colspan="1">20.0 (2.45)</td><td align="char" rowspan="1" colspan="1">22.5 (2.59)</td></tr></tbody></table><table-wrap-foot><fn id="alz14238-tbl1-note-0001"><p>Abbreviations: BMI, body mass index; IV, intravenous; MMSE, Mini‐Mental State Examination; SC, subcutaneous; SD, standard deviation.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><sec id="alz14238-sec-0290"><label>3.5.1</label><title>Pharmacodynamics</title><p>Relative to baseline, a dose‐dependent reduction of free Aβ<sub>42</sub> in CSF and increase in total (bound and free) Aβ<sub>42</sub> was observed at day 29 after single MEDI1814 doses; a profile consistent with antibody‐mediated target engagement of Aβ<sub>42</sub> in the central compartment (Figure <xref rid="alz14238-fig-0004" ref-type="fig">4A</xref>). Free Aβ<sub>42</sub> in CSF was reduced by ≈ 90% (median) in the highest dose cohorts (300–1800 mg IV), but lower levels of suppression were observed for the earlier doses: –72% (100 mg IV), –11% (100 mg SC), and –34% (25 mg IV) compared to –8% for placebo (see Figure <xref rid="alz14238-fig-0005" ref-type="fig">5</xref> and Table <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S2</xref> in supporting information). The CSF profile for free Aβ<sub>42</sub> over the MEDI1814 dose range was largely consistent with that predicted using the PK/PD model based on cynomolgus monkey data. Although the levels of free Aβ<sub>42</sub> suppression were greater than expected over the dose range 25 to 300 mg IV, near maximal levels of suppression were observed after the 900 and 1800 mg IV doses, as predicted (Figure <xref rid="alz14238-fig-0004" ref-type="fig">4A</xref>). The same trend was observed in repeat dosing of MEDI1814 (Figure <xref rid="alz14238-fig-0004" ref-type="fig">4B</xref>). At the higher dose levels, as expected, substantial increases in total (bound and free) Aβ<sub>42</sub> were observed: 273% (median, 1800 mg IV), 323% (900 mg IV), and 135% (300 mg IV), compared to 0.2% for placebo (Table <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S2</xref>). MEDI1814–placebo differences (least squares [LS] mean) for percentage change from baseline in free Aβ<sub>42</sub> in CSF ranged from –27% to –124%, and from 13% to 332% for total Aβ<sub>42</sub> over the dose range (Table <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S2</xref>). However, in keeping with the known selectivity of MEDI1814 for Aβ<sub>42</sub>, no significant changes from baseline in total Aβ<sub>40</sub> levels in CSF or in MEDI1814–placebo differences for Aβ<sub>40</sub> were observed (Table <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S2</xref>).</p><fig position="float" fig-type="FIGURE" id="alz14238-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Comparison of observed and predicted pharmacodynamic responses to MEDI1814 after administration to patients with AD. Data show median % change from baseline in CSF free Aβ<sub>42</sub> after administration of placebo and MEDI1814 single doses (25, 100, 300, 900, and 1800 mg IV or 100 mg SC in the single ascending dose study [A]) or repeat doses (300, 900, and 1800 mg IV or 200 mg SC, administered monthly in the multiple ascending dose study [B]). Relative to baseline, a dose‐dependent reduction of free Aβ<sub>42</sub> in CSF and increase in total (bound and free) Aβ<sub>42</sub> was observed at day 29 after single MEDI1814 doses (A). Near maximal levels of suppression were observed after the 900 and 1800 mg IV repeat doses (B). Aβ, amyloid beta; AD, Alzheimer's disease; CSF, cerebrospinal fluid; assay; IV, intravenous; SC, subcutaneous.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ALZ-20-7762-g002.jpg"/></fig><fig position="float" fig-type="FIGURE" id="alz14238-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Effect of MEDI1814 on CSF Aβ biomarkers after single and multiple dose administration to patients with AD. Data show percentage change from baseline to follow‐up day 29 in CSF levels of (A), free Aβ<sub>42</sub>, (B) total Aβ<sub>42</sub>, and (C) total Aβ<sub>40</sub> after single doses of placebo or MEDI1814 (25, 100, 300, 900, and 1800 mg IV or 100 mg SC). Median and individual data points are shown for % change from baseline. Free Aβ<sub>42</sub> in CSF was greatly reduced in the highest dose cohorts (300–1800 mg IV), but lower levels of suppression were observed for the lower doses (100 mg IV, 100 mg SC, and 25 mg IV), compared to placebo. All individual data with median values shown where baseline and post‐dose sample available. Data are pooled for the placebo group after single dosing across the dose range. Data are pooled for the placebo groups after multiple dosing according to administration (IV or SC). Green symbol – Aβ42 free data at LLOQ (single ascending dose = 32 pg/mL; multiple ascending dose = 12 pg/mL). Aβ, amyloid beta; AD, Alzheimer's disease; CSF, cerebrospinal fluid; IV, intravenous; LLOQ, lower limit of quantification; MAD, multiple ascending dose; SC, subcutaneous.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ALZ-20-7762-g001.jpg"/></fig><p>A comparable dose‐related CSF biomarker response was observed at day 85 for multiple doses of MEDI1814. Free Aβ<sub>42</sub> in CSF was reduced by 4% (median, placebo), 50% (300 mg IV), 67% (200 mg SC), and by ≈ 95% for the 900 and 1800 mg MEDI1814 IV doses (Figure <xref rid="alz14238-fig-0005" ref-type="fig">5</xref> and Table <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S3</xref> in supporting information). The observed profile for suppression of free Aβ<sub>42</sub> in the CSF was entirely consistent with the PK/PD profile predicted using cynomolgus monkey data (Figure <xref rid="alz14238-fig-0004" ref-type="fig">4</xref>). In contrast, increases in total Aβ<sub>42</sub> in the CSF of ≈ 70% to 800% (median) were observed over the MEDI1814 dose range, compared to ≈ –30% for placebo (Figure <xref rid="alz14238-fig-0005" ref-type="fig">5</xref> and Table <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S3</xref>). The profile was again reflected in the MEDI1814–placebo differences (LS mean) for change from baseline in free Aβ<sub>42</sub> (≈ –90% at the 900 and 1800 mg IV doses) and in total Aβ<sub>42</sub> (≈ 860% for the 1800 mg IV dose; Table <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S3</xref>). The multiple‐dose regimen further confirmed the absence of any significant change in the total Aβ<sub>40</sub> profile in the CSF after dosing with MEDI1814 (Figure <xref rid="alz14238-fig-0005" ref-type="fig">5</xref> and Table <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S3</xref>).</p><p>In addition to Aβ biomarkers, CSF and plasma samples from the multiple‐dose part of the study were evaluated for downstream biomarkers of AD including NfL and p‐tau217 as exploratory endpoints. CSF NfL levels were reduced by a median 53% compared to baseline levels after three monthly IV doses of MEDI1814 1800 mg compared to a median increase in placebo‐treated patients of 4% over the same time duration (Figure <xref rid="alz14238-fig-0006" ref-type="fig">6A</xref>). Plasma NfL levels were reduced by a median 21% compared to baseline levels after three monthly IV doses of MEDI1814 1800 mg compared to a median increase in placebo‐treated patients of 2% over the same time duration (Figure <xref rid="alz14238-fig-0006" ref-type="fig">6B</xref>). Significant correlation was observed across the CSF and plasma NfL measurements (Spearman r: 0.47 [<italic toggle="yes">p</italic>‐value &lt; 0.05] at baseline and 0.74 [<italic toggle="yes">p</italic>‐value &lt; 0.05] at the day 85 timepoint). These correlations were consistent with previously observed human age‐related profiles for NfL in serum and CSF.<xref rid="alz14238-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> In addition, a median reduction of plasma p‐tau217 of 36% was observed compared to baseline levels after three monthly IV doses of MEDI1814 1800 mg compared to a median increase in placebo treated patients of 3% over the same time duration (Figure <xref rid="alz14238-fig-0006" ref-type="fig">6C</xref>).</p><fig position="float" fig-type="FIGURE" id="alz14238-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Effect of MEDI1814 on CSF (A), plasma NfL (B), and p‐tau217 (C) levels after administration of three monthly IV doses to patients with AD. Compared to baseline, CSF NfL levels were reduced after three monthly IV doses of MEDI1814 1800 mg compared to a median increase in placebo‐treated patients (A). Similarly, plasma NfL levels were reduced after three monthly IV doses of MEDI1814 1800 mg compared to a median increase in placebo‐treated patients (B). Data are mean ± standard error. Aβ, amyloid beta; AD, Alzheimer's disease; CSF, cerebrospinal fluid; IV, intravenous; NfL, neurofilament light chain; p‐tau, phosphorylated tau.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="ALZ-20-7762-g004.jpg"/></fig></sec><sec id="alz14238-sec-0300"><label>3.5.2</label><title>Pharmacokinetics</title><p>The PK properties of MEDI1814 were consistent across single‐ and multiple‐dosing paradigms. Serum exposures were observed to be dose‐proportion, and concentrations declined in a biphasic manner with similar rates of elimination (effective mean serum half‐life ≈ 14–20 days; Figure <xref rid="alz14238-fig-0007" ref-type="fig">7</xref> and Table <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S4</xref> in supporting information). Mean clearance for MEDI1814 at steady state (day 57 after multiple doses) ranged from 145 to 223 mL/day<sup>−1</sup>. Serum accumulation of MEDI1814 over the period was moderate (0.75‐ to 1.15‐fold for C<sub>max</sub> and 0.83‐ to 1.62‐fold for AUC; mean across all doses; Table <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S5</xref> in supporting information). Median t<sub>max</sub> at steady state after multiple SC dosing was 14 days. MEDI1814 bioavailability after a single 100 mg SC dose was 33% (based on AUC<sub>0‐∞</sub> using 100 mg IV dose as reference). MEDI1814 was quantifiable in CSF at doses ≥ 300 mg after both single and repeat dose administration. CSF:serum concentration ratios ranged from 0.09% to 0.30% after single doses and from 0.08% to 0.59% after multiple doses.</p><fig position="float" fig-type="FIGURE" id="alz14238-fig-0007" orientation="portrait"><label>FIGURE 7</label><caption><p>Serum concentration profiles of MEDI1814 in patients with AD. (A) Single ascending dose. (B) Multiple ascending dose. Pharmacokinetic properties of MEDI1814 were consistent across single‐ and multiple‐dosing paradigms. Serum exposures were dose‐proportional, and concentrations declined in a biphasic manner with similar rates of elimination (effective mean serum half‐life ≈ 14–20 days). AD, Alzheimer's disease; IV, intravenous; MAD, multiple ascending dose; SAD, single ascending dose; SC, subcutaneous.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="ALZ-20-7762-g003.jpg"/></fig></sec><sec id="alz14238-sec-0310"><label>3.5.3</label><title>Tolerability and immunogenicity</title><p>MEDI1814 was generally well tolerated after single‐ and multiple‐dose administration in patients with AD. The incidence of AEs was comparable between MEDI1814 and placebo‐treated subjects (Tables <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S6 and S7</xref> in supporting information). There were no apparent dose‐related trends in the occurrence of AEs. Most events were assessed as mild, with few of moderate intensity; none were severe. No serious AEs, discontinuations due to AEs, or deaths were reported. There were no clinically significant changes in vital signs, electrocardiogram parameters, laboratory results, or on follow‐up physical and neurological examinations. There was no indication of cognitive deterioration (MMSE, data not shown), or of suicidal ideation or behavior (Columbia‐Suicide Severity Rating Scale, data not shown) after treatment.</p><p>Importantly, MRI assessments did not reveal any occurrences of ARIAs, either with respect to the formation of edema (ARIA‐E) or to hemosiderin deposition (ARIA‐H; Tables <xref rid="alz14238-supitem-0001" ref-type="supplementary-material">S8, S9, S10</xref> in supporting information). No ADA, otherwise suggestive of immunogenicity, were detected for any subject in the study (all titers &lt; 50).</p></sec></sec></sec><sec id="alz14238-sec-0320"><label>4</label><title>DISCUSSION</title><p>We hypothesized that Aβ<sub>42</sub> was the principal driver of amyloid toxicity in AD, and thus set out to selectively target Aβ<sub>42</sub> and not Aβ<sub>40</sub> using the monoclonal antibody MEDI1814. The approach was considered to offer potential benefits over existing therapeutic approaches as it would avoid a reduction in Aβ<sub>40</sub>, which may be neuroprotective, while also enabling robust suppression of the target Aβ<sub>42</sub>. We therefore prioritized target engagement throughout the development process, rather than using mouse models of cognitive function, for example Morris Water Maze, to guide decision making. In addition, it is recognized that these models do not typically enable demonstration of an effect size sufficient to allow for efficient PK/PD modeling and have generally not shown good clinical translation in the context of AD. We set about generating a high affinity (pM range) Aβ<sub>42</sub> selective antibody by panning human antibody phage display libraries to the peptide, and subsequent affinity maturation using directed evolution, which was achieved to generate MEDI1814.</p><p>Selectivity of MEDI1814 for Aβ<sub>42</sub> over Aβ<sub>40</sub> was demonstrated using in vitro peptide competition studies, which showed a &gt; 3 log unit difference in displacement of Aβ<sub>1‐42</sub> binding versus Aβ<sub>1‐40</sub>. This is remarkable, as Aβ<sub>42</sub> only differs from Aβ<sub>40</sub> by the additional two amino acids at the C‐terminus. However, Aβ<sub>42</sub> is reported to have more hairpin‐like structure at the C‐terminus compared to Aβ<sub>40</sub>,<xref rid="alz14238-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> which likely will have facilitated the observed selectivity. Peptide binding data also show that MEDI1814 can engage Aβ<sub>1‐43</sub>,<xref rid="alz14238-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> and the pyroglutamate modified Aβp<sub>3‐42</sub> and Aβp<sub>11‐42</sub>.<xref rid="alz14238-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="alz14238-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> This target engagement profile is considered potentially advantageous, as these are all clinically relevant forms of Aβ, enriched in the plaque of patients with AD and having similar propensity to form toxic oligomers.</p><p>In vivo, MEDI1814 reduced free Aβ<sub>42</sub> in CSF to the LOQ in rats and cynomolgus monkeys, with a concomitant increase in total Aβ<sub>42</sub> as the peptide assumes a longer half‐life due to high affinity binding to the antibody (an Aβ half‐life of hours<xref rid="alz14238-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> vs. 7 and 13 days for MEDI1814 in rats and cynomolgus monkey, respectively; Figures <xref rid="alz14238-fig-0002" ref-type="fig">2</xref> and <xref rid="alz14238-fig-0003" ref-type="fig">3</xref>). These effects agree with the in vitro peptide binding data showing selectivity for Aβ<sub>42</sub>, as no change in Aβ<sub>40</sub> was observed in either rat (brain or CSF) or cynomolgus monkey (CSF) after in vivo administration, even at high (100 mg/kg IV) doses. The rat data presented here clearly demonstrate a different profile from m266 (rodent version of solanezumab), which showed no change in free Aβ<sub>42</sub> in CSF but did increase total Aβ<sub>40</sub> in brain tissue. The fluid biomarker data presented here clearly demonstrate a different clinical profile from solanezumab, which showed increased total Aβ<sub>42</sub> and NfL.<xref rid="alz14238-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="alz14238-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> Upon cessation of MEDI1814 dosing, the levels of free and total Aβ<sub>42</sub> were observed to return toward baseline, indicating reversibility in both non‐clinical species. Furthermore, the plasma data for total Aβ<sub>42</sub> showed that an equilibrium of antibody–Aβ<sub>42</sub> complex is reached after three to four doses, which would also be expected to occur in CSF and brain compartments as an equilibrium of antibody–peptide complex formation and clearance is reached.</p><p>The non‐clinical target engagement data enabled the development of a translational PK/PD model that effectively predicted CSF Aβ<sub>42</sub> suppression in patients with AD after both single and multiple dosing. In clinical evaluation, MEDI1814 was observed to have similar Aβ pharmacodynamic characteristics to those observed in rats and cynomolgus monkeys; single and multiple dosing at the 900 and 1800 mg IV dose levels led to near maximal suppression of free Aβ<sub>42</sub> in CSF, together with a concomitant increase in total Aβ<sub>42</sub> and no change in Aβ<sub>40</sub>. The potential for MEDI1814 to almost fully suppress monomeric CSF Aβ<sub>42</sub> while sparing Aβ<sub>40</sub> provides an opportunity to test an aspect of the amyloid hypothesis that has not hitherto been possible. Interestingly, a reduction of plasma p‐tau217 and of CSF and plasma NfL levels from baseline was also observed after three monthly IV doses of MEDI1814 1800 mg suggesting an impact on downstream neurodegeneration process. This is the first observation of NfL lowering from baseline by an amyloid‐targeting immunotherapy, and the data would benefit from confirmation in another clinical study that included a larger sample.</p><p>Overall, MEDI1814 was well tolerated by the study subjects after both single‐ and multiple‐dose IV administration. There were no clinically important findings across any of the safety endpoints over the MEDI1814 dose range explored. There was no evidence of an immunogenic response to the antibody. Importantly, based on MRI evaluation, there was no evidence for provocation of either ARIA‐E or ARIA‐H after MEDI1814 exposure. It should be noted that PET with amyloid tracers was not included in this particular study as MEDI1814 was not designed to actively clear amyloid plaques. However, quantitative amyloid plaque estimation via PET should be included in future studies involving more patients and over a longer duration. This favorable safety profile is thought to be due to the mechanism‐of‐action of MEDI1814 by virtue of its capacity to sequester soluble Aβ<sub>42</sub>, rather than to bind and dissolute amyloid plaques, therefore precluding the need for effector function which may otherwise contribute to the increased ARIA observed with other amyloid targeting antibodies.</p><p>Herein, we have described the discovery, non‐clinical, and early clinical development, together with early data on downstream biomarkers for AD, of a fully human, effector‐null monoclonal antibody (MEDI1814) that has high affinity and selectivity for full‐length and N‐terminal truncated forms of Aβ<sub>42/43</sub> versus Aβ<sub>40</sub>. We believe that this could have advantages over other potential Aβ therapeutics evaluated to date, in terms of potential safety and efficacy, as there is preferential targeting of the key toxic building blocks of Aβ while sparing Aβ<sub>40</sub>. The question remains to be addressed as to whether selective reduction of free Aβ<sub>42</sub> can provide efficacy for patients with AD. In our opinion, late‐stage clinical evaluation of MEDI1814 may allow the most rigorous test of the involvement of Aβ in the initiation of AD to date, providing MEDI1814 is dosed in patients at a clinically relevant time frame for therapeutic intervention (e.g., in the pre‐symptomatic, prodromal, or early phases of the disease).</p></sec><sec id="alz14238-sec-0330"><title>AUTHOR CONTRIBUTIONS</title><p>Conceptualization: Christopher Lloyd, Maria T. Groves, Craig Shering, Keith Tan, Thor Ostenfeld, Iain P. Chessell, Andy Billinton, Jeffrey L. Dage. Methodology: Christopher Lloyd, Adrian Nickson, Maria T. Groves, Philip Newton, David Lowne, Anna Bogstedt, Michael Pomfret, Andy Billinton, Susanna Eketjäll, Maria T. Groves, Fraser Welsh, Susanne Gustavsson, Mary McFarlane, Richard Turner, Zulma Santisteban Valencia, Eva Lindqvist, Keith Tan, Tharani Chessell, Amanda D. Dudley, Thor Ostenfeld, Jeffrey L. Dage, Nicholas Kyle Proctor. Investigation: Susanne Gustavsson, Keith Tan, Michael Pomfret, Tharani Chessell, Amanda D. Dudley, Thor Ostenfeld. Visualization: Christopher Lloyd, Craig Shering, Keith Tan, Thor Ostenfeld, Anna Bogstedt. Funding acquisition: N/A. Project administration: Amanda D. Dudley. Supervision: Amanda D. Dudley. Writing—original draft: Christopher Lloyd, Craig Shering, Keith Tan, Thor Ostenfeld, Anna Bogstedt. Writing—review &amp; editing: Christopher Lloyd, Per‐Ola Freskgård, Philip Newton, David Lowne, Adrian Nickson, Anna Bogstedt, Susanna Eketjäll, Kina Höglund, Susanne Gustavsson, Fraser Welsh, Tharani Chessell, Mary McFarlane, Ratan V. Bhat, Richard Turner, Michael S. Perkinton, Zulma Santisteban Valencia, Eva Lindqvist, Michael Pomfret, Amanda D. Dudley, Tristan J. Vaughan, Maria T. Groves, Fanni Natanegara, Yingdong Feng, John R. Sims, Nicholas Kyle Proctor, Jeffrey L. Dage, Craig Shering, Keith Tan, Thor Ostenfeld, Iain P. Chessell, Andy Billinton. All authors contributed to study design and data interpretation, drafting the manuscript or revising it critically for important intellectual content, gave final approval of the version to be published, and agree to be accountable for all aspects of the work. Christopher Lloyd, Adrian Nickson, and Maria T. Groves designed and performed antibody engineering. Philip Newton performed peptide competition studies. David Lowne performed BIAcore studies. Anna Bogstedt, Michael Pomfret, Andy Billinton, Susanna Eketjäll, Maria T. Groves, Fraser Welsh, and Susanne Gustavsson designed and interpreted the rodent pharmacology studies. Mary McFarlane designed the 13‐week toxicology studies. Richard Turner, Zulma Santisteban Valencia, Eva Lindqvist, and Andy Billinton contributed to PK and PD analysis and PK‐PD modeling. Keith Tan, Michael Pomfret, Tharani Chessell, Amanda D. Dudley, and Thor Ostenfeld contributed to the design and running of the Phase 1 trial. Jeffrey L. Dage designed and interpreted the human plasma and CSF NfL and p‐tau217 studies. Nicholas Kyle Proctor performed human plasma P‐tau217 studies. Christopher Lloyd, Anna Bogstedt, Thor Ostenfeld, Mary McFarlane, Keith Tan wrote the manuscript with contributions and review from all authors.</p></sec><sec sec-type="COI-statement" id="alz14238-sec-0350"><title>CONFLICT OF INTEREST STATEMENT</title><p>CL, PN, DL, AN, ABo, SE, SG, FW, TC, MMcF, RVB, RT, MSP, ZSV, EL, MP, ADD, TJV, MTG, CS, KT, TO, IPC, and ABi are either current or former employees of AstraZeneca, and either own or owned shares/options in AstraZeneca. P‐OF is an inventor on patents or patent applications. FN, YF, JRS, NKP, and JLD are current or former employees of Eli Lilly. JLD is an inventor on patents or patent applications of Eli Lilly and Company relating to the assays, methods, reagents and / or compositions of matter for p‐tau assays. JLD has served as a consultant or on advisory boards for Eisai, Abbvie, Genotix Biotechnologies Inc, Gates Ventures, Karuna Therapeutics, AlzPath Inc., Cognito Therapeutics, Inc., and received research support from ADx Neurosciences, Fujirebio, AlzPath Inc., Roche Diagnostics, and Eli Lilly and Company in the past 2 years. JLD has received speaker fees from Eli Lilly and Company. JLD is a founder and advisor for Monument Biosciences. JLD has stock or stock options in Eli Lilly and Company, Genotix Biotechnologies, AlzPath Inc., and Monument Biosciences. MEDI1814 is covered by PCT patent application WO2014060444. KH has nothing to declare. Author disclosures are available in the <xref rid="alz14238-supitem-0002" ref-type="supplementary-material">supporting information</xref>.</p></sec><sec id="alz14238-sec-0380"><title>CONSENT STATEMENT</title><p>For studies involving humans, written informed consent was obtained from patients or their legal representative prior to any study procedures.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz14238-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-7762-s001.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14238-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-7762-s002.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz14238-sec-0340"><title>ACKNOWLEDGMENTS</title><p>The authors thank Alison Scott for project management of the 13‐week toxicology studies. The authors thank all participating patients, their families, and the study investigators. The authors also thank Vicky Hinstridge and Mark Davies of inScience Communications, Springer Healthcare Ltd, UK, for providing medical writing support, and Sophie Robinson of inScience Communications, Springer Healthcare Ltd, UK, for providing project management support, which was funded by AstraZeneca. AstraZeneca funded the study and had a role in study design, data collection, data analysis, data interpretation, and writing of the report. The corresponding author had full access to all the data and had final responsibility to submit for publication.</p></ack><sec sec-type="data-availability" id="alz14238-sec-0370"><title>DATA AVAILABILITY STATEMENT</title><p>The MEDI1814 Phase 1 clinical trial described here is registered on ClinicalTrials.gov with the reference <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT02036645">NCT02036645</ext-link>.</p></sec><ref-list id="alz14238-bibl-0001"><title>REFERENCES</title><ref id="alz14238-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="alz14238-cit-0001">
+<collab collab-type="authors">World Health Organization</collab>
+. <article-title>Dementia</article-title>. <year>2022</year>.</mixed-citation></ref><ref id="alz14238-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz14238-cit-0002">
+<string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Tredici</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>The pathological process underlying Alzheimer's disease in individuals under thirty</article-title>. <source>Acta Neuropathol</source>. <year>2011</year>;<volume>121</volume>:<fpage>171</fpage>‐<lpage>181</lpage>.<pub-id pub-id-type="pmid">21170538</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00401-010-0789-4</pub-id></mixed-citation></ref><ref id="alz14238-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz14238-cit-0003">
+<string-name name-style="western">
+<surname>Hardy</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Higgins</surname>
+<given-names>GA</given-names>
+</string-name>. <article-title>Alzheimer's disease: the amyloid cascade hypothesis</article-title>. <source>Science</source>. <year>1992</year>;<volume>256</volume>:<fpage>184</fpage>‐<lpage>185</lpage>.<pub-id pub-id-type="pmid">1566067</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1566067</pub-id></mixed-citation></ref><ref id="alz14238-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz14238-cit-0004">
+<string-name name-style="western">
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Testing times for the “amyloid cascade hypothesis”</article-title>. <source>Neurobiol Aging</source>. <year>2002</year>;<volume>23</volume>:<fpage>1073</fpage>‐<lpage>1074</lpage>.<pub-id pub-id-type="pmid">12470803</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0197-4580(02)00042-8</pub-id></mixed-citation></ref><ref id="alz14238-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz14238-cit-0005">
+<string-name name-style="western">
+<surname>Bogstedt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Groves</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Narwal</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McFarlane</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoglund</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Development of immunoassays for the quantitative assessment of amyloid‐beta in the presence of therapeutic antibody: application to pre‐clinical studies</article-title>. <source>J Alzheimers Dis</source>. <year>2015</year>;<volume>46</volume>:<fpage>1091</fpage>‐<lpage>1101</lpage>.<pub-id pub-id-type="pmid">26402635</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-142988</pub-id><pub-id pub-id-type="pmcid">PMC4878309</pub-id></mixed-citation></ref><ref id="alz14238-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz14238-cit-0006">
+<string-name name-style="western">
+<surname>Selkoe</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hardy</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The amyloid hypothesis of Alzheimer's disease at 25 years</article-title>. <source>EMBO Mol Med</source>. <year>2016</year>;<volume>8</volume>:<fpage>595</fpage>‐<lpage>608</lpage>.<pub-id pub-id-type="pmid">27025652</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.15252/emmm.201606210</pub-id><pub-id pub-id-type="pmcid">PMC4888851</pub-id></mixed-citation></ref><ref id="alz14238-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz14238-cit-0007">
+<string-name name-style="western">
+<surname>Walsh</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klyubin</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fadeeva</surname>
+<given-names>JV</given-names>
+</string-name>, et al. <article-title>Naturally secreted oligomers of amyloid beta protein potently inhibit hippocampal long‐term potentiation in vivo</article-title>. <source>Nature</source>. <year>2002</year>;<volume>416</volume>:<fpage>535</fpage>‐<lpage>539</lpage>.<pub-id pub-id-type="pmid">11932745</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/416535a</pub-id></mixed-citation></ref><ref id="alz14238-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz14238-cit-0008">
+<string-name name-style="western">
+<surname>Kayed</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lasagna‐Reeves</surname>
+<given-names>CA</given-names>
+</string-name>. <article-title>Molecular mechanisms of amyloid oligomers toxicity</article-title>. <source>J Alzheimers Dis</source>. <year>2013</year>;<volume>33</volume>(<issue>1</issue>):<fpage>S67</fpage>‐<lpage>S78</lpage>. Suppl.<pub-id pub-id-type="pmid">22531422</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-2012-129001</pub-id></mixed-citation></ref><ref id="alz14238-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz14238-cit-0009">
+<string-name name-style="western">
+<surname>Cline</surname>
+<given-names>EN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bicca</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Viola</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klein</surname>
+<given-names>WL</given-names>
+</string-name>. <article-title>The amyloid‐beta oligomer hypothesis: beginning of the third decade</article-title>. <source>J Alzheimers Dis</source>. <year>2018</year>;<volume>64</volume>:<fpage>S567</fpage>‐<lpage>S610</lpage>.<pub-id pub-id-type="pmid">29843241</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-179941</pub-id><pub-id pub-id-type="pmcid">PMC6004937</pub-id></mixed-citation></ref><ref id="alz14238-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz14238-cit-0010">
+<string-name name-style="western">
+<surname>Panza</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lozupone</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Watling</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Imbimbo</surname>
+<given-names>BP</given-names>
+</string-name>. <article-title>Do BACE inhibitor failures in Alzheimer patients challenge the amyloid hypothesis of the disease?</article-title>
+<source>Expert Rev Neurother</source>. <year>2019</year>;<volume>19</volume>:<fpage>599</fpage>‐<lpage>602</lpage>.<pub-id pub-id-type="pmid">31112433</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/14737175.2019.1621751</pub-id></mixed-citation></ref><ref id="alz14238-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz14238-cit-0011">
+<string-name name-style="western">
+<surname>El‐Agnaf</surname>
+<given-names>OM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Irvine</surname>
+<given-names>GB</given-names>
+</string-name>. <article-title>Review: formation and properties of amyloid‐like fibrils derived from alpha‐synuclein and related proteins</article-title>. <source>J Struct Biol</source>. <year>2000</year>;<volume>130</volume>:<fpage>300</fpage>‐<lpage>309</lpage>.<pub-id pub-id-type="pmid">10940234</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/jsbi.2000.4262</pub-id></mixed-citation></ref><ref id="alz14238-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz14238-cit-0012">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Onstead</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Randle</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Price</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smithson</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zwizinski</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Abeta40 inhibits amyloid deposition in vivo</article-title>. <source>J Neurosci</source>. <year>2007</year>;<volume>27</volume>:<fpage>627</fpage>‐<lpage>633</lpage>.<pub-id pub-id-type="pmid">17234594</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.4849-06.2007</pub-id><pub-id pub-id-type="pmcid">PMC6672801</pub-id></mixed-citation></ref><ref id="alz14238-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz14238-cit-0013">
+<string-name name-style="western">
+<surname>Kuperstein</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Broersen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benilova</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Neurotoxicity of Alzheimer's disease Abeta peptides is induced by small changes in the Abeta42 to Abeta40 ratio</article-title>. <source>EMBO J</source>. <year>2010</year>;<volume>29</volume>:<fpage>3408</fpage>‐<lpage>3420</lpage>.<pub-id pub-id-type="pmid">20818335</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/emboj.2010.211</pub-id><pub-id pub-id-type="pmcid">PMC2957213</pub-id></mixed-citation></ref><ref id="alz14238-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz14238-cit-0014">
+<string-name name-style="western">
+<surname>Saito</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suemoto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brouwers</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Potent amyloidogenicity and pathogenicity of Abeta43</article-title>. <source>Nat Neurosci</source>. <year>2011</year>;<volume>14</volume>:<fpage>1023</fpage>‐<lpage>1032</lpage>.<pub-id pub-id-type="pmid">21725313</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nn.2858</pub-id></mixed-citation></ref><ref id="alz14238-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz14238-cit-0015">
+<string-name name-style="western">
+<surname>Jawhar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wirths</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schilling</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Graubner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Demuth</surname>
+<given-names>HU</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bayer</surname>
+<given-names>TA</given-names>
+</string-name>. <article-title>Overexpression of glutaminyl cyclase, the enzyme responsible for pyroglutamate A{beta} formation, induces behavioral deficits, and glutaminyl cyclase knock‐out rescues the behavioral phenotype in 5XFAD mice</article-title>. <source>J Biol Chem</source>. <year>2011</year>;<volume>286</volume>:<fpage>4454</fpage>‐<lpage>4460</lpage>.<pub-id pub-id-type="pmid">21148560</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M110.185819</pub-id><pub-id pub-id-type="pmcid">PMC3039372</pub-id></mixed-citation></ref><ref id="alz14238-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz14238-cit-0016">
+<string-name name-style="western">
+<surname>Perez‐Garmendia</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gevorkian</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Pyroglutamate‐modified amyloid beta peptides: emerging targets for Alzheimer s disease immunotherapy</article-title>. <source>Curr Neuropharmacol</source>. <year>2013</year>;<volume>11</volume>:<fpage>491</fpage>‐<lpage>498</lpage>.<pub-id pub-id-type="pmid">24403873</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1570159X11311050004</pub-id><pub-id pub-id-type="pmcid">PMC3763757</pub-id></mixed-citation></ref><ref id="alz14238-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz14238-cit-0017">
+<string-name name-style="western">
+<surname>Meissner</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bouter</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bayer</surname>
+<given-names>TA</given-names>
+</string-name>. <article-title>Neuron loss and behavioral deficits in the TBA42 mouse model expressing N‐truncated pyroglutamate amyloid‐beta3‐42</article-title>. <source>J Alzheimers Dis</source>. <year>2015</year>;<volume>45</volume>:<fpage>471</fpage>‐<lpage>482</lpage>.<pub-id pub-id-type="pmid">25547635</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-142868</pub-id></mixed-citation></ref><ref id="alz14238-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz14238-cit-0018">
+<string-name name-style="western">
+<surname>Mintun</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lo</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duggan Evans</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wessels</surname>
+<given-names>AM</given-names>
+</string-name>, et al. <article-title>Donanemab in early Alzheimer's disease</article-title>. <source>N Engl J Med</source>. <year>2021</year>;<volume>384</volume>:<fpage>1691</fpage>‐<lpage>1704</lpage>.<pub-id pub-id-type="pmid">33720637</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2100708</pub-id></mixed-citation></ref><ref id="alz14238-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz14238-cit-0019">
+<string-name name-style="western">
+<surname>van Dyck</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swanson</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aisen</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Lecanemab in early Alzheimer's disease</article-title>. <source>N Engl J Med</source>. <year>2022</year>;<volume>388</volume>:<fpage>9</fpage>‐<lpage>21</lpage>.<pub-id pub-id-type="pmid">36449413</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa2212948</pub-id></mixed-citation></ref><ref id="alz14238-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz14238-cit-0020">
+<string-name name-style="western">
+<surname>Budd Haeberlein</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Gorman</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chiao</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Clinical development of aducanumab, an anti‐aβ human monoclonal antibody being investigated for the treatment of early Alzheimer's disease</article-title>. <source>J Prev Alzheimers Dis</source>. <year>2017</year>;<volume>4</volume>:<fpage>255</fpage>‐<lpage>263</lpage>.<pub-id pub-id-type="pmid">29181491</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.14283/jpad.2017.39</pub-id></mixed-citation></ref><ref id="alz14238-bib-0021"><label>21</label><mixed-citation publication-type="miscellaneous" id="alz14238-cit-0021">
+<collab collab-type="authors">US Food &amp; Drug Administration</collab>
+. <article-title>Drug Approval Package: Aduhelm (aducanumab‐avwa)</article-title>. <year>2021</year>.</mixed-citation></ref><ref id="alz14238-bib-0022"><label>22</label><mixed-citation publication-type="miscellaneous" id="alz14238-cit-0022">
+<collab collab-type="authors">US Food &amp; Drug Administration</collab>
+. <article-title>Drugs@FDA: FDA‐Approved Drugs—Lecanemab irmb</article-title>. <year>2023</year>.</mixed-citation></ref><ref id="alz14238-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz14238-cit-0023">
+<string-name name-style="western">
+<surname>Willis</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sundell</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lachno</surname>
+<given-names>DR</given-names>
+</string-name>, et al. <article-title>Central pharmacodynamic activity of solanezumab in mild Alzheimer's disease dementia</article-title>. <source>Alzheimers Dement (N Y)</source>. <year>2018</year>;<volume>4</volume>:<fpage>652</fpage>‐<lpage>660</lpage>.<pub-id pub-id-type="pmid">30511011</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.trci.2018.10.001</pub-id><pub-id pub-id-type="pmcid">PMC6258891</pub-id></mixed-citation></ref><ref id="alz14238-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz14238-cit-0024">
+<string-name name-style="western">
+<surname>Siemers</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sundell</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carlson</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Phase 3 solanezumab trials: secondary outcomes in mild Alzheimer's disease patients</article-title>. <source>Alzheimers Dement</source>. <year>2016</year>;<volume>12</volume>:<fpage>110</fpage>‐<lpage>120</lpage>.<pub-id pub-id-type="pmid">26238576</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2015.06.1893</pub-id></mixed-citation></ref><ref id="alz14238-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz14238-cit-0025">
+<string-name name-style="western">
+<surname>Plotkin</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cashman</surname>
+<given-names>NR</given-names>
+</string-name>. <article-title>Passive immunotherapies targeting Aβ and tau in Alzheimer's disease</article-title>. <source>Neurobiol Dis</source>. <year>2020</year>;<volume>144</volume>:<elocation-id>105010</elocation-id>.<pub-id pub-id-type="pmid">32682954</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.nbd.2020.105010</pub-id><pub-id pub-id-type="pmcid">PMC7365083</pub-id></mixed-citation></ref><ref id="alz14238-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz14238-cit-0026">
+<string-name name-style="western">
+<surname>McKhann</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knopman</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chertkow</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>The diagnosis of dementia due to Alzheimer's disease: recommendations from the National Institute on Aging‐Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2011</year>;<volume>7</volume>:<fpage>263</fpage>‐<lpage>269</lpage>.<pub-id pub-id-type="pmid">21514250</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2011.03.005</pub-id><pub-id pub-id-type="pmcid">PMC3312024</pub-id></mixed-citation></ref><ref id="alz14238-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz14238-cit-0027">
+<string-name name-style="western">
+<surname>Daramola</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stevenson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dean</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>A high‐yielding CHO transient system: coexpression of genes encoding EBNA‐1 and GS enhances transient protein expression</article-title>. <source>Biotechnol Prog</source>. <year>2014</year>;<volume>30</volume>:<fpage>132</fpage>‐<lpage>141</lpage>.<pub-id pub-id-type="pmid">24106171</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/btpr.1809</pub-id></mixed-citation></ref><ref id="alz14238-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz14238-cit-0028">
+<string-name name-style="western">
+<surname>Hoet</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohen</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kent</surname>
+<given-names>RB</given-names>
+</string-name>, et al. <article-title>Generation of high‐affinity human antibodies by combining donor‐derived and synthetic complementarity‐determining‐region diversity</article-title>. <source>Nat Biotechnol</source>. <year>2005</year>;<volume>23</volume>:<fpage>344</fpage>‐<lpage>348</lpage>.<pub-id pub-id-type="pmid">15723048</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nbt1067</pub-id></mixed-citation></ref><ref id="alz14238-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz14238-cit-0029">
+<string-name name-style="western">
+<surname>Hawkins</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Russell</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Winter</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Selection of phage antibodies by binding affinity. Mimicking affinity maturation</article-title>. <source>J Mol Biol</source>. <year>1992</year>;<volume>226</volume>:<fpage>889</fpage>‐<lpage>896</lpage>.<pub-id pub-id-type="pmid">1507232</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0022-2836(92)90639-2</pub-id></mixed-citation></ref><ref id="alz14238-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz14238-cit-0030">
+<string-name name-style="western">
+<surname>Vaughan</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pritchard</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Human antibodies with sub‐nanomolar affinities isolated from a large non‐immunized phage display library</article-title>. <source>Nat Biotechnol</source>. <year>1996</year>;<volume>14</volume>:<fpage>309</fpage>‐<lpage>314</lpage>.<pub-id pub-id-type="pmid">9630891</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nbt0396-309</pub-id></mixed-citation></ref><ref id="alz14238-bib-0031"><label>31</label><mixed-citation publication-type="book" id="alz14238-cit-0031">
+<string-name name-style="western">
+<surname>Clarkson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lowman</surname>
+<given-names>HB</given-names>
+</string-name>. <source>Phage Display: A Practical Approach</source>. <publisher-name>Oxford University Press</publisher-name>, <year>2004</year>; 2004.</mixed-citation></ref><ref id="alz14238-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz14238-cit-0032">
+<string-name name-style="western">
+<surname>Lewis</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lloyd</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Optimisation of antibody affinity by ribosome display using error‐prone or site‐directed mutagenesis</article-title>. <source>Methods Mol Biol (Clifton, NJ)</source>. <year>2012</year>;<volume>805</volume>:<fpage>139</fpage>‐<lpage>161</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-1-61779-379-0_9</pub-id><pub-id pub-id-type="pmid">22094805</pub-id></mixed-citation></ref><ref id="alz14238-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz14238-cit-0033">
+<string-name name-style="western">
+<surname>Karlsson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michaelsson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mattsson</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Kinetic analysis of monoclonal antibody‐antigen interactions with a new biosensor based analytical system</article-title>. <source>J Immunol Methods</source>. <year>1991</year>;<volume>145</volume>:<fpage>229</fpage>‐<lpage>240</lpage>.<pub-id pub-id-type="pmid">1765656</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0022-1759(91)90331-9</pub-id></mixed-citation></ref><ref id="alz14238-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz14238-cit-0034">
+<string-name name-style="western">
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Puig‐Pijoan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mila‐Aloma</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Plasma and CSF biomarkers in a memory clinic: head‐to‐head comparison of phosphorylated tau immunoassays</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>:<fpage>1913</fpage>‐<lpage>1924</lpage>.<pub-id pub-id-type="pmid">36370462</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12841</pub-id><pub-id pub-id-type="pmcid">PMC10762642</pub-id></mixed-citation></ref><ref id="alz14238-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz14238-cit-0035">
+<string-name name-style="western">
+<surname>Sperling</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aisen</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beckett</surname>
+<given-names>LA</given-names>
+</string-name>, et al. <article-title>Toward defining the preclinical stages of Alzheimer's disease: recommendations from the National Institute on Aging‐Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2011</year>;<volume>7</volume>:<fpage>280</fpage>‐<lpage>292</lpage>.<pub-id pub-id-type="pmid">21514248</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2011.03.003</pub-id><pub-id pub-id-type="pmcid">PMC3220946</pub-id></mixed-citation></ref><ref id="alz14238-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz14238-cit-0036">
+<string-name name-style="western">
+<surname>Groves</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nickson</surname>
+<given-names>AA</given-names>
+</string-name>. <article-title>Affinity maturation of phage display antibody populations using ribosome display</article-title>. <source>Methods Mol Biol (Clifton, NJ)</source>. <year>2012</year>;<volume>805</volume>:<fpage>163</fpage>‐<lpage>190</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-1-61779-379-0_10</pub-id><pub-id pub-id-type="pmid">22094806</pub-id></mixed-citation></ref><ref id="alz14238-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz14238-cit-0037">
+<string-name name-style="western">
+<surname>Oganesyan</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Damschroder</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leach</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dall'Acqua</surname>
+<given-names>WF</given-names>
+</string-name>. <article-title>Structural characterization of a mutated, ADCC‐enhanced human Fc fragment</article-title>. <source>Mol Immunol</source>. <year>2008</year>;<volume>45</volume>:<fpage>1872</fpage>‐<lpage>1882</lpage>.<pub-id pub-id-type="pmid">18078997</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.molimm.2007.10.042</pub-id></mixed-citation></ref><ref id="alz14238-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz14238-cit-0038">
+<string-name name-style="western">
+<surname>Khalil</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pirpamer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hofer</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Serum neurofilament light levels in normal aging and their association with morphologic brain changes</article-title>. <source>Nat Commun</source>. <year>2020</year>;<volume>11</volume>:<fpage>812</fpage>.<pub-id pub-id-type="pmid">32041951</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-020-14612-6</pub-id><pub-id pub-id-type="pmcid">PMC7010701</pub-id></mixed-citation></ref><ref id="alz14238-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz14238-cit-0039">
+<string-name name-style="western">
+<surname>Sgourakis</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCallum</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia</surname>
+<given-names>AE</given-names>
+</string-name>. <article-title>The Alzheimer's peptides Abeta40 and 42 adopt distinct conformations in water: a combined MD /NMR study</article-title>. <source>J Mol Biol</source>. <year>2007</year>;<volume>368</volume>:<fpage>1448</fpage>‐<lpage>1457</lpage>.<pub-id pub-id-type="pmid">17397862</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jmb.2007.02.093</pub-id><pub-id pub-id-type="pmcid">PMC1978067</pub-id></mixed-citation></ref><ref id="alz14238-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz14238-cit-0040">
+<string-name name-style="western">
+<surname>Schilling</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pascoal</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zimmer</surname>
+<given-names>ER</given-names>
+</string-name>, et al. <article-title>Regional amyloid‐beta load and white matter abnormalities contribute to hypometabolism in Alzheimer's dementia</article-title>. <source>Mol Neurobiol</source>. <year>2019</year>;<volume>56</volume>:<fpage>4916</fpage>‐<lpage>4924</lpage>.<pub-id pub-id-type="pmid">30414086</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12035-018-1405-1</pub-id></mixed-citation></ref><ref id="alz14238-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz14238-cit-0041">
+<string-name name-style="western">
+<surname>Schlenzig</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manhart</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cinar</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Pyroglutamate formation influences solubility and amyloidogenicity of amyloid peptides</article-title>. <source>Biochemistry</source>. <year>2009</year>;<volume>48</volume>:<fpage>7072</fpage>‐<lpage>7078</lpage>.<pub-id pub-id-type="pmid">19518051</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/bi900818a</pub-id></mixed-citation></ref><ref id="alz14238-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz14238-cit-0042">
+<string-name name-style="western">
+<surname>Patterson</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elbert</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mawuenyega</surname>
+<given-names>KG</given-names>
+</string-name>, et al. <article-title>Age and amyloid effects on human central nervous system amyloid‐beta kinetics</article-title>. <source>Ann Neurol</source>. <year>2015</year>;<volume>78</volume>:<fpage>439</fpage>‐<lpage>453</lpage>.<pub-id pub-id-type="pmid">26040676</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.24454</pub-id><pub-id pub-id-type="pmcid">PMC4546566</pub-id></mixed-citation></ref><ref id="alz14238-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz14238-cit-0043">
+<string-name name-style="western">
+<surname>Farlow</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arnold</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Dyck</surname>
+<given-names>CH</given-names>
+</string-name>, et al. <article-title>Safety and biomarker effects of solanezumab in patients with Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2012</year>;<volume>8</volume>:<fpage>261</fpage>‐<lpage>271</lpage>.<pub-id pub-id-type="pmid">22672770</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2011.09.224</pub-id></mixed-citation></ref><ref id="alz14238-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz14238-cit-0044">
+<string-name name-style="western">
+<surname>Salloway</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farlow</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDade</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>A trial of gantenerumab or solanezumab in dominantly inherited Alzheimer's disease</article-title>. <source>Nat Med</source>. <year>2021</year>;<volume>27</volume>:<fpage>1187</fpage>‐<lpage>1196</lpage>.<pub-id pub-id-type="pmid">34155411</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-021-01369-8</pub-id><pub-id pub-id-type="pmcid">PMC8988051</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

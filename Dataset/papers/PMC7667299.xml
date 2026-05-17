@@ -1,0 +1,1220 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Brain Behav</journal-id><journal-id journal-id-type="iso-abbrev">Brain Behav</journal-id><journal-id journal-id-type="pmc-domain-id">1650</journal-id><journal-id journal-id-type="pmc-domain">brb</journal-id><journal-id journal-id-type="publisher-id">BRB3</journal-id><journal-title-group><journal-title>Brain and Behavior</journal-title></journal-title-group><issn pub-type="epub">2162-3279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7667299</article-id><article-id pub-id-type="pmcid-ver">PMC7667299.1</article-id><article-id pub-id-type="pmcaid">7667299</article-id><article-id pub-id-type="pmcaiid">7667299</article-id><article-id pub-id-type="pmid">32914577</article-id><article-id pub-id-type="doi">10.1002/brb3.1831</article-id><article-id pub-id-type="publisher-id">BRB31831</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Memantine, Donepezil, or Combination Therapy—What is the best therapy for Alzheimer’s Disease? A Network Meta‐Analysis</article-title><alt-title alt-title-type="left-running-head">GUO et al.</alt-title></title-group><contrib-group><contrib id="brb31831-cr-0001" contrib-type="author"><name name-style="western"><surname>Guo</surname><given-names initials="J">Jiaxun</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9455-5618</contrib-id><xref ref-type="aff" rid="brb31831-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="brb31831-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Wang</surname><given-names initials="Z">Zhenyu</given-names></name><xref ref-type="aff" rid="brb31831-aff-0001">
+<sup>1</sup>
+</xref><address><email>wangzhenyudr@163.com</email></address></contrib><contrib id="brb31831-cr-0003" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="R">Ruishu</given-names></name><xref ref-type="aff" rid="brb31831-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="brb31831-cr-0004" contrib-type="author"><name name-style="western"><surname>Huang</surname><given-names initials="Y">Yunxia</given-names></name><xref ref-type="aff" rid="brb31831-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="brb31831-cr-0005" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="N">Nan</given-names></name><xref ref-type="aff" rid="brb31831-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="brb31831-cr-0006" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="R">Ruihan</given-names></name><xref ref-type="aff" rid="brb31831-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="brb31831-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Rehabilitation Medicine</named-content>
+<institution>Yongchuan Hospital</institution>
+<institution>Chongqing Medical University</institution>
+<city>Chongqing</city>
+<country country="CN">China</country>
+</aff><aff id="brb31831-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Dermatology</named-content>
+<institution>Yongchuan Hospital</institution>
+<institution>Chongqing Medical University</institution>
+<city>Chongqing</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Zhenyu Wang, Department of Rehabilitation Medicine, Yongchuan Hospital, Chongqing Medical University, Chongqing, 402160, China.<break/>
+Email: <email>wangzhenyudr@163.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>9</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2020</year></pub-date><volume>10</volume><issue>11</issue><issue-id pub-id-type="pmc-issue-id">368862</issue-id><issue-id pub-id-type="doi">10.1002/brb3.v10.11</issue-id><elocation-id>e01831</elocation-id><history><date date-type="received"><day>16</day><month>5</month><year>2020</year></date><date date-type="rev-recd"><day>23</day><month>7</month><year>2020</year></date><date date-type="accepted"><day>17</day><month>8</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>10</day><month>09</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>20</day><month>11</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-08-02 22:25:27.893"><day>02</day><month>08</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. <italic toggle="yes">Brain and Behavior</italic> published by Wiley Periodicals LLC.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="BRB3-10-e01831.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:BRB3-10-e01831.pdf"/><abstract id="brb31831-abs-0001"><title>Abstract</title><sec id="brb31831-sec-0001"><title>Introduction</title><p>Alzheimer's disease (AD) is a degenerative brain disease that progresses over time, heavily burdening patients, families, and aging societies worldwide. Memantine and donepezil are frequently used in its treatment, both as monotherapy and in combination. This multiple treatment comparison meta‐analysis assessed the efficacy of these regimens and placebo in the management of AD.</p></sec><sec id="brb31831-sec-0002"><title>Methods</title><p>We searched PubMed, Embase, the Cochrane Library, and Wanfang Med Online and China National Knowledge Infrastructure for English and Chinese publications from the first records to 17 April 2020. Two investigators scanned articles for placebo‐controlled trials of memantine and donepezil alone and in combination. We extracted data on the following outcomes: cognition, global assessment, daily activities, neuropsychiatric symptoms, adverse events, and the acceptability and cost of these treatment regimens.</p></sec><sec id="brb31831-sec-0003"><title>Results</title><p>Of 936 records screened, we included 54 trials in this analysis. The combination therapy was more effective in improving cognition (mean difference (MD)‐5.01, 95% credible interval (95% Crl) −10.73 to 0.86 in the Alzheimer's Disease Assessment Scale‐Cognitive Subscale; MD 9.61, 95% Crl 2.29 to 16.97 in the Severe Impairment Battery), global assessment (MD −2.88, 95% Crl −6.04 to 0.40), daily activities (MD 13.06, 95% Crl −34.04 to 58.92), and neuropsychiatric symptoms (MD −6.84, 95% Crl −10.62 to –2.82) compared with placebo. Memantine was more acceptable than placebo (MD 0.93, 95% Crl 0.69 to 1.22).</p></sec><sec id="brb31831-sec-0004"><title>Conclusions</title><p>Memantine plus donepezil showed superior outcomes for cognition, global assessment, daily activities, and neuropsychiatric symptoms, but lower acceptability than monotherapy and placebo. Combination therapy may be more cost‐effective, because memantine slows the progression of AD.</p></sec></abstract><abstract abstract-type="graphical" id="brb31831-abs-0002"><p>Memantine and donepezil are frequently used in its treatment, both as monotherapy and in combination. This multiple treatment comparison meta‐analysis assessed the efficacy of these regimens and placebo in the management of AD.<boxed-text position="anchor" content-type="graphic" id="brb31831-blkfxd-0001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="nlm-graphic-1" orientation="portrait" xlink:href="BRB3-10-e01831-g008.jpg"/></boxed-text>
+</p></abstract><kwd-group><kwd id="brb31831-kwd-0001">Acceptability of healthcare</kwd><kwd id="brb31831-kwd-0002">Activities of daily living</kwd><kwd id="brb31831-kwd-0003">Alzheimer disease</kwd><kwd id="brb31831-kwd-0004">Cognitive function</kwd><kwd id="brb31831-kwd-0005">Cost effectiveness</kwd><kwd id="brb31831-kwd-0006">Disease progress</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>81674066</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Natural Science Foundation of Chongqing </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100005230</institution-id></institution-wrap></funding-source><award-id>cstc2017jcyjAX0397</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="1"/><page-count count="13"/><word-count count="6801"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.4 mode:remove_FC converted:16.11.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="brb31831-cit-1001">
+<string-name name-style="western">
+<surname>Guo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Memantine, Donepezil, or Combination Therapy—What is the best therapy for Alzheimer’s Disease? A Network Meta‐Analysis</article-title>. <source xml:lang="en">Brain Behav</source>. <year>2020</year>;<volume>10</volume>:<elocation-id>e01831</elocation-id>
+<pub-id pub-id-type="doi">10.1002/brb3.1831</pub-id>
+<pub-id pub-id-type="pmcid">PMC7667299</pub-id><pub-id pub-id-type="pmid">32914577</pub-id></mixed-citation>
+</p></notes></front><body id="brb31831-body-0001"><sec id="brb31831-sec-0005"><label>1</label><title>INTRODUCTION</title><p>With aging populations worldwide, the prevalence of chronic diseases, including Alzheimer's disease (AD), increases continuously. Alzheimer's disease (AD), the most common cause of dementia (Alzheimer’s Association, <xref rid="brb31831-bib-0003" ref-type="ref">2020</xref>), heavily burdening patients, families, and aging societies worldwide. According to the “World Alzheimer Report, <xref rid="brb31831-bib-0035" ref-type="ref">2015</xref>: The Global Impact of Dementia (World Alzheimer Report, <xref rid="brb31831-bib-0035" ref-type="ref">2015</xref>),” over 35 million people currently live with AD worldwide. Moreover, the number of patients is estimated to rise to 60 million by 2050 (Ansari, Satar, Perveen, &amp; Ashraf, <xref rid="brb31831-bib-0004" ref-type="ref">2017</xref>). AD is a chronic degenerative brain disease, but its cause is not entirely clear at this point. Symptoms of AD include memory loss, difficulty in completing familiar tasks, problems in understanding visual images and spatial relationships, and mood and personality changes, among others(Alzheimer’s Association, <xref rid="brb31831-bib-0002" ref-type="ref">2019</xref>). Current studies (Albert et al., <xref rid="brb31831-bib-0001" ref-type="ref">2011</xref>; Sperling et al., <xref rid="brb31831-bib-0027" ref-type="ref">2011</xref>; Tao et al., <xref rid="brb31831-bib-0029" ref-type="ref">2020</xref>) show that before patients are diagnosed with AD, they have experienced a long period of preclinical AD, which is considered to be a critical phase for therapeutic interventions. The pathological cascade does not synchronize with the emergence of clinical symptoms of AD. However, some individuals with the pathological cascade process may not progress to AD. Before AD, there is also the stage of mild cognitive impairment (MCI) of variable length and means that patients will live for many years with this disability before death. Furthermore, there is no must of MCI progressing to AD, and it increases the risk for AD.</p><p>Thus, it is difficult to diagnose the condition during the preclinical phase, and many AD patients get diagnosed only during the time of symptomatic predementia phase, which also refer to MCI due to AD. Unfortunately, all of the currently available pharmacologic treatments are easing rather than curing the symptoms. Donepezil, an acetylcholinesterase inhibitor (AChEI), is supported by sufficient data (Haake, Nguyen, Friedman, Chakkamparambil, &amp; Grossberg, <xref rid="brb31831-bib-0017" ref-type="ref">2020</xref>) to prove its effect of symptomatic treatment. Memantine, an N‐methyl‐D‐aspartate (NMDA) receptor antagonist, has also been confirmed to be effective in improving memory, awareness, and daily activities of AD patients (Conway, <xref rid="brb31831-bib-0009" ref-type="ref">2020</xref>).</p><p>The U.S. Food and Drug Administration (FDA) has approved the use of Namzaric® (Allergan Inc., Dublin, Ireland), a combination of donepezil and memantine as an extended release preparation for the combination therapy of patients with moderate‐to‐severe AD. However, the European Medicines Agency (EMA) declined the approval of Acrescent (Lundbeck Inc., Copenhagen, Denmark), a fixed‐dose combination of memantine hydrochloride and donepezil hydrochloride for use in moderate‐to‐severe AD because of a lack of evidence for the effectiveness of the combination therapy (Calhoun, King, Khoury, &amp; Grossberg, <xref rid="brb31831-bib-0006" ref-type="ref">2018</xref>; Withdrawal assessment report, <xref rid="brb31831-bib-0034" ref-type="ref">2012</xref>).</p><p>Some studies (Ashraf et al., <xref rid="brb31831-bib-0005" ref-type="ref">2019</xref>; Marta, Katarzyna, &amp; Jerzy, <xref rid="brb31831-bib-0022" ref-type="ref">2017</xref>; Sung, Lin, Liu, Su, &amp; Tsai, <xref rid="brb31831-bib-0028" ref-type="ref">2020</xref>; Yoshiyama, Kojima, Ishikawa, &amp; Arai, <xref rid="brb31831-bib-0036" ref-type="ref">2010</xref>） found indications of a potential infectious agents and chronic inflammation of AD and consecutively sought to treat AD patients with antimicrobial therapy and anti‐inflammatory therapeutics. However, because of the limited range of antiviral preparations and the immaturity of these theories, this approach is not widely used in clinical. Thus, these traditional antidementia medications are still of great significance in the clinical setting.</p><p>Therefore, we performed a systematic review and network meta‐analysis to compare the effect, acceptability, adverse events, and cost of memantine and donepezil, both given individually and in combination, with the aim to provide a better choice or new approach for the treatment of AD patients.</p></sec><sec sec-type="methods" id="brb31831-sec-0006"><label>2</label><title>METHODS</title><sec id="brb31831-sec-0007"><label>2.1</label><title>Search strategy</title><p>We searched for “Alzheimer disease”, “Alzheimer's disease”, “Alzheimer Dementia” and “memantine” and “donepezil” as medical subject headings/keywords in the databases PubMed, Embase, the Cochrane Library, Wanfang Med Online (one of the most used Chinese databases), and China National Knowledge Infrastructure (CNKI, another frequently used Chinese database) from the first record to April 17, 2020. Furthermore, we identified additional articles from the reference lists of the articles to avoid the omission of relevant results.</p></sec><sec id="brb31831-sec-0008"><label>2.2</label><title>Selection of studies</title><p>The selection process of studies is illustrated in Figure <xref rid="brb31831-fig-0001" ref-type="fig">1</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="brb31831-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Study selection for a network meta‐analysis on Alzheimer's disease treatment (flow diagram)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="BRB3-10-e01831-g001.jpg"/></fig><p>Two investigators independently scanned the titles and abstracts of the identified 936 studies that remained after eliminating duplicates and then read the full text intensively to select the articles meeting the inclusion criteria.</p></sec><sec id="brb31831-sec-0009"><label>2.3</label><title>Selection criteria</title><p>The inclusion criteria for randomized controlled trials (RCTs) in this systematic review were as follows:
+<list list-type="order" id="brb31831-list-0001"><list-item><p>published in either English or Chinese;</p></list-item><list-item><p>double‐blind or single‐blind trials;</p></list-item><list-item><p>endpoints had been published or could be retrieved online;</p></list-item><list-item><p>inclusion of patients diagnosed with AD or suspected AD according to the following scales (Fratiglioni, Grut, Forsell, Viitanen, &amp; Winblad, <xref rid="brb31831-bib-0014" ref-type="ref">1992</xref>; McKhann et al., <xref rid="brb31831-bib-0023" ref-type="ref">1984</xref>; Schneider, Arvanitakis, Leurgans, &amp; Bennett, <xref rid="brb31831-bib-0026" ref-type="ref">2009</xref>): the Diagnostic and Statistical Manual of Mental Disorders, National Institute of Neurological and Communicative Disorders and Strokes‐Alzheimer's Disease and Related Disorders Association criteria (NINCDS‐ADRDA).</p></list-item></list>
+</p><p>Exclusion criteria:
+<list list-type="order" id="brb31831-list-0002"><list-item><p>studies were not RCTs, or RCTs without endpoints;</p></list-item><list-item><p>patients with other dementia, such as Parkinson disease‐induced dementia;</p></list-item><list-item><p>patients who did not have stable vital signs.</p></list-item></list>
+</p><p>A third investigator would participate when the two primary investigators disagreed about the inclusion of a study. We describe the specific characteristics of the eventually included 54 studies in the Appendix.</p></sec><sec id="brb31831-sec-0010"><label>2.4</label><title>Data extraction and quality assessment</title><p>Two investigators extracted the basic study characteristics from the full articles independently, and the quality of the included studies was assessed by the computer program Review Manager (RevMan), version 5.3 (Copenhagen: The Nordic Cochrane Centre, The Cochrane Collaboration, 2014). The basic characteristics included the sample size, severity of AD, mean age of patients, medication administered, treatment duration, outcome measures, costs of therapy, and adverse events.</p></sec><sec id="brb31831-sec-0011"><label>2.5</label><title>Risk of bias assessment</title><p>The risk of bias graph and summary as analyzed by the RevMan 5.3 software are shown in Figure <xref rid="brb31831-fig-0002" ref-type="fig">2</xref>
+</p><p>. Most of the 54 included trials utilized a suitable method to minimize bias and were considered to have a low risk of selection bias, performance bias, detection bias, attrition bias, reporting bias, and other bias. Four studies of 54 included studies were rated as having a high risk of bias in the generation of their random allocation scheme. Three trials of 54 included studies did not sufficiently conceal the allocation of treatment to patients. Six trials had a high risk of bias in blinding of participants and personnel, one trial for the blinding of outcome data, and another one for incomplete outcome data. Eleven studies of 54 included studies had a high risk of reporting bias because of incomplete outcomes and six studies for other biases.</p><fig fig-type="Figure" xml:lang="en" id="brb31831-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Risk of bias in studies selected for a network meta‐analysis on Alzheimer's disease treatment. Summary based on Review Manager, version 5.3 (Copenhagen: The Nordic Cochrane Centre, The Cochrane Collaboration, 2014) assessment</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="BRB3-10-e01831-g002.jpg"/></fig></sec><sec id="brb31831-sec-0012"><label>2.6</label><title>Outcomes</title><p>The outcomes of this study included the efficacy, acceptability, and costs of therapy. Considering the characteristics of AD, we divided efficacy into four aspects: cognition, global assessment, daily activities, and neuropsychiatric symptoms. Outcomes were assessed using Alzheimer's Disease Assessment Scale‐cognition subscale (ADAS‐cog), the Severe Impairment Battery (SIB) for cognition, the change in the clinical global impression (CGI) for the overall assessment, Alzheimer's Disease Cooperative Study‐Activities of Daily Living (ADCS‐ADL) and Activities of Daily Living (ADL) for daily activities, and the Neuropsychiatric Inventory (NPI) for neuropsychiatric symptoms (Farlow et al., <xref rid="brb31831-bib-0012" ref-type="ref">2013</xref>; Panisset, Roudier, Saxton, &amp; Boller, <xref rid="brb31831-bib-0024" ref-type="ref">1994</xref>).</p><p>Acceptability was measured as treatment discontinuation for any reason cause the dropouts referred to different circumstances such as unsatisfied with treatment, deterioration of patient's condition, or unbearable adverse events.</p><p>Costs discussed in the conclusion involved both the direct costs of treatment and caregivers and the indirect costs, such as inability to work.</p><p>A validated method was used in the assessment of trials with a lack of information or specific data (Furukawa, Cipriani, Barbui, Brambilla, &amp; Watanabe, <xref rid="brb31831-bib-0015" ref-type="ref">2005</xref>; Zhang, Kang, &amp; Chen, <xref rid="brb31831-bib-0037" ref-type="ref">2016</xref>).</p></sec><sec id="brb31831-sec-0013"><label>2.7</label><title>Data analysis</title><p>We conducted a network meta‐analysis to compare the efficacy as the mean and standard deviation (<italic toggle="yes">SD</italic>), assuming that the heterogeneity of each included trial was comparable and ran both a consistency model and inconsistency model. By comparing the potential scale reduction factor(PSRF)of two models, and the median (with 95% credible interval (Crl)) between random effects standard deviation and inconsistency standard deviation to test and verify the choose of consistency model.</p><p>Secondly, we chose pooled odds ratios (ORs) to assess acceptability because of the dichotomy of results. The domains were pooled separately, and different type of data would not be pooled for the lack of comparability. The network meta‐analysis was accomplished through ADDIS software (ADDIS Software PLC, Addis Ababa, Ethiopia) that was adopted to analyze acceptability.</p><p>Finally, we reviewed the observed adverse events of included studies and reported costs from one study.</p></sec></sec><sec sec-type="results" id="brb31831-sec-0014"><label>3</label><title>RESULTS</title><sec id="brb31831-sec-0015"><label>3.1</label><title>Efficacy</title><sec id="brb31831-sec-0016"><label>3.1.1</label><title>Cognition</title><p>The PSRFs of both the consistency and inconsistency model for the scale were 1, and the median (95% Crl) of the random effects <italic toggle="yes">SD</italic> and inconsistency <italic toggle="yes">SD</italic> was close to each other, which illustrated the relative effect of each included trial. Therefore, we chose the consistency model for the analysis. The combination treatment of memantine plus donepezil, memantine alone, and donepezil alone all showed a statistically significant difference compared with placebo in both the ADAS‐cog and SIB scales. The ADAS‐cog showed improvement of scores reduced. From the rank possibility that the combination therapy was in the forth rank (MD5.01, 95% Crl −0.86 to 10.73), followed by donepezil in the third rank (MD2.93, 95% Crl −2.86 to 8.58), and memantine was in the second rank (MD1.33, 95% Crl −4.18 to 6.64) than placebo, as illustrated in Figure <xref rid="brb31831-fig-0003" ref-type="fig">3a</xref>.</p><p>Thus, we concluded that lower rank means the better effect. Therefore, the combination therapy was better than donepezil or memantine monotherapy, and placebo showed the worst effect. In contrast, the SIB scale in Figure <xref rid="brb31831-fig-0003" ref-type="fig">3b</xref> showed improvement in the higher scores, so memantine plus donepezil was in the first rank (MD9.61, 95% Crl 2.29 to 16.97), donepezil was in the second rank (MD4.70, 95% Crl 0.68 to 8.75), and memantine was third rank (MD2.50, 95% Crl −0.33 to 5.64) other than placebo, which reflecting the same findings as the ADAS‐cog.</p><fig fig-type="Figure" xml:lang="en" id="brb31831-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>(a) Network meta‐analysis on Alzheimer's disease treatment. Cognition assessment using the Assessment Scale‐cognition subscale. Don, donepezil; mem, memantine; mem + don, combination of donepezil and memantine; ADAS‐cog, Assessment Scale‐cognition subscale; MD, mean difference; Crl, credible interval. (b) Network meta‐analysis on Alzheimer's disease treatment. Cognition assessment using the Severe Impairment Battery. Don, donepezil; mem, memantine; mem + don, combination of donepezil and memantine; SIB, Severe Impairment Battery; MD, standardized mean difference; Crl, credible interval</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="BRB3-10-e01831-g003.jpg"/></fig></sec><sec id="brb31831-sec-0017"><label>3.1.2</label><title>Global assessment</title><p>We used the change in the CGI for the global assessment of AD and reducing scores presented treatment effect. Therefore, lower rank means better effect. The consistency model was appropriate for a PSRF of 1, and the median (95% Crl) of the random effects <italic toggle="yes">SD</italic> and inconsistency model <italic toggle="yes">SD</italic> was close to each other. Figure <xref rid="brb31831-fig-0004" ref-type="fig">4</xref> shows that combination therapy in rank 4 was more effective than donepezil (rank 3 (MD‐2.51, 95% Crl −6.07 to 1.09)) or memantine (rank 2.</p><fig fig-type="Figure" xml:lang="en" id="brb31831-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Network meta‐analysis on Alzheimer's disease treatment. Assessment of the change in the clinical global impression. Don, donepezil; mem, memantine; mem + don, combination of donepezil and memantine; CGI, clinical global impression; MD, standardized mean difference; Crl, credible interval</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="BRB3-10-e01831-g004.jpg"/></fig><p>(MD‐2.59, 95% Crl −4.85 to −0.21)) alone, and placebo was in first rank (MD2.88 95% Crl −0.40 to 6.04), worse than combination therapy.</p></sec><sec id="brb31831-sec-0018"><label>3.1.3</label><title>Daily activities</title><p>Some trials chose ADCS‐ADL and others ADL to evaluate the effect of treatment on daily activities in AD. To expand the sample size, we merged two scales into one. We ran a node split and found that the p‐values of all comparisons were above 0.05, and indirect effects were all zero. Therefore, we chose the consistency model that showed in Figure <xref rid="brb31831-fig-0005" ref-type="fig">5</xref>
+</p><p>that combination therapy was more effective in rank 1(MD16.27, 95% Crl −8.06 to 40.52) than donepezil alone (rank 4) and memantine more effective in rank 2(MD3.89, 95% Crl −40.40 to 46.93) than placebo.</p><fig fig-type="Figure" xml:lang="en" id="brb31831-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Network meta‐analysis on Alzheimer's disease treatment. Assessment of Alzheimer's Disease Cooperative Study‐Activities of Daily Living and Activities of Daily Living. Don, donepezil; mem, memantine; mem + don, combination of donepezil and memantine; ADCS‐ADL, Alzheimer's Disease Cooperative Study‐Activities of Daily Living; ADL, Activities of Daily Living; MD, standardized mean difference; Crl, credible interval</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="BRB3-10-e01831-g005.jpg"/></fig></sec><sec id="brb31831-sec-0019"><label>3.1.4</label><title>Neuropsychiatric symptoms</title><p>NPI was accomplished by caregivers that evaluated the neuropsychiatric symptoms of AD patients, as well as the difficulties in caring patients, reducing grades indicated improvement of symptoms and fewer difficulties in caring. The NPI accorded with the consistency model, and the result was exhibited in Figure <xref rid="brb31831-fig-0006" ref-type="fig">6</xref>
+</p><p>. Combination therapy was in first rank (MD‐4.16, 95% Crl −8.06 to –0.15) more effective than memantine alone, memantine was in rank 2 (MD −1.40, 95% Crl −4.86 to–1.96) more effective than donepezil, and donepezil was in rank 3 (MD −1.28, 95% Crl −4.43 to –2.00) more effective than placebo in rank 4.</p><fig fig-type="Figure" xml:lang="en" id="brb31831-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Network meta‐analysis on Alzheimer's disease treatment. Assessment of Neuropsychiatric Inventory. Don, donepezil; mem, memantine; mem + don, combination of donepezil and memantine; NPI, Neuropsychiatric Inventory; MD, standardized mean difference; Crl, credible interval</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="BRB3-10-e01831-g006.jpg"/></fig></sec></sec><sec id="brb31831-sec-0020"><label>3.2</label><title>Acceptability</title><p>The PSRF of the consistency model ranged from 1.01 to 1.03, but all were below 1.05, which was tolerable. The differences between the random effects <italic toggle="yes">SD</italic> and inconsistency model <italic toggle="yes">SD</italic> were acceptable, and we adopted the consistency model. Figure <xref rid="brb31831-fig-0007" ref-type="fig">7</xref>
+</p><p>shows that memantine had higher acceptability (MD 0.93, 95% Crl 0.69 to 1.22) than placebo, while the difference between donepezil and combination therapy was small (MD 1.07, 95% Crl 0.31 to 3.3).</p><fig fig-type="Figure" xml:lang="en" id="brb31831-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Network meta‐analysis on Alzheimer's disease treatment. Analysis of acceptability. Don, donepezil; mem, memantine; mem + don, combination of donepezil and memantine. MD, standardized mean difference; Crl, credible interval</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-15" position="float" orientation="portrait" xlink:href="BRB3-10-e01831-g007.jpg"/></fig></sec><sec id="brb31831-sec-0021"><label>3.3</label><title>Costs</title><p>One study (Martin et al., <xref rid="brb31831-bib-0022" ref-type="ref">2017</xref>) had performed a cost‐effectiveness analysis comparing donepezil, memantine, donepezil plus memantine, and placebo. Martin et al. compared outcomes and costs of 295 community‐dwelling patients with moderate‐to‐severe AD after 52 weeks and found if one ignored the cost‐effectiveness model and only focused on the unadjusted costs (consisting of health and social care costs), costs were highest in the placebo group at a total of £7,964 per person per year, followed by memantine plus donepezil at £5,892, and donepezil alone at £5,418. Memantine costs were lowest at £4,864. When taking into account effectiveness, the combination therapy showed no superiority in cognition, daily activities, and quality of life than memantine or donepezil alone calculated by The National Institute for Health and Care Excellence (NICE) thresholds for Quality‐adjusted life years (QALY) gains.</p></sec><sec id="brb31831-sec-0022"><label>3.4</label><title>Adverse events</title><p>Adverse events were similar across the 54 included trials. They manifested as dizziness, agitation, confusional state, diarrhea, falls, and emotional problems, among others. No adverse events were related to death.</p></sec></sec><sec sec-type="discussion" id="brb31831-sec-0023"><label>4</label><title>DISCUSSION</title><p>This network meta‐analysis of 54 studies, conducted in Asia, North America, and Europe, included patients randomly assigned to donepezil, memantine, donepezil–memantine, and placebo. It considered both English and Chinese publications, which expanded the scope and made the conclusions more reliable than an analysis of English articles only. The combination therapy of donepezil and memantine was most effective in improving cognition, global assessment, activities of daily living, and neuropsychiatric symptoms in AD patients (mostly moderate‐to‐severe AD), and the acceptability was slightly higher than that of donepezil and lower than that of memantine.</p><p>A previous review (Calhoun et al., <xref rid="brb31831-bib-0006" ref-type="ref">2018</xref>) found that the combination of donepezil–memantine had benefits in clinical efficacy over donepezil alone, although it was more expensive than monotherapy. Other two reviews (Farrimond, Roberts, &amp; McShane, <xref rid="brb31831-bib-0013" ref-type="ref">2012</xref>; Gauthier &amp; Molinuevo, <xref rid="brb31831-bib-0016" ref-type="ref">2013</xref>) reviewed the efficacy in cognition, daily activities, global assessment, and burden of care of adding memantine to different AChEIs (donepezil was one of these AChEIs) and drew positive conclusions. A meta‐analysis by Chen et al. (Chen et al., <xref rid="brb31831-bib-0008" ref-type="ref">2017</xref>) found that memantine combined with donepezil had better effects on cognitive and overall function and behavioral and psychological symptoms than donepezil alone. Our network meta‐analysis involved studies until 2020 in both English and Chinese and also took memantine into analysis.</p><p>The ADAS‐cog and SIB are both used to measure the severity of AD.</p><p>The ADAS‐cog is usually used in mild or moderate and even preclinical AD, whereas the SIB is more frequently used in severe dementia (Kueper, Speechley, &amp; Montero‐Odasso, <xref rid="brb31831-bib-0019" ref-type="ref">2018</xref>; Qazi et al., <xref rid="brb31831-bib-0025" ref-type="ref">2005</xref>). We adopted both the ADAS‐cog and SIB scales in this meta‐analysis, and the combination therapy of memantine plus donepezil showed excellent results for both scales, indicating its efficacy in mild and severe dementia. Donepezil showed an advantage over memantine in mild‐to‐moderate AD, whereas memantine was more effective than donepezil in severe AD.</p><p>The combination therapy of memantine plus donepezil achieved better outcomes than placebo in the CGI. The CGI scale combines the severity of illness, global improvement, and efficacy index. Here, the combination of memantine plus donepezil demonstrated its overall superiority to the full extent in clinical global impression.</p><p>The ADCS‐ADL and ADL scales contain eating, going to the toilet, bathing, showering, and other skills of daily living. They reflect not only the quality of life of patients but also the quality of life of their caregivers (if existent). The combination of memantine plus donepezil was the most effective regimen in this regard, too, followed by memantine. Donepezil alone was less effective than placebo.</p><p>The NPI is one of the most commonly used scales to assess the neuropsychiatric symptoms of AD and is also associated with the progress of dementia (Cummings et al., <xref rid="brb31831-bib-0010" ref-type="ref">1994</xref>; Mallo et al., <xref rid="brb31831-bib-0021" ref-type="ref">2020</xref>). Neuropsychiatric symptoms present a particularly heavy burden for both patients themselves and their caregivers (Lyketsos et al., <xref rid="brb31831-bib-0020" ref-type="ref">2011</xref>). Therefore, the efficacy of the combination of memantine plus donepezil in this aspect may delay the progression in patients with AD. Previous studies (Dou et al., <xref rid="brb31831-bib-0011" ref-type="ref">2018</xref>; Trinh, Hoblyn, Mohanty, &amp; Yaffe, <xref rid="brb31831-bib-0030" ref-type="ref">2003</xref>) have concluded on the efficacy of the combination of memantine plus AChEIs in improving neuropsychiatric symptoms, and our network meta‐analysis confirmed that memantine plus donepezil is superior to placebo in this regard.</p><p>When taking all four AD dimensions investigated in this meta‐analysis into account, we conclude on the superiority of the combination therapy of memantine plus donepezil in the treatment of AD over monotherapy with either of the substances.</p><p>All four treatment regimens were well tolerated by most patients. Memantine was the best‐tolerated medication, followed by placebo and the combination of memantine plus donepezil. Donepezil was the least tolerable. That means, in patients with substantial intolerance to the combination of memantine plus donepezil, a change to memantine is a better choice than donepezil.</p><p>One study concluded (Knapp et al., <xref rid="brb31831-bib-0018" ref-type="ref">2017</xref>) that there is no more cost‐effective treatment than donepezil. We argue that when taking the effectiveness and the slowing of the clinical progression of AD in patients into account (Wilkinson &amp; Andersen., <xref rid="brb31831-bib-0032" ref-type="ref">2007</xref>; Wilkinson, Wirth, &amp; Goebel., <xref rid="brb31831-bib-0033" ref-type="ref">2014</xref>), the combination therapy is more cost‐effective, even when the costs are slightly higher than those of donepezil alone. Another study (Cappel, Herrmann, Cornish, &amp; Lanctôt, <xref rid="brb31831-bib-0007" ref-type="ref">2010</xref>) also found a more positive effect on the cost‐effectiveness of the combination therapy than of donepezil alone.</p><p>This network meta‐analysis has some limitations. The quality of some of the included trials was not high, which may have influenced the entire network meta‐analysis. More high‐quality studies are needed to analyze the optimal therapy of AD in the future. Secondly, this study only searched published trials but not the Cochrane Central Register of Controlled Trials or some other databases for the registration of clinical trials, which might result in a publication bias of the meta‐analysis and have overestimated the study outcomes. Furthermore, this study applied ranking for the outcomes, which has a substantial degree of imprecision for most interventions that have a large width of 95% Crls (Trinquart, Attiche, Bafeta, Porcher, &amp; Ravaud, <xref rid="brb31831-bib-0031" ref-type="ref">2016</xref>). Finally, we only reviewed the cost‐effectiveness of therapeutic regimens in this meta‐analysis, but future studies should take the slowing of clinical progression into account.</p></sec><sec sec-type="conclusions" id="brb31831-sec-0024"><label>5</label><title>CONCLUSION</title><p>Our study found that the combination of memantine plus donepezil had superior effects on cognitive and neuropsychiatric symptoms, the global assessment, and daily activities, but was less acceptable to patients compared to either memantine alone or placebo. While memantine was most acceptable, the choice of medication should depend on the individual situations of patients. The extent of damage in the four different domains of AD will lead to different treatment decisions. Furthermore, considering the natural course of AD, memantine plus donepezil may be more cost‐effective than donepezil because memantine may slow the progression of AD.</p></sec><sec id="brb31831-sec-0025"><label>6</label><title>ETHICS APPROVAL</title><p>Not applicable.</p></sec><sec sec-type="COI-statement" id="brb31831-sec-0027"><title>CONFLICT OF INTERESTS</title><p>The authors declare that there have no conflicts of interest.</p></sec><sec id="brb31831-sec-0028"><title>AUTHORS' CONTRIBUTIONS</title><p>JG designed the study, extracted the data with NZ, did meta‐analysis and network meta‐analysis with RZ, and wrote and approved the manuscript. ZW designed the study, revised, and approved the manuscript with RL. YH discussed the validity of the trials and revised the manuscript.</p></sec><sec id="brb31831-sec-0029"><sec disp-level="2" id="brb31831-sec-0030"><title>Peer Review</title><p>The peer review history for this article is available at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://publons.com/publon/10.1002/brb3.1831">https://publons.com/publon/10.1002/brb3.1831</ext-link>.</p></sec></sec></body><back><ack id="brb31831-sec-0026"><title>ACKNOWLEDGMENTS</title><p>The study was supported by funds from the National Natural Science Foundation of China (NSFC No. 81674066). The study was supported by funds from the Natural Science Foundation of Chongqin (No. cstc2017jcyjAX0397).</p></ack><ref-list content-type="cited-references" id="brb31831-bibl-0001"><title>REFERENCES</title><ref id="brb31831-bib-0001"><mixed-citation publication-type="journal" id="brb31831-cit-0001">
+<string-name name-style="western">
+<surname>Albert</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeKosky</surname>, <given-names>S. T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dubois</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feldman</surname>, <given-names>H. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fox</surname>, <given-names>N. C.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Phelps</surname>, <given-names>C. H.</given-names>
+</string-name> (<year>2011</year>). <article-title>The diagnosis of mild cognitive impairment due to Alzheimer's disease: Recommendations from the National Institute on Aging‐Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease</article-title>. <source xml:lang="en">Alzheimer's &amp; Dementia: the Journal of the Alzheimer's Association</source>, <volume>7</volume>, <fpage>270</fpage>–<lpage>279</lpage>. <pub-id pub-id-type="doi">10.1016/j.jalz.2011.03.008</pub-id>
+<pub-id pub-id-type="pmcid">PMC3312027</pub-id><pub-id pub-id-type="pmid">21514249</pub-id></mixed-citation></ref><ref id="brb31831-bib-0002"><mixed-citation publication-type="journal" id="brb31831-cit-0002">
+<collab collab-type="authors">Alzheimer’s Association</collab>
+. (<year>2019</year>). <article-title>Alzheimer's disease facts and figures</article-title>. <source xml:lang="en">Alzheimer's &amp; Dementia: The Journal of the Alzheimer's Association.</source>, <volume>15</volume>(<issue>3</issue>), <fpage>321</fpage>–<lpage>387</lpage>.</mixed-citation></ref><ref id="brb31831-bib-0003"><mixed-citation publication-type="miscellaneous" id="brb31831-cit-0003">
+<collab collab-type="authors">Alzheimer'S Association</collab>
+. (<year>2020</year>). <article-title>2020 Alzheimer's disease facts and figures [published online ahead of print, 2020 Mar 10]</article-title>. Alzheimers Dement. 2020;<pub-id pub-id-type="doi">10.1002/alz.12068</pub-id>.</mixed-citation></ref><ref id="brb31831-bib-0004"><mixed-citation publication-type="journal" id="brb31831-cit-0004">
+<string-name name-style="western">
+<surname>Ansari</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Satar</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perveen</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Ashraf</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Current opinion in Alzheimer's disease therapy by nanotechnology‐based approaches</article-title>. <source xml:lang="en">Current Opinion in Psychiatry</source>, <volume>30</volume>, <fpage>128</fpage>–<lpage>135</lpage>. <pub-id pub-id-type="doi">10.1097/YCO.0000000000000310</pub-id>
+<pub-id pub-id-type="pmid">28009724</pub-id></mixed-citation></ref><ref id="brb31831-bib-0005"><mixed-citation publication-type="journal" id="brb31831-cit-0005">
+<string-name name-style="western">
+<surname>Ashraf</surname>, <given-names>G. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tarasov</surname>, <given-names>V. V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Makhmutova</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chubarev</surname>, <given-names>V. N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>AvilaRodriguez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bachurin</surname>, <given-names>S. O.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Aliev</surname>, <given-names>G.</given-names>
+</string-name> (<year>2019</year>). <article-title>The Possibility of an infectious etiology of Alzheimer Disease</article-title>. <source xml:lang="en">Molecular Neurobiology</source>, <volume>56</volume>, <fpage>4479</fpage>–<lpage>4491</lpage>. <pub-id pub-id-type="doi">10.1007/s12035-018-1388-y</pub-id>
+<pub-id pub-id-type="pmid">30338482</pub-id></mixed-citation></ref><ref id="brb31831-bib-0006"><mixed-citation publication-type="journal" id="brb31831-cit-0006">
+<string-name name-style="western">
+<surname>Calhoun</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>King</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khoury</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Grossberg</surname>, <given-names>G. T.</given-names>
+</string-name> (<year>2018</year>). <article-title>An evaluation of memantine ER + donepezil for the treatment of Alzheimer's disease</article-title>. <source xml:lang="en">Expert Opinion on Pharmacotherapy</source>, <volume>19</volume>, <fpage>1711</fpage>–<lpage>1717</lpage>. <pub-id pub-id-type="doi">10.1080/14656566.2018.1519022</pub-id>
+<pub-id pub-id-type="pmid">30244611</pub-id></mixed-citation></ref><ref id="brb31831-bib-0007"><mixed-citation publication-type="journal" id="brb31831-cit-0007">
+<string-name name-style="western">
+<surname>Cappell</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herrmann</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cornish</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Lanctôt</surname>, <given-names>K. L.</given-names>
+</string-name> (<year>2010</year>). <article-title>The pharmacoeconomics of cognitive enhancers in moderate to severe Alzheimerʼs Disease</article-title>. <source xml:lang="en">CNS Drugs</source>, <volume>24</volume>(<issue>11</issue>), <fpage>909</fpage>–<lpage>927</lpage>. <pub-id pub-id-type="doi">10.2165/11539530-000000000-00000</pub-id>
+<pub-id pub-id-type="pmid">20932064</pub-id></mixed-citation></ref><ref id="brb31831-bib-0008"><mixed-citation publication-type="journal" id="brb31831-cit-0008">
+<string-name name-style="western">
+<surname>Chen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chan</surname>, <given-names>P.‐T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chu</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>, <given-names>Y.‐C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chang</surname>, <given-names>P.‐C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>C.‐Y.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Chou</surname>, <given-names>K.‐R.</given-names>
+</string-name> (<year>2017</year>). <article-title>Treatment effects between monotherapy of donepezil versus combination with memantine for Alzheimer disease: A meta‐analysis</article-title>. <source xml:lang="en">PLoS One</source>, <volume>12</volume>(<issue>8</issue>), <elocation-id>e183586</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0183586</pub-id>
+<pub-id pub-id-type="pmcid">PMC5565113</pub-id><pub-id pub-id-type="pmid">28827830</pub-id></mixed-citation></ref><ref id="brb31831-bib-0009"><mixed-citation publication-type="journal" id="brb31831-cit-0009">
+<string-name name-style="western">
+<surname>Conway</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>2020</year>). <article-title>Alzheimer's disease: Targeting the glutamatergic system</article-title>. <source xml:lang="en">Biogerontology</source>, <volume>21</volume>, <fpage>257</fpage>–<lpage>274</lpage>. <pub-id pub-id-type="doi">10.1007/s10522-020-09860-4</pub-id>
+<pub-id pub-id-type="pmid">32048098</pub-id><pub-id pub-id-type="pmcid">PMC7196085</pub-id></mixed-citation></ref><ref id="brb31831-bib-0010"><mixed-citation publication-type="journal" id="brb31831-cit-0010">
+<string-name name-style="western">
+<surname>Cummings</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mega</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gray</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosenberg‐Thompson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carusi</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Gornbein</surname>, <given-names>J.</given-names>
+</string-name> (<year>1994</year>). <article-title>The neuropsychiatric inventory: Comprehensive assessment of psycho patlhology in dementia</article-title>. <source xml:lang="en">Neurology</source>, <volume>44</volume>, <fpage>2308</fpage>–<lpage>2314</lpage>.<pub-id pub-id-type="pmid">7991117</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.44.12.2308</pub-id></mixed-citation></ref><ref id="brb31831-bib-0011"><mixed-citation publication-type="journal" id="brb31831-cit-0011">
+<string-name name-style="western">
+<surname>Dou</surname>, <given-names>K.‐X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>, <given-names>M.‐S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>, <given-names>C.‐C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>, <given-names>X.‐P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hou</surname>, <given-names>X.‐H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>, <given-names>Q.‐H.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Yu</surname>, <given-names>J.‐T.</given-names>
+</string-name> (<year>2018</year>). <article-title>Comparative safety and effectiveness of cholinesterase inhibitors and memantine for Alzheimer’s disease: A network meta‐analysis of 41 randomized controlled trials</article-title>. <source xml:lang="en">Alzheimer's Research &amp; Therapy</source>, <volume>10</volume>(<issue>1</issue>). <pub-id pub-id-type="doi">10.1186/s13195-018-0457-9</pub-id>
+<pub-id pub-id-type="pmcid">PMC6309083</pub-id><pub-id pub-id-type="pmid">30591071</pub-id></mixed-citation></ref><ref id="brb31831-bib-0012"><mixed-citation publication-type="journal" id="brb31831-cit-0012">
+<string-name name-style="western">
+<surname>Farlow</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmitt</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aarsland</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grossberg</surname>, <given-names>G. T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Somogyi</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Meng</surname>, <given-names>X.</given-names>
+</string-name> (<year>2013</year>). <article-title>Comparing clinical profiles in Alzheimer's disease and Parkinson's disease Dementia</article-title>. <source xml:lang="en">Dementia and Geriatric Cognitive Disorders Extra</source>, <volume>3</volume>, <fpage>281</fpage>–<lpage>290</lpage>. <pub-id pub-id-type="doi">10.1159/000351861</pub-id>
+<pub-id pub-id-type="pmid">24174923</pub-id><pub-id pub-id-type="pmcid">PMC3808221</pub-id></mixed-citation></ref><ref id="brb31831-bib-0013"><mixed-citation publication-type="journal" id="brb31831-cit-0013">
+<string-name name-style="western">
+<surname>Farrimond</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roberts</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>McShane</surname>, <given-names>R.</given-names>
+</string-name> (<year>2012</year>). <article-title>Memantine and cholinesterase inhibitor combination therapy for Alzheimer's disease: A systematic review</article-title>. <source xml:lang="en">British Medical Journal Open</source>, <volume>2</volume>(<issue>3</issue>), <elocation-id>e917</elocation-id>
+<pub-id pub-id-type="doi">10.1136/bmjopen-2012-000917</pub-id>
+<pub-id pub-id-type="pmcid">PMC3378937</pub-id><pub-id pub-id-type="pmid">22689908</pub-id></mixed-citation></ref><ref id="brb31831-bib-0014"><mixed-citation publication-type="journal" id="brb31831-cit-0014">
+<string-name name-style="western">
+<surname>Fratiglioni</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grut</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Forsell</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Viitanen</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Winblad</surname>, <given-names>B.</given-names>
+</string-name> (<year>1992</year>). <article-title>Clinical diagnosis of Alzheimer's disease and other dementias in a population survey. Agreement and causes of disagreement in applying Diagnostic and Statistical Manual of Mental Disorders, Revised Third Edition, Criteria</article-title>. <source xml:lang="en">Archives of Neurology</source>, <volume>49</volume>(<issue>9</issue>), <fpage>927</fpage>–<lpage>932</lpage>.<pub-id pub-id-type="pmid">1520083</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archneur.1992.00530330049015</pub-id></mixed-citation></ref><ref id="brb31831-bib-0015"><mixed-citation publication-type="journal" id="brb31831-cit-0015">
+<string-name name-style="western">
+<surname>Furukawa</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cipriani</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barbui</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brambilla</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Watanabe</surname>, <given-names>N.</given-names>
+</string-name> (<year>2005</year>). <article-title>Imputing response rates from means and standard deviations in meta‐analyses</article-title>. <source xml:lang="en">International Clinical Psychopharmacology</source>, <volume>20</volume>, <fpage>49</fpage>–<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1097/00004850-200501000-00010</pub-id>
+<pub-id pub-id-type="pmid">15602117</pub-id></mixed-citation></ref><ref id="brb31831-bib-0016"><mixed-citation publication-type="journal" id="brb31831-cit-0016">
+<string-name name-style="western">
+<surname>Gauthier</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Molinuevo</surname>, <given-names>J. L.</given-names>
+</string-name> (<year>2013</year>). <article-title>Benefits of combined cholinesterase inhibitor and memantine treatment in moderate–severe Alzheimer's disease</article-title>. <source xml:lang="en">Alzheimer's &amp; Dementia</source>, <volume>9</volume>(<issue>3</issue>), <fpage>326</fpage>–<lpage>331</lpage>. <pub-id pub-id-type="doi">10.1016/j.jalz.2011.11.005</pub-id>
+<pub-id pub-id-type="pmid">23110864</pub-id></mixed-citation></ref><ref id="brb31831-bib-0017"><mixed-citation publication-type="journal" id="brb31831-cit-0017">
+<string-name name-style="western">
+<surname>Haake</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nguyen</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Friedman</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chakkamparambil</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Grossberg</surname>, <given-names>G. T.</given-names>
+</string-name> (<year>2020</year>). <article-title>An update on the utility and safety of cholinesterase inhibitors for the treatment of Alzheimer's disease</article-title>. <source xml:lang="en">Expert Opinion on Drug Safety</source>, <volume>19</volume>, <fpage>147</fpage>–<lpage>157</lpage>. <pub-id pub-id-type="doi">10.1080/14740338.2020.1721456</pub-id>
+<pub-id pub-id-type="pmid">31976781</pub-id></mixed-citation></ref><ref id="brb31831-bib-0018"><mixed-citation publication-type="journal" id="brb31831-cit-0018">
+<string-name name-style="western">
+<surname>Knapp</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>King</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romeo</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adams</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baldwin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ballard</surname>, <given-names>C.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Howard</surname>, <given-names>R.</given-names>
+</string-name> (<year>2017</year>). <article-title>Cost‐effectiveness of donepezil and memantine in moderate to severe Alzheimer's disease (the DOMINO‐AD trial)</article-title>. <source xml:lang="en">International Journal of Geriatric Psychiatry</source>, <volume>32</volume>(<issue>12</issue>), <fpage>1205</fpage>–<lpage>1216</lpage>. <pub-id pub-id-type="doi">10.1002/gps.4583</pub-id>
+<pub-id pub-id-type="pmid">27739182</pub-id><pub-id pub-id-type="pmcid">PMC5724694</pub-id></mixed-citation></ref><ref id="brb31831-bib-0019"><mixed-citation publication-type="journal" id="brb31831-cit-0019">
+<string-name name-style="western">
+<surname>Kueper</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Speechley</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Montero‐Odasso</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>The Alzheimer’s Disease Assessment Scale‐Cognitive Subscale (ADAS‐Cog): Modifications and Responsiveness in Pre‐Dementia Populations. A Narrative Review</article-title>. <source xml:lang="en">Journal of Alzheimer's Disease</source>, <volume>63(2):423–44</volume>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-170991</pub-id><pub-id pub-id-type="pmcid">PMC5929311</pub-id><pub-id pub-id-type="pmid">29660938</pub-id></mixed-citation></ref><ref id="brb31831-bib-0020"><mixed-citation publication-type="journal" id="brb31831-cit-0020">
+<string-name name-style="western">
+<surname>Lyketsos</surname>, <given-names>C. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carrillo</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ryan</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khachaturian</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trzepacz</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amatniek</surname>, <given-names>J.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Miller</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>2011</year>). <article-title>Neuropsychiatric symptoms in Alzheimer’s disease</article-title>. <source xml:lang="en">Alzheimer's &amp; Dementia: the Journal of the Alzheimer's Association</source>, <volume>7</volume>(<issue>5</issue>), <fpage>532</fpage>–<lpage>539</lpage>. <pub-id pub-id-type="doi">10.1016/j.jalz.2011.05.2410</pub-id>
+<pub-id pub-id-type="pmcid">PMC3299979</pub-id><pub-id pub-id-type="pmid">21889116</pub-id></mixed-citation></ref><ref id="brb31831-bib-0021"><mixed-citation publication-type="journal" id="brb31831-cit-0021">
+<string-name name-style="western">
+<surname>Mallo</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patten</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ismail</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pereiro</surname>, <given-names>A. X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Facal</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Otero</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Juncos‐Rabadán</surname>, <given-names>O.</given-names>
+</string-name> (<year>2020</year>). <article-title>Does the neuropsychiatric inventory predict progression from mild cognitive impairment to dementia? A systematic review and meta‐analysis</article-title>. <source xml:lang="en">Ageing Research Reviews</source>, <volume>58</volume>, <fpage>101004</fpage>
+<pub-id pub-id-type="doi">10.1016/j.arr.2019.101004</pub-id>
+<pub-id pub-id-type="pmid">31881368</pub-id></mixed-citation></ref><ref id="brb31831-bib-0022"><mixed-citation publication-type="journal" id="brb31831-cit-0022">
+<string-name name-style="western">
+<surname>Marta</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katarzyna</surname>, <given-names>Z.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Jerzy</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017</year>). <article-title>The Infectious Etiology of Alzheimer’s Disease</article-title>. <source xml:lang="en">Current Neuropharmacology</source>, <volume>2017</volume>(<issue>15</issue>), <fpage>996</fpage>–<lpage>1009</lpage>. <pub-id pub-id-type="doi">10.2174/1570159X15666170313122937</pub-id>
+<pub-id pub-id-type="pmcid">PMC5652018</pub-id><pub-id pub-id-type="pmid">28294067</pub-id></mixed-citation></ref><ref id="brb31831-bib-0023"><mixed-citation publication-type="journal" id="brb31831-cit-0023">
+<string-name name-style="western">
+<surname>McKhann</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drachman</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Folstein</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katzman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Price</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Stadlan</surname>, <given-names>E. M.</given-names>
+</string-name> (<year>1984</year>). <article-title>Clinical diagnosis of Alzheimer’s disease: Report of the NINCDS‐ADRDA Work Group under the auspices of Department of Health and Human Services Task Force on Alzheimer’s Disease</article-title>. <source xml:lang="en">Neurology</source>, <volume>34</volume>, <fpage>939</fpage>–<lpage>944</lpage>. <pub-id pub-id-type="doi">10.1212/WNL.34.7.939</pub-id>
+<pub-id pub-id-type="pmid">6610841</pub-id></mixed-citation></ref><ref id="brb31831-bib-0024"><mixed-citation publication-type="journal" id="brb31831-cit-0024">
+<string-name name-style="western">
+<surname>Panisset</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roudier</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saxton</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Boller</surname>, <given-names>F.</given-names>
+</string-name> (<year>1994</year>). <article-title>Severe impairment battery. A neuropsychological test for severely demented patients</article-title>. <source xml:lang="en">Archives of Neurology</source>, <volume>51</volume>(<issue>1</issue>), <fpage>41</fpage>–<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1001/archneur.1994.00540130067012</pub-id>
+<pub-id pub-id-type="pmid">8274108</pub-id></mixed-citation></ref><ref id="brb31831-bib-0025"><mixed-citation publication-type="journal" id="brb31831-cit-0025">
+<string-name name-style="western">
+<surname>Qazi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richardson</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Simmons</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mullan</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walker</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katona</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Orrell</surname>, <given-names>M.</given-names>
+</string-name> (<year>2005</year>). <article-title>The Mini‐SIB: A short scale for measuring cognitive function in severe dementia</article-title>. <source xml:lang="en">International Journal of Geriatric Psychiatry</source>, <volume>20</volume>(<issue>10</issue>), <fpage>1001</fpage>–<lpage>1002</lpage>. <pub-id pub-id-type="doi">10.1002/gps.1423</pub-id>
+<pub-id pub-id-type="pmid">16173007</pub-id></mixed-citation></ref><ref id="brb31831-bib-0026"><mixed-citation publication-type="journal" id="brb31831-cit-0026">
+<string-name name-style="western">
+<surname>Schneider</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arvanitakis</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leurgans</surname>, <given-names>S. E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Bennett</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2009</year>). <article-title>The neuropathology of probable Alzheimer disease and mild cognitive impairment</article-title>. <source xml:lang="en">Annals of Neurology</source>, <volume>66</volume>(<issue>2</issue>), <fpage>200</fpage>–<lpage>208</lpage>. <pub-id pub-id-type="doi">10.1002/ana.21706</pub-id>
+<pub-id pub-id-type="pmid">19743450</pub-id><pub-id pub-id-type="pmcid">PMC2812870</pub-id></mixed-citation></ref><ref id="brb31831-bib-0027"><mixed-citation publication-type="journal" id="brb31831-cit-0027">
+<string-name name-style="western">
+<surname>Sperling</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aisen</surname>, <given-names>P. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beckett</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bennett</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Craft</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fagan</surname>, <given-names>A. M.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Phelps</surname>, <given-names>C. H.</given-names>
+</string-name> (<year>2011</year>). <article-title>Toward defining the preclinical stages of Alzheimer's disease: Recommendations from the National Institute on Aging‐Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease</article-title>. <source xml:lang="en">Alzheimer's &amp; Dementia</source>, <volume>7</volume>, <fpage>280</fpage>–<lpage>292</lpage>. <pub-id pub-id-type="doi">10.1016/j.jalz.2011.03.003</pub-id>
+<pub-id pub-id-type="pmcid">PMC3220946</pub-id><pub-id pub-id-type="pmid">21514248</pub-id></mixed-citation></ref><ref id="brb31831-bib-0028"><mixed-citation publication-type="journal" id="brb31831-cit-0028">
+<string-name name-style="western">
+<surname>Sung</surname>, <given-names>P. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>, <given-names>P. Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Su</surname>, <given-names>H. C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Tsai</surname>, <given-names>K. J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Neuroinflammation and neurogenesis in Alzheimer's disease and potential therapeutic approaches</article-title>. <source xml:lang="en">International Journal of Molecular Sciences</source>, <volume>21</volume>(<issue>3</issue>), <fpage>701</fpage>
+<pub-id pub-id-type="doi">10.3390/ijms21030701</pub-id>
+<pub-id pub-id-type="pmcid">PMC7037892</pub-id><pub-id pub-id-type="pmid">31973106</pub-id></mixed-citation></ref><ref id="brb31831-bib-0029"><mixed-citation publication-type="journal" id="brb31831-cit-0029">
+<string-name name-style="western">
+<surname>Tao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leng</surname>, <given-names>S. X.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name> (<year>2020</year>). <article-title>The Predicted key molecules, functions, and pathways that bridge Mild Cognitive Impairment (MCI) and Alzheimer's Disease (AD)</article-title>. <source xml:lang="en">Frontiers in Neurology</source>, <volume>11</volume>
+<pub-id pub-id-type="doi">10.3389/fneur.2020.00233</pub-id>
+<pub-id pub-id-type="pmcid">PMC7145962</pub-id><pub-id pub-id-type="pmid">32308643</pub-id></mixed-citation></ref><ref id="brb31831-bib-0030"><mixed-citation publication-type="journal" id="brb31831-cit-0030">
+<string-name name-style="western">
+<surname>Trinh</surname>, <given-names>N. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoblyn</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohanty</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Yaffe</surname>, <given-names>K.</given-names>
+</string-name> (<year>2003</year>). <article-title>Efficacy of cholinesterase inhibitors in the treatment of neuropsychiatric symptoms and functional impairment in Alzheimer disease: A meta‐analysis</article-title>. <source xml:lang="en">JAMA</source>, <volume>289</volume>(<issue>2</issue>), <fpage>210</fpage>–<lpage>216</lpage>. <pub-id pub-id-type="doi">10.1001/jama.289.2.210</pub-id>
+<pub-id pub-id-type="pmid">12517232</pub-id></mixed-citation></ref><ref id="brb31831-bib-0031"><mixed-citation publication-type="journal" id="brb31831-cit-0031">
+<string-name name-style="western">
+<surname>Trinquart</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Attiche</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bafeta</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Porcher</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Ravaud</surname>, <given-names>P.</given-names>
+</string-name> (<year>2016</year>). <article-title>Uncertainty in treatment rankings: Reanalysis of network meta‐analyses of randomized trials</article-title>. <source xml:lang="en">Annals of Internal Medicine</source>, <volume>164</volume>(<issue>10</issue>), <fpage>666</fpage>
+<pub-id pub-id-type="doi">10.7326/M15-2521</pub-id>
+<pub-id pub-id-type="pmid">27089537</pub-id></mixed-citation></ref><ref id="brb31831-bib-0032"><mixed-citation publication-type="journal" id="brb31831-cit-0032">
+<string-name name-style="western">
+<surname>Wilkinson</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Andersen</surname>, <given-names>H. F.</given-names>
+</string-name> (<year>2007</year>). <article-title>Analysis of the effect of memantine in reducing the worsening of clinical symptoms in patients with moderate to severe Alzheimer's disease</article-title>. <source xml:lang="en">Dementia and Geriatric Cognitive Disorders</source>, <volume>24</volume>(<issue>2</issue>), <fpage>138</fpage>–<lpage>145</lpage>. <pub-id pub-id-type="doi">10.1159/000105162</pub-id>
+<pub-id pub-id-type="pmid">17622761</pub-id></mixed-citation></ref><ref id="brb31831-bib-0033"><mixed-citation publication-type="journal" id="brb31831-cit-0033">
+<string-name name-style="western">
+<surname>Wilkinson</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wirth</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Goebel</surname>, <given-names>C.</given-names>
+</string-name> (<year>2014</year>). <article-title>Memantine in patients with moderate to severe Alzheimer's disease: Meta‐analyses using realistic definitions of response</article-title>. <source xml:lang="en">Dementia and Geriatric Cognitive Disorders</source>, <volume>37</volume>(<issue>1–2</issue>), <fpage>71</fpage>–<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1159/000353801</pub-id>
+<pub-id pub-id-type="pmid">24107324</pub-id></mixed-citation></ref><ref id="brb31831-bib-0034"><mixed-citation publication-type="miscellaneous" id="brb31831-cit-0034">
+<collab collab-type="authors">Withdrawal assessment report: memantine FGK</collab>
+, <year>2012</year>
+<article-title>European medicines agency</article-title>. Available from: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.ema.europa.eu/docs/en_GB/document_library/Application_withdrawal_assessment_report/human/002687/WC500141943.pdf">http://www.ema.europa.eu/docs/en_GB/document_library/Application_withdrawal_assessment_report/human/002687/WC500141943.pdf</ext-link> This report outlines the reasons behind the EMA refusal of the FDC therapy, Acrescent, the UK‐ equivalent of FDC memantine ER/donepezil, which was, conversely, approved in the USA.</mixed-citation></ref><ref id="brb31831-bib-0035"><mixed-citation publication-type="miscellaneous" id="brb31831-cit-0035">
+<collab collab-type="authors">World Alzheimer Report</collab>
+(<year>2015</year>). <article-title>The Global Impact of Dementia j Alzheimer’s Disease International</article-title>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.alz.co.uk/research/world-report-2015">https://www.alz.co.uk/research/world‐report‐2015</ext-link>. Accessed 01 November 2016 .</mixed-citation></ref><ref id="brb31831-bib-0036"><mixed-citation publication-type="journal" id="brb31831-cit-0036">
+<string-name name-style="western">
+<surname>Yoshiyama</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kojima</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ishikawa</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Arai</surname>, <given-names>K.</given-names>
+</string-name> (<year>2010</year>). <article-title>Anti‐Inflammatory Action of Donepezil Ameliorates Tau Pathology, Synaptic Loss, and Neurodegeneration in a Tauopathy Mouse Model</article-title>. <source xml:lang="en">Journal of Alzheimer's Disease</source>, <volume>22</volume>(<issue>1</issue>), <fpage>295</fpage>–<lpage>306</lpage>. <pub-id pub-id-type="doi">10.3233/JAD-2010-100681</pub-id>
+<pub-id pub-id-type="pmid">20847440</pub-id></mixed-citation></ref><ref id="brb31831-bib-0037"><mixed-citation publication-type="journal" id="brb31831-cit-0037">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kang</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name> (<year>2016</year>). <article-title>Methods to combine standard deviations of different subgroups in meta‐analysis[J]</article-title>. <source xml:lang="en">Chinese Journal of Evidence‐Based Medicine</source>, <volume>07</volume>, <fpage>851</fpage>–<lpage>854</lpage>. [in Chinese].</mixed-citation></ref></ref-list><app-group><app id="brb31831-app-0001" content-type="Appendix"><label>Appendix 1</label><sec id="brb31831-sec-0031"><p>
+<table-wrap id="nlm-table-wrap-1" xml:lang="en" orientation="portrait" position="anchor"><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">
+<p>Study,</p>
+<p>year</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">country</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>Age(years)</p>
+<p>Mean + <italic toggle="yes">SD</italic>
+</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">severity</th><th align="left" valign="top" rowspan="1" colspan="1">treatment</th><th align="left" valign="top" rowspan="1" colspan="1">
+<p>efficacy measure scores</p>
+</th><th align="left" valign="top" rowspan="1" colspan="1">Adverse events</th><th align="left" valign="top" rowspan="1" colspan="1">dropout</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<p>Araki,</p>
+<p>2014</p>
+</td><td align="left" rowspan="1" colspan="1">Japan</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 77.9 ± 9.8</p>
+<p>CG: 79.8 ± 4.6</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>moderate‐to‐severe</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: memantine+</p>
+<p>donepezil</p>
+<p>CG: memantine</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>MMSE,</p>
+<p>CDT, NPI, J‐ZBI, CGI‐I, and NIRS</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 3</p>
+<p>CG: 0</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 7</p>
+<p>CG: 5</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Atri,</p>
+<p>2013</p>
+</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">
+<p>Mod‐to‐</p>
+<p>sev:</p>
+<p>EG: 75.1 ± 8.5, CG: 75.8 ± 8.5</p>
+<p>Mod: EG: 75.9 ± 8.4, CG: 76.4 ± 8.2</p>
+</td><td align="left" rowspan="1" colspan="1">Moderate‐to‐severe, and moderate</td><td align="left" rowspan="1" colspan="1">
+<p>EG: memantine + donepezil</p>
+<p>CG: placebo + donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">SIB/ADCS‐Cog, ADCS‐ADL, CIBIC‐Plus</td><td align="left" rowspan="1" colspan="1">
+<p>Mod‐to‐</p>
+<p>sev:</p>
+<p>EG: 206,</p>
+<p>CG: 186</p>
+<p>Mod: EG: 144, CG: 136</p>
+</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Black,</p>
+<p>2007</p>
+</td><td align="left" rowspan="1" colspan="1">Canada</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 78.0 ± 8.04</p>
+<p>CG: 78.0 ± 8.20</p>
+</td><td align="left" rowspan="1" colspan="1">severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">SIB, CIBIC‐Plus, MMSE, ADCS‐ADL, NPI</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 140</p>
+<p>CG: 117</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 59</p>
+<p>CG: 40</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Cummings,</p>
+<p>2010</p>
+</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 77.8 ± 8.6</p>
+<p>CG: 79.0 ± 8.2</p>
+</td><td align="left" rowspan="1" colspan="1">severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE, SIB</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Fox,</p>
+<p>2012</p>
+</td><td align="left" rowspan="1" colspan="1">UK</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 84.9 ± 6.7</p>
+<p>CG: 84.4 ± 6.6</p>
+</td><td align="left" rowspan="1" colspan="1">Moderate‐to‐severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: memantine</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">CAMI, NPI, SIB, SMMSE, CGI‐C</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 135</p>
+<p>CG: 128</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 25</p>
+<p>CG: 21</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Grossberg,</p>
+<p>2013</p>
+</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 76.2 ± 8.4</p>
+<p>CG: 76.8 ± 7.8</p>
+</td><td align="left" rowspan="1" colspan="1">Moderate‐to‐severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: memantine</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">SIB, CIBIC‐Plus, ADCS‐ADL, NPI, VFT</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 214</p>
+<p>CG: 214</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 69</p>
+<p>CG: 63</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Herrmann,</p>
+<p>2013</p>
+</td><td align="left" rowspan="1" colspan="1">Canada</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 74.7 ± 7.9</p>
+<p>CG: 75.1 ± 6.9</p>
+</td><td align="left" rowspan="1" colspan="1">Moderate‐to‐severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: memantine</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">NPI, SIB</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 138</p>
+<p>CG: 136</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 31</p>
+<p>CG: 32</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Holmes,</p>
+<p>2004</p>
+</td><td align="left" rowspan="1" colspan="1">UK</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 78.6 ± 1.4</p>
+<p>CG: 78.8 ± 1.2</p>
+</td><td align="left" rowspan="1" colspan="1">Mild‐to‐moderate</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">NPI, MMSE</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG:</p>
+<p>6</p>
+<p>CG: 10</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Homma,</p>
+<p>2000</p>
+</td><td align="left" rowspan="1" colspan="1">Japan</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 70.1 ± 7.6</p>
+<p>CG: 69.4 ± 8.8</p>
+</td><td align="left" rowspan="1" colspan="1">Mild‐to‐moderate‐severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">ADAS‐j, CDR‐SB, MENFIS, CMCS</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 54</p>
+<p>CG: 33</p>
+</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Homma,</p>
+<p>2008</p>
+</td><td align="left" rowspan="1" colspan="1">Japan</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1:78.0 ± 8.9</p>
+<p>EG 2:76.9 ± 7.9</p>
+<p>CG: 79.7 ± 7.5</p>
+</td><td align="left" rowspan="1" colspan="1">Severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1: donepezil (5 mg/d)</p>
+<p>EG 2:</p>
+<p>Donepezil</p>
+<p>(10 mg/d)</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">SIB, ADCS‐ADL, CIBIC‐Plus</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1:101</p>
+<p>EG 2:</p>
+<p>96</p>
+<p>CG:</p>
+<p>105</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1:</p>
+<p>20</p>
+<p>EG 2:</p>
+<p>25</p>
+<p>CG:</p>
+<p>26</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Jelic,</p>
+<p>2008</p>
+</td><td align="left" rowspan="1" colspan="1">Sweden</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 84.5 ± 6.0</p>
+<p>CG: 85.3 ± 5.9</p>
+</td><td align="left" rowspan="1" colspan="1">Severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">SIB, ADCS‐ADL, MMSE, NPI, CGI‐I</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Jia,</p>
+<p>2017</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 71.6 ± 8.56</p>
+<p>CG: 70.0 ± 9.57</p>
+</td><td align="left" rowspan="1" colspan="1">severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">SIB, CIBIC‐Plus, MMSE</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 53</p>
+<p>CG: 45</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 29</p>
+<p>CG: 30</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Knapp,</p>
+<p>2016</p>
+</td><td align="left" rowspan="1" colspan="1">UK</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1:77.2</p>
+<p>EG 2:76.2</p>
+<p>EG 3:77.5</p>
+<p>CG: 77.7</p>
+</td><td align="left" rowspan="1" colspan="1">Moderate‐to‐severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1: Donepezil</p>
+<p>EG 2: memantine</p>
+<p>EG 3: donepezil + memantine</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">sMMSE, BADLS, NPI</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Modrego,</p>
+<p>2010</p>
+</td><td align="left" rowspan="1" colspan="1">Spain</td><td align="left" rowspan="1" colspan="1">77.28 ± 4.88</td><td align="left" rowspan="1" colspan="1">Mild‐to‐moderate</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1: donepezil</p>
+<p>EG 2: memantine</p>
+</td><td align="left" rowspan="1" colspan="1">ADCS‐cog, DAD, NPI</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Peng,</p>
+<p>2005</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 72.6 ± 6.8</p>
+<p>CG: 71.8 ± 8.2</p>
+</td><td align="left" rowspan="1" colspan="1">Mild‐to‐moderate</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE, CDR, ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 7</p>
+<p>CG: 2</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 4</p>
+<p>CG: 2</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Peskind,</p>
+<p>2006</p>
+</td><td align="left" rowspan="1" colspan="1">US</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 78.0 ± 7.3</p>
+<p>CG: 77.0 ± 8.2</p>
+</td><td align="left" rowspan="1" colspan="1">Mild‐to‐moderate</td><td align="left" rowspan="1" colspan="1">
+<p>EG: memantine</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">ADAS‐cog, ADCS‐ADL, CIBIC‐Plus, NPI,</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 120</p>
+<p>CG: 99</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 36</p>
+<p>CG: 35</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Tariot,</p>
+<p>2004</p>
+</td><td align="left" rowspan="1" colspan="1">US</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 75.5 ± 8.45</p>
+<p>CG: 75.5 ± 8.73</p>
+</td><td align="left" rowspan="1" colspan="1">Moderate‐to‐severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: memantine</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">SIB, ADCS‐ADL, CIBIC‐Plus, NPI</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 158</p>
+<p>CG: 156</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 30</p>
+<p>CG: 51</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Tune,</p>
+<p>2003</p>
+</td><td align="left" rowspan="1" colspan="1">US</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 73.7</p>
+<p>CG: 72.2</p>
+</td><td align="left" rowspan="1" colspan="1">Mild‐to‐moderate</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">ACAS‐cog, NPI</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Van Dyck,</p>
+<p>2007</p>
+</td><td align="left" rowspan="1" colspan="1">US</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 78.1 ± 8.2</p>
+<p>CG: 78.3 ± 7.6</p>
+</td><td align="left" rowspan="1" colspan="1">Moderate‐to‐severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: memantine</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">SIB, ADCS‐ADL, CIBIC‐Plus, NPI</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 131</p>
+<p>CG: 125</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 44</p>
+<p>CG: 46</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Winblad, 2006</td><td align="left" rowspan="1" colspan="1">Sweden</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 84.5 ± 6.0</p>
+<p>CG: 85.3 ± 5.9</p>
+</td><td align="left" rowspan="1" colspan="1">Severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil</p>
+<p>CG: placebo</p>
+</td><td align="left" rowspan="1" colspan="1">SIB, ADCS‐ADL, CGI‐I, MMSE, NPI</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 126</p>
+<p>CG: 100</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 33</p>
+<p>CG: 21</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Zhang,</p>
+<p>2015</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 69.75 ± 8.06</p>
+<p>CG: 70.13 ± 7.99</p>
+</td><td align="left" rowspan="1" colspan="1">Mild‐to‐moderate</td><td align="left" rowspan="1" colspan="1">
+<p>EG: memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">ADAS‐cog, ADL, NPI, MMSE</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Bao,</p>
+<p>2017</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 65.0 ± 7.2</p>
+<p>CG: 65.4 ± 6.4</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">ADL, MMSE, ADAS‐cog,</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 7</p>
+<p>CG: 8</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Cui,</p>
+<p>2019</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 69.7 ± 4.3</p>
+<p>CG: 69.9 ± 4.5</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">ADAS‐cog, ADL, NPI, MMSE</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 7</p>
+<p>CG: 8</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Deng,</p>
+<p>2017</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 66.4 ± 5.4</p>
+<p>CG: 67.2 ± 4.9</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: memantine</p>
+</td><td align="left" rowspan="1" colspan="1">ADAS‐cog, ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 2</p>
+<p>CG: 3</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Fang,</p>
+<p>2017</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 71.25 ± 4.22</p>
+<p>CG: 71.23 ± 4.25</p>
+</td><td align="left" rowspan="1" colspan="1">‐</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MMAE, ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 5</p>
+<p>CG: 4</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Guo,</p>
+<p>2014</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 74.9 ± 1.02</p>
+<p>CG: 75.10 ± 0.98</p>
+</td><td align="left" rowspan="1" colspan="1">Moderate‐to‐severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">SIB, ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 6</p>
+<p>CG: 5</p>
+</td><td align="left" rowspan="1" colspan="1">‐</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Huo,</p>
+<p>2015</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 70.3 ± 3.1</p>
+<p>CG: 69.3 ± 2.8</p>
+</td><td align="left" rowspan="1" colspan="1">Moderate‐to‐severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: memantine</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>MMSE, ADAS‐cog, ADL, NPI</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 18</p>
+<p>CG: 15</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Ji,</p>
+<p>2018</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 68.3 ± 5.4</p>
+<p>CG: 70.5 ± 6.2</p>
+</td><td align="left" rowspan="1" colspan="1">moderate</td><td align="left" rowspan="1" colspan="1">
+<p>EG: memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE, ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 1</p>
+<p>CG: 0</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Jiang,</p>
+<p>2016</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 75.62 ± 8.13</p>
+<p>CG: 76.37 ± 5.30</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MoCA, MMSE, ADL</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Jiao,</p>
+<p>2016</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG:</p>
+<p>65 ± 6</p>
+<p>CG: 67.6 ± 6</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">ADAS‐cog, MMSE, ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 6</p>
+<p>CG: 7</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Li Q,</p>
+<p>2016</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 85.01 ± 3.31</p>
+<p>CG: 82.67 ± 5.44</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>ADAS‐cog, MMSE, ADL, NPI</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 7</p>
+</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Li R,</p>
+<p>2016</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 77.5 ± 6.7</p>
+<p>CG: 76.2 ± 6.4</p>
+</td><td align="left" rowspan="1" colspan="1">Moderate‐to‐severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>ADAS‐cog, MMSE, ADL, NPI</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 3</p>
+<p>CG: 0</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Liu DD,</p>
+<p>2017</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 76.5 ± 8.2</p>
+<p>CG: 77.3 ± 8.1</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE, ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 2</p>
+<p>CG: 1</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Liu L,</p>
+<p>2019</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 64.5 ± 3.5</p>
+<p>CG: 65.6 ± 4.5</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE, ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 4</p>
+<p>CG: 3</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Liu WG,</p>
+<p>2011</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1:77.2 ± 4.7</p>
+<p>EG 2:76.4 ± 4.9</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1: memantine</p>
+<p>EG 2: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1:8</p>
+<p>EG 2:19</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1:0</p>
+<p>EG 2:0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Mao,</p>
+<p>2014</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">68.5 ± 10.0</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: memantine</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE, ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 9</p>
+<p>CG: 8</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Mi,</p>
+<p>2014</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>China</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 74.0 ± 6.7</p>
+<p>CG: 74.3 ± 6.7</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>Moderate‐to‐severe</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>ADAS‐cog, MMSE, ADL, NPI</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 13</p>
+<p>CG: 11</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Peng,</p>
+<p>2015</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 83.4 ± 10.5</p>
+<p>CG: 82.6 ± 9.6</p>
+</td><td align="left" rowspan="1" colspan="1">Moderate‐to‐severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>ADAS‐cog, MMSE, ADL, NPI</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 3</p>
+<p>CG: 2</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Ren,</p>
+<p>2017</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1:72.34 ± 4.76</p>
+<p>EG 2:71.94 ± 5.03</p>
+</td><td align="left" rowspan="1" colspan="1">Mild‐to‐moderate</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1: memantine</p>
+<p>EG 2: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE, GDS, ADAS‐cog, ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1:7</p>
+<p>EG 2:4</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG 1:0</p>
+<p>EG 2:0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Song,</p>
+<p>2017</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 70.1 ± 7.0</p>
+<p>CG: 70.7 ± 6.6</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>ADAS‐cog, MMSE, ADL, NPI</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 1</p>
+<p>CG: 1</p>
+</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Su,</p>
+<p>2017</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 73.74 ± 2.06</p>
+<p>CG: 7.25 ± 1.24</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">ADAS‐cog, MMSE, ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 6</p>
+<p>CG: 7</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Wang X,</p>
+<p>2015</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 75.5 ± 6.7</p>
+<p>CG: 76.1 ± 6.9</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">ADCS‐cog, ADL, MMSE</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 7</p>
+<p>CG: 6</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Wang YJ,</p>
+<p>2019</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 73.62 ± 6.43</p>
+<p>CG: 73.62 ± 6.43</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Wei,</p>
+<p>2016</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 69.2 ± 8.3</p>
+<p>CG: 69.1 ± 8.1</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>ADAS‐cog, MMSE, ADL, NPI</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 2</p>
+<p>CG: 3</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Wu,</p>
+<p>2016</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 72.31 ± 6.62</p>
+<p>CG: 72.51 ± 6.07</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">ADAS‐cog, ADL</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Xu,</p>
+<p>2012</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">Moderate‐to‐severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE, ADL</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Yang H,</p>
+<p>2013</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 74.9 ± 1.02</p>
+<p>CG: 75.1 ± 0.98</p>
+</td><td align="left" rowspan="1" colspan="1">Moderate‐to‐severe</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 6</p>
+<p>CG: 5</p>
+</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Yang Y,</p>
+<p>2020</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 69.04 ± 1.65</p>
+<p>CG: 68.92 ± 1.74</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE, ADAS‐cog, ADL</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Yang Z,</p>
+<p>2020</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 80.98 ± 6.81</p>
+<p>CG: 80.34 ± 6.58</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE, ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 7</p>
+<p>CG: 16</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Yu,</p>
+<p>2015</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 78.7 ± 10.4</p>
+<p>CG: 70.4 ± 9.3</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE, ADL, NPI</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 4</p>
+<p>CG: 2</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Yue,</p>
+<p>2015</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 77.5 ± 5.8</p>
+<p>CG: 72.3 ± 6.4</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">ADAS‐cog, NPI, ADL</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 2</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Zhang,</p>
+<p>2012</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG1: 74.8 ± 8.2</p>
+<p>EG2: 75.1 ± 7.9</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG1: memantine</p>
+<p>EG2: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE, ADAS‐cog</td><td align="left" rowspan="1" colspan="1">
+<p>EG1: 1</p>
+<p>EG2: 8</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG1: 0</p>
+<p>EG2: 0</p>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Zhao,</p>
+<p>2010</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">
+<p>EG1: 70.3 ± 4.9</p>
+<p>EG2: 69.1 ± 5.6</p>
+</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG1: memantine</p>
+<p>EG2: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">MMSE, ADAS‐cog</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">_</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<p>Zheng,</p>
+<p>2011</p>
+</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">85.96 ± 4.82</td><td align="left" rowspan="1" colspan="1">_</td><td align="left" rowspan="1" colspan="1">
+<p>EG: donepezil + memantine</p>
+<p>CG: donepezil</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>ADAS‐cog, MMSE, ADL, NPI</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 2</p>
+<p>CG: 2</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>EG: 0</p>
+<p>CG: 0</p>
+</td></tr></tbody></table></table-wrap>
+</p></sec></app></app-group></back></article></pmc-articleset>

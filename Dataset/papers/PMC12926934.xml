@@ -1,0 +1,1211 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="nyas70078" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Ann N Y Acad Sci</journal-id><journal-id journal-id-type="iso-abbrev">Ann N Y Acad Sci</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">NYAS</journal-id><journal-title-group><journal-title>Annals of the New York Academy of Sciences</journal-title></journal-title-group><issn pub-type="ppub">0077-8923</issn><issn pub-type="epub">1749-6632</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12926934</article-id><article-id pub-id-type="pmcid-ver">PMC12926934.1</article-id><article-id pub-id-type="pmcaid">12926934</article-id><article-id pub-id-type="pmcaiid">12926934</article-id><article-id pub-id-type="pmid">41342354</article-id><article-id pub-id-type="doi">10.1111/nyas.70078</article-id><article-id pub-id-type="publisher-id">NYAS70078</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="article-subject-classification"><subject>Biological Sciences</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Neuroscience</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Psychology</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Public Health</subject></subj-group><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Globus Pallidus Iron Relates to Cognitive Impairment in Alzheimer's Disease: Evidence From MRI‐Based Meta‐Analysis</article-title></title-group><contrib-group><contrib id="nyas70078-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Mieling</surname><given-names initials="M">Marthe</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5312-2648</contrib-id><xref rid="nyas70078-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>m.mieling@uni-luebeck.de</email></address></contrib><contrib id="nyas70078-cr-0002" contrib-type="author"><name name-style="western"><surname>Wiskow</surname><given-names initials="C">Clara</given-names></name><xref rid="nyas70078-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="nyas70078-cr-0003" contrib-type="author" corresp="yes"><name name-style="western"><surname>Bunzeck</surname><given-names initials="N">Nico</given-names></name><xref rid="nyas70078-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="nyas70078-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>nico.bunzeck@uni-luebeck.de</email></address></contrib></contrib-group><aff id="nyas70078-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychology</named-content>
+<institution>University of Lübeck</institution>
+<city>Lübeck</city>
+<country country="DE">Germany</country>
+</aff><aff id="nyas70078-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Center of Brain, Behavior and Metabolism</named-content>
+<institution>University of Lübeck</institution>
+<city>Lübeck</city>
+<country country="DE">Germany</country>
+</aff><pub-date pub-type="epub"><day>04</day><month>12</month><year>2025</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2026</year></pub-date><volume>1556</volume><issue seq="170">1</issue><issue-id pub-id-type="pmc-issue-id">508109</issue-id><issue-id pub-id-type="doi">10.1111/nyas.v1556.1</issue-id><elocation-id>e70078</elocation-id><history><date date-type="rev-recd"><day>09</day><month>7</month><year>2025</year></date><date date-type="received"><day>26</day><month>3</month><year>2025</year></date><date date-type="accepted"><day>01</day><month>8</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>23</day><month>02</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>24</day><month>02</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-02-24 00:25:12.683"><day>24</day><month>02</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Annals of the New York Academy of Sciences</italic> published by Wiley Periodicals LLC on behalf of The New York Academy of Sciences.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="NYAS-1556-0.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:NYAS-1556-0.pdf"/><abstract><title>ABSTRACT</title><p>Iron is essential for brain metabolism and cognitive functioning, but excessive levels during healthy and pathological aging can have detrimental effects. Although this notion was supported by several single studies, meta‐analytic evidence in Alzheimer's disease (AD) is still scarce. Therefore, we performed a meta‐analysis of 23 MRI experiments with, in total, 715 AD patients and 1130 healthy controls (HC). All studies employed iron sensitive markers in basal ganglia structures, thalamus, and hippocampus, together with the Mini‐Mental‐Status‐Examination (MMSE) to quantify cognitive performance. In all regions of interest, significantly higher iron levels were present in people with AD compared to HC, with the most pronounced effects in the putamen followed by the caudate. Importantly, only globus pallidus iron levels were negatively correlated with MMSE performance in AD patients. Our results provide unique evidence that increases in iron levels, especially within basal ganglia structures, which provide a hub for cognitive information processing, are a characteristic hallmark of AD.</p></abstract><abstract id="nyas70078-abs-0001" abstract-type="graphical"><p>Iron is crucial for brain functioning, but excessive levels can harm brain health. While previous studies support this, meta‐analytic evidence in Alzheimer's disease (AD) is limited. We performed a meta‐analysis of 23 MRI studies with 715 AD patients and 1130 healthy controls. Higher iron levels in the basal ganglia were found in AD, with globus pallidus iron levels negatively correlating with cognitive performance, emphasizing iron's role in AD. 
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="NYAS-1556-0-g004.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="nyas70078-kwd-0001">Alzheimer's disease</kwd><kwd id="nyas70078-kwd-0002">basal ganglia</kwd><kwd id="nyas70078-kwd-0003">cognitive performance</kwd><kwd id="nyas70078-kwd-0004">iron</kwd><kwd id="nyas70078-kwd-0005">MRI</kwd><kwd id="nyas70078-kwd-0006">meta‐analysis</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>University of Lübeck</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="7"/><table-count count="3"/><page-count count="13"/><word-count count="8988"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:23.02.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="nyas70078-cit-0094">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Mieling</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wiskow</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Bunzeck</surname>
+</string-name>, “<article-title>Globus Pallidus Iron Relates to Cognitive Impairment in Alzheimer's Disease: Evidence From MRI‐Based Meta‐Analysis</article-title>.” <source>Annals of the New York Academy of Sciences</source>
+<volume>1556</volume>, no. <issue>1</issue> (<year>2026</year>): <elocation-id>e70078</elocation-id>. <pub-id pub-id-type="doi">10.1111/nyas.70078</pub-id>
+<pub-id pub-id-type="pmcid">PMC12926934</pub-id><pub-id pub-id-type="pmid">41342354</pub-id></mixed-citation>
+</p><fn-group><fn id="nyas70078-note-0001"><p>
+<bold>Funding</bold>: This research was financially supported by the University of Lübeck.</p></fn></fn-group></notes></front><body><sec id="nyas70078-sec-0010"><label>1</label><title>Introduction</title><p>Non‐heme iron is essential for several metabolic processes, ensuring normal brain functioning and behavior [<xref rid="nyas70078-bib-0001" ref-type="bibr">1</xref>, <xref rid="nyas70078-bib-0002" ref-type="bibr">2</xref>]. However, increased cerebral iron levels are reported not only in healthy older adults [<xref rid="nyas70078-bib-0003" ref-type="bibr">3</xref>, <xref rid="nyas70078-bib-0004" ref-type="bibr">4</xref>] but also in patients suffering from Alzheimer's disease (AD) and mild‐cognitive impaired (MCI) [e.g., <xref rid="nyas70078-bib-0005" ref-type="bibr">5</xref>, <xref rid="nyas70078-bib-0006" ref-type="bibr">6</xref>, <xref rid="nyas70078-bib-0007" ref-type="bibr">7</xref>, <xref rid="nyas70078-bib-0008" ref-type="bibr">8</xref>]. Therefore, regionally specific excessive iron could lead to cognitive decline [<xref rid="nyas70078-bib-0009" ref-type="bibr">9</xref>, <xref rid="nyas70078-bib-0010" ref-type="bibr">10</xref>] and structural brain atrophy [<xref rid="nyas70078-bib-0010" ref-type="bibr">10</xref>]. In fact, iron level increases have been linked with cognitive abilities, as measured with the Mini‐Mental‐Status‐Examination (MMSE) or Montreal‐Cognitive‐Assessment (MoCa) [<xref rid="nyas70078-bib-0010" ref-type="bibr">10</xref>, <xref rid="nyas70078-bib-0011" ref-type="bibr">11</xref>, <xref rid="nyas70078-bib-0012" ref-type="bibr">12</xref>, <xref rid="nyas70078-bib-0013" ref-type="bibr">13</xref>]. Moreover, several post‐mortem and in vivo studies have provided evidence for a co‐localization of iron and tau [<xref rid="nyas70078-bib-0009" ref-type="bibr">9</xref>, <xref rid="nyas70078-bib-0014" ref-type="bibr">14</xref>, <xref rid="nyas70078-bib-0015" ref-type="bibr">15</xref>] as well as amyloid pathology [<xref rid="nyas70078-bib-0016" ref-type="bibr">16</xref>, <xref rid="nyas70078-bib-0017" ref-type="bibr">17</xref>] suggesting a direct relationship. While iron promotes oxidative stress [<xref rid="nyas70078-bib-0018" ref-type="bibr">18</xref>, <xref rid="nyas70078-bib-0019" ref-type="bibr">19</xref>] and aggregation of amyloid‐beta peptide [<xref rid="nyas70078-bib-0020" ref-type="bibr">20</xref>], they both (iron and oxidative stress) mediate amyloid‐beta toxicity [<xref rid="nyas70078-bib-0021" ref-type="bibr">21</xref>]. Conversely, iron promotes tau phosphorylation [<xref rid="nyas70078-bib-0022" ref-type="bibr">22</xref>] and the aggregation of hyperphosphorylated tau into neurofibrillary tangles [<xref rid="nyas70078-bib-0023" ref-type="bibr">23</xref>, <xref rid="nyas70078-bib-0024" ref-type="bibr">24</xref>].</p><p>A previous post‐mortem meta‐analysis, published in 2014, revealed higher iron levels in the putamen, caudate nucleus, globus pallidus, amygdala, cingulate cortex, as well as the frontal, parietal, and temporal lobes in AD patients compared to healthy controls (HC) [<xref rid="nyas70078-bib-0025" ref-type="bibr">25</xref>]. While this is an important finding, in vivo neuroimaging methods potentially allow for a much clearer link to cognitive decline as well as novel insights into the basis of paramagnetic brain iron [<xref rid="nyas70078-bib-0026" ref-type="bibr">26</xref>, <xref rid="nyas70078-bib-0027" ref-type="bibr">27</xref>]. For instance, most studies comparing iron levels of AD versus HC using magnetic resonance imaging (MRI) reported significant iron level increases in basal ganglia structures, the amygdala, thalamus, and hippocampus [e.g, <xref rid="nyas70078-bib-0006" ref-type="bibr">6</xref>, <xref rid="nyas70078-bib-0007" ref-type="bibr">7</xref>, <xref rid="nyas70078-bib-0028" ref-type="bibr">28</xref>, <xref rid="nyas70078-bib-0029" ref-type="bibr">29</xref>, <xref rid="nyas70078-bib-0030" ref-type="bibr">30</xref>], which was confirmed by a recent neuroimaging meta‐analysis [<xref rid="nyas70078-bib-0031" ref-type="bibr">31</xref>]. However, the latter focused only on original studies with quantitative susceptibility mapping (QSM) and did not focus on cognition; therefore, meta‐analytic evidence, especially concerning a possible relationship of increased iron levels and impaired cognitive abilities in AD, is scarce.</p><p>To this end, we performed random‐effects meta‐analyses on previously published data using iron‐sensitive MRI, such as T2*, T2′, R2*, R2′, field‐dependent <italic toggle="yes">R</italic>
+<sub>2</sub> increase (FDRI), susceptibility‐weighted imaging (SWI), and QSM [<xref rid="nyas70078-bib-0026" ref-type="bibr">26</xref>, <xref rid="nyas70078-bib-0032" ref-type="bibr">32</xref>, <xref rid="nyas70078-bib-0033" ref-type="bibr">33</xref>]. All included studies reported a comparison of AD patients versus age‐matched HC for either one or more brain regions: putamen, caudate nucleus, globus pallidus, hippocampus, and thalamus [e.g., <xref rid="nyas70078-bib-0006" ref-type="bibr">6</xref>, <xref rid="nyas70078-bib-0007" ref-type="bibr">7</xref>, <xref rid="nyas70078-bib-0025" ref-type="bibr">25</xref>, <xref rid="nyas70078-bib-0028" ref-type="bibr">28</xref>, <xref rid="nyas70078-bib-0029" ref-type="bibr">29</xref>, <xref rid="nyas70078-bib-0030" ref-type="bibr">30</xref>]. For every brain region, a single random‐effects model was calculated, and, in a subsequent step, the relationship between iron levels and cognitive performance (i.e., MMSE scores) in AD patients was investigated via linear regression.</p></sec><sec id="nyas70078-sec-0020"><label>2</label><title>Methods</title><sec id="nyas70078-sec-0030"><label>2.1</label><title>Literature Search and Selection</title><p>This study followed the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta‐Analyses) 2020 guidelines [<xref rid="nyas70078-bib-0034" ref-type="bibr">34</xref>] (see Figure <xref rid="nyas70078-fig-0001" ref-type="fig">1</xref>). In detail, a systematic literature search was performed at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pubmed.ncbi.nlm.nih.gov" ext-link-type="uri">https://pubmed.ncbi.nlm.nih.gov</ext-link>, which included PubMed and MEDLINE databases, by using the search terms “MRI” AND “iron” AND “Alzheimer” OR “MRI iron Alzheimer” to find original MRI studies on brain iron in AD patients and healthy age‐matched controls (see below for details on MRI sequences). The search included all potentially relevant and published studies until June 10, 2025—there were 368 original studies assessed in our preselection. Subsequently, titles and abstracts were screened, and as a result, 308 articles were excluded since they did not meet our inclusion criteria. The remaining 60 original studies were examined in more detail by two independent researchers (M.M. and C.W.) based on a full‐text reading with regard to the inclusion and exclusion criteria. An additional literature search was performed in June 2025 as part of a peer review process using Scopus (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.scopus.com" ext-link-type="uri">https://www.scopus.com</ext-link>), which revealed 360 original studies and did not yield any additional relevant articles.</p><fig position="float" fig-type="FIGURE" id="nyas70078-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Flowchart of the steps performed in the meta‐analysis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="NYAS-1556-0-g003.jpg"/></fig><p>The inclusion criteria comprised (1) AD patients diagnosed according to well‐established criteria; (2) the comparison of AD patients to HC; (3) no considerable age difference between AD patients and HC; (4) the data analysis was based on predetermined regions of interest (ROIs); (5) namely one or more of the following ROIs: putamen, caudate nucleus, globus pallidus, hippocampus, or thalamus; and (6) an iron‐sensitive MRI‐sequence was used, for instance, T2*, T2′, R2*, R2′, FDRI, SWI, and QSM. Articles were excluded based on the following criteria: (1) using T2 or R2 MRI sequence [<xref rid="nyas70078-bib-0026" ref-type="bibr">26</xref>, <xref rid="nyas70078-bib-0032" ref-type="bibr">32</xref>, <xref rid="nyas70078-bib-0035" ref-type="bibr">35</xref>], (2) review articles, (3) post‐mortem studies, (4) animal models, (5) re‐analysis of previously used data (i.e., repeated use of the same sample), and (6) missing data information. If a study included multiple independent experiments contributing to a single analysis [<xref rid="nyas70078-bib-0036" ref-type="bibr">36</xref>], these were incorporated and treated as  separate experiments. If necessary, a third researcher (N.B.) was consulted.</p><p>The final selection of included articles and study‐related information can be found in Table <xref rid="nyas70078-tbl-0001" ref-type="table">1</xref>. Cross‐checking with the original literature prevented potential sample overlap between the studies. This refers to sample characteristics, author affiliations, and scanning locations.</p><table-wrap position="float" id="nyas70078-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Overview of the experiment characteristics of all included experiments.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">Authors and year</th><th align="center" rowspan="1" colspan="1">Method</th><th colspan="10" style="border-bottom:solid 1px #000000" align="center" rowspan="1">Participants</th><th colspan="5" style="border-bottom:solid 1px #000000" align="center" rowspan="1">Effect size (<italic toggle="yes">d</italic>)</th></tr><tr><th align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1"/><th colspan="6" style="border-bottom:solid 1px #000000" align="center" rowspan="1">AD</th><th colspan="4" style="border-bottom:solid 1px #000000" align="center" rowspan="1">HC</th><th align="center" rowspan="1" colspan="1">PUT</th><th align="center" rowspan="1" colspan="1">CN</th><th align="center" rowspan="1" colspan="1">GP</th><th align="center" rowspan="1" colspan="1">HIP</th><th align="center" rowspan="1" colspan="1">THAL</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Group description</th><th align="center" rowspan="1" colspan="1">Diagnosis</th><th align="center" rowspan="1" colspan="1">N</th><th align="center" rowspan="1" colspan="1">
+<p>Age</p>
+<p>(mean ± SD)</p>
+</th><th align="center" rowspan="1" colspan="1">Sex (f/m)</th><th align="center" rowspan="1" colspan="1">MMSE</th><th align="center" rowspan="1" colspan="1">N</th><th align="center" rowspan="1" colspan="1">Age</th><th align="center" rowspan="1" colspan="1">Sex (f/m)</th><th align="center" rowspan="1" colspan="1">MMSE</th><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Ayton et al. (2017) [<xref rid="nyas70078-bib-0005" ref-type="bibr">5</xref>]</td><td align="center" rowspan="1" colspan="1">QSM; 3T</td><td align="center" rowspan="1" colspan="1">Probable/possible AD</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">64</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">0.501</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">−0.557</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Bartzokis (2000) [<xref rid="nyas70078-bib-0092" ref-type="bibr">92</xref>]</td><td align="center" rowspan="1" colspan="1">FDRI; 0.5T. 1.5T</td><td align="center" rowspan="1" colspan="1">Probable/possible AD</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">31</td><td align="center" rowspan="1" colspan="1">75.6 ± 6.7</td><td align="center" rowspan="1" colspan="1">1.214</td><td align="center" rowspan="1" colspan="1">17.3 ± 7.39</td><td align="center" rowspan="1" colspan="1">68</td><td align="center" rowspan="1" colspan="1">68.8 ± 5.3</td><td align="center" rowspan="1" colspan="1">0.889</td><td align="center" rowspan="1" colspan="1">28.4 ± 0.92</td><td align="center" rowspan="1" colspan="1">0.677</td><td align="center" rowspan="1" colspan="1">0.652</td><td align="center" rowspan="1" colspan="1">0.182</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Bartzokis (1994) [<xref rid="nyas70078-bib-0093" ref-type="bibr">93</xref>]</td><td align="center" rowspan="1" colspan="1">FDRI; 0.5T. 1.5T</td><td align="center" rowspan="1" colspan="1">Probable AD; mild‐to‐moderate AD</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">72.6 ± 3.97</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">17.8 ± 5.45</td><td align="center" rowspan="1" colspan="1">8</td><td align="center" rowspan="1" colspan="1">72.5 ± 4.5</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">28.6 ± 1.19</td><td align="center" rowspan="1" colspan="1">1.034</td><td align="center" rowspan="1" colspan="1">1.239</td><td align="center" rowspan="1" colspan="1">1.261</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Bartzokis et al. (2004) [<xref rid="nyas70078-bib-0064" ref-type="bibr">64</xref>]</td><td align="center" rowspan="1" colspan="1">FDRI; 0.5T. 1.5T</td><td align="center" rowspan="1" colspan="1">Probable/possible AD; onset &gt;70 years</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">10</td><td align="center" rowspan="1" colspan="1">81.6 ± 3.4</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">19.4 ± 5.4</td><td align="center" rowspan="1" colspan="1">36</td><td align="center" rowspan="1" colspan="1">68.7 ± 4.9</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">0.52</td><td align="center" rowspan="1" colspan="1">0.55</td><td align="center" rowspan="1" colspan="1">−0.296</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Chen et al. (2024) [<xref rid="nyas70078-bib-0066" ref-type="bibr">66</xref>]</td><td align="center" rowspan="1" colspan="1">QSM</td><td align="center" rowspan="1" colspan="1">Probable/possible AD</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">30</td><td align="center" rowspan="1" colspan="1">68.5 ± 3.86</td><td align="center" rowspan="1" colspan="1">2.333</td><td align="center" rowspan="1" colspan="1">19.77 ± 4.97</td><td align="center" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">65.5 ± 3.4</td><td align="center" rowspan="1" colspan="1">2.714</td><td align="center" rowspan="1" colspan="1">27.96 ± 1.64</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">−0.278</td><td align="center" rowspan="1" colspan="1">0.136</td></tr><tr><td align="left" rowspan="1" colspan="1">Chiang et al. (2022)[<xref rid="nyas70078-bib-0065" ref-type="bibr">65</xref>]</td><td align="center" rowspan="1" colspan="1">QSM; 3T</td><td align="center" rowspan="1" colspan="1">Cognitively impaired</td><td align="center" rowspan="1" colspan="1">Exclusion of other etiologies; neurological examination. Neuropsychological assessment. Laboratory data. MRI</td><td align="center" rowspan="1" colspan="1">68</td><td align="center" rowspan="1" colspan="1">72 ± 8.4</td><td align="center" rowspan="1" colspan="1">1.519</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">32</td><td align="center" rowspan="1" colspan="1">69 ± 9.9</td><td align="center" rowspan="1" colspan="1">2.556</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">0.52</td><td align="center" rowspan="1" colspan="1">−0.07</td><td align="center" rowspan="1" colspan="1">−0.562</td><td align="center" rowspan="1" colspan="1">0.197</td><td align="center" rowspan="1" colspan="1">0.212</td></tr><tr><td align="left" rowspan="1" colspan="1">Cogswell et al. (2021) [<xref rid="nyas70078-bib-0039" ref-type="bibr">39</xref>]</td><td align="center" rowspan="1" colspan="1">QSM; 3T</td><td align="center" rowspan="1" colspan="1">Amnestic dementia</td><td align="center" rowspan="1" colspan="1">NIA‐AA</td><td align="center" rowspan="1" colspan="1">56</td><td align="center" rowspan="1" colspan="1">68; IQR: 61–77</td><td align="center" rowspan="1" colspan="1">1.074</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">296</td><td align="center" rowspan="1" colspan="1">
+<p>69</p>
+<p>IQR: 59–76</p>
+</td><td align="center" rowspan="1" colspan="1">0.762</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">0.46</td><td align="center" rowspan="1" colspan="1">−0.154</td><td align="center" rowspan="1" colspan="1">0.438</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">−0.828</td></tr><tr><td align="left" rowspan="1" colspan="1">Damulina et al. (2020) [<xref rid="nyas70078-bib-0028" ref-type="bibr">28</xref>]</td><td align="center" rowspan="1" colspan="1">R2*; 3T</td><td align="center" rowspan="1" colspan="1">Probable/possible AD</td><td align="center" rowspan="1" colspan="1">DSM‐IV. NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">100</td><td align="center" rowspan="1" colspan="1">73 ± 9</td><td align="center" rowspan="1" colspan="1">1.381</td><td align="center" rowspan="1" colspan="1">22; IQR: 18.5–25</td><td align="center" rowspan="1" colspan="1">100</td><td align="center" rowspan="1" colspan="1">73 ± 9</td><td align="center" rowspan="1" colspan="1">1.5</td><td align="center" rowspan="1" colspan="1">28; IQR: 27–29</td><td align="center" rowspan="1" colspan="1">0.378</td><td align="center" rowspan="1" colspan="1">0.495</td><td align="center" rowspan="1" colspan="1">0.243</td><td align="center" rowspan="1" colspan="1">0.04</td><td align="center" rowspan="1" colspan="1">−0.054</td></tr><tr><td align="left" rowspan="1" colspan="1">Ding et al. (2009) [<xref rid="nyas70078-bib-0029" ref-type="bibr">29</xref>]</td><td align="center" rowspan="1" colspan="1">Phase; 1.5T</td><td align="center" rowspan="1" colspan="1">Probable AD</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">70.96 ± 8.55</td><td align="center" rowspan="1" colspan="1">2.25</td><td align="center" rowspan="1" colspan="1">16.0 ± 3.9</td><td align="center" rowspan="1" colspan="1">24</td><td align="center" rowspan="1" colspan="1">69.40 ± 11.38</td><td align="center" rowspan="1" colspan="1">1.667</td><td align="center" rowspan="1" colspan="1">29.4 ± 1.0</td><td align="center" rowspan="1" colspan="1">0.691</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">0.93</td><td align="center" rowspan="1" colspan="1">0.645</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Du et al. (2018) [<xref rid="nyas70078-bib-0007" ref-type="bibr">7</xref>]</td><td align="center" rowspan="1" colspan="1">QSM; 3T</td><td align="center" rowspan="1" colspan="1">Mild‐to‐moderate AD</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">30</td><td align="center" rowspan="1" colspan="1">68.3 ± 6.6</td><td align="center" rowspan="1" colspan="1">2.333</td><td align="center" rowspan="1" colspan="1">20.4 ± 2.4</td><td align="center" rowspan="1" colspan="1">30</td><td align="center" rowspan="1" colspan="1">66.2 ± 7.8</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">28.0 ± 1.3</td><td align="center" rowspan="1" colspan="1">0.571</td><td align="center" rowspan="1" colspan="1">0.574</td><td align="center" rowspan="1" colspan="1">−0.013</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">−0.319</td></tr><tr><td align="left" rowspan="1" colspan="1">Gao et al. (2017) [<xref rid="nyas70078-bib-0050" ref-type="bibr">50</xref>]</td><td align="center" rowspan="1" colspan="1">SWI; 3T</td><td align="center" rowspan="1" colspan="1">Probable AD</td><td align="center" rowspan="1" colspan="1">DSM‐IV. NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">30</td><td align="center" rowspan="1" colspan="1">74.83 ± 4.52</td><td align="center" rowspan="1" colspan="1">1.5</td><td align="center" rowspan="1" colspan="1">17.76 ± 4.15</td><td align="center" rowspan="1" colspan="1">30</td><td align="center" rowspan="1" colspan="1">72.86 ± 5.75</td><td align="center" rowspan="1" colspan="1">1.308</td><td align="center" rowspan="1" colspan="1">28.73 ± 1.11</td><td align="center" rowspan="1" colspan="1">1.849</td><td align="center" rowspan="1" colspan="1">0.63</td><td align="center" rowspan="1" colspan="1">0.555</td><td align="center" rowspan="1" colspan="1">0.628</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Guan et al. (2022) [<xref rid="nyas70078-bib-0043" ref-type="bibr">43</xref>]</td><td align="center" rowspan="1" colspan="1">QSM; 3T</td><td align="center" rowspan="1" colspan="1">Probable AD</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">51</td><td align="center" rowspan="1" colspan="1">68.7 ± 8.7</td><td align="center" rowspan="1" colspan="1">0.889</td><td align="center" rowspan="1" colspan="1">19.6 ± 3.9</td><td align="center" rowspan="1" colspan="1">189</td><td align="center" rowspan="1" colspan="1">61.4 ± 7.8</td><td align="center" rowspan="1" colspan="1">1.423</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">1.459</td><td align="center" rowspan="1" colspan="1">0.901</td><td align="center" rowspan="1" colspan="1">0.311</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Huang et al. (2023) [<xref rid="nyas70078-bib-0041" ref-type="bibr">41</xref>]</td><td align="center" rowspan="1" colspan="1">QSM; 3T</td><td align="center" rowspan="1" colspan="1">AD</td><td align="center" rowspan="1" colspan="1">NIA‐AA</td><td align="center" rowspan="1" colspan="1">43</td><td align="center" rowspan="1" colspan="1">62.63 ± 8.10</td><td align="center" rowspan="1" colspan="1">2.301</td><td align="center" rowspan="1" colspan="1">20.3 ± 1.89</td><td align="center" rowspan="1" colspan="1">27</td><td align="center" rowspan="1" colspan="1">58.70 ± 8.99</td><td align="center" rowspan="1" colspan="1">1.7</td><td align="center" rowspan="1" colspan="1">27.30 ± 2.20</td><td align="center" rowspan="1" colspan="1">0.591</td><td align="center" rowspan="1" colspan="1">0.793</td><td align="center" rowspan="1" colspan="1">0.4</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Kim et al. (2017) [<xref rid="nyas70078-bib-0006" ref-type="bibr">6</xref>]</td><td align="center" rowspan="1" colspan="1">QSM; 3T</td><td align="center" rowspan="1" colspan="1">Probable AD; mild AD</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">69.79 ± 10.27</td><td align="center" rowspan="1" colspan="1">8.5</td><td align="center" rowspan="1" colspan="1">17.37 ± 3.42</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">65.37 ± 6.26</td><td align="center" rowspan="1" colspan="1">5.333</td><td align="center" rowspan="1" colspan="1">28.16 ± 1.89</td><td align="center" rowspan="1" colspan="1">2.765</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">1.283</td><td align="center" rowspan="1" colspan="1">5.799</td><td align="center" rowspan="1" colspan="1">4.761</td></tr><tr><td align="left" rowspan="1" colspan="1">Kuchcinski (2022) [<xref rid="nyas70078-bib-0030" ref-type="bibr">30</xref>]</td><td align="center" rowspan="1" colspan="1">QSM; 3T</td><td align="center" rowspan="1" colspan="1">EOAD; probable AD; typical AD (tADMRI)</td><td align="center" rowspan="1" colspan="1">NIA‐AA</td><td align="center" rowspan="1" colspan="1">34</td><td align="center" rowspan="1" colspan="1">60.6 ± 4</td><td align="center" rowspan="1" colspan="1">1.267</td><td align="center" rowspan="1" colspan="1">15.8 ± 6</td><td align="center" rowspan="1" colspan="1">43</td><td align="center" rowspan="1" colspan="1">62.0 ± 4.3</td><td align="center" rowspan="1" colspan="1">1.867</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">0.876</td><td align="center" rowspan="1" colspan="1">0.274</td><td align="center" rowspan="1" colspan="1">0.915</td><td align="center" rowspan="1" colspan="1">0.211</td><td align="center" rowspan="1" colspan="1">1.9</td></tr><tr><td align="left" rowspan="1" colspan="1">Li et al. (2020) [<xref rid="nyas70078-bib-0011" ref-type="bibr">11</xref>]</td><td align="center" rowspan="1" colspan="1">QSM; 3T</td><td align="center" rowspan="1" colspan="1">Probable AD</td><td align="center" rowspan="1" colspan="1">NIA‐AA</td><td align="center" rowspan="1" colspan="1">22</td><td align="center" rowspan="1" colspan="1">71.5 ± 8.4</td><td align="center" rowspan="1" colspan="1">1.444</td><td align="center" rowspan="1" colspan="1">18.9 ± 3.4</td><td align="center" rowspan="1" colspan="1">25</td><td align="center" rowspan="1" colspan="1">69.3 ± 5.2</td><td align="center" rowspan="1" colspan="1">1.5</td><td align="center" rowspan="1" colspan="1">29.7 ± 0.6</td><td align="center" rowspan="1" colspan="1">2.376</td><td align="center" rowspan="1" colspan="1">1.433</td><td align="center" rowspan="1" colspan="1">2.47</td><td align="center" rowspan="1" colspan="1">0.127</td><td align="center" rowspan="1" colspan="1">0.739</td></tr><tr><td align="left" rowspan="1" colspan="1">Liu et al. (2021) [<xref rid="nyas70078-bib-0012" ref-type="bibr">12</xref>]</td><td align="center" rowspan="1" colspan="1">QSM; 3T</td><td align="center" rowspan="1" colspan="1">AD</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">30</td><td align="center" rowspan="1" colspan="1">68.37 ± 6.734</td><td align="center" rowspan="1" colspan="1">2.75</td><td align="center" rowspan="1" colspan="1">19.8 ± 3.925</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">66.68 ± 8.564</td><td align="center" rowspan="1" colspan="1">2.8</td><td align="center" rowspan="1" colspan="1">28 ± 1.856</td><td align="center" rowspan="1" colspan="1">0.516</td><td align="center" rowspan="1" colspan="1">2.064</td><td align="center" rowspan="1" colspan="1">0.139</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Moon et al. (2012) [<xref rid="nyas70078-bib-0049" ref-type="bibr">49</xref>]</td><td align="center" rowspan="1" colspan="1">T2*; 3T</td><td align="center" rowspan="1" colspan="1">AD</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">21</td><td align="center" rowspan="1" colspan="1">72.1 ± 6.5</td><td align="center" rowspan="1" colspan="1">2.5</td><td align="center" rowspan="1" colspan="1">21.2 ± 3.8</td><td align="center" rowspan="1" colspan="1">21</td><td align="center" rowspan="1" colspan="1">68.9 ± 5.3</td><td align="center" rowspan="1" colspan="1">4.25</td><td align="center" rowspan="1" colspan="1">28.0 ± 1.2</td><td align="center" rowspan="1" colspan="1">0.76</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">−0.462</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">0.9</td></tr><tr><td align="left" rowspan="1" colspan="1">Qin et al. (2011) [<xref rid="nyas70078-bib-0045" ref-type="bibr">45</xref>]</td><td align="center" rowspan="1" colspan="1">R2'; 1.5T</td><td align="center" rowspan="1" colspan="1">Probable AD</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">69.8</td><td align="center" rowspan="1" colspan="1">1.143</td><td align="center" rowspan="1" colspan="1">17.3</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">70.0</td><td align="center" rowspan="1" colspan="1">1.143</td><td align="center" rowspan="1" colspan="1">30</td><td align="center" rowspan="1" colspan="1">0.516</td><td align="center" rowspan="1" colspan="1">1.077</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">1.235</td><td align="center" rowspan="1" colspan="1">0.177</td></tr><tr><td align="left" rowspan="1" colspan="1">Tiepolt et al. (2020) [<xref rid="nyas70078-bib-0040" ref-type="bibr">40</xref>]</td><td align="center" rowspan="1" colspan="1">QSM; 3T</td><td align="center" rowspan="1" colspan="1">Cognitive impairment + Aβ PET‐positive</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">16</td><td align="center" rowspan="1" colspan="1">69 ± 9</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">25 ± 2</td><td align="center" rowspan="1" colspan="1">11</td><td align="center" rowspan="1" colspan="1">65 ± 3</td><td align="center" rowspan="1" colspan="1">1.75</td><td align="center" rowspan="1" colspan="1">30 ± 1</td><td align="center" rowspan="1" colspan="1">1.246</td><td align="center" rowspan="1" colspan="1">0.144</td><td align="center" rowspan="1" colspan="1">−0.07</td><td align="center" rowspan="1" colspan="1">0.487</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Wang et al. (2014) [<xref rid="nyas70078-bib-0013" ref-type="bibr">13</xref>]</td><td align="center" rowspan="1" colspan="1">SWI; 3T</td><td align="center" rowspan="1" colspan="1">Probable AD; age 60–70 years</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">20</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">0.818</td><td align="center" rowspan="1" colspan="1">20.3 ± 2.98</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">0.9</td><td align="center" rowspan="1" colspan="1">28.22 ± 0.97</td><td align="center" rowspan="1" colspan="1">0.134</td><td align="center" rowspan="1" colspan="1">−0.303</td><td align="center" rowspan="1" colspan="1">0.702</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Wang et al. (2014) [<xref rid="nyas70078-bib-0013" ref-type="bibr">13</xref>]</td><td align="center" rowspan="1" colspan="1">SWI; 3T</td><td align="center" rowspan="1" colspan="1">Probable AD; age 70–80 years</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">0.818</td><td align="center" rowspan="1" colspan="1">20.3 ± 1.89</td><td align="center" rowspan="1" colspan="1">10</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">0.9</td><td align="center" rowspan="1" colspan="1">27.84 ± 2.47</td><td align="center" rowspan="1" colspan="1">0.467</td><td align="center" rowspan="1" colspan="1">0.262</td><td align="center" rowspan="1" colspan="1">0.846</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">—</td></tr><tr><td align="left" rowspan="1" colspan="1">Wang et al.
+(2013) [<xref rid="nyas70078-bib-0051" ref-type="bibr">51</xref>]</td><td align="center" rowspan="1" colspan="1">SWI; 3T</td><td align="center" rowspan="1" colspan="1">Probable AD</td><td align="center" rowspan="1" colspan="1">NINCDS‐ADRDA</td><td align="center" rowspan="1" colspan="1">20</td><td align="center" rowspan="1" colspan="1">73.37 ± 9.81</td><td align="center" rowspan="1" colspan="1">0.758</td><td align="center" rowspan="1" colspan="1">21.15 ± 1.23</td><td align="center" rowspan="1" colspan="1">18</td><td align="center" rowspan="1" colspan="1">70.52 ± 6.91</td><td align="center" rowspan="1" colspan="1">1.087</td><td align="center" rowspan="1" colspan="1">28.22 ± 0.87</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">0.66</td><td align="center" rowspan="1" colspan="1">—</td><td align="center" rowspan="1" colspan="1">1.173</td><td align="center" rowspan="1" colspan="1">0.951</td></tr></tbody></table><table-wrap-foot><fn id="nyas70078-tbl1-note-0001"><p>Abbreviations: AD: Alzheimer's disease; CN: caudaute nucleus; GP: globus pallidus; HC: healthy controls; HIP: hippocampus; MMSE: Mini‐Mental‐State‐Examination; PUT: putamen; THAL: thalamus.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="nyas70078-sec-0040"><label>2.2</label><title>Participants</title><p>Participants were included and grouped based on their diagnoses explicitly reported in the original articles. The AD group met the diagnostic criteria for probable or possible AD, mostly in alignment with the National Institute of Neurological and Communicative Disorders and Stroke‐Alzheimer's Disease and Related Disorders Association (NINCDS‐ADRDA) or the National Institute on Aging and Alzheimer's Association (NIA‐AA) [<xref rid="nyas70078-bib-0037" ref-type="bibr">37</xref>]. Since additional information could enhance diagnostic accuracy [<xref rid="nyas70078-bib-0038" ref-type="bibr">38</xref>], we assessed how many studies reported data on amyloid, tau, or <italic toggle="yes">APOE4</italic>. However, the majority did not provide this information (amyloid: <italic toggle="yes">n</italic> = 5 [<xref rid="nyas70078-bib-0006" ref-type="bibr">6</xref>, <xref rid="nyas70078-bib-0009" ref-type="bibr">9</xref>, <xref rid="nyas70078-bib-0030" ref-type="bibr">30</xref>, <xref rid="nyas70078-bib-0039" ref-type="bibr">39</xref>, <xref rid="nyas70078-bib-0040" ref-type="bibr">40</xref>], tau: <italic toggle="yes">n</italic> = 2 [<xref rid="nyas70078-bib-0030" ref-type="bibr">30</xref>, <xref rid="nyas70078-bib-0039" ref-type="bibr">39</xref>], <italic toggle="yes">APOE4</italic>: <italic toggle="yes">n</italic> = 4 [<xref rid="nyas70078-bib-0009" ref-type="bibr">9</xref>, <xref rid="nyas70078-bib-0030" ref-type="bibr">30</xref>, <xref rid="nyas70078-bib-0039" ref-type="bibr">39</xref>, <xref rid="nyas70078-bib-0041" ref-type="bibr">41</xref>]), so we were unable to incorporate these biomarkers into our analysis.</p><p>Moreover, in all original articles, AD patients and HC were matched with regard to sex and age, which we further tested across studies using independent <italic toggle="yes">t</italic>‐tests. Participants were scanned at various scanner field strengths. For instance, FDRI was applied at field strengths of 0.5 Tesla and 1.5 Tesla, and phase imaging and R2′ were performed using a 1.5 Tesla scanner, while all other sequences were implemented at a field strength of 3 Tesla (see Table <xref rid="nyas70078-tbl-0001" ref-type="table">1</xref>).</p></sec><sec id="nyas70078-sec-0050"><label>2.3</label><title>Meta‐Analyses</title><sec id="nyas70078-sec-0060"><label>2.3.1</label><title>Overview</title><p>Our analyses were based on the following steps that will be explained in more detail below. First, the effect sizes (Cohen's <italic toggle="yes">d</italic>) of group differences in iron levels were calculated for all available ROIs on the basis of their mean values and standard deviations (SD). Second, five random‐effects meta‐analyses were computed separately for each ROI (putamen, caudate nucleus, globus pallidus, hippocampus, and thalamus). Third, we assessed a possible relationship between iron level differences between groups (effect sizes) and cognitive performance (MMSE). Our calculations are available at the Open Science Framework (OSF, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://tinyurl.com/3u9n6cwh" ext-link-type="uri">https://tinyurl.com/3u9n6cwh</ext-link>).</p></sec><sec id="nyas70078-sec-0070"><label>2.3.2</label><title>Effect Size Calculation—Cohen's <italic toggle="yes">d</italic>
+</title><p>The effect size (Cohen's <italic toggle="yes">d</italic>), bias‐corrected for small sample sizes, was calculated for each ROI and original study based on mean values and SD [<xref rid="nyas70078-bib-0042" ref-type="bibr">42</xref>]. In three studies [<xref rid="nyas70078-bib-0028" ref-type="bibr">28</xref>, <xref rid="nyas70078-bib-0039" ref-type="bibr">39</xref>, <xref rid="nyas70078-bib-0043" ref-type="bibr">43</xref>], the median and interquartile range (IQR) were reported instead of the mean and the standard deviation. Therefore, the median was converted to a mean, and the IQR was converted to SD [<xref rid="nyas70078-bib-0044" ref-type="bibr">44</xref>]. In five studies [<xref rid="nyas70078-bib-0007" ref-type="bibr">7</xref>, <xref rid="nyas70078-bib-0012" ref-type="bibr">12</xref>, <xref rid="nyas70078-bib-0039" ref-type="bibr">39</xref>, <xref rid="nyas70078-bib-0043" ref-type="bibr">43</xref>, <xref rid="nyas70078-bib-0045" ref-type="bibr">45</xref>], the mean and SD of the MRI data, or median and IQR, respectively, were not available in numerical data, but they were shown in figures. Therefore, PlotDigitizer [<xref rid="nyas70078-bib-0046" ref-type="bibr">46</xref>] was used to extract the data [<xref rid="nyas70078-bib-0047" ref-type="bibr">47</xref>]. For studies reporting separate values for the left and right hemispheres (<italic toggle="yes">n</italic> = 12), we calculated the mean of the two values to obtain a single average score. The corresponding SDs were pooled using the standard formula for combining two independent variances, ensuring consistent data aggregation across studies [<xref rid="nyas70078-bib-0048" ref-type="bibr">48</xref>].</p><p>MRI‐based markers of iron levels need to be carefully interpreted [<xref rid="nyas70078-bib-0026" ref-type="bibr">26</xref>]. The interpretation of signal values in relation to iron load was confirmed for each included study by reviewing the original publication. For some markers, high values indicate high iron levels (e.g., R2* [<xref rid="nyas70078-bib-0028" ref-type="bibr">28</xref>], QSM [<xref rid="nyas70078-bib-0040" ref-type="bibr">40</xref>], see Table <xref rid="nyas70078-tbl-0001" ref-type="table">1</xref> for all MRI methods used in the original studies), but for others, low values indicate high iron levels (here T2* in milliseconds [<xref rid="nyas70078-bib-0049" ref-type="bibr">49</xref>], phase values measured as radians [<xref rid="nyas70078-bib-0029" ref-type="bibr">29</xref>], SWI [<xref rid="nyas70078-bib-0013" ref-type="bibr">13</xref>, <xref rid="nyas70078-bib-0050" ref-type="bibr">50</xref>, <xref rid="nyas70078-bib-0051" ref-type="bibr">51</xref>]). Therefore, effect sizes had to be negated (multiplied by −1) when they were based on phase image [<xref rid="nyas70078-bib-0029" ref-type="bibr">29</xref>], SWI [<xref rid="nyas70078-bib-0013" ref-type="bibr">13</xref>, <xref rid="nyas70078-bib-0050" ref-type="bibr">50</xref>, <xref rid="nyas70078-bib-0051" ref-type="bibr">51</xref>], and T2* [<xref rid="nyas70078-bib-0049" ref-type="bibr">49</xref>]. As a result, positive effect sizes indicated higher iron levels in AD compared to HC, while negative effect sizes indicate higher iron levels in HC compared to AD.</p><p>Finally, individual effect sizes were used to calculate the mean overall effect across all studies. Values of 0.2, 0.5, and 0.8 indicated small, medium, and large effects, respectively [<xref rid="nyas70078-bib-0048" ref-type="bibr">48</xref>].</p></sec><sec id="nyas70078-sec-0080"><label>2.3.3</label><title>Random‐Effects Models</title><p>Following Borenstein et al. [<xref rid="nyas70078-bib-0052" ref-type="bibr">52</xref>], for each ROI, a single random‐effects model was calculated. To ensure high overall effect precision, individual effect sizes were weighted by each experiment's inverted total variance. Significance testing of the weighted overall mean effect size (<italic toggle="yes">d</italic>*) was based on <italic toggle="yes">z</italic>‐scores and corresponding <italic toggle="yes">p</italic> values (two‐tailed). We also calculated 95% confidence intervals and <italic toggle="yes">I</italic>
+<sup>2</sup> statistics to quantify heterogeneity [<xref rid="nyas70078-bib-0052" ref-type="bibr">52</xref>, <xref rid="nyas70078-bib-0053" ref-type="bibr">53</xref>]. <italic toggle="yes">I</italic>
+<sup>2</sup> indicates inconsistency across experiments and represents the percentage of heterogeneity within the total variance of the primary studies [<xref rid="nyas70078-bib-0052" ref-type="bibr">52</xref>, <xref rid="nyas70078-bib-0053" ref-type="bibr">53</xref>]. It can be compared across different meta‐analyses and ranges from 0 to 100. More specifically, it differentiates between low (25%), moderate (50%), and high (75%) heterogeneity [<xref rid="nyas70078-bib-0053" ref-type="bibr">53</xref>]. Moreover, funnel plots were created, and Egger's regression tests were performed [<xref rid="nyas70078-bib-0054" ref-type="bibr">54</xref>] to address possible publication biases [<xref rid="nyas70078-bib-0055" ref-type="bibr">55</xref>, <xref rid="nyas70078-bib-0056" ref-type="bibr">56</xref>]. A funnel plot represents each experiment's effect sizes against standard errors, with an asymmetry indicating a publication bias [<xref rid="nyas70078-bib-0056" ref-type="bibr">56</xref>, <xref rid="nyas70078-bib-0057" ref-type="bibr">57</xref>, <xref rid="nyas70078-bib-0058" ref-type="bibr">58</xref>]. Egger's regression test detects publication bias based on the funnel plot by assessing the relationship between standardized effect estimates and their standard error [<xref rid="nyas70078-bib-0054" ref-type="bibr">54</xref>, <xref rid="nyas70078-bib-0056" ref-type="bibr">56</xref>]. Here, we generated funnel plots and conducted Egger's regression test using effect sizes and results from the random effect models within “Meta‐Essentials: Workbooks for meta‐analysis” (Version 1.4) [<xref rid="nyas70078-bib-0059" ref-type="bibr">59</xref>].</p><p>Outliers (effect size) were identified as data points exceeding 1.5 times the IQR above the third or below the first quartile [<xref rid="nyas70078-bib-0060" ref-type="bibr">60</xref>]. To enhance the robustness of the findings, the meta‐analyses were rerun after identifying and excluding any outliers detected.</p><sec id="nyas70078-sec-0090"><label>2.3.3.1</label><title>Relationship Between Brain Iron Deposition and Cognition in Alzheimer's Disease</title><p>To investigate possible links between iron accumulations in AD and cognitive impairment, five correlation analyses were conducted for each region‐specific meta‐analysis separately in Jamovi (2.3.21) [<xref rid="nyas70078-bib-0061" ref-type="bibr">61</xref>]. Here, effect sizes for our five ROIs, indicating iron level increases in AD compared to HC, were correlated with the MMSE mean scores from the AD groups reported in the original studies. Specifically, we used <italic toggle="yes">z</italic>‐scored MMSE values from the AD group and iron effect sizes (i.e., AD vs. HC) in combination with Spearman's rank correlation (Spearman's Rho) due to the rather small sample size and since it is more robust against outliers [<xref rid="nyas70078-bib-0062" ref-type="bibr">62</xref>]. In an additional analysis, we also computed MMSE effect sizes (for AD vs. HC) and correlated them with iron effect sizes (i.e., AD vs. HC). Since we predicted a negative correlation between iron levels and cognitive performance and different studies were included in the analyses, we did not apply a correction for multiple comparisons in this analysis. We also compared the correlation coefficients between regions using independent sample comparisons implemented in  <italic toggle="yes">cocor</italic> [<xref rid="nyas70078-bib-0063" ref-type="bibr">63</xref>].</p></sec></sec></sec></sec><sec id="nyas70078-sec-0100"><label>3</label><title>Results</title><sec id="nyas70078-sec-0110"><label>3.1</label><title>Study Characteristics</title><p>Overall, we included 715 AD patients and 1130 HC from 22 studies with 23 experiments (see Figure <xref rid="nyas70078-fig-0001" ref-type="fig">1</xref>). One study investigated two independent age groups of AD patients and HC, representing two individual analyses [<xref rid="nyas70078-bib-0036" ref-type="bibr">36</xref>]. Therefore, this study was included in the meta‐analyses with both experiments [<xref rid="nyas70078-bib-0013" ref-type="bibr">13</xref>]. For the separate five ROI meta‐analyses, 20 experiments were included for the putamen, 19 for the caudate nucleus, 19 for the globus pallidus, 12 for the hippocampus, and 11 for the thalamus (see Table <xref rid="nyas70078-tbl-0001" ref-type="table">1</xref> for an overview of the included experiments with more detailed information).</p><p>Although individual studies reported age matched AD and HC groups, a <italic toggle="yes">t</italic>‐test across studies revealed significant age differences (<italic toggle="yes">t</italic>(38) = −2.22, <italic toggle="yes">p</italic> = 0.032). Accordingly, AD patients were slightly older (mean = 70.56 years, SD = 4.47) than HC (mean = 67.64 years, SD = 3.82). Note that three experiments from two studies [<xref rid="nyas70078-bib-0005" ref-type="bibr">5</xref>, <xref rid="nyas70078-bib-0013" ref-type="bibr">13</xref>] did not report detailed information on age and could, therefore, not be included in our analysis. Mean sex ratios (female/male) of AD patients and HC were 1.81 (SD = 1.71) and 1.81 (SD = 1.21), respectively, with no significant differences across studies as assessed by a Mann–Whitney <italic toggle="yes">U</italic> test due to the violation of normal distribution (<italic toggle="yes">U</italic> = 210, <italic toggle="yes">p</italic> = 0.618). One study [<xref rid="nyas70078-bib-0009" ref-type="bibr">9</xref>] did not report the sex for both groups and another [<xref rid="nyas70078-bib-0064" ref-type="bibr">64</xref>] solely for the AD group. Both studies were not included in our analysis.</p></sec><sec id="nyas70078-sec-0120"><label>3.2</label><title>Random Effects Meta‐Analyses</title><sec id="nyas70078-sec-0130"><label>3.2.1</label><title>Putamen</title><p>The random‐effects model for the putamen included 20 experiments from 19 studies (see Table <xref rid="nyas70078-tbl-0001" ref-type="table">1</xref>). In all original experiments, the weighted mean effects were positive and statistical testing across studies revealed a highly significant positive effect indicating higher iron levels in AD versus HC (<italic toggle="yes">d</italic>* = 0.87, <italic toggle="yes">p</italic> &lt; 0.001, Figure <xref rid="nyas70078-fig-0002" ref-type="fig">2A</xref>, Table <xref rid="nyas70078-tbl-0002" ref-type="table">2</xref>). Further testing revealed high heterogeneity of <italic toggle="yes">I</italic>
+<sup>2</sup> = 78.39%. After removing two outliers [<xref rid="nyas70078-bib-0006" ref-type="bibr">6</xref>, <xref rid="nyas70078-bib-0011" ref-type="bibr">11</xref>], the weighted mean effect was still highly significant, but it showed a slightly reduced effect size (<italic toggle="yes">d</italic>* = 0.72, <italic toggle="yes">p</italic> &lt; 0.001, <italic toggle="yes">I</italic>
+<sup>2</sup> = 65.47).</p><fig position="float" fig-type="FIGURE" id="nyas70078-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Results for the putamen. (A) Forest plot of group comparisons for Alzheimer's disease (AD) patients versus healthy controls (HC). Squares represent the computed effect sizes of the original studies, the square's size indicates the relative size of the sample studied, and the diamond represents the weighted mean effect. The width of the diamond as well as the horizontal lines of the squares indicate an experiment's 95% confidence interval. (B) Funnel plot: the dots mark the individual experiment (<italic toggle="yes">k</italic> = 20), the dashed line the 95% confidence interval, and the vertical straight line the overall effect. (C) Spearman correlation of iron differences between both groups (AD vs. HC, effect size) and mean Mini‐Mental‐State‐Examination (MMSE) scores (AD, <italic toggle="yes">k</italic> = 18).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="NYAS-1556-0-g002.jpg"/></fig><table-wrap position="float" id="nyas70078-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Overview of the results of the region of interests (ROI) random‐effects models for comparing Alzheimer's disease patients versus healthy controls.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr><th colspan="8" align="center" style="border-bottom:solid 1px #000000" rowspan="1">
+<italic toggle="yes">Meta‐analytic information</italic>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Brain regions</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">k</italic>
+</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">d</italic>*</th><th align="center" rowspan="1" colspan="1">CI (95%) <italic toggle="yes">
+<sub>d</sub>
+</italic>
+</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">Z</italic>
+</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">I</italic>
+<sup>2</sup>
+</th><th align="center" rowspan="1" colspan="1">CI (95%) <italic toggle="yes">
+<sub>I</sub>
+</italic>
+<sup>2</sup>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Putamen</td><td align="center" rowspan="1" colspan="1">20</td><td align="center" rowspan="1" colspan="1">0.87</td><td align="center" rowspan="1" colspan="1">0.62–1.13</td><td align="center" rowspan="1" colspan="1">6.76</td><td align="center" rowspan="1" colspan="1">&lt;0.001</td><td align="center" rowspan="1" colspan="1">78.39</td><td align="center" rowspan="1" colspan="1">67.17 – 85.78</td></tr><tr><td align="left" rowspan="1" colspan="1">Caudate nucleus</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">0.58</td><td align="center" rowspan="1" colspan="1">0.34–0.81</td><td align="center" rowspan="1" colspan="1">4.74</td><td align="center" rowspan="1" colspan="1">&lt;0.001</td><td align="center" rowspan="1" colspan="1">75.84</td><td align="center" rowspan="1" colspan="1">62.39 – 84.48</td></tr><tr><td align="left" rowspan="1" colspan="1">Globus pallidus</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">0.44</td><td align="center" rowspan="1" colspan="1">0.19–0.69</td><td align="center" rowspan="1" colspan="1">3.41</td><td align="center" rowspan="1" colspan="1">0.001</td><td align="center" rowspan="1" colspan="1">78.61</td><td align="center" rowspan="1" colspan="1">67.17–86.06</td></tr><tr><td align="left" rowspan="1" colspan="1">Hippocampus</td><td align="center" rowspan="1" colspan="1">12</td><td align="center" rowspan="1" colspan="1">0.60</td><td align="center" rowspan="1" colspan="1">0.15–1.04</td><td align="center" rowspan="1" colspan="1">2.65</td><td align="center" rowspan="1" colspan="1">0.008</td><td align="center" rowspan="1" colspan="1">87.65</td><td align="center" rowspan="1" colspan="1">80.28–92.26</td></tr><tr><td align="left" rowspan="1" colspan="1">Thalamus</td><td align="center" rowspan="1" colspan="1">11</td><td align="center" rowspan="1" colspan="1">0.67</td><td align="center" rowspan="1" colspan="1">0.09–1.26</td><td align="center" rowspan="1" colspan="1">2.27</td><td align="center" rowspan="1" colspan="1">0.023</td><td align="center" rowspan="1" colspan="1">93.61</td><td align="center" rowspan="1" colspan="1">90.43–95.74</td></tr></tbody></table><table-wrap-foot><fn id="nyas70078-tbl2-note-0001"><p>
+<italic toggle="yes">Note</italic>: Displayed are the number of experiments (<italic toggle="yes">k</italic>) included, the weighted mean effects (<italic toggle="yes">d</italic>*) of each ROI, 95% confidence intervals (CI), <italic toggle="yes">Z</italic>‐values, and <italic toggle="yes">p</italic> values as well as the heterogeneity indicators <italic toggle="yes">I</italic>
+<sup>2</sup> and their 95% CIs.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="nyas70078-sec-0140"><label>3.2.2</label><title>Caudate Nucleus</title><p>The random‐effects model for the caudate nucleus included 19 independent experiments from 18 original studies (see Table <xref rid="nyas70078-tbl-0001" ref-type="table">1</xref>). While most weighted mean effects were positive, three experiments [<xref rid="nyas70078-bib-0013" ref-type="bibr">13</xref>, <xref rid="nyas70078-bib-0039" ref-type="bibr">39</xref>, <xref rid="nyas70078-bib-0065" ref-type="bibr">65</xref>] showed negative effects. However, statistical testing across experiments revealed a highly significant positive effect, again suggesting higher iron levels in AD versus HC (<italic toggle="yes">d</italic>* = 0.58, <italic toggle="yes">p</italic> &lt; 0.001, Figure <xref rid="nyas70078-fig-0003" ref-type="fig">3A</xref>, Table <xref rid="nyas70078-tbl-0002" ref-type="table">2</xref>). Further testing revealed high heterogeneity of <italic toggle="yes">I</italic>
+<sup>2</sup> = 75.84%. After removing one outlier [<xref rid="nyas70078-bib-0012" ref-type="bibr">12</xref>], the effect remained highly significant (<italic toggle="yes">d</italic>* = 0.50, <italic toggle="yes">p</italic> &lt; 0.001, <italic toggle="yes">I</italic>
+<sup>2</sup> = 68.93%).</p><fig position="float" fig-type="FIGURE" id="nyas70078-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Results for the caudate nucleus. (A) Forest plot of group comparisons for Alzheimer's disease (AD) patients versus healthy controls (HC). Squares represent the computed effect sizes of the original studies, the square's size indicates the relative size of the sample studied, and the diamond represents the weighted mean effect. The width of the diamond and the horizontal lines of the squares indicate an experiment's 95% confidence interval. (B) Funnel plot: the dots mark the individual experiment (<italic toggle="yes">k</italic> = 19), the dashed line the 95% confidence interval, and the vertical straight line the overall effect. (C) Spearman correlation of iron differences between groups (AD vs. HC, effect size) and mean Mini‐Mental‐State‐Examination (MMSE) scores (AD, <italic toggle="yes">k</italic> = 16).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="NYAS-1556-0-g007.jpg"/></fig></sec><sec id="nyas70078-sec-0150"><label>3.2.3</label><title>Globus Pallidus</title><p>For the globus pallidus, 19 independent experiments from 18 studies were included in the random‐effects model (see Table <xref rid="nyas70078-tbl-0001" ref-type="table">1</xref>). Except from five experiments [<xref rid="nyas70078-bib-0007" ref-type="bibr">7</xref>, <xref rid="nyas70078-bib-0040" ref-type="bibr">40</xref>, <xref rid="nyas70078-bib-0049" ref-type="bibr">49</xref>, <xref rid="nyas70078-bib-0064" ref-type="bibr">64</xref>, <xref rid="nyas70078-bib-0065" ref-type="bibr">65</xref>], all others showed positive weighted mean effects. Statistical analysis revealed a highly significant effect indicating higher iron levels in AD versus HC (<italic toggle="yes">d</italic>* = 0.44, <italic toggle="yes">p</italic> = 0.001, Figure <xref rid="nyas70078-fig-0004" ref-type="fig">4A</xref>, Table <xref rid="nyas70078-tbl-0002" ref-type="table">2</xref>); again, heterogeneity was rather high (<italic toggle="yes">I</italic>
+<sup>2</sup> = 78.61%). After excluding one outlier [<xref rid="nyas70078-bib-0011" ref-type="bibr">11</xref>], the results remained statistically significant (<italic toggle="yes">d</italic>* = 0.33, <italic toggle="yes">p</italic> = 0.002, <italic toggle="yes">I</italic>
+<sup>2</sup> = 68.34%).</p><fig position="float" fig-type="FIGURE" id="nyas70078-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Results for the globus pallidus. (A) forest plot of group comparisons for Alzheimer's disease (AD) patients versus healthy controls (HC). Squares represent the computed effect sizes of the original studies, the square's size indicates the relative size of the sample studied, and the diamond represents the weighted mean effect. The width of the diamond and the horizontal lines of the squares indicate an experiment's 95% confidence intervals. (B) Funnel plot: the dots mark the individual experiment (<italic toggle="yes">k</italic> = 19), the dashed line the 95% confidence interval, and the vertical straight line the overall effect. (C) Spearman correlation of iron differences between groups (AD vs. HC, effect size) and mean Mini‐Mental‐State‐Examination (MMSE) scores (AD, <italic toggle="yes">k</italic> = 17).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="NYAS-1556-0-g006.jpg"/></fig></sec><sec id="nyas70078-sec-0160"><label>3.2.4</label><title>Hippocampus</title><p>The random‐effect model for the hippocampus included only 12 experiments from 12 studies (see Table <xref rid="nyas70078-tbl-0001" ref-type="table">1</xref>). All but two experiments [<xref rid="nyas70078-bib-0009" ref-type="bibr">9</xref>, <xref rid="nyas70078-bib-0066" ref-type="bibr">66</xref>] showed positive mean weighted effects and, across experiments, statistical testing revealed a highly significant positive effect. Again, this indicates higher iron levels for AD versus HC (<italic toggle="yes">d</italic>* = 0.60, <italic toggle="yes">p</italic> = 0.008, Figure <xref rid="nyas70078-fig-0005" ref-type="fig">5A</xref>, Table <xref rid="nyas70078-tbl-0002" ref-type="table">2</xref>); heterogeneity was high (<italic toggle="yes">I</italic>
+<sup>2</sup> = 87.65%). After excluding one outlier [<xref rid="nyas70078-bib-0006" ref-type="bibr">6</xref>], the results remained significant, but the effect size was rather small (<italic toggle="yes">d</italic>* = 0.30, <italic toggle="yes">p</italic> = 0.036, <italic toggle="yes">I</italic>
+<sup>2</sup> = 69.29%).</p><fig position="float" fig-type="FIGURE" id="nyas70078-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Results for the hippocampus. (A) Forest plot of group comparisons for Alzheimer's disease (AD) patients versus healthy controls (HC). Squares represent the computed effect sizes of the original studies, the square's size indicates the relative size of the sample studied, and the diamond represents the weighted mean effect. The width of the diamond and the horizontal lines of the squares indicate an experiment's 95% confidence intervals. (B) Funnel plot: the dots mark the individual experiment (<italic toggle="yes">k</italic> = 12), the dashed line the 95% confidence interval, and the vertical straight line the overall effect. (C) Spearman correlation of iron differences between groups (AD vs. HC, effect size) and mean Mini‐Mental‐State‐Examination (MMSE) scores (AD, <italic toggle="yes">k</italic> = 10).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="NYAS-1556-0-g005.jpg"/></fig></sec><sec id="nyas70078-sec-0170"><label>3.2.5</label><title>Thalamus</title><p>The random‐effects model for the thalamus involved only 11 experiments from 11 studies (see Table <xref rid="nyas70078-tbl-0001" ref-type="table">1</xref>). While three weighted means were negative [<xref rid="nyas70078-bib-0007" ref-type="bibr">7</xref>, <xref rid="nyas70078-bib-0028" ref-type="bibr">28</xref>, <xref rid="nyas70078-bib-0039" ref-type="bibr">39</xref>], the remaining eight were positive. Across experiments, statistical testing revealed a significant positive effect (<italic toggle="yes">d</italic>* = 0.67, <italic toggle="yes">p</italic> = 0.023, Figure <xref rid="nyas70078-fig-0006" ref-type="fig">6A</xref>, Table <xref rid="nyas70078-tbl-0002" ref-type="table">2</xref>), also indicating higher iron levels in AD versus HC. Again, heterogeneity was high (<italic toggle="yes">I</italic>
+<sup>2</sup> = 93.61). After excluding one outlier [<xref rid="nyas70078-bib-0006" ref-type="bibr">6</xref>], the analysis revealed no significant effect (<italic toggle="yes">d</italic>* = 0.36, <italic toggle="yes">p</italic> = 0.15), and still a high heterogeneity of the data (<italic toggle="yes">I</italic>
+<sup>2</sup> = 91.23%).</p><fig position="float" fig-type="FIGURE" id="nyas70078-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Results for the thalamus. (A) Forest plot of group comparisons for Alzheimer's disease (AD) patients versus healthy controls (HC). Squares represent the computed effect sizes of the original studies, the square's size indicates the relative size of the sample studied, and the diamond represents the weighted mean effect. The width of the diamond and the horizontal lines of the squares indicate an experiment's 95% confidence intervals. (B) Funnel plot: the dots mark the individual experiment (<italic toggle="yes">k</italic> = 11), the dashed line the 95% confidence interval, and the vertical straight line the overall effect. (C) Spearman correlation of iron differences between groups (AD vs. HC, effect size) and mean Mini‐Mental‐State‐Examination (MMSE) scores (AD, <italic toggle="yes">k</italic> = 9).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="NYAS-1556-0-g001.jpg"/></fig></sec><sec id="nyas70078-sec-0180"><label>3.2.6</label><title>Publication Bias</title><p>Upon visual inspection, data points in most ROIs showed a symmetric distribution around the weighted mean effect (Figures <xref rid="nyas70078-fig-0002" ref-type="fig">2–6B</xref>), indicating no publication bias. However, for the hippocampus (Figure <xref rid="nyas70078-fig-0005" ref-type="fig">5B</xref>) and thalamus (Figure <xref rid="nyas70078-fig-0006" ref-type="fig">6B</xref>), the funnel plots showed some degree of asymmetry. In line with this impression, Egger's regression test revealed a significant effect for the hippocampus (<italic toggle="yes">p</italic> &lt; 0.001) and thalamus (<italic toggle="yes">p</italic> &lt; 0.001), indicating a publication bias, but not for the putamen (<italic toggle="yes">p</italic> = 0.110, Figure <xref rid="nyas70078-fig-0002" ref-type="fig">2B</xref>), caudate nucleus (<italic toggle="yes">p</italic> = 0.157, Figure <xref rid="nyas70078-fig-0003" ref-type="fig">3B</xref>), and pallidum (<italic toggle="yes">p</italic> = 0.112, Figure <xref rid="nyas70078-fig-0004" ref-type="fig">4B</xref>).</p></sec><sec id="nyas70078-sec-0190"><label>3.2.7</label><title>Correlations Between Brain Effect Sizes and MMSE in Alzheimer's Disease</title><p>Correlation analyses of the iron effects sizes (AD vs. HC, z‐scored) and MMSE mean group performance (<italic toggle="yes">z</italic>‐scored) in AD revealed a significant negative effect only in the globus pallidus (<italic toggle="yes">r</italic>(15) = −0.541, <italic toggle="yes">p</italic> = 0.025, Figure <xref rid="nyas70078-fig-0004" ref-type="fig">4C</xref>, Table <xref rid="nyas70078-tbl-0003" ref-type="table">3</xref>). One data point was visually prominent (effect size [<italic toggle="yes">z</italic>] = 2.77) and met our exclusion criteria of exceeding 1.5 times the IQR above the third or below the first quartile. When excluding this case, the correlation remained significant (<italic toggle="yes">p</italic> = 0.026). For the other ROIs, the effects were not statistically significant (<italic toggle="yes">p</italic> &gt; 0.05, Figures <xref rid="nyas70078-fig-0002" ref-type="fig">2</xref>, <xref rid="nyas70078-fig-0003" ref-type="fig">3</xref>, <xref rid="nyas70078-fig-0005" ref-type="fig">5</xref>, and <xref rid="nyas70078-fig-0006" ref-type="fig">6C</xref>; Table <xref rid="nyas70078-tbl-0003" ref-type="table">3</xref>). Comparing the correlation coefficients from different regions did not reveal significant differences (<italic toggle="yes">p</italic> &gt; 0.05).</p><table-wrap position="float" id="nyas70078-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Correlations between the region‐of‐interests′ original studies′ effect sizes and the Mini‐Mental‐State‐Examination mean of the Alzheimer's disease group.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">Brain regions</th><th colspan="3" style="border-bottom:solid 1px #000000" align="center" rowspan="1">MMSE mean AD group</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Spearman's Rho</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">k</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Putamen</td><td align="center" rowspan="1" colspan="1">−0.265</td><td align="center" rowspan="1" colspan="1">0.287</td><td align="center" rowspan="1" colspan="1">18</td></tr><tr><td align="left" rowspan="1" colspan="1">Caudate nucleus</td><td align="center" rowspan="1" colspan="1">−0.386</td><td align="center" rowspan="1" colspan="1">0.14</td><td align="center" rowspan="1" colspan="1">16</td></tr><tr><td align="left" rowspan="1" colspan="1">Globus pallidus</td><td align="center" rowspan="1" colspan="1">−0.541</td><td align="center" rowspan="1" colspan="1">0.025*</td><td align="center" rowspan="1" colspan="1">17</td></tr><tr><td align="left" rowspan="1" colspan="1">Hippocampus</td><td align="center" rowspan="1" colspan="1">−0.370</td><td align="center" rowspan="1" colspan="1">0.296</td><td align="center" rowspan="1" colspan="1">10</td></tr><tr><td align="left" rowspan="1" colspan="1">Thalamus</td><td align="center" rowspan="1" colspan="1">−0.433</td><td align="center" rowspan="1" colspan="1">0.250</td><td align="center" rowspan="1" colspan="1">9</td></tr></tbody></table><table-wrap-foot><fn id="nyas70078-tbl3-note-0001"><p>
+<italic toggle="yes">Note</italic>: The correlations (Spearman's Rho) between the original studies' effect sizes for the brain regions (putamen, caudate nucleus, globus pallidus, hippocampus, and thalamus) with the Mini‐Mental‐State‐Examination (MMSE) mean of the Alzheimer's disease (AD) groups from the original studies. Presented are the <italic toggle="yes">p</italic> values (*&lt;0.05), and <italic toggle="yes">k</italic> reflecting the number of included experiments (in that both MMSE scores for AD and the effect sizes were available). Data were <italic toggle="yes">z</italic>‐standardized before entering the analysis.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>To investigate this effect further, we repeated the correlation analyses with iron effect sizes (AD vs. HC, z‐scored) and MMSE effect sizes (AD vs. HC, z‐scored). It also revealed a statistically significant effect (<italic toggle="yes">r</italic>(12) = −0.569, <italic toggle="yes">p</italic> = 0.037). Note, however, in this latter analysis, three experiments had to be excluded [<xref rid="nyas70078-bib-0030" ref-type="bibr">30</xref>, <xref rid="nyas70078-bib-0043" ref-type="bibr">43</xref>, <xref rid="nyas70078-bib-0064" ref-type="bibr">64</xref>] due to missing MMSE information in the HC group. Comparing the correlational coefficients from different regions did not reveal significant effects (<italic toggle="yes">p</italic> &gt; 0.05).</p></sec></sec></sec><sec id="nyas70078-sec-0200"><label>4</label><title>Discussion</title><p>We leveraged the power of a meta‐analytic approach to investigate the relationship between regional brain iron levels and cognitive abilities in AD. We employed data from 23 experiments encompassing 1845 participants, including 715 patients diagnosed with Alzheimer's disease and 1130 age‐matched HC. As expected, in AD iron levels were significantly higher in the putamen, caudate nucleus, and globus pallidus, but also the hippocampus and to a lesser extent in the thalamus. Importantly, iron accumulation in the globus pallidus, a basal ganglia hub with a critical role in several cognitive processes, was negatively associated with cognitive performance as measured using the MMSE. Therefore, our results provide unique evidence across a wide range of in vivo studies suggesting that iron accumulation in the basal ganglia is a characteristic feature in AD that contributes to cognitive decline.</p><p>Iron plays a central role in maintaining normal brain functioning, contributing to myelination [<xref rid="nyas70078-bib-0067" ref-type="bibr">67</xref>, <xref rid="nyas70078-bib-0068" ref-type="bibr">68</xref>], neurotransmitter synthesis [<xref rid="nyas70078-bib-0069" ref-type="bibr">69</xref>], and oxygen regulation [<xref rid="nyas70078-bib-0002" ref-type="bibr">2</xref>]. However, excessive iron levels can induce oxidative stress and inflammation [<xref rid="nyas70078-bib-0069" ref-type="bibr">69</xref>], demyelination [<xref rid="nyas70078-bib-0003" ref-type="bibr">3</xref>], and ferroptosis, an iron‐dependent form of cell death [<xref rid="nyas70078-bib-0070" ref-type="bibr">70</xref>], and therefore, promote the progression of AD. From a developmental perspective, brain iron accumulates over the lifespan [<xref rid="nyas70078-bib-0001" ref-type="bibr">1</xref>, <xref rid="nyas70078-bib-0004" ref-type="bibr">4</xref>, <xref rid="nyas70078-bib-0011" ref-type="bibr">11</xref>, <xref rid="nyas70078-bib-0071" ref-type="bibr">71</xref>, <xref rid="nyas70078-bib-0072" ref-type="bibr">72</xref>, <xref rid="nyas70078-bib-0073" ref-type="bibr">73</xref>, <xref rid="nyas70078-bib-0074" ref-type="bibr">74</xref>] with inter regional variations and particularly high levels in the basal ganglia [<xref rid="nyas70078-bib-0001" ref-type="bibr">1</xref>, <xref rid="nyas70078-bib-0026" ref-type="bibr">26</xref>, <xref rid="nyas70078-bib-0075" ref-type="bibr">75</xref>]. This pattern appears to reflect region specific needs in iron to meet metabolic demands [<xref rid="nyas70078-bib-0076" ref-type="bibr">76</xref>]. The excessive iron deposition in AD may, therefore, closely relate to dysregulations in iron metabolism and transport [<xref rid="nyas70078-bib-0077" ref-type="bibr">77</xref>], but also vascular hemorrhages and microbleeds [<xref rid="nyas70078-bib-0077" ref-type="bibr">77</xref>, <xref rid="nyas70078-bib-0078" ref-type="bibr">78</xref>], as well as neuroinflammation [<xref rid="nyas70078-bib-0078" ref-type="bibr">78</xref>]. Moreover, post‐mortem and in vivo studies revealed a co‐localization of iron and tau [<xref rid="nyas70078-bib-0009" ref-type="bibr">9</xref>, <xref rid="nyas70078-bib-0014" ref-type="bibr">14</xref>, <xref rid="nyas70078-bib-0015" ref-type="bibr">15</xref>] as well as amyloid pathology [<xref rid="nyas70078-bib-0016" ref-type="bibr">16</xref>, <xref rid="nyas70078-bib-0017" ref-type="bibr">17</xref>]. In line with this observation, a positive correlation of MRI susceptibility has been shown for both amyloid [<xref rid="nyas70078-bib-0016" ref-type="bibr">16</xref>, <xref rid="nyas70078-bib-0039" ref-type="bibr">39</xref>] and tau [<xref rid="nyas70078-bib-0015" ref-type="bibr">15</xref>, <xref rid="nyas70078-bib-0039" ref-type="bibr">39</xref>, <xref rid="nyas70078-bib-0079" ref-type="bibr">79</xref>] PET in the basal ganglia, underscoring the importance of iron increases in AD. These findings suggest that iron accumulation may contribute to neurodegeneration both directly and indirectly, by amplifying amyloid and tau pathology and by triggering iron‐dependent cell death pathways such as ferroptosis [<xref rid="nyas70078-bib-0080" ref-type="bibr">80</xref>]. Clarifying the temporal and mechanistic interplay between these processes is a key objective for future research.</p><p>Our results of iron accumulations in the putamen, caudate nucleus, and globus pallidus are consistent with this prior research and a meta‐analysis investigating post‐mortem iron accumulations in these brain regions [<xref rid="nyas70078-bib-0025" ref-type="bibr">25</xref>]. In comparison, the most pronounced effect was observed in the putamen, as suggested by a large weighted effect size [<xref rid="nyas70078-bib-0048" ref-type="bibr">48</xref>], indicating a contribution by all original studies (Figure <xref rid="nyas70078-fig-0002" ref-type="fig">2A</xref> and Table <xref rid="nyas70078-tbl-0001" ref-type="table">1</xref>). Although still highly significant, the random‐effects model for the caudate nucleus showed a medium‐weighted effect size with all but three studies [<xref rid="nyas70078-bib-0013" ref-type="bibr">13</xref>, <xref rid="nyas70078-bib-0039" ref-type="bibr">39</xref>, <xref rid="nyas70078-bib-0065" ref-type="bibr">65</xref>] contributing to the effect (Figure <xref rid="nyas70078-fig-0003" ref-type="fig">3A</xref> and Table <xref rid="nyas70078-tbl-0001" ref-type="table">1</xref>). Finally, the random‐effects model for the globus pallidus, again highly significant, had a rather small weighted effect size, and all but five studies [<xref rid="nyas70078-bib-0007" ref-type="bibr">7</xref>, <xref rid="nyas70078-bib-0040" ref-type="bibr">40</xref>, <xref rid="nyas70078-bib-0049" ref-type="bibr">49</xref>, <xref rid="nyas70078-bib-0064" ref-type="bibr">64</xref>, <xref rid="nyas70078-bib-0065" ref-type="bibr">65</xref>] contributed to the effect (Figure <xref rid="nyas70078-fig-0004" ref-type="fig">4A</xref> and Table <xref rid="nyas70078-tbl-0001" ref-type="table">1</xref>). Taken together, for the investigated basal ganglia structure, putamen, caudate nucleus, and globus pallidus, almost all included studies reported higher iron levels in AD compared to HC, which led to highly significant effects in our meta‐analysis. Egger's regression and visual inspection of the funnel plots (Figures <xref rid="nyas70078-fig-0002" ref-type="fig">2–4B</xref>) did not indicate any publication bias for these regions, which further underlines the robustness of our findings.</p><p>Outside the basal ganglia, we also observed significant effects in the hippocampus (Figure <xref rid="nyas70078-fig-0005" ref-type="fig">5A</xref>) and the thalamus (Figure <xref rid="nyas70078-fig-0006" ref-type="fig">6A</xref>), indicating higher iron levels in AD compared to HC. However, the thalamus effect did not remain significant after removing one outlier, and in the thalamus as well as the hippocampus, a publication bias was detected (Figures <xref rid="nyas70078-fig-0005" ref-type="fig">5</xref> and <xref rid="nyas70078-fig-0006" ref-type="fig">6B</xref>). Together with small‐to‐moderate‐weighted effect sizes, this casts doubt on the reliability of the thalamus and hippocampus effect. However, both analyses were based on a small number of experiments (11 for the thalamus and 12 for the hippocampus), indicating a possible power problem. Yet, our finding is in line with a previous post‐mortem meta‐analysis that also did not reveal statistically significant iron effects in AD in the thalamus (<italic toggle="yes">p</italic> = 0.16) or hippocampus (<italic toggle="yes">p</italic> = 0.056) [<xref rid="nyas70078-bib-0025" ref-type="bibr">25</xref>] (albeit with even fewer original experiments compared to our work, <italic toggle="yes">k</italic> &gt; 8) [<xref rid="nyas70078-bib-0025" ref-type="bibr">25</xref>]. Similarly, a recently published neuroimaging QSM meta‐analysis [<xref rid="nyas70078-bib-0031" ref-type="bibr">31</xref>] found no significant iron effect in the thalamus (<italic toggle="yes">p</italic> = 0.17) and was also based on a smaller number of original experiments (<italic toggle="yes">k</italic> = 9) compared to our study.</p><p>Based on several single studies, we predicted a negative relationship between iron levels and cognitive performance in AD [<xref rid="nyas70078-bib-0010" ref-type="bibr">10</xref>, <xref rid="nyas70078-bib-0011" ref-type="bibr">11</xref>, <xref rid="nyas70078-bib-0012" ref-type="bibr">12</xref>, <xref rid="nyas70078-bib-0013" ref-type="bibr">13</xref>]. This has been confirmed in the globus pallidus (Figure <xref rid="nyas70078-fig-0004" ref-type="fig">4c</xref>), further indicating that local increases in iron levels lead to cognitive impairments not only in healthy older adults [<xref rid="nyas70078-bib-0003" ref-type="bibr">3</xref>, <xref rid="nyas70078-bib-0004" ref-type="bibr">4</xref>] but also AD. From a mechanistic point of view, the pallidum has long been associated with motor functions, but it also plays a role in cognitive information processing [<xref rid="nyas70078-bib-0081" ref-type="bibr">81</xref>]. In fact, the ventral pallidum is part of a polysynaptic pathway by which hippocampal novelty signals are relayed to dopaminergic neurons in the substantia nigra/ventral tegmental area (SN/VTA), which in turn back project to the hippocampus to support long‐term memory encoding [<xref rid="nyas70078-bib-0082" ref-type="bibr">82</xref>, <xref rid="nyas70078-bib-0083" ref-type="bibr">83</xref>]. While iron is required for dopamine (DA) synthesis [<xref rid="nyas70078-bib-0069" ref-type="bibr">69</xref>], an accumulation of it can impair DA production [<xref rid="nyas70078-bib-0069" ref-type="bibr">69</xref>, <xref rid="nyas70078-bib-0084" ref-type="bibr">84</xref>]. Therefore, excessive iron levels within the bilateral pallidum may account for an imbalance of the hippocampus–SN/VTA loop, leading to impairments in declarative learning and memory, which is a central (but not the only) aspect in the MMSE. Further, basal ganglia structures and DA have been associated with motivation, decision‐making, and non‐declarative memory functioning [<xref rid="nyas70078-bib-0085" ref-type="bibr">85</xref>], which may also contribute to MMSE performance. Indeed, a negative relationship between iron deposition in the globus pallidus and MMSE scores in 60‐ to 80‐year‐old AD patients has been reported before [<xref rid="nyas70078-bib-0013" ref-type="bibr">13</xref>]. Taken together, our findings can be explained on the basis of previous work, and they further suggest that iron accumulation in the pallidum contributes to cognitive decline in AD.</p><p>A recent clinical trial using deferiprone for iron chelation found that, despite reduced hippocampal iron levels as measured by QSM, cognitive performance declined in amyloid‐positive patients with MCI and AD [<xref rid="nyas70078-bib-0086" ref-type="bibr">86</xref>]. While this may initially appear inconsistent with our rationale, it points to a more complex and multifactorial role of brain iron in AD. In fact, elevated iron levels in AD may reflect an adaptive response, or alternatively, it could become sequestered within pathological aggregates, leading to regional accumulation alongside a state of functional iron deficiency [<xref rid="nyas70078-bib-0086" ref-type="bibr">86</xref>]. Moreover, there may exist a harmful subset of iron contributing to disease progression that was not effectively targeted by deferiprone at the administered dose. Taken together, these observations support a role of iron in cognitive functioning in AD, and they further highlight the need for therapeutic strategies that carefully distinguish between toxic and functionally relevant iron.</p><p>Finally, some other limitations, which may guide future research, need to be considered. First, a formal comparison between correlations across regions did not reveal any significant differences. Thus, while globus pallidus iron levels in AD were associated with cognitive functioning (i.e., MMSE), the evidence is not conclusive regarding regional specificity. Second, iron measures were averaged from both hemispheres, streamlining our analysis but neglecting possible lateralization effects [<xref rid="nyas70078-bib-0087" ref-type="bibr">87</xref>]. Third, we observed rather high heterogeneity in all random effect models [<xref rid="nyas70078-bib-0053" ref-type="bibr">53</xref>], which, despite strict inclusion and exclusion criteria (see Section 2), could be driven by differences in MRI sequences and field strengths [<xref rid="nyas70078-bib-0026" ref-type="bibr">26</xref>, <xref rid="nyas70078-bib-0033" ref-type="bibr">33</xref>, <xref rid="nyas70078-bib-0088" ref-type="bibr">88</xref>], regions of interest definitions, and sample characteristics (e.g., different stages of AD). To further substantiate our findings, however, all analyses were repeated without outliers, when necessary, and we also report empirical measures for potential publication biases (Figures <xref rid="nyas70078-fig-0002" ref-type="fig">2–6B</xref>). Fourth, although all individual studies included age‐matched HC, across studies a slight but significant age difference was detected (Table <xref rid="nyas70078-tbl-0001" ref-type="table">1</xref>), which might have biased the results. Fifth, all studies included used a cross‐sectional design, which allows for between‐group comparisons but, strictly speaking, not the description of developmental and disease‐specific changes. Longitudinal designs may help to address this important point. Sixth, in the original studies, participants were included solely based on their clinical status. Future work could be based on other approaches, especially the ATN framework, which includes markers of amyloid‐β (A), tau (T), and neurodegeneration (N) [<xref rid="nyas70078-bib-0038" ref-type="bibr">38</xref>] or the <italic toggle="yes">APOE4</italic> genotype which also appears to be relevant for iron accumulation [<xref rid="nyas70078-bib-0080" ref-type="bibr">80</xref>]. This would allow for the exploration of differences (or changes) in iron levels more precisely as well as possible relationships with other imaging markers as derived by positron emission tomography [<xref rid="nyas70078-bib-0089" ref-type="bibr">89</xref>], structural MRI [<xref rid="nyas70078-bib-0090" ref-type="bibr">90</xref>], and functional MRI [<xref rid="nyas70078-bib-0016" ref-type="bibr">16</xref>, <xref rid="nyas70078-bib-0091" ref-type="bibr">91</xref>].</p></sec><sec id="nyas70078-sec-0210"><label>5</label><title>Conclusion</title><p>Based on MRI studies and a meta‐analytic approach, our results indicate higher iron levels in the putamen, caudate nucleus, and globus pallidus, but also the hippocampus and (less robust) in the thalamus, in AD patients. Together with a negative correlation of iron markers and MMSE scores in the globus pallidus, our work refines and provides further evidence for the notion that increased iron levels, especially in the basal ganglia, are a characteristic hallmark of AD, which can contribute to cognitive impairments. As such, our findings not only give novel insights into the pathogenesis of AD but also highlight the potential role of iron as a relevant marker in the diagnosis and possibly treatment of AD.</p></sec><sec id="nyas70078-sec-0220"><title>Author Contributions</title><p>M.M. and N.B. conceived the study. M.M. and C.W. analyzed the data, and the results were interpreted together with N.B. M.M. and N.B. wrote the manuscript. All authors approved the manuscript.</p></sec><sec sec-type="COI-statement" id="nyas70078-sec-0240"><title>Conflicts of Interest</title><p>The authors declare no conflicts interests.</p></sec></body><back><ack id="nyas70078-sec-0230"><title>Acknowledgments</title><p>This research was financially supported by the University of Lübeck.</p><p>Open access funding enabled and organized by Projekt DEAL.</p></ack><sec sec-type="data-availability" id="nyas70078-sec-0260"><title>Data Availability Statement</title><p>Data are available at the Open Science Framework (OSF, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://tinyurl.com/3u9n6cwh" ext-link-type="uri" specific-use="software is-supplemented-by">https://tinyurl.com/3u9n6cwh</ext-link>).</p></sec><ref-list id="nyas70078-bibl-0001"><title>References</title><ref id="nyas70078-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="nyas70078-cit-0001">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Hallgren</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Sourander</surname>
+</string-name>, “<article-title>The Effect of Age on the Non‐Haemin Iron in the Human Brain</article-title>,” <source>Journal of Neurochemistry</source>
+<volume>3</volume> (<year>1958</year>): <fpage>41</fpage>–<lpage>51</lpage>, <pub-id pub-id-type="doi">10.1111/j.1471-4159.1958.tb12607.x</pub-id>.<pub-id pub-id-type="pmid">13611557</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0002"><label>2</label><mixed-citation publication-type="book" id="nyas70078-cit-0002">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Crichton</surname>
+</string-name>, <source>Inorganic Biochemistry of Iron Metabolism: From Molecular Mechanisms to Clinical Consequences</source>. <edition>1st ed.</edition> (<publisher-name>Wiley</publisher-name>, <year>2001</year>), <pub-id pub-id-type="doi">10.1002/0470845791</pub-id>.</mixed-citation></ref><ref id="nyas70078-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="nyas70078-cit-0003">
+<string-name name-style="western">
+<given-names>T. K.</given-names>
+<surname>Steiger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Weiskopf</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Bunzeck</surname>
+</string-name>, “<article-title>Iron Level and Myelin Content in the Ventral Striatum Predict Memory Performance in the Aging Brain</article-title>,” <source>Journal of Neuroscience</source>
+<volume>36</volume> (<year>2016</year>): <fpage>3552</fpage>–<lpage>3558</lpage>, <pub-id pub-id-type="doi">10.1523/JNEUROSCI.3617-15.2016</pub-id>.<pub-id pub-id-type="pmid">27013683</pub-id>
+<pub-id pub-id-type="pmcid">PMC4804012</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="nyas70078-cit-0004">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Biel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. K.</given-names>
+<surname>Steiger</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Bunzeck</surname>
+</string-name>, “<article-title>Age‐Related Iron Accumulation and Demyelination in the Basal Ganglia Are Closely Related to Verbal Memory and Executive Functioning</article-title>,” <source>Scientific Reports</source>
+<volume>11</volume> (<year>2021</year>): <fpage>9438</fpage>, <pub-id pub-id-type="doi">10.1038/s41598-021-88840-1</pub-id>.<pub-id pub-id-type="pmid">33941809</pub-id>
+<pub-id pub-id-type="pmcid">PMC8093241</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="nyas70078-cit-0005">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ayton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Fazlollahi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Bourgeat</surname>
+</string-name>, et al., “<article-title>Cerebral Quantitative Susceptibility Mapping Predicts Amyloid‐β‐Related Cognitive Decline</article-title>,” <source>Brain: A Journal of Neurology</source>
+<volume>140</volume> (<year>2017</year>): <fpage>2112</fpage>–<lpage>2119</lpage>, <pub-id pub-id-type="doi">10.1093/brain/awx137</pub-id>.<pub-id pub-id-type="pmid">28899019</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="nyas70078-cit-0006">
+<string-name name-style="western">
+<given-names>H.‐G.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. Y.</given-names>
+<surname>Rhee</surname>
+</string-name>, et al., “<article-title>Quantitative Susceptibility Mapping to Evaluate the Early Stage of Alzheimer's Disease</article-title>,” <source>NeuroImage: Clinical</source>
+<volume>16</volume> (<year>2017</year>): <fpage>429</fpage>–<lpage>438</lpage>, <pub-id pub-id-type="doi">10.1016/j.nicl.2017.08.019</pub-id>.<pub-id pub-id-type="pmid">28879084</pub-id>
+<pub-id pub-id-type="pmcid">PMC5577408</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="nyas70078-cit-0007">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Cui</surname>
+</string-name>, et al., “<article-title>Increased Iron Deposition on Brain Quantitative Susceptibility Mapping Correlates With Decreased Cognitive Function in Alzheimer's Disease</article-title>,” <source>ACS Chemical Neuroscience</source>
+<volume>9</volume> (<year>2018</year>): <fpage>1849</fpage>–<lpage>1857</lpage>, <pub-id pub-id-type="doi">10.1021/acschemneuro.8b00194</pub-id>.<pub-id pub-id-type="pmid">29722955</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="nyas70078-cit-0008">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Moon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. H.</given-names>
+<surname>Han</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W. J.</given-names>
+<surname>Moon</surname>
+</string-name>, “<article-title>Patterns of Brain Iron Accumulation in Vascular Dementia and Alzheimer's Dementia Using Quantitative Susceptibility Mapping Imaging</article-title>,” <source>Journal of Alzheimer's Disease</source>
+<volume>51</volume> (<year>2016</year>): <fpage>737</fpage>–<lpage>745</lpage>, <pub-id pub-id-type="doi">10.3233/JAD-151037</pub-id>.<pub-id pub-id-type="pmid">26890777</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="nyas70078-cit-0009">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ayton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Diouf</surname>
+</string-name>, et al., “<article-title>Brain Iron Is Associated With Accelerated Cognitive Decline in People With Alzheimer Pathology</article-title>,” <source>Molecular Psychiatry</source>
+<volume>25</volume> (<year>2020</year>): <fpage>2932</fpage>–<lpage>2941</lpage>, <pub-id pub-id-type="doi">10.1038/s41380-019-0375-7</pub-id>.<pub-id pub-id-type="pmid">30778133</pub-id>
+<pub-id pub-id-type="pmcid">PMC6698435</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="nyas70078-cit-0010">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Gao</surname>
+</string-name>, et al., “<article-title>Associations of Cortical Iron Accumulation With Cognition and Cerebral Atrophy in Alzheimer's Disease</article-title>,” <source>Quantitative Imaging in Medicine and Surgery</source>
+<volume>12</volume> (<year>2022</year>): <fpage>4570</fpage>–<lpage>4586</lpage>, <pub-id pub-id-type="doi">10.21037/qims-22-7</pub-id>.<pub-id pub-id-type="pmid">36060596</pub-id>
+<pub-id pub-id-type="pmcid">PMC9403583</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="nyas70078-cit-0011">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zeng</surname>
+</string-name>, et al., “<article-title>Quantitative Study of the Changes in Cerebral Blood Flow and Iron Deposition during Progression of Alzheimer's Disease</article-title>,” <source>Journal of Alzheimer's Disease</source>
+<volume>78</volume> (<year>2020</year>): <fpage>439</fpage>–<lpage>452</lpage>, <pub-id pub-id-type="doi">10.3233/JAD-200843</pub-id>.<pub-id pub-id-type="pmid">32986675</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="nyas70078-cit-0012">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>Alterations and Associations Between Magnetic Susceptibility of the Basal Ganglia and Diffusion Properties in Alzheimer's Disease</article-title>,” <source>Frontiers in Neuroscience</source>
+<volume>15</volume> (<year>2021</year>): <elocation-id>616163</elocation-id>, <pub-id pub-id-type="doi">10.3389/fnins.2021.616163</pub-id>.<pub-id pub-id-type="pmid">33664645</pub-id>
+<pub-id pub-id-type="pmcid">PMC7921325</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="nyas70078-cit-0013">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.‐Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.‐H.</given-names>
+<surname>Luo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.‐H.</given-names>
+<surname>Li</surname>
+</string-name>, “<article-title>Age‐Related Iron Deposition in the Basal Ganglia of Controls and Alzheimer Disease Patients Quantified Using Susceptibility Weighted Imaging</article-title>,” <source>Archives of Gerontology and Geriatrics</source>
+<volume>59</volume> (<year>2014</year>): <fpage>439</fpage>–<lpage>449</lpage>, <pub-id pub-id-type="doi">10.1016/j.archger.2014.04.002</pub-id>.<pub-id pub-id-type="pmid">24820446</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="nyas70078-cit-0014">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bulk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Kenkhuis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Van Der Graaf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Goeman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Natté</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Van Der Weerd</surname>
+</string-name>, “<article-title>Postmortem T2*‐ Weighted MRI Imaging of Cortical Iron Reflects Severity of Alzheimer's Disease</article-title>,” <source>Journal of Alzheimer's Disease</source>
+<volume>65</volume> (<year>2018</year>): <fpage>1125</fpage>–<lpage>1137</lpage>, <pub-id pub-id-type="doi">10.3233/JAD-180317</pub-id>.<pub-id pub-id-type="pmcid">PMC6218127</pub-id><pub-id pub-id-type="pmid">30103327</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="nyas70078-cit-0015">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Spotorno</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Acosta‐Cabronero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Stomrud</surname>
+</string-name>, et al., “<article-title>Relationship Between Cortical Iron and Tau Aggregation in Alzheimer's Disease</article-title>,” <source>Brain</source>
+<volume>143</volume> (<year>2020</year>): <fpage>1341</fpage>–<lpage>1349</lpage>, <pub-id pub-id-type="doi">10.1093/brain/awaa089</pub-id>.<pub-id pub-id-type="pmid">32330946</pub-id>
+<pub-id pub-id-type="pmcid">PMC7241946</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="nyas70078-cit-0016">
+<string-name name-style="western">
+<given-names>J. M. G.</given-names>
+<surname>Van Bergen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Hua</surname>
+</string-name>, et al., “<article-title>Colocalization of Cerebral Iron With Amyloid Beta in Mild Cognitive Impairment</article-title>,” <source>Scientific Reports</source>
+<volume>6</volume> (<year>2016</year>): <elocation-id>35514</elocation-id>, <pub-id pub-id-type="doi">10.1038/srep35514</pub-id>.<pub-id pub-id-type="pmid">27748454</pub-id>
+<pub-id pub-id-type="pmcid">PMC5066274</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="nyas70078-cit-0017">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Van Duijn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bulk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Van Duinen</surname>
+</string-name>, et al., “<article-title>Cortical Iron Reflects Severity of Alzheimer's Disease</article-title>,” <source>Journal of Alzheimer's Disease</source>
+<volume>60</volume> (<year>2017</year>): <fpage>1533</fpage>–<lpage>1545</lpage>, <pub-id pub-id-type="doi">10.3233/JAD-161143</pub-id>.<pub-id pub-id-type="pmcid">PMC5676973</pub-id><pub-id pub-id-type="pmid">29081415</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="nyas70078-cit-0018">
+<string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Floyd</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Carney</surname>
+</string-name>, “<article-title>The Role of Metal Ions in Oxidative Processes and Aging</article-title>,” <source>Toxicology and Industrial Health</source>
+<volume>9</volume> (<year>1993</year>): <fpage>197</fpage>–<lpage>214</lpage>, <pub-id pub-id-type="doi">10.1177/0748233793009001-214</pub-id>.<pub-id pub-id-type="pmid">8093420</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="nyas70078-cit-0019">
+<string-name name-style="western">
+<given-names>J. M. C.</given-names>
+<surname>Gutteridge</surname>
+</string-name>, “<article-title>Iron and Oxygen Radicals in Brain</article-title>,” <source>Annals of Neurology</source>
+<volume>32</volume> (<year>1992</year>): <fpage>S16</fpage>–<lpage>S21</lpage>, <pub-id pub-id-type="doi">10.1002/ana.410320705</pub-id>.<pub-id pub-id-type="pmid">1510375</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="nyas70078-cit-0020">
+<string-name name-style="western">
+<given-names>P. W.</given-names>
+<surname>Mantyh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Ghilardi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Rogers</surname>
+</string-name>, et al., “<article-title>Aluminum, Iron, and Zinc Ions Promote Aggregation of Physiological Concentrations of Beta‐Amyloid Peptide</article-title>,” <source>Journal of Neurochemistry</source>
+<volume>61</volume> (<year>1993</year>): <fpage>1171</fpage>–<lpage>1174</lpage>, <pub-id pub-id-type="doi">10.1111/j.1471-4159.1993.tb03639.x</pub-id>.<pub-id pub-id-type="pmid">8360682</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="nyas70078-cit-0021">
+<string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Rottkamp</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Raina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhu</surname>
+</string-name>, et al., “<article-title>Redox‐Active Iron Mediates Amyloid‐β Toxicity,”</article-title>
+<source>Free Radical Biology and Medicine</source>
+<volume>30</volume> (<year>2001</year>): <fpage>447</fpage>–<lpage>450</lpage>, <pub-id pub-id-type="doi">10.1016/S0891-5849(00)00494-9</pub-id>.<pub-id pub-id-type="pmid">11182300</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="nyas70078-cit-0022">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Kalionis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Murthi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Xia</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Guan</surname>
+</string-name>, “<article-title>Iron Deposition Leads to Hyperphosphorylation of Tau and Disruption of Insulin Signaling</article-title>,” <source>Frontiers in Neurology</source>
+<volume>10</volume> (<year>2019</year>): <fpage>607</fpage>, <pub-id pub-id-type="doi">10.3389/fneur.2019.00607</pub-id>.<pub-id pub-id-type="pmid">31275224</pub-id>
+<pub-id pub-id-type="pmcid">PMC6593079</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="nyas70078-cit-0023">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Yamamoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.‐W.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hasegawa</surname>
+</string-name>, et al., “<article-title>Iron (III) Induces Aggregation of Hyperphosphorylated τ and Its Reduction to Iron (II) Reverses the Aggregation: Implications in the Formation of Neurofibrillary Tangles of Alzheimer's Disease</article-title>,” <source>Journal of Neurochemistry</source>
+<volume>82</volume> (<year>2002</year>): <fpage>1137</fpage>–<lpage>1147</lpage>, <pub-id pub-id-type="doi">10.1046/j.1471-4159.2002.t01-1-01061.x</pub-id>.<pub-id pub-id-type="pmid">12358761</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="nyas70078-cit-0024">
+<string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Rao</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Adlard</surname>
+</string-name>, “<article-title>Untangling Tau and Iron: Exploring the Interaction between Iron and Tau in Neurodegeneration</article-title>,” <source>Frontiers in Molecular Neuroscience</source>
+<volume>11</volume> (<year>2018</year>): <fpage>276</fpage>, <pub-id pub-id-type="doi">10.3389/fnmol.2018.00276</pub-id>.<pub-id pub-id-type="pmid">30174587</pub-id>
+<pub-id pub-id-type="pmcid">PMC6108061</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="nyas70078-cit-0025">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Tao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Rogers</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, “<article-title>Perturbed Iron Distribution in Alzheimer's Disease Serum, Cerebrospinal Fluid, and Selected Brain Regions: A Systematic Review and Meta‐Analysis</article-title>,” <source>Journal of Alzheimer's Disease</source>
+<volume>42</volume> (<year>2014</year>): <fpage>679</fpage>–<lpage>690</lpage>, <pub-id pub-id-type="doi">10.3233/JAD-140396</pub-id>.<pub-id pub-id-type="pmid">24916541</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="nyas70078-cit-0026">
+<string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Haacke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. Y. C.</given-names>
+<surname>Cheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>House</surname>
+</string-name>, et al., “<article-title>Imaging Iron Stores in the Brain Using Magnetic Resonance Imaging</article-title>,” <source>Magnetic Resonance Imaging</source>
+<volume>23</volume> (<year>2005</year>): <fpage>1</fpage>–<lpage>25</lpage>, <pub-id pub-id-type="doi">10.1016/j.mri.2004.10.001</pub-id>.<pub-id pub-id-type="pmid">15733784</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="nyas70078-cit-0027">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Tran</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Digiacomo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Born</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Georgiadis</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zeineh</surname>
+</string-name>, “<article-title>Iron and Alzheimer's Disease: From Pathology to Imaging</article-title>,” <source>Frontiers in Human Neuroscience</source>
+<volume>16</volume> (<year>2022</year>): <elocation-id>838692</elocation-id>, <pub-id pub-id-type="doi">10.3389/fnhum.2022.838692</pub-id>.<pub-id pub-id-type="pmid">35911597</pub-id>
+<pub-id pub-id-type="pmcid">PMC9327617</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="nyas70078-cit-0028">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Damulina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Pirpamer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Soellradl</surname>
+</string-name>, et al., “<article-title>Cross‐Sectional and Longitudinal Assessment of Brain Iron Level in Alzheimer Disease Using 3‐T MRI</article-title>,” <source>Radiology</source>
+<volume>296</volume> (<year>2020</year>): <fpage>619</fpage>–<lpage>626</lpage>, <pub-id pub-id-type="doi">10.1148/radiol.2020192541</pub-id>.<pub-id pub-id-type="pmid">32602825</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="nyas70078-cit-0029">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.‐M.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.‐W.</given-names>
+<surname>Ling</surname>
+</string-name>, et al., “<article-title>Correlation of Iron in the Hippocampus With MMSE in Patients With Alzheimer's Disease</article-title>,” <source>Journal of Magnetic Resonance Imaging</source>
+<volume>29</volume> (<year>2009</year>): <fpage>793</fpage>–<lpage>798</lpage>, <pub-id pub-id-type="doi">10.1002/jmri.21730</pub-id>.<pub-id pub-id-type="pmid">19306401</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="nyas70078-cit-0030">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Kuchcinski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Patin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Lopes</surname>
+</string-name>, et al., “<article-title>Quantitative Susceptibility Mapping Demonstrates Different Patterns of Iron Overload in Subtypes of Early‐Onset Alzheimer's Disease</article-title>,” <source>European Radiology</source>
+<volume>33</volume> (<year>2022</year>): <fpage>184</fpage>–<lpage>195</lpage>, <pub-id pub-id-type="doi">10.1007/s00330-022-09014-9</pub-id>.<pub-id pub-id-type="pmid">35881183</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="nyas70078-cit-0031">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ghaderi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mohammadi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. J.</given-names>
+<surname>Nezhad</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Karami</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Sayehmiri</surname>
+</string-name>, “<article-title>Iron Quantification in Basal Ganglia: Quantitative Susceptibility Mapping as a Potential Biomarker for Alzheimer's Disease—A Systematic Review and Meta‐Analysis</article-title>,” <source>Frontiers in Neuroscience</source>
+<volume>18</volume> (<year>2024</year>): <elocation-id>1338891</elocation-id>, <pub-id pub-id-type="doi">10.3389/fnins.2024.1338891</pub-id>.<pub-id pub-id-type="pmid">38469572</pub-id>
+<pub-id pub-id-type="pmcid">PMC10925682</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="nyas70078-cit-0032">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Langkammer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Schweser</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Krebs</surname>
+</string-name>, et al., “<article-title>Quantitative Susceptibility Mapping (QSM) as a Means to Measure Brain Iron? A Post Mortem Validation Study</article-title>,” <source>NeuroImage</source>
+<volume>62</volume> (<year>2012</year>): <fpage>1593</fpage>–<lpage>1599</lpage>, <pub-id pub-id-type="doi">10.1016/j.neuroimage.2012.05.049</pub-id>.<pub-id pub-id-type="pmid">22634862</pub-id>
+<pub-id pub-id-type="pmcid">PMC3413885</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="nyas70078-cit-0033">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Langkammer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ropele</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Pirpamer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Fazekas</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Schmidt</surname>
+</string-name>, “<article-title>MRI for Iron Mapping in Alzheimer's Disease</article-title>,” <source>Neurodegenerative Diseases</source>
+<volume>13</volume> (<year>2014</year>): <fpage>189</fpage>–<lpage>191</lpage>, <pub-id pub-id-type="doi">10.1159/000353756</pub-id>.<pub-id pub-id-type="pmid">23942230</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="nyas70078-cit-0034">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Page</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Mckenzie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Bossuyt</surname>
+</string-name>, et al., “<article-title>The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews</article-title>,” <source>BMJ</source> (<year>2021</year>): <elocation-id>n71</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmj.n71</pub-id>.<pub-id pub-id-type="pmid">33782057</pub-id>
+<pub-id pub-id-type="pmcid">PMC8005924</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="nyas70078-cit-0035">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Langkammer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Krebs</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Goessler</surname>
+</string-name>, et al., “<article-title>Quantitative MR Imaging of Brain Iron: A Postmortem Validation Study</article-title>,” <source>Radiology</source>
+<volume>257</volume> (<year>2010</year>): <fpage>455</fpage>–<lpage>462</lpage>, <pub-id pub-id-type="doi">10.1148/radiol.10100495</pub-id>.<pub-id pub-id-type="pmid">20843991</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="nyas70078-cit-0036">
+<string-name name-style="western">
+<given-names>P. E.</given-names>
+<surname>Turkeltaub</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Eickhoff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Laird</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Fox</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Wiener</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Fox</surname>
+</string-name>, “<article-title>Minimizing Within‐Experiment and Within‐Group Effects in Activation Likelihood Estimation Meta‐Analyses</article-title>,” <source>Human Brain Mapping</source>
+<volume>33</volume> (<year>2012</year>): <fpage>1</fpage>–<lpage>13</lpage>, <pub-id pub-id-type="doi">10.1002/hbm.21186</pub-id>.<pub-id pub-id-type="pmid">21305667</pub-id>
+<pub-id pub-id-type="pmcid">PMC4791073</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="nyas70078-cit-0037">
+<string-name name-style="western">
+<given-names>G. M.</given-names>
+<surname>Mckhann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. S.</given-names>
+<surname>Knopman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Chertkow</surname>
+</string-name>, et al., “<article-title>The Diagnosis of Dementia due to Alzheimer's Disease: Recommendations From the National Institute on Aging‐Alzheimer's Association Workgroups on Diagnostic Guidelines for Alzheimer's Disease</article-title>,” <source>Alzheimer's &amp; Dementia</source>
+<volume>7</volume> (<year>2011</year>): <fpage>263</fpage>–<lpage>269</lpage>, <pub-id pub-id-type="doi">10.1016/j.jalz.2011.03.005</pub-id>.<pub-id pub-id-type="pmcid">PMC3312024</pub-id><pub-id pub-id-type="pmid">21514250</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="nyas70078-cit-0038">
+<string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Jack</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Bennett</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Blennow</surname>
+</string-name>, et al., “<article-title>NIA‐AA Research Framework: Toward a Biological Definition of Alzheimer's Disease</article-title>,” <source>Alzheimer's &amp; Dementia</source>
+<volume>14</volume> (<year>2018</year>): <fpage>535</fpage>–<lpage>562</lpage>, <pub-id pub-id-type="doi">10.1016/j.jalz.2018.02.018</pub-id>.<pub-id pub-id-type="pmcid">PMC5958625</pub-id><pub-id pub-id-type="pmid">29653606</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="nyas70078-cit-0039">
+<string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Cogswell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. J.</given-names>
+<surname>Wiste</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Senjem</surname>
+</string-name>, et al., “<article-title>Associations of Quantitative Susceptibility Mapping With Alzheimer's Disease Clinical and Imaging Markers</article-title>,” <source>Neuroimage</source>
+<volume>224</volume> (<year>2021</year>): <elocation-id>117433</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.neuroimage.2020.117433</pub-id>.<pub-id pub-id-type="pmid">33035667</pub-id>
+<pub-id pub-id-type="pmcid">PMC7860631</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="nyas70078-cit-0040">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Tiepolt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rullmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. H.</given-names>
+<surname>Jochimsen</surname>
+</string-name>, et al., “<article-title>Quantitative Susceptibility Mapping in β‐Amyloid PET‐Stratified Patients With Dementia and Healthy Controls—A Hybrid PET/MRI Study</article-title>,” <source>European Journal of Radiology</source>
+<volume>131</volume> (<year>2020</year>): <elocation-id>109243</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.ejrad.2020.109243</pub-id>.<pub-id pub-id-type="pmid">32916411</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="nyas70078-cit-0041">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Liu</surname>
+</string-name>, et al., “<article-title>Investigation of Brain Iron Levels in Chinese Patients With Alzheimer's Disease</article-title>,” <source>Frontiers in Aging Neuroscience</source>
+<volume>15</volume> (<year>2023</year>): <elocation-id>1168845</elocation-id>, <pub-id pub-id-type="doi">10.3389/fnagi.2023.1168845</pub-id>.<pub-id pub-id-type="pmid">37284016</pub-id>
+<pub-id pub-id-type="pmcid">PMC10239950</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0042"><label>42</label><mixed-citation publication-type="book" id="nyas70078-cit-0042">
+<string-name name-style="western">
+<given-names>L. V.</given-names>
+<surname>Hedges</surname>
+</string-name> and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Olkin</surname>
+</string-name>, <source>Statistical Methods for Meta‐Analysis</source> (<publisher-name>Academic Press, Inc</publisher-name>., <year>1985</year>), <pub-id pub-id-type="doi">10.1016/C2009-0-03396-0</pub-id>.</mixed-citation></ref><ref id="nyas70078-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="nyas70078-cit-0043">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Zhou</surname>
+</string-name>, et al., “<article-title>Altered Brain Iron Depositions From Aging to Parkinson's Disease and Alzheimer's Disease: A Quantitative Susceptibility Mapping Study</article-title>,” <source>NeuroImage</source>
+<volume>264</volume> (<year>2022</year>): <elocation-id>119683</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.neuroimage.2022.119683</pub-id>.<pub-id pub-id-type="pmid">36243270</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="nyas70078-cit-0044">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Wan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Tong</surname>
+</string-name>, “<article-title>Optimally Estimating the Sample Mean From the Sample Size, Median, Mid‐Range, and/or Mid‐Quartile Range</article-title>,” <source>Statistical Methods in Medical Research</source>
+<volume>27</volume> (<year>2018</year>): <fpage>1785</fpage>–<lpage>1805</lpage>, <pub-id pub-id-type="doi">10.1177/0962280216669183</pub-id>.<pub-id pub-id-type="pmid">27683581</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="nyas70078-cit-0045">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Qin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Zhan</surname>
+</string-name>, et al., “<article-title>Investigation on Positive Correlation of Increased Brain Iron Deposition With Cognitive Impairment in Alzheimer Disease by Using Quantitative MR R2′ mapping</article-title>,” <source>Journal of Huazhong University of Science and Technology Medical Sciences = Hua Zhong Ke Ji Da Xue Xue Bao Yi Xue Ying De Wen Ban = Huazhong Keji Daxue Xuebao Yixue Yingdewen Ban</source>
+<volume>31</volume> (<year>2011</year>): <fpage>578</fpage>–<lpage>585</lpage>, <pub-id pub-id-type="doi">10.1007/s11596-011-0493-1</pub-id>.<pub-id pub-id-type="pmid">21823025</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0046"><label>46</label><mixed-citation publication-type="miscellaneous" id="nyas70078-cit-0046">
+<article-title>PlotDigitizer: Free Online App</article-title>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://plotdigitizer.com/" ext-link-type="uri">https://plotdigitizer.com/</ext-link>.</mixed-citation></ref><ref id="nyas70078-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="nyas70078-cit-0047">
+<string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Aydin</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. Y.</given-names>
+<surname>Yassikaya</surname>
+</string-name>, “<article-title>Validity and Reliability Analysis of the PlotDigitizer Software Program for Data Extraction From Single‐Case Graphs</article-title>,” <source>Perspectives on Behavior Science</source>
+<volume>45</volume> (<year>2022</year>): <fpage>239</fpage>–<lpage>257</lpage>, <pub-id pub-id-type="doi">10.1007/s40614-021-00284-0</pub-id>.<pub-id pub-id-type="pmid">35342869</pub-id>
+<pub-id pub-id-type="pmcid">PMC8894524</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0048"><label>48</label><mixed-citation publication-type="book" id="nyas70078-cit-0048">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Cohen</surname>
+</string-name>, <source>Statistical Power Analysis for the Behavioral Sciences</source>. (<publisher-name>Routledge</publisher-name>, <year>2013</year>), <pub-id pub-id-type="doi">10.4324/9780203771587</pub-id>.</mixed-citation></ref><ref id="nyas70078-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="nyas70078-cit-0049">
+<string-name name-style="western">
+<given-names>W.‐J.</given-names>
+<surname>Moon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.‐J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. G.</given-names>
+<surname>Roh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Choi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.‐H.</given-names>
+<surname>Han</surname>
+</string-name>, “<article-title>Fluid‐Attenuated Inversion Recovery Hypointensity of the Pulvinar Nucleus of Patients With Alzheimer Disease: Its Possible Association With Iron Accumulation as Evidenced by the t2(*) Map</article-title>,” <source>Korean Journal of Radiology</source>
+<volume>13</volume> (<year>2012</year>): <elocation-id>674</elocation-id>, <pub-id pub-id-type="doi">10.3348/kjr.2012.13.6.674</pub-id>.<pub-id pub-id-type="pmid">23118565</pub-id>
+<pub-id pub-id-type="pmcid">PMC3484287</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="nyas70078-cit-0050">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Cai</surname>
+</string-name>, et al., “<article-title>Brain Iron Deposition Analysis Using Susceptibility Weighted Imaging and Its Association With Body Iron Level in Patients With Mild Cognitive Impairment</article-title>,” <source>Molecular Medicine Reports</source>
+<volume>16</volume> (<year>2017</year>): <fpage>8209</fpage>–<lpage>8215</lpage>, <pub-id pub-id-type="doi">10.3892/mmr.2017.7668</pub-id>.<pub-id pub-id-type="pmid">28990041</pub-id>
+<pub-id pub-id-type="pmcid">PMC5779907</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="nyas70078-cit-0051">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.‐E.</given-names>
+<surname>Wei</surname>
+</string-name>, et al., “<article-title>Using Susceptibility‐Weighted Images to Quantify Iron Deposition Differences in Amnestic Mild Cognitive Impairment and Alzheimer's Disease</article-title>,” <source>Neurology India</source>
+<volume>61</volume> (<year>2013</year>): <fpage>26</fpage>–<lpage>34</lpage>, <pub-id pub-id-type="doi">10.4103/0028-3886.107924</pub-id>.<pub-id pub-id-type="pmid">23466836</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0052"><label>52</label><mixed-citation publication-type="book" id="nyas70078-cit-0052">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Borenstein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. V.</given-names>
+<surname>Hedges</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. P. T.</given-names>
+<surname>Higgins</surname>
+</string-name>, et al., “<source>Introduction to Meta‐Analysis</source>” (<publisher-name>John Wiley &amp; Sons</publisher-name>, <year>2009</year>).</mixed-citation></ref><ref id="nyas70078-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="nyas70078-cit-0053">
+<string-name name-style="western">
+<given-names>J. P. T.</given-names>
+<surname>Higgins</surname>
+</string-name>, “<article-title>Measuring Inconsistency in Meta‐Analyses</article-title>,” <source>BMJ</source>
+<volume>327</volume> (<year>2003</year>): <fpage>557</fpage>–<lpage>560</lpage>, <pub-id pub-id-type="doi">10.1136/bmj.327.7414.557</pub-id>.<pub-id pub-id-type="pmid">12958120</pub-id>
+<pub-id pub-id-type="pmcid">PMC192859</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="nyas70078-cit-0054">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Egger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. D.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Schneider</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Minder</surname>
+</string-name>, “<article-title>Bias in Meta‐Analysis Detected by a Simple, Graphical Test</article-title>,” <source>BMJ</source>
+<volume>315</volume> (<year>1997</year>): <fpage>629</fpage>–<lpage>634</lpage>, <pub-id pub-id-type="doi">10.1136/bmj.315.7109.629</pub-id>.<pub-id pub-id-type="pmid">9310563</pub-id>
+<pub-id pub-id-type="pmcid">PMC2127453</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="nyas70078-cit-0055">
+<string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Sutton</surname>
+</string-name>, “<article-title>Empirical Assessment of Effect of Publication Bias on Meta‐analyses</article-title>,” <source>BMJ</source>
+<volume>320</volume> (<year>2000</year>): <fpage>1574</fpage>–<lpage>1577</lpage>, <pub-id pub-id-type="doi">10.1136/bmj.320.7249.1574</pub-id>.<pub-id pub-id-type="pmid">10845965</pub-id>
+<pub-id pub-id-type="pmcid">PMC27401</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="nyas70078-cit-0056">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Lin</surname>
+</string-name> and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Chu</surname>
+</string-name>, “<article-title>Quantifying Publication Bias in Meta‐Analysis</article-title>,” <source>Biometrics</source>
+<volume>74</volume> (<year>2018</year>): <fpage>785</fpage>–<lpage>794</lpage>, <pub-id pub-id-type="doi">10.1111/biom.12817</pub-id>.<pub-id pub-id-type="pmid">29141096</pub-id>
+<pub-id pub-id-type="pmcid">PMC5953768</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="nyas70078-cit-0057">
+<string-name name-style="western">
+<given-names>J. A. C.</given-names>
+<surname>Sterne</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Egger</surname>
+</string-name>, “<article-title>Funnel Plots for Detecting Bias in Meta‐Analysis</article-title>,” <source>Journal of Clinical Epidemiology</source>
+<volume>54</volume> (<year>2001</year>): <fpage>1046</fpage>–<lpage>1055</lpage>, <pub-id pub-id-type="doi">10.1016/S0895-4356(01)00377-8</pub-id>.<pub-id pub-id-type="pmid">11576817</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="nyas70078-cit-0058">
+<string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Peters</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Sutton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. R.</given-names>
+<surname>Jones</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. R.</given-names>
+<surname>Abrams</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Rushton</surname>
+</string-name>, “<article-title>Performance of the Trim and Fill Method in the Presence of Publication Bias and Between‐Study Heterogeneity</article-title>,” <source>Statistics in Medicine</source>
+<volume>26</volume> (<year>2007</year>): <fpage>4544</fpage>–<lpage>4562</lpage>, <pub-id pub-id-type="doi">10.1002/sim.2889</pub-id>.<pub-id pub-id-type="pmid">17476644</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="nyas70078-cit-0059">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Suurmond</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Van Rhee</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hak</surname>
+</string-name>, “<article-title>Introduction, Comparison, and Validation of <italic toggle="yes">Meta‐Essentials</italic>: A Free and Simple Tool for Meta‐Analysis</article-title>,” <source>Research Synthesis Methods</source>
+<volume>8</volume> (<year>2017</year>): <fpage>537</fpage>–<lpage>553</lpage>, <pub-id pub-id-type="doi">10.1002/jrsm.1260</pub-id>.<pub-id pub-id-type="pmid">28801932</pub-id>
+<pub-id pub-id-type="pmcid">PMC5725669</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0060"><label>60</label><mixed-citation publication-type="book" id="nyas70078-cit-0060">
+<string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Tukey</surname>
+</string-name>, <source>Exploratory Data Analysis</source> (<publisher-name>Addison‐Wesley Pub. Co</publisher-name>, <year>1977</year>).</mixed-citation></ref><ref id="nyas70078-bib-0061"><label>61</label><mixed-citation publication-type="miscellaneous" id="nyas70078-cit-0061">
+<collab collab-type="authors">The jamovi project</collab>
+, <article-title>jamovi (Version 2.3) [Computer Software]</article-title>. 2023.</mixed-citation></ref><ref id="nyas70078-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="nyas70078-cit-0062">
+<string-name name-style="western">
+<given-names>G. A.</given-names>
+<surname>Rousselet</surname>
+</string-name> and <string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Pernet</surname>
+</string-name>, “<article-title>Improving Standards in Brain‐Behavior Correlation Analyses</article-title>,” <source>Frontiers in Human Neuroscience</source>
+<volume>6</volume> (<year>2012</year>), <pub-id pub-id-type="doi">10.3389/fnhum.2012.00119</pub-id>.<pub-id pub-id-type="pmcid">PMC3342588</pub-id><pub-id pub-id-type="pmid">22563313</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="nyas70078-cit-0063">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Diedenhofen</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Musch</surname>
+</string-name>, “<article-title>cocor: A Comprehensive Solution for the Statistical Comparison of Correlations</article-title>,” <source>PLoS ONE</source>
+<volume>10</volume> (<year>2015</year>): <elocation-id>e0121945</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pone.0121945</pub-id>.<pub-id pub-id-type="pmid">25835001</pub-id>
+<pub-id pub-id-type="pmcid">PMC4383486</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="nyas70078-cit-0064">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bartzokis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. A.</given-names>
+<surname>Tishler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.‐S.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. H.</given-names>
+<surname>Lu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Cummings</surname>
+</string-name>, “<article-title>Brain Ferritin Iron as a Risk Factor for Age at Onset in Neurodegenerative Diseases</article-title>,” <source>Annals of the New York Academy of Sciences</source>
+<volume>1012</volume> (<year>2004</year>): <fpage>224</fpage>–<lpage>236</lpage>, <pub-id pub-id-type="doi">10.1196/annals.1306.019</pub-id>.<pub-id pub-id-type="pmid">15105269</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="nyas70078-cit-0065">
+<string-name name-style="western">
+<given-names>G. C.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Dyke</surname>
+</string-name>, et al., “<article-title>Brain Oxygen Extraction and Neural Tissue Susceptibility Are Associated With Cognitive Impairment in Older Individuals</article-title>,” <source>Journal of Neuroimaging</source>
+<volume>32</volume> (<year>2022</year>): <fpage>697</fpage>–<lpage>709</lpage>, <pub-id pub-id-type="doi">10.1111/jon.12990</pub-id>.<pub-id pub-id-type="pmid">35294075</pub-id>
+<pub-id pub-id-type="pmcid">PMC9308634</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="nyas70078-cit-0066">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Huang</surname>
+</string-name>, et al., “<article-title>Associations of Quantitative Susceptibility Mapping With Cortical Atrophy and Brain Connectome in Alzheimer's Disease: A Multi‐Parametric Study</article-title>,” <source>Neuroimage</source>
+<volume>290</volume> (<year>2024</year>): <elocation-id>120555</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.neuroimage.2024.120555</pub-id>.<pub-id pub-id-type="pmid">38447683</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="nyas70078-cit-0067">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Todorich</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Pasquini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. I.</given-names>
+<surname>Garcia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Paez</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Connor</surname>
+</string-name>, “<article-title>Oligodendrocytes and Myelination: The Role of Iron</article-title>,” <source>Glia</source>
+<volume>57</volume> (<year>2009</year>): <fpage>467</fpage>–<lpage>478</lpage>, <pub-id pub-id-type="doi">10.1002/glia.20784</pub-id>.<pub-id pub-id-type="pmid">18837051</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="nyas70078-cit-0068">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bartzokis</surname>
+</string-name>, “<article-title>Alzheimer's Disease as Homeostatic Responses to Age‐Related Myelin Breakdown</article-title>,” <source>Neurobiology of Aging</source>
+<volume>32</volume> (<year>2011</year>): <fpage>1341</fpage>–<lpage>1371</lpage>, <pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2009.08.007</pub-id>.<pub-id pub-id-type="pmid">19775776</pub-id>
+<pub-id pub-id-type="pmcid">PMC3128664</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="nyas70078-cit-0069">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zecca</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. B. H.</given-names>
+<surname>Youdim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Riederer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Connor</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. R.</given-names>
+<surname>Crichton</surname>
+</string-name>, “<article-title>Iron, Brain Ageing and Neurodegenerative Disorders</article-title>,” <source>Nature Reviews Neuroscience</source>
+<volume>5</volume> (<year>2004</year>): <fpage>863</fpage>–<lpage>873</lpage>, <pub-id pub-id-type="doi">10.1038/nrn1537</pub-id>.<pub-id pub-id-type="pmid">15496864</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="nyas70078-cit-0070">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Doll</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Conrad</surname>
+</string-name>, “<article-title>Iron and Ferroptosis: A Still Ill‐Defined Liaison</article-title>,” <source>IUBMB Life</source>
+<volume>69</volume> (<year>2017</year>): <fpage>423</fpage>–<lpage>434</lpage>, <pub-id pub-id-type="doi">10.1002/iub.1616</pub-id>.<pub-id pub-id-type="pmid">28276141</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="nyas70078-cit-0071">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Aquino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bizzi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Grisoli</surname>
+</string-name>, et al., “<article-title>Age‐Related Iron Deposition in the Basal Ganglia: Quantitative Analysis in Healthy Subjects</article-title>,” <source>Radiology</source>
+<volume>252</volume> (<year>2009</year>): <fpage>165</fpage>–<lpage>172</lpage>, <pub-id pub-id-type="doi">10.1148/radiol.2522081399</pub-id>.<pub-id pub-id-type="pmid">19561255</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="nyas70078-cit-0072">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bartzokis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Beckson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Hance</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Marx</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Foster</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Marder</surname>
+</string-name>, “<article-title>MR Evaluation of Age‐Related Increase of Brain Iron in Young Adult and Older Normal Males</article-title>,” <source>Magnetic Resonance Imaging</source>
+<volume>15</volume> (<year>1997</year>): <fpage>29</fpage>–<lpage>35</lpage>, <pub-id pub-id-type="doi">10.1016/S0730-725X(96)00234-2</pub-id>.<pub-id pub-id-type="pmid">9084022</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="nyas70078-cit-0073">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Khattar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Triebswetter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kiely</surname>
+</string-name>, et al., “<article-title>Investigation of the Association Between Cerebral Iron Content and Myelin Content in Normative Aging Using Quantitative Magnetic Resonance Neuroimaging</article-title>,” <source>NeuroImage</source>
+<volume>239</volume> (<year>2021</year>): <elocation-id>118267</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.neuroimage.2021.118267</pub-id>.<pub-id pub-id-type="pmid">34139358</pub-id>
+<pub-id pub-id-type="pmcid">PMC8370037</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="nyas70078-cit-0074">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Moon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.‐H.</given-names>
+<surname>Han</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.‐J.</given-names>
+<surname>Moon</surname>
+</string-name>, “<article-title>Magnetic Susceptibility in the Deep Gray Matter May be Modulated by Apolipoprotein E4 and Age With Regional Predilections: A Quantitative Susceptibility Mapping Study</article-title>,” <source>Neuroradiology</source>
+<volume>64</volume> (<year>2022</year>): <fpage>1331</fpage>–<lpage>1342</lpage>, <pub-id pub-id-type="doi">10.1007/s00234-021-02859-9</pub-id>.<pub-id pub-id-type="pmid">34981175</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="nyas70078-cit-0075">
+<string-name name-style="western">
+<given-names>A. H.</given-names>
+<surname>Koeppen</surname>
+</string-name>, “<article-title>The History of Iron in the Brain</article-title>,” <source>Journal of the Neurological Sciences</source>
+<volume>134</volume> (<year>1995</year>): <fpage>1</fpage>–<lpage>9</lpage>, <pub-id pub-id-type="doi">10.1016/0022-510X(95)00202-D</pub-id>.<pub-id pub-id-type="pmid">8847538</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="nyas70078-cit-0076">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Mills</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.‐P.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Wang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Xu</surname>
+</string-name>, “<article-title>Mechanisms of Brain Iron Transport: Insight Into Neurodegeneration and CNS Disorders</article-title>,” <source>Future Medical Chemistry</source>
+<volume>2</volume> (<year>2010</year>): <fpage>51</fpage>–<lpage>64</lpage>, <pub-id pub-id-type="doi">10.4155/fmc.09.140</pub-id>.<pub-id pub-id-type="pmcid">PMC2812924</pub-id><pub-id pub-id-type="pmid">20161623</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="nyas70078-cit-0077">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Dusek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Hofer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Alexander</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Roos</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. O.</given-names>
+<surname>Aaseth</surname>
+</string-name>, “<article-title>Cerebral Iron Deposition in Neurodegeneration</article-title>,” <source>Biomolecules</source>
+<volume>12</volume> (<year>2022</year>): <fpage>714</fpage>, <pub-id pub-id-type="doi">10.3390/biom12050714</pub-id>.<pub-id pub-id-type="pmid">35625641</pub-id>
+<pub-id pub-id-type="pmcid">PMC9138489</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="nyas70078-cit-0078">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Nikseresht</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. I.</given-names>
+<surname>Bush</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ayton</surname>
+</string-name>, “<article-title>Treating Alzheimer's Disease by Targeting Iron</article-title>,” <source>British Journal of Pharmacology</source>
+<volume>176</volume> (<year>2019</year>): <fpage>3622</fpage>–<lpage>3635</lpage>, <pub-id pub-id-type="doi">10.1111/bph.14567</pub-id>.<pub-id pub-id-type="pmid">30632143</pub-id>
+<pub-id pub-id-type="pmcid">PMC6715619</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="nyas70078-cit-0079">
+<string-name name-style="western">
+<given-names>J. Y.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Ahn</surname>
+</string-name>, et al., “<article-title>Off‐Target <sup>18</sup>F‐AV‐1451 Binding in the Basal Ganglia Correlates With Age‐Related Iron Accumulation</article-title>,” <source>Journal of Nuclear Medicine</source>
+<volume>59</volume> (<year>2018</year>): <fpage>117</fpage>–<lpage>120</lpage>, <pub-id pub-id-type="doi">10.2967/jnumed.117.195248</pub-id>.<pub-id pub-id-type="pmid">28775201</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="nyas70078-cit-0080">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Yan</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, “<article-title>Iron Metabolism, Ferroptosis, and the Links With Alzheimer's Disease</article-title>,” <source>Frontiers in neuroscience</source>
+<volume>13</volume> (<year>2020</year>): <fpage>1443</fpage>, <pub-id pub-id-type="doi">10.3389/fnins.2019.01443</pub-id>.<pub-id pub-id-type="pmid">32063824</pub-id>
+<pub-id pub-id-type="pmcid">PMC7000453</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="nyas70078-cit-0081">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Aristieta</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gittis</surname>
+</string-name>, “<article-title>Distinct Globus Pallidus Circuits Regulate Motor and Cognitive Functions</article-title>,” <source>Trends in Neuroscience</source>
+<volume>44</volume> (<year>2021</year>): <fpage>597</fpage>–<lpage>599</lpage>, <pub-id pub-id-type="doi">10.1016/j.tins.2021.06.001</pub-id>.<pub-id pub-id-type="pmcid">PMC8562495</pub-id><pub-id pub-id-type="pmid">34144845</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="nyas70078-cit-0082">
+<string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Lisman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Grace</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Duzel</surname>
+</string-name>, “<article-title>A neoHebbian Framework for Episodic Memory; Role of Dopamine‐Dependent Late LTP</article-title>,” <source>Trends in Neuroscience</source>
+<volume>34</volume> (<year>2011</year>): <fpage>536</fpage>–<lpage>547</lpage>, <pub-id pub-id-type="doi">10.1016/j.tins.2011.07.006</pub-id>.<pub-id pub-id-type="pmcid">PMC3183413</pub-id><pub-id pub-id-type="pmid">21851992</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="nyas70078-cit-0083">
+<string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Lisman</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Grace</surname>
+</string-name>, “<article-title>The Hippocampal‐VTA Loop: Controlling the Entry of Information Into Long‐Term Memory</article-title>,” <source>Neuron</source>
+<volume>46</volume> (<year>2005</year>): <fpage>703</fpage>–<lpage>713</lpage>, <pub-id pub-id-type="doi">10.1016/j.neuron.2005.05.002</pub-id>.<pub-id pub-id-type="pmid">15924857</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="nyas70078-cit-0084">
+<string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Hare</surname>
+</string-name> and <string-name name-style="western">
+<given-names>K. L.</given-names>
+<surname>Double</surname>
+</string-name>, “<article-title>Iron and Dopamine: A Toxic Couple</article-title>,” <source>Brain</source>
+<volume>139</volume> (<year>2016</year>): <fpage>1026</fpage>–<lpage>1035</lpage>, <pub-id pub-id-type="doi">10.1093/brain/aww022</pub-id>.<pub-id pub-id-type="pmid">26962053</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="nyas70078-cit-0085">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Foerde</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Shohamy</surname>
+</string-name>, “<article-title>The Role of the Basal Ganglia in Learning and Memory: Insight From Parkinson's Disease</article-title>,” <source>Neurobiology of Learning and Memory</source>
+<volume>96</volume> (<year>2011</year>): <fpage>624</fpage>–<lpage>636</lpage>, <pub-id pub-id-type="doi">10.1016/j.nlm.2011.08.006</pub-id>.<pub-id pub-id-type="pmid">21945835</pub-id>
+<pub-id pub-id-type="pmcid">PMC3772079</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="nyas70078-cit-0086">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ayton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Barton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Brew</surname>
+</string-name>, et al., “<article-title>Deferiprone in Alzheimer Disease: A Randomized Clinical Trial</article-title>,” <source>JAMA Neurology</source>
+<volume>82</volume> (<year>2025</year>): <fpage>11</fpage>, <pub-id pub-id-type="doi">10.1001/jamaneurol.2024.3733</pub-id>.<pub-id pub-id-type="pmid">39495531</pub-id>
+<pub-id pub-id-type="pmcid">PMC11536302</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="nyas70078-cit-0087">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zhang</surname>
+</string-name>, “<article-title>Age, Gender, and Hemispheric Differences in Iron Deposition in the human Brain: An in Vivo MRI Study</article-title>,” <source>NeuroImage</source>
+<volume>40</volume> (<year>2008</year>): <fpage>35</fpage>–<lpage>42</lpage>, <pub-id pub-id-type="doi">10.1016/j.neuroimage.2007.11.017</pub-id>.<pub-id pub-id-type="pmid">18180169</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="nyas70078-cit-0088">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Daugherty</surname>
+</string-name> and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Raz</surname>
+</string-name>, “<article-title>Age‐Related Differences in Iron Content of Subcortical Nuclei Observed in Vivo: A Meta‐Analysis</article-title>,” <source>NeuroImage</source>
+<volume>70</volume> (<year>2013</year>): <fpage>113</fpage>–<lpage>121</lpage>, <pub-id pub-id-type="doi">10.1016/j.neuroimage.2012.12.040</pub-id>.<pub-id pub-id-type="pmid">23277110</pub-id>
+<pub-id pub-id-type="pmcid">PMC3580001</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="nyas70078-cit-0089">
+<string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Cogswell</surname>
+</string-name> and <string-name name-style="western">
+<given-names>A. P.</given-names>
+<surname>Fan</surname>
+</string-name>, “<article-title>Multimodal Comparisons of QSM and PET in Neurodegeneration and Aging</article-title>,” <source>NeuroImage</source>
+<volume>273</volume> (<year>2023</year>): <elocation-id>120068</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.neuroimage.2023.120068</pub-id>.<pub-id pub-id-type="pmid">37003447</pub-id>
+<pub-id pub-id-type="pmcid">PMC10947478</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0090"><label>90</label><mixed-citation publication-type="journal" id="nyas70078-cit-0090">
+<string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Sato</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Fujita</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. F.</given-names>
+<surname>Cardoso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. E.</given-names>
+<surname>Thomaz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Brammer</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Amaro</surname>
+</string-name>, “<article-title>Analyzing the Connectivity Between Regions of Interest: An Approach Based on Cluster Granger Causality for fMRI Data Analysis</article-title>,” <source>NeuroImage</source>
+<volume>52</volume> (<year>2010</year>): <fpage>1444</fpage>–<lpage>1455</lpage>, <pub-id pub-id-type="doi">10.1016/j.neuroimage.2010.05.022</pub-id>.<pub-id pub-id-type="pmid">20472076</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0091"><label>91</label><mixed-citation publication-type="journal" id="nyas70078-cit-0091">
+<string-name name-style="western">
+<given-names>F. C.</given-names>
+<surname>Quevenco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>Preti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M. G.</given-names>
+<surname>Van Bergen</surname>
+</string-name>, et al., “<article-title>Memory Performance‐Related Dynamic Brain Connectivity Indicates Pathological Burden and Genetic Risk for Alzheimer's Disease</article-title>,” <source>Alzheimer's Research &amp; Therapy</source>
+<volume>9</volume> (<year>2017</year>): <fpage>24</fpage>, <pub-id pub-id-type="doi">10.1186/s13195-017-0249-7</pub-id>.<pub-id pub-id-type="pmcid">PMC5374623</pub-id><pub-id pub-id-type="pmid">28359293</pub-id></mixed-citation></ref><ref id="nyas70078-bib-0092"><label>92</label><mixed-citation publication-type="journal" id="nyas70078-cit-0092">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bartzokis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Sultzer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Cummings</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. E.</given-names>
+<surname>Holt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Hance</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. W.</given-names>
+<surname>Henderson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Mintz</surname>
+</string-name>, “<article-title>In Vivo Evaluation of Brain Iron in Alzheimer Disease Using Magnetic Resonance Imaging</article-title>,” <source>Archives of General Psychiatry</source>
+<volume>57</volume>, no. <issue>1</issue>, (<year>2000</year>): <elocation-id>47</elocation-id>, <pub-id pub-id-type="doi">10.1001/archpsyc.57.1.47</pub-id>.<pub-id pub-id-type="pmid">10632232</pub-id>
+</mixed-citation></ref><ref id="nyas70078-bib-0093"><label>93</label><mixed-citation publication-type="journal" id="nyas70078-cit-0093">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bartzokis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Sultzer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Mintz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. E.</given-names>
+<surname>Holt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Marx</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Kelly Phelan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Marder</surname>
+</string-name>, “<article-title>In vivo evaluation of brain iron in Alzheimer s disease and normal subjects using MRI</article-title>,” <source>Biological Psychiatry</source>
+<volume>35</volume>, no. <issue>7</issue> (<year>1994</year>): <fpage>480</fpage>–<lpage>487</lpage>, <pub-id pub-id-type="doi">10.1016/0006-3223(94)90047-7</pub-id>.<pub-id pub-id-type="pmid">8018799</pub-id>
+</mixed-citation></ref></ref-list></back></article></pmc-articleset>

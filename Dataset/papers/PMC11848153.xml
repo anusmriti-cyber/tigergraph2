@@ -1,0 +1,865 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz14440" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11848153</article-id><article-id pub-id-type="pmcid-ver">PMC11848153.1</article-id><article-id pub-id-type="pmcaid">11848153</article-id><article-id pub-id-type="pmcaiid">11848153</article-id><article-id pub-id-type="pmid">39641412</article-id><article-id pub-id-type="doi">10.1002/alz.14440</article-id><article-id pub-id-type="publisher-id">ALZ14440</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Perspective</subject></subj-group><subj-group subj-group-type="heading"><subject>Perspective</subject></subj-group></article-categories><title-group><article-title>Developing and applying potentially scalable recruitment strategies to accelerate ADRD research participation of Black adults</article-title><alt-title alt-title-type="left-running-head">RICHARDS <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz14440-cr-0001" contrib-type="author"><name name-style="western"><surname>Richards</surname><given-names initials="R">Ralph</given-names></name><xref rid="alz14440-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14440-cr-0002" contrib-type="author"><name name-style="western"><surname>Richards</surname><given-names initials="M">Mollie</given-names></name><xref rid="alz14440-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14440-cr-0003" contrib-type="author"><name name-style="western"><surname>Musema</surname><given-names initials="J">Jane</given-names></name><xref rid="alz14440-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz14440-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz14440-cr-0004" contrib-type="author"><name name-style="western"><surname>Tackett</surname><given-names initials="A">Andrew</given-names></name><xref rid="alz14440-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz14440-cr-0005" contrib-type="author"><name name-style="western"><surname>Van Heiden</surname><given-names initials="S">Sarah</given-names></name><xref rid="alz14440-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz14440-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz14440-cr-0006" contrib-type="author"><name name-style="western"><surname>Polsinelli</surname><given-names initials="A">Angelina</given-names></name><xref rid="alz14440-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz14440-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz14440-cr-0007" contrib-type="author"><name name-style="western"><surname>Gao</surname><given-names initials="S">Sujuan</given-names></name><xref rid="alz14440-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz14440-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz14440-cr-0008" contrib-type="author"><name name-style="western"><surname>Brown</surname><given-names initials="SA">Steven A.</given-names></name><xref rid="alz14440-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz14440-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz14440-cr-0009" contrib-type="author"><name name-style="western"><surname>Unverzagt</surname><given-names initials="FW">Frederick W.</given-names></name><xref rid="alz14440-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz14440-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="alz14440-cr-0010" contrib-type="author"><name name-style="western"><surname>Risacher</surname><given-names initials="S">Shannon</given-names></name><xref rid="alz14440-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz14440-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz14440-cr-0011" contrib-type="author"><name name-style="western"><surname>Adeoye‐Olatunde</surname><given-names initials="O">Omolola</given-names></name><xref rid="alz14440-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz14440-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="alz14440-cr-0012" contrib-type="author"><name name-style="western"><surname>Campbell</surname><given-names initials="C">Christopher</given-names></name><xref rid="alz14440-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14440-cr-0013" contrib-type="author"><name name-style="western"><surname>Shaw</surname><given-names initials="P">Pamella</given-names></name><xref rid="alz14440-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14440-cr-0014" contrib-type="author"><name name-style="western"><surname>Saykin</surname><given-names initials="A">Andrew</given-names></name><xref rid="alz14440-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz14440-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz14440-cr-0015" contrib-type="author" corresp="yes"><name name-style="western"><surname>Wang</surname><given-names initials="S">Sophia</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2274-859X</contrib-id><xref rid="alz14440-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz14440-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>sophwang@iu.edu</email></address></contrib></contrib-group><aff id="alz14440-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Indiana University Alzheimer's Disease Research Center Community Advisory Board</named-content>
+<institution>Indiana University School of Medicine</institution>
+<city>Indianapolis</city>
+<named-content content-type="country-part">Indiana</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14440-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Indiana University School of Medicine</institution>
+<city>Indianapolis</city>
+<named-content content-type="country-part">Indiana</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14440-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Indiana Alzheimer's Disease Research Center</named-content>
+<institution>Indiana University School of Medicine</institution>
+<city>Indianapolis</city>
+<named-content content-type="country-part">Indiana</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14440-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology and Imaging Sciences</named-content>
+<named-content content-type="organisation-division">Center for Neuroimaging</named-content>
+<institution>Indiana University School of Medicine</institution>
+<city>Indianapolis</city>
+<named-content content-type="country-part">Indiana</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14440-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biostatistics and Health Data Science</named-content>
+<institution>Indiana University School of Medicine</institution>
+<city>Indianapolis</city>
+<named-content content-type="country-part">Indiana</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14440-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<institution>Indiana University School of Medicine</institution>
+<city>Indianapolis</city>
+<named-content content-type="country-part">Indiana</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14440-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">College of Pharmacy</named-content>
+<institution>Purdue University</institution>
+<city>Indianapolis</city>
+<named-content content-type="country-part">Indiana</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Sophia Wang, Indiana Alzheimer's Disease Research Center, Indiana University School of Medicine, 355 West 16th Street, Suite 4800, Indianapolis, IN 46202, USA.<break/> Email: <email>sophwang@iu.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>12</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2025</year></pub-date><volume>21</volume><issue seq="900">2</issue><issue-id pub-id-type="pmc-issue-id">481957</issue-id><issue-id pub-id-type="doi">10.1002/alz.v21.2</issue-id><elocation-id>e14440</elocation-id><history><date date-type="rev-recd"><day>04</day><month>11</month><year>2024</year></date><date date-type="received"><day>22</day><month>8</month><year>2024</year></date><date date-type="accepted"><day>08</day><month>11</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>06</day><month>12</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>24</day><month>02</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-02-26 19:25:51.603"><day>26</day><month>02</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-21-e14440.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-21-e14440.pdf"/><abstract><title>Abstract</title><p>More than 2 million older Americans from underrepresented racial and ethnic minority groups (URGs) have early‐stage Alzheimer's disease and related dementias (ADRD). There are very few scalable recruitment strategies, particularly for Black older adults, to accelerate participation in ADRD research. The Indiana Alzheimer's Disease Research Center (IADRC) and its Community Advisory Board developed and implemented the innovative RAAISE‐D Framework. This Framework informed the creation of community‐first recruitment strategies designed to accelerate participation of Black older adults in ADRD research. Preliminary outcomes from its implementation included the doubling of Black adult enrollment (46, 13.4% to 101, 26.9%) from April 2020 to April 2024. Black adults were more likely to have normal cognition, be female, and ≤ 12 years of education than non‐Hispanic White adults. The RAAISE‐D Framework identified key concepts for URG focused recruitment strategies which successfully accelerated enrollment of Black adults in ADRD research and could be generalized to other URGs.</p><sec id="alz14440-sec-0020"><title>Highlights</title><p>
+<list list-type="bullet" id="alz14440-list-0001"><list-item><p>RAAISE‐D Framework provides adaptable URG recruitment strategies.</p></list-item><list-item><p>IADRC CAB‐researcher partnership was the foundation of community‐first methodology.</p></list-item><list-item><p>RAAISE‐D Framework doubled the Black enrollment in the IADRC in 4 years.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz14440-kwd-0001">Alzheimer's disease</kwd><kwd id="alz14440-kwd-0002">health equity</kwd><kwd id="alz14440-kwd-0003">recruitment</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Indiana Alzheimer Disease Research Center (IADRC)</funding-source></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Institute on Aging
+</institution><institution-id institution-id-type="doi">10.13039/100000049</institution-id></institution-wrap></funding-source><award-id>5P30AG072976</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="4"/><page-count count="13"/><word-count count="8506"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.4 mode:remove_FC converted:25.02.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz14440-cit-0049">
+<string-name name-style="western">
+<surname>Richards</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richards</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Musema</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Developing and applying potentially scalable recruitment strategies to accelerate ADRD research participation of Black adults</article-title>. <source>Alzheimer's Dement</source>. <year>2025</year>;<volume>21</volume>:<elocation-id>e14440</elocation-id>. <pub-id pub-id-type="doi">10.1002/alz.14440</pub-id>
+<pub-id pub-id-type="pmid">39641412</pub-id>
+<pub-id pub-id-type="pmcid">PMC11848153</pub-id></mixed-citation>
+</p><fn-group><fn id="alz14440-note-0001" fn-type="equal"><p>Ralph Richards and Mollie Richards contributed equally to this study.</p></fn></fn-group></notes></front><body><sec id="alz14440-sec-0030"><label>1</label><title>INTRODUCTION</title><sec id="alz14440-sec-0040"><label>1.1</label><title>Need for data‐driven, potentially scalable recruitment strategies to accelerate URG participation in ADRD research</title><p>Over 2 million older Americans from underrepresented racial and ethnic minority groups (URGs) have early‐stage Alzheimer's disease and related dementias (ADRD).<xref rid="alz14440-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Despite the widespread recognition that more inclusive early‐stage ADRD research could reduce this public health burden, URG research participation remains alarmingly low, and is particularly evidenced by the less than 5% enrollment rate of Black older adults in recent ADRD clinical drug trials.<xref rid="alz14440-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="alz14440-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz14440-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="alz14440-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Previous literature has primarily offered high‐level recommendations aimed at mitigating this disproportionately low URG representation, such as removing restrictive study criteria, addressing concerns surrounding trust in researchers and healthcare professionals, and enhancing communication with diverse communities to underscore the significance of research participation.<xref rid="alz14440-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz14440-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="alz14440-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Significant knowledge gaps persist within the field of recruitment science, particularly regarding the development of data‐driven, ``real‐world’’ scalable recruitment strategies, including ADRD neuroimaging studies and clinical trials.<xref rid="alz14440-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz14440-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Moreover, there is a pressing need to understand how to pragmatically implement such strategies and effectively track the progress of these recruitment strategies.<xref rid="alz14440-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="alz14440-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p></sec><sec id="alz14440-sec-0050"><label>1.2</label><title>Challenges to developing scalable, “real‐world” recruitment strategies</title><p>In 2010, the first conceptual models of recruitment science in ADRD research emphasized the importance of diversity, community engagement, and an inclusive approach to research.<xref rid="alz14440-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz14440-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz14440-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="alz14440-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz14440-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Over the past decade, ADRD research has expanded to include multisite neuroimaging studies and clinical trials requiring completion of biomarker procedures as part of a precision medicine approach.<xref rid="alz14440-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz14440-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> While the research collection of biomarker data has been instrumental to the first United States Food and Drug Administration (FDA) approved disease modifying anti‐amyloid agents, the introduction of these procedures present significant research participant burden.<xref rid="alz14440-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz14440-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz14440-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> It also can be a barrier to making studies more inclusive and exacerbate longstanding research disparities in ADRD.<xref rid="alz14440-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Deeply understanding the challenges to inclusive research participation is critical to addressing this need to create scalable, ``real‐world’’ strategies specifically to accelerate enrollment of URG participants in multisite studies requiring neuroimaging and biomarker procedures.</p><p>To address these challenges of developing scalable, ``real‐world’’ recruitment strategies, a team of our OREC (Outreach, Recruitment, and Engagement Core) faculty and the Community Advisory Board (CAB) leadership reviewed the literature and had various brainstorming sessions with our IADRC leadership and local URG community leaders. We observed certain recurring themes within the IADRC and across the ADRC network. These included: (1) external, unpredictable factors affecting outreach and recruitment (e.g., coronavirus disease 2019 [COVID‐19] pandemic, timing of FDA approval for AD modifying drugs, changes in relationships with community partners); (2) a lack of processes to analyze and address inevitable failures from the trial‐and‐error process of recruitment; (3) variability in local resources for outreach and recruitment; and (4) time constraints to achieve specified goals. We identified three challenges to developing scalable ``real‐world’’ recruitment strategies: (1) strategic problem‐solving processes to identify strategies which meet proposed targets, (2) consensus about the targets and interim indicators of these targets, and (3) tracking of progress toward these targets (Table <xref rid="alz14440-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="alz14440-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Challenges to the development of scalable “real‐world” recruitment strategies.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Current scientific approach</th><th align="left" rowspan="1" colspan="1">RAAISE‐D Framework</th></tr></thead><tbody><tr><td colspan="2" align="left" rowspan="1">
+<bold>Strategic problem‐solving processes</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">High impact, abstract vision developed in academic settings</td><td align="left" rowspan="1" colspan="1">Community‐first<xref rid="alz14440-tbl1-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref> plan with concrete, incremental impact with an “exploratory” approach toward a vision</td></tr><tr><td align="left" rowspan="1" colspan="1">Large‐scale recruitment strategies built a priori based on highly innovative ideas inspired through discussion</td><td align="left" rowspan="1" colspan="1">Serial strategies<xref rid="alz14440-tbl1-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref> (i.e., nudges) built in response to <italic toggle="yes">empirical observations</italic>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Recruitment strategies assume <italic toggle="yes">logical</italic>
+<xref rid="alz14440-tbl1-note-0003" ref-type="table-fn">
+<sup>c</sup>
+</xref> behavior confirmed by intuitive reasoning</td><td align="left" rowspan="1" colspan="1">Recruitment strategies assume <italic toggle="yes">intuitive</italic>
+<xref rid="alz14440-tbl1-note-0004" ref-type="table-fn">
+<sup>d</sup>
+</xref> behavior confirmed by logical reasoning</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypotheses designed to be tested under highly controlled conditions</td><td align="left" rowspan="1" colspan="1">Hypotheses underlying these strategies designed to be tested in complex adaptive systems</td></tr><tr><td colspan="2" align="left" rowspan="1">
+<bold>Measurement of targets and indicators</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Use of localized, study‐specific metrics for outreach, recruitment, and engagement</td><td align="left" rowspan="1" colspan="1">Use of both potentially scalable metrics and localized, study‐specific metrics for outreach, recruitment, and engagement</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Discrete</italic> measurement of targets, leading, and lagging indicators</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Concurrent</italic> measurement of targets, leading indicators, and leading indicators</td></tr><tr><td colspan="2" align="left" rowspan="1">
+<bold>Tracking progress toward targets</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Retrospective analyses when targets are not met</td><td align="left" rowspan="1" colspan="1">Dashboards to track targets for retrospective and real‐time analyses and prospective analyses</td></tr><tr><td align="left" rowspan="1" colspan="1">Lack of interim projections for leading and lagging indicators to meet desired targets</td><td align="left" rowspan="1" colspan="1">Weekly performance reports with specific projections for leading and lagging indicators to meet desired targets</td></tr></tbody></table><table-wrap-foot><fn id="alz14440-tbl1-note-0005"><p>Abbreviations: AD, Alzheimer's Disease; AD‐REACH, Promoting Cultural Awareness and Diversity in Research about Alzheimer‐s Disease and Cognitive Health; CLARiTI, ADRC Consortium for Clarity in ADRD Research Through Imaging; Diverse VCID, Diverse Vascular Contributions to Cognitive Impairment and Dementia; FDA, Food and Drug Administration; MRI, magnetic resonance imaging; NIA, National Institute of Aging; PET, positron emission tomography; RAAISE‐D Framework, Real‐World Agile, Adaptive, Innovative Learning Systems to Engage Diverse Communities.</p></fn><fn id="alz14440-tbl1-note-0001"><label>
+<sup>a</sup>
+</label><p>An approach that prioritizes the needs, well‐being, and success of a community.</p></fn><fn id="alz14440-tbl1-note-0002"><label>
+<sup>b</sup>
+</label><p>A sequential or step‐by‐step approach to problem‐solving, decision‐making, or goal achievement.</p></fn><fn id="alz14440-tbl1-note-0003"><label>
+<sup>c</sup>
+</label><p>Logical behavior is driven by reason, evidence‐based analysis, and objective thinking.</p></fn><fn id="alz14440-tbl1-note-0004"><label>
+<sup>d</sup>
+</label><p>Intuitive behavior is driven by instincts, feelings, and gut reactions.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>As the OREC and CAB reflected on strategic problem‐solving processes, we recognized that the traditional scientific approach is to develop a high impact, abstract vision in an academic setting. To fulfill this vision, researchers often develop a priori recruitment strategies with highly innovative ideas which will solve a problem that has not been answered before—in this case, URG recruitment into ADRD research, which included neuroimaging studies. The hypotheses underlying these strategies are designed to be tested under ``highly controlled conditions.’’ Another major challenge to developing ``real‐world’’ strategies is the measurement of targets and indicators, including use of metrics which are setting or study specific and publication of targets (e.g., enrolled individuals who complete study procedures) and leading indicators (novel methodologies to increase research referrals) discretely rather than concurrently. The third major challenge is methodology for tracking progress toward the proposed targets, often focusing on retrospectively analyzing the failures to meet leading and lagging indicators and lacks interim projections for leading and lagging indicators.</p><p>This article aims to describe the conceptualization of an innovative Framework, designed to increase URG participation in ADRD research. We will also report on preliminary outcomes following its implementation, including an acceleration of Black older adult enrollment in the IADRC cohort (from 46/343, 13.4% to 101/376, 26.9%) in a 4‐year period (2020–2024). We will also discuss lessons learned and the next steps for creating potentially scalable recruitment strategies that can be disseminated across multisite studies.</p></sec></sec><sec id="alz14440-sec-0060"><label>2</label><title>METHODS</title><sec id="alz14440-sec-0070"><label>2.1</label><title>Development of a conceptual Framework for “real‐world” recruitment strategies</title><p>To accelerate URG recruitment into ADRD research, we proposed our novel RAAISE‐D Framework (<underline underline-style="single">R</underline>eal‐World <underline underline-style="single">A</underline>gile, <underline underline-style="single">A</underline>daptive, <underline underline-style="single">I</underline>nnovative Learning <underline underline-style="single">S</underline>ystems to <underline underline-style="single">E</underline>ngage <underline underline-style="single">D</underline>iverse Communities). There are three major goals of this Framework. First, how do we create a Framework to solve a problem that has not yet been solved before? Second, how do we create a Framework to efficiently generate readily testable solutions in a dynamic environment which is often highly unpredictable because of external factors (e.g., COVID‐19 pandemic, FDA approval of AD modifying drugs) and internal factors (e.g., institutional IRB changes)? Third, once we identify a solution, how do we methodically adapt it in response to ongoing changes and in other settings which have their own specific needs?</p><p>During our initial discussions, our CAB members made several key insights. First, they reiterated that, to successfully increase URG representation in the IADRC cohort, earning the trust of the community was critical. However, despite widespread recognition of the importance of trust to increase research enrollment, there are very few, if any, rigorously conducted trials which have evidence‐based approaches to build trust in research naïve URG participants and rapidly accelerate enrollment for multisite studies.<xref rid="alz14440-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz14440-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz14440-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Furthermore, trust varies over time and is affected by personal context. <italic toggle="yes">How would our team know if they had effectively built trust in the community, if we cannot easily and quickly measure in real‐time this key metric in real‐world settings?</italic> Another key insight was that given the high complexity of the factors identified in the literature and their own diverse viewpoints about ADRD research based on their own personal experiences, the team recognized that a single recruitment strategy would not be effective at addressing this question. Instead, they proposed that our team collaboratively develop serial strategies to build trust within the community and empirically determine whether these strategies resulted in meaningful change in interim indicators and outcomes (in this case, increased IADRC enrollment). Furthermore, these strategies, even successful ones, need to be regularly adapted to respond to the dynamic environment. <italic toggle="yes">How would our team ensure constant bidirectional communication between academia and the community?</italic> Finally, there was the realization that, given the years of effort with minimal impact on this key project, failures would inevitably be part of the process of finding a pathway to success. <italic toggle="yes">How would our team learn from these failures to reach target enrollment goals?</italic>
+</p></sec><sec id="alz14440-sec-0080"><label>2.2</label><title>Implementation science processes underlying the RAAISE‐D Framework</title><p>To address these three goals and incorporate these critical insights made by our CAB, we created the ``RAAISE‐D Framework.’’ This Framework merges three implementation science processes and models specifically selected to address our goals: the Learning Health System, Agile Implementation Process, and the Model for Adaptation Design and Impact (MADI).</p><p>The Learning Health System was first described in 2007 by the United States Institute of Medicine (now the National Academy of Medicine),<xref rid="alz14440-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> which later defined it as a system in which ``science, informatics, incentives, and culture are aligned for continuous improvement and innovation, with best practices seamlessly embedded in the delivery process, [where] patients and families [are] active participants in all elements, and new knowledge [is] captured as an integral by‐product of the delivery experience’’.<xref rid="alz14440-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> The focus is on collecting data to generate knowledge and applying it to improve practice. To successfully create a learning health system, a technical expert panel first identified eight competency domains: (1) engagement, leadership, and research management; (2) ethics of research and implementation in health systems; (3) health and healthcare equity and justice; (4) improvement and implementation science; (5) informatics; (6) research methods; (7) research questions and standards of scientific evidence; and (8) systems science. Table <xref rid="alz14440-supinfo-0001" ref-type="">S1</xref> outlines the Learning Health system competency domains, the domain definitions, and competencies.<xref rid="alz14440-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="alz14440-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+</p><p>The Agile Implementation process seeks to broadly explain people's decision‐making processes and behavior through system 1 (intuitive, instantaneous decision‐making) and system 2 (logical, slower decision‐making). In this model, each individual operates within a complex adaptive system (i.e., a system in which semi‐autonomous agents interact). Therefore, the behavior of an individual can affect the entire system, directly or indirectly. The Agile Implementation process seeks to change outcomes through ``nudges’’ created by one of these semi‐autonomous agents.<xref rid="alz14440-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="alz14440-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="alz14440-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> For example, nudges created by the CAB to participate in research are likely to lead the community to intuitively gravitate toward research participation because members of the community have designed the process, thus their fellow community members will ``feel’’ that it is right to say ``yes’’ to participation (system 1). As we reflected on how to use the Agile Implementation process, we decided to utilize Agile Nudge Innovation because there are no pre‐existing evidence‐based, minimally viable nudges.<xref rid="alz14440-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Figure <xref rid="alz14440-supinfo-0001" ref-type="">S1</xref> describes in detail the eight steps in the Agile Implementation process (Agile Nudge Innovation) and how these nudges are planned (confirm the demand for a nudge; study the behavior deeply; scan for potential nudges; plan termination for new nudge) and executed (ideate and select new nudges; run nudge sprints; validate nudges; and package launch for nudge).<xref rid="alz14440-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+</p><p>The MADI complements the Agile Implementation Process and guides an iterative adaptation process to modify the proposed nudges prospectively or retrospectively.<xref rid="alz14440-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> Figure <xref rid="alz14440-supinfo-0001" ref-type="">S2</xref> outlines the three main domains of MADI: domain 1: adaptation characteristics, which provides consistency in reporting of adaptation to promote comparison of findings across studies/sites; domain 2: possible mediating or moderating factors, which provides criteria for prospectively making adaptations or retrospectively explaining why and how outcomes are achieved; and domain 3: outcomes, which examines potential impact on intervention and implementation outcomes to make more informed adaptation decisions (prospective application) or evaluations (retrospective application).<xref rid="alz14440-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="alz14440-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="alz14440-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+</p></sec><sec id="alz14440-sec-0090"><label>2.3</label><title>Components of the RAAISE‐D Framework</title><p>The RAAISE‐D Framework (Figure <xref rid="alz14440-fig-0001" ref-type="fig">1A</xref>) consists of the following components: (1) <underline underline-style="single">R</underline>eal‐World Data Core, (2) Community First <underline underline-style="single">A</underline>gile Implementation, (3) Iterative <underline underline-style="single">A</underline>daptation, and (4) Community First <underline underline-style="single">I</underline>nnovative Learning <underline underline-style="single">S</underline>ystem, which have been modified to <underline underline-style="single">e</underline>ngage <underline underline-style="single">d</underline>iverse communities.
+<list list-type="order" id="alz14440-list-0002"><list-item><p>
+<underline underline-style="single">R</underline>eal‐World Data Core (Figure <xref rid="alz14440-fig-0001" ref-type="fig">1B</xref>): <underline underline-style="single">R</underline>eal‐World Data Driven Strategies are created through a cycle of diverse community participation in research, which generates real‐world data, and then leads to inclusive scientific knowledge. Sharing this scientific knowledge with diverse communities re‐engages them in the research process and further emphasizes the importance of their involvement in research. The Community First nudges, adaptations to diverse community needs, and innovative ideas that drive this cycle are critical to accelerating URG participation in ADRD research.</p></list-item><list-item><p>Community First <underline underline-style="single">A</underline>gile Implementation (Figure <xref rid="alz14440-fig-0001" ref-type="fig">1C</xref>): To successfully initiate this cycle of diverse community participation, there is a need to successfully create nudges that accelerate URG recruitment in ADRD research. One key adaptation is that these must be <italic toggle="yes">Community First</italic> nudges, that is, nudges designed by the CAB and then validated by the URG communities. The modified steps are: (1) Identify the community's demand for a Community First nudge to accelerate URG participation in ADRD research; (2) Study the community's behavior deeply; (3) Scan for potential Community First nudges; (4) Plan termination for new Community First nudge; (5) Ideate and select new Community First nudges; (6) Run Community First nudge sprints; (7) Validate Community First nudges; and (8) Launch Community First nudges more widely.</p></list-item><list-item><p>Iterative <underline underline-style="single">A</underline>daptation of Community First Nudges (Figure <xref rid="alz14440-fig-0001" ref-type="fig">1D</xref>): As the Community First nudges are launched more widely and external factors arise, that either facilitate (e.g., FDA approval of novel AD modifying drugs), impede (COVID‐19 pandemic), or have unknown impact (e.g., new National Institute on Aging [NIA] guidance as part of a request for funding announcement), adaptations to these Community First Nudges will be needed. Real‐time observations of community responses are used to develop new recruitment strategies.</p></list-item><list-item><p>Community First <underline underline-style="single">I</underline>nnovative Learning <underline underline-style="single">S</underline>ystem (Figure <xref rid="alz14440-fig-0001" ref-type="fig">1E</xref>): Innovation is essential to continuously designing new Community First nudges, successfully adapting these nudges in response to external factors, and, most importantly, building and strengthening a learning system with continuous information exchange between the URG community and academia. Similar to the identified competency domains for the Learning Health System, we identified the following modified domains needed for an Innovative Learning System: (1) community engagement, community and academic leadership, and community‐engaged research management; (2) ethics of community‐engaged research and implementation in health systems; (3) community health and healthcare equity; (4) improvement and implementation science; (5) informatics; (6) community‐engaged research methods; (7) community‐engaged research questions and standards of scientific evidence; and (8) systems science which incorporates community input.</p></list-item></list>
+</p><fig position="float" fig-type="FIGURE" id="alz14440-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>(A) Overview of RAAISE‐D Framework. Real‐world agile, adaptive, innovative learning systems to engage diverse communities. adapted from Frameworks and models: • agile implementation. • model for adaptation design and impact. • healthcare learning system. (B) Real World Data Core through the Creation of Real‐World Data Driven Strategies through a cycle of diverse community participation in research, which generates real‐world data, and then leads to inclusive scientific knowledge. (C) Eight Steps for Community First Agile Implementation adapted from Agile Implementation Framework (D) 3 Domains of Iterative adaptation of Community First Nudges. *Prospective application. <sup>†</sup>Retrospective application. (E) Community first innovative learning system. *Academic leadership and community‐engaged research management.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-21-e14440-g001.jpg"/></fig></sec><sec id="alz14440-sec-0100"><label>2.4</label><title>Flow of IADRC outreach to enrollment</title><p>Figure <xref rid="alz14440-supinfo-0001" ref-type="">S3A</xref> outlines the flow of outreach to screening to enrollment. OREC engages in community outreach, including events with URG focused organizations, faith‐based organizations, and health fairs. ORE Core identifies prospective IADRC participants through personal referrals from faculty, staff, CAB, and other research participants; at community outreach events; online; and referrals from healthcare professionals. ORE Core then screens participants to determine eligibility based on inclusion/exclusion criteria (Table <xref rid="alz14440-supinfo-0001" ref-type="">S2</xref>). Of note, because the IADRC is primarily focused on neuroimaging research, site specific inclusion criteria require participants to be interested and eligible to do a 3.0T magnetic resonance imaging (MRI) and positron emission tomography (PET) scans at the time of their screening. At enrollment, IADRC participants undergo informed consent or if unable to consent, will have a legally authorized representative consent on their behalf. Participants then proceed to their baseline visit with Clinical Core, which includes completion of the NACC UDS 3.0. The NACC UDS 3.0 contains detailed questionnaires about demographics, family history, medical, and psychiatric disorders, and a neuropsychological battery. Informants also complete questionnaires about participants’ cognition, functioning and neuropsychiatric symptoms. Upon completion of this visit, participants go on to complete a brain MRI and amyloid and tau PET scans.</p></sec><sec id="alz14440-sec-0110"><label>2.5</label><title>Building the infrastructure for real‐world data core and community first innovative learning system</title><p>A major barrier to accelerating URG recruitment into the IADRC was when all participants were required to be both eligible for and interested in completing neuroimaging procedures (MRI and PET scans) to enroll in the IADRC.<xref rid="alz14440-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> This inclusion criterion was added because the National Institutes of Health (NIH) grants funding the IADRC primarily focused on neuroimaging. Therefore, the OREC and CAB leadership recognized the need to develop and test recruitment strategies tailored to prospective URG participants. Black adults were the primary focus for the IADRC because they are the most prevalent ethnoracial minority in Indiana.<xref rid="alz14440-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+</p><p>The IADRC OREC and CAB leadership conducted a series of brainstorming sessions to discuss ways to effectively engage Black communities in order to boost outreach, recruitment, and ultimately, enrollment into the IADRC. These leaders first identified promising recruitment strategies to increase Black participation. Content expertise included CAB leadership, OREC, Administrative Core, Data Core, and Neuroimaging Core. Previous literature was not definitive on which recruitment strategy would be the most successful: (1) directly approaching research naïve Black individuals about participating in procedure intensive studies requiring neuroimaging or (2) enrolling Black individuals in research with minimal procedures and then reapproaching them about joining a study requiring additional procedures.<xref rid="alz14440-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="alz14440-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> About 1 month into this discussion, the COVID‐19 pandemic began, pausing enrollment in neuroimaging research. This pause presented a unique opportunity for this team to consider novel ways for increasing Black participation in ADRD research, including neuroimaging studies. They also recognized that to design and evaluate successful recruitment strategies in the post‐pandemic era, the infrastructure for the Real‐World Data Core and the Community First Innovative Learning System needed to be built. This infrastructure would then guide and measure real‐world data‐driven recruitment efforts.</p><p>In 2020, IADRC obtained a NIA‐funded P30 supplement (AD‐REACH) to design real‐world data‐driven recruitment strategies which would accelerate Black participation in the IADRC neuroimaging studies. As the first step, the IADRC engaged the CAB more broadly to develop a survey to better understand the attitudes about brain health, Alzheimer's disease, and ADRD research, including neuroimaging studies, in the Black communities in the Indianapolis metropolitan area. These findings have been described elsewhere.<xref rid="alz14440-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> In addition to informing the science of recruitment for URG participation in research, the AD‐REACH supplement was also critical to the infrastructure expansion of the IADRC and initial implementation of the RAAISE‐D Framework: (1) it initiated the cycle of the Real‐World Data Core; (2) it laid the foundation for the Community First Innovative Learning System; and (3) it created a culture of shared values and expertise across diverse communities (CAB) and academia (IADRC OREC). The ultimate result was that the CAB and IADRC OREC being strongly aligned about their vision for diverse research participation, goals, recruitment strategies, and content expertise who recognized the need for deep and extensive investment to achieve a target goal as part of a larger, sustainable pattern of growth. Together, they have developed and tested a wide range of Community First Nudges. Figure <xref rid="alz14440-supinfo-0001" ref-type="">S4</xref> describes the development of Community First Nudges,<xref rid="alz14440-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="alz14440-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="alz14440-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> and Table <xref rid="alz14440-tbl-0002" ref-type="table">2</xref> outlines an example of a Community First nudge (the IADRC Book drive).<xref rid="alz14440-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+</p><table-wrap position="float" id="alz14440-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Community first nudges.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Community first agile implementation</th><th align="left" rowspan="1" colspan="1">Example</th></tr></thead><tbody><tr><td colspan="2" align="left" rowspan="1">
+<bold>Planning</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Identify the community's demand for a community first nudge to accelerate URG participation in ADRD biomarker research</td><td align="left" rowspan="1" colspan="1">Academia was focused on the acceleration of ADRD research participation, whereas the community was focused on resources to provide education about dementia prevention and support for caregivers of those with Alzheimer's disease. This mismatch resulted in low public attendance coming to the IADRC booth.</td></tr><tr><td align="left" rowspan="1" colspan="1">Study the community's behavior deeply</td><td align="left" rowspan="1" colspan="1">OREC leadership reviewed the current literature about URG recruitment. They also identified CAB members to be “Community First Nudge Creators” who deeply knew the problem and related data and could be consulted throughout the entire process.</td></tr><tr><td align="left" rowspan="1" colspan="1">Scan for potential community first nudges</td><td align="left" rowspan="1" colspan="1">CAB leadership observed that early education initiatives are highly accepted in local Black communities. Together, the CAB and OREC leadership brainstormed about an innovative community first nudge focused on early education as important for brain health and prevention of ADRD, known as the IADRC book drive.</td></tr><tr><td align="left" rowspan="1" colspan="1">Plan termination for new community first nudge</td><td align="left" rowspan="1" colspan="1">The CAB and OREC leadership defined success as willingness to take books offered at the book drive at the Minority Health Fair at the annual Black Expo for Indianapolis. This interest would be assessed based on informal feedback given by the fair attendees and the number of books taken. There was an agreement that if the book drive had unexpected harm or was not well‐accepted in diverse communities that this would not be repeated again.</td></tr><tr><td colspan="2" align="left" rowspan="1">
+<bold>Execution</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ideate and select new community first nudges</td><td align="left" rowspan="1" colspan="1">CAB leadership presented the idea of the IADRC book drive to other CAB members and other members of the URG community organizations. Based on initial feedback, the CAB leadership recommended rolling out this community first nudge at the annual Minority Health Fair as part of a broader theme of dementia prevention which can begin even in the early stages of life.</td></tr><tr><td align="left" rowspan="1" colspan="1">Run community first nudge sprints</td><td align="left" rowspan="1" colspan="1">During the first rollout of the IADRC book drive at the 2021 Minority Health Fair, the CAB and OREC leadership started first with children's books. Based on the feedback CAB volunteers and OREC faculty/staff received, leadership decided to expand to other types of books for other age ranges (teen and adult).</td></tr><tr><td align="left" rowspan="1" colspan="1">Validate community first nudges</td><td align="left" rowspan="1" colspan="1">CAB and OREC leadership validated our community first nudge at the 2021 IADRC book drive and noticed multiple unexpected benefits. The most notable benefit was less stigma about older adults getting information about Alzheimer's disease since children would initiate the interaction since they were attracted to the children's books. With the addition of adult books, another benefit was people felt more comfortable talking about brain health and dementia prevention, which made it easier for staff to transition to a conversation about research participation.</td></tr><tr><td align="left" rowspan="1" colspan="1">Launch community first nudges more widely</td><td align="left" rowspan="1" colspan="1">OREC leadership worked with CAB leadership to incorporate the IADRC book drive into the annual Minority Health Fair. OREC leadership also created a guide about the IADRC Book Drive</td></tr></tbody></table><table-wrap-foot><fn id="alz14440-tbl2-note-0001"><p>
+<italic toggle="yes">Note</italic>: Case study of how to develop a community first nudge: as part of the brainstorming session, the CAB and OREC leadership discussed how to accelerate participation of Black adults in ADRD studies. They explored how to better engage Black communities in Alzheimer's disease research, given the stigma of this diagnosis. At one of their brainstorming sessions, OREC leadership discussed with the CAB leadership the findings from the 2020 report of the Lancet commission about dementia prevention, intervention, and care.<xref rid="alz14440-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> The CAB leadership expressed a high level of interest that early education was the second most common preventable risk factor for Alzheimer's disease. They thought this would be a potential “Community first nudge,” given the large number of Black community initiatives focused on early education. In 2021, the CAB and OREC leadership rolled out the IADRC book drive at the minority health fair, which initially focused on children's books, and has so far given away 288 books: 87 in 2022 and 201 in 2023. Given the high level of interest in the book drive and based on feedback from CAB members and OREC faculty and staff who volunteered, this community first nudge was then expanded to include adult books focused on healthy lifestyles (e.g., healthy cooking, word searches, puzzles) and teenagers. One major observation was having information and booklets that promoted brain health and preventing ADRD begins early in life, making this information accessible to people of all ages. All materials (NIH booklets about brain health and healthy lifestyles to reduce ADRD risk), recruitment materials featuring CAB members from diverse communities who were also IADRC participants, and books were displayed next to each other so event attendees could feel comfortable “choosing” where to start their conversations. Event attendees of all ages who came by asked about the book display were encouraged to select a free book as an approach to keep their brain healthy. Once event attendees had selected a book, they were educated about the importance of cognitive stimulating activities to prevent ADRD. OREC faculty and staff and CAB members would then transition to more broadly talking about lifestyle changes event attendees could engage in prevent or slow ADRD. OREC faculty and staff and CAB members would then transition to the importance of research participation to learn more about how to effectively prevent or slow down ADRD in diverse communities and early detection of ADRD. Whenever possible, CAB members who were also IADRC research participants would also speak to event attendees about their personal experiences about research. Based on the CAB's post‐event feedback and findings from our previous AD‐REACH study, sharing information about brain health reduced the stigma of discussing ADRD in older adults, which was reflected in increased number of research referrals (83 in 2022 to 101 in 2023).</p></fn><fn id="alz14440-tbl2-note-0002"><p>Abbreviations: ADRD, Alzheimer's disease and related dementias; CAB, community advisory board; IADRC, Indiana Alzheimer's Disease Research Center; OREC, outreach, recruitment, and engagement core; URG, underrepresented racial and ethnic minority group.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz14440-sec-0120"><label>2.6</label><title>Data infrastructure for collection and visualization of URG recruitment processes</title><p>The next step to the implementation of the RAAISE‐D Framework was to build the data infrastructure for collecting and visualizing the outreach and recruitment processes to capture the acceleration of URG enrollment. The IADRC OREC and CAB leadership co‐led the operationalization of recruitment processes in a series of meetings with Clinical Core and Data Core staff, which led to the creation of the database infrastructure (Figure <xref rid="alz14440-supinfo-0001" ref-type="">S5</xref>) and dashboards (Figure <xref rid="alz14440-supinfo-0001" ref-type="">S3B</xref>) to capture overall trends for strategy development and individual level data for practical troubleshooting. While the primary goal was to design databases and dashboards which focus on accelerating enrollment of Black older adults, the predominant racial minority residing in the Indianapolis metropolitan area, the leadership anticipated that we would be adapting this infrastructure and dashboards for other URGs and other affiliated studies (e.g., DiverseVCID, CLARiTI). Therefore, these conversations reflected on how to build the infrastructure so they could be generalized for other URGs and other diversity focused ADRD studies.</p><p>Another key insight was that, although study enrollment is a static, lagging indicator, the leading indicators (referrals, screened participants, scheduled participants) reflect a dynamic, multistep process. Thus, the dashboards needed to visualize the leading indicators in real‐time and reflect the underlying processes (outreach and engagement, referral, screening, scheduling, and enrollment in Clinical Core) which connect the leading and lagging indicators (Figure <xref rid="alz14440-supinfo-0001" ref-type="">S3B</xref>). Another key insight was how to collect data which connect a broad strategy (e.g., community outreach and engagement, healthcare professional referral) to the first measurable datapoint at individual level (e.g., research referral) with the connecting question of how that individual was referred. After the OREC obtained feedback from all the other cores and CAB about mock dashboards, the Data Core finalized these dashboards using Tableau, a tool that visualizes key information from our REDCap databases, which tracked key leading and lagging indicators (Figure <xref rid="alz14440-supinfo-0001" ref-type="">S3C</xref>).<xref rid="alz14440-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> After building the dashboards, we then designed weekly performance reports which tracked the leading and lagging indicators. We also built REDCap notifications for key performance metrics (e.g., notifications to remind staff to attempt another contact if participants did not respond to an earlier contact). Our standardized operating procedures described how the data were collected and how we used these operational reports to identify challenges and solutions at each step of the recruitment process to improve recruitment science (Figure <xref rid="alz14440-supinfo-0001" ref-type="">S3D</xref>).</p></sec></sec><sec id="alz14440-sec-0130"><label>3</label><title>RESULTS</title><sec id="alz14440-sec-0140"><label>3.1</label><title>Impact of RAAISE‐D Framework and demographics</title><p>Prior to the implementation of the RAAISE‐D Framework, 46 Black adults enrolled in the IADRC from 2009 to 2020. We implemented the RAAISE‐D Framework in April 2020, when OREC set up regular meetings with the CAB leadership to co‐create innovative ideas (``Community First Nudges’’) to increase research participation of Black communities in central Indiana. We received 1137 referrals and enrolled 64 Black adults from 2020 to 2024, which included a time period during the pandemic when in‐person research procedures were paused (Figure <xref rid="alz14440-supinfo-0001" ref-type="">S6</xref>). Our systematic process allowed us to identify barriers to accelerating URG enrollment at the pre‐screening and screening stages. This process consisted of reviewing the weekly tracking reports for outreach attendance, referrals, recruitment, and enrollment and discussing these findings from the real‐time dashboards with the CAB. We also conducted post‐event feedback sessions with CAB members to obtain real‐time feedback about Community First Nudges to refine them for the next community event.</p><p>Demographics (i.e., URG status) were confirmed during the screening stage. Only 36% (407/1137) of all research referrals were screened, in which 41% (167/407) of screened referrals identified as Black. Of those who were screened, only 35% (142/407) were eligible for enrollment, resulting in about 12% of referrals being enrolled. The enrollment rate for those who completed screening and identified as Black (38.3% [64/167]) was slightly higher than those who identified as non‐Hispanic White (32.9% [75/228]).</p><p>Table <xref rid="alz14440-tbl-0003" ref-type="table">3</xref> shows demographics of these 142 enrolled participants. We then examined whether there were disparities in participation for those with consensus diagnosis of cognitive impairment (i.e., mild cognitive impairment [MCI] or AD dementia), gender, and ≤ 12 years of education. We found that compared to non‐Hispanic White participants, Black participants were less likely to have a consensus diagnosis of MCI or AD dementia (non‐Hispanic White 45.3%; Black 20.3%), more likely to identify as female gender (non‐Hispanic White 57.3%; Black 68.7%), and more likely to have ≤ 12 years of education (non‐Hispanic 13.3%; Black 21.9%). We then examined whether demographic differences and/or referral bias may contribute to these disparities.</p><table-wrap position="float" id="alz14440-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Demographic and diagnostic characteristics of IADRC participants.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Parameter</th><th align="left" rowspan="1" colspan="1">Non‐Hispanic White participants (<italic toggle="yes">N</italic> = 75)</th><th align="left" rowspan="1" colspan="1">Black participants (<italic toggle="yes">N</italic> = 64)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (mean ± SD)</td><td align="left" rowspan="1" colspan="1">70.1 ± 9.3</td><td align="left" rowspan="1" colspan="1">71.1 ± 6.5</td></tr><tr><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">43 (57.3%)</td><td align="left" rowspan="1" colspan="1">44 (68.8%)</td></tr><tr><td align="left" rowspan="1" colspan="1">≤ 12 years of education</td><td align="left" rowspan="1" colspan="1">10 (13.3%)</td><td align="left" rowspan="1" colspan="1">14 (21.9%)</td></tr><tr><td align="left" rowspan="1" colspan="1">ADI (mean ± SD)</td><td align="left" rowspan="1" colspan="1">45.4 ± 21.9</td><td align="left" rowspan="1" colspan="1">66.4 ± 22.5</td></tr><tr><td align="left" rowspan="1" colspan="1">Consensus diagnosis</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Normal cognition</td><td align="left" rowspan="1" colspan="1">31 (41.3%)</td><td align="left" rowspan="1" colspan="1">41 (64.1%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">MCI</td><td align="left" rowspan="1" colspan="1">25 (33.3%)</td><td align="left" rowspan="1" colspan="1">11 (17.2%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Dementia</td><td align="left" rowspan="1" colspan="1">9 (12%)</td><td align="left" rowspan="1" colspan="1">2 (3.1%)</td></tr></tbody></table><table-wrap-foot><fn id="alz14440-tbl3-note-0001"><p>
+<italic toggle="yes">Note</italic>: Participants enrolled in the IADRC from April 26, 2020 to April 26, 2024. All dichotomous variables are described as <italic toggle="yes">N</italic> (%). All continuous variables are described as mean ± SD.</p></fn><fn id="alz14440-tbl3-note-0002"><p>Abbreviations: IADRC, Indiana Alzheimer's Disease Research Center; MCI, mild cognitive impairment; SD, standard deviation.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Table <xref rid="alz14440-supinfo-0001" ref-type="">S3</xref> shows demographic data from the United States Census Bureau for non‐Hispanic White and Black adults (≥ 65 years old) residing in the city of Indianapolis and the Indianapolis Metropolitan Area. For both these geographical areas, we found that compared to non‐Hispanic White adults, Black adults were more likely to be female (∼60%) and have ≤ 12 years of education (∼70%). These data suggest that, although demographic differences may contribute in part to the higher rates of participation of females who identified as Black, referral bias from community events also likely contributed the disproportionately high rates of participation of females. Also, although those with ≤ 12 years of education who identified as Black were more likely to participate in ADRD research than those who identified as non‐Hispanic White, this rate was still lower than what would be expected from the demographic data.</p></sec><sec id="alz14440-sec-0150"><label>3.2</label><title>Referral bias for race, cognitive diagnosis, and gender</title><p>First, we examined the flow from referral source to IADRC enrollment. Figure <xref rid="alz14440-fig-0002" ref-type="fig">2A</xref> shows the sources of referrals (community, electronic, personal, healthcare professional, and affiliated studies) for non‐Hispanic White participants and Black participants. We then examined the differences in referral sources based on race. The main sources of referral for enrolled non‐Hispanic White participants were electronic (37.3% [28/75]), health professional (33.3% [25/75]), and personal (20% [15/75]), whereas the primary referral sources for enrolled Black participants were community events (45.3% [29/64]), personal (23.4% [15/64]), and affiliated studies (18.8% [12/64]). A more detailed breakdown of the referral sources is outlined in Table <xref rid="alz14440-supinfo-0001" ref-type="">S4</xref>.</p><fig position="float" fig-type="FIGURE" id="alz14440-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>(A) IADRC referral sources by race. Caption: participant counts and percentages of IADRC NHW participants and Black participants according to each referral source. (B) IADRC referral sources by race and cognitive diagnosis. Caption: participant counts and percentages of IADRC NHW CN participants, Black CN participants, NHW MCI participants, Black MCI participants, NHW ADRD participants, and Black ADRD participants according to each referral source. (C) IADRC referral sources by race and gender. Caption: participant counts and percentages of IADRC NHW male participants, Black male participants, NHW female participants, and Black female participants according to each referral source. ADRD, Alzheimer's disease and related dementias; CN, cognitively normal; IADRC, Indiana Alzheimer's Disease Research Center; MCI, mild cognitive impairment; NHW, non‐Hispanic White.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-21-e14440-g002.jpg"/></fig><p>Second, we examined the relationship between the referral source, race, and cognitive diagnosis. Figure <xref rid="alz14440-fig-0002" ref-type="fig">2B</xref> shows the referral sources for non‐Hispanic White participants and Black participants based on cognitive diagnosis. The primary referral route for cognitively normal (CN) participants varied by race, with non‐Hispanic White participants referred electronically (15, 48.4%) and Black participants referred through community events (23, 56.1%). The primary referral source for the MCI subgroup also varied by race. Non‐Hispanic White participants were referred professionally (13, 52.0%), whereas Black participants were referred through personal contacts (5, 45.5%). Referrals from health professionals were the principal source for participants with a diagnosis of ADRD in both subgroups (5 [55.6%] Non‐Hispanic White, 2 [100%] Black). A more detailed breakdown of the referral sources is outlined in Table <xref rid="alz14440-supinfo-0001" ref-type="">S5</xref>.</p><p>Finally, we examined the relationship between referral source, race, and gender. Figure <xref rid="alz14440-fig-0002" ref-type="fig">2C</xref> shows the referral sources of non‐Hispanic White participants and Black participants based on gender. The main referral source of male participants differed between the two racial subgroups, as non‐Hispanic White male participants were referred by health professionals (14, 43.8%) compared to Black participants who were referred through community events (9, 45.0%). These results are consistent with previously mentioned findings that highlight community‐based outreach as a major source of URG participation. The main referral source of female participants followed a slightly different trend, in which non‐Hispanic White female participants were referred electronically (19, 44.2%), while Black female participants were mainly referred through community events (20, 45.5%). Black females were over two times as likely to be recruited from community events than Black males (20 females, 9 males). These findings reflect selection bias due to higher representation of females who attend URG community events. A more detailed breakdown of the referral sources is outlined in Table <xref rid="alz14440-supinfo-0001" ref-type="">S6</xref>.</p></sec><sec id="alz14440-sec-0160"><label>3.3</label><title>Statistical analyses</title><p>We summarized participants' demographics, divided into the two main ethnoracial subgroups (non‐Hispanic White versus Black older adults), using descriptive statistics. Continuous variables (age and Area Deprivation Index [ADI]) were described using mean ± standard deviation (SD). Categorical variables (female gender, ≤ 12 years of education, and consensus diagnosis) were described with <italic toggle="yes">N</italic> (%). Due to the small sample sizes and the exploratory nature of this study, we did not formally test for statistical differences and described observed trends.</p></sec><sec id="alz14440-sec-0170"><label>3.4</label><title>Identification of barriers to URG enrollment</title><p>We also analyzed the barriers at pre‐screening and screening which could reduce URG enrollment rates. Community‐based referrals were more likely to be uncontactable (213, 18.7%) compared to electronic (127, 11.2%) and healthcare professional referrals (32, 2.8%) (Table <xref rid="alz14440-supinfo-0001" ref-type="">S7</xref>). Although we only had limited ethnoracial data at the pre‐screening stage, we were concerned that our low success of contact rates for URG participants, mostly because these events were based in URG communities. As part of our systematic process, we shared with our CAB leadership the real‐time visualization from our dashboards and discussed our concerns about the lower rates of contact with community‐based referrals. Our CAB leadership gave feedback that community members were likely not responding because our calls were being blocked or were coming from unrecognized numbers since community members had not had previous contact with the IADRC recruiter. Based on this CAB feedback about the dashboard tracking, OREC decided to incorporate Mosio texting into our recruitment strategy so prospective participants would be able to recognize the IADRC phone number.</p><p>We also examined reasons for exclusion at screening and found the top two reasons were fairly similar for non‐Hispanic White and Black adults (other, mainly due to age [White: 74, 58.3%; Black: 31, 45.6%]; medical, neurologic, or psychiatric diagnoses (White: 30, 23.6%; Black: 27, 39.7%) (Table <xref rid="alz14440-supinfo-0001" ref-type="">S8</xref>).</p></sec></sec><sec id="alz14440-sec-0180"><label>4</label><title>DISCUSSION</title><p>Despite widespread recognition of the public health importance of diverse participation in ADRD biomarker research, there are very few, if any, evidence‐based recruitment strategies specifically designed to increase URG participation in ADRD research.<xref rid="alz14440-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="alz14440-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz14440-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz14440-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="alz14440-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>The COVID‐19 pandemic (2020–2023) was a period of unprecedented national challenges for recruitment and enrollment in ADRD research studies. The pandemic also underscored the health disparities disproportionately affecting diverse communities and the need to develop innovative recruitment strategies to successfully engage them in ADRD research.<xref rid="alz14440-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz14440-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="alz14440-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="alz14440-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz14440-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz14440-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> On the other hand, the unintended pause created by the COVID‐19 pandemic provided a unique space for the IADRC OREC and CAB to create a new conceptual Framework which would inform a potentially generalizable approach to accelerate URG participation in ADRD research. The innovative RAAISE‐D Framework sought to identify promising multipronged strategies to accelerate Black enrollment in ADRD research, including neuroimaging studies. This Framework demonstrated the value of a Community First approach to enrolling URG participants in the post‐pandemic era.</p><sec id="alz14440-sec-0190"><label>4.1</label><title>Successes of the implementation of RAAISE‐D Framework</title><p>Through our monthly meetings with the IADRC OREC and CAB and applying our innovative Framework, we were able to accelerate research participation of Black older adults, at the end of the COVID‐19 pandemic and post‐pandemic era. Our primary insight is that study recruitment is complex and unpredictable. In response to this insight, our team decided to expand our traditional scientific approach of ``siloed’’ specialization and hypothesis‐driven testing and created the RAAISE‐D Framework to incorporate agile implementation, systematic adaptation, and innovative lifelong learning. Table <xref rid="alz14440-tbl-0004" ref-type="table">4</xref> outlines the successes of the RAAISE‐D Framework.</p><table-wrap position="float" id="alz14440-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>Successes and challenges of RAAISE‐D Framework.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><tbody><tr><td colspan="2" align="left" rowspan="1">
+<bold>Successes</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Referral strategies from multiple types of sources</td><td align="left" rowspan="1" colspan="1">Early recognition that a multifaceted approach would need be implemented to accelerate diverse participation to meet the proposed target enrollment goals</td></tr><tr><td align="left" rowspan="1" colspan="1">Recognition of value of in person presence to accelerate referrals</td><td align="left" rowspan="1" colspan="1">In person, but not virtual, attendance at events was essential to acceleration of URG referrals</td></tr><tr><td colspan="2" align="left" rowspan="1">
+<bold>Challenges</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Referral bias</td><td align="left" rowspan="1" colspan="1">Individuals referred from community events were predominantly female and CN</td></tr><tr><td align="left" rowspan="1" colspan="1">Unpredictable success of strategies</td><td align="left" rowspan="1" colspan="1">
+<p>Regulatory burden and large scale reach out to identify prospective participants via electronic health records</p>
+<p>Variable attendance at community events Low success in contacting interested participants identified at URG community events</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="alz14440-tbl4-note-0001"><p>Abbreviations: CN, cognitively normal; URG, underrepresented racial and ethnic minority group.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz14440-sec-0200"><label>4.2</label><title>Challenges of the implementation of RAAISE‐D Framework</title><p>While the first cycle of implementation of the RAAISE‐D Framework was successful in increasing overall URG representation of the IADRC cohort, we also identified challenges (Table <xref rid="alz14440-tbl-0004" ref-type="table">4</xref>). Consistent with previous literature about URG participation in ADRD research, we found that enrollment of Black older adults across the ADRC network is generally skewed toward females and those with normal cognition.<xref rid="alz14440-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="alz14440-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="alz14440-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> While community‐engaged research increases the number of URG participants, the majority of referrals were CN. These findings are consistent with our earlier analyses of the ADRC network data that Black older adults are less likely to be referred by healthcare professionals, which may explain the skew toward normal cognition.<xref rid="alz14440-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>These anticipated challenges are being addressed as part of the iterative cycle of the RAAISE‐D Framework. By applying our Community First Innovative Learning System, the CAB and OREC leadership have brainstormed during their monthly meetings about how to respond to this Real‐World Data and developed potential solutions to the gaps in our first iteration of the RAAISE‐D Framework, which are currently being implemented (Table <xref rid="alz14440-supinfo-0001" ref-type="">S9</xref>).</p></sec></sec><sec id="alz14440-sec-0210"><label>5</label><title>CONCLUSIONS</title><p>Successful implementation of the RAAISE‐D Framework demonstrated a high impact of a Community First approach to rapidly accelerating URG enrollment in the IADRC. While the enrolled Black older adults skewed toward females and those with normal cognition, the Framework has already been designed to adapt our strategies to anticipate referral biases during its second cycle of implementation. The generalizability of this Framework is also another key question. The RAAISE‐D Framework is not specific to geographic or an URG. Future studies will need to test whether implementation of this Framework can also be used to rapidly accelerate enrollment at other geographic sites, other URGs, and a range of brain disorders beyond ADRD.</p></sec><sec sec-type="COI-statement" id="alz14440-sec-0230"><title>CONFLICT OF INTEREST STATEMENT</title><p>None of the authors have a conflict of interest. Author disclosures are available in the <xref rid="alz14440-supinfo-0001" ref-type="">Supporting Information</xref>.</p></sec><sec id="alz14440-sec-0260"><title>CONSENT STATEMENT</title><p>All participants provided informed consent.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz14440-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz14440-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s012.jpg" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s014.jpg" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s005.jpg" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s007.jpg" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0005" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s017.jpg" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0006" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s009.jpg" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0007" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s003.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0008" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s004.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0009" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s008.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0010" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s001.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0011" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s015.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0012" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s002.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0013" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s016.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0014" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s010.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0015" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s011.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0016" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s013.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14440-supitem-0017" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e14440-s006.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz14440-sec-0220"><title>ACKNOWLEDGMENTS</title><p>We thank IADRC Community Advisory Board, Sam Davies, Caprice Elliott, Francine Epperson, Tyler Gannon, Olivia Musick, Emily Smith, Aaron Vosmeier, and community partners (Alzheimer's Association Greater Indiana Chapter, CICOA, Eastern Star Church, National Council of Negro Women, Purpose of Life Ministries, Foresight Alliance) for their contributions to this work. Indiana Alzheimer Disease Research Center (IADRC) 5P30AG072976.</p></ack><sec sec-type="data-availability" id="alz14440-sec-0250"><title>DATA AVAILABILITY STATEMENT</title><p>Sophia Wang receives book royalties from APPI and DSMB consultant fees (total less than $5000/year). Andrew J. Saykin receives support from multiple NIH grants (P30 AG010133, P30 AG072976, R01 AG019771, R01 AG057739, U01 <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="AG024904">AG024904</ext-link>, R01 LM013463, R01 AG068193, T32 <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="AG071444">AG071444</ext-link>, and U01 <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="AG068057">AG068057</ext-link> and U01 <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-nucleotide" xlink:href="AG072177">AG072177</ext-link>). He has also received support from Avid Radiopharmaceuticals, a subsidiary of Eli Lilly (in kind contribution of PET tracer precursor); Bayer Oncology (Scientific Advisory Board); Eisai (Scientific Advisory Board); Siemens Medical Solutions USA, Inc. (Dementia Advisory Board); Springer‐Nature Publishing (Editorial Office Support as Editor‐in‐Chief, Brain Imaging and Behavior). All other authors report no potential conflicts of interest.</p></sec><ref-list id="alz14440-bibl-0001"><title>REFERENCES</title><ref id="alz14440-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz14440-cit-0001">
+<string-name name-style="western">
+<surname>Gillis</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Montenigro</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nejati</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maserejian</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Estimating prevalence of early Alzheimer's disease in the United States, accounting for racial and ethnic diversity</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>(<issue>5</issue>):<fpage>1841</fpage>‐<lpage>1848</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12822</pub-id>
+<pub-id pub-id-type="pmid">36322470</pub-id>
+</mixed-citation></ref><ref id="alz14440-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz14440-cit-0002">
+<string-name name-style="western">
+<surname>Raman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quiroz</surname>
+<given-names>YT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langford</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Disparities by race and ethnicity among adults recruited for a preclinical Alzheimer disease trial</article-title>. <source>JAMA Netw Open</source>. <year>2021</year>;<volume>4</volume>(<issue>7</issue>):<elocation-id>e2114364</elocation-id>. doi:<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2021.14364</pub-id>
+<pub-id pub-id-type="pmid">34228129</pub-id>
+<pub-id pub-id-type="pmcid">PMC8261604</pub-id></mixed-citation></ref><ref id="alz14440-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz14440-cit-0003">
+<string-name name-style="western">
+<surname>Gleason</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Norton</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zuelsdorff</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Association between enrollment factors and incident cognitive impairment in Blacks and Whites: data from the Alzheimer's disease center</article-title>. <source>Alzheimers Dement</source>. <year>2019</year>;<volume>15</volume>(<issue>12</issue>):<fpage>1533</fpage>‐<lpage>1545</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2019.07.015</pub-id>
+<pub-id pub-id-type="pmid">31601516</pub-id>
+<pub-id pub-id-type="pmcid">PMC6925619</pub-id></mixed-citation></ref><ref id="alz14440-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz14440-cit-0004">
+<string-name name-style="western">
+<surname>Manly</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deters</surname>
+<given-names>KD</given-names>
+</string-name>. <article-title>Donanemab for Alzheimer disease‐who benefits and who is harmed?</article-title>
+<source>JAMA</source>. <year>2023</year>;<volume>330</volume>(<issue>6</issue>):<fpage>510</fpage>‐<lpage>511</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2023.11704</pub-id>
+<pub-id pub-id-type="pmid">37459138</pub-id>
+</mixed-citation></ref><ref id="alz14440-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz14440-cit-0005">
+<string-name name-style="western">
+<surname>Manly</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gilmore‐Bykovskyi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deters</surname>
+<given-names>KD</given-names>
+</string-name>. <article-title>Inclusion of underrepresented groups in preclinical Alzheimer disease trials‐opportunities abound</article-title>. <source>JAMA Netw Open</source>. <year>2021</year>;<volume>4</volume>(<issue>7</issue>):<elocation-id>e2114606</elocation-id>. doi:<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2021.14606</pub-id>
+<pub-id pub-id-type="pmid">34228130</pub-id>
+</mixed-citation></ref><ref id="alz14440-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz14440-cit-0006">
+<string-name name-style="western">
+<surname>Elliott</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>Together we make the difference: national strategy for recruitment and participation in Alzheimer's and related dementias clinical research</article-title>. <source>Ethn Dis</source>. <year>2020</year>;<volume>30</volume>(<issue>2</issue>):<fpage>705</fpage>‐<lpage>708</lpage>. doi:<pub-id pub-id-type="doi">10.18865/ed.30.S2.705</pub-id>
+<pub-id pub-id-type="pmid">33250617</pub-id>
+<pub-id pub-id-type="pmcid">PMC7683031</pub-id></mixed-citation></ref><ref id="alz14440-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz14440-cit-0007">
+<string-name name-style="western">
+<surname>Gilmore‐Bykovskyi</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gleason</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Recruitment and retention of underrepresented populations in Alzheimer's disease research: a systematic review</article-title>. <source>Alzheimers Dement</source>. <year>2019</year>;<volume>5</volume>:<fpage>751</fpage>‐<lpage>770</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.trci.2019.09.018</pub-id>
+<pub-id pub-id-type="pmcid">PMC6944728</pub-id><pub-id pub-id-type="pmid">31921966</pub-id></mixed-citation></ref><ref id="alz14440-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz14440-cit-0008">
+<string-name name-style="western">
+<surname>Austrom</surname>
+<given-names>MG</given-names>
+</string-name>. <article-title>Recruitment and retention: challenges and opportunities for the NIA funded Alzheimer disease centers program. introduction</article-title>. <source>Alzheimer Dis Assoc Disord</source>. <year>2010</year>;<volume>24</volume>:<fpage>S1</fpage>. doi:<pub-id pub-id-type="doi">10.1097/WAD.0b013e3181f7cbbc</pub-id>
+<pub-id pub-id-type="pmid">20802260</pub-id>
+</mixed-citation></ref><ref id="alz14440-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz14440-cit-0009">
+<string-name name-style="western">
+<surname>Grill</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Galvin</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>Facilitating Alzheimer disease research recruitment</article-title>. <source>Alzheimer Dis Assoc Disord</source>. <year>2014</year>;<volume>28</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>8</lpage>. doi:<pub-id pub-id-type="doi">10.1097/WAD.0000000000000016</pub-id>
+<pub-id pub-id-type="pmid">24322484</pub-id>
+<pub-id pub-id-type="pmcid">PMC3945167</pub-id></mixed-citation></ref><ref id="alz14440-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz14440-cit-0010">
+<string-name name-style="western">
+<surname>Boustani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Unützer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leykum</surname>
+<given-names>LK</given-names>
+</string-name>. <article-title>Design, implement, and diffuse scalable and sustainable solutions for dementia care</article-title>. <source>J Am Geriatr Soc</source>. <year>2021</year>;<volume>69</volume>(<issue>7</issue>):<fpage>1755</fpage>‐<lpage>1762</lpage>. doi:<pub-id pub-id-type="doi">10.1111/jgs.17342</pub-id>
+<pub-id pub-id-type="pmid">34245584</pub-id>
+</mixed-citation></ref><ref id="alz14440-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz14440-cit-0011">
+<string-name name-style="western">
+<surname>Weiner</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Veitch</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>MJ</given-names>
+</string-name>, et al. <article-title>Increasing participant diversity in AD research: plans for digital screening, blood testing, and a community‐engaged approach in the Alzheimer's disease neuroimaging initiative 4</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>(<issue>1</issue>):<fpage>307</fpage>‐<lpage>317</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12797</pub-id>
+<pub-id pub-id-type="pmid">36209495</pub-id>
+<pub-id pub-id-type="pmcid">PMC10042173</pub-id></mixed-citation></ref><ref id="alz14440-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz14440-cit-0012">
+<string-name name-style="western">
+<surname>Langbaum</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zissimopoulos</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Au</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Recommendations to address key recruitment challenges of Alzheimer's disease clinical trials</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>(<issue>2</issue>):<fpage>696</fpage>‐<lpage>707</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12737</pub-id>
+<pub-id pub-id-type="pmid">35946590</pub-id>
+<pub-id pub-id-type="pmcid">PMC9911558</pub-id></mixed-citation></ref><ref id="alz14440-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz14440-cit-0013">
+<string-name name-style="western">
+<surname>Dilworth‐Anderson</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Introduction to the science of recruitment and retention among ethnically diverse populations</article-title>. <source>Gerontologist</source>. <year>2011</year>;<volume>51</volume> (Suppl <issue>1</issue>):<fpage>S1</fpage>‐<lpage>S4</lpage>. doi:<pub-id pub-id-type="doi">10.1093/geront/gnr043</pub-id>
+<pub-id pub-id-type="pmid">21565811</pub-id>
+<pub-id pub-id-type="pmcid">PMC3106368</pub-id></mixed-citation></ref><ref id="alz14440-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz14440-cit-0014">
+<string-name name-style="western">
+<surname>Nápoles</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chadiha</surname>
+<given-names>LA</given-names>
+</string-name>, <collab collab-type="authors">Resource Centers for Minority Aging Research</collab>
+. <article-title>Advancing the science of recruitment and retention of ethnically diverse populations</article-title>. <source>Gerontologist</source>. <year>2011</year>;<volume>51</volume> (Suppl <issue>1</issue>):<fpage>S142</fpage>‐<lpage>S146</lpage>. doi:<pub-id pub-id-type="doi">10.1093/geront/gnr019</pub-id>
+<pub-id pub-id-type="pmid">21565815</pub-id>
+<pub-id pub-id-type="pmcid">PMC3092974</pub-id></mixed-citation></ref><ref id="alz14440-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz14440-cit-0015">
+<string-name name-style="western">
+<surname>Mendez‐Luck</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trejo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miranda</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jimenez</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quiter</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mangione</surname>
+<given-names>CM</given-names>
+</string-name>. <article-title>Recruitment strategies and costs associated with community‐based research in a Mexican‐origin population</article-title>. <source>Gerontologist</source>. <year>2011</year>;<volume>51</volume> (Suppl <issue>1</issue>):<fpage>S94</fpage>‐<lpage>S105</lpage>. doi:<pub-id pub-id-type="doi">10.1093/geront/gnq076</pub-id>
+<pub-id pub-id-type="pmid">21565824</pub-id>
+<pub-id pub-id-type="pmcid">PMC3092970</pub-id></mixed-citation></ref><ref id="alz14440-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz14440-cit-0016">
+<string-name name-style="western">
+<surname>Lichtenberg</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>The generalizability of a participant registry for minority health research</article-title>. <source>Gerontologist</source>. <year>2011</year>;<volume>51</volume> (Suppl <issue>1</issue>):<fpage>S116</fpage>‐<lpage>S124</lpage>. doi:<pub-id pub-id-type="doi">10.1093/geront/gnr021</pub-id>
+<pub-id pub-id-type="pmid">21565813</pub-id>
+<pub-id pub-id-type="pmcid">PMC3092975</pub-id></mixed-citation></ref><ref id="alz14440-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz14440-cit-0017">
+<string-name name-style="western">
+<surname>Israel</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schulz</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parker</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Becker</surname>
+<given-names>AB</given-names>
+</string-name>. <article-title>Review of community‐based research: assessing partnership approaches to improve public health</article-title>. <source>Annu Rev Public Health</source>. <year>1998</year>;<volume>19</volume>:<fpage>173</fpage>‐<lpage>202</lpage>. doi:<pub-id pub-id-type="doi">10.1146/annurev.publhealth.19.1.173</pub-id>
+<pub-id pub-id-type="pmid">9611617</pub-id>
+</mixed-citation></ref><ref id="alz14440-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz14440-cit-0018">
+<string-name name-style="western">
+<surname>Arafah</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khatoon</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rasool</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>The future of precision medicine in the cure of Alzheimer's disease</article-title>. <source>Biomedicines</source>. <year>2023</year>;<volume>11</volume>(<issue>2</issue>):<fpage>335</fpage>. doi:<pub-id pub-id-type="doi">10.3390/biomedicines11020335</pub-id>
+<pub-id pub-id-type="pmid">36830872</pub-id>
+<pub-id pub-id-type="pmcid">PMC9953731</pub-id></mixed-citation></ref><ref id="alz14440-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz14440-cit-0019">
+<string-name name-style="western">
+<surname>Avramopoulos</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kapogiannis</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leoutsakos</surname>
+<given-names>JM</given-names>
+</string-name>, et al. <article-title>Developing treatments for Alzheimer's and related disorders with precision medicine: a vision</article-title>. <source>Adv Exp Med Biol</source>. <year>2021</year>;<volume>1339</volume>:<fpage>395</fpage>‐<lpage>402</lpage>. doi:<pub-id pub-id-type="doi">10.1007/978-3-030-78787-5_49</pub-id>
+<pub-id pub-id-type="pmid">35023131</pub-id>
+<pub-id pub-id-type="pmcid">PMC9358929</pub-id></mixed-citation></ref><ref id="alz14440-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz14440-cit-0020">
+<string-name name-style="western">
+<surname>Cummings</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kinney</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Biomarkers for Alzheimer's disease: context of use, qualification, and roadmap for clinical implementation</article-title>. <source>Medicina</source>. <year>2022</year>;<volume>58</volume>(<issue>7</issue>):<fpage>952</fpage>. doi:<pub-id pub-id-type="doi">10.3390/medicina58070952</pub-id>
+<pub-id pub-id-type="pmid">35888671</pub-id>
+<pub-id pub-id-type="pmcid">PMC9318582</pub-id></mixed-citation></ref><ref id="alz14440-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz14440-cit-0021">
+<string-name name-style="western">
+<surname>Boxer</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sperling</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Accelerating Alzheimer's therapeutic development: the past and future of clinical trials</article-title>. <source>Cell</source>. <year>2023</year>;<volume>186</volume>(<issue>22</issue>):<fpage>4757</fpage>‐<lpage>4772</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.cell.2023.09.023</pub-id>
+<pub-id pub-id-type="pmid">37848035</pub-id>
+<pub-id pub-id-type="pmcid">PMC10625460</pub-id></mixed-citation></ref><ref id="alz14440-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz14440-cit-0022">
+<string-name name-style="western">
+<surname>Larkin</surname>
+<given-names>HD</given-names>
+</string-name>. <article-title>Lecanemab gains FDA approval for early Alzheimer disease</article-title>. <source>JAMA</source>. <year>2023</year>;<volume>329</volume>(<issue>5</issue>):<fpage>363</fpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2022.24490</pub-id>
+<pub-id pub-id-type="pmid">36652625</pub-id></mixed-citation></ref><ref id="alz14440-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz14440-cit-0023">
+<string-name name-style="western">
+<surname>Adkins‐Jackson</surname>
+<given-names>PB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kraal</surname>
+<given-names>AZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hill‐Jarrett</surname>
+<given-names>TG</given-names>
+</string-name>, et al. <article-title>Riding the merry‐go‐round of racial disparities in ADRD research</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>(<issue>10</issue>):<fpage>4735</fpage>‐<lpage>4742</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13359</pub-id>
+<pub-id pub-id-type="pmid">37394968</pub-id>
+<pub-id pub-id-type="pmcid">PMC11895198</pub-id></mixed-citation></ref><ref id="alz14440-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz14440-cit-0024">
+<string-name name-style="western">
+<surname>Wong</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amano</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>SY</surname>
+<given-names>Lin</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morrow‐Howell</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Strategies for the recruitment and retention of racial/ethnic minorities in Alzheimer disease and dementia clinical research</article-title>. <source>Curr Alzheimer Res</source>. <year>2019</year>;<volume>16</volume>(<issue>5</issue>):<fpage>458</fpage>‐<lpage>471</lpage>. doi:<pub-id pub-id-type="doi">10.2174/1567205016666190321161901</pub-id>
+<pub-id pub-id-type="pmid">30907319</pub-id>
+</mixed-citation></ref><ref id="alz14440-bib-0025"><label>25</label><mixed-citation publication-type="book" id="alz14440-cit-0025">
+<collab collab-type="authors">National Institute on Aging</collab>
+. <source>Alzheimer's Disease And Related Dementias Clinical Studies Recruitment Planning Guide</source>. <year>2019</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nia.nih.gov/sites/default/files/2019-05/ADEAR-recruitment-guide-508.pdf" ext-link-type="uri">https://www.nia.nih.gov/sites/default/files/2019‐05/ADEAR‐recruitment‐guide‐508.pdf</ext-link>
+</mixed-citation></ref><ref id="alz14440-bib-0026"><label>26</label><mixed-citation publication-type="book" id="alz14440-cit-0026">
+<string-name name-style="western">
+<surname>McGinnis</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aisner</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olsen</surname>
+<given-names>LO</given-names>
+</string-name>. <source>The Learning Healthcare System</source>. <publisher-name>National Academies Press (US)</publisher-name>; <year>2007</year>.<pub-id pub-id-type="pmid">21452449</pub-id></mixed-citation></ref><ref id="alz14440-bib-0027"><label>27</label><mixed-citation publication-type="book" id="alz14440-cit-0027">
+<string-name name-style="western">
+<surname>McGinnis</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stuckhardt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saunders</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>M</given-names>
+</string-name>. <source>Best Care at Lower Cost: The Path to Continuously Learning Health Care in America</source>. <publisher-name>National Academies Press</publisher-name>; <year>2013</year>.<pub-id pub-id-type="pmid">24901184</pub-id></mixed-citation></ref><ref id="alz14440-bib-0028"><label>28</label><mixed-citation publication-type="book" id="alz14440-cit-0028">
+<collab collab-type="authors">Agency for Healthcare Research and Quality</collab>
+. <source>Building the Workforce</source>. <year>2022</year>. Accessed 15 July 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ahrq.gov/learning-health-systems/building-workforce.html" ext-link-type="uri">https://www.ahrq.gov/learning‐health‐systems/building‐workforce.html</ext-link>
+</mixed-citation></ref><ref id="alz14440-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz14440-cit-0029">
+<string-name name-style="western">
+<surname>Forrest</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chesley</surname>
+<given-names>FD</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Tregear</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mistry</surname>
+<given-names>KB</given-names>
+</string-name>. <article-title>Development of the learning health system researcher core competencies</article-title>. <source>Health Serv Res</source>. <year>2018</year>;<volume>53</volume>(<issue>4</issue>):<fpage>2615</fpage>‐<lpage>2632</lpage>. doi:<pub-id pub-id-type="doi">10.1111/1475-6773.12751</pub-id>
+<pub-id pub-id-type="pmid">28777456</pub-id>
+<pub-id pub-id-type="pmcid">PMC6051975</pub-id></mixed-citation></ref><ref id="alz14440-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz14440-cit-0030">
+<string-name name-style="western">
+<surname>Boustani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alder</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solid</surname>
+<given-names>CA</given-names>
+</string-name>. <article-title>Agile implementation: a blueprint for implementing evidence‐based healthcare solutions</article-title>. <source>J Am Geriatr Soc</source>. <year>2018</year>;<volume>66</volume>(<issue>7</issue>):<fpage>1372</fpage>‐<lpage>1376</lpage>. doi:<pub-id pub-id-type="doi">10.1111/jgs.1528</pub-id>
+<pub-id pub-id-type="pmid">29513360</pub-id>
+</mixed-citation></ref><ref id="alz14440-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz14440-cit-0031">
+<string-name name-style="western">
+<surname>Boustani</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Der Marck</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adams</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Developing the agile implementation playbook for integrating evidence‐based health care services into clinical practice</article-title>. <source>Acad Med</source>. <year>2019</year>;<volume>94</volume>(<issue>4</issue>):<fpage>556</fpage>‐<lpage>561</lpage>. doi:<pub-id pub-id-type="doi">10.1097/acm.0000000000002497</pub-id>
+</mixed-citation></ref><ref id="alz14440-bib-0032"><label>32</label><mixed-citation publication-type="book" id="alz14440-cit-0032">
+<string-name name-style="western">
+<surname>Boustani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holden</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azar</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solid</surname>
+<given-names>CA</given-names>
+</string-name>. <source>The Agile Network: A Model To Foster Innovation, Implementation, And Diffusion In Healthcare Systems</source>. <publisher-name>Minnesota</publisher-name>; <year>2020</year>.</mixed-citation></ref><ref id="alz14440-bib-0033"><label>33</label><mixed-citation publication-type="book" id="alz14440-cit-0033">
+<string-name name-style="western">
+<surname>Boustani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azar</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solid</surname>
+<given-names>CA</given-names>
+</string-name>. <source>Agile Implementation: A Model For Implementing Evidence‐Based Healthcare Solutions Into Real‐World Practice To Achieve Sustainable Change</source>. <publisher-name>Morgan James Publishing</publisher-name>; <year>2020</year>.</mixed-citation></ref><ref id="alz14440-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz14440-cit-0034">
+<string-name name-style="western">
+<surname>Holden</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boustani</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azar</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Agile innovation to transform healthcare: innovating in complex adaptive systems is an everyday process, not a light bulb event</article-title>. <source>BMJ Innov</source>. <year>2021</year>;<volume>7</volume>:<fpage>499</fpage>‐<lpage>505</lpage>.</mixed-citation></ref><ref id="alz14440-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz14440-cit-0035">
+<string-name name-style="western">
+<surname>Kirk</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moore</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wiltsey Stirman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Birken</surname>
+<given-names>SA</given-names>
+</string-name>. <article-title>Towards a comprehensive model for understanding adaptations' impact: the model for adaptation design and impact (MADI)</article-title>. <source>Implement Sci</source>. <year>2020</year>;<volume>15</volume>(<issue>1</issue>):<fpage>56</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13012-020-01021-y</pub-id>
+<pub-id pub-id-type="pmid">32690104</pub-id>
+<pub-id pub-id-type="pmcid">PMC7370455</pub-id></mixed-citation></ref><ref id="alz14440-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz14440-cit-0036">
+<string-name name-style="western">
+<surname>Wiltsey Stirman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baumann</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>CJ</given-names>
+</string-name>. <article-title>The FRAME: an expanded framework for reporting adaptations and modifications to evidence‐based interventions</article-title>. <source>Implement Sci</source>. <year>2019</year>;<volume>14</volume>(<issue>1</issue>):<fpage>58</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13012-019-0898-y</pub-id>
+<pub-id pub-id-type="pmid">31171014</pub-id>
+<pub-id pub-id-type="pmcid">PMC6554895</pub-id></mixed-citation></ref><ref id="alz14440-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz14440-cit-0037">
+<string-name name-style="western">
+<surname>Moore</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bumbarger</surname>
+<given-names>BK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cooper</surname>
+<given-names>BR</given-names>
+</string-name>. <article-title>Examining adaptations of evidence‐based programs in natural contexts</article-title>. <source>J Prim Prev</source>. <year>2013</year>;<volume>34</volume>(<issue>3</issue>):<fpage>147</fpage>‐<lpage>161</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s10935-013-0303-6</pub-id>
+<pub-id pub-id-type="pmid">23605294</pub-id>
+</mixed-citation></ref><ref id="alz14440-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz14440-cit-0038">
+<string-name name-style="western">
+<surname>Proctor</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silmere</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raghavan</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Outcomes for implementation research: conceptual distinctions, measurement challenges, and research agenda</article-title>. <source>Adm Policy Ment Health</source>. <year>2011</year>;<volume>38</volume>(<issue>2</issue>):<fpage>65</fpage>‐<lpage>76</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s10488-010-0319-7</pub-id>
+<pub-id pub-id-type="pmid">20957426</pub-id>
+<pub-id pub-id-type="pmcid">PMC3068522</pub-id></mixed-citation></ref><ref id="alz14440-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz14440-cit-0039">
+<string-name name-style="western">
+<surname>Eliacin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Polsinelli</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Epperson</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Barriers and facilitators to participating in Alzheimer's disease biomarker research in Black and White older adults</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>9</volume>(<issue>2</issue>):<elocation-id>e12399</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/trc2.12399</pub-id>
+<pub-id pub-id-type="pmcid">PMC10242196</pub-id><pub-id pub-id-type="pmid">37287470</pub-id></mixed-citation></ref><ref id="alz14440-bib-0040"><label>40</label><mixed-citation publication-type="miscellaneous" id="alz14440-cit-0040">
+<collab collab-type="authors">United States Census Bureau</collab>
+. <article-title>Indiana's population rose 4.7% since 2010</article-title>. <year>2023</year>. Accessed 12 June 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.census.gov/library/stories/state-by-state/indiana-population-change-between-census-decade.html" ext-link-type="uri">https://www.census.gov/library/stories/state‐by‐state/indiana‐population‐change‐between‐census‐decade.html</ext-link>
+</mixed-citation></ref><ref id="alz14440-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz14440-cit-0041">
+<string-name name-style="western">
+<surname>Williams</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scharff</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mathews</surname>
+<given-names>KJ</given-names>
+</string-name>, et al. <article-title>Barriers and facilitators of African American participation in Alzheimer disease biomarker research</article-title>. <source>Alzheimer Dis Assoc Disord</source>. <year>2010</year>;<volume>24</volume>:<fpage>S24</fpage>‐<lpage>S29</lpage>. doi:<pub-id pub-id-type="doi">10.1097/WAD.0b013e3181f14a14</pub-id>
+<pub-id pub-id-type="pmid">20711059</pub-id>
+<pub-id pub-id-type="pmcid">PMC2939138</pub-id></mixed-citation></ref><ref id="alz14440-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz14440-cit-0042">
+<string-name name-style="western">
+<surname>Erickson</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chin</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ketchum</surname>
+<given-names>FB</given-names>
+</string-name>, et al. <article-title>Predictors of willingness to enroll in hypothetical Alzheimer disease biomarker studies that disclose personal results</article-title>. <source>Alzheimer dis assoc Disord</source>. <year>2022</year>;<volume>36</volume>(<issue>2</issue>):<fpage>125</fpage>‐<lpage>132</lpage>. doi:<pub-id pub-id-type="doi">10.1097/wad.0000000000000490</pub-id>
+<pub-id pub-id-type="pmid">35125399</pub-id>
+<pub-id pub-id-type="pmcid">PMC9132241</pub-id></mixed-citation></ref><ref id="alz14440-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz14440-cit-0043">
+<string-name name-style="western">
+<surname>Pena‐Garcia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richards</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richards</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Accelerating diversity in Alzheimer's disease research by partnering with a community advisory board</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>9</volume>(<issue>2</issue>):<elocation-id>e12400</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/trc2.12400</pub-id>
+<pub-id pub-id-type="pmcid">PMC10225742</pub-id><pub-id pub-id-type="pmid">37256164</pub-id></mixed-citation></ref><ref id="alz14440-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz14440-cit-0044">
+<string-name name-style="western">
+<surname>Eliacin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Polsinelli</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cameron</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saykin</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Black Americans' perceptions of Alzheimer's disease, a healthy brain, and strategies for brain health promotion</article-title>. <source>PEC Innov</source>. <year>2024</year>;<volume>4</volume>:<elocation-id>100282</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.pecinn.2024.100282</pub-id>
+<pub-id pub-id-type="pmid">38706495</pub-id>
+<pub-id pub-id-type="pmcid">PMC11066679</pub-id></mixed-citation></ref><ref id="alz14440-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz14440-cit-0045">
+<string-name name-style="western">
+<surname>Eliacin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hathaway</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Connor</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saykin</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cameron</surname>
+<given-names>KA</given-names>
+</string-name>. <article-title>Factors influencing the participation of Black and White Americans in Alzheimer's disease biomarker research</article-title>. <source>Alzheimers Dement</source>. <year>2022</year>;<volume>14</volume>(<issue>1</issue>):<elocation-id>e12384</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/dad2.12384</pub-id>
+<pub-id pub-id-type="pmcid">PMC9728547</pub-id><pub-id pub-id-type="pmid">36505397</pub-id></mixed-citation></ref><ref id="alz14440-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz14440-cit-0046">
+<string-name name-style="western">
+<surname>Livingston</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huntley</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sommerlad</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Dementia prevention, intervention, and care: 2020 report of the Lancet commission</article-title>. <source>Lancet</source>. <year>2020</year>;<volume>396</volume>(<issue>10248</issue>):<fpage>413</fpage>‐<lpage>446</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S0140-6736(20)30367-6</pub-id>
+<pub-id pub-id-type="pmid">32738937</pub-id>
+<pub-id pub-id-type="pmcid">PMC7392084</pub-id></mixed-citation></ref><ref id="alz14440-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="alz14440-cit-0047">
+<string-name name-style="western">
+<surname>Harris</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taylor</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thielke</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Payne</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonzalez</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Conde</surname>
+<given-names>JG</given-names>
+</string-name>. <article-title>Research electronic data capture (REDCap)–a metadata‐driven methodology and workflow process for providing translational research informatics support</article-title>. <source>J Biomed Inform</source>. <year>2009</year>;<volume>42</volume>(<issue>2</issue>):<fpage>377</fpage>‐<lpage>381</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jbi.2008.08.010</pub-id>
+<pub-id pub-id-type="pmid">18929686</pub-id>
+<pub-id pub-id-type="pmcid">PMC2700030</pub-id></mixed-citation></ref><ref id="alz14440-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="alz14440-cit-0048">
+<string-name name-style="western">
+<surname>Chan</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lane</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adeoye‐Olatunde</surname>
+<given-names>AO</given-names>
+</string-name>, et al. <article-title>Referral sources across racial and ethnic groups at Alzheimer's disease research centers</article-title>. <source>J Alzheimer's Dis</source>. <year>2024</year>;<volume>101</volume>(<issue>4</issue>):<fpage>1167</fpage>‐<lpage>1176</lpage>.<pub-id pub-id-type="pmid">39365322</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-240485</pub-id><pub-id pub-id-type="pmcid">PMC11492003</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

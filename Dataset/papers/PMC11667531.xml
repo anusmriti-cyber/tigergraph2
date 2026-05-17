@@ -1,0 +1,800 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz14330" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11667531</article-id><article-id pub-id-type="pmcid-ver">PMC11667531.1</article-id><article-id pub-id-type="pmcaid">11667531</article-id><article-id pub-id-type="pmcaiid">11667531</article-id><article-id pub-id-type="pmid">39439289</article-id><article-id pub-id-type="doi">10.1002/alz.14330</article-id><article-id pub-id-type="publisher-id">ALZ14330</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Microscopy assessment of a fluorescence [<sup>18</sup>F] flortaucipir analog (T726) shows neuropathological overlap with 3R and 4R tau lesions</article-title><alt-title alt-title-type="left-running-head">GATTO <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz14330-cr-0001" contrib-type="author"><name name-style="western"><surname>Gatto</surname><given-names initials="RG">Rodolfo G.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2170-6662</contrib-id><xref rid="alz14330-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14330-cr-0002" contrib-type="author"><name name-style="western"><surname>Hossam</surname><given-names initials="Y">Youssef</given-names></name><xref rid="alz14330-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14330-cr-0003" contrib-type="author"><name name-style="western"><surname>Reichard</surname><given-names initials="RR">R. Ross</given-names></name><xref rid="alz14330-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz14330-cr-0004" contrib-type="author"><name name-style="western"><surname>Lowe</surname><given-names initials="VJ">Val J.</given-names></name><xref rid="alz14330-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz14330-cr-0005" contrib-type="author"><name name-style="western"><surname>Whitwell</surname><given-names initials="JL">Jennifer L.</given-names></name><xref rid="alz14330-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz14330-cr-0006" contrib-type="author" corresp="yes"><name name-style="western"><surname>Josephs</surname><given-names initials="KA">Keith A.</given-names></name><xref rid="alz14330-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>josephs.keith@mayo.edu</email></address></contrib></contrib-group><aff id="alz14330-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Mayo Clinic</institution>
+<city>Rochester</city>
+<named-content content-type="country-part">Minnesota</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14330-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Laboratory Medicine and Pathology</named-content>
+<institution>Mayo Clinic</institution>
+<city>Rochester</city>
+<named-content content-type="country-part">Minnesota</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz14330-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology</named-content>
+<institution>Mayo Clinic</institution>
+<city>Rochester</city>
+<named-content content-type="country-part">Minnesota</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Keith A. Josephs, Department of Neurology, Mayo Clinic, 200 1st Street S.W., Rochester, MN 55905, USA.<break/> Email: <email>josephs.keith@mayo.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>10</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2024</year></pub-date><volume>20</volume><issue seq="410">12</issue><issue-id pub-id-type="pmc-issue-id">477664</issue-id><issue-id pub-id-type="doi">10.1002/alz.v20.12</issue-id><fpage>8758</fpage><lpage>8768</lpage><history><date date-type="rev-recd"><day>30</day><month>8</month><year>2024</year></date><date date-type="received"><day>26</day><month>5</month><year>2024</year></date><date date-type="accepted"><day>17</day><month>9</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>22</day><month>10</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>25</day><month>12</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-12-25 00:25:38.870"><day>25</day><month>12</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-20-8758.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-20-8758.pdf"/><abstract><title>Abstract</title><sec id="alz14330-sec-0010"><title>BACKGROUND</title><p>[<sup>18</sup>F] flortaucipir (FTP) binding to paired helical filament (PHF) tau in Alzheimer's disease (AD) is well accepted. Binding to 3R and 4R tau in frontotemporal lobar degeneration (FTLD) is controversial. We aimed to investigate whether an FTP fluorescent analog (T726) can help shed light on this controversy.</p></sec><sec id="alz14330-sec-0020"><title>METHOD</title><p>We assessed T726 binding to amyloid beta (Aβ) and different tau isoforms in nine subjects (one control, three with Alzheimer's disease [AD], and five with FTLD) with different 3R and 4R tauopathies using fluorescence confocal microscopy.</p></sec><sec id="alz14330-sec-0030"><title>RESULTS</title><p>T726 did not colocalize with Aβ but showed significant co‐localization with PHF tau in AD. We also observed some, albeit limited, co‐localization of T726 with 3R and 4R tau lesions in FTLD.</p></sec><sec id="alz14330-sec-0040"><title>DISCUSSION</title><p>This study's findings support FTP binding to some 3R and 4R tau lesions in FTLD. Further studies are needed to understand the biology of why FTP binds some but not all FTLD tau lesions.</p></sec><sec id="alz14330-sec-0050"><title>Highlights</title><p>
+<list list-type="bullet" id="alz14330-list-0001"><list-item><p>Flortaucipir analog (T726) showed significant co‐localization with paired helical filament (PHF) tau in Alzheimer's disease (AD).</p></list-item><list-item><p>Colocalization between T726 with 3R and 4R tau lesions was observed in frontotemporal lobar degeneration (FTLD).</p></list-item><list-item><p>Not all 4R tau lesions bind to T726 across different FTLD brain regions.</p></list-item></list>
+</p></sec></abstract><abstract id="alz14330-abs-0001" abstract-type="graphical"><p>
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-20-8758-g003.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz14330-kwd-0001">flortaucipir</kwd><kwd id="alz14330-kwd-0002">frontotemporal lobar degeneration</kwd><kwd id="alz14330-kwd-0003">Pick's disease</kwd><kwd id="alz14330-kwd-0004">progressive supranuclear palsy</kwd><kwd id="alz14330-kwd-0005">T726</kwd><kwd id="alz14330-kwd-0006">tauopathy</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Institutes of Health
+</institution><institution-id institution-id-type="doi">10.13039/100000002</institution-id></institution-wrap></funding-source><award-id>RF1‐NS112153</award-id><award-id>R01‐DC12519</award-id><award-id>R01‐DC14942</award-id><award-id>R01‐AG50603</award-id><award-id>R01‐NS89757</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="11"/><word-count count="5196"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.1 mode:remove_FC converted:24.12.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz14330-cit-0051">
+<string-name name-style="western">
+<surname>Gatto</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hossam</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reichard</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lowe</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whitwell</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Josephs</surname>
+<given-names>KA</given-names>
+</string-name>. <article-title>Microscopy assessment of a fluorescence [<sup>18</sup>F] flortaucipir analog (T726) shows neuropathological overlap with 3R and 4R tau lesions</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>8758</fpage>–<lpage>8768</lpage>. <pub-id pub-id-type="doi">10.1002/alz.14330</pub-id>
+<pub-id pub-id-type="pmcid">PMC11667531</pub-id><pub-id pub-id-type="pmid">39439289</pub-id></mixed-citation>
+</p></notes></front><body><sec id="alz14330-sec-0060"><label>1</label><title>BACKGROUND</title><p>The growing incidence of frontotemporal lobar degeneration (FTLD) constitutes a global concern due to the increase in human life expectancy and the prevalence of this disease across a relatively active young segment of the population.<xref rid="alz14330-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Neurodegeneration in FTLD is related to at least three classes of proteins: the microtubule‐associated protein tau, the trans‐activation response element (TAR) DNAbinding protein of 43 kDa, and the fused in Sarcoma, Ewing sarcoma breakpoint region 1, and TATA‐box binding protein associated factor 15 (FET) protein family.<xref rid="alz14330-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Therefore, it is essential to detect the specific underlying protein in FTLD. Recently, positron emission tomography (PET) tracers that can detect tau have become available. Of these tau tracers, the most commonly utilized in patients with cognitive impairment is [<sup>18</sup>F] flortaucipir (FTP).<xref rid="alz14330-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz14330-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="alz14330-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> FTP was developed initially to detect tau pathology in cognitive impairment due to Alzheimer's disease (AD).<xref rid="alz14330-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz14330-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> However, FTP has also been applied to FTLD, including cases with underlying tauopathies.<xref rid="alz14330-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz14330-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz14330-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="alz14330-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="alz14330-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p><p>A handful of studies to date have shown that FTP uptake strongly correlates with underlying tau pathology in AD, which is characterized by pair helical filament (PHF) tau with a mixture of three repeat tau (3RT) and four repeat tau (4RT).<xref rid="alz14330-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz14330-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz14330-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="alz14330-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz14330-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Hence, FTP is well‐established as a biomarker of AD tau neuropathology.<xref rid="alz14330-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz14330-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz14330-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz14330-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> In addition to AD, however, some research centers have also applied FTP PET to patients with FTLD, including those with 4R‐specific tauopathy and those with 3R‐specific tauopathy (i.e., those with FTLD‐tau).<xref rid="alz14330-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz14330-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="alz14330-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="alz14330-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz14330-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Many of these PET studies have found increased FTP uptake in specific regions in FTLD‐tau compared to healthy controls.<xref rid="alz14330-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> However, researchers have come to different conclusions regarding the increased FTP uptake in FTLD.<xref rid="alz14330-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Some researchers have concluded that uptake in FTLD‐tau is likely nonspecific and is all due to off‐target binding, that is, uptake is unrelated to the underlying 4R or 3R tau lesions in FTLD.<xref rid="alz14330-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz14330-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> On the other hand, some researchers have supported that FTP uptake in FTLD‐tau could be due to the ligand directly binding to 4R or 3R tau lesions.<xref rid="alz14330-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</p><p>Determining whether FTP uptake in FTLD‐tau is all due to off‐target binding or whether FTP does bind to some 4R and 3R tau in FTLD‐tau is difficult, given the lack of ability to directly assess PET ligand binding. However, an FTP fluorescent carbazole analog (T726) is available to help address this question. T726 has been studied in a few AD cases, whereby it has been shown to bind to premature tau aggregates<xref rid="alz14330-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> preferentially. T726 has not been assessed in cases with 3RT or 4RT. In this postmortem study, we utilize this FTP analog to determine whether it can help shed light on whether FTP binds to 4RT and 3RT lesions in FTLD‐tau diseases.</p></sec><sec id="alz14330-sec-0070"><label>2</label><title>MATERIALS AND METHODS</title><sec id="alz14330-sec-0080"><label>2.1</label><title>Participants</title><p>Brain samples were acquired from the Mayo Clinic neuropathological database in Rochester, Minnesota, for all patients who had been enrolled in a National Institutes of Health (NIH)–funded study by the Neurodegenerative Research Group (NRG; principal investigators [P.I.s]: K.J. and J.W.) and had died with brain autopsy examination performed at Mayo Clinic, Minnesota, between January 1, 2017, and July 31, 2022. We identified a total of nine patients. Of these nine patients, three were pathologically diagnosed as having AD neuropathological changes (ADNC): One had evidence of low ADNC (L‐AD), one had intermediate ADNC (I‐AD), and the third had high ADNC (H‐AD).<xref rid="alz14330-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="alz14330-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="alz14330-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="alz14330-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Five patients had FTLD‐tau, including two with progressive supranuclear palsy (PSP‐1 and PSP‐2) and one each with corticobasal degeneration (CBD), glial globular tauopathy (GGT) type 1, and Pick's disease (PiD). PSP, CBD, and GGT are all 4R tauopathies, whereas PiD is a 3R tauopathy. We also included a subject, as a control, who died without any evidence of ADNC or FTLD neuropathology.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz14330-sec-0090"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz14330-list-0002"><list-item><p>
+<bold>Systematic review</bold>: Experimental and clinical data support the notion that [<sup>18</sup>F] flortaucipir binds primarily to paired helical filament (PHF; 3R+4R) tau in Alzheimer´s disease (AD). Little is known about the binding of [<sup>18</sup>F] flortaucipir to other tau isoforms (4R and 3R) that characterize some cases of frontotemporal lobar degeneration (FTLD).</p></list-item><list-item><p>
+<bold>Interpretation</bold>: Immunofluorescence confocal microscopy utilizing a flortaucipir analog, T726, supports the binding of flortaucipir to PHF‐1 in AD, as well as some binding to 3R and 4R tau in FTLD.</p></list-item><list-item><p>
+<bold>Future directions</bold>: To determine the structural and molecular characteristics of those 4R tau lesions that bind to flortaucipir compared to 4R tau lesions that do not bind.</p></list-item></list>
+</p></sec></boxed-text><p>The Mayo Clinic Institutional Review Board (IRB) approved the study, and all patients or proxies consented to the research study. (The proxies provided consent for patients when needed.) The study followed the ethical standards of the Committee on Human Experimentation at Mayo Clinic by the Helsinki Declaration of 1975.</p></sec><sec id="alz14330-sec-0100"><label>2.2</label><title>Quantitative neuropathology</title><p>All patients had a standardized neuropathologic evaluation following accepted published methodologies.<xref rid="alz14330-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="alz14330-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Diagnoses were made by one neuropathologist (R.R.R.). The degree of ADNC was determined using standard methods.<xref rid="alz14330-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> Tau detection was performed using anti‐AT8 antibodies (Thermo Fisher Scientific, MN1020, 1:100). This antibody is used because it binds to all tau species.<xref rid="alz14330-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="alz14330-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> For each patient, we assessed the burden of tau on AT8 stained slides in four specific brain regions: hippocampus (HC), inferior temporal cortex (Temp‐ccx), superior middle frontal cortex (SMFG), and basal ganglia (BG). Additional immunostainings were performed with an anti‐three repeat tau isoform (RD3, clone 8E6/C11, Millipore, Cat. # 05‐803, Lot # 2153147, 1:100)<xref rid="alz14330-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> in the amygdala and cortical temporal regions of the PiD case. For imaging, we used a regular scanning microscope (Grundium Ocus 40). Quantitative determination of tau burden was completed using previously described thresholding and masking methods.<xref rid="alz14330-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="alz14330-fig-0001" ref-type="fig"> </xref>
+</p></sec><sec id="alz14330-sec-0110"><label>2.3</label><title>Fluorescent immunohistochemical and confocal imaging methods</title><p>Following general deparaffinization of the samples as described, the specimen samples were incubated with TrueBlack<sup>®</sup> lipofuscin autofluorescence quencher (Biotium, #23007) and with T726 (the fluorescence analog of FTP), 1:100 for 2 h (Xia et al.). Samples were then stained with four different antibodies: (1) beta‐Amyloid (Fisher, BAM01; 6F/3D, MA5‐11617, 1:50) to detect amyloid beta (Aβ) in senile plaques<xref rid="alz14330-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="alz14330-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>; (2) Ab39 anti‐tau (Abcam, GT‐38, ab246808, 1:400), an antibody that selectively binds to an AD specific conformation of pathological tau<xref rid="alz14330-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="alz14330-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>; (3) anti‐tau PHF‐1 (Abcam, ab184951, mouse monoclonal 1:50) that detects a range of PHF tau<xref rid="alz14330-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>; (4) anti 4R tau (RD4, clone 1E1/A6, Millipore, 05‐804, 1:50),<xref rid="alz14330-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> and (5) RD3 (clone 8E6/C11, Millipore, Cat. # 05‐803, Lot # 2153147, 1:200). A secondary antibody, goat anti‐mouse Alexa 594, 1:200, was applied after incubation with each primary. Slides were mounted VECTASHIELD DAPI for counterstaining. Imaging was performed by confocal microscopy (LSM 780, Zeiss) and analysis on ImageJ. For fluorescence studies, we used tissue from the SMFG, the hippocampus, the temporal gyrus, and the BG regions. DAPI, 4′,6‐diamidino‐2‐phenylindole nuclear counterstaining.<xref rid="alz14330-fig-0002" ref-type="fig"> </xref>
+</p></sec><sec id="alz14330-sec-0120"><label>2.4</label><title>Statistical methods</title><p>Spatial co‐localization analyses were performed applying the Pearson's co‐localization coefficient (PCC) obtained from ImageJ, and standard methods described extensively in the literature.<xref rid="alz14330-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="alz14330-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="alz14330-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+</p></sec></sec><sec id="alz14330-sec-0130"><label>3</label><title>RESULTS</title><sec id="alz14330-sec-0140"><label>3.1</label><title>Case characterization</title><p>The demographic and neuropathologic features of this cohort have been published previously.<xref rid="alz14330-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> The age at death of the nine patients ranged from 68 to 87 years of age and included five men and four women. The ages of the AD patients ranged from 78 to 80 years, with no apparent differences between time to scan to death (3–4 years). The ADNC range in this group was from A1B1C0 in L‐AD to A3B3C3 in H‐AD. In the FTLD group, no apparent differences were seen between the time of the scan and death (1‐–4 years). The PSP‐1 case had an ADNC classification of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="A0B0C0">A0B0C0</ext-link> (no ADNC neuropathology), whereas the PSP‐2 case was A2B2C3 (low‐intermediate ADNC).</p></sec><sec id="alz14330-sec-0150"><label>3.2</label><title>Immunohistochemical tau staining</title><p>Staining with AT8 tau antibody showed variable amounts of tau immunoreactive inclusions in SMFG in eight cases (all but the control) (Figure <xref rid="alz14330-fig-0001" ref-type="fig">1</xref>). Across the three AD cases, the highest burden of tau immunoreactivity was found in the H‐AD case, followed by a progressive decrease in staining in the I‐AD case and then the L‐AD cases in the temporal and hippocampal regions. In the FTLD group, AT8 detected moderate tau‐positive lesions in both PSP cases, and the CBD and GGT cases, with less staining observed in the PiD case. In the hippocampus, the PSP‐2 case showed slightly increased staining across granular cells of the dental gyrus compared to the PSP‐1 case, which is unsurprising given that the PSP‐2 case had some ADNC. In this region, more significant staining was observed in the CBD case, which showed increased neurofibrillary threads. For the PiD case, in addition to neurofibrillary threads, we observed staining of many Pick's bodies, which were also present across the temporal cortex. We observed several astrocytic lesions in the PSP‐2 and CBD cases in the temporal cortex associated with neurofibrillary tangles (NFTs). Astrocytic and NFT lesions were also observed in the hippocampus and temporal cortex in the GGT case. In the BG, astrocytic lesions were observed in the PSP, CBD, and GGT cases. No lesions were found across the BG region of the PiD case (Figure <xref rid="alz14330-supinfo-0001" ref-type="">S1</xref>).</p><fig position="float" fig-type="FIGURE" id="alz14330-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Immunohistochemical details of tau (AT8) staining and hematoxylin (He) from the SFMG region. (A) Control and AD cases and (B) FTLD cases. Note that topographic upper offset pictures are included. Scale bar = 10 µm. AD, Alzheimer's disease; CBD, corticobasal degeneration; FTLD, frontotemporal lobar degeneration; GGT, glial globular tauopathy; H‐AD, high‐likelihood AD; I‐AD, intermediate‐likelihood AD; L‐AD, low‐likelihood AD; PiD, Pick's disease; PSP, progressive supranuclear palsy; SFMG, superior frontal motor gyrus.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-20-8758-g004.jpg"/></fig></sec><sec id="alz14330-sec-0160"><label>3.3</label><title>T726 versus 6F/3D (Aβ) and Ab39 (AD specific tau) in H‐AD</title><p>The fluorescent T726 compound (green) showed binding to many lesions in the temporal cortex of the H‐AD case. In the H‐AD case, 6F/3D fluorescence (red) demonstrated the presence of positive Aβ lesions, and Ab39 fluorescence (red) demonstrated the presence of AD‐specific conformation tau. Confocal microscopy did not show any overlap between T726 and Aβ or between T726 and Ab39 (average PCC = 0.03 for T726 vs 6F/3D, and PCC = 0.06 for T726 vs Ab39) (Figure <xref rid="alz14330-fig-0002" ref-type="fig">2</xref>).</p><fig position="float" fig-type="FIGURE" id="alz14330-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>T726 staining suggests that tau‐PET is not binding to amyloid beta (Aβ) and the mature tau isoform in the temporal cortex from a patient with H‐AD. (A) T726 is represented in greenand Aβ in red. (B) Representative confocal image of T726 and mature tau isoform marked by Ab39 in red. Insets with a higher magnification are included to demonstrate further microstructural details. Note the minimal co‐localization between T726 and Aβ or Ab39. Abeta (Aβ), antibody to identify amyloid plaques; Ab39, antibody to identify ghost tangles; AD, Alzheimer's disease; DAPI, 4′,6‐diamidino‐2‐phenylindole nuclear counterstaining; H‐AD, high‐likelihood AD; PCC, Pearson's co‐localization coefficient; PET, positron emission tomography.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-20-8758-g005.jpg"/></fig></sec><sec id="alz14330-sec-0170"><label>3.4</label><title>T726 co‐localizes with PHF‐1 in the hippocampus and temporal cortex in AD</title><p>The fluorescent T726 compound (green) showed binding to lesions, increasing in burden as we went from L‐AD, I‐AD, and H‐AD in the hippocampus and temporal cortex (Figure <xref rid="alz14330-fig-0003" ref-type="fig">3</xref>). A similar pattern was seen with PHF‐1 (red). No lesions were observed in the control case with T726 or PHF‐1 in the hippocampus or temporal cortex. Confocal evaluation of T726 and PHF‐1 in control and three AD cases (L‐AD, I‐AD, and H‐AD) demonstrated co‐localization (or lack thereof) in the hippocampal region (left panel) with an average PCC of 0.01, 0.02, 0.13, and 0.51, respectively, as well as in the temporal cortex (right panel) again in increasing order from 0.01, 0.02, 0.18, and 0.65.</p><fig position="float" fig-type="FIGURE" id="alz14330-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Confocal evaluation of T726 (green) and PHF‐1 (red) co‐localization across HC (A) and temporal cortical regions (B) from control; L‐AD; I‐AD; and H‐AD participants. Note that no significant PCC values were observed in the control regions, but progressive co‐localization between T726 and PHF‐1 across both study regions. AD, Alzheimer's Disease; CCX, temporal cortex; DAPI, 4′,6‐diamidino‐2‐phenylindole nuclear counterstaining; DG, dentate gyrus; H‐AD, high‐likelihood AD; HC, hippocampus; I‐AD, intermediate‐likelihood AD; L‐AD, low‐likelihood AD; PCC, Pearson's co‐localization coefficient; PHF‐1, paired helical filament 1; T726, fluorescent carbazole &amp; FTP analog compound.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ALZ-20-8758-g006.jpg"/></fig></sec><sec id="alz14330-sec-0180"><label>3.5</label><title>Evaluation of T726 versus PHF‐1 and 4R tau in FTLD cases</title><p>The fluorescent T726 compound (green) showed binding to many lesions in all four 4R tauopathy cases (2 PSP, 1CBD, 1GGT) in the SFMG. PHF‐1 fluorescence (red) also detected lesions in the SMFG. Confocal microscopy labeling of PHF‐1 and T726 in the SFMG revealed co‐localization in both PSP cases, where PCC averaged 0.59 and 0.78, respectively. A lower overlap was seen in the CBD case, with an average PCC of 0.49, and a similar amount in GGT with an average PCC of 0.78 (Figure <xref rid="alz14330-fig-0004" ref-type="fig">4</xref>). In the temporal cortical region, PHF‐1 colocalization with T726 was larger in the PSP‐2 case. Overall, PHF‐1 co‐localization was consistently observed in the BG across cases. Meanwhile, fluorescence stainings with 4R tau showed considerable overlap in the temporal cortex of the PSP‐2 subject and the BG of the CBD case (Figure <xref rid="alz14330-supinfo-0001" ref-type="">S2</xref>).</p><fig position="float" fig-type="FIGURE" id="alz14330-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Evaluation of T726 and PHF‐1 binding. Representative confocal microscopy labeling of PHF1 (red) and T726 (green channel) across FTLD's SFMG ROIs. A, PSP‐1, B, PSP‐2; C, CBD, D, GGT subjects. Note that the largest colocalizations (white arrows) are among the PSP subjects (PCC values of PSP‐1 &gt; PSP‐2) with lower PCCs from SFMG ROIs from the CBD and GGT cases. Scale bar = 10 µm. CBD, corticobasal degeneration; DAPI, 4′,6‐diamidino‐2‐phenylindole nuclear counterstaining; GGT, globular glial tauopathy; PCC, Pearson colocalization coefficient; PHF‐1, paired helical filament 1; PSP, progressive supranuclear palsy; ROI, region of interest; SFMG, superior frontal motor gyrus; T726, fluorescent carbazole &amp; FTP analog compound.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ALZ-20-8758-g007.jpg"/></fig><p>In the evaluation of T726 (green) and 4RT (red), we observed some but a smaller amount of co‐localization compared to PHF‐1 in the two PSP and the CBD cases (average PCC = 0.62 and 0.37 in PSP and 0.49 in CBD, respectively). There was even less overlap in the GGT case (PCC = 0.19) (Figure <xref rid="alz14330-fig-0005" ref-type="fig">5</xref>). Additional 3D z‐stack confocal renderings from the BG of the CBD case show some overlap between T726 and 4RT (Figure <xref rid="alz14330-fig-0006" ref-type="fig">6</xref>). In the PiD case, we did not observe co‐localization between the T726 compound and PHF‐1 or T726 and 4RT in any of the brain regions assessed.</p><fig position="float" fig-type="FIGURE" id="alz14330-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Evaluation of T726 and 4RT binding. Confocal microscopy details of 4RT stainings from comparable SFMG ROIs are shown in Figure <xref rid="alz14330-fig-0004" ref-type="fig">4</xref>. Different degrees of co‐localization among cortical neurons are pointed (white arrows). Note that the co‐localization ban can be seen between T726 and 4RT. Scale bar = 10 µm. 4RT, four repeat tau; CBD, corticobasal degeneration; DAPI, 4′,6‐diamidino‐2‐phenylindole nuclear counterstaining; GGT, globular glial tauopathy; PCC, Pearson colocalization coefficient; PSP, progressive supranuclear palsy; ROI, region of interest; SFMG, superior frontal motor gyrus; T726, fluorescent carbazole &amp; FTP analog compound.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="ALZ-20-8758-g008.jpg"/></fig><fig position="float" fig-type="FIGURE" id="alz14330-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Confocal three‐dimensional (3D) rendering between FTP fluorescent analog and 4RT staining. Representative BG ROI from a patient with CBD showing 3D confocal z‐stack reconstruction of T726 (A) and 4RT (B) showing the overlap between the two channels (C). PCC = 0.89. Scale bar = 10 µm. 4RT, four repeat tau; BG, basal ganglia; CBD, corticobasal degeneration; FTP, <sup>18</sup>F flortaucipir; ROI, region of interest.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="ALZ-20-8758-g001.jpg"/></fig></sec><sec id="alz14330-sec-0190"><label>3.6</label><title>Evaluation of T726 versus 3R tau in PiD</title><p>Immunohistochemistry with 3,3′‐diaminobenzidine (DAB) i in the amygdala and lateral temporal regions in the PiD case showed positive Pick's bodies stained for 3RT. Fluorescence immunohistochemistry with the 3RT antibody showed a similar distribution pattern as observed with the DAB staining. Confocal analyses demonstrated co‐localization between 3RT and T726 in the amygdala (PCC = 0.41) and lateral temporal cortex (PCC = 0.22) areas, respectively (Figure <xref rid="alz14330-fig-0007" ref-type="fig">7</xref>).</p><fig position="float" fig-type="FIGURE" id="alz14330-fig-0007" orientation="portrait"><label>FIGURE 7</label><caption><p>IHC staining from the amygdala and temporal cortex in the PiD case. (A) 3RT (right) DAB (3,3′‐diaminobenzidine) IHC staining from a PiD's representative amygdala region. Topographic (upper) and higher magnification (lower) areas showing positive Pick's bodies (scale bar = 100 microns). Additional fluorescence IHC with 3RT and T726 (left) demonstrated co‐localization between 3RT and T726 (scale bar = 20 microns). (B) Pick's bodies in the PiD subject from cortical temporal region (Temp‐ccx) showed similar co‐localization pattern between 3RT and T726 (white arrows). 3RT, three repeat tau; ccx, cortex; IHC, immunohistochemistry; PiD, Pick's disease.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-15" orientation="portrait" xlink:href="ALZ-20-8758-g002.jpg"/></fig></sec></sec><sec id="alz14330-sec-0200"><label>4</label><title>DISCUSSION</title><p>This study's main finding is that T726 co‐localized with some 3R and 4R tau lesions in FTLD, suggesting that FTP is likely also binding to some 3R and 4R tau.</p><p>The use of FTP PET in current medical practice in AD is well established. FTP PET is being utilized as part of the clinical evaluation of patients with dementia. On the other hand, FTP uptake in FTLD has been a point of open debate. Questions such as whether it binds, how much binding occurs if it does bind, why it may bind to some 3R and 4RT lesions but not others, and whether there is region‐specific binding are unanswered. This makes FTLD more complicated because the distribution of staining in FTLD varies with clinical syndromes and likely varies with different underlying proteinopathy, co‐pathology, and pathology burdens. As such, clinically diagnosed patients suspected to have underlying FTLD may not have underlying 4RT or 3RT pathology, given that other proteins, TAR DNA‐binding protein 43 (TDP‐43) and FET, can also cause FTLD. Hence, it is almost impossible to address the questions above with autopsy tissue analysis. On the other hand, FTP is a ligand utilized in living individuals. Hence, to address these unanswered questions, we applied an analog of FTP to autopsy tissue.</p><p>Our experiments corroborate previous findings in the literature on the absence of binding of FTP to Aβ.<xref rid="alz14330-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz14330-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Of interest, although we found good overlap with lesions detected by PHF‐1, we did not find overlap with Ab39. PHF‐1 detects mature tau of all isoform types (3R+4R), whereas Ab39 detects AD (3R+4R) conformation‐specific lesions.<xref rid="alz14330-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> It is still being determined why we did not see co‐localization between T726 and Ab39. One possible explanation is that Ab39 is binding Aβ and not tau. Another likely explanation is that Ab39 binds to a tau conformation in AD that T726 does not recognize. It is unlikely that Ab39 is binding to ghost tangles because FTP robustly detects ghost tangles.<xref rid="alz14330-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="alz14330-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz14330-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> Considering our findings with PHF‐1 and assuming that Ab39 is binding a specific conformation of tau, it would appear that FTP uptake in AD does have a limitation in detecting specific conformations of PH‐t au in AD. Finally, another point to account for is the inter‐ and intra‐case differences reported previously in the study by Wren et al.<xref rid="alz14330-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+</p><p>The main aim of our study was to determine whether the evidence supports the notion that FTP does bind to some 3R and 4R tau lesions in FTLD‐tau. Before assessing this question, we show that T726 has the expected characteristics of FTP in AD. Regarding FTLD‐tau, we included cases of different 4RT or 3RT. We studied two patients with PSP, one with CBD and one with GGT, which are all 4RT variants, as well as PiD which is a 3RT. We did observe co‐localization of T726 with lesions stained with an antibody that recognizes 4RT lesions. This provides evidence supporting FTP binding to some 4RT lesions in FTLD. In the case of PiD, we did not observe co‐localization of T726 with 4R tau lesions (there were none). Additional co‐localization experiments with T726 and 3RT showed overlaps across temporal and amygdala regions, indicating the possibility that increased FTP signals seen in PiD cases could be due to FTP binding to 3R tau in PiD. With that said, we cannot exclude off‐target bindings.</p><p>Of interest, some but not all 3RT and 4RT lesions co‐localized with T726. This could explain the low uptake of FTP in FTLD tauopathies. The reason for the preferential binding to some but not all 3RT and 4RT lesions is unclear. FTP is like thioflavin‐S, which detects proteins rich in beta‐pleated sheets such as Aβ and NFTs in AD, and is similar to thioflavin‐T. Many neuropathologists use thioflavin‐S to detect, diagnose, and score ADNC. Thioflavin ‐T does preferentially detect proteins rich in beta‐pleated sheets.<xref rid="alz14330-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> We, therefore, hypothesize that T726 and, hence, FTP could be detecting 3RT and 4RT aggregates that are rich in beta‐pleated sheets. Future studies should focus on understanding whether there are molecular and structural differences between the 3RT and 4RT lesions that are detected by T726 versus those that are not detected.</p><sec id="alz14330-sec-0210"><label>4.1</label><title>Strengths and limitations</title><p>This is one of the few studies exploring the potential binding of FTP to 3RT and 4RT lesions in FTLD‐tau. The limitations of this study include the limited number of samples available to make general statements and the potential nonspecificity binding among different antibodies that could have detected overlapping tau species. However, our optimization studies included the proper negative and positive controls, where each antibody was scrutinized at increasing concentrations. Moreover, although the application of our quencher successfully removed autofluorescence among our brain samples, it also partially deteriorated our fluorescent signal, which may have led to us underestimating co‐localization. It is also possible that our results are somewhat affected by off‐target binding to unknown factors associated with pathological tau. Other points to consider are differences in AT8 and PHF‐1 antibody binding to phosphorylated tau,<xref rid="alz14330-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> which may add variability, and structural differences between T726 and FTP, which may affect our confocal results. Studies have reported chemical differences between FTP (7‐(6‐fluoropyridin‐3‐yl)‐5H‐pyrido[4,3‐b] indole) and T726 (<italic toggle="yes">N</italic>‐(2‐fluoroethyl)‐<italic toggle="yes">N</italic>‐methyl‐5H‐pyrido[3,2‐b] indol‐7‐amine) that affect differences in histological binding and hence the results of our experiments.<xref rid="alz14330-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz14330-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> However, combined immunohistochemistry and in vitro autoradiography studies of human AD brain samples have shown that both FTP and T726 have higher binding to PHF‐tau aggregates.<xref rid="alz14330-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>
+</p></sec></sec><sec id="alz14330-sec-0220"><label>5</label><title>CONCLUSIONS</title><p>Our findings point toward FTP binding to some 3R and 4R tau species in FTLD. This may explain the observed increased uptake of FTP signals observed in some FTLD cases. Further studies are needed to determine why some 3R and 4R tau species but not others are recognized by FTP.</p></sec><sec id="alz14330-sec-0230"><title>AUTHOR CONTRIBUTIONS</title><p>Rodolfo G. Gatto and Keith A. Josephs contributed to the study's conception and design. Rodolfo G. Gatto and Youssef Hossam performed the fluorescent stainings. All authors contributed to the interpretation of the results. Rodolfo G. Gatto drafted the first version of the manuscript. All authors critically revised it for important intellectual content. All authors contributed significantly to the research and development of the manuscript and approved the final version for publication.</p></sec><sec sec-type="COI-statement" id="alz14330-sec-0250"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no competing interests. Author disclosures are available in the <xref rid="alz14330-supinfo-0001" ref-type="">supporting information</xref>.</p></sec><sec id="alz14330-sec-0260"><title>CONSENT STATEMENT</title><p>All human subjects provided written informed consent.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz14330-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz14330-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-8758-s001.tif" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14330-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-8758-s003.tif" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14330-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-8758-s002.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz14330-sec-0240"><title>ACKNOWLEDGMENTS</title><p>The authors want to thank all the patients who donated their brains to make this study possible. The National Institutes of Health (NIH) supported this work under grant numbers RF1‐NS112153, R01‐DC12519, R01‐DC14942, R01‐AG50603, and R01‐NS89757.</p></ack><ref-list id="alz14330-bibl-0001"><title>REFERENCES</title><ref id="alz14330-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz14330-cit-0001">
+<string-name name-style="western">
+<surname>Josephs</surname>
+<given-names>KA</given-names>
+</string-name>. <article-title>Frontotemporal lobar degeneration</article-title>. <source>Neurol Clin</source>. <year>2007</year>;<volume>25</volume>(<issue>3</issue>):<fpage>683</fpage>‐<lpage>696</lpage>.vi.<pub-id pub-id-type="pmid">17659185</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ncl.2007.03.005</pub-id><pub-id pub-id-type="pmcid">PMC2702867</pub-id></mixed-citation></ref><ref id="alz14330-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz14330-cit-0002">
+<string-name name-style="western">
+<surname>Grossman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seeley</surname>
+<given-names>WW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boxer</surname>
+<given-names>AL</given-names>
+</string-name>, et al. <article-title>Frontotemporal lobar degeneration</article-title>. <source>Nat Rev Dis Primers</source>. <year>2023</year>;<volume>9</volume>(<issue>1</issue>):<fpage>40</fpage>.<pub-id pub-id-type="pmid">37563165</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41572-023-00447-0</pub-id></mixed-citation></ref><ref id="alz14330-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz14330-cit-0003">
+<string-name name-style="western">
+<surname>Hall</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mak</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cervenka</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aigbirhio</surname>
+<given-names>FI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rowe</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Brien</surname>
+<given-names>JT</given-names>
+</string-name>. <article-title>In vivo tau PET imaging in dementia: pathophysiology, radiotracer quantification, and a systematic review of clinical findings</article-title>. <source>Ageing Res Rev</source>. <year>2017</year>;<volume>36</volume>:<fpage>50</fpage>‐<lpage>63</lpage>.<pub-id pub-id-type="pmid">28315409</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.arr.2017.03.002</pub-id></mixed-citation></ref><ref id="alz14330-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz14330-cit-0004">
+<string-name name-style="western">
+<surname>Okamura</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yanai</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Brain imaging: applications of tau PET imaging</article-title>. <source>Nat Rev Neurol</source>. <year>2017</year>;<volume>13</volume>(<issue>4</issue>):<fpage>197</fpage>‐<lpage>198</lpage>.<pub-id pub-id-type="pmid">28303915</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrneurol.2017.38</pub-id></mixed-citation></ref><ref id="alz14330-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz14330-cit-0005">
+<string-name name-style="western">
+<surname>Saint‐Aubert</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lemoine</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chiotis</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leuzy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodriguez‐Vieitez</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nordberg</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Tau PET imaging: present and future directions</article-title>. <source>Mol Neurodegener</source>. <year>2017</year>;<volume>12</volume>(<issue>1</issue>):<fpage>19</fpage>.<pub-id pub-id-type="pmid">28219440</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13024-017-0162-3</pub-id><pub-id pub-id-type="pmcid">PMC5319037</pub-id></mixed-citation></ref><ref id="alz14330-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz14330-cit-0006">
+<string-name name-style="western">
+<surname>Xia</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arteaga</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>[(18)F]T807, a novel tau positron emission tomography imaging agent for Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2013</year>;<volume>9</volume>(<issue>6</issue>):<fpage>666</fpage>‐<lpage>676</lpage>.<pub-id pub-id-type="pmid">23411393</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2012.11.008</pub-id></mixed-citation></ref><ref id="alz14330-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz14330-cit-0007">
+<string-name name-style="western">
+<surname>Jie</surname>
+<given-names>CVLM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Treyer</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schibli</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mu</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Tauvid™: the first FDA‐approved PET tracer for imaging tau pathology in Alzheimer's disease</article-title>. <source>Pharmaceuticals</source>. <year>2021</year>;<volume>14</volume>(<issue>2</issue>):<fpage>110</fpage>.<pub-id pub-id-type="pmid">33573211</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ph14020110</pub-id><pub-id pub-id-type="pmcid">PMC7911942</pub-id></mixed-citation></ref><ref id="alz14330-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz14330-cit-0008">
+<string-name name-style="western">
+<surname>Josephs</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tosakulwong</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gatto</surname>
+<given-names>RG</given-names>
+</string-name>, et al. <article-title>Optimum differentiation of frontotemporal lobar degeneration from Alzheimer disease achieved with cross‐sectional tau positron emission tomography</article-title>. <source>Ann Neurol</source>. <year>2022</year>;<volume>92</volume>:<fpage>1016</fpage>‐<lpage>1029</lpage>.<pub-id pub-id-type="pmid">36054427</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.26479</pub-id><pub-id pub-id-type="pmcid">PMC9804568</pub-id></mixed-citation></ref><ref id="alz14330-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz14330-cit-0009">
+<string-name name-style="western">
+<surname>Whitwell</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lowe</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tosakulwong</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>[(<sup>18</sup>) F]AV‐1451 tau positron emission tomography in progressive supranuclear palsy</article-title>. <source>Mov Disord</source>. <year>2017</year>;<volume>32</volume>(<issue>1</issue>):<fpage>124</fpage>‐<lpage>133</lpage>.<pub-id pub-id-type="pmid">27787958</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/mds.26834</pub-id><pub-id pub-id-type="pmcid">PMC5552410</pub-id></mixed-citation></ref><ref id="alz14330-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz14330-cit-0010">
+<string-name name-style="western">
+<surname>Cho</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seo</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Choi</surname>
+<given-names>JY</given-names>
+</string-name>, et al. <article-title>Predominant subcortical accumulation of <sup>18</sup>F‐flortaucipir binding in behavioral variant frontotemporal dementia</article-title>. <source>Neurobiol Aging</source>. <year>2018</year>;<volume>66</volume>:<fpage>112</fpage>‐<lpage>121</lpage>.<pub-id pub-id-type="pmid">29554554</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neurobiolaging.2018.02.015</pub-id></mixed-citation></ref><ref id="alz14330-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz14330-cit-0011">
+<string-name name-style="western">
+<surname>Josephs</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Botha</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>[<sup>18</sup> F]AV‐1451 tau‐PET and primary progressive aphasia</article-title>. <source>Ann Neurol</source>. <year>2018</year>;<volume>83</volume>(<issue>3</issue>):<fpage>599</fpage>‐<lpage>611</lpage>.<pub-id pub-id-type="pmid">29451323</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.25183</pub-id><pub-id pub-id-type="pmcid">PMC5896771</pub-id></mixed-citation></ref><ref id="alz14330-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz14330-cit-0012">
+<string-name name-style="western">
+<surname>Utianski</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whitwell</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwarz</surname>
+<given-names>CG</given-names>
+</string-name>, et al. <article-title>Tau‐PET imaging with [<sup>18</sup>F]AV‐1451 in primary progressive apraxia of speech</article-title>. <source>Cortex</source>. <year>2018</year>;<volume>99</volume>:<fpage>358</fpage>‐<lpage>374</lpage>.<pub-id pub-id-type="pmid">29353121</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cortex.2017.12.021</pub-id><pub-id pub-id-type="pmcid">PMC5800944</pub-id></mixed-citation></ref><ref id="alz14330-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz14330-cit-0013">
+<string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schultz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Betensky</surname>
+<given-names>RA</given-names>
+</string-name>, et al. <article-title>Tau positron emission tomographic imaging in aging and early Alzheimer disease</article-title>. <source>Ann Neurol</source>. <year>2016</year>;<volume>79</volume>(<issue>1</issue>):<fpage>110</fpage>‐<lpage>119</lpage>.<pub-id pub-id-type="pmid">26505746</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.24546</pub-id><pub-id pub-id-type="pmcid">PMC4738026</pub-id></mixed-citation></ref><ref id="alz14330-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz14330-cit-0014">
+<string-name name-style="western">
+<surname>Lowe</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Curran</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fang</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>An autoradiographic evaluation of AV‐1451 Tau PET in dementia</article-title>. <source>Acta Neuropathol Commun</source>. <year>2016</year>;<volume>4</volume>(<issue>1</issue>):<fpage>58</fpage>.<pub-id pub-id-type="pmid">27296779</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40478-016-0315-6</pub-id><pub-id pub-id-type="pmcid">PMC4906968</pub-id></mixed-citation></ref><ref id="alz14330-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz14330-cit-0015">
+<string-name name-style="western">
+<surname>Marquié</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verwer</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meltzer</surname>
+<given-names>AC</given-names>
+</string-name>, et al. <article-title>Lessons learned about [F‐18]‐AV‐1451 off‐target binding from an autopsy‐confirmed Parkinson's case</article-title>. <source>Acta Neuropathol Commun</source>. <year>2017</year>;<volume>5</volume>(<issue>1</issue>):<fpage>75</fpage>.<pub-id pub-id-type="pmid">29047416</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40478-017-0482-0</pub-id><pub-id pub-id-type="pmcid">PMC5648451</pub-id></mixed-citation></ref><ref id="alz14330-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz14330-cit-0016">
+<string-name name-style="western">
+<surname>Ono</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sahara</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kumata</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Distinct binding of PET ligands PBB3 and AV‐1451 to tau fibril strains in neurodegenerative tauopathies</article-title>. <source>Brain</source>. <year>2017</year>;<volume>140</volume>(<issue>3</issue>):<fpage>764</fpage>‐<lpage>780</lpage>.<pub-id pub-id-type="pmid">28087578</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/aww339</pub-id><pub-id pub-id-type="pmcid">PMC5837223</pub-id></mixed-citation></ref><ref id="alz14330-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz14330-cit-0017">
+<string-name name-style="western">
+<surname>Sander</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lashley</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gami</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Characterization of tau positron emission tomography tracer [(18)F]AV‐1451 binding to postmortem tissue in Alzheimer's disease, primary tauopathies, and other dementias</article-title>. <source>Alzheimers Dement</source>. <year>2016</year>;<volume>12</volume>(<issue>11</issue>):<fpage>1116</fpage>‐<lpage>1124</lpage>.<pub-id pub-id-type="pmid">26892233</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2016.01.003</pub-id></mixed-citation></ref><ref id="alz14330-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz14330-cit-0018">
+<string-name name-style="western">
+<surname>Ramachandran</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Milán‐Garcés</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Udgaonkar</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Puranik</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Resonance Raman spectroscopic measurements delineate the structural changes that occur during tau fibril formation</article-title>. <source>Biochemistry</source>. <year>2014</year>;<volume>53</volume>(<issue>41</issue>):<fpage>6550</fpage>‐<lpage>6565</lpage>.<pub-id pub-id-type="pmid">25284680</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/bi500528x</pub-id></mixed-citation></ref><ref id="alz14330-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz14330-cit-0019">
+<string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Wiste</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schwarz</surname>
+<given-names>CG</given-names>
+</string-name>, et al. <article-title>Longitudinal tau PET in ageing and Alzheimer's disease</article-title>. <source>Brain</source>. <year>2018</year>;<volume>141</volume>(<issue>5</issue>):<fpage>1517</fpage>‐<lpage>1528</lpage>.<pub-id pub-id-type="pmid">29538647</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awy059</pub-id><pub-id pub-id-type="pmcid">PMC5917767</pub-id></mixed-citation></ref><ref id="alz14330-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz14330-cit-0020">
+<string-name name-style="western">
+<surname>Ossenkoppele</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mattsson‐Carlgren</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Accuracy of tau positron emission tomography as a prognostic marker in preclinical and prodromal Alzheimer disease: a head‐to‐head comparison against amyloid positron emission tomography and magnetic resonance imaging</article-title>. <source>JAMA Neurol</source>. <year>2021</year>;<volume>78</volume>(<issue>8</issue>):<fpage>961</fpage>‐<lpage>971</lpage>.<pub-id pub-id-type="pmid">34180956</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaneurol.2021.1858</pub-id><pub-id pub-id-type="pmcid">PMC8240013</pub-id></mixed-citation></ref><ref id="alz14330-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz14330-cit-0021">
+<string-name name-style="western">
+<surname>Whitwell</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Graff‐Radford</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tosakulwong</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>[<sup>18</sup> F]AV‐1451 clustering of entorhinal and cortical uptake in Alzheimer's disease</article-title>. <source>Ann Neurol</source>. <year>2018</year>;<volume>83</volume>(<issue>2</issue>):<fpage>248</fpage>‐<lpage>257</lpage>.<pub-id pub-id-type="pmid">29323751</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.25142</pub-id><pub-id pub-id-type="pmcid">PMC5821532</pub-id></mixed-citation></ref><ref id="alz14330-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz14330-cit-0022">
+<string-name name-style="western">
+<surname>Josephs</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tosakulwong</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gatto</surname>
+<given-names>RG</given-names>
+</string-name>, et al. <article-title>Optimum differentiation of frontotemporal lobar degeneration from Alzheimer disease achieved with cross‐sectional tau positron emission tomography</article-title>. <source>Ann Neurol</source>. <year>2022</year>;<volume>92</volume>(<issue>6</issue>):<fpage>1016</fpage>‐<lpage>1029</lpage>.<pub-id pub-id-type="pmid">36054427</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.26479</pub-id><pub-id pub-id-type="pmcid">PMC9804568</pub-id></mixed-citation></ref><ref id="alz14330-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz14330-cit-0023">
+<string-name name-style="western">
+<surname>Ghirelli</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tosakulwong</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weigand</surname>
+<given-names>SD</given-names>
+</string-name>, et al. <article-title>Sensitivity‐specificity of tau and amyloid β positron emission tomography in frontotemporal lobar degeneration</article-title>. <source>Ann Neurol</source>. <year>2020</year>;<volume>88</volume>(<issue>5</issue>):<fpage>1009</fpage>‐<lpage>1022</lpage>.<pub-id pub-id-type="pmid">32869362</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.25893</pub-id><pub-id pub-id-type="pmcid">PMC7861121</pub-id></mixed-citation></ref><ref id="alz14330-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz14330-cit-0024">
+<string-name name-style="western">
+<surname>Leuzy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chiotis</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lemoine</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Tau PET imaging in neurodegenerative tauopathies‐still a challenge</article-title>. <source>Mol Psychiatry</source>. <year>2019</year>;<volume>24</volume>(<issue>8</issue>):<fpage>1112</fpage>‐<lpage>1134</lpage>.<pub-id pub-id-type="pmid">30635637</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41380-018-0342-8</pub-id><pub-id pub-id-type="pmcid">PMC6756230</pub-id></mixed-citation></ref><ref id="alz14330-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz14330-cit-0025">
+<string-name name-style="western">
+<surname>Bodea</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eckert</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ittner</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Piguet</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Götz</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Tau physiology and pathomechanisms in frontotemporal lobar degeneration</article-title>. <source>J Neurochem</source>. <year>2016</year>;<volume>138</volume>(Suppl Suppl <issue>1</issue>):<fpage>71</fpage>‐<lpage>94</lpage>.<pub-id pub-id-type="pmid">27306859</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jnc.13600</pub-id><pub-id pub-id-type="pmcid">PMC5094566</pub-id></mixed-citation></ref><ref id="alz14330-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz14330-cit-0026">
+<string-name name-style="western">
+<surname>Tsai</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bejanin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lesman‐Segev</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>
+<sup>18</sup>F‐flortaucipir (AV‐1451) tau PET in frontotemporal dementia syndromes</article-title>. <source>Alzheimers Res Ther</source>. <year>2019</year>;<volume>11</volume>(<issue>1</issue>):<fpage>13</fpage>.<pub-id pub-id-type="pmid">30704514</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-019-0470-7</pub-id><pub-id pub-id-type="pmcid">PMC6357510</pub-id></mixed-citation></ref><ref id="alz14330-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz14330-cit-0027">
+<string-name name-style="western">
+<surname>Josephs</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whitwell</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tacik</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>[18F]AV‐1451 tau‐PET uptake does correlate with quantitatively measured 4R‐tau burden in autopsy‐confirmed corticobasal degeneration</article-title>. <source>Acta Neuropathol</source>. <year>2016</year>;<volume>132</volume>(<issue>6</issue>):<fpage>931</fpage>‐<lpage>933</lpage>.<pub-id pub-id-type="pmid">27645292</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00401-016-1618-1</pub-id><pub-id pub-id-type="pmcid">PMC5107140</pub-id></mixed-citation></ref><ref id="alz14330-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz14330-cit-0028">
+<string-name name-style="western">
+<surname>Wren</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lashley</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arstad</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sander</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Large inter‐ and intra‐case variability of first generation tau PET ligand binding in neurodegenerative dementias</article-title>. <source>Acta Neuropathol Commun</source>. <year>2018</year>;<volume>6</volume>(<issue>1</issue>):<fpage>34</fpage>.<pub-id pub-id-type="pmid">29716656</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s40478-018-0535-z</pub-id><pub-id pub-id-type="pmcid">PMC5928586</pub-id></mixed-citation></ref><ref id="alz14330-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz14330-cit-0029">
+<string-name name-style="western">
+<surname>Hyman</surname>
+<given-names>BT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phelps</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beach</surname>
+<given-names>T.G.</given-names>
+</string-name>, et al. <article-title>National Institute on Aging‐Alzheimer's Association guidelines for the neuropathologic assessment of Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2012</year>;<volume>8</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>13</lpage>.<pub-id pub-id-type="pmid">22265587</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2011.10.007</pub-id><pub-id pub-id-type="pmcid">PMC3266529</pub-id></mixed-citation></ref><ref id="alz14330-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz14330-cit-0030">
+<string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Braak</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Staging of Alzheimer's disease‐related neurofibrillary changes</article-title>. <source>Neurobiol Aging</source>. <year>1995</year>;<volume>16</volume>(<issue>3</issue>):<fpage>271</fpage>‐<lpage>278</lpage>.<pub-id pub-id-type="pmid">7566337</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0197-4580(95)00021-6</pub-id></mixed-citation></ref><ref id="alz14330-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz14330-cit-0031">
+<string-name name-style="western">
+<surname>Thal</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rub</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orantes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Phases of A beta‐deposition in the human brain and its relevance for the development of A.D</article-title>. <source>Neurology</source>. <year>2002</year>;<volume>58</volume>(<issue>12</issue>):<fpage>1791</fpage>‐<lpage>1800</lpage>.<pub-id pub-id-type="pmid">12084879</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.58.12.1791</pub-id></mixed-citation></ref><ref id="alz14330-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz14330-cit-0032">
+<string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alafuzoff</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arzberger</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kretzschmar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Tredici</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Staging of Alzheimer disease‐associated neurofibrillary pathology using paraffin sections and immunocytochemistry</article-title>. <source>Acta Neuropathol</source>. <year>2006</year>;<volume>112</volume>(<issue>4</issue>):<fpage>389</fpage>‐<lpage>404</lpage>.<pub-id pub-id-type="pmid">16906426</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00401-006-0127-z</pub-id><pub-id pub-id-type="pmcid">PMC3906709</pub-id></mixed-citation></ref><ref id="alz14330-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz14330-cit-0033">
+<string-name name-style="western">
+<surname>DeTure</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dickson</surname>
+<given-names>DW</given-names>
+</string-name>. <article-title>The neuropathological diagnosis of Alzheimer's disease</article-title>. <source>Mol Neurodegener</source> .<year>2019</year>;<volume>14</volume>(<issue>1</issue>):<fpage>32</fpage>.<pub-id pub-id-type="pmid">31375134</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13024-019-0333-5</pub-id><pub-id pub-id-type="pmcid">PMC6679484</pub-id></mixed-citation></ref><ref id="alz14330-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz14330-cit-0034">
+<string-name name-style="western">
+<surname>Montine</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phelps</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, et al. <article-title>National Institute on Aging‐Alzheimer's Association guidelines for the neuropathologic assessment of Alzheimer's disease: a practical approach</article-title>. <source>Acta Neuropathol</source>. <year>2012</year>;<volume>123</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>11</lpage>.<pub-id pub-id-type="pmid">22101365</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00401-011-0910-3</pub-id><pub-id pub-id-type="pmcid">PMC3268003</pub-id></mixed-citation></ref><ref id="alz14330-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz14330-cit-0035">
+<string-name name-style="western">
+<surname>Goedert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jakes</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vanmechelen</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Monoclonal antibody AT8 recognises tau protein phosphorylated at both serine 202 and threonine 205</article-title>. <source>Neurosci Lett</source>. <year>1995</year>;<volume>189</volume>(<issue>3</issue>):<fpage>167</fpage>‐<lpage>169</lpage>.<pub-id pub-id-type="pmid">7624036</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0304-3940(95)11484-e</pub-id></mixed-citation></ref><ref id="alz14330-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz14330-cit-0036">
+<string-name name-style="western">
+<surname>Malia</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Teplyakov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ernst</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Epitope mapping and structural basis for the recognition of phosphorylated tau by the anti‐tau antibody AT8</article-title>. <source>Proteins</source>. <year>2016</year>;<volume>84</volume>(<issue>4</issue>):<fpage>427</fpage>‐<lpage>434</lpage>.<pub-id pub-id-type="pmid">26800003</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/prot.24988</pub-id><pub-id pub-id-type="pmcid">PMC5067699</pub-id></mixed-citation></ref><ref id="alz14330-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz14330-cit-0037">
+<string-name name-style="western">
+<surname>de Silva</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lashley</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gibb</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Pathological inclusion bodies in tauopathies contain distinct complements of tau with three or four microtubule‐binding repeat domains as demonstrated by new specific monoclonal antibodies</article-title>. <source>Neuropathol Appl Neurobiol</source>. <year>2003</year>;<volume>29</volume>(<issue>3</issue>):<fpage>288</fpage>‐<lpage>302</lpage>.<pub-id pub-id-type="pmid">12787326</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1365-2990.2003.00463.x</pub-id></mixed-citation></ref><ref id="alz14330-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz14330-cit-0038">
+<string-name name-style="western">
+<surname>Gatto</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carlos</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reichard</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lowe</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whitwell</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Josephs</surname>
+<given-names>KA</given-names>
+</string-name>. <article-title>Comparative assessment of regional tau distribution by Tau‐PET and postmortem neuropathology in a representative set of Alzheimer's &amp; frontotemporal lobar degeneration patients</article-title>. <source>PLoS One</source>. <year>2023</year>;<volume>18</volume>(<issue>5</issue>):<elocation-id>e0284182</elocation-id>.<pub-id pub-id-type="pmid">37167210</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0284182</pub-id><pub-id pub-id-type="pmcid">PMC10174492</pub-id></mixed-citation></ref><ref id="alz14330-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz14330-cit-0039">
+<string-name name-style="western">
+<surname>Ling</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kovacs</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vonsattel</surname>
+<given-names>JP</given-names>
+</string-name>, et al. <article-title>Astrogliopathy predominates the earliest stage of corticobasal degeneration pathology</article-title>. <source>Brain</source>. <year>2016</year>;<volume>139</volume>(Pt <issue>12</issue>):<fpage>3237</fpage>‐<lpage>3252</lpage>.<pub-id pub-id-type="pmid">27797812</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/aww256</pub-id></mixed-citation></ref><ref id="alz14330-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz14330-cit-0040">
+<string-name name-style="western">
+<surname>Wegiel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuchna</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nowicki</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Intraneuronal Abeta immunoreactivity is not a predictor of brain amyloidosis‐beta or neurofibrillary degeneration</article-title>. <source>Acta Neuropathol</source>. <year>2007</year>;<volume>113</volume>(<issue>4</issue>):<fpage>389</fpage>‐<lpage>402</lpage>.<pub-id pub-id-type="pmid">17237937</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00401-006-0191-4</pub-id><pub-id pub-id-type="pmcid">PMC1824787</pub-id></mixed-citation></ref><ref id="alz14330-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz14330-cit-0041">
+<string-name name-style="western">
+<surname>Gibbons</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Banks</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Detection of Alzheimer disease (A.D.)‐specific tau pathology in A.D. and NonAD tauopathies by immunohistochemistry with novel conformation‐selective tau antibodies</article-title>. <source>J Neuropathol Exp Neurol</source>. <year>2018</year>;<volume>77</volume>(<issue>3</issue>):<fpage>216</fpage>‐<lpage>228</lpage>.<pub-id pub-id-type="pmid">29415231</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jnen/nly010</pub-id><pub-id pub-id-type="pmcid">PMC6251598</pub-id></mixed-citation></ref><ref id="alz14330-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz14330-cit-0042">
+<string-name name-style="western">
+<surname>Moloney</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lowe</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murray</surname>
+<given-names>ME</given-names>
+</string-name>. <article-title>Visualization of neurofibrillary tangle maturity in Alzheimer's disease: a clinicopathologic perspective for biomarker research</article-title>. <source>Alzheimers Dement</source>. <year>2021</year>;<volume>17</volume>(<issue>9</issue>):<fpage>1554</fpage>‐<lpage>1574</lpage>.<pub-id pub-id-type="pmid">33797838</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12321</pub-id><pub-id pub-id-type="pmcid">PMC8478697</pub-id></mixed-citation></ref><ref id="alz14330-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz14330-cit-0043">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Guanosine monophosphate reductase 1 is a potential therapeutic target for Alzheimer's disease</article-title>. <source>Sci Rep</source>. <year>2018</year>;<volume>8</volume>(<issue>1</issue>):<fpage>2759</fpage>.<pub-id pub-id-type="pmid">29426890</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-018-21256-6</pub-id><pub-id pub-id-type="pmcid">PMC5807363</pub-id></mixed-citation></ref><ref id="alz14330-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz14330-cit-0044">
+<string-name name-style="western">
+<surname>Schneider</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rasband</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eliceiri</surname>
+<given-names>KW</given-names>
+</string-name>. <article-title>NIH Image to ImageJ: 25 years of image analysis</article-title>. <source>Nat Methods</source>. <year>2012</year>;<volume>9</volume>(<issue>7</issue>):<fpage>671</fpage>‐<lpage>675</lpage>.<pub-id pub-id-type="pmid">22930834</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nmeth.2089</pub-id><pub-id pub-id-type="pmcid">PMC5554542</pub-id></mixed-citation></ref><ref id="alz14330-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz14330-cit-0045">
+<string-name name-style="western">
+<surname>Adler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parmryd</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Quantifying colocalization by correlation: the Pearson correlation coefficient is superior to the Mander's overlap coefficient</article-title>. <source>Cytometry A</source>. <year>2010</year>;<volume>77</volume>(<issue>8</issue>):<fpage>733</fpage>‐<lpage>742</lpage>.<pub-id pub-id-type="pmid">20653013</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cyto.a.20896</pub-id></mixed-citation></ref><ref id="alz14330-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz14330-cit-0046">
+<string-name name-style="western">
+<surname>Bolte</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cordelieres</surname>
+<given-names>FP</given-names>
+</string-name>. <article-title>A guided tour into subcellular colocalization analysis in light microscopy</article-title>. <source>J Microsc</source>. <year>2006</year>;<volume>224</volume>(Pt <issue>3</issue>):<fpage>213</fpage>‐<lpage>232</lpage>.<pub-id pub-id-type="pmid">17210054</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2818.2006.01706.x</pub-id></mixed-citation></ref><ref id="alz14330-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="alz14330-cit-0047">
+<string-name name-style="western">
+<surname>Lowe</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lundt</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Albertson</surname>
+<given-names>SM</given-names>
+</string-name>, et al. <article-title>Tau‐positron emission tomography correlates with neuropathology findings</article-title>. <source>Alzheimers Dement</source>. <year>2020</year>;<volume>16</volume>(<issue>3</issue>):<fpage>561</fpage>‐<lpage>571</lpage>.<pub-id pub-id-type="pmid">31784374</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2019.09.079</pub-id><pub-id pub-id-type="pmcid">PMC7067654</pub-id></mixed-citation></ref><ref id="alz14330-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="alz14330-cit-0048">
+<string-name name-style="western">
+<surname>Biancalana</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koide</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Molecular mechanism of Thioflavin‐T binding to amyloid fibrils</article-title>. <source>Biochim Biophys Acta</source>. <year>2010</year>;<volume>1804</volume>(<issue>7</issue>):<fpage>1405</fpage>‐<lpage>1412</lpage>.<pub-id pub-id-type="pmid">20399286</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbapap.2010.04.001</pub-id><pub-id pub-id-type="pmcid">PMC2880406</pub-id></mixed-citation></ref><ref id="alz14330-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="alz14330-cit-0049">
+<string-name name-style="western">
+<surname>Mammeri</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dregni</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hong</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Structures of AT8 and PHF1 phosphomimetic tau: insights into the posttranslational modification code of tau aggregation</article-title>. <source>Proc Natl Acad Sci U S A.</source>. <year>2024</year>;<volume>121</volume>(<issue>10</issue>):<elocation-id>e2316175121</elocation-id>.<pub-id pub-id-type="pmid">38408247</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.2316175121</pub-id><pub-id pub-id-type="pmcid">PMC10927509</pub-id></mixed-citation></ref><ref id="alz14330-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="alz14330-cit-0050">
+<string-name name-style="western">
+<surname>Mohammadi</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alizadeh</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marton</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cumming</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>The sensitivity of tau tracers for the discrimination of Alzheimer's disease patients and healthy controls by PET</article-title>. <source>Biomolecules</source>. <year>2023</year>;<volume>13</volume>(<issue>2</issue>):<fpage>290</fpage>.<pub-id pub-id-type="pmid">36830659</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/biom13020290</pub-id><pub-id pub-id-type="pmcid">PMC9953528</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

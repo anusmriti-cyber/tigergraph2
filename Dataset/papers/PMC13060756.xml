@@ -1,0 +1,1040 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz71248" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC13060756</article-id><article-id pub-id-type="pmcid-ver">PMC13060756.1</article-id><article-id pub-id-type="pmcaid">13060756</article-id><article-id pub-id-type="pmcaiid">13060756</article-id><article-id pub-id-type="pmid">41949995</article-id><article-id pub-id-type="doi">10.1002/alz.71248</article-id><article-id pub-id-type="publisher-id">ALZ71248</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Review Article</subject></subj-group></article-categories><title-group><article-title>Diagnostic performance of salivary markers of Alzheimer's disease: A systematic review</article-title><alt-title alt-title-type="left-running-head">BORELLI <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz71248-cr-0001" contrib-type="author"><name name-style="western"><surname>Borelli</surname><given-names initials="PV">Priscilla Vendramini</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0001-6092-7540</contrib-id><xref rid="alz71248-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71248-cr-0002" contrib-type="author"><name name-style="western"><surname>Machado</surname><given-names initials="L">Leonardo</given-names></name><xref rid="alz71248-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71248-cr-0003" contrib-type="author"><name name-style="western"><surname>Carello‐Collar</surname><given-names initials="G">Giovanna</given-names></name><xref rid="alz71248-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz71248-cr-0004" contrib-type="author"><name name-style="western"><surname>Ferreira</surname><given-names initials="PCL">Pamela C. L.</given-names></name><xref rid="alz71248-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz71248-cr-0005" contrib-type="author"><name name-style="western"><surname>Lourenço de Lima</surname><given-names initials="AMD">Amanda Muliterno Domingues</given-names></name><xref rid="alz71248-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71248-cr-0006" contrib-type="author"><name name-style="western"><surname>Bellaver</surname><given-names initials="B">Bruna</given-names></name><xref rid="alz71248-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz71248-cr-0007" contrib-type="author"><name name-style="western"><surname>Pascoal</surname><given-names initials="TA">Tharick Ali</given-names></name><xref rid="alz71248-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz71248-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz71248-cr-0008" contrib-type="author"><name name-style="western"><surname>Benedet</surname><given-names initials="AL">Andrea L.</given-names></name><xref rid="alz71248-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz71248-cr-0009" contrib-type="author"><name name-style="western"><surname>Ashton</surname><given-names initials="NJ">Nicholas J.</given-names></name><xref rid="alz71248-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="alz71248-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="alz71248-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="alz71248-cr-0010" contrib-type="author" corresp="yes"><name name-style="western"><surname>Zimmer</surname><given-names initials="ER">Eduardo R</given-names></name><xref rid="alz71248-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz71248-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz71248-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="alz71248-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><xref rid="alz71248-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref><address><email>erzimmer@gmail.com</email></address></contrib><contrib id="alz71248-cr-0011" contrib-type="author" corresp="yes"><name name-style="western"><surname>Borelli</surname><given-names initials="WV">Wyllians Vendramini</given-names></name><xref rid="alz71248-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz71248-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz71248-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><xref rid="alz71248-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref><address><email>eduardo.zimmer@ufrgs.br</email></address></contrib></contrib-group><aff id="alz71248-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Graduate Program in Biological Sciences, Pharmacology and Therapeutics (PPGFT)</named-content>
+<institution>UFRGS</institution>
+<city>Porto Alegre</city>
+<named-content content-type="country-part">Rio Grande do Sul</named-content>
+<country country="BR">Brazil</country>
+</aff><aff id="alz71248-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Graduate Program in Biological Sciences: Biochemistry (PPGBioq)</named-content>
+<institution>UFRGS</institution>
+<city>Porto Alegre</city>
+<named-content content-type="country-part">Rio Grande do Sul</named-content>
+<country country="BR">Brazil</country>
+</aff><aff id="alz71248-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry, School of Medicine</named-content>
+<institution>University of Pittsburgh</institution>
+<city>Pittsburgh</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71248-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology, School of Medicine</named-content>
+<institution>University of Pittsburgh</institution>
+<city>Pittsburgh</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71248-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry and Neurochemistry, Institute of Neuroscience &amp; Physiology</named-content>
+<institution>Sahlgrenska Academy at the University of Gothenburg</institution>
+<city>Mölndal</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz71248-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>Banner Alzheimer's Institute and University of Arizona</institution>
+<city>Phoenix</city>
+<named-content content-type="country-part">Arizona</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71248-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<institution>Banner Sun Health Research Institute</institution>
+<city>Sun City</city>
+<named-content content-type="country-part">Arizona</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71248-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pharmacology</named-content>
+<institution>UFRGS</institution>
+<city>Porto Alegre</city>
+<named-content content-type="country-part">Rio Grande do Sul</named-content>
+<country country="BR">Brazil</country>
+</aff><aff id="alz71248-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">The McGill University Research Centre for Studies in Aging</named-content>
+<institution>McGill University</institution>
+<city>Montreal</city>
+<country country="CA">Canada</country>
+</aff><aff id="alz71248-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Brain Institute of Rio Grande do Sul</named-content>
+<institution>Pontifical Catholic University of Rio Grande do Sul</institution>
+<city>Porto Alegre</city>
+<named-content content-type="country-part">Rio Grande do Sul</named-content>
+<country country="BR">Brazil</country>
+</aff><aff id="alz71248-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Department of Morphological Sciences</named-content>
+<institution>UFRGS</institution>
+<city>Porto Alegre</city>
+<named-content content-type="country-part">Rio Grande do Sul</named-content>
+<country country="BR">Brazil</country>
+</aff><aff id="alz71248-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<institution>Memory Center at the Hospital Moinhos de Vento</institution>
+<city>Porto Alegre</city>
+<named-content content-type="country-part">Rio Grande do Sul</named-content>
+<country country="BR">Brazil</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Wyllians V. Borelli, M.D., Ph.D., Department of Morphological Sciences, Universidade Federal do Rio Grande do Sul, 500 Sarmento Leite Street, 90050‐170, Porto Alegre, RS, Brazil. / Phone: +5551 3308‐2322.<break/> Email: wyllians.borelli@ufrgs.br<break/>Eduardo R Zimmer, Ph.D., Department of Pharmacology, Universidade Federal do Rio Grande do Sul, 2700 Ramiro Barcelos Street, 90035‐003, Porto Alegre, RS, Brazil, Phone: +55 51 3308‐5558. Email: <email>erzimmer@gmail.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>4</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2026</year></pub-date><volume>22</volume><issue seq="360">4</issue><issue-id pub-id-type="pmc-issue-id">510815</issue-id><issue-id pub-id-type="doi">10.1002/alz.v22.4</issue-id><elocation-id>e71248</elocation-id><history><date date-type="rev-recd"><day>29</day><month>1</month><year>2026</year></date><date date-type="received"><day>19</day><month>11</month><year>2025</year></date><date date-type="accepted"><day>02</day><month>2</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>08</day><month>04</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>09</day><month>04</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-04-09 10:25:13.927"><day>09</day><month>04</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-22-e71248.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-22-e71248.pdf"/><abstract><title>Abstract</title><p>High heterogeneity of diagnostic accuracy have been reported for salivary markers of Alzheimer's disease (AD), but the reasons remain unclear. This systematic review aims to evaluate the potential sources of heterogeneity in the diagnostic performance of salivary biomarkers for the identification of AD. We systematically reviewed four databases for studies from inception to 2025. We evaluated biomarker sensitivity, specificity, and area under the curve (AUC). This study was conducted according to the Preferred Reporting Items for Systematic reviews and Meta‐Analyses (PRISMA) statement. Of 3118 studies, 18 met the inclusion criteria. AUC data were available only for amyloid beta (Aβ)42 and lactoferrin. Pre‐analytical properties were a major source of heterogeneity, comprehending prior orientation, time of collection, recipient material, and centrifugation methods. The main source of variability likely stems from substantial differences in pre‐analytical procedures across studies. Further studies on salivary biomarkers in AD implementing standardized protocols are warranted.</p></abstract><abstract abstract-type="highlights"><title>Highlights</title><p>
+<list list-type="bullet" id="alz71248-list-0001"><list-item><p>Previous meta‐analysis showed that Lactoferrin may differentiate individuals with cognitive impairment (CU) from those with Alzheimer's disease (AD)</p></list-item><list-item><p>Pre‐analytical methods were highly variable among studies</p></list-item><list-item><p>Salivary markers of AD showed substantial heterogeneity in distinguishing CU from AD</p></list-item><list-item><p>No study matched guidelines for saliva sampling, processing, and analysis</p></list-item><list-item><p>Further studies should harmonize procedures according to standardized protocols</p></list-item></list>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz71248-kwd-0001">amyloid beta</kwd><kwd id="alz71248-kwd-0002">analytical procedures</kwd><kwd id="alz71248-kwd-0003">biofluid</kwd><kwd id="alz71248-kwd-0004">biomarker</kwd><kwd id="alz71248-kwd-0005">diagnosis</kwd><kwd id="alz71248-kwd-0006">lactoferrin</kwd><kwd id="alz71248-kwd-0007">literature review</kwd><kwd id="alz71248-kwd-0008">pre‐analytical procedures</kwd><kwd id="alz71248-kwd-0009">p‐tau</kwd><kwd id="alz71248-kwd-0010">saliva</kwd><kwd id="alz71248-kwd-0011">systematic review</kwd><kwd id="alz71248-kwd-0012">tau</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Alzheimer's Association</institution><institution-id institution-id-type="doi">10.13039/100000957</institution-id></institution-wrap>
+</funding-source><award-id>AACSFD‐22‐928689</award-id><award-id>AARGD‐21‐850670</award-id><award-id>AARFD‐22‐974627</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>CNPq</institution><institution-id institution-id-type="doi">10.13039/501100003593</institution-id></institution-wrap>
+</funding-source><award-id>312410/2018‐2</award-id><award-id>435642/2018‐9</award-id><award-id>312306/2021‐0</award-id><award-id>409066/2022‐2</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>ARD/FAPERGS</institution></institution-wrap>
+</funding-source><award-id>21/2551‐0000673‐0</award-id><award-id>16/2551‐0000475‐7</award-id></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>Brazilian National Institute of Science and Technology in Excitotoxicity and Neuroprotection</institution></institution-wrap>
+</funding-source><award-id>465671/2014‐4</award-id></award-group><award-group id="funding-0005"><funding-source>
+<institution-wrap><institution>Instituto Serrapilheira</institution><institution-id institution-id-type="doi">10.13039/501100013275</institution-id></institution-wrap>
+</funding-source><award-id>Serra‐1912‐31365</award-id></award-group><award-group id="funding-0006"><funding-source>
+<institution-wrap><institution>Alzheimer's Association and National Academy of Neuropsychology</institution></institution-wrap>
+</funding-source><award-id>ALZ‐NAN‐22‐928381</award-id></award-group><award-group id="funding-0007"><funding-source>
+<institution-wrap><institution>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</institution><institution-id institution-id-type="doi">10.13039/501100002322</institution-id></institution-wrap>
+</funding-source><award-id>88887.687008/2022‐00</award-id></award-group><award-group id="funding-0008"><funding-source>
+<institution-wrap><institution>National Institute on Aging</institution><institution-id institution-id-type="doi">10.13039/100000049</institution-id></institution-wrap>
+</funding-source><award-id>5R01AG075336</award-id><award-id>5R01AG073267</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="11"/><word-count count="6186"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.3 mode:remove_FC converted:08.04.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="alz71248-sec-0020"><label>1</label><title>INTRODUCTION</title><p>Alzheimer's disease (AD) is the most common neurodegenerative disease affecting the elderly population.<xref rid="alz71248-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Early diagnosis of AD may enable timely interventions and management, which can potentially lead to reduced treatment costs and help slow or modify the disease progression. AD core biomarkers have been integrated into clinical practice owing to their high sensitivity and specificity in detecting AD core pathology, such as amyloid beta (Aβ) deposition and tau neurofibrillary tangles, even in the preclinical stages of the disease. The ability to identify these AD‐related pathologies at an early phase is pivotal for guiding the development of disease‐modifying therapies aimed at altering the trajectory of AD.</p><p>In clinical settings, positron emission tomography (PET) and cerebrospinal fluid (CSF) analysis are gold standard methods for assessing AD pathology in patients.<xref rid="alz71248-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> However, a biomarker‐assisted diagnosis in AD based on PET and CSF results faces several barriers to clinical implementation. The challenges are related to the high costs associated with these exams, which are often unaffordable for public health systems. Furthermore, not all patients are eligible for lumbar puncture or imaging procedures, underscoring the importance of more accessible approaches such as blood‐based biomarkers. In fact, very recently, a blood test has been approved by the U.S. Food and Drug Administration (FDA) for AD diagnosis, given its demonstrated high accuracy in identifying amyloid pathology in both research and clinical settings.<xref rid="alz71248-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz71248-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> Resource‐limited countries, especially those in the Global South, frequently lag in the advances of AD diagnosis, highlighting the urgent need for new and more accessible diagnostic methods. In an effort to increase accessibility, blood‐based biomarkers have been largely explored in recent years and have demonstrated high accuracy in identifying amyloid beta (Aβ) positivity in research<xref rid="alz71248-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> and clinical settings.<xref rid="alz71248-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz71248-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="alz71248-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</p><p>Recent evidence also suggests that saliva may serve as an alternative biological matrix for measuring AD‐related biomarkers. Saliva collection offers several advantages over blood, including its noninvasive nature, stress‐free procedures, and repeatability.<xref rid="alz71248-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Saliva is an easily accessible bodily fluid, and its composition may change under various pathophysiological conditions.<xref rid="alz71248-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Its clinical utility is already established for diagnosing oral cancer<xref rid="alz71248-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> and severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) infection and for drug testing.<xref rid="alz71248-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> The potential to detect and quantify biomarkers in saliva samples is highly attractive for research and clinical applications and for noninvasive biomarkers aimed at early diagnosis and continuous monitoring of AD. However, saliva may be subject to substantial variations, such as comorbidities and hyposalivation in the elderly, different from the more stable biological matrices such as blood or CSF. Salivary composition involves a two‐step filtered production: from the brain to the blood and from the blood to the saliva. Indeed, a recent study evaluated salivary, plasma, and CSF levels of core AD biomarkers, showing that salivary markers did not correlate with other biofluids.<xref rid="alz71248-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> In the context of AD, recent studies using saliva as a biological matrix for biomarkers have yielded conflicting results, raising questions about their clinical utility. Although previous meta‐analyses have also evaluated diagnostic performance, a critical gap remains: their underlying sources of heterogeneity were not fully addressed. Herein this study builds upon prior work by evaluating the potential pre‐analytical and analytical sources of heterogeneity in diagnostic performance of salivary biomarkers in identifying AD. This systematic evaluation serves as a practical roadmap for the standardization of future salivary biomarker protocols.</p></sec><sec id="alz71248-sec-0030"><label>2</label><title>METHODS</title><sec id="alz71248-sec-0040"><label>2.1</label><title>Search strategy and selection criteria</title><p>The study protocol was registered in the Open Science Framework (registration number: fve4u).<xref rid="alz71248-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> This systematic review was conducted based on the records published from inception to January 2025, according to the Preferred Reporting Items for Systematic reviews and Meta‐Analyses (PRISMA) statement guidelines. We searched Embase, PubMed, Scopus, and Web of Science. The search queries included Boolean operators and the following key terms: Alzheimer's disease, saliva*, and similar terms (Table S<xref rid="alz71248-supinfo-0001" ref-type="">1</xref>).</p><p>Records were screened by the title, abstract, and full text by two independent investigators (P.V.B. and L.M.), and by a third reviewer when discrepancies occurred (W.V.B.). Studies included in this review matched all the eligibility criteria (Table S<xref rid="alz71248-supinfo-0001" ref-type="">2</xref>). Studies selected for review included original, full‐text articles published in any language, investigating biomarkers for AD in saliva. In addition, a manual search was conducted for gray literature.</p><p>Articles were excluded if: (1) they did not describe a specific group of cognitively unimpaired (CU) individuals, or mild cognitive impairment (MCI) due to AD, or dementia due to AD according to international guidelines<xref rid="alz71248-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="alz71248-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz71248-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="alz71248-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>; (2) cohorts with fewer than 10 individuals; (3) reported concentration of the salivary biomarkers data in a format other than mean (standard deviation [SD]) or median (interquartile range); (4) had used nonquantitative methods to assess biomarker results; (5) had cohorts of individuals younger than 18 years of age; and (6) had studies without appropriately referenced methods.<xref rid="alz71248-fig-0001" ref-type="fig"> </xref>
+</p></sec><sec id="alz71248-sec-0050"><label>2.2</label><title>Data analysis and quality assessment</title><p>By screening the titles and the abstracts based on the eligibility criteria listed above, studies were selected for further data extraction by two authors (P.V.B. and W.V.B.) according to a data extraction sheet, including biomarker identification, age, and sex for CU and AD individuals, inclusion and exclusion criteria, diagnostic criteria, analytical method, diagnostic performance, descriptive area under the curve (AUC), and sensitivity and specificity of the biomarkers evaluated in the study. For studies with incomplete or missing data, corresponding authors were contacted via email (two attempts per study) to request additional information. Data were taken from cross‐sectional and cohort studies and baseline measurements in longitudinal studies with clinical follow‐up. All data retrieved were checked for accuracy by two researchers (P.V.B. and W.V.B.). The methodological quality of the included studies was assessed using the Newcastle–Ottawa Scale (NOS; Table S<xref rid="alz71248-supinfo-0001" ref-type="">3</xref>), with scores ranging from 0 to 9.<xref rid="alz71248-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+</p></sec><sec id="alz71248-sec-0060"><label>2.3</label><title>Evaluation of diagnostic performance of salivary biomarkers</title><p>We carefully evaluated pre‐analytical methods to identify orientations of pre‐collection of saliva, the time of saliva collection, the method of collection, the recipient material, centrifugation procedures, and storage. Pre‐analytical methods were evaluated qualitatively to identify convergence or divergence of methods used in included studies. Analytical methods were also evaluated according to the platform reported in each study.</p></sec></sec><sec id="alz71248-sec-0070"><label>3</label><title>RESULTS</title><p>We identified 3118 articles from the initial database search, and 2505 remained after duplicate removal (Figure <xref rid="alz71248-fig-0001" ref-type="fig">1</xref>). Eighteen studies matched the eligibility criteria for this systematic review. The included studies were published between 2010 and 2025. Studies collected data from 12 different countries, and most studies were from the European continent (11/18, 61.1%). The included studies comprised 726 CU individuals, 361 MCI, and 668 AD dementia. Studies that included CU individuals had sample sizes ranging from 10 to 160, MCI ranged from 15 to 68, whereas the sample size for AD individuals ranged from 11 to 80. Table <xref rid="alz71248-tbl-0001" ref-type="table">1</xref> summarizes the data collected from the studies included in this systematic review. Overall, most studies had an unclear risk of bias/medium quality, with NOS scores ranging from 5 to 6 (Table S<xref rid="alz71248-supinfo-0001" ref-type="">3</xref>).</p><fig position="float" fig-type="FIGURE" id="alz71248-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>(A) Preferred Reporting Items for Systematic reviews and Meta‐Analyses (PRISMA) flowchart of studies included and (B) distribution of studies retrieved worldwide. AD, Alzheimer's disease.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-22-e71248-g001.jpg"/></fig><table-wrap position="float" id="alz71248-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Studies included in this systematic review.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Author</th><th align="left" rowspan="1" colspan="1">Year</th><th align="left" rowspan="1" colspan="1">Country</th><th align="left" rowspan="1" colspan="1">
+<p>Cases</p>
+<p>(<italic toggle="yes">n</italic>, F/M, mean age)</p>
+</th><th align="left" rowspan="1" colspan="1">
+<p>CU</p>
+<p>(<italic toggle="yes">n</italic>, F/M, mean age)</p>
+</th><th align="left" rowspan="1" colspan="1">Main findings regarding salivary markers</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Ashton et al.</td><td align="left" rowspan="1" colspan="1">2018</td><td align="left" rowspan="1" colspan="1">Sweden, UK</td><td align="left" rowspan="1" colspan="1">
+<p>AD: 53, 30/23, 81.4 ± 6.6</p>
+<p>MCI: 68, 35/33, 79.8 ± 7.4</p>
+</td><td align="left" rowspan="1" colspan="1">160, 94/66, 78.0 ± 6.7</td><td align="left" rowspan="1" colspan="1">Levels of t‐tau were similar between AD, MCI, and CU</td></tr><tr><td align="left" rowspan="1" colspan="1">Bermejo‐Pareja et al.</td><td align="left" rowspan="1" colspan="1">2010</td><td align="left" rowspan="1" colspan="1">Spain</td><td align="left" rowspan="1" colspan="1">AD: 70, 49/21, 77.2</td><td align="left" rowspan="1" colspan="1">56, 39/17, 74.3</td><td align="left" rowspan="1" colspan="1">Levels of Aβ42 in AD patients were similar to those in PD and CU</td></tr><tr><td align="left" rowspan="1" colspan="1">Boschi et al.</td><td align="left" rowspan="1" colspan="1">2022</td><td align="left" rowspan="1" colspan="1">Italy</td><td align="left" rowspan="1" colspan="1">AD: 18, 10/8, 72.13 ± 5.5</td><td align="left" rowspan="1" colspan="1">18, 11/7, 65.7 ± 12</td><td align="left" rowspan="1" colspan="1">Levels of Aβ42 in AD patients were higher than in CU. There was a negative correlation between CSF and salivary Aβ42</td></tr><tr><td align="left" rowspan="1" colspan="1">Carro et al.</td><td align="left" rowspan="1" colspan="1">2017</td><td align="left" rowspan="1" colspan="1">Spain</td><td align="left" rowspan="1" colspan="1">
+<p>AD: 80, 49/31, 76.2 ± 5.3</p>
+<p>aMCI: 44, 25/19, 75.2 ± 5.1</p>
+</td><td align="left" rowspan="1" colspan="1">91, 59/32, 73.7 ± 6.9</td><td align="left" rowspan="1" colspan="1">Lactoferrin showed exceptional diagnostic performance in distinguishing AD from CU</td></tr><tr><td align="left" rowspan="1" colspan="1">Cui et al.</td><td align="left" rowspan="1" colspan="1">2022</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">AD: 30, 15/15, NA</td><td align="left" rowspan="1" colspan="1">15, 7/8, 67.5 ± 3.2</td><td align="left" rowspan="1" colspan="1">Aβ42/Aβ40 and p‐tau/t‐tau combined were accurate in distinguishing AD from CU. All four markers combined showed higher accuracy</td></tr><tr><td align="left" rowspan="1" colspan="1">François et al.</td><td align="left" rowspan="1" colspan="1">2024</td><td align="left" rowspan="1" colspan="1">Australia</td><td align="left" rowspan="1" colspan="1">AD: 20, 12/8, 78 ± 6.5</td><td align="left" rowspan="1" colspan="1">40, 21/19, 74.9 ± 7.2</td><td align="left" rowspan="1" colspan="1">Stratifin was decreased in AD compared to CU. Metabolites distinguished AD from CU</td></tr><tr><td align="left" rowspan="1" colspan="1">Gleerup et al. (a)</td><td align="left" rowspan="1" colspan="1">2021</td><td align="left" rowspan="1" colspan="1">Denmark</td><td align="left" rowspan="1" colspan="1">
+<p>AD: 71, 41/30, 72.1 ± 7.3</p>
+<p>MCI: 56, 27/29, 70.4±8.2</p>
+</td><td align="left" rowspan="1" colspan="1">20, 8/12, 65.7 ± 10.1</td><td align="left" rowspan="1" colspan="1">Lactoferrin did not differentiate AD from CU</td></tr><tr><td align="left" rowspan="1" colspan="1">Gleerup et al. (b)</td><td align="left" rowspan="1" colspan="1">2021</td><td align="left" rowspan="1" colspan="1">Denmark</td><td align="left" rowspan="1" colspan="1">
+<p>AD: 49, 29/20, 72.7 ± 7.5</p>
+<p>MCI: 47, 22/25, 71.1 ± 8.2</p>
+</td><td align="left" rowspan="1" colspan="1">17, 6/11, 68.4 ± 8.3</td><td align="left" rowspan="1" colspan="1">No statistically significant differences were found in salivary NfL concentration across the diagnostic groups</td></tr><tr><td align="left" rowspan="1" colspan="1">González‐Sánchez et al.</td><td align="left" rowspan="1" colspan="1">2020</td><td align="left" rowspan="1" colspan="1">Spain</td><td align="left" rowspan="1" colspan="1">
+<p>AD: 25, 12/13, 67.2 ± 9.2</p>
+<p>MCI: 21, 8/13, 68.8 ± 7.5</p>
+</td><td align="left" rowspan="1" colspan="1">48, 33/15, 66.9 ± 5.9</td><td align="left" rowspan="1" colspan="1">Lactoferrin levels were lower in MCI and AD groups compared to CU</td></tr><tr><td align="left" rowspan="1" colspan="1">Katsipis et al.</td><td align="left" rowspan="1" colspan="1">2021</td><td align="left" rowspan="1" colspan="1">Greece</td><td align="left" rowspan="1" colspan="1">
+<p>AD: 20, 9/11, 75 ± 5.5</p>
+<p>MCI: 20, 12/8, 75 ± 7.2</p>
+</td><td align="left" rowspan="1" colspan="1">20, 11/9, 79 ± 4.7</td><td align="left" rowspan="1" colspan="1">GFAP levels were lower in AD or MCI than in CU</td></tr><tr><td align="left" rowspan="1" colspan="1">McNicholas et al.</td><td align="left" rowspan="1" colspan="1">2022</td><td align="left" rowspan="1" colspan="1">Australia</td><td align="left" rowspan="1" colspan="1">
+<p>AD: 16, 6/10, 79 ± 6</p>
+<p>MCI: 15, 8/7, 76 ± 6</p>
+</td><td align="left" rowspan="1" colspan="1">29, 14/15, 74 ± 8</td><td align="left" rowspan="1" colspan="1">Panel of salivary proteins (CST‐C, IL‐1RN, SFN, MMP‐9, and HP) was higher in AD than in CU</td></tr><tr><td align="left" rowspan="1" colspan="1">Pekeles et al.</td><td align="left" rowspan="1" colspan="1">2019</td><td align="left" rowspan="1" colspan="1">Canada</td><td align="left" rowspan="1" colspan="1">
+<p>AD: 46, 22/24, Median: 80 (IQR: 9)</p>
+<p>aMCI: 55, 32/23, Median: 78 (IQR: 14)</p>
+</td><td align="left" rowspan="1" colspan="1">47, 32/15, Median: 73 (IQR: 6).</td><td align="left" rowspan="1" colspan="1">Levels of p‐tau/t‐tau for the S396 phosphorylation site were higher in AD than in CU</td></tr><tr><td align="left" rowspan="1" colspan="1">Peña‑Bautista et al.</td><td align="left" rowspan="1" colspan="1">2020</td><td align="left" rowspan="1" colspan="1">Spain</td><td align="left" rowspan="1" colspan="1">AD: 31, 18/13, Median: 69 (67, 74)</td><td align="left" rowspan="1" colspan="1">12, 4/8, Median: 69 (60, 70)</td><td align="left" rowspan="1" colspan="1">Amino acids and derivatives of neurotransmission impairment were higher in AD than in CU</td></tr><tr><td align="left" rowspan="1" colspan="1">Ralbovsky et al.</td><td align="left" rowspan="1" colspan="1">2019</td><td align="left" rowspan="1" colspan="1">USA</td><td align="left" rowspan="1" colspan="1">
+<p>AD: 11, NA, NA</p>
+<p>MCI: 18, NA, NA</p>
+</td><td align="left" rowspan="1" colspan="1">10, NA, NA</td><td align="left" rowspan="1" colspan="1">Raman hyperspectroscopy showed 99% accuracy for differentiating AD from CU</td></tr><tr><td align="left" rowspan="1" colspan="1">Ryu et al.</td><td align="left" rowspan="1" colspan="1">2023</td><td align="left" rowspan="1" colspan="1">South Korea</td><td align="left" rowspan="1" colspan="1">AD: 27, 12/15, 72.59 ± 6.90</td><td align="left" rowspan="1" colspan="1">13, 11/2, 75.5 ± 6.6</td><td align="left" rowspan="1" colspan="1">The concentration of miRNA‐485‐3p was higher in AD than in CU</td></tr><tr><td align="left" rowspan="1" colspan="1">Sabaei et al.</td><td align="left" rowspan="1" colspan="1">2023</td><td align="left" rowspan="1" colspan="1">Iran</td><td align="left" rowspan="1" colspan="1">AD: 24, 10/14, 73.5 ± 9.8</td><td align="left" rowspan="1" colspan="1">22, 13/9, 64.1 ± 9.2</td><td align="left" rowspan="1" colspan="1">Aβ42 and p‐tau levels were higher in AD than in CU. Salivary α‐syn was lower in AD than in CU</td></tr><tr><td align="left" rowspan="1" colspan="1">Tvarijonaviciute et al.</td><td align="left" rowspan="1" colspan="1">2020</td><td align="left" rowspan="1" colspan="1">Spain</td><td align="left" rowspan="1" colspan="1">AD: 69, NA, NA</td><td align="left" rowspan="1" colspan="1">83, NA, NA</td><td align="left" rowspan="1" colspan="1">Aβ42 and C4 levels were similar between AD and CU</td></tr><tr><td align="left" rowspan="1" colspan="1">Zalewska et al.</td><td align="left" rowspan="1" colspan="1">2021</td><td align="left" rowspan="1" colspan="1">Poland</td><td align="left" rowspan="1" colspan="1">AD: 25, 15/10, 81.2 ± 6.8</td><td align="left" rowspan="1" colspan="1">25, 15/10, 82.1 ± 6.7</td><td align="left" rowspan="1" colspan="1">Salivary oxidative stress index was higher in AD compared to CU. Lactoferrin and Aβ42 were similar between AD and CU</td></tr></tbody></table><table-wrap-foot><fn id="alz71248-tbl1-note-0001"><p>Abbreviations: Aβ, amyloid beta; AD, Alzheimer's disease; aMCI, amnestic mild cognitive impairment; CSF, cerebrospinal fluid; CU, cognitively unimpaired; CST‐C, cystatin‐C; C4, complement C4; GC‐MS, gas chromatography mass spectrometry; GFAP, glial fibrillary acidic protein; Hp, haptoglobin; IL‐1RN, interleukin‐1 receptor antagonist protein; IQR, interquartile range; MCI, mild cognitive impairment; MMP‐9, matrix metalloproteinase 9; miRNA, micro Ribonucleic Acid; n, number of individuals; NA, Not Available; NfL, neurofilament light chain; p‐tau, hyperphosphorylated tau; PD, Parkinson's disease; PET, positron emission tomography; Simoa, single molecule array; SFN, stratifin; t‐tau, total tau; UK, United Kingdom; UPLC‐MS, ultra‐performance liquid chromatography‐mass spectrometry; MS, mass spectrometry. Age is shown with mean and Standard Deviations (SD).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Eighteen studies evaluated the diagnostic performance of salivary markers, comprising 47 different salivary biomarkers (Table <xref rid="alz71248-tbl-0002" ref-type="table">2</xref>). Proteomics and metabolomics analyses were conducted in five studies.<xref rid="alz71248-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz71248-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71248-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="alz71248-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="alz71248-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Six studies (33.3%) evaluated salivary Aβ42 levels, four studies (22.2%) assessed lactoferrin and phosphorylated tau (p‐tau), three studies (16.6%) evaluated total tau (t‐tau), and two studies (11.1%) examined the p‐tau/t‐tau ratio. In addition, six studies investigated other markers such as adenosine deaminase (ADA), cholinesterase (ChE), <xref rid="alz71248-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Raman spectra,<xref rid="alz71248-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> or microRNAs (miRNAs).<xref rid="alz71248-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+</p><table-wrap position="float" id="alz71248-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Diagnostic performance of salivary biomarkers evaluated.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th colspan="4" align="left" rowspan="1"/><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Diagnostic performance of the most accurate marker</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Author</th><th align="left" rowspan="1" colspan="1">Year</th><th align="left" rowspan="1" colspan="1">Salivary markers analyzed</th><th align="left" rowspan="1" colspan="1">Most discriminant markers</th><th align="left" rowspan="1" colspan="1">AUC</th><th align="left" rowspan="1" colspan="1">Sensitivity</th><th align="left" rowspan="1" colspan="1">Specificity</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Ashton et al.</td><td align="left" rowspan="1" colspan="1">2018</td><td align="left" rowspan="1" colspan="1">t‐tau</td><td align="left" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">NS</td><td align="left" rowspan="1" colspan="1">NS</td><td align="left" rowspan="1" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Bermejo‐Pareja et al.</td><td align="left" rowspan="1" colspan="1">2010</td><td align="left" rowspan="1" colspan="1">Aβ42</td><td align="left" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">NS</td><td align="left" rowspan="1" colspan="1">NS</td><td align="left" rowspan="1" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Boschi et al.</td><td align="left" rowspan="1" colspan="1">2022</td><td align="left" rowspan="1" colspan="1">Aβ42</td><td align="left" rowspan="1" colspan="1">Aβ42</td><td align="left" rowspan="1" colspan="1">0.81</td><td align="left" rowspan="1" colspan="1">0.84</td><td align="left" rowspan="1" colspan="1">0.68</td></tr><tr><td align="left" rowspan="1" colspan="1">Carro et al.</td><td align="left" rowspan="1" colspan="1">2017</td><td align="left" rowspan="1" colspan="1">Lactoferrin</td><td align="left" rowspan="1" colspan="1">Lactoferrin</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">Cui et al.</td><td align="left" rowspan="1" colspan="1">2022</td><td align="left" rowspan="1" colspan="1">Aβ40, Aβ42, t‐tau, p‐tau, p‐tau/t‐tau ratio</td><td align="left" rowspan="1" colspan="1">Panel: Aβ42, p‐tau, t‐tau, Aβ42/Aβ40 ratio, p‐tau/t‐tau ratio</td><td align="left" rowspan="1" colspan="1">0.92</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">François et al.</td><td align="left" rowspan="1" colspan="1">2024</td><td align="left" rowspan="1" colspan="1">Untarget proteomics and metabolomics</td><td align="left" rowspan="1" colspan="1">Stratifin, Mucin‐5B, and beta‐hexosaminidase</td><td align="left" rowspan="1" colspan="1">0.98</td><td align="left" rowspan="1" colspan="1">0.95</td><td align="left" rowspan="1" colspan="1">0.95</td></tr><tr><td align="left" rowspan="1" colspan="1">Gleerup, et al. (a)</td><td align="left" rowspan="1" colspan="1">2021</td><td align="left" rowspan="1" colspan="1">Lactoferrin and total protein</td><td align="left" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">NS</td><td align="left" rowspan="1" colspan="1">NS</td><td align="left" rowspan="1" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Gleerup, et al. (b)</td><td align="left" rowspan="1" colspan="1">2021</td><td align="left" rowspan="1" colspan="1">Total protein and NfL</td><td align="left" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">NS</td><td align="left" rowspan="1" colspan="1">NS</td><td align="left" rowspan="1" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">González‐Sánchez et al.</td><td align="left" rowspan="1" colspan="1">2020</td><td align="left" rowspan="1" colspan="1">Lactoferrin</td><td align="left" rowspan="1" colspan="1">Lactoferrin</td><td align="left" rowspan="1" colspan="1">0.93</td><td align="left" rowspan="1" colspan="1">0.87</td><td align="left" rowspan="1" colspan="1">0.92</td></tr><tr><td align="left" rowspan="1" colspan="1">Katsipis et al.</td><td align="left" rowspan="1" colspan="1">2021</td><td align="left" rowspan="1" colspan="1">Aβ42, GFAP, p‐tau, IL‐1β, IL‐6, TNF‐α, caspase‐8, and COX‐2</td><td align="left" rowspan="1" colspan="1">GFAP (Dot Blot)</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">0.85</td><td align="left" rowspan="1" colspan="1">0.75</td></tr><tr><td align="left" rowspan="1" colspan="1">McNicholas et al.</td><td align="left" rowspan="1" colspan="1">2022</td><td align="left" rowspan="1" colspan="1">CST‐C, IL‐1RN, SFN, MMP‐9, and HP</td><td align="left" rowspan="1" colspan="1">Panel: CST‐C, IL‐1RN, MMP‐9, total protein</td><td align="left" rowspan="1" colspan="1">0.97</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">Pekeles et al.</td><td align="left" rowspan="1" colspan="1">2019</td><td align="left" rowspan="1" colspan="1">p‐tau/t‐tau in different phosphorylation sites (T181, S396, S404, S400, T403, T404)</td><td align="left" rowspan="1" colspan="1">p‐tau/t‐tau (S396 site)</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">0.73</td><td align="left" rowspan="1" colspan="1">0.5</td></tr><tr><td align="left" rowspan="1" colspan="1">Peña‑Bautista et al.</td><td align="left" rowspan="1" colspan="1">2020</td><td align="left" rowspan="1" colspan="1">Aspartic acid, glutamic acid, glutamine, GABA, creatine, taurine, N‐acetyl aspartate, myo‐inositol, and acetylcholine</td><td align="left" rowspan="1" colspan="1">Panel: Myo‐inositol, glutamine, creatine, and acetylcholine</td><td align="left" rowspan="1" colspan="1">0.81</td><td align="left" rowspan="1" colspan="1">0.61</td><td align="left" rowspan="1" colspan="1">0.92</td></tr><tr><td align="left" rowspan="1" colspan="1">Ralbovsky et al.</td><td align="left" rowspan="1" colspan="1">2019</td><td align="left" rowspan="1" colspan="1">Spectra</td><td align="left" rowspan="1" colspan="1">Raman Spectra</td><td align="left" rowspan="1" colspan="1">0.99</td><td align="left" rowspan="1" colspan="1">0.99</td><td align="left" rowspan="1" colspan="1">0.99</td></tr><tr><td align="left" rowspan="1" colspan="1">Ryu et al.</td><td align="left" rowspan="1" colspan="1">2023</td><td align="left" rowspan="1" colspan="1">miRNA‐485‐3p</td><td align="left" rowspan="1" colspan="1">miRNA‐485‐3p</td><td align="left" rowspan="1" colspan="1">0.89</td><td align="left" rowspan="1" colspan="1">0.74</td><td align="left" rowspan="1" colspan="1">0.92</td></tr><tr><td align="left" rowspan="1" colspan="1">Sabaei et al.</td><td align="left" rowspan="1" colspan="1">2023</td><td align="left" rowspan="1" colspan="1">Aβ42 and p‐tau</td><td align="left" rowspan="1" colspan="1">Aβ42</td><td align="left" rowspan="1" colspan="1">0.81</td><td align="left" rowspan="1" colspan="1">0.62</td><td align="left" rowspan="1" colspan="1">0.91</td></tr><tr><td align="left" rowspan="1" colspan="1">Tvarijonaviciute et al.</td><td align="left" rowspan="1" colspan="1">2020</td><td align="left" rowspan="1" colspan="1">Aβ42, Aβ40, t‐tau, p‐tau, FRAP, ADA, ChE, Hp, CRP, PEDF, SAP, MIP‐4, CC4, and α1‐antitrypsin</td><td align="left" rowspan="1" colspan="1">None</td><td align="left" rowspan="1" colspan="1">NS</td><td align="left" rowspan="1" colspan="1">NS</td><td align="left" rowspan="1" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Zalewska et al.</td><td align="left" rowspan="1" colspan="1">2021</td><td align="left" rowspan="1" colspan="1">Lactoferrin, oxidative stress index, advanced glycation end products, Aβ cross‐structure, and IL‐1β</td><td align="left" rowspan="1" colspan="1">Oxidative stress index</td><td align="left" rowspan="1" colspan="1">0.94</td><td align="left" rowspan="1" colspan="1">0.90</td><td align="left" rowspan="1" colspan="1">0.92</td></tr></tbody></table><table-wrap-foot><fn id="alz71248-tbl2-note-0001"><p>Abbreviations: Aβ: amyloid beta; AD: Alzheimer's disease; ADA: adenosine deaminase; Che: cholinesterase; COX‐2: cyclooxygenase 2; CRP: plasma C‐reactive protein; CST‐C: cystatin‐C; C4: complement C4; FRAP: ferric reducing ability of plasma; GFAP: glial fibrillary acidic protein; Hp: haptoglobin; IL‐1RN: interleukin‐1 receptor antagonist protein; IL‐6: interleukin 6; MMP‐9: matrix metalloproteinase 9; MIP‐4: macrophage inflammatory protein‐4; NA: not available; NfL: neurofilament light chain; NS: not significant; PEDF: pigment epithelium derived protein; SAP: salivary amyloid A; SFN: Stratifin; TNF‐α: Tumor necrosis factor‐alpha.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Regarding the diagnostic performance of different salivary biomarkers in studies retrieved, the results varied substantially. The AUC at or above 0.99 was reported in three salivary markers (glial fibrillary acidic protein [GFAP], Raman spectra, and Lactoferrin) in distinguishing CU from AD (Table <xref rid="alz71248-tbl-0002" ref-type="table">2</xref>).<xref rid="alz71248-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71248-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="alz71248-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> The other five studies did not demonstrate a statistically significant difference in differentiated AD by the salivary markers (Table <xref rid="alz71248-tbl-0002" ref-type="table">2</xref>).<xref rid="alz71248-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz71248-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz71248-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="alz71248-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="alz71248-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Divergent findings were reported for Aβ42, Lactoferrin, and p‐tau (Table <xref rid="alz71248-tbl-0002" ref-type="table">2</xref>).<xref rid="alz71248-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="alz71248-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Meta‐analysis was not possible due to incomplete diagnostic performance data (i.e., lack of AUC, sensitivity, or specificity) or an insufficient number of studies for other markers (Sup. Table <xref rid="alz71248-supinfo-0001" ref-type="">4</xref>).</p><p>We also evaluated the diagnostic accuracy of salivary markers in distinguishing MCI from other groups (CU and AD), which yielded inconsistent findings. One study reported that salivary lactoferrin levels were higher in CU individuals than in those with MCI, whereas levels were similar between MCI‐PET+ and AD patients.<xref rid="alz71248-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> Other markers were found to be altered in individual studies—specifically salivary GFAP,<xref rid="alz71248-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> stratifin [36], and Raman spectra.<xref rid="alz71248-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Conversely, three studies reported no significant differences between the CU and MCI groups.<xref rid="alz71248-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz71248-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71248-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+</p><p>To evaluate the potential sources of variability, we assessed pre‐analytical procedures parameters in each study (Figure <xref rid="alz71248-fig-0002" ref-type="fig">2</xref>). Most studies (15, 83.3%) reported providing prior orientation to sample collection, such as refraining from smoking, cleaning teeth, eating or drinking, following a specific diet before sample collection, rinsing mouth with water before collection, or fasting<xref rid="alz71248-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz71248-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz71248-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71248-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz71248-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="alz71248-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="alz71248-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="alz71248-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="alz71248-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="alz71248-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="alz71248-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> (Table <xref rid="alz71248-tbl-0003" ref-type="table">3</xref>). Regarding the specification of tubes, five studies (27.7%) used polypropylene tubes without any solution, four (22.2%) used polypropylene with sodium azide solution, one used an RNA Pro‐SAL kit, one study used an absorbent pad, one used a phosphate‐buffered saline (PBS) solution, one used a preweighed sterile plastic container, and five did not specify the recipient material. Regarding the time of collection, 12 studies (66.6%) reported having conducted the collection at a predefined time, comprising 6 studies collecting saliva in the morning, 3 in the afternoon, and three studies collecting saliva in the morning/noon. There were 14 different centrifugation methods reported (Table <xref rid="alz71248-tbl-0003" ref-type="table">3</xref>), with only three using the same parameters (600 g, 10 min, at 4°C), and one did not centrifugate.<xref rid="alz71248-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> The most frequent method of collection was unstimulated saliva (12, 66.6%), whereas 3 (16.7%) studies used a stimulated method, 1 (5.6%) used both stimulated and unstimulated methods, and 2 studies did not report the method of saliva collection.<xref rid="alz71248-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="alz71248-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Only nine studies (52.9%) reported that samples were placed on ice immediately after sample collection. Sixteen studies (88.9%) reported storing samples at –80°C (16 studies), one study (5.6%) used a storage temperature of –20°C, and one (5.6%) did not report the storage method. Only one study specified the salivary glands collected.<xref rid="alz71248-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+</p><fig position="float" fig-type="FIGURE" id="alz71248-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>(A) Pre‐analytical procedures evaluated in the included studies, including prior orientation, recipient material, time of collection, centrifugation protocols, method of collection, and storage. (B) Analytical methods used to evaluate salivary biomarkers in studies included in this review. Percentages are shown regarding the total number of studies included (<italic toggle="yes">n</italic> = 18).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-22-e71248-g002.jpg"/></fig><table-wrap position="float" id="alz71248-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Preanalytical and analytical procedures of salivary biomarkers included in this review.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Author</th><th align="left" rowspan="1" colspan="1">Year</th><th align="left" rowspan="1" colspan="1">
+<p>Prior</p>
+<p>orientation</p>
+</th><th align="left" rowspan="1" colspan="1">Time of collection</th><th align="left" rowspan="1" colspan="1">Method of collection</th><th align="left" rowspan="1" colspan="1">
+<p>Recipient</p>
+<p>materials</p>
+</th><th align="left" rowspan="1" colspan="1">Centrifugation</th><th align="left" rowspan="1" colspan="1">Method of analysis</th><th align="left" rowspan="1" colspan="1">
+<p>Best AUC</p>
+<p>reported</p>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Ashton et al.</td><td align="left" rowspan="1" colspan="1">2018</td><td align="left" rowspan="1" colspan="1">Overnight fasting, mouth rinse</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">Unstimulated</td><td align="left" rowspan="1" colspan="1">Preweighed sterile plastic 30 mL containers</td><td align="left" rowspan="1" colspan="1">10 min (500 <italic toggle="yes">g</italic> at 4°C)</td><td align="left" rowspan="1" colspan="1">Simoa</td><td align="left" rowspan="1" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Bermejo‐Pareja et al.</td><td align="left" rowspan="1" colspan="1">2010</td><td align="left" rowspan="1" colspan="1">4 h fasting</td><td align="left" rowspan="1" colspan="1">Afternoon</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">2% sodium azide solution in polypropylene</td><td align="left" rowspan="1" colspan="1">
+<p>5 min</p>
+<p>(1500 rpm)</p>
+</td><td align="left" rowspan="1" colspan="1">ELISA</td><td align="left" rowspan="1" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Boschi et al.</td><td align="left" rowspan="1" colspan="1">2022</td><td align="left" rowspan="1" colspan="1">8 h fasting, mouth rinse</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">Unstimulated</td><td align="left" rowspan="1" colspan="1">10 µL of thioflavin S and 2 µL of sodium azide in polypropylene</td><td align="left" rowspan="1" colspan="1">10 min (600 <italic toggle="yes">g</italic> at 4°C)</td><td align="left" rowspan="1" colspan="1">ELISA</td><td align="left" rowspan="1" colspan="1">0.81</td></tr><tr><td align="left" rowspan="1" colspan="1">Carro et al.</td><td align="left" rowspan="1" colspan="1">2017</td><td align="left" rowspan="1" colspan="1">4 h fasting</td><td align="left" rowspan="1" colspan="1">Afternoon</td><td align="left" rowspan="1" colspan="1">Unstimulated</td><td align="left" rowspan="1" colspan="1">2% sodium azide solution in polypropylene</td><td align="left" rowspan="1" colspan="1">10 min (600 <italic toggle="yes">g</italic> at 4°C)</td><td align="left" rowspan="1" colspan="1">ELISA</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">Cui et al.</td><td align="left" rowspan="1" colspan="1">2022</td><td align="left" rowspan="1" colspan="1">30 min fasting (smoking included), mouth rinse</td><td align="left" rowspan="1" colspan="1">Morning</td><td align="left" rowspan="1" colspan="1">Unstimulated and stimulated (Citric acid)</td><td align="left" rowspan="1" colspan="1">Polypropylene without solution</td><td align="left" rowspan="1" colspan="1">15 min (1000 <italic toggle="yes">g</italic> at 4°C)</td><td align="left" rowspan="1" colspan="1">ELISA</td><td align="left" rowspan="1" colspan="1">0.92</td></tr><tr><td align="left" rowspan="1" colspan="1">François et al.</td><td align="left" rowspan="1" colspan="1">2024</td><td align="left" rowspan="1" colspan="1">None (2 h fasting reported, not oriented)</td><td align="left" rowspan="1" colspan="1">Noon and Morning</td><td align="left" rowspan="1" colspan="1">Unstimulated</td><td align="left" rowspan="1" colspan="1">RNA Pro‐SAL kit</td><td align="left" rowspan="1" colspan="1">15 min (14,000 <italic toggle="yes">g</italic>)</td><td align="left" rowspan="1" colspan="1">GC‐MS and MS/MS</td><td align="left" rowspan="1" colspan="1">0.98</td></tr><tr><td align="left" rowspan="1" colspan="1">Gleerup et al. (a)</td><td align="left" rowspan="1" colspan="1">2021</td><td align="left" rowspan="1" colspan="1">30 min fasting, mouth rinse</td><td align="left" rowspan="1" colspan="1">Noon and Morning</td><td align="left" rowspan="1" colspan="1">Unstimulated</td><td align="left" rowspan="1" colspan="1">15 mL polypropylene without solution</td><td align="left" rowspan="1" colspan="1">10 min (2000 rpm at 4°C)</td><td align="left" rowspan="1" colspan="1">ELISA</td><td align="left" rowspan="1" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Gleerup et al. (b)</td><td align="left" rowspan="1" colspan="1">2021</td><td align="left" rowspan="1" colspan="1">Mouth rinse</td><td align="left" rowspan="1" colspan="1">Noon and Morning</td><td align="left" rowspan="1" colspan="1">Unstimulated</td><td align="left" rowspan="1" colspan="1">15 mL polypropylene without solution</td><td align="left" rowspan="1" colspan="1">10 min (2000 <italic toggle="yes">g</italic> at 4°C)</td><td align="left" rowspan="1" colspan="1">Simoa</td><td align="left" rowspan="1" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">González‐Sánchez et al.</td><td align="left" rowspan="1" colspan="1">2020</td><td align="left" rowspan="1" colspan="1">4 h fasting</td><td align="left" rowspan="1" colspan="1">Afternoon</td><td align="left" rowspan="1" colspan="1">Unstimulated</td><td align="left" rowspan="1" colspan="1">2% sodium azide solution pre‐coated sterile plastic tube in polypropylene</td><td align="left" rowspan="1" colspan="1">10 min (600 <italic toggle="yes">g</italic> at 4°C)</td><td align="left" rowspan="1" colspan="1">ELISA</td><td align="left" rowspan="1" colspan="1">0.93</td></tr><tr><td align="left" rowspan="1" colspan="1">Katsipis et al.</td><td align="left" rowspan="1" colspan="1">2021</td><td align="left" rowspan="1" colspan="1">Mouth rinse</td><td align="left" rowspan="1" colspan="1">Morning</td><td align="left" rowspan="1" colspan="1">Unstimulated</td><td align="left" rowspan="1" colspan="1">Unspecified</td><td align="left" rowspan="1" colspan="1">15 min (13,500 rpm)</td><td align="left" rowspan="1" colspan="1">ELISA, Dot Blot, electrophoresis, and western blot</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">McNicholas et al.</td><td align="left" rowspan="1" colspan="1">2022</td><td align="left" rowspan="1" colspan="1">Avoid eating and drinking before saliva (unspecified time)</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">Unstimulated</td><td align="left" rowspan="1" colspan="1">Absorbent pad</td><td align="left" rowspan="1" colspan="1">Not centrifuged</td><td align="left" rowspan="1" colspan="1">Bradford, BSA, ELISA, and LC‐MS using Orbitrap Fusion MS</td><td align="left" rowspan="1" colspan="1">0.97</td></tr><tr><td align="left" rowspan="1" colspan="1">Pekeles et al.</td><td align="left" rowspan="1" colspan="1">2019</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">Morning</td><td align="left" rowspan="1" colspan="1">Unstimulated</td><td align="left" rowspan="1" colspan="1">50 mL polypropylene without solution</td><td align="left" rowspan="1" colspan="1">10 min (5000 rpm or 10,000 rpm at 4°C)</td><td align="left" rowspan="1" colspan="1">ELISA</td><td align="left" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" rowspan="1" colspan="1">Peña‑Bautista et al.</td><td align="left" rowspan="1" colspan="1">2020</td><td align="left" rowspan="1" colspan="1">Mouth rinse, 30‐min after breakfast</td><td align="left" rowspan="1" colspan="1">Morning</td><td align="left" rowspan="1" colspan="1">Unstimulated</td><td align="left" rowspan="1" colspan="1">Unspecified</td><td align="left" rowspan="1" colspan="1">5 min (1200 <italic toggle="yes">g</italic> at 4°C)</td><td align="left" rowspan="1" colspan="1">UPLC‐MS</td><td align="left" rowspan="1" colspan="1">0.81</td></tr><tr><td align="left" rowspan="1" colspan="1">Ralbovsky et al.</td><td align="left" rowspan="1" colspan="1">2019</td><td align="left" rowspan="1" colspan="1">1 h fasting (12h for alcohol)</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">Unspecified</td><td align="left" rowspan="1" colspan="1">10 min (10,000 rpm)</td><td align="left" rowspan="1" colspan="1">Raman hyperspectroscopy</td><td align="left" rowspan="1" colspan="1">0.99</td></tr><tr><td align="left" rowspan="1" colspan="1">Ryu et al.</td><td align="left" rowspan="1" colspan="1">2023</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">Stimulated (Oral swabs)</td><td align="left" rowspan="1" colspan="1">1 mL of phosphate‐buffered saline in polypropylene</td><td align="left" rowspan="1" colspan="1">10 min (12,000 <italic toggle="yes">g</italic> at 4°C)</td><td align="left" rowspan="1" colspan="1">Real‐time PCR analysis of miRNA‐485‐3p</td><td align="left" rowspan="1" colspan="1">0.89</td></tr><tr><td align="left" rowspan="1" colspan="1">Sabaei et al.</td><td align="left" rowspan="1" colspan="1">2023</td><td align="left" rowspan="1" colspan="1">5‐day low‐protein diet, 4 h fasting, oral hygiene</td><td align="left" rowspan="1" colspan="1">NA</td><td align="left" rowspan="1" colspan="1">Stimulated (Moist rolls)</td><td align="left" rowspan="1" colspan="1">Unspecified</td><td align="left" rowspan="1" colspan="1">
+<p>5 min</p>
+<p>(1500 rpm)</p>
+</td><td align="left" rowspan="1" colspan="1">ELISA</td><td align="left" rowspan="1" colspan="1">0.81</td></tr><tr><td align="left" rowspan="1" colspan="1">Tvarijonaviciute et al.</td><td align="left" rowspan="1" colspan="1">2020</td><td align="left" rowspan="1" colspan="1">2 h fasting</td><td align="left" rowspan="1" colspan="1">Morning</td><td align="left" rowspan="1" colspan="1">Unstimulated</td><td align="left" rowspan="1" colspan="1">Polypropylene without solution</td><td align="left" rowspan="1" colspan="1">10 min (3000 <italic toggle="yes">g</italic> at 4°C)</td><td align="left" rowspan="1" colspan="1">MILLIPLEX MAP Human Amyloid Beta and Tau Magnetic Bead Panel</td><td align="left" rowspan="1" colspan="1">NS</td></tr><tr><td align="left" rowspan="1" colspan="1">Zalewska et al.</td><td align="left" rowspan="1" colspan="1">2021</td><td align="left" rowspan="1" colspan="1">Unspecified fasting and oral hygiene</td><td align="left" rowspan="1" colspan="1">Morning</td><td align="left" rowspan="1" colspan="1">Stimulated (Citric acid)</td><td align="left" rowspan="1" colspan="1">Unspecified</td><td align="left" rowspan="1" colspan="1">20 min (5000 <italic toggle="yes">g</italic> at 4°C)</td><td align="left" rowspan="1" colspan="1">ELISA, Colorimetric, spectrofluorimetric, spectrophotometric methods, thioflavin T fluorescence</td><td align="left" rowspan="1" colspan="1">0.94</td></tr></tbody></table><table-wrap-foot><fn id="alz71248-tbl3-note-0001"><p>Abbreviations: ELISA, enzyme‐linked immunosorbent assay; NA, not available; NS, not significant.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Among analytical procedures, enzyme‐linked immunosorbent assay (ELISA) prevailed in 11 studies (64.7%), with 8 using only ELISA and 3 using ELISA associated with other methods, such as blotting<xref rid="alz71248-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> and proteomic platforms.<xref rid="alz71248-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="alz71248-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> Two studies (11.7%) used single molecule array (Simoa), three (16.6%) used proteomic platforms with mass spectrometry associated with other methods, and two studies (11.7%) used other methods, including Raman spectrometry <xref rid="alz71248-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> and real‐time polymerase chain reaction (PCR).<xref rid="alz71248-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+</p></sec><sec id="alz71248-sec-0080"><label>4</label><title>DISCUSSION</title><p>This systematic review evaluated the diagnostic performance of salivary biomarkers of AD and investigated potential sources of heterogeneity in pre‐analytical and analytical properties. Salivary Lactoferrin and Aβ42 reportedly distinguished CU from AD groups. Previous meta‐analyses analyzing that salivary Lactoferrin and Aβ42 reported sufficient diagnostic performance, though not evaluating pre‐analytical properties.<xref rid="alz71248-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="alz71248-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+</p><p>Pre‐analytical properties varied widely across studies. More specifically, we identified a considerable variability in sample collection and processing: (1) fasting before the saliva sampling seems to increase diagnostic accuracy<xref rid="alz71248-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="alz71248-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz71248-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="alz71248-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="alz71248-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>; (2) unstimulated saliva was also associated with high diagnostic properties<xref rid="alz71248-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71248-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz71248-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>; and (3) storage at −80°C was reported by most of the studies presenting with high diagnostic performance.<xref rid="alz71248-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz71248-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71248-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="alz71248-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="alz71248-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz71248-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz71248-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="alz71248-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="alz71248-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="alz71248-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="alz71248-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="alz71248-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="alz71248-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="alz71248-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="alz71248-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="alz71248-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> By contrast, the time of collection, recipient material, and centrifugation procedures seem to not be associated with the diagnostic performance. It is important to mention that low‐binding tubes were not reported or not used by the studies included in this review, although they reportedly impact amyloid levels.<xref rid="alz71248-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> The five studies that failed to distinguish AD from CU presented pre‐analytical discrepancies: more specifically, one study with Lactoferrin (stimulated collection), one study with Aβ42 (non‐fasting), one study with t‐tau (500 g at 4°C centrifugation), and one study with neurofilament light (NfL; non‐fasting).<xref rid="alz71248-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz71248-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz71248-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="alz71248-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="alz71248-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Overall, our findings suggest that the diagnostic performance of salivary biomarkers is highly influenced by pre‐analytical procedures, descriptively prior orientation, time of collection, recipient material, and centrifugation methods. Indeed, variability in pre‐analytical procedures has been cited consistently as a major source of bias in AD biomarker research.<xref rid="alz71248-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz71248-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="alz71248-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> Especially analytes in extremely low concentrations are vulnerable to pre‐analytical variations, as is the case for some salivary biomarkers, such as GFAP and p‐tau species.<xref rid="alz71248-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> Without rigorous standardization, variability in results will likely continue to hinder research progress, limiting the development of reliable salivary biomarkers for AD and other neurological conditions.</p><p>Regarding analytical methods conducted to identify the salivary levels of biomarkers of AD, a wide range of techniques were employed. More specifically, good accuracy was reported in different analytical methods such as enzyme‐linked immunosorbent assay (ELISA),<xref rid="alz71248-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71248-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="alz71248-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="alz71248-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="alz71248-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> mass spectrometry,<xref rid="alz71248-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="alz71248-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> and hyperspectroscopy.<xref rid="alz71248-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Of interest, studies using an ultrasensitive platform to identify salivary levels of t‐tau,<xref rid="alz71248-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> p‐tau, and NfL<xref rid="alz71248-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> did not demonstrate statistically significant results in distinguishing CU from AD groups. It is important to note that salivary markers had inconsistent diagnostic properties in distinguishing CU from MCI. One can suggest that t‐tau is not a good marker and that results with p‐tau or NfL have been influenced by lack of test validation in saliva. Another potential explanation is the reduced test accuracy in methods previously described.<xref rid="alz71248-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="alz71248-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> Because we are dealing with low‐level analytes, future studies should focus on the diagnostic properties of salivary biomarkers with ultrasensitive technologies. Confounding factors should also be acknowledged when interpreting salivary biomarkers, such as alcohol use and the presence of Down syndrome in salivary levels of Lactoferrin.<xref rid="alz71248-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="alz71248-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+</p><p>Finally, a guideline for standardization of pre‐analytical variables for salivary biomarkers of AD was published by a Salivary Biomarkers for Dementia Research Working Group and is an important first step toward pre‐analytical and analytical harmonization.<xref rid="alz71248-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> The implementation of the protocol of salivary collection for evaluating biomarkers of AD is essential to advance the investigation of its diagnostic performance but difficult to optimize without a high‐performing biomarker to use as a reference. For example, self‐guided sampling introduces uncontrolled pre‐analytical variability, and differences between stimulated and unstimulated saliva further complicate standardization. Optimal collection of saliva was proposed for sampling, storage, and analysis. It is intriguingly that none of the included studies would fit the full proposed protocol, which recommends (1) 2500 x <italic toggle="yes">g</italic> at 4°C for 15 min centrifugation; (2) fasting and mouth rinse prior to collection orientation; and (3) to not use cotton material for saliva sampling. These findings highlight that variability in diagnostic performance may possibly be due to a number of different pre‐analytical procedures reported.</p><p>Despite our efforts to review and integrate the data from various studies, significant limitations were identified. The methodological heterogeneity among studies challenged the study, and we may have selected only studies that reported positive results with AUC values. Although diagnostic criteria were an inclusion criterion, the diagnosis of AD has changed substantially over time, and diagnostic heterogeneity is also a possibility. Biomarkers of AD tested were used largely for blood or CSF, but validation for saliva was not reported. Sample size should also be considered when evaluating salivary biomarkers, although we tried to mitigate this issue by including only studies with ten or more individuals per group. Furthermore, the underrepresentation of low‐ and middle‐income countries in salivary biomarker research limits the generalization of these findings, particularly with respect to their global applicability.</p><p>In conclusion, pre‐analytical and analytical heterogeneity of studies on AD salivary biomarkers presents a major challenge to drawing definitive conclusions about the clinical utility of salivary markers. The variability in sample collection and processing methods, and the diverse analytical techniques employed, entangles biomarker comparisons and underscores the need for implementation of standardized operating procedures. Future research should focus on developing and adopting these standardized methods to provide consistent and robust evidence for the potential of salivary biomarkers in AD diagnosis.</p></sec><sec sec-type="COI-statement" id="alz71248-sec-0100"><title>CONFLICT OF INTEREST STATEMENT</title><p>W.V.B. has served on the scientific advisory board of Masima, and he is also a co‐founder and minority shareholder. E.R.Z. has served on the scientific advisory boards of Nintx, Novo Nordisk, and Masima. He is also a co‐founder and a minority shareholder at Masima. P.V.B., L.M., G.C.‐C., P.C.L.F., A.M.D.L.L., B.B., T.A.P., A.B., and N.J.A. do not have anything to disclose. Any author disclosures are available in the <xref rid="alz71248-supinfo-0001" ref-type="">supporting information</xref>.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz71248-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz71248-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71248-s001.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71248-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71248-s002.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz71248-sec-0090"><title>ACKNOWLEDGMENTS</title><p>W.V.B. receives financial support from the Alzheimer's Association [AACSFD‐22‐928689]. E.R.Z. receives financial support from CNPq [312410/2018‐2; 435642/2018‐9; 312306/2021‐0; 409066/2022‐2], ARD/FAPERGS [21/2551‐0000673‐0], Alzheimer's Association [AARGD‐21‐850670], CNPQ/FAPERGS/PRONEX [16/2551‐0000475‐7], the Brazilian National Institute of Science and Technology in Excitotoxicity and Neuroprotection [465671/2014‐4], Instituto Serrapilheira [Serra‐1912‐31365], and Alzheimer's Association and National Academy of Neuropsychology [ALZ‐NAN‐22‐928381]. G.C.‐C. has received funding from the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) [88887.687008/2022‐00]. T.A.P. is supported by the National Institute on Aging (NIA) (5R01AG075336, 5R01AG073267). B.B. is supported by the Alzheimer's Association (AARFD‐22‐974627).</p></ack><ref-list id="alz71248-bibl-0001"><title>REFERENCES</title><ref id="alz71248-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz71248-cite-0002">
+<collab collab-type="authors">GBD 2019 Diseases and Injuries Collaborators</collab>
+. <article-title>Global burden of 369 diseases and injuries in 204 countries and territories, 1990‐2019: a systematic analysis for the global burden of disease study 2019</article-title>. <source>Lancet</source>. <year>2020</year>;<volume>396</volume>(<issue>10258</issue>):<fpage>1204</fpage>–<lpage>1222</lpage>.<pub-id pub-id-type="pmid">33069326</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(20)30925-9</pub-id><pub-id pub-id-type="pmcid">PMC7567026</pub-id></mixed-citation></ref><ref id="alz71248-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz71248-cite-0003">
+<string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, et al. <article-title>Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's Association Workgroup</article-title>. <source>Alzheimers Dement</source>. <year>2024</year>;<volume>20</volume>(<issue>8</issue>):<fpage>5143</fpage>–<lpage>5169</lpage>.<pub-id pub-id-type="pmid">38934362</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.13859</pub-id><pub-id pub-id-type="pmcid">PMC11350039</pub-id></mixed-citation></ref><ref id="alz71248-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz71248-cite-0004">
+<string-name name-style="western">
+<surname>Nandi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Counts</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bröker</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Cost of care for Alzheimer's disease and related dementias in the United States: 2016 to 2060</article-title>. <source>NPJ Aging</source>. <year>2024</year>;<volume>10</volume>(<issue>1</issue>):<fpage>13</fpage>.<pub-id pub-id-type="pmid">38331952</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41514-024-00136-6</pub-id><pub-id pub-id-type="pmcid">PMC10853249</pub-id></mixed-citation></ref><ref id="alz71248-bib-0004"><label>4</label><mixed-citation publication-type="book" id="alz71248-cite-0005">
+<collab collab-type="authors">FDA</collab>
+. <article-title>FDA clears first blood test used in diagnosing Alzheimer's disease</article-title>. <publisher-name>FDA news release</publisher-name>.</mixed-citation></ref><ref id="alz71248-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz71248-cite-0006">
+<string-name name-style="western">
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brum</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Di Molfetta</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Diagnostic accuracy of a plasma phosphorylated tau 217 immunoassay for Alzheimer disease pathology</article-title>. <source>JAMA Neurol</source>. <year>2024</year>;<volume>81</volume>(<issue>3</issue>):<fpage>255</fpage>–<lpage>263</lpage>.<pub-id pub-id-type="pmid">38252443</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaneurol.2023.5319</pub-id><pub-id pub-id-type="pmcid">PMC10804282</pub-id></mixed-citation></ref><ref id="alz71248-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz71248-cite-0007">
+<string-name name-style="western">
+<surname>Palmqvist</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tideman</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mattsson‐Carlgren</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Blood biomarkers to detect Alzheimer disease in primary care and secondary care</article-title>. <source>JAMA</source>. <year>2024</year>;<volume>332</volume>(<issue>15</issue>):<fpage>1245</fpage>–<lpage>1257</lpage>.<pub-id pub-id-type="pmid">39068545</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2024.13855</pub-id><pub-id pub-id-type="pmcid">PMC11284636</pub-id></mixed-citation></ref><ref id="alz71248-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz71248-cite-0008">
+<string-name name-style="western">
+<surname>Santos</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mattos</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pinheiro</surname>
+<given-names>TL</given-names>
+</string-name>, et al. <article-title>Performance of plasma biomarkers for diagnosis and prediction of dementia in a Brazilian cohort</article-title>. <source>Nat Commun</source>. <year>2025</year>;<volume>16</volume>(<issue>1</issue>):<fpage>2911</fpage>.<pub-id pub-id-type="pmid">40133253</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-025-56756-3</pub-id><pub-id pub-id-type="pmcid">PMC11937383</pub-id></mixed-citation></ref><ref id="alz71248-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="alz71248-cite-0009">
+<string-name name-style="western">
+<surname>Borelli</surname>
+<given-names>WV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>PCL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brum</surname>
+<given-names>WS</given-names>
+</string-name>, et al. <article-title>Diagnostic performance of Alzheimer's disease blood biomarkers in a Brazilian cohort. <italic toggle="yes">medRxiv</italic>. Published online February 24, 2025</article-title>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41380-025-03192-w</pub-id><pub-id pub-id-type="pmid">40921793</pub-id></mixed-citation></ref><ref id="alz71248-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz71248-cite-0010">
+<string-name name-style="western">
+<surname>Goldoni</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dolci</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boccalari</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Salivary biomarkers of neurodegenerative and demyelinating diseases and biosensors for their detection</article-title>. <source>Ageing Res Rev</source>. <year>2022</year>;<volume>76</volume>:<elocation-id>101587</elocation-id>.<pub-id pub-id-type="pmid">35151849</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.arr.2022.101587</pub-id></mixed-citation></ref><ref id="alz71248-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz71248-cite-0011">
+<string-name name-style="western">
+<surname>O'Sullivan</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dowling</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swandulla</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ohlendieck</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Proteomic identification of saliva proteins as noninvasive diagnostic biomarkers</article-title>. <source>Methods Mol Biol</source>. <year>2023</year>;<volume>2596</volume>:<fpage>147</fpage>–<lpage>167</lpage>.<pub-id pub-id-type="pmid">36378438</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-1-0716-2831-7_12</pub-id></mixed-citation></ref><ref id="alz71248-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz71248-cite-0012">
+<string-name name-style="western">
+<surname>Rodríguez‐Molinero</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Carmen Migueláñez‐Medrán</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delgado‐Somolinos</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carreras‐Presas</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>López‐Sánchez</surname>
+<given-names>AF</given-names>
+</string-name>. <article-title>Advances in the diagnosis, monitoring, and progression of oral cancer through saliva: an update</article-title>. <source>Biomed Res Int</source>. <year>2022</year>;<volume>2022</volume>:<elocation-id>2739869</elocation-id>.<pub-id pub-id-type="pmid">36330456</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2022/2739869</pub-id><pub-id pub-id-type="pmcid">PMC9626200</pub-id></mixed-citation></ref><ref id="alz71248-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz71248-cite-0013">
+<string-name name-style="western">
+<surname>Kar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramakrishnan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saha</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rao</surname>
+<given-names>VUS</given-names>
+</string-name>. <article-title>The tell‐tale oral fluid: salivary diagnostics take a turn</article-title>. <source>J Oral Med Oral Surg</source>. <year>2021</year>;<volume>27</volume>(<issue>1</issue>):<fpage>1</fpage>.</mixed-citation></ref><ref id="alz71248-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz71248-cite-0014">
+<string-name name-style="western">
+<surname>Agnello</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giglio</surname>
+<given-names>RV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Ben</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Evaluation of core biomarkers of Alzheimer's disease in saliva and plasma measured by chemiluminescent enzyme immunoassays on a fully automated platform</article-title>. <source>Sci Rep</source>. <year>2024</year>;<volume>14</volume>(<issue>1</issue>):<elocation-id>16084</elocation-id>.<pub-id pub-id-type="pmid">38992063</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-024-66923-z</pub-id><pub-id pub-id-type="pmcid">PMC11239824</pub-id></mixed-citation></ref><ref id="alz71248-bib-0014"><label>14</label><mixed-citation publication-type="miscellaneous" id="alz71248-cite-0015">
+<string-name name-style="western">
+<surname>Borelli</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Machado</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Diagnostic performance of salivary biomarkers in Alzheimer´s disease: a systematic review. Published online November 10, 2024</article-title>.</mixed-citation></ref><ref id="alz71248-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz71248-cite-0016">
+<string-name name-style="western">
+<surname>McKhann</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drachman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Folstein</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katzman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Price</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stadlan</surname>
+<given-names>EM</given-names>
+</string-name>. <article-title>Clinical diagnosis of Alzheimer's disease: report of the NINCDS‐ADRDA Work Group under the auspices of Department of Health and Human Services Task Force on Alzheimer's disease</article-title>. <source>Neurology</source>. <year>1984</year>;<volume>34</volume>(<issue>7</issue>):<fpage>939</fpage>–<lpage>944</lpage>.<pub-id pub-id-type="pmid">6610841</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.34.7.939</pub-id></mixed-citation></ref><ref id="alz71248-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz71248-cite-0017">
+<string-name name-style="western">
+<surname>McKhann</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knopman</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chertkow</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>The diagnosis of dementia due to Alzheimer's disease: recommendations from the National Institute on Aging‐Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2011</year>;<volume>7</volume>(<issue>3</issue>):<fpage>263</fpage>–<lpage>269</lpage>.<pub-id pub-id-type="pmid">21514250</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2011.03.005</pub-id><pub-id pub-id-type="pmcid">PMC3312024</pub-id></mixed-citation></ref><ref id="alz71248-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz71248-cite-0018">
+<string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Bennett</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>NIA‐AA research framework: toward a biological definition of Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2018</year>;<volume>14</volume>(<issue>4</issue>):<fpage>535</fpage>–<lpage>562</lpage>.<pub-id pub-id-type="pmid">29653606</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2018.02.018</pub-id><pub-id pub-id-type="pmcid">PMC5958625</pub-id></mixed-citation></ref><ref id="alz71248-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz71248-cite-0019">
+<string-name name-style="western">
+<surname>Dubois</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feldman</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jacova</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Advancing research diagnostic criteria for Alzheimer's disease: the IWG‐2 criteria</article-title>. <source>Lancet Neurol</source>. <year>2014</year>;<volume>13</volume>(<issue>6</issue>):<fpage>614</fpage>–<lpage>629</lpage>.<pub-id pub-id-type="pmid">24849862</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1474-4422(14)70090-0</pub-id></mixed-citation></ref><ref id="alz71248-bib-0019"><label>19</label><mixed-citation publication-type="book" id="alz71248-cite-0020">
+<string-name name-style="western">
+<surname>Wells</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shea</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Connell</surname>
+<given-names>D</given-names>
+</string-name>. <source>The Newcastle‐Ottawa Scale (NOS) for assessing the quality of non‐randomized studies in meta‐analyses</source>. <publisher-name>The Ottawa Hospital Research Institute</publisher-name>. <year>2015</year>.</mixed-citation></ref><ref id="alz71248-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz71248-cite-0021">
+<string-name name-style="western">
+<surname>Gleerup</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sanna</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Høgh</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Saliva neurofilament light chain is not a diagnostic biomarker for neurodegeneration in a mixed memory clinic Population</article-title>. <source>Front Aging Neurosci</source>. <year>2021</year>;<volume>13</volume>:<elocation-id>659898</elocation-id>.<pub-id pub-id-type="pmid">34040512</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2021.659898</pub-id><pub-id pub-id-type="pmcid">PMC8141589</pub-id></mixed-citation></ref><ref id="alz71248-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz71248-cite-0022">
+<string-name name-style="western">
+<surname>Katsipis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tzekaki</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsolaki</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pantazaki</surname>
+<given-names>AA</given-names>
+</string-name>. <article-title>Salivary GFAP as a potential biomarker for diagnosis of mild cognitive impairment and Alzheimer's disease and its correlation with neuroinflammation and apoptosis</article-title>. <source>J Neuroimmunol</source>. <year>2021</year>;<volume>361</volume>(<issue>577744</issue>):<elocation-id>577744</elocation-id>.<pub-id pub-id-type="pmid">34655990</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jneuroim.2021.577744</pub-id></mixed-citation></ref><ref id="alz71248-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz71248-cite-0023">
+<string-name name-style="western">
+<surname>Ryu</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ro</surname>
+<given-names>JY</given-names>
+</string-name>, et al. <article-title>The microRNA‐485‐3p concentration in salivary exosome‐enriched extracellular vesicles is related to amyloid β deposition in the brain of patients with Alzheimer's disease</article-title>. <source>Clin Biochem</source>. <year>2023</year>;<volume>118</volume>:<elocation-id>110603</elocation-id>.<pub-id pub-id-type="pmid">37355215</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clinbiochem.2023.110603</pub-id></mixed-citation></ref><ref id="alz71248-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz71248-cite-0024">
+<string-name name-style="western">
+<surname>Peña‐Bautista</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torres‐Cuevas</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baquero</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Early neurotransmission impairment in non‐invasive Alzheimer disease detection</article-title>. <source>Sci Rep</source>. <year>2020</year>;<volume>10</volume>(<issue>1</issue>):<elocation-id>16396</elocation-id>.<pub-id pub-id-type="pmid">33009473</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-020-73362-z</pub-id><pub-id pub-id-type="pmcid">PMC7532202</pub-id></mixed-citation></ref><ref id="alz71248-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz71248-cite-0025">
+<string-name name-style="western">
+<surname>François</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pascovici</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Saliva proteome, metabolome and microbiome signatures for detection of Alzheimer's disease</article-title>. <source>Metabolites</source>. <year>2024</year>;<volume>14</volume>(<issue>12</issue>). <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.mdpi.com/2218-1989/14/12/714" ext-link-type="uri">https://www.mdpi.com/2218-1989/14/12/714</ext-link>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/metabo14120714</pub-id><pub-id pub-id-type="pmcid">PMC11677859</pub-id><pub-id pub-id-type="pmid">39728495</pub-id></mixed-citation></ref><ref id="alz71248-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz71248-cite-0026">
+<string-name name-style="western">
+<surname>Tvarijonaviciute</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zamora</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ceron</surname>
+<given-names>JJ</given-names>
+</string-name>, et al. <article-title>Salivary biomarkers in Alzheimer's disease</article-title>. <source>Clin Oral Investig</source>. <year>2020</year>;<volume>24</volume>(<issue>10</issue>):<fpage>3437</fpage>–<lpage>3444</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00784-020-03214-7</pub-id><pub-id pub-id-type="pmid">31989369</pub-id></mixed-citation></ref><ref id="alz71248-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz71248-cite-0027">
+<string-name name-style="western">
+<surname>Ralbovsky</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halámková</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wall</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anderson‐Hanley</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lednev</surname>
+<given-names>IK</given-names>
+</string-name>. <article-title>Screening for Alzheimer's disease using saliva: a new approach based on machine learning and Raman hyperspectroscopy</article-title>. <source>J Alzheimers Dis</source>. <year>2019</year>;<volume>71</volume>(<issue>4</issue>):<fpage>1351</fpage>–<lpage>1359</lpage>.<pub-id pub-id-type="pmid">31524171</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-190675</pub-id></mixed-citation></ref><ref id="alz71248-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz71248-cite-0028">
+<string-name name-style="western">
+<surname>Carro</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartolomé</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bermejo‐Pareja</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Early diagnosis of mild cognitive impairment and Alzheimer's disease based on salivary lactoferrin</article-title>. <source>Alzheimers Dement (Amst)</source>. <year>2017</year>;<volume>8</volume>:<fpage>131</fpage>–<lpage>138</lpage>.<pub-id pub-id-type="pmid">28649597</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.dadm.2017.04.002</pub-id><pub-id pub-id-type="pmcid">PMC5470603</pub-id></mixed-citation></ref><ref id="alz71248-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz71248-cite-0029">
+<string-name name-style="western">
+<surname>Bermejo‐Pareja</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Antequera</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vargas</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Molina</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carro</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Saliva levels of Abeta1‐42 as potential biomarker of Alzheimer's disease: a pilot study</article-title>. <source>BMC Neurol</source>. <year>2010</year>;<volume>10</volume>:<fpage>108</fpage>.<pub-id pub-id-type="pmid">21047401</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2377-10-108</pub-id><pub-id pub-id-type="pmcid">PMC2987856</pub-id></mixed-citation></ref><ref id="alz71248-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz71248-cite-0030">
+<string-name name-style="western">
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ide</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schöll</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>No association of salivary total tau concentration with Alzheimer's disease</article-title>. <source>Neurobiol Aging</source>. <year>2018</year>;<volume>70</volume>:<fpage>125</fpage>–<lpage>127</lpage>.<pub-id pub-id-type="pmid">30007161</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neurobiolaging.2018.06.014</pub-id></mixed-citation></ref><ref id="alz71248-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz71248-cite-0031">
+<string-name name-style="western">
+<surname>Gleerup</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jensen</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Høgh</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hasselbalch</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Simonsen</surname>
+<given-names>AH</given-names>
+</string-name>. <article-title>Lactoferrin in cerebrospinal fluid and saliva is not a diagnostic biomarker for Alzheimer's disease in a mixed memory clinic population</article-title>. <source>EBioMedicine</source>. <year>2021</year>;<volume>67</volume>:<elocation-id>103361</elocation-id>.<pub-id pub-id-type="pmid">33975253</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ebiom.2021.103361</pub-id><pub-id pub-id-type="pmcid">PMC8122152</pub-id></mixed-citation></ref><ref id="alz71248-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz71248-cite-0032">
+<string-name name-style="western">
+<surname>Sabaei</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rahimian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haj</surname>
+<given-names>Mohamad Ebrahim</given-names>
+</string-name>
+<string-name name-style="western">
+<surname>Ketabforoush</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Salivary levels of disease‐related biomarkers in the early stages of Parkinson's and Alzheimer's disease: A cross‐sectional study</article-title>. <source>IBRO Neurosci Rep</source>. <year>2023</year>;<volume>14</volume>:<fpage>285</fpage>–<lpage>292</lpage>.<pub-id pub-id-type="pmid">36942319</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ibneur.2023.03.004</pub-id><pub-id pub-id-type="pmcid">PMC10023984</pub-id></mixed-citation></ref><ref id="alz71248-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz71248-cite-0033">
+<string-name name-style="western">
+<surname>Pekeles</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qureshi</surname>
+<given-names>HY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paudel</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schipper</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gornistky</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chertkow</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Development and validation of a salivary tau biomarker in Alzheimer's disease</article-title>. <source>Alzheimers Dement (Amst)</source>. <year>2019</year>;<volume>11</volume>:<fpage>53</fpage>–<lpage>60</lpage>.<pub-id pub-id-type="pmid">30623019</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.dadm.2018.03.003</pub-id><pub-id pub-id-type="pmcid">PMC6317325</pub-id></mixed-citation></ref><ref id="alz71248-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz71248-cite-0034">
+<string-name name-style="western">
+<surname>Boschi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roveta</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grassini</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Aβ42 as a Biomarker of Alzheimer's Disease: is Saliva a Viable Alternative to cerebrospinal fluid?</article-title>
+<source>Brain Sci</source>. <year>2022</year>;<volume>12</volume>(<issue>12</issue>):<fpage>1729</fpage>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.mdpi.com/2076-3425/12/12/1729" ext-link-type="uri">https://www.mdpi.com/2076-3425/12/12/1729</ext-link>
+<pub-id pub-id-type="pmid">36552188</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/brainsci12121729</pub-id><pub-id pub-id-type="pmcid">PMC9775629</pub-id></mixed-citation></ref><ref id="alz71248-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz71248-cite-0035">
+<string-name name-style="western">
+<surname>Cui</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Investigation of whole and glandular saliva as a biomarker for Alzheimer's disease diagnosis</article-title>. <source>Brain Sci</source>. <year>2022</year>;<volume>12</volume>(<issue>5</issue>):<fpage>595</fpage>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.mdpi.com/2076-3425/12/5/595" ext-link-type="uri">https://www.mdpi.com/2076-3425/12/5/595</ext-link>
+<pub-id pub-id-type="pmid">35624982</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/brainsci12050595</pub-id><pub-id pub-id-type="pmcid">PMC9139762</pub-id></mixed-citation></ref><ref id="alz71248-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz71248-cite-0036">
+<string-name name-style="western">
+<surname>McNicholas</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>François</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>JW</given-names>
+</string-name>, et al. <article-title>Salivary inflammatory biomarkers are predictive of mild cognitive impairment and Alzheimer's disease in a feasibility study</article-title>. <source>Front Aging Neurosci</source>. <year>2022</year>;<volume>14</volume>:<elocation-id>1019296</elocation-id>.<pub-id pub-id-type="pmid">36438010</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2022.1019296</pub-id><pub-id pub-id-type="pmcid">PMC9685799</pub-id></mixed-citation></ref><ref id="alz71248-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz71248-cite-0037">
+<string-name name-style="western">
+<surname>Zalewska</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klimiuk</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zięba</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Salivary gland dysfunction and salivary redox imbalance in patients with Alzheimer's disease</article-title>. <source>Sci Rep</source>. <year>2021</year>;<volume>11</volume>(<issue>1</issue>):<elocation-id>23904</elocation-id>.<pub-id pub-id-type="pmid">34903846</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-021-03456-9</pub-id><pub-id pub-id-type="pmcid">PMC8668975</pub-id></mixed-citation></ref><ref id="alz71248-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz71248-cite-0038">
+<string-name name-style="western">
+<surname>Nijakowski</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Owecki</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jankowski</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Surdacka</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Salivary biomarkers for Alzheimer's disease: a systematic review with meta‐analysis</article-title>. <source>Int J Mol Sci</source>. <year>2024</year>;<volume>25</volume>(<issue>2</issue>):<fpage>1168</fpage>.<pub-id pub-id-type="pmid">38256241</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms25021168</pub-id><pub-id pub-id-type="pmcid">PMC10817083</pub-id></mixed-citation></ref><ref id="alz71248-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz71248-cite-0039">
+<string-name name-style="western">
+<surname>Fan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Salivary Aβ may be a quick‐tested biomarker for clinical use in Alzheimer's disease: a meta‐analysis</article-title>. <source>J Neurol</source>. <year>2023</year>;<volume>270</volume>(<issue>4</issue>):<fpage>1945</fpage>–<lpage>1954</lpage>.<pub-id pub-id-type="pmid">36562850</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00415-022-11509-w</pub-id></mixed-citation></ref><ref id="alz71248-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz71248-cite-0040">
+<string-name name-style="western">
+<surname>González‐Sánchez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartolome</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Antequera</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Decreased salivary lactoferrin levels are specific to Alzheimer's disease</article-title>. <source>EBioMedicine</source>. <year>2020</year>;<volume>57</volume>:<elocation-id>102834</elocation-id>.<pub-id pub-id-type="pmid">32586758</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ebiom.2020.102834</pub-id><pub-id pub-id-type="pmcid">PMC7378957</pub-id></mixed-citation></ref><ref id="alz71248-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz71248-cite-0041">
+<string-name name-style="western">
+<surname>Vanderstichele</surname>
+<given-names>HMJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Demeyer</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Optimized standard operating procedures for the Analysis of cerebrospinal fluid Aβ42 and the ratios of Aβ isoforms using low protein binding tubes</article-title>. <source>J Alzheimers Dis</source>. <year>2016</year>;<volume>53</volume>(<issue>3</issue>):<fpage>1121</fpage>–<lpage>1132</lpage>.<pub-id pub-id-type="pmid">27258423</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-160286</pub-id><pub-id pub-id-type="pmcid">PMC4981898</pub-id></mixed-citation></ref><ref id="alz71248-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz71248-cite-0042">
+<string-name name-style="western">
+<surname>Panikkar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vivek</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crimmins</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faul</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langa</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thyagarajan</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Pre‐analytical variables influencing stability of blood‐based biomarkers of neuropathology</article-title>. <source>J Alzheimers Dis</source>. <year>2023</year>;<volume>95</volume>(<issue>2</issue>):<fpage>735</fpage>–<lpage>748</lpage>.<pub-id pub-id-type="pmid">37574735</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-230384</pub-id><pub-id pub-id-type="pmcid">PMC11520930</pub-id></mixed-citation></ref><ref id="alz71248-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz71248-cite-0043">
+<string-name name-style="western">
+<surname>Verberk</surname>
+<given-names>IMW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Misdorp</surname>
+<given-names>EO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koelewijn</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Characterization of pre‐analytical sample handling effects on a panel of Alzheimer's disease‐related blood‐based biomarkers: Results from the Standardization of Alzheimer's Blood Biomarkers (SABB) working group</article-title>. <source>Alzheimers Dement</source>. <year>2022</year>;<volume>18</volume>(<issue>8</issue>):<fpage>1484</fpage>–<lpage>1497</lpage>.<pub-id pub-id-type="pmid">34845818</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12510</pub-id><pub-id pub-id-type="pmcid">PMC9148379</pub-id></mixed-citation></ref><ref id="alz71248-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz71248-cite-0044">
+<string-name name-style="western">
+<surname>Song</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kong</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wong</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>HW</given-names>
+</string-name>. <article-title>Direct and selective nanosensor for amyloid‐β oligomers in serum for Alzheimer's disease diagnosis</article-title>. <source>RSC Adv</source>. <year>2025</year>;<volume>15</volume>(<issue>20</issue>):<fpage>16175</fpage>–<lpage>16182</lpage>.<pub-id pub-id-type="pmid">40376667</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1039/d5ra01020a</pub-id><pub-id pub-id-type="pmcid">PMC12079456</pub-id></mixed-citation></ref><ref id="alz71248-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz71248-cite-0045">
+<string-name name-style="western">
+<surname>Stenh</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Englund</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lord</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Amyloid‐beta oligomers are inefficiently measured by enzyme‐linked immunosorbent assay</article-title>. <source>Ann Neurol</source>. <year>2005</year>;<volume>58</volume>(<issue>1</issue>):<fpage>147</fpage>–<lpage>150</lpage>.<pub-id pub-id-type="pmid">15984012</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.20524</pub-id></mixed-citation></ref><ref id="alz71248-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz71248-cite-0046">
+<string-name name-style="western">
+<surname>Sande López</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>García‐Mato</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Coo</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Salivary lactoferrin levels and polymorphisms in Down syndrome individuals with periodontitis</article-title>. <source>J Clin Med</source>. <year>2025</year>;<volume>14</volume>(<issue>6</issue>). <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.mdpi.com/2077-0383/14/6/1815" ext-link-type="uri">https://www.mdpi.com/2077-0383/14/6/1815</ext-link>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm14061815</pub-id><pub-id pub-id-type="pmcid">PMC11942906</pub-id><pub-id pub-id-type="pmid">40142623</pub-id></mixed-citation></ref><ref id="alz71248-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz71248-cite-0047">
+<string-name name-style="western">
+<surname>Waszkiewicz</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Galińska‐Skok</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zalewska</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Salivary immune proteins monitoring can help detection of binge and chronic alcohol drinkers: preliminary findings</article-title>. <source>Drug Alcohol Depend</source>. <year>2018</year>;<volume>183</volume>:<fpage>13</fpage>–<lpage>18</lpage>.<pub-id pub-id-type="pmid">29222991</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.drugalcdep.2017.10.016</pub-id></mixed-citation></ref><ref id="alz71248-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="alz71248-cite-0048">
+<string-name name-style="western">
+<surname>Ng</surname>
+<given-names>TKS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Udeh‐Momoh</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lim</surname>
+<given-names>MA</given-names>
+</string-name>, et al. <article-title>Guidelines for the standardization of pre‐analytical variables for salivary biomarker studies in Alzheimer's disease research: an updated review and consensus of the Salivary Biomarkers for Dementia Research Working Group</article-title>. <source>Alzheimers Dement</source>. <year>2025</year>;<volume>21</volume>(<issue>2</issue>):<elocation-id>e14420</elocation-id>.<pub-id pub-id-type="pmid">39737743</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.14420</pub-id><pub-id pub-id-type="pmcid">PMC11848381</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

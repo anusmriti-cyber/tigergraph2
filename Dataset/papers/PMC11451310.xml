@@ -1,0 +1,1005 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Curr Neuropharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Curr Neuropharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">555</journal-id><journal-id journal-id-type="pmc-domain">currneuro</journal-id><journal-id journal-id-type="publisher-id">CN</journal-id><journal-title-group><journal-title>Current Neuropharmacology</journal-title></journal-title-group><issn pub-type="ppub">1570-159X</issn><issn pub-type="epub">1875-6190</issn><publisher><publisher-name>Bentham Science Publishers</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11451310</article-id><article-id pub-id-type="pmcid-ver">PMC11451310.1</article-id><article-id pub-id-type="pmcaid">11451310</article-id><article-id pub-id-type="pmcaiid">11451310</article-id><article-id pub-id-type="pmid">38752632</article-id><article-id pub-id-type="doi">10.2174/1570159X22666240515090434</article-id><article-id pub-id-type="publisher-id">CN-22-2353</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Medicine, Neurology, Pharmacology, Neuroscience</subject></subj-group></article-categories><title-group><article-title><italic toggle="yes">In Silico</italic> Prediction of Quercetin Analogs for Targeting Death-Associated Protein Kinase 1 (DAPK1) Against Alzheimer’s Disease</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Sun</surname><given-names initials="Y">Yilu</given-names></name><xref rid="aff1" ref-type="aff">1</xref><xref rid="aff2" ref-type="aff">2</xref><xref rid="cor3" ref-type="corresp">#</xref></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Zhao</surname><given-names initials="J">Jia</given-names></name><xref rid="aff1" ref-type="aff">1</xref><xref rid="aff2" ref-type="aff">2</xref><xref rid="aff3" ref-type="aff">3</xref><xref rid="cor3" ref-type="corresp">#</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Lu</surname><given-names initials="Y">Yizhu</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Ngo</surname><given-names initials="FY">Fung Yin</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Shuai</surname><given-names initials="B">Bo</given-names></name><xref rid="aff4" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="ZJ">Zhang-Jin</given-names></name><xref rid="aff1" ref-type="aff">1</xref><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Feng</surname><given-names initials="Y">Yibin</given-names></name><xref rid="aff2" ref-type="aff">2</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><contrib contrib-type="author" corresp="yes"><name name-style="western"><surname>Rong</surname><given-names initials="J">Jianhui</given-names></name><xref rid="aff2" ref-type="aff">2</xref><xref rid="cor1" ref-type="corresp">*</xref></contrib><aff id="aff1"><label>1</label><institution content-type="dept">Department of Chinese Medicine</institution>, <institution>The University of Hong Kong Shenzhen Hospital</institution>, <addr-line><city>Shenzhen</city></addr-line>, <country country="cn">China</country>; </aff><aff id="aff2"><label>2</label><institution content-type="dept">School of Chinese Medicine</institution>, <institution>The University of Hong Kong</institution>, <addr-line>3 Sassoon Road</addr-line>, Pokfulam, Hong Kong, <country country="cn">China</country>; </aff><aff id="aff3"><label>3</label><institution content-type="dept">Zhu Nansun’s Workstation and Yu Jin’s Workstation, School of Chinese Medicine</institution>, <institution>The University of Hong Kong</institution>, <addr-line>3 Sassoon Road</addr-line>, Pokfulam, Hong Kong, <country country="cn">China</country>; </aff><aff id="aff4"><label>4</label><institution content-type="dept">Department of Integrated Traditional Chinese and Western Medicine, Union Hospital, Tongji Medical College</institution>, <institution>Huazhong University of Science and Technology</institution>, <addr-line><city>Wuhan</city></addr-line>, <country country="cn">China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Address correspondence to these authors at the School of Chinese Medicine, The University of Hong Kong, 3 Sassoon Road, Pokfulam, Hong Kong, China; E-mails: <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="yfeng@hku.hk">yfeng@hku.hk</email>; <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jrong@hku.hk">jrong@hku.hk</email></corresp><corresp id="cor3"><label>#</label><italic toggle="yes">These authors contributed equally to this work</italic>.
+</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="ppub"><year>2024</year></pub-date><volume>22</volume><issue>14</issue><issue-id pub-id-type="pmc-issue-id">472190</issue-id><fpage>2353</fpage><lpage>2367</lpage><history><date date-type="received"><day>08</day><month>11</month><year>2023</year></date><date date-type="rev-recd"><day>03</day><month>1</month><year>2023</year></date><date date-type="accepted"><day>05</day><month>1</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>15</day><month>11</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>15</day><month>11</month><year>2024</year></date></event><event event-type="pmc-released-under-embargo"><date><day>05</day><month>10</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-11-15 00:25:25.123"><day>15</day><month>11</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© 2024 The Author(s). Published by Bentham Science Publishers</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>The Author(s)</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>© 2024 The Author(s). Published by Bentham Science Publishers. This is an open access article published under CC BY 4.0 <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/legalcode</uri>.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CN-22-2353.pdf"/><abstract><p>Alzheimer’s Disease (AD) is a progressive neurodegenerative disorder that greatly affects the health and life quality of the elderly population. Existing drugs mainly alleviate symptoms but fail to halt disease progression, underscoring the urgent need for the development of novel drugs. Based on the neuroprotective effects of flavonoid quercetin in AD, this study was designed to identify potential AD-related targets for quercetin and perform <italic toggle="yes">in silico</italic> prediction of promising analogs for the treatment of AD. Database mining suggested death-associated protein kinase 1 (DAPK1) as the most promising AD-related target for quercetin among seven protein candidates. To achieve better biological effects for the treatment of AD, we devised a series of quercetin analogs as ligands for DAPK1, and molecular docking analyses, absorption, distribution, metabolism, and excretion (ADME) predictions, as well as molecular dynamics (MD) simulations, were performed. The energy for drug-protein interaction was predicted and ranked. As a result, quercetin-A1a and quercetin-A1a1 out of 19 quercetin analogs exhibited the lowest interaction energy for binding to DAPK1 than quercetin, and they had similar dynamics performance with quercetin. In addition, quercetin-A1a and quercetin-A1a1 were predicted to have better water solubility. Thus, quercetin-A1a and quercetin-A1a1 could be promising agents for the treatment of AD. Our findings paved the way for further experimental studies and the development of novel drugs.</p></abstract><kwd-group kwd-group-type="author"><title>Keywords</title><kwd><italic toggle="yes">In silico</italic> prediction</kwd><kwd>quercetin</kwd><kwd>quercetin analogs</kwd><kwd>death-associated protein kinase 1 (DAPK1)</kwd><kwd>Alzheimer’s disease (AD)</kwd><kwd>neurodegenerative disease</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="sec1"><label>1</label><title>INTRODUCTION</title><p>Alzheimer’s Disease (AD) is a progressive neurodegenerative disorder that affects a large number of the elderly population and constitutes a heavy financial burden on society [<xref rid="r1" ref-type="bibr">1</xref>]. AD emerged as the sixth leading cause of death in the United States in 2020, affecting more than 5 million citizens, while the prevalence may reach 14 million by 2050, highlighting a major burden for the healthcare system [<xref rid="r2" ref-type="bibr">2</xref>]. The pathology of AD is characterized by senile plaques and neurofibrillary tangles, which are known as the results of the extracellular deposition of misfolded β-amyloid protein (Aβ) and the intracellular hyperphosphorylation of tau proteins,respectively [<xref rid="r3" ref-type="bibr">3</xref>, <xref rid="r4" ref-type="bibr">4</xref>]. In the clinic, AD progressively displays various symptoms, such as memory loss and cognitive decline [<xref rid="r5" ref-type="bibr">5</xref>]. AD patients are initially affected by executive function deficits and episodic memory difficulties, while proteolytic product Aβ is undetectable [<xref rid="r6" ref-type="bibr">6</xref>]. With disease progression over time, Aβ peptide accumulates in the neocortex and is detectable in the cerebrospinal fluid of dementia patients [<xref rid="r7" ref-type="bibr">7</xref>].</p><p>Aβ peptide is well known to induce apoptosis, promote oxidative stress, and increase neurotoxin production through different mechanisms involving apoptosis signal-regulating kinase, redox factor-1, and several other signaling proteins [<xref rid="r8" ref-type="bibr">8</xref>-<xref rid="r11" ref-type="bibr">11</xref>]. Accumulation of neurofibrillary tangles also leads to neuronal death [<xref rid="r12" ref-type="bibr">12</xref>]. Apart from the standalone effects, hyperphosphorylated tau may interact with Aβ peptide to exaggerate the pathological changes in the brain [<xref rid="r13" ref-type="bibr">13</xref>, <xref rid="r14" ref-type="bibr">14</xref>]. Consequently, Aβ and tau protein could synergistically disrupt synaptic plasticity and promote neuroinflammation, thereby hallmarking the pathology of AD [<xref rid="r15" ref-type="bibr">15</xref>-<xref rid="r17" ref-type="bibr">17</xref>]. DAPK1 is a calcium/calmodulin-dependent serine/threonine kinase [<xref rid="r18" ref-type="bibr">18</xref>]. Overexpressed DAPK1 augmented tau phosphorylation and promote neuronal death [<xref rid="r19" ref-type="bibr">19</xref>]. DAPK1 was elevated in the brains of AD patients, and it can cause AD by Aβ production and tau hyperphosphorylation [<xref rid="r20" ref-type="bibr">20</xref>]. Activation of DAPK1 could result in memory loss, and inhibition of DAPK1 could attenuate memory impairment in mice [<xref rid="r21" ref-type="bibr">21</xref>]. Cyclin-dependent kinase 1 (CDK1) mRNA and protein expression could be increased by Aβ oligomers in AD [<xref rid="r22" ref-type="bibr">22</xref>]. Polo-like kinase 1 (PLK1) accelerated Aβ-induced neuron death in AD [<xref rid="r23" ref-type="bibr">23</xref>]. Insulin-like growth factor 1 receptor (IGF1R) was increased in the AD patients [<xref rid="r24" ref-type="bibr">24</xref>]. Tyrosine-protein kinase Met (c-MET) was reduced in hippocampal pyramidal neurons, and the decline of c-MET caused neuron damage in AD [<xref rid="r25" ref-type="bibr">25</xref>]. Increased Epidermal growth factor receptor (EGFR) may be related to Aβ-induced memory loss in AD [<xref rid="r26" ref-type="bibr">26</xref>]. Dopamine receptor D4 (DRD4) single nucleotide polymorphism was related to AD [<xref rid="r27" ref-type="bibr">27</xref>]. Enormous efforts have been made to develop new drugs for targeting different pathological processes, including Aβ, tau protein, neuroinflammation, oxidative stress, cell cycle, and neurotransmitter receptors [<xref rid="r28" ref-type="bibr">28</xref>-<xref rid="r33" ref-type="bibr">33</xref>]. However, current anti-AD drugs mainly improve the symptoms through inhibiting cholinesterase (<italic toggle="yes">e.g</italic>., donepezil, galantamine, rivastigmine) or non-competitively antagonizing NMDA receptor signaling (<italic toggle="yes">e.g</italic>., memantine), while none of these drugs could reverse the cognitive impairment [<xref rid="r34" ref-type="bibr">34</xref>, <xref rid="r35" ref-type="bibr">35</xref>]. Trehalose, solanezumab, and crenezumab are known to decrease Aβ generation and boost Aβ clearance [<xref rid="r36" ref-type="bibr">36</xref>-<xref rid="r38" ref-type="bibr">38</xref>]. Inhibition of tau oligomerization and aggregation is also evaluated as another primary therapeutic strategy [<xref rid="r39" ref-type="bibr">39</xref>, <xref rid="r40" ref-type="bibr">40</xref>]. Interaction with the vitagene system to prevent oxidative stress was reported as a therapeutic strategy for neurodegenerative disorders [<xref rid="r41" ref-type="bibr">41</xref>, <xref rid="r42" ref-type="bibr">42</xref>]. Moreover, anti-inflammatory drugs appear to be effective in alleviating symptoms of AD, although the clinical efficacy remains controversial [<xref rid="r43" ref-type="bibr">43</xref>]. Nevertheless, current treatments could prevent the progression of AD and improve cognitive function at an early stage but failed to reverse severe symptoms of patients with late-stage AD [<xref rid="r44" ref-type="bibr">44</xref>]. Thus, there is an urgent need for the development of novel therapeutics to target the complex pathological changes in AD.</p><p>Long-term oxidative stress and inflammatory insults are well-known to drive the formation of Abeta plaques and tau neurofibrillary tangles, leading to age-related decrements in neuronal function and behavioral manifestations [<xref rid="r45" ref-type="bibr">45</xref>, <xref rid="r46" ref-type="bibr">46</xref>]. The etiology of AD is complex; therefore, multitarget compounds have been explored from natural products to treat AD [<xref rid="r47" ref-type="bibr">47</xref>]. Phytochemical compounds, typically alkaloids, flavonoids, and triterpenes, have proven efficacy in targeting multiple pathological processes, such as Aβ aggregation, neuroinflammation, oxidative stress and insulin resistance [<xref rid="r48" ref-type="bibr">48</xref>, <xref rid="r49" ref-type="bibr">49</xref>]. Quercetin is a typical flavonoid with two benzene rings joined together by a heterocyclic ring with a phenolic group, as shown in Fig. (<xref rid="F1" ref-type="fig"><bold>1A</bold></xref>), and is ubiquitously produced in vegetables, fruits, and tea [<xref rid="r50" ref-type="bibr">50</xref>, <xref rid="r51" ref-type="bibr">51</xref>]. Quercetin is well-known for its antioxidative, anti-cancer, antiviral and neuroprotective effects [<xref rid="r52" ref-type="bibr">52</xref>-<xref rid="r54" ref-type="bibr">54</xref>]. Consequently, quercetin is clinically evaluated for treating diabetes, cancer, kidney disease, cardiovascular disease, arthritis and severe acute respiratory syndrome [<xref rid="r55" ref-type="bibr">55</xref>-<xref rid="r62" ref-type="bibr">62</xref>]. In the context of AD, quercetin exhibited neuroprotective properties by improving memory recall, learning performance, and cognitive function in AD patients or aged AD mice [<xref rid="r63" ref-type="bibr">63</xref>, <xref rid="r64" ref-type="bibr">64</xref>]. The underlying molecular mechanisms may involve the inhibition of cell death, suppression of proinflammatory mediator NF-B, and induction of antioxidant enzyme heme oxygenase-1 [<xref rid="r62" ref-type="bibr">62</xref>, <xref rid="r65" ref-type="bibr">65</xref>]. Furthermore, quercetin readily scavenges reactive radicals by donating hydrogen from its phenolic group to the radicals, protecting neurons from oxidative damage and cell death [<xref rid="r62" ref-type="bibr">62</xref>, <xref rid="r66" ref-type="bibr">66</xref>, <xref rid="r67" ref-type="bibr">67</xref>]. DAPK1 was elevated in AD patients, and quercetin reduced the DAPK1 expression in Aβ1-42 treated HT-22 cells [<xref rid="r68" ref-type="bibr">68</xref>]. It showed promising neuroprotection in AD [<xref rid="r69" ref-type="bibr">69</xref>, <xref rid="r70" ref-type="bibr">70</xref>]. Thus, we hypothesized that quercetin could be a potential lead compound for the development of effective anti-AD treatments. Although quercetin showed promising neuroprotection in AD, its low bioavailability limits the clinical application of quercetin [<xref rid="r69" ref-type="bibr">69</xref>, <xref rid="r70" ref-type="bibr">70</xref>]. Interestingly, chemical modifications may result in various quercetin analogs with better antioxidant and anti-inflammatory effects [<xref rid="r71" ref-type="bibr">71</xref>]. Molecular docking and molecular dynamics simulations can be applied to study the molecular interaction of quercetin and its analogs with targets, and quantitative structure-activity relationship can be used to analyze their bioavailability to predict potential anti-AD drugs [<xref rid="r72" ref-type="bibr">72</xref>]. In this study, we performed network pharmacology analysis and molecular docking to identify potent molecular targets for quercetin. By targeting specific AD-related proteins, we designed and virtually screened a series of modified quercetin analogs for the development of quercetin-based anti-AD drugs.</p></sec><sec sec-type="other1" id="sec2"><label>2</label><title>AD-RELATED PROTEIN TARGETS SCREENING</title><p>To identify AD-related biological targets for quercetin, we initiated the virtual screening with the SwissDock algorithm, examined the gene-disease association with DisGeNET and subsequently analyzed the Gene ontology (GO) and the Kyoto Encyclopaedia of Genes and Genomes (KEGG) enrichment annotations [<xref rid="r73" ref-type="bibr">73</xref>, <xref rid="r74" ref-type="bibr">74</xref>]. As a result, 68 proteins were first predicted as potential protein targets for quercetin in SwissDock, while 38 AD-related proteins were identified in DisGeNET (Table <bold><inline-supplementary-material xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_SD1.pdf" id="d67e436" content-type="local-data">S1</inline-supplementary-material></bold>). The AD-related candidates for quercetin were further verified by searching medical literature. GO and KEGG pathway enrichment analyses were performed using DAVID 6.8 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://david.ncifcrf.gov" ext-link-type="uri">http://david.ncifcrf.gov</ext-link>), with annotations having an adjusted <italic toggle="yes">p</italic> &lt; 0.05 considered significantly enriched (Fig. <xref rid="F1" ref-type="fig"><bold>1C</bold></xref>). As a result, “inhibition of apoptosis” (GO:00433066) was found as the most significant GO term under “biological process,” whereas “protein kinase activity” (GO:0004672) was the most significant GO term under “molecular function.” Consistently, enrichment analysis also found several annotations related to cell survival and proliferation, including “activation of cell growth” (GO:0030307) and “activation of cell proliferation” (GO:0008284). Pathway enrichment analysis identified 26 KEGG pathways, including “proteoglycans in cancer” (hsa05205), “pathways in cancer” (hsa05200), “serotonergic synapse” (hsa04726), “Ras signaling pathway” (hsa04014), “PI3K-Akt signaling pathway” (hsa04151), “dopaminergic synapse” (hsa04728) and “FoxO signaling pathway” (hsa04068). Moreover, GO and KEGG enrichment analysis selected seven potential AD-related proteins, namely death-associated protein kinase 1 (DAPK1), cyclin-dependent kinase 1 (CDK1), polo-like kinase (PLK1), insulin-like growth factor 1 (IGF1R), tyrosine-protein kinase Met (c-MET), epidermal growth factor receptor (EGFR) and dopamine receptor D4 (DRD4).</p></sec><sec sec-type="other2" id="sec3"><label>3</label><title>PROTEIN-PROTEIN INTERACTION (PPI) NETWORK CONSTRUCTION</title><p>To further explore the biological function of potential targets and analyze the interactions between them, we constructed a PPI network with GeneMANIA (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.genemania.org" ext-link-type="uri">http://www.genemania.org</ext-link>), focusing on targets from the top GO term “inhibition of apoptosis” (GO:00433066). The targets were imported into the GeneMANIA system, and “Homo sapiens” was selected as the search organism. The PPI network figure was developed with Cytoscape 3.10.0. As illustrated in Fig. (<xref rid="F1" ref-type="fig"><bold>1B</bold></xref>), DAPK1 had genetic interactions with PIK3R1, EGFR, IGF1R, and GLO1 [<xref rid="r75" ref-type="bibr">75</xref>]. It co-localized with EGFR and co-expressed with KDR (VEGFR2), MPO, and MMP9 [<xref rid="r76" ref-type="bibr">76</xref>-<xref rid="r78" ref-type="bibr">78</xref>].</p></sec><sec sec-type="other3" id="sec4"><label>4</label><title>MOLECULAR DOCKING</title><p>To simulate the interactions between quercetin and seven AD-related protein targets, we docked quercetin into the crystal structures of these proteins with Autodock Vina software. Molecular docking was conducted according to the previously described methodology [<xref rid="r79" ref-type="bibr">79</xref>]. For protein preparation, the three-dimensional crystal structures of various proteins were downloaded from the Protein Data Bank (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.rcsb.org/" ext-link-type="uri">https://www.rcsb.org/</ext-link>), and the identifiers were listed in Table <xref rid="T1" ref-type="table"><bold>1</bold></xref>. The protein structures were imported into PyMOL (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.pymol.org/2/" ext-link-type="uri">https://www.pymol.org/2/</ext-link>), where water molecules and ligands were removed from the protein structures. Polar hydrogens and charges were added, and the location was optimized by UCSF Chimera (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cgl.ucsf.edu/chimera/" ext-link-type="uri">https://www.cgl.ucsf.edu/chimera/</ext-link>). For ligand preparation, the three-dimensional structure of quercetin was obtained from ChemDraw and Chem3D. To evaluate the structure-activity relationship, 19 quercetin analogs were also designed for screening. The chemical structures of quercetin analogs were constructed and converted to three-dimensional structures by ChemDraw and Chem3D. Energy minimization was performed using the MM2 force field in Chem3D. Subsequently, the proteins and ligands were subjected to molecular docking analyses using AutoDock Vina (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://vina.scripps.edu/" ext-link-type="uri">http://vina.scripps.edu/</ext-link>) in PyRx (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://pyrx.sourceforge.io/" ext-link-type="uri">https://pyrx.sourceforge.io/</ext-link>). The interaction energies were predicted and ranked. The drug-protein interactions were visualized by PyMOL and LigPlot (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ebi.ac.uk/thornton-srv/software/LigPlus/" ext-link-type="uri">https://www.ebi.ac.uk/thornton-srv/software/LigPlus/</ext-link>). As shown in Table <xref rid="T1" ref-type="table"><bold>1</bold></xref>, quercetin binds to DAPK1, DRD4, and PLK1 with interaction energy of -9.3,-9.1, and -8.7 kcal/mol, respectively, representing the top three strong binding partners. Considering that quercetin showed the highest affinity towards DAPK1, DAPK1 might be a promising target for quercetin. Therefore, we selected DAPK1 as the target protein for further virtual study of the structure-affinity relationship. DAPK1 could positively mediate tumor necrosis factor-alpha (TNF-α) and gamma-interferon (IFN-γ) induced programmed cell death [<xref rid="r80" ref-type="bibr">80</xref>]. It is mainly expressed in the cortical neurons of the aged human frontal cortex [<xref rid="r81" ref-type="bibr">81</xref>]. The overexpression of DAPK1 is also related to Aβ accumulation and tau dysregulation in AD [<xref rid="r82" ref-type="bibr">82</xref>, <xref rid="r83" ref-type="bibr">83</xref>]. It could cause Aβ accumulation by triggering the phosphorylation of Amyloid Precursor Protein (APP) and further accelerating the hyperphosphorylation of tau [<xref rid="r84" ref-type="bibr">84</xref>, <xref rid="r85" ref-type="bibr">85</xref>]. DAPK1 can promote neuronal cell death through autophagy, necrosis, and apoptosis, and it may contribute to the loss of neurons in AD. In addition, DAPK1 activation led to memory loss and spatial learning decline in AD mice, while the inhibition rescued synaptic loss and improved memory and spatial learning [<xref rid="r86" ref-type="bibr">86</xref>]. Previous <italic toggle="yes">in vitro</italic> studies showed that quercetin inhibited DAPK1 mRNA expression against Aβ challenge [<xref rid="r68" ref-type="bibr">68</xref>]. Interestingly, melatonin not only decreased DAPK1 expression in a post-transcriptional manner in neuronal cell lines and mouse primary cortical neurons but also directly bound to DAPK1 and facilitated the ubiquitination for proteasome-mediated degradation [<xref rid="r87" ref-type="bibr">87</xref>]. Taken together, these studies confirmed the role of DAPK1 in the pathogenesis and progression of AD. Thus, quercetin may have a therapeutic potential for the treatment of AD <italic toggle="yes">via</italic> targeting DAPK1.</p><p>The therapeutic application of quercetin is limited by its low bioavailability and water solubility [<xref rid="r88" ref-type="bibr">88</xref>]. Chemical modification of the quercetin scaffold could yield an array of analogs, while some displayed potentially better anticancer properties for clinical applications [<xref rid="r89" ref-type="bibr">89</xref>]. We attempted to introduce specific chemical moieties to enhance the pharmacokinetic properties, such as water solubility, blood-brain barrier (BBB) permeability, and bioavailability. The nitrogen atoms in the forms of the amino, N-dimethylamino, and pyridinyl substitutions could introduce positive charges, which potentially enhance the binding of the compounds to endothelial cells in the BBB for better disposition of these compounds in the brain. The positive charges could enhance electrostatic interaction with target proteins. On the other hand, the carboxylic group was chosen to increase the polarity and water solubility of these compounds. Furthermore, the polar groups could form hydrogen bonds with the target proteins for higher affinity and better specificity. Therefore, we designed 19 quercetin analogs by introducing four different chemical moieties, namely, amino, N-dimethylamino, carboxylic and pyridinyl substitutions, to various positions in the quercetin structure (Tables <xref rid="T2" ref-type="table"><bold>2</bold></xref> and <xref rid="T3" ref-type="table"><bold>3</bold></xref>). These quercetin analogs were analyzed by docking to the structure of DAPK1. The binding of each quercetin analog was ranked in Table <xref rid="T3" ref-type="table"><bold>3</bold></xref> by the interaction energy. Quercetin-A1a, Quercetin-A1a1, and quercetin were the three strongest compounds for binding to DAPK1. Quercetin-A1a was generated from quercetin by replacing the A ring with hydroxypyridine (Figs. <xref rid="F2" ref-type="fig"><bold>2A</bold></xref>, <xref rid="F2" ref-type="fig"><bold>2B</bold></xref>, <xref rid="F2" ref-type="fig"><bold>2C</bold></xref>, <xref rid="F2" ref-type="fig"><bold>2D</bold></xref>, <xref rid="F2" ref-type="fig"><bold>2E</bold></xref> and <xref rid="F2" ref-type="fig"><bold>2F</bold></xref>). Kaempferol and morin were the natural analogs of quercetin and alleviated the memory deficit in AD [<xref rid="r90" ref-type="bibr">90</xref>, <xref rid="r91" ref-type="bibr">91</xref>]. The interaction energy between kaempferol, morin and quercetin and DAPK1 were -8.2, -7.1 and -9.3 kcal/mol, respectively (Table <xref rid="T3" ref-type="table"><bold>3</bold></xref>). Quercetin-A1a is bound to DAPK1 with an interaction energy of -9.6 kcal/mol, whereas quercetin is bound to DAPK1 with an interaction energy of -9.3 kcal/mol (Table <xref rid="T4" ref-type="table"><bold>4</bold></xref>). The replacement at the C-5 position of quercetin yielded the analog quercetin-A1a with increased interaction affinity (Table <xref rid="T4" ref-type="table"><bold>4</bold></xref> and Fig. <xref rid="F3" ref-type="fig"><bold>3</bold></xref>). The introduction of pyridinyl may increase the hydrogen bonding force and ionic effects, leading to changes in amino acid positioning. The replacement of the C-5 phenolic hydroxyl with other chemical groups at the C-5, conversely, the products like quercetin-A1 are bound to DAPK1 with considerably decreased affinity compared with the parent quercetin. We further rearranged the hydroxyl groups on the benzene ring of quercetin-A1a from ortho- to meta-arrangement, yielding another analog termed morin-A1a (Table <xref rid="T3" ref-type="table"><bold>3</bold></xref>). The molecular docking revealed that morin-A1a is bound to DAPK1 with the interaction energy of -8.0 kcal/mol (Table <xref rid="T3" ref-type="table"><bold>3</bold></xref>). Morin-A1a is bound to DAPK1 with decreased binding affinity compared with quercetin-A1a and quercetin. Such structure-activity relationship basically agreed with drug design through the re-positioning of chemical modifiers, suggesting a crucial role in drug-protein interaction [<xref rid="r92" ref-type="bibr">92</xref>]. By examining the involvement of different amino acid residues, we found that quercetin-A1a, quercetin-A1a1 and quercetin mainly interacted with common residues, including Lys 42(A), Glu 64(A) and Val 96 (A) in DAPK1 (Fig. <xref rid="F3" ref-type="fig"><bold>3</bold></xref>). To investigate the cross-interactions of quercetin, quercetin-A1a, and quercetin-A1a1 with other AD-related targets, we performed similar molecular docking of these three compounds into the structures of DAPK1, CDK1, PLK1, IGF1R, c-MET, EGFR, DRD4. The interaction energy was calculated and ranked as shown in Tables <xref rid="T1" ref-type="table"><bold>1</bold></xref> and <xref rid="T4" ref-type="table"><bold>4</bold></xref>. Quercetin-A1a, quercetin-A1a1 and quercetin displayed the strongest interactions with DAPK1 relative to other AD-related proteins, while quercetin-A1 exhibited the highest affinity to all seven protein targets. These results suggested that DAPK1 appeared to be the most favorable target for three quercetin compounds compared with other protein targets. Quercetin-A1a and quercetin-A1a1 might be potential novel lead compounds for targeting DAPK1 in the treatment of AD.</p></sec><sec sec-type="other4" id="sec5"><label>5</label><title>ADME PREDICTION</title><p>The ADME prediction study of quercetin and its 19 analogs was performed by using the SwissADME (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.swissadme.ch/" ext-link-type="uri">http://www.swissadme.ch/</ext-link>). The predictions for passive human gastrointestinal absorption (HIA) and blood-brain barrier (BBB) permeation were demonstrated with the BOILED-Egg model (Fig. <xref rid="F4" ref-type="fig"><bold>4</bold></xref>). Quercetin-A1a, quercetin-A1a1 and quercetin were predicted to show good gastrointestinal absorption (in the white area) and were identified as non-substrate for permeability glycoprotein (red dots). Remarkably, quercetin-A1a and quercetin-A1a1 showed lower TPSA and WLOGP scores and better gastrointestinal absorption capacity compared with quercetin [<xref rid="r93" ref-type="bibr">93</xref>]. Water solubility (Log S) of quercetin, quercetin-A1a and quercetin-A1a1 was predicted with ESOL and Ali methods [<xref rid="r94" ref-type="bibr">94</xref>, <xref rid="r95" ref-type="bibr">95</xref>]. Quercetin-A1a and quercetin-A1a1 had higher Log S (ESOL) and Log S (Ali) compared with quercetin. These results suggested that pyridyl and amino groups were introduced to quercetin, and its water solubility could be improved.</p></sec><sec sec-type="other5" id="sec6"><label>6</label><title>MOLECULAR DYNAMICS SIMULATION</title><p>Molecular dynamics (MD) simulations were carried out for the three strongest compounds for binding to DAPK1, quercetin-A1a, quercetin-A1a1 or quercetin complexing with DAPK1 in MOE (Molecular Operating Environment, 2019) using the Nosé-Poincaré Andersen (NPA) equations of motion [<xref rid="r96" ref-type="bibr">96</xref>]. Before MD calculations, MMFF94x was selected as a force field, droplet water in a sphere shape with six margins was added as a solvent, and energy minimization was performed to optimize the system. With a timestep of 0.002 ps, coordinates and parameters were stored every 0.5 ps. The MD calculations were run under default protocols for 600 ps (equilibrium for 100 ps and production for 500 ps) [<xref rid="r97" ref-type="bibr">97</xref>]. The system pressure <italic toggle="yes">versus</italic> time (P-t) graphic and total system energy <italic toggle="yes">versus</italic> time (E-t) graphic were shown in Fig. (<xref rid="F5" ref-type="fig"><bold>5</bold></xref>). Both of the analogs would not change the stability of the protein. Quercetin-A1a and quercetin-A1a1 showed similar dynamic performance with quercetin, and quercetin-A1a showed higher energy compared with quercetin-A1a1. Both quercetin-A1a and quercetin-A1a1 had the potential to be used to treat AD <italic toggle="yes">via</italic> targeting DAPK1.</p></sec><sec sec-type="conclusions"><title>CONCLUSION</title><p>AD is a multifactorial neurodegenerative disorder characterized by progressive cognitive decline and memory loss [<xref rid="r98" ref-type="bibr">98</xref>]. Despite extensive research efforts, no cure and even effective medicines are currently available for AD [<xref rid="r99" ref-type="bibr">99</xref>]. The existing treatments for AD primarily focus on symptomatic relief and do not halt the disease progression [<xref rid="r100" ref-type="bibr">100</xref>]. DAPK1 presents an opportunity for developing new disease-modifying treatments [<xref rid="r101" ref-type="bibr">101</xref>].</p><p>Natural products are well-known to serve as structural scaffolds for chemical modifications or rational design in drug discovery [<xref rid="r102" ref-type="bibr">102</xref>, <xref rid="r103" ref-type="bibr">103</xref>]. Quercetin protected primary neurons by attenuating Aβ-induced cytotoxicity and improved cognitive and memory function in the mouse model of AD [<xref rid="r62" ref-type="bibr">62</xref>, <xref rid="r104" ref-type="bibr">104</xref>]. However, the low bioavailability is the key factor to limit the clinical application of quercetin. We used <italic toggle="yes">in silico</italic> approaches to identify potential quercetin analogs for the treatment of Alzheimer's Disease. The present study identified DAPK1 as the most promising target for quercetin through bioinformatic analyses. Chemical modification yielded quercetin-A1a and quercetin-A1a1 with enhanced binding affinity towards DAPK1. According to MD simulation and ADME prediction, we expect that quercetin-A1a and quercetin-A1a1 may be promising anti-AD treatment <italic toggle="yes">via</italic> targeting DAPK1.</p></sec></body><back><ack><title>ACKNOWLEDGEMENTS</title><p>Declared none.</p></ack><sec sec-type="authors-contributions"><title>AUTHORS’ CONTRIBUTIONS</title><p>It is hereby acknowledged that all authors have accepted responsibility for the manuscript's content and consented to its submission. They have meticulously reviewed all results and unanimously approved the final version of the manuscript.</p></sec><glossary><title>LIST OF ABBREVIATIONS</title><def-list><def-item><term>AD</term><def><p>Alzheimer’s Disease</p></def></def-item><def-item><term>BBB</term><def><p>Blood-brain Barrier</p></def></def-item><def-item><term>CDK1</term><def><p>Cyclin-dependent Kinase 1</p></def></def-item><def-item><term>c-MET</term><def><p>Tyrosine-protein Kinase Met</p></def></def-item><def-item><term>DAPK1</term><def><p>Death-associated Protein Kinase 1</p></def></def-item><def-item><term>EGFR</term><def><p>Epidermal Growth Factor Receptor</p></def></def-item><def-item><term>GO</term><def><p>Gene Ontology</p></def></def-item><def-item><term>HIA</term><def><p>Human Gastrointestinal Absorption</p></def></def-item><def-item><term>MD</term><def><p>Molecular Dynamics</p></def></def-item><def-item><term>PLK1</term><def><p>Polo-like Kinase 1</p></def></def-item></def-list></glossary><sec sec-type="ethics-consent-to-publish"><title>CONSENT FOR PUBLICATION</title><p>Not applicable.</p></sec><sec sec-type="funding-statement"><title>FUNDING</title><p>This work was supported by the Health and Medical Research Fund (16171751 and 17181231), General Research Fund (17119619), the Seed Funding (2202100899) for Basic Research and the Seed Funding (220110150) for Basic Research for new staff from the University of Hong Kong.</p></sec><sec sec-type="COI-statement"><title>CONFLICT OF INTEREST</title><p>The authors declare no conflict of interest, financial or otherwise.</p></sec><sec sec-type="supplementary-material"><title>SUPPLEMENTARY MATERIAL</title><supplementary-material id="SD1" position="float" content-type="local-data" orientation="portrait"><caption><p>Supplementary material is available on the publisher’s website along with the published article.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_SD1.pdf" id="d67e756" position="anchor" orientation="portrait"/></supplementary-material></sec><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Nichols</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Szoeke</surname><given-names>C.E.I.</given-names></name>
+<name name-style="western"><surname>Vollset</surname><given-names>S.E.</given-names></name>
+<name name-style="western"><surname>Abbasi</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Abd-Allah</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Abdela</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Aichour</surname><given-names>M.T.E.</given-names></name>
+<name name-style="western"><surname>Akinyemi</surname><given-names>R.O.</given-names></name>
+<name name-style="western"><surname>Alahdab</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Asgedom</surname><given-names>S.W.</given-names></name>
+<name name-style="western"><surname>Awasthi</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Barker-Collo</surname><given-names>S.L.</given-names></name>
+<name name-style="western"><surname>Baune</surname><given-names>B.T.</given-names></name>
+<name name-style="western"><surname>Béjot</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Belachew</surname><given-names>A.B.</given-names></name>
+<name name-style="western"><surname>Bennett</surname><given-names>D.A.</given-names></name>
+<name name-style="western"><surname>Biadgo</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Bijani</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Bin Sayeed</surname><given-names>M.S.</given-names></name>
+<name name-style="western"><surname>Brayne</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Carpenter</surname><given-names>D.O.</given-names></name>
+<name name-style="western"><surname>Carvalho</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Catalá-López</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Cerin</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>J-Y.J.</given-names></name>
+<name name-style="western"><surname>Dang</surname><given-names>A.K.</given-names></name>
+<name name-style="western"><surname>Degefa</surname><given-names>M.G.</given-names></name>
+<name name-style="western"><surname>Djalalinia</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Dubey</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Duken</surname><given-names>E.E.</given-names></name>
+<name name-style="western"><surname>Edvardsson</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Endres</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Eskandarieh</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Faro</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Farzadfar</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Fereshtehnejad</surname><given-names>S-M.</given-names></name>
+<name name-style="western"><surname>Fernandes</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Filip</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Fischer</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Gebre</surname><given-names>A.K.</given-names></name>
+<name name-style="western"><surname>Geremew</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Ghasemi-Kasman</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Gnedovskaya</surname><given-names>E.V.</given-names></name>
+<name name-style="western"><surname>Gupta</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Hachinski</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Hagos</surname><given-names>T.B.</given-names></name>
+<name name-style="western"><surname>Hamidi</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Hankey</surname><given-names>G.J.</given-names></name>
+<name name-style="western"><surname>Haro</surname><given-names>J.M.</given-names></name>
+<name name-style="western"><surname>Hay</surname><given-names>S.I.</given-names></name>
+<name name-style="western"><surname>Irvani</surname><given-names>S.S.N.</given-names></name>
+<name name-style="western"><surname>Jha</surname><given-names>R.P.</given-names></name>
+<name name-style="western"><surname>Jonas</surname><given-names>J.B.</given-names></name>
+<name name-style="western"><surname>Kalani</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Karch</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Kasaeian</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Khader</surname><given-names>Y.S.</given-names></name>
+<name name-style="western"><surname>Khalil</surname><given-names>I.A.</given-names></name>
+<name name-style="western"><surname>Khan</surname><given-names>E.A.</given-names></name>
+<name name-style="western"><surname>Khanna</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Khoja</surname><given-names>T.A.M.</given-names></name>
+<name name-style="western"><surname>Khubchandani</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Kisa</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Kissimova-Skarbek</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Kivimäki</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Koyanagi</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Krohn</surname><given-names>K.J.</given-names></name>
+<name name-style="western"><surname>Logroscino</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Lorkowski</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Majdan</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Malekzadeh</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>März</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Massano</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Mengistu</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Meretoja</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Mohammadi</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Mohammadi-Khanaposhtani</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Mokdad</surname><given-names>A.H.</given-names></name>
+<name name-style="western"><surname>Mondello</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Moradi</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Nagel</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Naghavi</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Naik</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Nguyen</surname><given-names>L.H.</given-names></name>
+<name name-style="western"><surname>Nguyen</surname><given-names>T.H.</given-names></name>
+<name name-style="western"><surname>Nirayo</surname><given-names>Y.L.</given-names></name>
+<name name-style="western"><surname>Nixon</surname><given-names>M.R.</given-names></name>
+<name name-style="western"><surname>Ofori-Asenso</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Ogbo</surname><given-names>F.A.</given-names></name>
+<name name-style="western"><surname>Olagunju</surname><given-names>A.T.</given-names></name>
+<name name-style="western"><surname>Owolabi</surname><given-names>M.O.</given-names></name>
+<name name-style="western"><surname>Panda-Jonas</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Passos</surname><given-names>V.M.A.</given-names></name>
+<name name-style="western"><surname>Pereira</surname><given-names>D.M.</given-names></name>
+<name name-style="western"><surname>Pinilla-Monsalve</surname><given-names>G.D.</given-names></name>
+<name name-style="western"><surname>Piradov</surname><given-names>M.A.</given-names></name>
+<name name-style="western"><surname>Pond</surname><given-names>C.D.</given-names></name>
+<name name-style="western"><surname>Poustchi</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Qorbani</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Radfar</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Reiner</surname><given-names>R.C.</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Robinson</surname><given-names>S.R.</given-names></name>
+<name name-style="western"><surname>Roshandel</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Rostami</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Russ</surname><given-names>T.C.</given-names></name>
+<name name-style="western"><surname>Sachdev</surname><given-names>P.S.</given-names></name>
+<name name-style="western"><surname>Safari</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Safiri</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Sahathevan</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Salimi</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Satpathy</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Sawhney</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Saylan</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Sepanlou</surname><given-names>S.G.</given-names></name>
+<name name-style="western"><surname>Shafieesabet</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Shaikh</surname><given-names>M.A.</given-names></name>
+<name name-style="western"><surname>Sahraian</surname><given-names>M.A.</given-names></name>
+<name name-style="western"><surname>Shigematsu</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Shiri</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Shiue</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Silva</surname><given-names>J.P.</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Sobhani</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Stein</surname><given-names>D.J.</given-names></name>
+<name name-style="western"><surname>Tabarés-Seisdedos</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Tovani-Palone</surname><given-names>M.R.</given-names></name>
+<name name-style="western"><surname>Tran</surname><given-names>B.X.</given-names></name>
+<name name-style="western"><surname>Tran</surname><given-names>T.T.</given-names></name>
+<name name-style="western"><surname>Tsegay</surname><given-names>A.T.</given-names></name>
+<name name-style="western"><surname>Ullah</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Venketasubramanian</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Vlassov</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y-P.</given-names></name>
+<name name-style="western"><surname>Weiss</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Westerman</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Wijeratne</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Wyper</surname><given-names>G.M.A.</given-names></name>
+<name name-style="western"><surname>Yano</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Yimer</surname><given-names>E.M.</given-names></name>
+<name name-style="western"><surname>Yonemoto</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Yousefifard</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Zaidi</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Zare</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Vos</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Feigin</surname><given-names>V.L.</given-names></name>
+<name name-style="western"><surname>Murray</surname><given-names>C.J.L.</given-names></name>
+</person-group><article-title>Global, regional, and national burden of Alzheimer’s disease and other dementias, 1990-2016: A systematic analysis for the global burden of disease study 2016.</article-title><source>Lancet Neurol.</source><year>2019</year><volume>18</volume><issue>1</issue><fpage>88</fpage><lpage>106</lpage><pub-id pub-id-type="doi">10.1016/S1474-4422(18)30403-4</pub-id><pub-id pub-id-type="pmid">30497964</pub-id><pub-id pub-id-type="pmcid">PMC6291454</pub-id></element-citation></ref><ref id="r2"><label>2</label><element-citation publication-type="journal"><article-title>2020 Alzheimer’s disease facts and figures.</article-title><source>Alzheimers Dement.</source><year>2020</year><fpage>2020</fpage><pub-id pub-id-type="pmid">32157811</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12068</pub-id></element-citation></ref><ref id="r3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Yan</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Melcher</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>H.E.</given-names></name>
+</person-group><article-title>Amyloid beta: Structure, biology and structure-based therapeutic development.</article-title><source>Acta Pharmacol. Sin.</source><year>2017</year><volume>38</volume><issue>9</issue><fpage>1205</fpage><lpage>1235</lpage><pub-id pub-id-type="doi">10.1038/aps.2017.28</pub-id><pub-id pub-id-type="pmid">28713158</pub-id><pub-id pub-id-type="pmcid">PMC5589967</pub-id></element-citation></ref><ref id="r4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Binder</surname><given-names>L.I.</given-names></name>
+<name name-style="western"><surname>Guillozet-Bongaarts</surname><given-names>A.L.</given-names></name>
+<name name-style="western"><surname>Garcia-Sierra</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Berry</surname><given-names>R.W.</given-names></name>
+</person-group><article-title>Tau, tangles, and Alzheimer’s disease.</article-title><source>Biochim. Biophys. Acta Mol. Basis Dis.</source><year>2005</year><volume>1739</volume><issue>2-3</issue><fpage>216</fpage><lpage>223</lpage><pub-id pub-id-type="doi">10.1016/j.bbadis.2004.08.014</pub-id><pub-id pub-id-type="pmid">15615640</pub-id></element-citation></ref><ref id="r5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lyketsos</surname><given-names>C.G.</given-names></name>
+<name name-style="western"><surname>Carrillo</surname><given-names>M.C.</given-names></name>
+<name name-style="western"><surname>Ryan</surname><given-names>J.M.</given-names></name>
+<name name-style="western"><surname>Khachaturian</surname><given-names>A.S.</given-names></name>
+<name name-style="western"><surname>Trzepacz</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Amatniek</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Cedarbaum</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Brashear</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>D.S.</given-names></name>
+</person-group><article-title>Neuropsychiatric symptoms in Alzheimer’s disease.</article-title><source>Alzheimers Dement.</source><year>2011</year><volume>7</volume><issue>5</issue><fpage>532</fpage><lpage>539</lpage><pub-id pub-id-type="doi">10.1016/j.jalz.2011.05.2410</pub-id><pub-id pub-id-type="pmid">21889116</pub-id><pub-id pub-id-type="pmcid">PMC3299979</pub-id></element-citation></ref><ref id="r6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jacobsen</surname><given-names>J.S.</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>C.C.</given-names></name>
+<name name-style="western"><surname>Redwine</surname><given-names>J.M.</given-names></name>
+<name name-style="western"><surname>Comery</surname><given-names>T.A.</given-names></name>
+<name name-style="western"><surname>Arias</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Bowlby</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Martone</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Morrison</surname><given-names>J.H.</given-names></name>
+<name name-style="western"><surname>Pangalos</surname><given-names>M.N.</given-names></name>
+<name name-style="western"><surname>Reinhart</surname><given-names>P.H.</given-names></name>
+<name name-style="western"><surname>Bloom</surname><given-names>F.E.</given-names></name>
+</person-group><article-title>Early-onset behavioral and synaptic deficits in a mouse model of Alzheimer’s disease.</article-title><source>Proc. Natl. Acad. Sci. </source><year>2006</year><volume>103</volume><issue>13</issue><fpage>5161</fpage><lpage>5166</lpage><pub-id pub-id-type="doi">10.1073/pnas.0600948103</pub-id><pub-id pub-id-type="pmid">16549764</pub-id><pub-id pub-id-type="pmcid">PMC1405622</pub-id></element-citation></ref><ref id="r7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Murphy</surname><given-names>M.P.</given-names></name>
+<name name-style="western"><surname>LeVine</surname><given-names>H.</given-names><suffix>III</suffix></name>
+</person-group><article-title>Alzheimer’s disease and the amyloid-beta peptide.</article-title><source>J. Alzheimers Dis.</source><year>2010</year><volume>19</volume><issue>1</issue><fpage>311</fpage><lpage>323</lpage><pub-id pub-id-type="doi">10.3233/JAD-2010-1221</pub-id><pub-id pub-id-type="pmid">20061647</pub-id><pub-id pub-id-type="pmcid">PMC2813509</pub-id></element-citation></ref><ref id="r8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yao</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Nguyen</surname><given-names>T.V.V.</given-names></name>
+<name name-style="western"><surname>Pike</surname><given-names>C.J.</given-names></name>
+</person-group><article-title>Beta-amyloid-induced neuronal apoptosis involves c-Jun N-terminal kinase-dependent downregulation of Bcl-w.</article-title><source>J. Neurosci.</source><year>2005</year><volume>25</volume><issue>5</issue><fpage>1149</fpage><lpage>1158</lpage><pub-id pub-id-type="doi">10.1523/JNEUROSCI.4736-04.2005</pub-id><pub-id pub-id-type="pmid">15689551</pub-id><pub-id pub-id-type="pmcid">PMC6725978</pub-id></element-citation></ref><ref id="r9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Tan</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Shi</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Schreiber</surname><given-names>S.S.</given-names></name>
+</person-group><article-title>Differential expression of redox factor-1 associated with beta-amyloid-mediated neurotoxicity.</article-title><source>Open Neurosci. J.</source><year>2009</year><volume>3</volume><issue>1</issue><fpage>26</fpage><lpage>34</lpage><pub-id pub-id-type="doi">10.2174/1874082000903010026</pub-id><pub-id pub-id-type="pmid">19898678</pub-id><pub-id pub-id-type="pmcid">PMC2773510</pub-id></element-citation></ref><ref id="r10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Misonou</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Morishima-Kawashima</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Ihara</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Oxidative stress induces intracellular accumulation of amyloid beta-protein (Abeta) in human neuroblastoma cells.</article-title><source>Biochemistry</source><year>2000</year><volume>39</volume><issue>23</issue><fpage>6951</fpage><lpage>6959</lpage><pub-id pub-id-type="doi">10.1021/bi000169p</pub-id><pub-id pub-id-type="pmid">10841777</pub-id></element-citation></ref><ref id="r11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sun</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>W.D.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y.D.</given-names></name>
+</person-group><article-title>β-Amyloid: The key peptide in the pathogenesis of Alzheimer’s disease.</article-title><source>Front. Pharmacol.</source><year>2015</year><volume>6</volume><fpage>221</fpage><pub-id pub-id-type="doi">10.3389/fphar.2015.00221</pub-id><pub-id pub-id-type="pmid">26483691</pub-id><pub-id pub-id-type="pmcid">PMC4588032</pub-id></element-citation></ref><ref id="r12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Panza</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Solfrizzi</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Seripa</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Imbimbo</surname><given-names>B.P.</given-names></name>
+<name name-style="western"><surname>Lozupone</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Santamato</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Zecca</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Barulli</surname><given-names>M.R.</given-names></name>
+<name name-style="western"><surname>Bellomo</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Pilotto</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Daniele</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Greco</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Logroscino</surname><given-names>G.</given-names></name>
+</person-group><article-title>Tau-centric targets and drugs in clinical development for the treatment of alzheimer’s disease.</article-title><source>BioMed Res. Int.</source><year>2016</year><volume>2016</volume><fpage>1</fpage><lpage>15</lpage><pub-id pub-id-type="doi">10.1155/2016/3245935</pub-id><pub-id pub-id-type="pmid">27429978</pub-id><pub-id pub-id-type="pmcid">PMC4939203</pub-id></element-citation></ref><ref id="r13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Benzinger</surname><given-names>T.L.</given-names></name>
+<name name-style="western"><surname>Su</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Christensen</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Friedrichsen</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Aldea</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>McConathy</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Cairns</surname><given-names>N.J.</given-names></name>
+<name name-style="western"><surname>Fagan</surname><given-names>A.M.</given-names></name>
+<name name-style="western"><surname>Morris</surname><given-names>J.C.</given-names></name>
+<name name-style="western"><surname>Ances</surname><given-names>B.M.</given-names></name>
+</person-group><article-title>Evaluation of tau imaging in staging alzheimer disease and revealing interactions between β-amyloid and tauopathy.</article-title><source>JAMA Neurol.</source><year>2016</year><volume>73</volume><issue>9</issue><fpage>1070</fpage><lpage>1077</lpage><pub-id pub-id-type="doi">10.1001/jamaneurol.2016.2078</pub-id><pub-id pub-id-type="pmid">27454922</pub-id><pub-id pub-id-type="pmcid">PMC5237382</pub-id></element-citation></ref><ref id="r14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Götz</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>van Dorpe</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Nitsch</surname><given-names>R.M.</given-names></name>
+</person-group><article-title>Formation of neurofibrillary tangles in P301l tau transgenic mice induced by Abeta 42 fibrils.</article-title><source>Science</source><year>2001</year><volume>293</volume><issue>5534</issue><fpage>1491</fpage><lpage>1495</lpage><pub-id pub-id-type="doi">10.1126/science.1062097</pub-id><pub-id pub-id-type="pmid">11520988</pub-id></element-citation></ref><ref id="r15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jaworski</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Sheng</surname><given-names>M.</given-names></name>
+</person-group><article-title>The growing role of mTOR in neuronal development and plasticity.</article-title><source>Mol. Neurobiol.</source><year>2006</year><volume>34</volume><issue>3</issue><fpage>205</fpage><lpage>220</lpage><pub-id pub-id-type="doi">10.1385/MN:34:3:205</pub-id><pub-id pub-id-type="pmid">17308353</pub-id></element-citation></ref><ref id="r16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ma</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Hoeffer</surname><given-names>C.A.</given-names></name>
+<name name-style="western"><surname>Capetillo-Zarate</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>M.T.</given-names></name>
+<name name-style="western"><surname>Tampellini</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Klann</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Blitzer</surname><given-names>R.D.</given-names></name>
+<name name-style="western"><surname>Gouras</surname><given-names>G.K.</given-names></name>
+</person-group><article-title>Dysregulation of the mTOR pathway mediates impairment of synaptic plasticity in a mouse model of Alzheimer’s disease.</article-title><source>PLoS One</source><year>2010</year><volume>5</volume><issue>9</issue><fpage>e12845</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0012845</pub-id><pub-id pub-id-type="pmid">20862226</pub-id><pub-id pub-id-type="pmcid">PMC2942840</pub-id></element-citation></ref><ref id="r17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kinney</surname><given-names>J.W.</given-names></name>
+<name name-style="western"><surname>Bemiller</surname><given-names>S.M.</given-names></name>
+<name name-style="western"><surname>Murtishaw</surname><given-names>A.S.</given-names></name>
+<name name-style="western"><surname>Leisgang</surname><given-names>A.M.</given-names></name>
+<name name-style="western"><surname>Salazar</surname><given-names>A.M.</given-names></name>
+<name name-style="western"><surname>Lamb</surname><given-names>B.T.</given-names></name>
+</person-group><article-title>Inflammation as a central mechanism in Alzheimer’s disease.</article-title><source>Alzheimers Dement.</source><year>2018</year><volume>4</volume><issue>1</issue><fpage>575</fpage><lpage>590</lpage><pub-id pub-id-type="doi">10.1016/j.trci.2018.06.014</pub-id><pub-id pub-id-type="pmid">30406177</pub-id><pub-id pub-id-type="pmcid">PMC6214864</pub-id></element-citation></ref><ref id="r18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Xu</surname><given-names>L.Z.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>B.Q.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>F.Y.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Qin</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Jia</surname><given-names>J.P.</given-names></name>
+</person-group><article-title>NMDA receptor GluN2B subunit is involved in excitotoxicity mediated by death-associated protein kinase 1 in alzheimer’s disease.</article-title><source>J. Alzheimers Dis.</source><year>2023</year><volume>91</volume><issue>2</issue><fpage>877</fpage><lpage>893</lpage><pub-id pub-id-type="doi">10.3233/JAD-220747</pub-id><pub-id pub-id-type="pmid">36502323</pub-id></element-citation></ref><ref id="r19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Shui</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Mei</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Xia</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Lan</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Gan</surname><given-names>C.L.</given-names></name>
+<name name-style="western"><surname>Tian</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Gu</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>T.H.</given-names></name>
+</person-group><article-title>MiR-191-5p attenuates tau phosphorylation, aβ generation, and neuronal cell death by regulating death-associated protein kinase 1.</article-title><source>ACS Chem. Neurosci.</source><year>2022</year><volume>13</volume><issue>24</issue><fpage>3554</fpage><lpage>3566</lpage><pub-id pub-id-type="doi">10.1021/acschemneuro.2c00423</pub-id><pub-id pub-id-type="pmid">36454178</pub-id></element-citation></ref><ref id="r20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Xu</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Jia</surname><given-names>J.</given-names></name>
+</person-group><article-title>DAPK1: A novel pathology and treatment target for alzheimer’s disease.</article-title><source>Mol. Neurobiol.</source><year>2019</year><volume>56</volume><issue>4</issue><fpage>2838</fpage><lpage>2844</lpage><pub-id pub-id-type="doi">10.1007/s12035-018-1242-2</pub-id><pub-id pub-id-type="pmid">30062675</pub-id></element-citation></ref><ref id="r21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Zhi</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Lan</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Zheng</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>T.H.</given-names></name>
+<name name-style="western"><surname>Rao</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>D.</given-names></name>
+</person-group><article-title>Ablation of death-associated protein kinase 1 changes the transcriptomic profile and alters neural-related pathways in the brain.</article-title><source>Int. J. Mol. Sci.</source><year>2023</year><volume>24</volume><issue>7</issue><fpage>6542</fpage><pub-id pub-id-type="doi">10.3390/ijms24076542</pub-id><pub-id pub-id-type="pmid">37047515</pub-id><pub-id pub-id-type="pmcid">PMC10095516</pub-id></element-citation></ref><ref id="r22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Guan</surname><given-names>P.P.</given-names></name>
+<name name-style="western"><surname>Ding</surname><given-names>W.Y.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>P.</given-names></name>
+</person-group><article-title>Molecular mechanism of acetylsalicylic acid in improving learning and memory impairment in APP/PS1 transgenic mice by inhibiting the abnormal cell cycle re-entry of neurons.</article-title><source>Front. Mol. Neurosci.</source><year>2022</year><volume>15</volume><fpage>1006216</fpage><pub-id pub-id-type="doi">10.3389/fnmol.2022.1006216</pub-id><pub-id pub-id-type="pmid">36263378</pub-id><pub-id pub-id-type="pmcid">PMC9575964</pub-id></element-citation></ref><ref id="r23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Song</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Davis</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>X.S.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><article-title>Inhibition of polo-like kinase 1 reduces beta-amyloid-induced neuronal cell death in Alzheimer’s disease.</article-title><source>Aging </source><year>2011</year><volume>3</volume><issue>9</issue><fpage>846</fpage><lpage>851</lpage><pub-id pub-id-type="doi">10.18632/aging.100382</pub-id><pub-id pub-id-type="pmid">21931181</pub-id><pub-id pub-id-type="pmcid">PMC3227450</pub-id></element-citation></ref><ref id="r24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Park</surname><given-names>J.Y.</given-names></name>
+<name name-style="western"><surname>Darvas</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Ladiges</surname><given-names>W.</given-names></name>
+</person-group><article-title>Targeting IGF1R signaling for brain aging and Alzheimer’s disease.</article-title><source>Aging Pathobiol. Ther.</source><year>2022</year><volume>4</volume><issue>4</issue><fpage>129</fpage><lpage>131</lpage><pub-id pub-id-type="doi">10.31491/APT.2022.12.103</pub-id><pub-id pub-id-type="pmid">36776414</pub-id><pub-id pub-id-type="pmcid">PMC9910108</pub-id></element-citation></ref><ref id="r25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hamasaki</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Honda</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Suzuki</surname><given-names>S.O.</given-names></name>
+<name name-style="western"><surname>Hokama</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Kiyohara</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Nakabeppu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Iwaki</surname><given-names>T.</given-names></name>
+</person-group><article-title>Down‐regulation of MET in hippocampal neurons of Alzheimer’s disease brains.</article-title><source>Neuropathology</source><year>2014</year><volume>34</volume><issue>3</issue><fpage>284</fpage><lpage>290</lpage><pub-id pub-id-type="doi">10.1111/neup.12095</pub-id><pub-id pub-id-type="pmid">24444253</pub-id></element-citation></ref><ref id="r26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wang</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Chiang</surname><given-names>H.C.</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Xie</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Yao</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Ma</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Du</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Zhong</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Epidermal growth factor receptor is a preferred target for treating Amyloid-β-induced memory loss.</article-title><source>Proc. Natl. Acad. Sci. </source><year>2012</year><volume>109</volume><issue>41</issue><fpage>16743</fpage><lpage>16748</lpage><pub-id pub-id-type="doi">10.1073/pnas.1208011109</pub-id><pub-id pub-id-type="pmid">23019586</pub-id><pub-id pub-id-type="pmcid">PMC3478595</pub-id></element-citation></ref><ref id="r27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>W.Y.</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>B.T.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>C.C.</given-names></name>
+<name name-style="western"><surname>Sheu</surname><given-names>J.J.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>S.H.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>W.F.</given-names></name>
+<name name-style="western"><surname>Tsai</surname><given-names>C.H.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>H.P.</given-names></name>
+<name name-style="western"><surname>Tsai</surname><given-names>F.J.</given-names></name>
+</person-group><article-title>Association analysis of dopaminergic gene variants (Comt, Drd4 And Dat1) with Alzheimer s disease.</article-title><source>J. Biol. Regul. Homeost. Agents</source><year>2012</year><volume>26</volume><issue>3</issue><fpage>401</fpage><lpage>410</lpage><pub-id pub-id-type="pmid">23034259</pub-id></element-citation></ref><ref id="r28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lannfelt</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Möller</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Basun</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Osswald</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Sehlin</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Satlin</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Logovinsky</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Gellerfors</surname><given-names>P.</given-names></name>
+</person-group><article-title>Perspectives on future Alzheimer therapies: amyloid-β protofibrils - a new target for immunotherapy with BAN2401 in Alzheimer’s disease.</article-title><source>Alzheimers Res. Ther.</source><year>2014</year><volume>6</volume><issue>2</issue><fpage>16</fpage><pub-id pub-id-type="doi">10.1186/alzrt246</pub-id><pub-id pub-id-type="pmid">25031633</pub-id><pub-id pub-id-type="pmcid">PMC4054967</pub-id></element-citation></ref><ref id="r29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Boutajangout</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Sigurdsson</surname><given-names>E.M.</given-names></name>
+<name name-style="western"><surname>Krishnamurthy</surname><given-names>P.K.</given-names></name>
+</person-group><article-title>Tau as a therapeutic target for Alzheimer’s disease.</article-title><source>Curr. Alzheimer Res.</source><year>2011</year><volume>8</volume><issue>6</issue><fpage>666</fpage><lpage>677</lpage><pub-id pub-id-type="doi">10.2174/156720511796717195</pub-id><pub-id pub-id-type="pmid">21679154</pub-id><pub-id pub-id-type="pmcid">PMC3445026</pub-id></element-citation></ref><ref id="r30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Pimplikar</surname><given-names>S.W.</given-names></name>
+</person-group><article-title>Neuroinflammation in Alzheimer’s disease: From pathogenesis to a therapeutic target.</article-title><source>J. Clin. Immunol.</source><year>2014</year><volume>34</volume><issue>S1</issue><fpage>64</fpage><lpage>69</lpage><pub-id pub-id-type="doi">10.1007/s10875-014-0032-5</pub-id><pub-id pub-id-type="pmid">24711006</pub-id></element-citation></ref><ref id="r31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Jiang</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>Q.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>S.</given-names></name>
+</person-group><article-title>Oxidative stress: A major pathogenesis and potential therapeutic target of antioxidative agents in Parkinson’s disease and Alzheimer’s disease.</article-title><source>Prog. Neurobiol.</source><year>2016</year><volume>147</volume><fpage>1</fpage><lpage>19</lpage><pub-id pub-id-type="doi">10.1016/j.pneurobio.2016.07.005</pub-id><pub-id pub-id-type="pmid">27769868</pub-id></element-citation></ref><ref id="r32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Neve</surname><given-names>R.L.</given-names></name>
+<name name-style="western"><surname>McPhie</surname><given-names>D.L.</given-names></name>
+</person-group><article-title>The cell cycle as a therapeutic target for Alzheimer’s disease.</article-title><source>Pharmacol. Ther.</source><year>2006</year><volume>111</volume><issue>1</issue><fpage>99</fpage><lpage>113</lpage><pub-id pub-id-type="doi">10.1016/j.pharmthera.2005.09.005</pub-id><pub-id pub-id-type="pmid">16274748</pub-id></element-citation></ref><ref id="r33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kem</surname><given-names>W.R.</given-names></name>
+</person-group><article-title>The brain α7 nicotinic receptor may be an important therapeutic target for the treatment of Alzheimer’s disease: Studies with DMXBA (GTS-21).</article-title><source>Behav. Brain Res.</source><year>2000</year><volume>113</volume><issue>1-2</issue><fpage>169</fpage><lpage>181</lpage><pub-id pub-id-type="doi">10.1016/S0166-4328(00)00211-4</pub-id><pub-id pub-id-type="pmid">10942043</pub-id></element-citation></ref><ref id="r34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yiannopoulou</surname><given-names>K.G.</given-names></name>
+<name name-style="western"><surname>Papageorgiou</surname><given-names>S.G.</given-names></name>
+</person-group><article-title>Current and future treatments in Alzheimer Disease: An update.</article-title><source>J. Cent. Nerv. Syst. Dis.</source><year>2020</year><fpage>12</fpage><pub-id pub-id-type="doi">10.1177/1179573520907397</pub-id><pub-id pub-id-type="pmid">32165850</pub-id><pub-id pub-id-type="pmcid">PMC7050025</pub-id></element-citation></ref><ref id="r35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Tan</surname><given-names>C.C.</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>J.T.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>H.F.</given-names></name>
+<name name-style="western"><surname>Tan</surname><given-names>M.S.</given-names></name>
+<name name-style="western"><surname>Meng</surname><given-names>X.F.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>X.C.</given-names></name>
+<name name-style="western"><surname>Tan</surname><given-names>L.</given-names></name>
+</person-group><article-title>Efficacy and safety of donepezil, galantamine, rivastigmine, and memantine for the treatment of Alzheimer’s disease: A systematic review and meta-analysis.</article-title><source>J. Alzheimers Dis.</source><year>2014</year><volume>41</volume><issue>2</issue><fpage>615</fpage><lpage>631</lpage><pub-id pub-id-type="doi">10.3233/JAD-132690</pub-id><pub-id pub-id-type="pmid">24662102</pub-id></element-citation></ref><ref id="r36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Bian</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Xiao</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Yin</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Du</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Bai</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>X.</given-names></name>
+</person-group><article-title>Moderate hypothermia induces protection against hypoxia/reoxygenation injury by enhancing SUMOylation in cardiomyocytes.</article-title><source>Mol. Med. Rep.</source><year>2020</year><volume>22</volume><issue>4</issue><fpage>2617</fpage><lpage>2626</lpage><pub-id pub-id-type="doi">10.3892/mmr.2020.11374</pub-id><pub-id pub-id-type="pmid">32945433</pub-id><pub-id pub-id-type="pmcid">PMC7453665</pub-id></element-citation></ref><ref id="r37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Siemers</surname><given-names>E.R.</given-names></name>
+<name name-style="western"><surname>Sundell</surname><given-names>K.L.</given-names></name>
+<name name-style="western"><surname>Carlson</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Case</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Sethuraman</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Liu-Seifert</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Dowsett</surname><given-names>S.A.</given-names></name>
+<name name-style="western"><surname>Pontecorvo</surname><given-names>M.J.</given-names></name>
+<name name-style="western"><surname>Dean</surname><given-names>R.A.</given-names></name>
+<name name-style="western"><surname>Demattos</surname><given-names>R.</given-names></name>
+</person-group><article-title>Phase 3 solanezumab trials: Secondary outcomes in mild Alzheimer’s disease patients.</article-title><source>Alzheimers Dement.</source><year>2016</year><volume>12</volume><issue>2</issue><fpage>110</fpage><lpage>120</lpage><pub-id pub-id-type="doi">10.1016/j.jalz.2015.06.1893</pub-id><pub-id pub-id-type="pmid">26238576</pub-id></element-citation></ref><ref id="r38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Cummings</surname><given-names>J.L.</given-names></name>
+<name name-style="western"><surname>Cohen</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>van Dyck</surname><given-names>C.H.</given-names></name>
+<name name-style="western"><surname>Brody</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Curtis</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Ward</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Friesenhahn</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Rabe</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Brunstein</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Quartino</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Honigberg</surname><given-names>L.A.</given-names></name>
+<name name-style="western"><surname>Fuji</surname><given-names>R.N.</given-names></name>
+<name name-style="western"><surname>Clayton</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Mortensen</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Ho</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Paul</surname><given-names>R.</given-names></name>
+</person-group><article-title>ABBY: A phase 2 randomized trial of crenezumab in mild to moderate Alzheimer disease.</article-title><source>Neurology</source><year>2018</year><volume>90</volume><issue>21</issue><fpage>e1889</fpage><lpage>e1897</lpage><pub-id pub-id-type="doi">10.1212/WNL.0000000000005550</pub-id><pub-id pub-id-type="pmid">29695589</pub-id><pub-id pub-id-type="pmcid">PMC5962917</pub-id></element-citation></ref><ref id="r39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kontsekova</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Zilka</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Kovacech</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Skrabana</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Novak</surname><given-names>M.</given-names></name>
+</person-group><article-title>Identification of structural determinants on tau protein essential for its pathological function: Novel therapeutic target for tau immunotherapy in Alzheimer’s disease.</article-title><source>Alzheimers Res. Ther.</source><year>2014</year><volume>6</volume><issue>4</issue><fpage>45</fpage><pub-id pub-id-type="doi">10.1186/alzrt277</pub-id><pub-id pub-id-type="pmid">25478018</pub-id><pub-id pub-id-type="pmcid">PMC4255369</pub-id></element-citation></ref><ref id="r40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wischik</surname><given-names>C.M.</given-names></name>
+<name name-style="western"><surname>Edwards</surname><given-names>P.C.</given-names></name>
+<name name-style="western"><surname>Lai</surname><given-names>R.Y.</given-names></name>
+<name name-style="western"><surname>Roth</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Harrington</surname><given-names>C.R.</given-names></name>
+</person-group><article-title>Selective inhibition of Alzheimer disease-like tau aggregation by phenothiazines.</article-title><source>Proc. Natl. Acad. Sci. </source><year>1996</year><volume>93</volume><issue>20</issue><fpage>11213</fpage><lpage>11218</lpage><pub-id pub-id-type="doi">10.1073/pnas.93.20.11213</pub-id><pub-id pub-id-type="pmid">8855335</pub-id><pub-id pub-id-type="pmcid">PMC38310</pub-id></element-citation></ref><ref id="r41"><label>41</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Calabrese</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Cornelius</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Dinkova-Kostova</surname><given-names>A.T.</given-names></name>
+<name name-style="western"><surname>Calabrese</surname><given-names>E.J.</given-names></name>
+<name name-style="western"><surname>Mattson</surname><given-names>M.P.</given-names></name>
+</person-group><article-title>Cellular stress responses, the hormesis paradigm, and vitagenes: novel targets for therapeutic intervention in neurodegenerative disorders.</article-title><source>Antioxid. Redox Signal.</source><year>2010</year><volume>13</volume><issue>11</issue><fpage>1763</fpage><lpage>1811</lpage><pub-id pub-id-type="doi">10.1089/ars.2009.3074</pub-id><pub-id pub-id-type="pmid">20446769</pub-id><pub-id pub-id-type="pmcid">PMC2966482</pub-id></element-citation></ref><ref id="r42"><label>42</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Calabrese</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Cornelius</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Cuzzocrea</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Iavicoli</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Rizzarelli</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Calabrese</surname><given-names>E.J.</given-names></name>
+</person-group><article-title>Hormesis, cellular stress response and vitagenes as critical determinants in aging and longevity.</article-title><source>Mol. Aspects Med.</source><year>2011</year><volume>32</volume><issue>4-6</issue><fpage>279</fpage><lpage>304</lpage><pub-id pub-id-type="doi">10.1016/j.mam.2011.10.007</pub-id><pub-id pub-id-type="pmid">22020114</pub-id></element-citation></ref><ref id="r43"><label>43</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Szekely</surname><given-names>C.A.</given-names></name>
+<name name-style="western"><surname>Zandi</surname><given-names>P.P.</given-names></name>
+</person-group><article-title>Non-steroidal anti-inflammatory drugs and Alzheimer’s disease: The epidemiological evidence.</article-title><source>CNS Neurol. Disord. Drug Targets</source><year>2010</year><volume>9</volume><issue>2</issue><fpage>132</fpage><lpage>139</lpage><pub-id pub-id-type="doi">10.2174/187152710791012026</pub-id><pub-id pub-id-type="pmid">20205647</pub-id></element-citation></ref><ref id="r44"><label>44</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Matsuoka</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Jouroukhin</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Gray</surname><given-names>A.J.</given-names></name>
+<name name-style="western"><surname>Ma</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Hirata-Fukae</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>H.F.</given-names></name>
+<name name-style="western"><surname>Feng</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Lecanu</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Walker</surname><given-names>B.R.</given-names></name>
+<name name-style="western"><surname>Planel</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Arancio</surname><given-names>O.</given-names></name>
+<name name-style="western"><surname>Gozes</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Aisen</surname><given-names>P.S.</given-names></name>
+</person-group><article-title>A neuronal microtubule-interacting agent, NAPVSIPQ, reduces tau pathology and enhances cognitive function in a mouse model of Alzheimer’s disease.</article-title><source>J. Pharmacol. Exp. Ther.</source><year>2008</year><volume>325</volume><issue>1</issue><fpage>146</fpage><lpage>153</lpage><pub-id pub-id-type="doi">10.1124/jpet.107.130526</pub-id><pub-id pub-id-type="pmid">18199809</pub-id></element-citation></ref><ref id="r45"><label>45</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Butterfield</surname><given-names>D.A.</given-names></name>
+<name name-style="western"><surname>Boyd-Kimball</surname><given-names>D.</given-names></name>
+</person-group><article-title>Oxidative stress, amyloid-β peptide, and altered key molecular pathways in the pathogenesis and progression of alzheimer’s disease.</article-title><source>J. Alzheimers Dis.</source><year>2018</year><volume>62</volume><issue>3</issue><fpage>1345</fpage><lpage>1367</lpage><pub-id pub-id-type="doi">10.3233/JAD-170543</pub-id><pub-id pub-id-type="pmid">29562527</pub-id><pub-id pub-id-type="pmcid">PMC5870019</pub-id></element-citation></ref><ref id="r46"><label>46</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Abate</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Vezzoli</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Sandri</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Rungratanawanich</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Memo</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Uberti</surname><given-names>D.</given-names></name>
+</person-group><article-title>Mitochondria and cellular redox state on the route from ageing to Alzheimer’s disease.</article-title><source>Mech. Ageing Dev.</source><year>2020</year><volume>192</volume><fpage>111385</fpage><pub-id pub-id-type="doi">10.1016/j.mad.2020.111385</pub-id><pub-id pub-id-type="pmid">33129798</pub-id></element-citation></ref><ref id="r47"><label>47</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Álvarez-Berbel</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Espargaró</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Viayna</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Caballero</surname><given-names>A.B.</given-names></name>
+<name name-style="western"><surname>Busquets</surname><given-names>M.A.</given-names></name>
+<name name-style="western"><surname>Gámez</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Luque</surname><given-names>F.J.</given-names></name>
+<name name-style="western"><surname>Sabaté</surname><given-names>R.</given-names></name>
+</person-group><article-title>Three to tango: Inhibitory effect of quercetin and apigenin on acetylcholinesterase, amyloid-β aggregation and acetylcholinesterase-amyloid interaction.</article-title><source>Pharmaceutics</source><year>2022</year><volume>14</volume><issue>11</issue><fpage>2342</fpage><pub-id pub-id-type="doi">10.3390/pharmaceutics14112342</pub-id><pub-id pub-id-type="pmid">36365159</pub-id><pub-id pub-id-type="pmcid">PMC9699245</pub-id></element-citation></ref><ref id="r48"><label>48</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Youdim</surname><given-names>K.A.</given-names></name>
+<name name-style="western"><surname>Joseph</surname><given-names>J.A.</given-names></name>
+</person-group><article-title>A possible emerging role of phytochemicals in improving age-related neurological dysfunctions: A multiplicity of effects.</article-title><source>Free Radic. Biol. Med.</source><year>2001</year><volume>30</volume><issue>6</issue><fpage>583</fpage><lpage>594</lpage><pub-id pub-id-type="doi">10.1016/S0891-5849(00)00510-4</pub-id><pub-id pub-id-type="pmid">11295356</pub-id></element-citation></ref><ref id="r49"><label>49</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Piccialli</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Tedeschi</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Caputo</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>D’Errico</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Ciccone</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>De Feo</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Secondo</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Pannaccione</surname><given-names>A.</given-names></name>
+</person-group><article-title>Exploring the therapeutic potential of phytochemicals in alzheimer’s disease: Focus on polyphenols and monoterpenes.</article-title><source>Front. Pharmacol.</source><year>2022</year><volume>13</volume><fpage>876614</fpage><pub-id pub-id-type="doi">10.3389/fphar.2022.876614</pub-id><pub-id pub-id-type="pmid">35600880</pub-id><pub-id pub-id-type="pmcid">PMC9114803</pub-id></element-citation></ref><ref id="r50"><label>50</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hertog</surname><given-names>M.G.L.</given-names></name>
+<name name-style="western"><surname>Hollman</surname><given-names>P.C.H.</given-names></name>
+<name name-style="western"><surname>van de Putte</surname><given-names>B.</given-names></name>
+</person-group><article-title>Content of potentially anticarcinogenic flavonoids of tea infusions, wines, and fruit juices.</article-title><source>J. Agric. Food Chem.</source><year>1993</year><volume>41</volume><issue>8</issue><fpage>1242</fpage><lpage>1246</lpage><pub-id pub-id-type="doi">10.1021/jf00032a015</pub-id></element-citation></ref><ref id="r51"><label>51</label><element-citation publication-type="book"><person-group person-group-type="author">
+<name name-style="western"><surname>Hertog</surname><given-names>M.G.</given-names></name>
+</person-group><source>Flavonols and flavones in foods and their relation with cancer and coronary heart disease risk.</source><publisher-name>Wageningen University and Research</publisher-name><year>1994</year></element-citation></ref><ref id="r52"><label>52</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Dajas</surname><given-names>F.</given-names></name>
+</person-group><article-title>Life or death: Neuroprotective and anticancer effects of quercetin.</article-title><source>J. Ethnopharmacol.</source><year>2012</year><volume>143</volume><issue>2</issue><fpage>383</fpage><lpage>396</lpage><pub-id pub-id-type="doi">10.1016/j.jep.2012.07.005</pub-id><pub-id pub-id-type="pmid">22820241</pub-id></element-citation></ref><ref id="r53"><label>53</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Swarts</surname><given-names>S.G.</given-names></name>
+<name name-style="western"><surname>Yin</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Tian</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Cao</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Swarts</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>S.B.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Ju</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Olek</surname><given-names>D.J.</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Schwartz</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Keng</surname><given-names>P.C.</given-names></name>
+<name name-style="western"><surname>Howell</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Okunieff</surname><given-names>P.</given-names></name>
+</person-group><article-title>Antioxidant properties of quercetin.</article-title><source>Adv. Exp. Med. Biol.</source><year>2011</year><volume>701</volume><fpage>283</fpage><lpage>289</lpage><pub-id pub-id-type="doi">10.1007/978-1-4419-7756-4_38</pub-id><pub-id pub-id-type="pmid">21445799</pub-id></element-citation></ref><ref id="r54"><label>54</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>J.</given-names></name>
+</person-group><article-title>Quercetin as an antiviral agent inhibits influenza a virus (IAV) entry.</article-title><source>Viruses</source><year>2015</year><volume>8</volume><issue>1</issue><fpage>6</fpage><pub-id pub-id-type="doi">10.3390/v8010006</pub-id><pub-id pub-id-type="pmid">26712783</pub-id><pub-id pub-id-type="pmcid">PMC4728566</pub-id></element-citation></ref><ref id="r55"><label>55</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yi</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Yuan</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Qu</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Luo</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Shen</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Luo</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Zuo</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Duan</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Nie</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Shi</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Ding</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Deng</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>X.</given-names></name>
+</person-group><article-title>Small molecules blocking the entry of severe acute respiratory syndrome coronavirus into host cells.</article-title><source>J. Virol.</source><year>2004</year><volume>78</volume><issue>20</issue><fpage>11334</fpage><lpage>11339</lpage><pub-id pub-id-type="doi">10.1128/JVI.78.20.11334-11339.2004</pub-id><pub-id pub-id-type="pmid">15452254</pub-id><pub-id pub-id-type="pmcid">PMC521800</pub-id></element-citation></ref><ref id="r56"><label>56</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Colunga Biancatelli</surname><given-names>R.M.L.</given-names></name>
+<name name-style="western"><surname>Berrill</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Catravas</surname><given-names>J.D.</given-names></name>
+<name name-style="western"><surname>Marik</surname><given-names>P.E.</given-names></name>
+</person-group><article-title>Quercetin and vitamin C: An experimental, synergistic therapy for the prevention and treatment of SARS-CoV-2 related disease (COVID-19).</article-title><source>Front. Immunol.</source><year>2020</year><volume>11</volume><fpage>1451</fpage><pub-id pub-id-type="doi">10.3389/fimmu.2020.01451</pub-id><pub-id pub-id-type="pmid">32636851</pub-id><pub-id pub-id-type="pmcid">PMC7318306</pub-id></element-citation></ref><ref id="r57"><label>57</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Vessal</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Hemmati</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Vasei</surname><given-names>M.</given-names></name>
+</person-group><article-title>Antidiabetic effects of quercetin in streptozocin-induced diabetic rats.</article-title><source>Comp. Biochem. Physiol. C Toxicol. Pharmacol.</source><year>2003</year><volume>135</volume><issue>3</issue><fpage>357</fpage><lpage>364</lpage><pub-id pub-id-type="doi">10.1016/S1532-0456(03)00140-6</pub-id><pub-id pub-id-type="pmid">12927910</pub-id></element-citation></ref><ref id="r58"><label>58</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bruning</surname><given-names>A.</given-names></name>
+</person-group><article-title>Inhibition of mTOR signaling by quercetin in cancer treatment and prevention.</article-title><source>Anticancer. Agents Med. Chem.</source><year>2013</year><volume>13</volume><issue>7</issue><fpage>1025</fpage><lpage>1031</lpage><pub-id pub-id-type="doi">10.2174/18715206113139990114</pub-id><pub-id pub-id-type="pmid">23272907</pub-id></element-citation></ref><ref id="r59"><label>59</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Yang</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Song</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>R.</given-names></name>
+</person-group><article-title>Quercetin treatment improves renal function and protects the kidney in a rat model of adenine-induced chronic kidney disease.</article-title><source>Med. Sci. Monit.</source><year>2018</year><volume>24</volume><fpage>4760</fpage><lpage>4766</lpage><pub-id pub-id-type="doi">10.12659/MSM.909259</pub-id><pub-id pub-id-type="pmid">29987270</pub-id><pub-id pub-id-type="pmcid">PMC6069490</pub-id></element-citation></ref><ref id="r60"><label>60</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Patel</surname><given-names>R.V.</given-names></name>
+<name name-style="western"><surname>Mistry</surname><given-names>B.M.</given-names></name>
+<name name-style="western"><surname>Shinde</surname><given-names>S.K.</given-names></name>
+<name name-style="western"><surname>Syed</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Singh</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Shin</surname><given-names>H.S.</given-names></name>
+</person-group><article-title>Therapeutic potential of quercetin as a cardiovascular agent.</article-title><source>Eur. J. Med. Chem.</source><year>2018</year><volume>155</volume><fpage>889</fpage><lpage>904</lpage><pub-id pub-id-type="doi">10.1016/j.ejmech.2018.06.053</pub-id><pub-id pub-id-type="pmid">29966915</pub-id></element-citation></ref><ref id="r61"><label>61</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Haleagrahara</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Miranda-Hernandez</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Alim</surname><given-names>M.A.</given-names></name>
+<name name-style="western"><surname>Hayes</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Bird</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Ketheesan</surname><given-names>N.</given-names></name>
+</person-group><article-title>Therapeutic effect of quercetin in collagen-induced arthritis.</article-title><source>Biomed. Pharmacother.</source><year>2017</year><volume>90</volume><fpage>38</fpage><lpage>46</lpage><pub-id pub-id-type="doi">10.1016/j.biopha.2017.03.026</pub-id><pub-id pub-id-type="pmid">28342364</pub-id></element-citation></ref><ref id="r62"><label>62</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ansari</surname><given-names>M.A.</given-names></name>
+<name name-style="western"><surname>Abdul</surname><given-names>H.M.</given-names></name>
+<name name-style="western"><surname>Joshi</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Opii</surname><given-names>W.O.</given-names></name>
+<name name-style="western"><surname>Butterfield</surname><given-names>D.A.</given-names></name>
+</person-group><article-title>Protective effect of quercetin in primary neurons against Aβ(1-42): Relevance to Alzheimer’s disease.</article-title><source>J. Nutr. Biochem.</source><year>2009</year><volume>20</volume><issue>4</issue><fpage>269</fpage><lpage>275</lpage><pub-id pub-id-type="doi">10.1016/j.jnutbio.2008.03.002</pub-id><pub-id pub-id-type="pmid">18602817</pub-id><pub-id pub-id-type="pmcid">PMC2737260</pub-id></element-citation></ref><ref id="r63"><label>63</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Nakagawa</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Itoh</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Ohta</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Hayashi</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Hayakawa</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Yamada</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Akanabe</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Chikaishi</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Nakagawa</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Itoh</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Muro</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Yanagida</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Nakabayashi</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Mori</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Saito</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Ohzawa</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Suzuki</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Ueda</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>M.X.</given-names></name>
+<name name-style="western"><surname>Nishida</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Islam</surname><given-names>S.</given-names></name>
+</person-group><article-title>Tana; Kobori, M.; Inuzuka, T. Improvement of memory recall by quercetin in rodent contextual fear conditioning and human early-stage Alzheimer’s disease patients.</article-title><source>Neuroreport</source><year>2016</year><volume>27</volume><issue>9</issue><fpage>671</fpage><lpage>676</lpage><pub-id pub-id-type="doi">10.1097/WNR.0000000000000594</pub-id><pub-id pub-id-type="pmid">27145228</pub-id></element-citation></ref><ref id="r64"><label>64</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sabogal-Guáqueta</surname><given-names>A.M.</given-names></name>
+<name name-style="western"><surname>Muñoz-Manco</surname><given-names>J.I.</given-names></name>
+<name name-style="western"><surname>Ramírez-Pineda</surname><given-names>J.R.</given-names></name>
+<name name-style="western"><surname>Lamprea-Rodriguez</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Osorio</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Cardona-Gómez</surname><given-names>G.P.</given-names></name>
+</person-group><article-title>The flavonoid quercetin ameliorates Alzheimer’s disease pathology and protects cognitive and emotional function in aged triple transgenic Alzheimer’s disease model mice.</article-title><source>Neuropharmacology</source><year>2015</year><volume>93</volume><fpage>134</fpage><lpage>145</lpage><pub-id pub-id-type="doi">10.1016/j.neuropharm.2015.01.027</pub-id><pub-id pub-id-type="pmid">25666032</pub-id><pub-id pub-id-type="pmcid">PMC4387064</pub-id></element-citation></ref><ref id="r65"><label>65</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kang</surname><given-names>C.H.</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>Y.H.</given-names></name>
+<name name-style="western"><surname>Moon</surname><given-names>S.K.</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>W.J.</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>G.Y.</given-names></name>
+</person-group><article-title>Quercetin inhibits lipopolysaccharide-induced nitric oxide production in BV2 microglial cells by suppressing the NF-κB pathway and activating the Nrf2-dependent HO-1 pathway.</article-title><source>Int. Immunopharmacol.</source><year>2013</year><volume>17</volume><issue>3</issue><fpage>808</fpage><lpage>813</lpage><pub-id pub-id-type="doi">10.1016/j.intimp.2013.09.009</pub-id><pub-id pub-id-type="pmid">24076371</pub-id></element-citation></ref><ref id="r66"><label>66</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Hasimu</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>T.</given-names></name>
+</person-group><article-title>Quercetin protects human brain microvascular endothelial cells from fibrillar β-amyloid1-40-induced toxicity.</article-title><source>Acta Pharm. Sin. B</source><year>2015</year><volume>5</volume><issue>1</issue><fpage>47</fpage><lpage>54</lpage><pub-id pub-id-type="doi">10.1016/j.apsb.2014.12.003</pub-id><pub-id pub-id-type="pmid">26579424</pub-id><pub-id pub-id-type="pmcid">PMC4629123</pub-id></element-citation></ref><ref id="r67"><label>67</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Imai</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Nakanishi</surname><given-names>I.</given-names></name>
+<name name-style="western"><surname>Ohkubo</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Ohba</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Arai</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Mizuno</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Fukuzumi</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Matsumoto</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Fukuhara</surname><given-names>K.</given-names></name>
+</person-group><article-title>Synthesis of methylated quercetin analogs for enhancement of radical-scavenging activity.</article-title><source>RSC Advances</source><year>2017</year><volume>7</volume><issue>29</issue><fpage>17968</fpage><lpage>17979</lpage><pub-id pub-id-type="doi">10.1039/C7RA02329D</pub-id></element-citation></ref><ref id="r68"><label>68</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Qi</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Yuan</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Shi</surname><given-names>J.</given-names></name>
+</person-group><article-title>Network pharmacology-based and experimental identification of the effects of quercetin on Alzheimer’s Disease.</article-title><source>Front. Aging Neurosci.</source><year>2020</year><volume>12</volume><fpage>589588</fpage><pub-id pub-id-type="doi">10.3389/fnagi.2020.589588</pub-id><pub-id pub-id-type="pmid">33192484</pub-id><pub-id pub-id-type="pmcid">PMC7645061</pub-id></element-citation></ref><ref id="r69"><label>69</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Olayinka</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Eduviere</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Adeoluwa</surname><given-names>O.</given-names></name>
+<name name-style="western"><surname>Fafure</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Adebanjo</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Ozolua</surname><given-names>R.</given-names></name>
+</person-group><article-title>Quercetin mitigates memory deficits in scopolamine mice model via protection against neuroinflammation and neurodegeneration.</article-title><source>Life Sci.</source><year>2022</year><volume>292</volume><fpage>120326</fpage><pub-id pub-id-type="doi">10.1016/j.lfs.2022.120326</pub-id><pub-id pub-id-type="pmid">35031260</pub-id></element-citation></ref><ref id="r70"><label>70</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Bukhari</surname><given-names>S.N.A.</given-names></name>
+</person-group><article-title>Dietary polyphenols as therapeutic intervention for Alzheimer’s Disease: A mechanistic insight.</article-title><source>Antioxidants</source><year>2022</year><volume>11</volume><issue>3</issue><fpage>554</fpage><pub-id pub-id-type="doi">10.3390/antiox11030554</pub-id><pub-id pub-id-type="pmid">35326204</pub-id><pub-id pub-id-type="pmcid">PMC8945272</pub-id></element-citation></ref><ref id="r71"><label>71</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zizkova</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Stefek</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Rackova</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Prnova</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Horakova</surname><given-names>L.</given-names></name>
+</person-group><article-title>Novel quercetin derivatives: From redox properties to promising treatment of oxidative stress related diseases.</article-title><source>Chem. Biol. Interact.</source><year>2017</year><volume>265</volume><fpage>36</fpage><lpage>46</lpage><pub-id pub-id-type="doi">10.1016/j.cbi.2017.01.019</pub-id><pub-id pub-id-type="pmid">28137512</pub-id></element-citation></ref><ref id="r72"><label>72</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Shah-abadi</surname><given-names>M.E.</given-names></name>
+<name name-style="western"><surname>Ariaei</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Moradi</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Rustamzadeh</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Tanha</surname><given-names>R.R.</given-names></name>
+<name name-style="western"><surname>Sadigh</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Marzban</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Heydari</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Ferdousie</surname><given-names>V.T.</given-names></name>
+</person-group><article-title>In silico interactions of natural and synthetic compounds with key proteins involved in Alzheimer’s disease: Prospects for designing new therapeutics compound.</article-title><source>Neurotox. Res.</source><year>2023</year><volume>41</volume><issue>5</issue><fpage>408</fpage><lpage>430</lpage><pub-id pub-id-type="doi">10.1007/s12640-023-00648-1</pub-id><pub-id pub-id-type="pmid">37086338</pub-id><pub-id pub-id-type="pmcid">PMC10122091</pub-id></element-citation></ref><ref id="r73"><label>73</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Wahid</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Saqib</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Qamar</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Ziora</surname><given-names>Z.M.</given-names></name>
+</person-group><article-title>Antispasmodic activity of the ethanol extract of Citrullus lanatus seeds: Justifying ethnomedicinal use in Pakistan to treat asthma and diarrhea.</article-title><source>J. Ethnopharmacol.</source><year>2022</year><volume>295</volume><fpage>115314</fpage><pub-id pub-id-type="doi">10.1016/j.jep.2022.115314</pub-id><pub-id pub-id-type="pmid">35490899</pub-id></element-citation></ref><ref id="r74"><label>74</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ngo</surname><given-names>F.Y.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Q.</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>J.M.</given-names></name>
+<name name-style="western"><surname>Rong</surname><given-names>J.</given-names></name>
+</person-group><article-title>Network pharmacology analysis and molecular characterization of the herbal medicine formulation Qi-Fu-Yin for the inhibition of the neuroinflammatory biomarker iNOS in microglial BV-2 cells: Implication for the treatment of alzheimer’s disease.</article-title><source>Oxid. Med. Cell. Longev.</source><year>2020</year><volume>2020</volume><fpage>1</fpage><lpage>15</lpage><pub-id pub-id-type="doi">10.1155/2020/5780703</pub-id><pub-id pub-id-type="pmid">32952851</pub-id><pub-id pub-id-type="pmcid">PMC7481926</pub-id></element-citation></ref><ref id="r75"><label>75</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Lin</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>R.T.</given-names></name>
+<name name-style="western"><surname>Ahn</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>C.C.</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>D.J.</given-names></name>
+</person-group><article-title>A genome-wide map of human genetic interactions inferred from radiation hybrid genotypes.</article-title><source>Genome Res.</source><year>2010</year><volume>20</volume><issue>8</issue><fpage>1122</fpage><lpage>1132</lpage><pub-id pub-id-type="doi">10.1101/gr.104216.109</pub-id><pub-id pub-id-type="pmid">20508145</pub-id><pub-id pub-id-type="pmcid">PMC2909575</pub-id></element-citation></ref><ref id="r76"><label>76</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Johnson</surname><given-names>J.M.</given-names></name>
+<name name-style="western"><surname>Castle</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Garrett-Engele</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Kan</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Loerch</surname><given-names>P.M.</given-names></name>
+<name name-style="western"><surname>Armour</surname><given-names>C.D.</given-names></name>
+<name name-style="western"><surname>Santos</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Schadt</surname><given-names>E.E.</given-names></name>
+<name name-style="western"><surname>Stoughton</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Shoemaker</surname><given-names>D.D.</given-names></name>
+</person-group><article-title>Genome-wide survey of human alternative pre-mRNA splicing with exon junction microarrays.</article-title><source>Science</source><year>2003</year><volume>302</volume><issue>5653</issue><fpage>2141</fpage><lpage>2144</lpage><pub-id pub-id-type="doi">10.1126/science.1090100</pub-id><pub-id pub-id-type="pmid">14684825</pub-id></element-citation></ref><ref id="r77"><label>77</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Rosenwald</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Alizadeh</surname><given-names>A.A.</given-names></name>
+<name name-style="western"><surname>Widhopf</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Simon</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Davis</surname><given-names>R.E.</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Pickeral</surname><given-names>O.K.</given-names></name>
+<name name-style="western"><surname>Rassenti</surname><given-names>L.Z.</given-names></name>
+<name name-style="western"><surname>Powell</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Botstein</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Byrd</surname><given-names>J.C.</given-names></name>
+<name name-style="western"><surname>Grever</surname><given-names>M.R.</given-names></name>
+<name name-style="western"><surname>Cheson</surname><given-names>B.D.</given-names></name>
+<name name-style="western"><surname>Chiorazzi</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Wilson</surname><given-names>W.H.</given-names></name>
+<name name-style="western"><surname>Kipps</surname><given-names>T.J.</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>P.O.</given-names></name>
+<name name-style="western"><surname>Staudt</surname><given-names>L.M.</given-names></name>
+</person-group><article-title>Relation of gene expression phenotype to immunoglobulin mutation genotype in B cell chronic lymphocytic leukemia.</article-title><source>J. Exp. Med.</source><year>2001</year><volume>194</volume><issue>11</issue><fpage>1639</fpage><lpage>1648</lpage><pub-id pub-id-type="doi">10.1084/jem.194.11.1639</pub-id><pub-id pub-id-type="pmid">11733578</pub-id><pub-id pub-id-type="pmcid">PMC2193523</pub-id></element-citation></ref><ref id="r78"><label>78</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Alizadeh</surname><given-names>A.A.</given-names></name>
+<name name-style="western"><surname>Eisen</surname><given-names>M.B.</given-names></name>
+<name name-style="western"><surname>Davis</surname><given-names>R.E.</given-names></name>
+<name name-style="western"><surname>Ma</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Lossos</surname><given-names>I.S.</given-names></name>
+<name name-style="western"><surname>Rosenwald</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Boldrick</surname><given-names>J.C.</given-names></name>
+<name name-style="western"><surname>Sabet</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Tran</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Powell</surname><given-names>J.I.</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Marti</surname><given-names>G.E.</given-names></name>
+<name name-style="western"><surname>Moore</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Hudson</surname><given-names>J.</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Lu</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Lewis</surname><given-names>D.B.</given-names></name>
+<name name-style="western"><surname>Tibshirani</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Sherlock</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Chan</surname><given-names>W.C.</given-names></name>
+<name name-style="western"><surname>Greiner</surname><given-names>T.C.</given-names></name>
+<name name-style="western"><surname>Weisenburger</surname><given-names>D.D.</given-names></name>
+<name name-style="western"><surname>Armitage</surname><given-names>J.O.</given-names></name>
+<name name-style="western"><surname>Warnke</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Levy</surname><given-names>R.</given-names></name>
+<name name-style="western"><surname>Wilson</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Grever</surname><given-names>M.R.</given-names></name>
+<name name-style="western"><surname>Byrd</surname><given-names>J.C.</given-names></name>
+<name name-style="western"><surname>Botstein</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>P.O.</given-names></name>
+<name name-style="western"><surname>Staudt</surname><given-names>L.M.</given-names></name>
+</person-group><article-title>Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling.</article-title><source>Nature</source><year>2000</year><volume>403</volume><issue>6769</issue><fpage>503</fpage><lpage>511</lpage><pub-id pub-id-type="doi">10.1038/35000501</pub-id><pub-id pub-id-type="pmid">10676951</pub-id></element-citation></ref><ref id="r79"><label>79</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Luo</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Fan</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Ngo</surname><given-names>F.Y.</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Rong</surname><given-names>J.</given-names></name>
+</person-group><article-title>Covalent inhibition of endoplasmic reticulum chaperone GRP78 disconnects the transduction of ER stress signals to inflammation and lipid accumulation in diet-induced obese mice.</article-title><source>eLife</source><year>2022</year><volume>11</volume><fpage>e72182</fpage><pub-id pub-id-type="doi">10.7554/eLife.72182</pub-id><pub-id pub-id-type="pmid">35138251</pub-id><pub-id pub-id-type="pmcid">PMC8828050</pub-id></element-citation></ref><ref id="r80"><label>80</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Singh</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Ravanan</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Talwar</surname><given-names>P.</given-names></name>
+</person-group><article-title>Death associated protein kinase 1 (DAPK1): A regulator of apoptosis and autophagy.</article-title><source>Front. Mol. Neurosci.</source><year>2016</year><volume>9</volume><fpage>46</fpage><pub-id pub-id-type="doi">10.3389/fnmol.2016.00046</pub-id><pub-id pub-id-type="pmid">27445685</pub-id><pub-id pub-id-type="pmcid">PMC4917528</pub-id></element-citation></ref><ref id="r81"><label>81</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Hainsworth</surname><given-names>A.H.</given-names></name>
+<name name-style="western"><surname>Allsopp</surname><given-names>R.C.</given-names></name>
+<name name-style="western"><surname>Jim</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Potter</surname><given-names>J.F.</given-names></name>
+<name name-style="western"><surname>Lowe</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Talbot</surname><given-names>C.J.</given-names></name>
+<name name-style="western"><surname>Prettyman</surname><given-names>R.J.</given-names></name>
+</person-group><article-title>Death-associated protein kinase (DAPK1) in cerebral cortex of late-onset Alzheimer’s disease patients and aged controls.</article-title><source>Neuropathol. Appl. Neurobiol.</source><year>2010</year><volume>36</volume><issue>1</issue><fpage>17</fpage><lpage>24</lpage><pub-id pub-id-type="doi">10.1111/j.1365-2990.2009.01035.x</pub-id><pub-id pub-id-type="pmid">19627511</pub-id></element-citation></ref><ref id="r82"><label>82</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>B.M.</given-names></name>
+<name name-style="western"><surname>You</surname><given-names>M.H.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>C.H.</given-names></name>
+<name name-style="western"><surname>Suh</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Tanzi</surname><given-names>R.E.</given-names></name>
+<name name-style="western"><surname>Ho Lee</surname><given-names>T.</given-names></name>
+</person-group><article-title>Inhibition of death-associated protein kinase 1 attenuates the phosphorylation and amyloidogenic processing of amyloid precursor protein.</article-title><source>Hum. Mol. Genet.</source><year>2016</year><volume>25</volume><issue>12</issue><fpage>ddw114</fpage><pub-id pub-id-type="doi">10.1093/hmg/ddw114</pub-id><pub-id pub-id-type="pmid">27094130</pub-id><pub-id pub-id-type="pmcid">PMC6086563</pub-id></element-citation></ref><ref id="r83"><label>83</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>B.M.</given-names></name>
+<name name-style="western"><surname>You</surname><given-names>M-H.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>C-H.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Hong</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Hong</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Kimchi</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>X.Z.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>T.H.</given-names></name>
+</person-group><article-title>Death-associated protein kinase 1 has a critical role in aberrant tau protein regulation and function.</article-title><source>Cell Death Dis.</source><year>2014</year><volume>5</volume><issue>5</issue><fpage>e1237</fpage><pub-id pub-id-type="doi">10.1038/cddis.2014.216</pub-id><pub-id pub-id-type="pmid">24853415</pub-id><pub-id pub-id-type="pmcid">PMC4047864</pub-id></element-citation></ref><ref id="r84"><label>84</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Zhang</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Wei</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Ma</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Jiang</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Pei</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Cao</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>H.</given-names></name>
+</person-group><article-title>Interaction between Aβ and Tau in the Pathogenesis of Alzheimer’s Disease.</article-title><source>Int. J. Biol. Sci.</source><year>2021</year><volume>17</volume><issue>9</issue><fpage>2181</fpage><lpage>2192</lpage><pub-id pub-id-type="doi">10.7150/ijbs.57078</pub-id><pub-id pub-id-type="pmid">34239348</pub-id><pub-id pub-id-type="pmcid">PMC8241728</pub-id></element-citation></ref><ref id="r85"><label>85</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>X.Z.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>T.H.</given-names></name>
+</person-group><article-title>Death-associated protein kinase 1 phosphorylation in neuronal cell death and neurodegenerative disease.</article-title><source>Int. J. Mol. Sci.</source><year>2019</year><volume>20</volume><issue>13</issue><fpage>3131</fpage><pub-id pub-id-type="doi">10.3390/ijms20133131</pub-id><pub-id pub-id-type="pmid">31248062</pub-id><pub-id pub-id-type="pmcid">PMC6651373</pub-id></element-citation></ref><ref id="r86"><label>86</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Shu</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Tang</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>W.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Pei</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Mu</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Tian</surname><given-names>Q.</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>L.Q.</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Selective degeneration of entorhinal-ca1 synapses in Alzheimer’s disease via activation of DAPK1.</article-title><source>J. Neurosci.</source><year>2016</year><volume>36</volume><issue>42</issue><fpage>10843</fpage><lpage>10852</lpage><pub-id pub-id-type="doi">10.1523/JNEUROSCI.2258-16.2016</pub-id><pub-id pub-id-type="pmid">27798139</pub-id><pub-id pub-id-type="pmcid">PMC5083012</pub-id></element-citation></ref><ref id="r87"><label>87</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Chen</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Mei</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Lan</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Gan</surname><given-names>C.L.</given-names></name>
+<name name-style="western"><surname>Fan</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Xia</surname><given-names>Y.</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>L.</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Ke</surname><given-names>F.</given-names></name>
+<name name-style="western"><surname>Zhou</surname><given-names>X.Z.</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>K.P.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>T.H.</given-names></name>
+</person-group><article-title>Melatonin directly binds and inhibits death‐associated protein kinase 1 function in Alzheimer’s disease.</article-title><source>J. Pineal Res.</source><year>2020</year><volume>69</volume><issue>2</issue><fpage>e12665</fpage><pub-id pub-id-type="doi">10.1111/jpi.12665</pub-id><pub-id pub-id-type="pmid">32358852</pub-id><pub-id pub-id-type="pmcid">PMC7890046</pub-id></element-citation></ref><ref id="r88"><label>88</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Cai</surname><given-names>X.</given-names></name>
+<name name-style="western"><surname>Fang</surname><given-names>Z.</given-names></name>
+<name name-style="western"><surname>Dou</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Yu</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Zhai</surname><given-names>G.</given-names></name>
+</person-group><article-title>Bioavailability of quercetin: Problems and promises.</article-title><source>Curr. Med. Chem.</source><year>2013</year><volume>20</volume><issue>20</issue><fpage>2572</fpage><lpage>2582</lpage><pub-id pub-id-type="doi">10.2174/09298673113209990120</pub-id><pub-id pub-id-type="pmid">23514412</pub-id></element-citation></ref><ref id="r89"><label>89</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Massi</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Bortolini</surname><given-names>O.</given-names></name>
+<name name-style="western"><surname>Ragno</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Bernardi</surname><given-names>T.</given-names></name>
+<name name-style="western"><surname>Sacchetti</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Tacchini</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>De Risi</surname><given-names>C.</given-names></name>
+</person-group><article-title>Research progress in the modification of quercetin leading to anticancer agents.</article-title><source>Molecules</source><year>2017</year><volume>22</volume><issue>8</issue><fpage>1270</fpage><pub-id pub-id-type="doi">10.3390/molecules22081270</pub-id><pub-id pub-id-type="pmid">28758919</pub-id><pub-id pub-id-type="pmcid">PMC6152094</pub-id></element-citation></ref><ref id="r90"><label>90</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Babaei</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Kouhestani</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Jafari</surname><given-names>A.</given-names></name>
+</person-group><article-title>Kaempferol attenuates cognitive deficit via regulating oxidative stress and neuroinflammation in an ovariectomized rat model of sporadic dementia.</article-title><source>Neural Regen. Res.</source><year>2018</year><volume>13</volume><issue>10</issue><fpage>1827</fpage><lpage>1832</lpage><pub-id pub-id-type="doi">10.4103/1673-5374.238714</pub-id><pub-id pub-id-type="pmid">30136699</pub-id><pub-id pub-id-type="pmcid">PMC6128063</pub-id></element-citation></ref><ref id="r91"><label>91</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Mohammadi</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Asle-Rousta</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Rahnema</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Amini</surname><given-names>R.</given-names></name>
+</person-group><article-title>Morin attenuates memory deficits in a rat model of Alzheimer’s disease by ameliorating oxidative stress and neuroinflammation.</article-title><source>Eur. J. Pharmacol.</source><year>2021</year><volume>910</volume><fpage>174506</fpage><pub-id pub-id-type="doi">10.1016/j.ejphar.2021.174506</pub-id><pub-id pub-id-type="pmid">34534533</pub-id></element-citation></ref><ref id="r92"><label>92</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Koch</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Brunschweiger</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Namasivayam</surname><given-names>V.</given-names></name>
+<name name-style="western"><surname>Ullrich</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Maruca</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Lazzaretto</surname><given-names>B.</given-names></name>
+<name name-style="western"><surname>Küppers</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Hinz</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Hockemeyer</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Wiese</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Heer</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Alcaro</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Kiec-Kononowicz</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Müller</surname><given-names>C.E.</given-names></name>
+</person-group><article-title>Probing substituents in the 1- and 3-position: Tetrahydropyrazino-annelated water-soluble xanthine derivatives as multi-target drugs with potent adenosine receptor antagonistic activity.</article-title><source>Front Chem.</source><year>2018</year><volume>6</volume><fpage>206</fpage><pub-id pub-id-type="doi">10.3389/fchem.2018.00206</pub-id><pub-id pub-id-type="pmid">29998095</pub-id><pub-id pub-id-type="pmcid">PMC6028563</pub-id></element-citation></ref><ref id="r93"><label>93</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Egan</surname><given-names>W.J.</given-names></name>
+<name name-style="western"><surname>Merz</surname><given-names>K.M.</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Baldwin</surname><given-names>J.J.</given-names></name>
+</person-group><article-title>Prediction of drug absorption using multivariate statistics.</article-title><source>J. Med. Chem.</source><year>2000</year><volume>43</volume><issue>21</issue><fpage>3867</fpage><lpage>3877</lpage><pub-id pub-id-type="doi">10.1021/jm000292e</pub-id><pub-id pub-id-type="pmid">11052792</pub-id></element-citation></ref><ref id="r94"><label>94</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Delaney</surname><given-names>J.S.</given-names></name>
+</person-group><article-title>ESOL: Estimating aqueous solubility directly from molecular structure.</article-title><source>J. Chem. Inf. Comput. Sci.</source><year>2004</year><volume>44</volume><issue>3</issue><fpage>1000</fpage><lpage>1005</lpage><pub-id pub-id-type="doi">10.1021/ci034243x</pub-id><pub-id pub-id-type="pmid">15154768</pub-id></element-citation></ref><ref id="r95"><label>95</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Ali</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Camilleri</surname><given-names>P.</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>M.B.</given-names></name>
+<name name-style="western"><surname>Hutt</surname><given-names>A.J.</given-names></name>
+<name name-style="western"><surname>Kirton</surname><given-names>S.B.</given-names></name>
+</person-group><article-title>Revisiting the general solubility equation: In silico prediction of aqueous solubility incorporating the effect of topographical polar surface area.</article-title><source>J. Chem. Inf. Model.</source><year>2012</year><volume>52</volume><issue>2</issue><fpage>420</fpage><lpage>428</lpage><pub-id pub-id-type="doi">10.1021/ci200387c</pub-id><pub-id pub-id-type="pmid">22196228</pub-id></element-citation></ref><ref id="r96"><label>96</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Sturgeon</surname><given-names>J.B.</given-names></name>
+<name name-style="western"><surname>Laird</surname><given-names>B.B.</given-names></name>
+</person-group><article-title>Symplectic algorithm for constant-pressure molecular dynamics using a Nosé-Poincaré thermostat.</article-title><source>J. Chem. Phys.</source><year>2000</year><volume>112</volume><issue>8</issue><fpage>3474</fpage><lpage>3482</lpage><pub-id pub-id-type="doi">10.1063/1.480502</pub-id></element-citation></ref><ref id="r97"><label>97</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Khelfaoui</surname><given-names>H.</given-names></name>
+<name name-style="western"><surname>Harkati</surname><given-names>D.</given-names></name>
+<name name-style="western"><surname>Saleh</surname><given-names>B.A.</given-names></name>
+</person-group><article-title>Molecular docking, molecular dynamics simulations and reactivity, studies on approved drugs library targeting ACE2 and SARS-CoV-2 binding with ACE2.</article-title><source>J. Biomol. Struct. Dyn.</source><year>2021</year><volume>39</volume><issue>18</issue><fpage>7246</fpage><lpage>7262</lpage><pub-id pub-id-type="doi">10.1080/07391102.2020.1803967</pub-id><pub-id pub-id-type="pmid">32752951</pub-id><pub-id pub-id-type="pmcid">PMC7484571</pub-id></element-citation></ref><ref id="r98"><label>98</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Moya-Alvarado</surname><given-names>G.</given-names></name>
+<name name-style="western"><surname>Gershoni-Emek</surname><given-names>N.</given-names></name>
+<name name-style="western"><surname>Perlson</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Bronfman</surname><given-names>F.C.</given-names></name>
+</person-group><article-title>Neurodegeneration and Alzheimer’s disease (AD). What can proteomics tell us about the Alzheimer’s brain?</article-title><source>Mol. Cell. Proteomics</source><year>2016</year><volume>15</volume><issue>2</issue><fpage>409</fpage><lpage>425</lpage><pub-id pub-id-type="doi">10.1074/mcp.R115.053330</pub-id><pub-id pub-id-type="pmid">26657538</pub-id><pub-id pub-id-type="pmcid">PMC4739664</pub-id></element-citation></ref><ref id="r99"><label>99</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>van der Flier</surname><given-names>W.M.</given-names></name>
+<name name-style="western"><surname>de Vugt</surname><given-names>M.E.</given-names></name>
+<name name-style="western"><surname>Smets</surname><given-names>E.M.A.</given-names></name>
+<name name-style="western"><surname>Blom</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Teunissen</surname><given-names>C.E.</given-names></name>
+</person-group><article-title>Towards a future where Alzheimer’s disease pathology is stopped before the onset of dementia.</article-title><source>Nature. Aging</source><year>2023</year><volume>3</volume><issue>5</issue><fpage>494</fpage><lpage>505</lpage><pub-id pub-id-type="doi">10.1038/s43587-023-00404-2</pub-id><pub-id pub-id-type="pmid">37202515</pub-id></element-citation></ref><ref id="r100"><label>100</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Passeri</surname><given-names>E.</given-names></name>
+<name name-style="western"><surname>Elkhoury</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Morsink</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Broersen</surname><given-names>K.</given-names></name>
+<name name-style="western"><surname>Linder</surname><given-names>M.</given-names></name>
+<name name-style="western"><surname>Tamayol</surname><given-names>A.</given-names></name>
+<name name-style="western"><surname>Malaplate</surname><given-names>C.</given-names></name>
+<name name-style="western"><surname>Yen</surname><given-names>F.T.</given-names></name>
+<name name-style="western"><surname>Arab-Tehrany</surname><given-names>E.</given-names></name>
+</person-group><article-title>Alzheimer’s Disease: Treatment strategies and their limitations.</article-title><source>Int. J. Mol. Sci.</source><year>2022</year><volume>23</volume><issue>22</issue><fpage>13954</fpage><pub-id pub-id-type="doi">10.3390/ijms232213954</pub-id><pub-id pub-id-type="pmid">36430432</pub-id><pub-id pub-id-type="pmcid">PMC9697769</pub-id></element-citation></ref><ref id="r101"><label>101</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>You</surname><given-names>M.H.</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>B.M.</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>C.H.</given-names></name>
+<name name-style="western"><surname>Begley</surname><given-names>M.J.</given-names></name>
+<name name-style="western"><surname>Cantley</surname><given-names>L.C.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>T.H.</given-names></name>
+</person-group><article-title>Death-associated protein kinase 1 phosphorylates NDRG2 and induces neuronal cell death.</article-title><source>Cell Death Differ.</source><year>2017</year><volume>24</volume><issue>2</issue><fpage>238</fpage><lpage>250</lpage><pub-id pub-id-type="doi">10.1038/cdd.2016.114</pub-id><pub-id pub-id-type="pmid">28141794</pub-id><pub-id pub-id-type="pmcid">PMC5299707</pub-id></element-citation></ref><ref id="r102"><label>102</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Newman</surname><given-names>D.J.</given-names></name>
+<name name-style="western"><surname>Cragg</surname><given-names>G.M.</given-names></name>
+</person-group><article-title>Natural products as sources of new drugs over the nearly four decades from 01/1981 to 09/2019.</article-title><source>J. Nat. Prod.</source><year>2020</year><volume>83</volume><issue>3</issue><fpage>770</fpage><lpage>803</lpage><pub-id pub-id-type="doi">10.1021/acs.jnatprod.9b01285</pub-id><pub-id pub-id-type="pmid">32162523</pub-id></element-citation></ref><ref id="r103"><label>103</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Atanasov</surname><given-names>A.G.</given-names></name>
+<name name-style="western"><surname>Zotchev</surname><given-names>S.B.</given-names></name>
+<name name-style="western"><surname>Dirsch</surname><given-names>V.M.</given-names></name>
+<name name-style="western"><surname>Supuran</surname><given-names>C.T.</given-names></name>
+</person-group><article-title>Natural products in drug discovery: Advances and opportunities.</article-title><source>Nat. Rev. Drug Discov.</source><year>2021</year><volume>20</volume><issue>3</issue><fpage>200</fpage><lpage>216</lpage><pub-id pub-id-type="doi">10.1038/s41573-020-00114-z</pub-id><pub-id pub-id-type="pmid">33510482</pub-id><pub-id pub-id-type="pmcid">PMC7841765</pub-id></element-citation></ref><ref id="r104"><label>104</label><element-citation publication-type="journal"><person-group person-group-type="author">
+<name name-style="western"><surname>Kim</surname><given-names>J.H.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>J.</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>S.</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>E.J.</given-names></name>
+</person-group><article-title>Quercetin and quercetin-3-β-d-glucoside improve cognitive and memory function in Alzheimer’s disease mouse.</article-title><source>Appl. Biol. Chem.</source><year>2016</year><volume>59</volume><issue>5</issue><fpage>721</fpage><lpage>728</lpage><pub-id pub-id-type="doi">10.1007/s13765-016-0217-0</pub-id></element-citation></ref></ref-list></back><floats-group><fig position="float" id="F1" fig-type="figure" orientation="portrait"><label>Fig. (1)</label><caption><p>(<bold>A</bold>) Chemical structure of quercetin. (<bold>B</bold>) Protein-protein interaction network of DAPK1 and targets in “inhibition of apoptosis.” ADORA1, Adenosine A1 Receptor; AKT1, Protein kinase B alpha; CDK1, Cyclin-dependent kinase 1; DAPK1, Death-associated protein kinase 1; EGFR, Epidermal Growth Factor Receptor; GLO1, Glyoxalase 1; GSK3B, Glycogen synthase kinase-3 beta; IGF1R, Insulin-Like Growth Factor 1 Receptor; KDR, Vascular endothelial growth factor receptor 2; MMP9, Matrix Metallopeptidase 9; MPO, Myeloperoxidase; PIK3R1, Phosphatidyl inositol 3 kinase; PLK1, Polo-like kinase 1. (<bold>C</bold>) Biological and functional characterization of the protein targets. (<bold>D</bold>) The role of DAPK1 in Alzheimer’s Disease. DAPK1, Death-associated protein kinase 1; PKD, protein kinase D; NDRG2, NDRG Family Member 2; APP, Amyloid Beta Precursor Protein; PIK3R1, Phosphatidyl inositol 3 kinase; JNK, c-Jun N-terminal kinase; CypD, Cyclophilin D; Aβ, Amyloid beta.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="CN-22-2353_F1.jpg"/></fig><fig position="float" id="F2" fig-type="figure" orientation="portrait"><label>Fig. (2)</label><caption><p>(<bold>A</bold>) 2D structure of quercetin; (<bold>B</bold>) 2D structure of quercetin-A1a; (<bold>C</bold>) 2D structure of quercetin-A1a1; (<bold>D</bold>) 3D structure of quercetin; (<bold>E</bold>) 3D structure of quercetin-A1a; (<bold>F</bold>) 3D structure of quercetin-A1a1. Modified sites were marked with red and green squares.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="CN-22-2353_F2.jpg"/></fig><fig position="float" id="F3" fig-type="figure" orientation="portrait"><label>Fig. (3)</label><caption><p>Molecular docking analyses of DAPK1 with the top three compounds. (<bold>A</bold>) 2D predicted interaction between quercetin and DAPK1; (<bold>B</bold>) 2D predicted interaction between quercetin-A1a and DAPK1; (<bold>C</bold>) 2D predicted interaction between quercetin-A1a1 and DAPK1; (<bold>D</bold>) 3D predicted interaction between quercetin and DAPK1; (<bold>E</bold>) 3D predicted interaction between quercetin-A1a and DAPK1; (<bold>F</bold>) 3D predicted interaction between quercetin-A1a1 and DAPK1.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="CN-22-2353_F3.jpg"/></fig><fig position="float" id="F4" fig-type="figure" orientation="portrait"><label>Fig. (4)</label><caption><p>(<bold>A</bold>) BOILED egg Model prediction; (<bold>B</bold>) Water solubility prediction (Solubility class: Log S scale Insoluble &lt; -10 &lt; Poorly &lt; -6 &lt; Moderately &lt; -4 &lt; Soluble &lt; -2 Very &lt; 0 &lt; Highly).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="CN-22-2353_F4.jpg"/></fig><fig position="float" id="F5" fig-type="figure" orientation="portrait"><label>Fig. (5)</label><caption><p>MD simulation. (<bold>A</bold>) The evaluation of potential system pressure of quercetin, quercetin1A1a and quercetin-A1a1 with DAPK1 as a function of time. (<bold>B</bold>) The evaluation of potential system energy of quercetin, quercetin1A1a and quercetin-A1a1 with DAPK1 as a function of time.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="CN-22-2353_F5.jpg"/></fig><table-wrap position="float" id="T1" orientation="portrait"><label>Table 1</label><caption><title>The interaction energy between quercetin and AD-related candidate proteins.</title></caption><table frame="border" rules="all" width="100%"><thead><tr><th valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Symbol</bold>
+</th><th valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Description</bold>
+</th><th valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>PDB ID</bold>
+</th><th valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Energy (kcal/mol)</bold>
+</th></tr></thead><tbody><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">DAPK1</td><td valign="middle" align="center" rowspan="1" colspan="1">Death-associated protein kinase 1</td><td valign="middle" align="center" rowspan="1" colspan="1">5AUZ</td><td valign="middle" align="center" rowspan="1" colspan="1">-9.3</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">CDK1</td><td valign="middle" align="center" rowspan="1" colspan="1">Cyclin-dependent kinase 1</td><td valign="middle" align="center" rowspan="1" colspan="1">4YC6</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.0</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">PLK1</td><td valign="middle" align="center" rowspan="1" colspan="1">Polo-like kinase 1</td><td valign="middle" align="center" rowspan="1" colspan="1">2YAC</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.7</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">IGF1R</td><td valign="middle" align="center" rowspan="1" colspan="1">Insulin-like growth factor 1</td><td valign="middle" align="center" rowspan="1" colspan="1">5FXR</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.2</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">c-MET</td><td valign="middle" align="center" rowspan="1" colspan="1">Tyrosine-protein kinase Met</td><td valign="middle" align="center" rowspan="1" colspan="1">5YA5</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.6</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">EGFR</td><td valign="middle" align="center" rowspan="1" colspan="1">Epidermal growth factor receptor</td><td valign="middle" align="center" rowspan="1" colspan="1">6LUB</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.3</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">DRD4</td><td valign="middle" align="center" rowspan="1" colspan="1">Dopamine receptor D4</td><td valign="middle" align="center" rowspan="1" colspan="1">5WIU</td><td valign="middle" align="center" rowspan="1" colspan="1">-9.1</td></tr></tbody></table></table-wrap><table-wrap position="float" id="T2" orientation="portrait"><label>Table 2</label><caption><title>Types of chemical modifications in quercetin analogs.</title></caption><table frame="border" rules="all" width="100%"><thead><tr><th valign="top" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Substituent</bold>
+</th><th valign="top" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Name</bold>
+</th></tr></thead><tbody><tr><td valign="top" align="center" scope="row" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T2_1.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">Amino</td></tr><tr><td valign="top" align="center" scope="row" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T2_2.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">N-dimethylamino</td></tr><tr><td valign="top" align="center" scope="row" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T2_3.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">Carboxylic</td></tr><tr><td valign="top" align="center" scope="row" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T2_4.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">Pyridinyl</td></tr></tbody></table></table-wrap><table-wrap position="float" id="T3" orientation="portrait"><label>Table 3</label><caption><title>Chemical structure of 19 quercetin analogs and interaction energy between quercetin analogs and DAPK1.</title></caption><table frame="border" rules="all" width="100%"><thead><tr><th valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Compounds</bold>
+</th><th valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Chemical Structure</bold>
+</th><th valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Interaction Energy (kcal/mol)</bold>
+</th></tr></thead><tbody><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Quercetin-A1 (Q-A1)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_1.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.2</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Quercetin-A2 (Q-A2)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_2.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.0</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Quercetin-A3 (Q-A3)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_3.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.5</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Quercetin-A4 (Q-A4)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_4.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.6</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Quercetin-A5 (Q-A5)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_5.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.1</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Quercetin-A6 (Q-A6)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_6.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.4</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Quercetin-A7 (Q-A7)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_7.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.5</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Quercetin-A1a (Q-A1a)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_8.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-9.6</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Quercetin-A1a1 (Q-A1a1)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_9.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-9.5</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Quercetin-A1b (Q-A1b)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_10.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.2</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Morin</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_11.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.1</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Morin-A1 (M-A1)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_12.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.2</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Morin-A1a (M-A1a)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_13.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.0</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Morin-A1b (M-A1b)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_14.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.2</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Morin-A11 (M-A11)</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_15.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-9.3</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Kaempferol</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_16.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.2</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Compound 1</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_17.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.5</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Compound 2</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_18.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.1</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">Compound 3</td><td valign="middle" align="center" rowspan="1" colspan="1">
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CN-22-2353_T3_19.jpg"/>
+</td><td valign="middle" align="center" rowspan="1" colspan="1">-6.9</td></tr></tbody></table></table-wrap><table-wrap position="float" id="T4" orientation="portrait"><label>Table 4</label><caption><title>Interaction energy between quercetin-A1a or Quercetin-A1a1 and seven candidate proteins.</title></caption><table frame="border" rules="all" width="100%"><thead><tr><th valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Protein Name</bold>
+</th><th valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Energy for Quercetin-A1a Binding (kcal/mol)</bold>
+</th><th valign="middle" align="center" scope="col" rowspan="1" colspan="1">
+<bold>Energy for Quercetin-A1a1 Binding (kcal/mol)</bold>
+</th></tr></thead><tbody><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">DAPK1</td><td valign="middle" align="center" rowspan="1" colspan="1">-9.6</td><td valign="middle" align="center" rowspan="1" colspan="1">-9.5</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">CDK1</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.1</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.7</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">DRD4</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.5</td><td valign="middle" align="center" rowspan="1" colspan="1">-9.1</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">PLK1</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.7</td><td valign="middle" align="center" rowspan="1" colspan="1">-8.0</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">IGF1R</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.8</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.4</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">EGFR</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.5</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.0</td></tr><tr><td valign="middle" align="center" scope="row" rowspan="1" colspan="1">c-MET</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.6</td><td valign="middle" align="center" rowspan="1" colspan="1">-7.6</td></tr></tbody></table></table-wrap></floats-group></article></pmc-articleset>

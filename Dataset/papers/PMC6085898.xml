@@ -1,0 +1,704 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">Brain Behav</journal-id><journal-id journal-id-type="iso-abbrev">Brain Behav</journal-id><journal-id journal-id-type="pmc-domain-id">1650</journal-id><journal-id journal-id-type="pmc-domain">brb</journal-id><journal-id journal-id-type="publisher-id">BRB3</journal-id><journal-title-group><journal-title>Brain and Behavior</journal-title></journal-title-group><issn pub-type="epub">2162-3279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6085898</article-id><article-id pub-id-type="pmcid-ver">PMC6085898.1</article-id><article-id pub-id-type="pmcaid">6085898</article-id><article-id pub-id-type="pmcaiid">6085898</article-id><article-id pub-id-type="pmid">29931756</article-id><article-id pub-id-type="doi">10.1002/brb3.1020</article-id><article-id pub-id-type="publisher-id">BRB31020</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>The association between “Brain‐Age Score” (<styled-content style="fixed-case">BAS</styled-content>) and traditional neuropsychological screening tools in Alzheimer's disease</article-title><alt-title alt-title-type="left-running-head">BEHESHTI et al.</alt-title></title-group><contrib-group><contrib id="brb31020-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Beheshti</surname><given-names initials="I">Iman</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-4750-3433</contrib-id><address><email>Iman.beheshti@ncnp.go.jp</email></address><xref ref-type="aff" rid="brb31020-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="brb31020-cr-0002" contrib-type="author"><name name-style="western"><surname>Maikusa</surname><given-names initials="N">Norihide</given-names></name><xref ref-type="aff" rid="brb31020-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="brb31020-cr-0003" contrib-type="author"><name name-style="western"><surname>Matsuda</surname><given-names initials="H">Hiroshi</given-names></name><xref ref-type="aff" rid="brb31020-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="brb31020-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Integrative Brain Imaging Center</named-content>
+<institution>National Center of Neurology and Psychiatry</institution>
+<named-content content-type="city">Kodaira</named-content>
+<named-content content-type="country-part">Tokyo</named-content>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Iman Beheshti, Integrative Brain Imaging Center, National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.<break/>
+Email: <email>Iman.beheshti@ncnp.go.jp</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>6</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2018</year></pub-date><volume>8</volume><issue>8</issue><issue-id pub-id-type="pmc-issue-id">318592</issue-id><issue-id pub-id-type="doi">10.1002/brb3.2018.8.issue-8</issue-id><elocation-id>e01020</elocation-id><history><date date-type="received"><day>10</day><month>10</month><year>2017</year></date><date date-type="rev-recd"><day>05</day><month>4</month><year>2018</year></date><date date-type="accepted"><day>09</day><month>5</month><year>2018</year></date></history><pub-history><event event-type="pmc-release"><date><day>22</day><month>06</month><year>2018</year></date></event><event event-type="pmc-live"><date><day>16</day><month>08</month><year>2018</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-07-21 03:25:24.910"><day>21</day><month>07</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2018 National Center of Neurology and Psychiatry. <italic toggle="yes">Brain and Behavior</italic> published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="BRB3-8-e01020.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:BRB3-8-e01020.pdf"/><abstract id="brb31020-abs-0001"><title>Abstract</title><sec id="brb31020-sec-0001"><title>Introduction</title><p>We present the Brain‐Age Score (<styled-content style="fixed-case">BAS</styled-content>) as a magnetic resonance imaging (<styled-content style="fixed-case">MRI</styled-content>)‐based index for Alzheimer's disease (<styled-content style="fixed-case">AD</styled-content>). We developed a fully automated framework for estimating the <styled-content style="fixed-case">BAS</styled-content> in healthy controls (<styled-content style="fixed-case">HC</styled-content>s) and individuals with mild cognitive impairment (<styled-content style="fixed-case">MCI</styled-content>) or <styled-content style="fixed-case">AD</styled-content>, using <styled-content style="fixed-case">MRI</styled-content> scans.</p></sec><sec id="brb31020-sec-0002"><title>Methods</title><p>We trained the proposed framework using 385 <styled-content style="fixed-case">HC</styled-content>s from the <styled-content style="fixed-case">IXI</styled-content> and <styled-content style="fixed-case">OASIS</styled-content> datasets and evaluated 146 <styled-content style="fixed-case">HC</styled-content>s, 102 stable‐<styled-content style="fixed-case">MCI</styled-content> (<styled-content style="fixed-case">sMCI</styled-content>), 112 progressive‐<styled-content style="fixed-case">MCI</styled-content> (<styled-content style="fixed-case">pMCI</styled-content>), and 147 <styled-content style="fixed-case">AD</styled-content> patients from the J‐<styled-content style="fixed-case">ADNI</styled-content> dataset. We used a correlation test to determine the association between the <styled-content style="fixed-case">BAS</styled-content> and four traditional screening tools of <styled-content style="fixed-case">AD</styled-content>: the Mini‐Mental State Examination (<styled-content style="fixed-case">MMSE</styled-content>), Clinical Dementia Ratio (<styled-content style="fixed-case">CDR</styled-content>), Alzheimer's Disease Assessment Score (<styled-content style="fixed-case">ADAS</styled-content>), and Functional Assessment Questionnaire (<styled-content style="fixed-case">FAQ</styled-content>). Furthermore, we assessed the association between <styled-content style="fixed-case">BAS</styled-content> and anatomical <styled-content style="fixed-case">MRI</styled-content> measurements: the normalized gray matter (<styled-content style="fixed-case">nGM</styled-content>), normalized white matter (<styled-content style="fixed-case">nWM</styled-content>), normalized cerebrospinal fluid (<styled-content style="fixed-case">nCSF</styled-content>), mean cortical thickness as well as hippocampus volume.</p></sec><sec id="brb31020-sec-0003"><title>Results</title><p>The correlation results demonstrated that the <styled-content style="fixed-case">BAS</styled-content> is in line with traditional screening tools of <styled-content style="fixed-case">AD</styled-content> (i.e., the <styled-content style="fixed-case">MMSE</styled-content>,<styled-content style="fixed-case"> CDR</styled-content>,<styled-content style="fixed-case"> ADAS</styled-content>, and <styled-content style="fixed-case">FAQ</styled-content> scores) as well as anatomical <styled-content style="fixed-case">MRI</styled-content> measurements (i.e., <styled-content style="fixed-case">nGM</styled-content>,<styled-content style="fixed-case"> nCSF</styled-content>, mean cortical thickness, and hippocampus volume).</p></sec><sec id="brb31020-sec-0004"><title>Discussion</title><p>The <styled-content style="fixed-case">BAS</styled-content> may be useful for diagnosing the brain atrophy level and can be a reliable automated index for clinical applications and neuropsychological screening tools.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="brb31020-kwd-0001">ADAS</kwd><kwd id="brb31020-kwd-0002">Alzheimer's disease</kwd><kwd id="brb31020-kwd-0003">anatomical <styled-content style="fixed-case">MRI</styled-content> measurements</kwd><kwd id="brb31020-kwd-0004">brain‐age score</kwd><kwd id="brb31020-kwd-0005">CDR</kwd><kwd id="brb31020-kwd-0006">FAQ</kwd><kwd id="brb31020-kwd-0007">mild cognitive impairment</kwd><kwd id="brb31020-kwd-0008">MMSE</kwd><kwd id="brb31020-kwd-0009">neuropsychological screening</kwd><kwd id="brb31020-kwd-0010">structural <styled-content style="fixed-case">MRI</styled-content></kwd></kwd-group><funding-group><award-group><funding-source>This research was partially supported by an Intramural Research Grant (27‐8) for Neurological and Psychiatric Disorders of the National Center of Neurology and Psychiatry, Tokyo, Japan.</funding-source><award-id>27‐8</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="2"/><page-count count="14"/><word-count count="8284"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>brb31020</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.4 mode:remove_FC converted:10.08.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="brb31020-cit-1001">
+<string-name name-style="western">
+<surname>Beheshti</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maikusa</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matsuda</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>The association between “Brain‐Age Score” (BAS) and traditional neuropsychological screening tools in Alzheimer's disease</article-title>. <source xml:lang="en">Brain Behav</source>. <year>2018</year>;<volume>8</volume>:<elocation-id>e01020</elocation-id>
+<pub-id pub-id-type="doi">10.1002/brb3.1020</pub-id>
+<pub-id pub-id-type="pmcid">PMC6085898</pub-id><pub-id pub-id-type="pmid">29931756</pub-id></mixed-citation>
+</p></notes></front><body><p>
+<boxed-text position="anchor" content-type="box" id="brb31020-blkfxd-0002" orientation="portrait"><caption><title>Highlights</title></caption><p>
+<list list-type="bullet" id="brb31020-list-0001"><list-item><p>We present the Brain‐Age Score (BAS) as a MRI‐based index for AD.</p></list-item><list-item><p>Our automated computer‐aided framework estimates the BAS in healthy and MCI/AD brains.</p></list-item><list-item><p>The BAS is in line with traditional screening tools of AD as well as anatomical MRI measurements.</p></list-item><list-item><p>The BAS could be used for diagnosing brain atrophy as a reliable automated index.</p></list-item></list>
+</p></boxed-text>
+</p><sec id="brb31020-sec-0006"><label>1</label><title>INTRODUCTION</title><p>Assessments of Alzheimer's disease (AD) have relied almost extensively on cognitive and functional assessments such as the Mini‐Mental State Examination (MMSE) (Folstein, Folstein, &amp; McHugh, <xref rid="brb31020-bib-0015" ref-type="ref">1975</xref>), the Clinical Dementia Rating (CDR) (Morris, <xref rid="brb31020-bib-0040" ref-type="ref">1993</xref>), the Alzheimer's Disease Assessment Score (ADAS) (Mohs, Rosen, &amp; Davis, <xref rid="brb31020-bib-0038" ref-type="ref">1983</xref>), and the Functional Assessment Questionnaire (FAQ) (Fillenbaum &amp; Smyer, <xref rid="brb31020-bib-0014" ref-type="ref">1981</xref>), plus a complete review of the medical history of the subject and his/her family members. These traditional screening tools are generally performed based on simple surveys that has been shown to be associated with common method bias (Presser et al., <xref rid="brb31020-bib-0042" ref-type="ref">2004</xref>). These methods also suffer from a lack of certainty due to factors such as the patient's mood, the existence of other important events or illnesses, side effects from other treatments, and the patient's level of education. Thus, bias in these survey methods increases the uncertainty in the diagnosis of AD.</p><p>With respect to this point, an automated and physician‐friendly computer screening of AD is urgently needed. Several research groups have investigated various fully automated approaches in AD studies (Bedell et al., <xref rid="brb31020-bib-0001" ref-type="ref">2014</xref>; Beheshti, Olya, &amp; Demirel, <xref rid="brb31020-bib-0004" ref-type="ref">2016</xref>; Cuingnet et al., <xref rid="brb31020-bib-0009" ref-type="ref">2011</xref>; Franke, Ziegler, Klöppel, &amp; Gaser, <xref rid="brb31020-bib-0021" ref-type="ref">2010</xref>; J Martinez‐Murcia, Górriz, Ram'irez, &amp; Ortiz, <xref rid="brb31020-bib-0035" ref-type="ref">2016</xref>; Klöppel et al., <xref rid="brb31020-bib-0027" ref-type="ref">2008</xref>; Mikhno, Redei, Mann, &amp; Parsey, <xref rid="brb31020-bib-0037" ref-type="ref">2015</xref>). Despite recent progress in the automated assessment of AD, the development of an automatic approach that addresses the uncertainty of diagnosing AD is still challenging and requires further data. Previous studies have shown that neuroimaging data along with advanced pattern recognition techniques can be used for predicting clinical scores (Moradi, Hallikainen, Hänninen, Tohka, &amp; Neuroimaging, <xref rid="brb31020-bib-0039" ref-type="ref">2017</xref>; Shen et al., <xref rid="brb31020-bib-0046" ref-type="ref">2011</xref>; Stonnington et al., <xref rid="brb31020-bib-0048" ref-type="ref">2010</xref>) as well as chronological age (Cole, <xref rid="brb31020-bib-0006" ref-type="ref">2017</xref>).</p><p>The brain‐age technique was recently introduced as a powerful biomarker that can be used to estimate an individual's neuroanatomical age (Duchesne &amp; Gravel, <xref rid="brb31020-bib-0012" ref-type="ref">2016</xref>; Franke et al., <xref rid="brb31020-bib-0021" ref-type="ref">2010</xref>). The use of the brain‐age technique has helped reveal the abnormal brain changes in many brain studies such as those of AD (Franke et al., <xref rid="brb31020-bib-0021" ref-type="ref">2010</xref>), the prediction of the conversion of mild cognitive impairment (MCI) to AD (Gaser, Franke, Klöppel, Koutsouleris, &amp; Sauer, <xref rid="brb31020-bib-0023" ref-type="ref">2013</xref>), and investigations of the brains of children and adolescents (Franke, Luders, May, Wilke, &amp; Gaser, <xref rid="brb31020-bib-0020" ref-type="ref">2012</xref>), long‐term meditation practitioners (Luders, Cherbuin, &amp; Gaser, <xref rid="brb31020-bib-0034" ref-type="ref">2016</xref>), and schizophrenia patients (Koutsouleris et al., <xref rid="brb31020-bib-0029" ref-type="ref">2014</xref>).</p><p>Here, we introduce the “Brain‐Age Score” (BAS), which we define as the difference between an individual's chronological age and his or her neuroanatomical age, as a fully automated and reliable index that can be used to assess the level of AD in individual subjects. We developed an automated brain‐age framework based on voxel‐based morphometry (VBM) features obtained from structural magnetic resonance imaging (sMRI) data in order to estimate the neurological age among healthy controls, individuals with MCI, and individuals with AD.</p><p>The proposed framework was trained on 385 samples from the IXI dataset (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.brain-development.org/ixi-dataset/">http://www.brain-development.org/ixi-dataset/</ext-link>) and the OASIS dataset (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.oasis-brains.org/">http://www.oasis-brains.org/</ext-link>). We evaluated the proposed framework on 147 AD patients, 112 progressive‐MCI (pMCI) patients, 102 stable‐MCI (sMCI) patients, and 146 healthy controls (HCs) acquired from the J‐ADNI dataset. More information about J‐ADNI is provided in the <xref rid="brb31020-app-0001" ref-type="app">Appendix</xref> and (Fujishima et al., <xref rid="brb31020-bib-0022" ref-type="ref">2017</xref>). To test the efficiency of the proposed framework, we performed a correlation test between the BAS and the neuropsychological screening tools (i.e., MMSE, CDR, ADAS, and FAQ) as well as between the BAS and anatomical MRI measurements (i.e., normalized gray matter (nGM), normalized white matter (nWM), normalized cerebrospinal fluid (nCSF), mean cortical thickness, and hippocampus volume).</p><p>In light of the relevant literature, we hypothesized that the BAS would show adequate performance in the screening of the level of AD in a fully automated manner, using only a standard MRI scan. Our findings demonstrate that (1) the BAS is capable of being used to diagnosis an individual's level of brain atrophy, and (2) it can be considered a reliable automated index for clinical applications as well as neuropsychological screening tools.</p></sec><sec id="brb31020-sec-0007"><label>2</label><title>LITERATE REVIEW</title><p>In this section, we review the brain‐age models as well as feature selection procedures in a series of neuroimaging studies. Several research groups have investigated automated methods to estimate the neuroanatomical age from sMRI data. As an example, the team of Gaser and colleagues (Franke et al., <xref rid="brb31020-bib-0021" ref-type="ref">2010</xref>) introduced an automated framework in the basis of GM density maps through a standard VBM procedure and a regression model for estimating the brain‐age of healthy subjects. They examined the influence of different factors such as MRI preprocessing, regression models, data reduction, the use of different scanners, and the training sample size on the age estimation accuracy using sMRI data. In another study (Gaser et al., <xref rid="brb31020-bib-0023" ref-type="ref">2013</xref>), the researchers modeled a brain‐age framework using a structural MRI database of 320 healthy controls obtained from the IXI and OASIS datasets, and they estimated the individual brain ages of MCI patients from the ADNI dataset. They reported an accuracy value of up to 81% for predicting conversion to AD in MCI patients at the baseline. The authors in (Franke &amp; Gaser, <xref rid="brb31020-bib-0017" ref-type="ref">2012</xref>) presented longitudinal alterations in BAS in the 150 AD patients, 112 pMCI patients, 36 sMCI patients, and 108 HCs from the ADNI dataset, where correlation values of <italic toggle="yes">r</italic> = −0.46, <italic toggle="yes">r</italic> = 0.39 and <italic toggle="yes">r</italic> = 0.45 (<italic toggle="yes">p </italic>&lt;<italic toggle="yes"> </italic>0.001) were achieved between baseline BAS and the MMSE, the CDR and the ADAS scores, respectively. In (Koutsouleris et al., <xref rid="brb31020-bib-0029" ref-type="ref">2014</xref>), the researchers examined neuroanatomical age estimation in individuals with schizophrenia and other mental disorders. They trained their proposed brain‐age framework using a structural MRI database of 800 healthy subjects examined at five different centers, and then, they evaluated individuals in at‐risk mental states for psychosis, borderline personality disorder, and major depression and schizophrenia subjects. The researchers in (Luders et al., <xref rid="brb31020-bib-0034" ref-type="ref">2016</xref>) considered a brain‐age framework to investigate the neuroanatomical age in subjects who had been regularly engaging in meditation for a period of years. They examined over 650 subjects in the training phase and then evaluated a large sample of the same type of meditating subjects. They observed that at age 50, the brains of the meditating subjects were younger than those of age‐matched healthy controls. In (Cole, Leech, &amp; Sharp, <xref rid="brb31020-bib-0007" ref-type="ref">2015</xref>), the authors built a brain‐age model in basis of GM and WM density maps on 1,537 healthy individual and then tested on 113 independent healthy controls and 99 patients after traumatic brain injury (TBL). They stated a mean BAS of 4.66 and 5.97 years for GM and WM modalities, respectively, among TBL patients. In another study (Cole et al., <xref rid="brb31020-bib-0008" ref-type="ref">2017</xref>), the authors conducted a brain‐age model by combining the GM and WM modalities from 2,001 healthy controls to investigate the brain age on HIV‐positive and HIV‐negative subjects. According to this research, they realized that HIV‐positive subjects have a significantly greater BAS in comparison with HIV‐negative subjects.</p><p>Many researchers have presented different dimensionality reduction and feature selection methods in machine learning for neuroimaging studies. For instance, the authors in (López et al., <xref rid="brb31020-bib-0033" ref-type="ref">2009</xref>) conducted a data reduction on features extracted from single photon emission computed tomography (SPECT) and positron emission tomography (PET) images by means of principal component analysis (PCA). In (Ramírez et al., <xref rid="brb31020-bib-0043" ref-type="ref">2010</xref>) a new data reduction method was introduced by the means of partial least squares (PLSs) to overcome the curse of dimensionality. The authors applied the proposed PLS‐based method on SPECT data and extracted the score features for an AD classification task. The PLS‐based data reduction has been widely used in different neuroimaging studies (Chaves, Ramírez, Górriz, &amp; Puntonet, <xref rid="brb31020-bib-0005" ref-type="ref">2012</xref>; Khedher, Ramírez, Górriz, Brahim, &amp; Segovia, <xref rid="brb31020-bib-0026" ref-type="ref">2015</xref>; Ramírez et al., <xref rid="brb31020-bib-0043" ref-type="ref">2010</xref>; Segovia, Górriz, Ramírez, Salas‐González, &amp; Álvarez, <xref rid="brb31020-bib-0045" ref-type="ref">2013</xref>). The researchers in (Liu, Zhang, &amp; Shen, <xref rid="brb31020-bib-0032" ref-type="ref">2016</xref>) used a sparse‐based feature selection method to find informative features from template space for AD classification and MCI conversion prediction. In (Beheshti &amp; Demirel, <xref rid="brb31020-bib-0002" ref-type="ref">2016</xref>), the authors proposed a feature‐ranking strategy for identifying the most informative features from a high‐dimensional space in an AD classification task. The dimensionality of selected features was determined by the mean of fisher criterion. It is worth nothing that the most of these approaches were hired in classification studies. In this study, we present an automatic feature selection approach in the basis of feature‐ranking strategy for brain‐age framework.</p></sec><sec id="brb31020-sec-0008"><label>3</label><title>STUDY PARTICIPANTS</title><p>A total of 892 structural MRI scans from the IXI, OASIS, and J‐ADNI datasets were used. To separate the data used for training from the data used for evaluating, we divided the dataset into two main groups: (1) Training data: 385 healthy samples from the IXI and OASIS datasets of subjects aged ≥50 years, and (2) Evaluating data: 507 samples from the J‐ADNI database. We divided the total of 507 participants into four groups based on criteria as follows:</p><p>
+<list list-type="bullet" id="brb31020-list-0002"><list-item><p>AD subjects: MMSE score of 20–26, CDR 0.5 or 1, and memory complaint.</p></list-item><list-item><p>HC subjects: MMSE score 24–30, CDR of 0, non‐depressed, no memory complaint.</p></list-item><list-item><p>sMCI subjects: MMSE score 24–30, memory complaint (preferably corroborated by an informant), objective memory loss measured, a CDR of 0.5, absence of significant levels of impairment in other cognitive domains, and essentially preserved activities of daily living (if the diagnosis was MCI for ≥36 months).</p></list-item><list-item><p>pMCI subjects: MMSE score 24–30, memory complaint (preferably corroborated by an informant), objective memory loss measured, a CDR of 0.5, absence of significant levels of impairment in other cognitive domains, essentially preserved activities of daily living (if the diagnosis was MCI at baseline but conversion to AD was reported after baseline within 6–36 months).</p></list-item></list>
+</p><p>All of the subjects whose samples were evaluated had taken the MMSE, CDR, ADAS, and FAQ as neuropsychological screening tools. The evaluating data were acquired at the baseline. Table <xref rid="brb31020-tbl-0001" ref-type="table">1</xref> summarizes the demographic and clinical characteristics of the subjects. This study was approved by the Institutional Review Board at the National Center of Neurology and Psychiatry, Tokyo, Japan.</p><table-wrap id="brb31020-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Characteristics of the study participants</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="3" valign="top" rowspan="1">Training data (<italic toggle="yes">n</italic> = 385)</th><th align="left" colspan="4" valign="top" rowspan="1">Evaluating data (<italic toggle="yes">n</italic> = 507)<xref ref-type="fn" rid="brb31020-note-0003">a</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Dataset:</th><th align="left" valign="top" rowspan="1" colspan="1">IXI</th><th align="left" valign="top" rowspan="1" colspan="1">OASIS</th><th align="left" valign="top" rowspan="1" colspan="1">J‐ADNI</th><th align="left" valign="top" rowspan="1" colspan="1">J‐ADNI</th><th align="left" valign="top" rowspan="1" colspan="1">J‐ADNI</th><th align="left" valign="top" rowspan="1" colspan="1">J‐ADNI</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Category</td><td align="left" rowspan="1" colspan="1">HC</td><td align="left" rowspan="1" colspan="1">HC</td><td align="left" rowspan="1" colspan="1">HC</td><td align="left" rowspan="1" colspan="1">sMCI</td><td align="left" rowspan="1" colspan="1">pMCI</td><td align="left" rowspan="1" colspan="1">AD</td></tr><tr><td align="left" rowspan="1" colspan="1">No. of subjects</td><td align="left" rowspan="1" colspan="1">274</td><td align="left" rowspan="1" colspan="1">111</td><td align="left" rowspan="1" colspan="1">146</td><td align="left" rowspan="1" colspan="1">102</td><td align="left" rowspan="1" colspan="1">112</td><td align="left" rowspan="1" colspan="1">147</td></tr><tr><td align="left" rowspan="1" colspan="1">Females/males</td><td align="left" rowspan="1" colspan="1">170/104</td><td align="left" rowspan="1" colspan="1">82/29</td><td align="left" rowspan="1" colspan="1">78/68</td><td align="left" rowspan="1" colspan="1">57/45</td><td align="left" rowspan="1" colspan="1">65/47</td><td align="left" rowspan="1" colspan="1">84/63</td></tr><tr><td align="left" rowspan="1" colspan="1">Age (yrs)</td><td align="left" rowspan="1" colspan="1">63.50 [7.64]</td><td align="left" rowspan="1" colspan="1">70.86 [10.68]</td><td align="left" rowspan="1" colspan="1">68.28 [5.61]</td><td align="left" rowspan="1" colspan="1">73.44 [5.97]</td><td align="left" rowspan="1" colspan="1">73.62 [5.57]</td><td align="left" rowspan="1" colspan="1">74.07 [6.57]</td></tr><tr><td align="left" rowspan="1" colspan="1">MMSE</td><td align="left" rowspan="1" colspan="1">n/a</td><td align="left" rowspan="1" colspan="1">29.07 [1.17]</td><td align="left" rowspan="1" colspan="1">29.11 [1.20]</td><td align="left" rowspan="1" colspan="1">26.55 [1.81]</td><td align="left" rowspan="1" colspan="1">26.08 [1.53]</td><td align="left" rowspan="1" colspan="1">22.55 [1.80]</td></tr><tr><td align="left" rowspan="1" colspan="1">CDR</td><td align="left" rowspan="1" colspan="1">n/a</td><td align="left" rowspan="1" colspan="1">0.00 [0.00]</td><td align="left" rowspan="1" colspan="1">0.00 [0.00]</td><td align="left" rowspan="1" colspan="1">0.50 [0.00]</td><td align="left" rowspan="1" colspan="1">0.50 [0.00]</td><td align="left" rowspan="1" colspan="1">0.67 [0.23]</td></tr><tr><td align="left" rowspan="1" colspan="1">ADAS</td><td align="left" rowspan="1" colspan="1">n/a</td><td align="left" rowspan="1" colspan="1">n/a</td><td align="left" rowspan="1" colspan="1">7.40 [4.24]</td><td align="left" rowspan="1" colspan="1">17.85 [6.08]</td><td align="left" rowspan="1" colspan="1">22.20 [5.78]</td><td align="left" rowspan="1" colspan="1">27.42 [5.84]</td></tr><tr><td align="left" rowspan="1" colspan="1">FAQ</td><td align="left" rowspan="1" colspan="1">n/a</td><td align="left" rowspan="1" colspan="1">n/a</td><td align="left" rowspan="1" colspan="1">0.12 [1.15]</td><td align="left" rowspan="1" colspan="1">2.51 [2.88]</td><td align="left" rowspan="1" colspan="1">4.64 [4.78]</td><td align="left" rowspan="1" colspan="1">10.16 [5.90]</td></tr></tbody></table><table-wrap-foot><title>
+<italic toggle="yes">Notes</italic>
+</title><fn id="brb31020-note-0001"><p>All data are mean [std. dev.] mode.</p></fn><fn id="brb31020-note-0002"><p>AD: people with Alzheimer's disease; CDR: clinical dementia rating; HC: healthy control participants; sMCI: stable mild cognitive impairment; pMCI: progressive mild cognitive impairment; MMSE: mini‐mental state examination; FAQ: functional assessment questionnaire; ADAS: alzheimer's disease assessment score; n/a: not available.</p></fn><fn id="brb31020-note-0003"><label>a</label><p>Only data at the baseline were used in the evaluation.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="brb31020-sec-0009"><label>4</label><title>METHODS</title><p>Here, we describe the computational processes that we applied to the data. The pipeline of the proposed framework is illustrated in Figure <xref rid="brb31020-fig-0001" ref-type="fig">1</xref>; the protocol was as follows. (1) We performed MRI preprocessing using a VBM approach on T1‐weighted MRI data. (2) We used our proposed automated feature selection approach to select the most informative features. (3) We trained the proposed framework using the training data and then assessed the framework using the evaluating data. (4) We tested the results of our proposed approach using a correlation test between the BAS values and neuropsychological subjects’ scores (i.e., MMSE, CDR, ADAS, and FAQ) as well as the subjects’ anatomical MRI measurements (i.e., nGM, nWM, nCSF, mean cortical thickness, and normalized hippocampus volume). Detailed explanations concerning the above‐described steps are provided next.</p><fig fig-type="Figure" xml:lang="en" id="brb31020-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The pipeline of the proposed framework for estimating the <styled-content style="fixed-case">BAS</styled-content> (Brain‐Age Score)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="BRB3-8-e01020-g001.jpg"/></fig><sec id="brb31020-sec-0010"><label>4.1</label><title>MRI preprocessing</title><p>All T1‐weighted MRI scans were preprocessed using the SPM8 package (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.fil.ion.ucl.ac.uk/spm/software/spm8/">http://www.fil.ion.ucl.ac.uk/spm/software/spm8/</ext-link>) and the standard VBM8 toolbox (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://dbm.neuro.uni-jena.de/vbm">http://dbm.neuro.uni-jena.de/vbm</ext-link>). With the VBM8 toolbox, all of the subjects’ MRI scans were bias‐corrected, special normalized and decomposed into the gray matter (GM), white matter (WM), and cerebrospinal fluid (CSF) components. In this study, we used only the GM images. As proposed in study (Franke et al., <xref rid="brb31020-bib-0021" ref-type="ref">2010</xref>), we processed the GM images using an affine registration and then spatially smoothed with an 8‐mm full‐width‐half‐maximum Gaussian kernel followed by spatial resolution to 8 mm. The voxel values for each subject were considered the MRI features.</p><p>To evaluate the association between BAS values and anatomical MRI measurements, we performed a FreeSurfer image analysis ver. 5.3.0. (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://surfer.nmr.mgh.harvard.edu/">https://surfer.nmr.mgh.harvard.edu/</ext-link>) on evaluating data to extract the hippocampus volumes as well as cortical thickness values. For each subject, the left and right hippocampus volumes were calculated and added together. The mean cortical thickness was computed by averaging of whole‐brain cortical thickness values. Besides, the whole‐brain GM, WM, and CSF volumes were extracted through VBM analysis. We normalized the GM, WM, and CSF volumes as well as hippocampus measurements for head size by dividing the respective intracranial volumes and considered as nGM, nWM, nCSF, and normalized hippocampus volumes, respectively.</p></sec><sec id="brb31020-sec-0011"><label>4.2</label><title>Proposed feature selection</title><p>The purpose of feature selection is to identify the most informative subset of the available features not only for data reduction, but also for improving the performance. In this context, we present a new and automatic feature selection approach based on feature‐ranking for our proposed brain‐age framework. The purpose of any feature‐ranking strategy is to sort the features based on their information and then select an optimal informative subset in order to speed up the learning process and promote the performance of models (Zhou &amp; Wang, <xref rid="brb31020-bib-0056" ref-type="ref">2007</xref>). The details of the feature‐ranking strategy were as described (Beheshti &amp; Demirel, <xref rid="brb31020-bib-0002" ref-type="ref">2016</xref>; Beheshti, Demirel, Farokhian, Yang, &amp; Matsuda, <xref rid="brb31020-bib-0003" ref-type="ref">2016</xref>). The proposed feature selection approach is applied only on training data. In the present study, we sorted all voxels based on the respective correlation value of each voxel value and the subjects’ chronological age, in an ascending order. Then, we increased the number of ranked features from 1 to utmost number of features, along with the calculation of the respective mean absolute error (MAE) during the cross‐validation strategy. Based on the cross‐validation strategy, we divided the training data into different <italic toggle="yes">k</italic>‐folds, where, in each step, <italic toggle="yes">k</italic>‐1 folds are randomly used for training a regression model and the remained fold for testing. This process is performed <italic toggle="yes">k</italic> different times by leaving a different fold as test data, which are then used to estimate the respective <italic toggle="yes">MSE</italic> values. In this study, <italic toggle="yes">k </italic>=<italic toggle="yes"> </italic>5 was used. For each iteration (i.e., increasing the number of ranked features), the total MAE was calculated by the averaging of MAEs obtained across the cross‐validation.</p><p>The optimal number of ranked features that minimizes the total MAE was selected as the optimal subset. Algorithm 1 shows the pseudo‐code of the proposed feature selection method to determine the optimal‐feature‐subset. The advantage of this procedure is that the top informative voxels are determined in a fully automated manner.</p><p>Algorithm 1 The pseudo‐code of the proposed feature selection method.</p><p>
+<table-wrap id="nlm-table-wrap-1" xml:lang="en" orientation="portrait" position="anchor"><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold> ● V</bold> ← component_set (Data<sub>Train</sub>, Age<sub>Train</sub>)<break/>
+<bold>●</bold> Ranked features ← correlation ranking method (<bold>V</bold>)<break/>
+<bold>●</bold> number of top ranked features← Ø<break/>
+<bold>●</bold> Ψ = 3,747% number of features<break/>
+<bold>●</bold>
+<italic toggle="yes">k</italic> = 5<break/>
+<bold>● for </bold>
+<italic toggle="yes">n</italic> = 1 to Ψ <bold>do</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<bold>R</bold> ← Ranked features (1: <italic toggle="yes">n</italic>, Age<sub>Train</sub>)
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+Total_MAE (<italic toggle="yes">n</italic>) ← ∞ 
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+Cross‐validation (Set <bold>R</bold>) { 
+</td></tr><tr><td align="left" style="padding-left:20%" rowspan="1" colspan="1">
+Repeat <italic toggle="yes">k</italic> times
+</td></tr><tr><td align="left" style="padding-left:25%" rowspan="1" colspan="1">
+Randomly divide <bold>R</bold> into <italic toggle="yes">k</italic>‐folds, <italic toggle="yes">F</italic> = {f<sub>1</sub>, f<sub>2</sub>, …, f<sub>k</sub>}
+</td></tr><tr><td align="left" style="padding-left:25%" rowspan="1" colspan="1">
+<bold>Foreach</bold> fold f<sub>i</sub> {
+</td></tr><tr><td align="left" style="padding-left:30%" rowspan="1" colspan="1">
+MAE<sub>i</sub> ← ∞,
+</td></tr><tr><td align="left" style="padding-left:30%" rowspan="1" colspan="1">
+S<sub>train</sub> ← <italic toggle="yes">F</italic> – {f<sub>i</sub>}
+</td></tr><tr><td align="left" style="padding-left:30%" rowspan="1" colspan="1">
+S<sub>test</sub> ← f<sub>i</sub>
+</td></tr><tr><td align="left" style="padding-left:30%" rowspan="1" colspan="1">
+Train the SVR on S<sub>train</sub>
+</td></tr><tr><td align="left" style="padding-left:30%" rowspan="1" colspan="1">
+Predicted age ← Test the SVR on S<sub>test</sub>
+</td></tr><tr><td align="left" style="padding-left:30%" rowspan="1" colspan="1">
+calculate the MAE<sub>i</sub>
+<break/>
+             }<break/>
+         }
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+Total_MAE (<italic toggle="yes">n</italic>) ← mean MAE<sub>i</sub>
+<break/>
+<bold>● end for</bold>
+<break/>
+<bold>●</bold> number of top ranked features ← arg min <italic toggle="yes">Total_MAE</italic> )<italic toggle="yes">n</italic> ∊ 1, …, ψ<break/>
+<bold>● Return</bold> Ranked features (1, 1: number of top ranked features)
+</td></tr></tbody></table></table-wrap>
+</p></sec><sec id="brb31020-sec-0012"><label>4.3</label><title>The support vector regression algorithm</title><p>For the prediction of the brain age, we established the framework using a support vector regression (SVR) algorithm (Smola &amp; Schölkopf, <xref rid="brb31020-bib-0047" ref-type="ref">2004</xref>) because of its desirable characteristics and easy computation for a high‐dimensional feature space. The estimation model in the basis of SVR algorithm has been widely used in different neuroimaging studies (Dosenbach et al., <xref rid="brb31020-bib-0011" ref-type="ref">2011</xref>; Erus et al., <xref rid="brb31020-bib-0013" ref-type="ref">2015</xref>; Koutsouleris et al., <xref rid="brb31020-bib-0029" ref-type="ref">2014</xref>; Lancaster et al., <xref rid="brb31020-bib-0030" ref-type="ref">2018</xref>).In the present study, a linear v‐support vector regression (v‐SVR) performed using LIBSVM (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.csie.ntu.edu.tw/~cjlin/libsvm/">http://www.csie.ntu.edu.tw/~cjlin/libsvm/</ext-link>) toolbox with a default setting (i.e., in the LIBSVM: <italic toggle="yes">C</italic> = 1, <italic toggle="yes">v </italic>=<italic toggle="yes"> </italic>0.5) was used. The linear regression function <italic toggle="yes">f</italic> (<italic toggle="yes">x</italic>) can be represented as follows (Zhang, Zheng, Xia, Wang, &amp; Chen, <xref rid="brb31020-bib-0055" ref-type="ref">2017</xref>).
+<disp-formula id="brb31020-disp-0001"><label>(1)</label><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="nlm-math-1" overflow="scroll"><mml:mrow><mml:mi>f</mml:mi><mml:mfenced close=")" open="("><mml:mi>x</mml:mi></mml:mfenced><mml:mo>=</mml:mo><mml:mi>w</mml:mi><mml:mo>·</mml:mo><mml:mrow><mml:mi>φ</mml:mi><mml:mfenced close=")" open="("><mml:mi>x</mml:mi></mml:mfenced></mml:mrow><mml:mo>+</mml:mo><mml:mi>b</mml:mi></mml:mrow></mml:math></disp-formula>
+</p><p>in which <italic toggle="yes">x</italic> stands for an input space (i.e., the MRI features in our study) and φ refers to a kernel function. Besides, <italic toggle="yes">b</italic> and <italic toggle="yes">w</italic> denote the offset for the regression line and the slope, respectively.</p><p>More information about the theoretical background of the SVR can be found in (Scholkopf et al., <xref rid="brb31020-bib-0044" ref-type="ref">1997</xref>; Smola &amp; Schölkopf, <xref rid="brb31020-bib-0047" ref-type="ref">2004</xref>; Vapnik, <xref rid="brb31020-bib-0049" ref-type="ref">2013</xref>; Welling, <xref rid="brb31020-bib-0052" ref-type="ref">2004</xref>).</p></sec><sec id="brb31020-sec-0013"><label>4.4</label><title>Validation and statistical analysis</title><p>We calculated the accuracy of the age estimator using the MAE and root mean square error (RMSE) as follows:
+<disp-formula id="brb31020-disp-0002"><label>(2)</label><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="nlm-math-2" overflow="scroll"><mml:mrow><mml:mtext>MAE</mml:mtext><mml:mo>=</mml:mo><mml:mo stretchy="false">[</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mi>n</mml:mi><mml:mrow/><mml:mo>∗</mml:mo><mml:msub><mml:mo>∑</mml:mo><mml:mi>i</mml:mi></mml:msub><mml:mo>∣</mml:mo><mml:msubsup><mml:mi>g</mml:mi><mml:mrow><mml:mi>i</mml:mi></mml:mrow><mml:mo>′</mml:mo></mml:msubsup><mml:mo>−</mml:mo><mml:msub><mml:mi>g</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">]</mml:mo></mml:mrow></mml:math></disp-formula>
+<disp-formula id="brb31020-disp-0003"><label>(3)</label><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="nlm-math-3" overflow="scroll"><mml:mrow><mml:mtext>RMSE</mml:mtext><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mo stretchy="false">[</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mi>n</mml:mi><mml:mrow/><mml:mo>∗</mml:mo><mml:msub><mml:mo>∑</mml:mo><mml:mi>i</mml:mi></mml:msub><mml:mo>∣</mml:mo><mml:msup><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msubsup><mml:mi>g</mml:mi><mml:mrow><mml:mi>i</mml:mi></mml:mrow><mml:mo>′</mml:mo></mml:msubsup><mml:mo>−</mml:mo><mml:msub><mml:mi>g</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo stretchy="false">]</mml:mo></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo stretchy="false">/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></disp-formula>
+</p><p>where <italic toggle="yes">n</italic> is the number of subjects in the test sample, and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="nlm-math-4" overflow="scroll"><mml:msubsup><mml:mi>g</mml:mi><mml:mrow><mml:mi>i</mml:mi></mml:mrow><mml:mo>′</mml:mo></mml:msubsup></mml:math> and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="nlm-math-5" overflow="scroll"><mml:msub><mml:mi>g</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:math> denote the estimated age and the chronological age, respectively.</p><p>To test whether the BAS results are in line with the results of the four neuropsychological screening tools and hippocampus volume, we used the Pearson correlation test for the MMSE, ADAS, and FAQ screening tools as well as hippocampus volume and the Spearman correlation test for the CDR assessment. The statistical comparisons of groups were accomplished by an analysis of variance (ANOVA) followed by Tukey's multiple comparison tests, using the software program SPSS (Statistical Package for Social Sciences) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.spss.com/">http://www.spss.com/</ext-link>). Probability values &lt;0.05 were accepted as significant.</p></sec></sec><sec id="brb31020-sec-0014"><label>5</label><title>RESULTS</title><p>In this section, we evaluate the proposed framework on the J‐ADNI dataset including 147 AD, 112 pMCI, and 102 sMCI patients and 146 HCs for the determination of the association between the BAS and the neuropsychological screening tools as well as between the BAS and anatomical MRI measurements. All data used in the evaluation step were acquired at the baseline.</p><sec id="brb31020-sec-0015"><label>5.1</label><title>Performance of the proposed feature selection</title><p>As described above in section <xref rid="brb31020-sec-0009" ref-type="sec">4</xref>, the normalized and smoothing GM images were resampled to 8‐mm isotropic spatial resolution. This procedure generated 3,747 voxel values per subject, which were used as MRI features. We applied the proposed feature selection approach to select the most informative voxels for the brain‐age estimation. A total of 665 voxels were selected through proposed feature selection procedure. Figure <xref rid="brb31020-fig-0002" ref-type="fig">2</xref> illustrates the selected voxels through proposed feature selection procedure. For the evaluation of the proposed feature selection procedure, we used the HCs from the J‐ADNI dataset.</p><fig fig-type="Figure" xml:lang="en" id="brb31020-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>The illustration of selected voxels based on the absolute correlation of each voxel value and the subjects’ chronological age</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="BRB3-8-e01020-g002.jpg"/></fig><p>The proposed feature selection method not only introduced a dimensionality reduction but also reduced the overall MAE from 4.35 with 95% confidence intervals [3.83–4.87] to 4.02 years with an overall correlation <italic toggle="yes">r</italic> = 0.68, <italic toggle="yes">p </italic>&lt;<italic toggle="yes"> </italic>0.001. Table <xref rid="brb31020-tbl-0002" ref-type="table">2</xref> presents the details of the performance of the brain‐age framework using all feature vectors and our proposed feature selection approach as well as comparison to other studies. As can be seen from Table <xref rid="brb31020-tbl-0002" ref-type="table">2</xref>, our performance accuracy in terms of the MAE (4.02 years for the HC subjects) is quite comparable to other recent brain‐age estimations of healthy control subjects (Franke &amp; Gaser, <xref rid="brb31020-bib-0018" ref-type="ref">2014</xref>; Franke et al., <xref rid="brb31020-bib-0021" ref-type="ref">2010</xref>; Gaser et al., <xref rid="brb31020-bib-0023" ref-type="ref">2013</xref>; Koutsouleris et al., <xref rid="brb31020-bib-0029" ref-type="ref">2014</xref>; Lin et al., <xref rid="brb31020-bib-0031" ref-type="ref">2016</xref>; Wang, Dai, Li, Hua, &amp; He, <xref rid="brb31020-bib-0050" ref-type="ref">2012</xref>).</p><table-wrap id="brb31020-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>The performance comparison of the proposed feature selection method with using all features and the state‐of‐the‐art techniques applied to HC subjects from the J‐ADNI dataset</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">No. of features</th><th align="left" valign="top" rowspan="1" colspan="1">MAE</th><th align="left" valign="top" rowspan="1" colspan="1">RMSE</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Franke et al., <xref rid="brb31020-bib-0021" ref-type="ref">2010</xref>
+</td><td align="left" rowspan="1" colspan="1">410<xref ref-type="fn" rid="brb31020-note-0005">a</xref>
+</td><td align="left" rowspan="1" colspan="1">4.98</td><td align="left" rowspan="1" colspan="1">6.28</td></tr><tr><td align="left" rowspan="1" colspan="1">Franke &amp; Gaser, <xref rid="brb31020-bib-0018" ref-type="ref">2014</xref>
+</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">5.10</td><td align="left" rowspan="1" colspan="1">–</td></tr><tr><td align="left" rowspan="1" colspan="1">Koutsouleris et al., <xref rid="brb31020-bib-0029" ref-type="ref">2014</xref>
+</td><td align="left" rowspan="1" colspan="1">400<xref ref-type="fn" rid="brb31020-note-0005">a</xref>
+</td><td align="left" rowspan="1" colspan="1">4.60</td><td align="left" rowspan="1" colspan="1">–</td></tr><tr><td align="left" rowspan="1" colspan="1">Wang et al., <xref rid="brb31020-bib-0050" ref-type="ref">2012</xref>
+</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">4.60</td><td align="left" rowspan="1" colspan="1">5.60</td></tr><tr><td align="left" rowspan="1" colspan="1">Gaser et al., <xref rid="brb31020-bib-0023" ref-type="ref">2013</xref>
+</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">3.80</td><td align="left" rowspan="1" colspan="1">–</td></tr><tr><td align="left" rowspan="1" colspan="1">Lin et al., <xref rid="brb31020-bib-0031" ref-type="ref">2016</xref>
+</td><td align="left" rowspan="1" colspan="1">720</td><td align="left" rowspan="1" colspan="1">4.29</td><td align="left" rowspan="1" colspan="1">5.09</td></tr><tr><td align="left" rowspan="1" colspan="1">Using all features</td><td align="left" rowspan="1" colspan="1">3747</td><td align="left" rowspan="1" colspan="1">4.35</td><td align="left" rowspan="1" colspan="1">5.41</td></tr><tr><td align="left" rowspan="1" colspan="1">Proposed method</td><td align="left" rowspan="1" colspan="1">665</td><td align="left" rowspan="1" colspan="1">4.02</td><td align="left" rowspan="1" colspan="1">5.10</td></tr></tbody></table><table-wrap-foot><title>
+<italic toggle="yes">Notes</italic>
+</title><fn id="brb31020-note-0004"><p>MAE: mean absolute error; RMSE: root mean square error.</p></fn><fn id="brb31020-note-0005"><label>a</label><p>The number of principal components per subject.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="brb31020-sec-0016"><label>5.2</label><title>Estimating the brain age in the evaluating group</title><p>We applied the proposed brain‐age estimation framework to the HCs and sMCI, pMCI, and AD patients from the J‐ADNI dataset to estimate the respective BAS values. A positive BAS indicates that the individual's brain is estimated to be older than his or her chronological age and that consequently, accelerated brain aging has occurred for this individual. Conversely, a negative BAS indicates that the individual's brain is estimated to be younger than his or her chronological age. As an example, when a 65‐year‐old individual exhibits a BAS of +5, he or she shows the typical aging pattern of a 70‐year‐old individual. In the same 65‐year‐old individual, a BAS of −5 indicates the typical aging pattern of a 60‐year‐old individual.</p><p>Figure <xref rid="brb31020-fig-0003" ref-type="fig">3</xref> illustrates the chronological ages versus predicted ages for the entire evaluation group. Figure <xref rid="brb31020-fig-0004" ref-type="fig">4</xref> provides the box plots with BAS (in years) for the four subject groups. The brain ages differed significantly across the subject groups (<italic toggle="yes">F</italic> [3,503] = 17.24, <italic toggle="yes">p </italic>&lt;<italic toggle="yes"> </italic>0.001). The mean BAS values were as follows: HCs: +0.07 year, sMCI patients: +2.38 years, pMCI patients: +3.15 years, and AD patients: +5.36 years. As can be seen from Figures <xref rid="brb31020-fig-0003" ref-type="fig">3</xref> and <xref rid="brb31020-fig-0004" ref-type="fig">4</xref>, our proposed brain‐age estimator indicated differences in the BAS at different stages of AD, and our results suggest that across the spectrum of health/disease from healthy controls to individuals with sMCI, pMCI or AD, the mean of the BAS increases.</p><fig fig-type="Figure" xml:lang="en" id="brb31020-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Scatterplot and linear fit for chronological age versus predicted age in the evaluation group (<styled-content style="fixed-case">HC</styled-content>,<italic toggle="yes"> n</italic> = 147; <styled-content style="fixed-case">sMCI</styled-content>,<italic toggle="yes"> n</italic> = 102; <styled-content style="fixed-case">pMCI</styled-content>,<italic toggle="yes"> n</italic> = 112; and <styled-content style="fixed-case">AD</styled-content>,<italic toggle="yes"> n</italic> = 146)</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="BRB3-8-e01020-g003.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="brb31020-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The box plots with the <styled-content style="fixed-case">BAS</styled-content> (years) in the <styled-content style="fixed-case">HC</styled-content>,<styled-content style="fixed-case"> sMCI</styled-content>,<styled-content style="fixed-case"> pMCI</styled-content>, and <styled-content style="fixed-case">AD</styled-content> subjects from the J‐<styled-content style="fixed-case">ADNI</styled-content> dataset. *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.001</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="BRB3-8-e01020-g004.jpg"/></fig></sec><sec id="brb31020-sec-0017"><label>5.3</label><title>Association between the BAS and the traditional neuropsychological screening tools as well as between the BAS and anatomical MRI measurements</title><p>To determine the association between the BAS results and those of the four traditional neuropsychological screening tools as well as between the BAS results and anatomical MRI measurements, we analyzed the respective neuropsychological screening scores as well as anatomical MRI measurements in the 147 AD patients, 112 pMCI patients, 102 sMCI patients, and 146 HCs from the J‐ADNI dataset. The results of the neuropsychological subjects’ scores (i.e., MMSE, CDR, ADAS, and FAQ) as well as the subjects’ anatomical MRI measurements (i.e., nGM, nWM, nCSF, mean cortical thickness, and normalized hippocampus volume) are given in Figures <xref rid="brb31020-fig-0005" ref-type="fig">5</xref> and <xref rid="brb31020-fig-0006" ref-type="fig">6</xref>, respectively.</p><fig fig-type="Figure" xml:lang="en" id="brb31020-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Box plots of neuropsychological score distributions for the evaluating group: (a) <styled-content style="fixed-case">MMSE</styled-content>, (b) <styled-content style="fixed-case">CDR</styled-content>, (c) <styled-content style="fixed-case">ADAS</styled-content>, and (d) <styled-content style="fixed-case">FAQ</styled-content>. The neuropsychological scores and hippocampus volumes were acquired at the baseline. *<italic toggle="yes">p</italic> &lt; 0.05; **<italic toggle="yes">p</italic> &lt; 0.001</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-11" position="float" orientation="portrait" xlink:href="BRB3-8-e01020-g005.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="brb31020-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Box plots of anatomical <styled-content style="fixed-case">MRI</styled-content> measurement distributions for the evaluating group: (a) <styled-content style="fixed-case">nGM</styled-content>, (b) <styled-content style="fixed-case">nWM</styled-content>, (c) <styled-content style="fixed-case">nCSF</styled-content>, (d) mean cortical thickness, and (e) normalized hippocampus volume. The anatomical <styled-content style="fixed-case">MRI</styled-content> measurements were acquired at the baseline. *<italic toggle="yes">p</italic> &lt; 0.05; **<italic toggle="yes">p</italic> &lt; 0.001</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-13" position="float" orientation="portrait" xlink:href="BRB3-8-e01020-g006.jpg"/></fig><p>The associations between the BAS results and the neuropsychological scores as well as the associations between the BAS results and anatomical MRI measurements are illustrated in Figures <xref rid="brb31020-fig-0007" ref-type="fig">7</xref> and <xref rid="brb31020-fig-0008" ref-type="fig">8</xref>, respectively. According to the correlation test results, the BAS has relationships with the MMSE, the CDR, the ADSR, the FAQ scores, the nGM, the nCSF, the mean cortical thickness, and the normalized hippocampus volume (<italic toggle="yes">r</italic> = −0.23, <italic toggle="yes">r</italic> = 0.28, <italic toggle="yes">r</italic> = 0.26, <italic toggle="yes">r</italic> = 0.24, <italic toggle="yes">r</italic> = −0.46, <italic toggle="yes">r</italic> = 0.36, <italic toggle="yes">r</italic> = −0.49 and <italic toggle="yes">r</italic> = −0.41, respectively, <italic toggle="yes">p </italic>&lt;<italic toggle="yes"> </italic>0.001). There was no significant correlation between the BAS and the nWM.</p><fig fig-type="Figure" xml:lang="en" id="brb31020-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>The correlations between the <styled-content style="fixed-case">BAS</styled-content> results and the neuropsychological scores in the evaluation group: (a) <styled-content style="fixed-case">MMSE</styled-content>, (b) <styled-content style="fixed-case">CDR</styled-content>, (c) <styled-content style="fixed-case">ADAS</styled-content>, and (d) <styled-content style="fixed-case">FAQ</styled-content>. The neuropsychological scores were acquired at the baseline</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-15" position="float" orientation="portrait" xlink:href="BRB3-8-e01020-g007.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="brb31020-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>The correlations between the <styled-content style="fixed-case">BAS</styled-content> results and the anatomical <styled-content style="fixed-case">MRI</styled-content> measurements in the evaluation group: (a) <styled-content style="fixed-case">nGM</styled-content>, (b) <styled-content style="fixed-case">nWM</styled-content>, (c) <styled-content style="fixed-case">nCSF</styled-content>, (d) mean cortical thickness, and (e) normalized hippocampus volume. The anatomical <styled-content style="fixed-case">MRI</styled-content> measurements were acquired at the baseline</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-17" position="float" orientation="portrait" xlink:href="BRB3-8-e01020-g008.jpg"/></fig></sec></sec><sec id="brb31020-sec-0018"><label>6</label><title>DISCUSSION</title><p>We conducted the present empirical study to develop an automated framework for estimating the neuroanatomical age in individuals with AD or MCI and healthy subjects, and to determine the utility of our index (the BAS) as a computerized AD screening score. The BAS of the subjects is determined by subtracting the subject's neuroanatomical age from his or her chronological age. The results of our present analyses demonstrated that the difference between the neuroanatomical age and chronological age increased along with the level of AD; the mean BAS values were +0.07, +2.38, +3.15, and +5.36 years for our HCs, sMCI, pMCI, and AD subjects, respectively. A higher positive BAS implies higher accelerated/precocious brain aging, with an increasing BAS reflecting increasing severity of the level of AD.</p><p>Consequently, the mean BAS values of +5.63 and +3.15 for our present AD and pMCI groups indicate that the accelerated brain aging among AD and pMCI patients is higher than that of the sMCI and HC subjects with the mean BAS values of +2.38 and +0.07, respectively. Our statistical analysis showed a greater elevation of predicted age from chronological age in younger AD patients than older AD patients. This finding is in agreement with other studies that demonstrated a faster rate of AD progression in early‐onset than in late‐onset AD patients (Koss et al., <xref rid="brb31020-bib-0028" ref-type="ref">1996</xref>).</p><p>In several recent studies, the authors used the PCA method to reduce the high‐dimensional input space into a low‐dimensional space (Franke, Hagemann, Schleussner, &amp; Gaser, <xref rid="brb31020-bib-0019" ref-type="ref">2015</xref>; Franke et al., <xref rid="brb31020-bib-0021" ref-type="ref">2010</xref>, <xref rid="brb31020-bib-0020" ref-type="ref">2012</xref>, <xref rid="brb31020-bib-0016" ref-type="ref">2017</xref>). In the PCA method, the number of principal components has a major effect on the performance, and it is usually determined manually. The effect of PCA data reduction and the influence of different principal components on the accuracy of an age estimation model have been addressed (Franke et al., <xref rid="brb31020-bib-0021" ref-type="ref">2010</xref>). One advantage of our proposed brain‐age framework is the introduction of a novel and fully automated feature selection approach based on feature‐ranking for brain‐age estimations. The proposed feature selection method not only introduces data reduction but also promotes the framework's performance by decreasing the MAE.</p><p>We also assessed the association between the obtained BAS values and the neuropsychological scores as well as between the BAS results and anatomical MRI measurements. The correction afforded by our proposed brain‐age approach confirms the results of the traditional screening tools (i.e., the MMSE, CDR, ADAS, and FAQ) and anatomical MRI measurements (i.e., nGM, nCSF, mean cortical thickness, and hippocampus atrophy) for the diagnosis of AD. The significant correlation (<italic toggle="yes">p </italic>&lt;<italic toggle="yes"> </italic>0.001) between the BAS and the two general cognitive assessments in AD (the MMSE and CDR) implies that the BAS has potential as a fully automated criterion that can be used to assess the level of brain atrophy in AD.</p><p>The main advantage of our proposed brain‐age approach is that it is a fully automated approach at all stages (from preprocessing, feature selection, and training a regression model), which functions based on only an MRI scan of the brain. Our approach summarizes a pattern across the whole brain to one single value (the BAS). In contrast, common approaches in the diagnosis of AD (e.g., the MMSE, CDR, ADAS and FAQ) focus on self‐reported results of a survey, which can be influenced by common method bias.</p><p>One limitation of our study is that the proposed approach using the BAS could not distinguish the sMCI patients from the pMCI patients (mean difference [MD] = −0.77, <italic toggle="yes">p </italic>=<italic toggle="yes"> </italic>0.81). The reason for this may be due to the similar patterns shown by sMCI and pMCI patients at the baseline. For example, there were no significant differences between the sMCI and pMCI patients in terms of the MMSE (MD = 0.47, <italic toggle="yes">p </italic>=<italic toggle="yes"> </italic>0.12) and CDR (MD = 0, <italic toggle="yes">p </italic>=<italic toggle="yes"> </italic>1.00) scores, which are widely used in AD studies. This is why the prediction of MCI‐to‐AD conversion is the one of the most difficult tasks in AD studies. In future research, we plan to use the cortical thickness and diffusion properties (Irimia, Torgerson, Goh, &amp; Van Horn, <xref rid="brb31020-bib-0024" ref-type="ref">2015</xref>) and to combine MRI features with nonimaging characteristics (DeCarlo, Tuokko, Williams, Dixon, &amp; MacDonald, <xref rid="brb31020-bib-0010" ref-type="ref">2014</xref>), not only to address this limitation but also to further develop the brain‐age technique toward the goal of revealing the earliest indications of AD in symptomatic and asymptomatic individuals. Several studies have successfully investigated multimodal data such as MRI, PET for developing a high accurate AD classification or MCI conversion prediction frameworks (Ortiz, Munilla, Álvarez‐Illán, Górriz, &amp; Ramírez, <xref rid="brb31020-bib-0041" ref-type="ref">2015</xref>; Zhang &amp; Shen, <xref rid="brb31020-bib-0053" ref-type="ref">2012</xref>; Zhang, Wang, Zhou, Yuan, &amp; Shen, <xref rid="brb31020-bib-0054" ref-type="ref">2011</xref>). Another direction for future study may be to use multimodal data (i.e., MRI and PET) to present a high accurate and robust brain‐age model.</p></sec><sec id="brb31020-sec-0019"><label>7</label><title>CONCLUSION</title><p>We developed a fully automated framework (including preprocessing, feature selection, and training a regression model) for estimating the neurological age in AD, MCI, and healthy individuals, using only a standard MRI scan. The proposed framework was trained using 385 healthy subjects and evaluated in a case study consisting of 146 healthy controls, 102 patients with sMCI, 112 pMCI patients, and 147 individuals with AD from the J‐ADNI database, considering their baseline information. We evaluated the efficacy of the proposed framework by performing correlation tests between the BAS and traditional screening tools of AD as well as between the BAS and anatomical MRI measurements. Ultimately, our findings indicate that the BAS has the potential to be a robust, reliable, and computerized biomarker for the diagnosis of the level of AD as well as other neuropsychological conditions.</p></sec></body><back><ack id="brb31020-sec-0020"><title>ACKNOWLEDGEMENT</title><p>This research was partially supported by an Intramural Research Grant (27‐8) for Neurological and Psychiatric Disorders of the National Center of Neurology and Psychiatry, Tokyo, Japan.</p></ack><ref-list content-type="cited-references" id="brb31020-bibl-0001"><title>REFERENCES</title><ref id="brb31020-bib-0001"><mixed-citation publication-type="journal" id="brb31020-cit-0001">
+<string-name name-style="western">
+<surname>Bedell</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carbonell</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Charil</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zijdenbos</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evans</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sevigny</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Chiao</surname>, <given-names>P.</given-names>
+</string-name> (<year>2014</year>). <article-title>Optimized, fully‐automated classification of amyloid‐positive subjects based on [18f] florbetapir PET scans</article-title>. <source xml:lang="en">Alzheimer's Dement. J. Alzheimer's Assoc.</source>, <volume>10</volume>, <fpage>P708</fpage>–<lpage>P709</lpage>. <pub-id pub-id-type="doi">10.1016/j.jalz.2014.05.1303</pub-id>
+</mixed-citation></ref><ref id="brb31020-bib-0002"><mixed-citation publication-type="journal" id="brb31020-cit-0002">
+<string-name name-style="western">
+<surname>Beheshti</surname>, <given-names>I.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Demirel</surname>, <given-names>H.</given-names>
+</string-name> (<year>2016</year>). <article-title>Feature‐ranking‐based Alzheimer's disease classification from structural MRI</article-title>. <source xml:lang="en">Magnetic Resonance Imaging</source>, <volume>34</volume>, <fpage>252</fpage>–<lpage>263</lpage>. <pub-id pub-id-type="doi">10.1016/j.mri.2015.11.009</pub-id>
+<pub-id pub-id-type="pmid">26657976</pub-id></mixed-citation></ref><ref id="brb31020-bib-0003"><mixed-citation publication-type="journal" id="brb31020-cit-0003">
+<string-name name-style="western">
+<surname>Beheshti</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Demirel</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farokhian</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>C.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Matsuda</surname>, <given-names>H.</given-names>
+</string-name> (<year>2016</year>). <article-title>Structural MRI‐based detection of Alzheimer's disease using feature ranking and classification error</article-title>. <source xml:lang="en">Computer Methods and Programs in Biomedicine</source>, <volume>137</volume>, <fpage>177</fpage>–<lpage>193</lpage>. <pub-id pub-id-type="doi">10.1016/j.cmpb.2016.09.019</pub-id>
+<pub-id pub-id-type="pmid">28110723</pub-id></mixed-citation></ref><ref id="brb31020-bib-0004"><mixed-citation publication-type="journal" id="brb31020-cit-0004">
+<string-name name-style="western">
+<surname>Beheshti</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olya</surname>, <given-names>H. G. T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Demirel</surname>, <given-names>H.</given-names>
+</string-name> (<year>2016</year>). <article-title>Risk assessment of alzheimer's disease using the information diffusion model from structural magnetic resonance imaging</article-title>. <source xml:lang="en">Journal of Alzheimer's Disease</source>, <volume>52</volume>, <fpage>1</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.3233/JAD-151176</pub-id>
+<pub-id pub-id-type="pmid">27060960</pub-id></mixed-citation></ref><ref id="brb31020-bib-0005"><mixed-citation publication-type="journal" id="brb31020-cit-0005">
+<string-name name-style="western">
+<surname>Chaves</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramírez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Górriz</surname>, <given-names>J. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Puntonet</surname>, <given-names>C. G.</given-names>
+</string-name> (<year>2012</year>). <article-title>Association rule‐based feature selection method for Alzheimer's disease diagnosis</article-title>. <source xml:lang="en">Expert Systems With Applications</source>, <volume>39</volume>, <fpage>11766</fpage>–<lpage>11774</lpage>. <pub-id pub-id-type="doi">10.1016/j.eswa.2012.04.075</pub-id>
+</mixed-citation></ref><ref id="brb31020-bib-0006"><mixed-citation publication-type="journal" id="brb31020-cit-0006">
+<string-name name-style="western">
+<surname>Cole</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>2017</year>). <article-title>Neuroimaging‐derived brain‐age: An ageing biomarker?</article-title>
+<source xml:lang="en">Aging (Albany, NY)</source>, <volume>9</volume>, <fpage>1861</fpage>–<lpage>1862</lpage>. <pub-id pub-id-type="doi">10.18632/aging.101286</pub-id>
+<pub-id pub-id-type="pmid">28858849</pub-id><pub-id pub-id-type="pmcid">PMC5611979</pub-id></mixed-citation></ref><ref id="brb31020-bib-0007"><mixed-citation publication-type="journal" id="brb31020-cit-0007">
+<string-name name-style="western">
+<surname>Cole</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leech</surname>, <given-names>R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Sharp</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Prediction of brain age suggests accelerated atrophy after traumatic brain injury</article-title>. <source xml:lang="en">Annals of Neurology</source>, <volume>77</volume>, <fpage>571</fpage>–<lpage>581</lpage>. <pub-id pub-id-type="doi">10.1002/ana.24367</pub-id>
+<pub-id pub-id-type="pmid">25623048</pub-id><pub-id pub-id-type="pmcid">PMC4403966</pub-id></mixed-citation></ref><ref id="brb31020-bib-0008"><mixed-citation publication-type="journal" id="brb31020-cit-0008">
+<string-name name-style="western">
+<surname>Cole</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Underwood</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caan</surname>, <given-names>M. W. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Francesco</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Zoest</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leech</surname>, <given-names>R.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Sharp</surname>, <given-names>D.</given-names>
+</string-name> (<year>2017</year>). <article-title>Increased brain‐predicted aging in treated HIV disease</article-title>. <source xml:lang="en">Neurology</source>, <volume>88</volume>, <fpage>1349</fpage>–<lpage>1357</lpage>. <pub-id pub-id-type="doi">10.1212/WNL.0000000000003790</pub-id>
+<pub-id pub-id-type="pmid">28258081</pub-id><pub-id pub-id-type="pmcid">PMC5379929</pub-id></mixed-citation></ref><ref id="brb31020-bib-0009"><mixed-citation publication-type="journal" id="brb31020-cit-0009">
+<string-name name-style="western">
+<surname>Cuingnet</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gerardin</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tessieras</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Auzias</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lehéricy</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Habert</surname>, <given-names>M. O.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Colliot</surname>, <given-names>O.</given-names>
+</string-name> (<year>2011</year>). <article-title>Automatic classification of patients with Alzheimer's disease from structural MRI: A comparison of ten methods using the ADNI database</article-title>. <source xml:lang="en">NeuroImage</source>, <volume>56</volume>, <fpage>766</fpage>–<lpage>781</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2010.06.013</pub-id>
+<pub-id pub-id-type="pmid">20542124</pub-id></mixed-citation></ref><ref id="brb31020-bib-0010"><mixed-citation publication-type="journal" id="brb31020-cit-0010">
+<string-name name-style="western">
+<surname>DeCarlo</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tuokko</surname>, <given-names>H. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dixon</surname>, <given-names>R. A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>MacDonald</surname>, <given-names>S. W. S.</given-names>
+</string-name> (<year>2014</year>). <article-title>BioAge: Toward a multi‐determined, mechanistic account of cognitive aging</article-title>. <source xml:lang="en">Ageing Research Reviews</source>, <volume>18</volume>, <fpage>95</fpage>–<lpage>105</lpage>. <pub-id pub-id-type="doi">10.1016/j.arr.2014.09.003</pub-id>
+<pub-id pub-id-type="pmid">25278166</pub-id><pub-id pub-id-type="pmcid">PMC4258131</pub-id></mixed-citation></ref><ref id="brb31020-bib-0011"><mixed-citation publication-type="journal" id="brb31020-cit-0011">
+<string-name name-style="western">
+<surname>Dosenbach</surname>, <given-names>N. U. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nardos</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohen</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fair</surname>, <given-names>D. A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Power</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Church</surname>, <given-names>J. A</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Schlaggar</surname>, <given-names>B. L.</given-names>
+</string-name> (<year>2011</year>). <article-title>Prediction of individua brain maturity using fMRI</article-title>. <source xml:lang="en">Science (80‐.)</source>, <volume>329</volume>, <fpage>1358</fpage>–<lpage>1361</lpage>. <pub-id pub-id-type="doi">10.1126/science.1194144.prediction</pub-id>
+<pub-id pub-id-type="pmcid">PMC3135376</pub-id><pub-id pub-id-type="pmid">20829489</pub-id></mixed-citation></ref><ref id="brb31020-bib-0012"><mixed-citation publication-type="journal" id="brb31020-cit-0012">
+<string-name name-style="western">
+<surname>Duchesne</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Gravel</surname>, <given-names>P.</given-names>
+</string-name> (<year>2016</year>). <article-title>Estimating brain age across the life span using MRI appearance</article-title>. <source xml:lang="en">Alzheimer's &amp; Dementia</source>, <volume>12</volume>, <fpage>P111</fpage>
+<pub-id pub-id-type="doi">10.1016/j.jalz.2016.06.180</pub-id>
+</mixed-citation></ref><ref id="brb31020-bib-0013"><mixed-citation publication-type="journal" id="brb31020-cit-0013">
+<string-name name-style="western">
+<surname>Erus</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Battapady</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Satterthwaite</surname>, <given-names>T. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hakonarson</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gur</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davatzikos</surname>, <given-names>C.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Gur</surname>, <given-names>R. C.</given-names>
+</string-name> (<year>2015</year>). <article-title>Imaging patterns of brain development and their relationship to cognition</article-title>. <source xml:lang="en">Cerebral Cortex</source>, <volume>25</volume>, <fpage>1676</fpage>–<lpage>1684</lpage>. <pub-id pub-id-type="doi">10.1093/cercor/bht425</pub-id>
+<pub-id pub-id-type="pmid">24421175</pub-id><pub-id pub-id-type="pmcid">PMC4428302</pub-id></mixed-citation></ref><ref id="brb31020-bib-0014"><mixed-citation publication-type="journal" id="brb31020-cit-0014">
+<string-name name-style="western">
+<surname>Fillenbaum</surname>, <given-names>G. G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Smyer</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>1981</year>). <article-title>The development, validity, and reliability of the OARS multidimensional functional assessment questionnaire</article-title>. <source xml:lang="en">Journal of Gerontology</source>, <volume>36</volume>, <fpage>428</fpage>–<lpage>434</lpage>. <pub-id pub-id-type="doi">10.1093/geronj/36.4.428</pub-id>
+<pub-id pub-id-type="pmid">7252074</pub-id></mixed-citation></ref><ref id="brb31020-bib-0015"><mixed-citation publication-type="journal" id="brb31020-cit-0015">
+<string-name name-style="western">
+<surname>Folstein</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Folstein</surname>, <given-names>S. E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>McHugh</surname>, <given-names>P. R.</given-names>
+</string-name> (<year>1975</year>). <article-title>“Mini‐mental state”. A practical method for grading the cognitive state of patients for the clinician</article-title>. <source xml:lang="en">Journal of Psychiatric Research</source>, <volume>12</volume>, <fpage>189</fpage>–<lpage>198</lpage>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://doi.org/0022-3956(75)90026-6[pii]">https://doi.org/0022-3956(75)90026-6[pii]</ext-link>
+<pub-id pub-id-type="pmid">1202204</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0022-3956(75)90026-6</pub-id></mixed-citation></ref><ref id="brb31020-bib-0016"><mixed-citation publication-type="journal" id="brb31020-cit-0016">
+<string-name name-style="western">
+<surname>Franke</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clarke</surname>, <given-names>G. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahnke</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaser</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuo</surname>, <given-names>A. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Nathanielsz</surname>, <given-names>P. W.</given-names>
+</string-name> (<year>2017</year>). <article-title>Premature brain aging in baboons resulting from moderate fetal undernutrition</article-title>. <source xml:lang="en">Frontiers in Aging Neuroscience</source>, <volume>9</volume>, <pub-id pub-id-type="doi">10.3389/fnagi.2017.00092</pub-id>
+<pub-id pub-id-type="pmcid">PMC5386978</pub-id><pub-id pub-id-type="pmid">28443017</pub-id></mixed-citation></ref><ref id="brb31020-bib-0017"><mixed-citation publication-type="journal" id="brb31020-cit-0017">
+<string-name name-style="western">
+<surname>Franke</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Gaser</surname>, <given-names>C.</given-names>
+</string-name> (<year>2012</year>). <article-title>Longitudinal changes in individual <italic toggle="yes">BrainAGE</italic> in healthy aging, mild cognitive impairment, and alzheimer's disease 1. Data used in preparation of this article were obtained from the Alzheimer's Disease Neuroimaging Initiative (ADNI) database (adni.loni)</article-title>. <source xml:lang="en">GeroPsych (Bern)</source>, <volume>25</volume>, <fpage>235</fpage>–<lpage>245</lpage>. <pub-id pub-id-type="doi">10.1024/1662-9647/a000074</pub-id>
+</mixed-citation></ref><ref id="brb31020-bib-0018"><mixed-citation publication-type="journal" id="brb31020-cit-0018">
+<string-name name-style="western">
+<surname>Franke</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Gaser</surname>, <given-names>C.</given-names>
+</string-name> (<year>2014</year>). <article-title>Dementia classification based on brain age estimation</article-title>. <source xml:lang="en">Proc MICCAI Workshop Challenge on Computer‐Aided Diagnosis of Dementia Based on Structural MRI Data</source>.</mixed-citation></ref><ref id="brb31020-bib-0019"><mixed-citation publication-type="journal" id="brb31020-cit-0019">
+<string-name name-style="western">
+<surname>Franke</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hagemann</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schleussner</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Gaser</surname>, <given-names>C.</given-names>
+</string-name> (<year>2015</year>). <article-title>Changes of individual BrainAGE during the course of the menstrual cycle</article-title>. <source xml:lang="en">NeuroImage</source>, <volume>115</volume>, <fpage>1</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2015.04.036</pub-id>
+<pub-id pub-id-type="pmid">25913700</pub-id></mixed-citation></ref><ref id="brb31020-bib-0020"><mixed-citation publication-type="journal" id="brb31020-cit-0020">
+<string-name name-style="western">
+<surname>Franke</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luders</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>May</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilke</surname>, <given-names>M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Gaser</surname>, <given-names>C.</given-names>
+</string-name> (<year>2012</year>). <article-title>Brain maturation: Predicting individual Brain AGE in children and adolescents using structural MRI</article-title>. <source xml:lang="en">NeuroImage</source>, <volume>63</volume>, <fpage>1305</fpage>–<lpage>1312</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2012.08.001</pub-id>
+<pub-id pub-id-type="pmid">22902922</pub-id></mixed-citation></ref><ref id="brb31020-bib-0021"><mixed-citation publication-type="journal" id="brb31020-cit-0021">
+<string-name name-style="western">
+<surname>Franke</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ziegler</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klöppel</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Gaser</surname>, <given-names>C.</given-names>
+</string-name> (<year>2010</year>). <article-title>Estimating the age of healthy subjects from T1‐weighted MRI scans using kernel methods: Exploring the influence of various parameters</article-title>. <source xml:lang="en">NeuroImage</source>, <volume>50</volume>, <fpage>883</fpage>–<lpage>892</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2010.01.005</pub-id>
+<pub-id pub-id-type="pmid">20070949</pub-id></mixed-citation></ref><ref id="brb31020-bib-0022"><mixed-citation publication-type="journal" id="brb31020-cit-0022">
+<string-name name-style="western">
+<surname>Fujishima</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kawaguchi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maikusa</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuwano</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iwatsubo</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Matsuda</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>). <article-title>Sample size estimation for alzheimer's disease trials from Japanese ADNI serial magnetic resonance imaging</article-title>. <source xml:lang="en">Journal of Alzheimer's Disease</source>, <volume>56</volume>, <fpage>75</fpage>–<lpage>88</lpage>. <pub-id pub-id-type="doi">10.3233/JAD-160621</pub-id>
+<pub-id pub-id-type="pmcid">PMC5240548</pub-id><pub-id pub-id-type="pmid">27911297</pub-id></mixed-citation></ref><ref id="brb31020-bib-0023"><mixed-citation publication-type="journal" id="brb31020-cit-0023">
+<string-name name-style="western">
+<surname>Gaser</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franke</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klöppel</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koutsouleris</surname>, <given-names>N.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Sauer</surname>, <given-names>H.</given-names>
+</string-name> (<year>2013</year>). <article-title>BrainAGE in mild cognitive impaired patients: Predicting the conversion to alzheimer's disease</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>, <pub-id pub-id-type="doi">10.1371/journal.pone.0067346</pub-id>
+<pub-id pub-id-type="pmcid">PMC3695013</pub-id><pub-id pub-id-type="pmid">23826273</pub-id></mixed-citation></ref><ref id="brb31020-bib-0024"><mixed-citation publication-type="journal" id="brb31020-cit-0024">
+<string-name name-style="western">
+<surname>Irimia</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Torgerson</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goh</surname>, <given-names>S. Y. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Van Horn</surname>, <given-names>J. D.</given-names>
+</string-name> (<year>2015</year>). <article-title>Statistical estimation of physiological brain age as a descriptor of senescence rate during adulthood</article-title>. <source xml:lang="en">Brain Imaging and Behavior</source>, <volume>9</volume>, <fpage>678</fpage>–<lpage>689</lpage>. <pub-id pub-id-type="doi">10.1007/s11682-014-9321-0</pub-id>
+<pub-id pub-id-type="pmid">25376330</pub-id><pub-id pub-id-type="pmcid">PMC4424195</pub-id></mixed-citation></ref><ref id="brb31020-bib-0025"><mixed-citation publication-type="journal" id="brb31020-cit-0025">
+<string-name name-style="western">
+<surname>Iwatsubo</surname>, <given-names>T.</given-names>
+</string-name> (<year>2010</year>). <article-title>Japanese alzheimer's disease neuroimaging Initiative: Present status and future</article-title>. <source xml:lang="en">Alzheimer's &amp; Dementia</source>, <volume>6</volume>, <fpage>297</fpage>–<lpage>299</lpage>. <pub-id pub-id-type="doi">10.1016/j.jalz.2010.03.011</pub-id>
+<pub-id pub-id-type="pmid">20451880</pub-id></mixed-citation></ref><ref id="brb31020-bib-0026"><mixed-citation publication-type="journal" id="brb31020-cit-0026">
+<string-name name-style="western">
+<surname>Khedher</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramírez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Górriz</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brahim</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Segovia</surname>, <given-names>F.</given-names>
+</string-name> (<year>2015</year>). <article-title>Early diagnosis of Alzheimer׳s disease based on partial least squares, principal component analysis and support vector machine using segmented MRI images</article-title>. <source xml:lang="en">Neurocomputing</source>, <volume>151</volume>, <fpage>139</fpage>–<lpage>150</lpage>. <pub-id pub-id-type="doi">10.1016/j.neucom.2014.09.072</pub-id>
+</mixed-citation></ref><ref id="brb31020-bib-0027"><mixed-citation publication-type="journal" id="brb31020-cit-0027">
+<string-name name-style="western">
+<surname>Klöppel</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stonnington</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Draganski</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scahill</surname>, <given-names>R. I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rohrer</surname>, <given-names>J. D.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Frackowiak</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2008</year>). <article-title>Automatic classification of MR scans in Alzheimer's disease</article-title>. <source xml:lang="en">Brain</source>, <volume>131</volume>, <fpage>681</fpage>–<lpage>689</lpage>. <pub-id pub-id-type="doi">10.1093/brain/awm319</pub-id>
+<pub-id pub-id-type="pmid">18202106</pub-id><pub-id pub-id-type="pmcid">PMC2579744</pub-id></mixed-citation></ref><ref id="brb31020-bib-0028"><mixed-citation publication-type="journal" id="brb31020-cit-0028">
+<string-name name-style="western">
+<surname>Koss</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Edland</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fillenbaum</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohs</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clark</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Galasko</surname>, <given-names>D.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Morris</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>1996</year>). <article-title>Clinical and neuropsychological differences between patients with earlier and later onset of Alzheimer's disease A CERAD analysis, part XII</article-title>. <source xml:lang="en">Neurology</source>, <volume>46</volume>, <fpage>136</fpage>–<lpage>141</lpage>. <pub-id pub-id-type="doi">10.1212/WNL.46.1.136</pub-id>
+<pub-id pub-id-type="pmid">8559362</pub-id></mixed-citation></ref><ref id="brb31020-bib-0029"><mixed-citation publication-type="journal" id="brb31020-cit-0029">
+<string-name name-style="western">
+<surname>Koutsouleris</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davatzikos</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borgwardt</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaser</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bottlender</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frodl</surname>, <given-names>T.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Meisenzahl</surname>, <given-names>E.</given-names>
+</string-name> (<year>2014</year>). <article-title>Accelerated brain aging in schizophrenia and beyond: A neuroanatomical marker of psychiatric disorders</article-title>. <source xml:lang="en">Schizophrenia Bulletin</source>, <volume>40</volume>, <fpage>1140</fpage>–<lpage>1153</lpage>. <pub-id pub-id-type="doi">10.1093/schbul/sbt142</pub-id>
+<pub-id pub-id-type="pmid">24126515</pub-id><pub-id pub-id-type="pmcid">PMC4133663</pub-id></mixed-citation></ref><ref id="brb31020-bib-0030"><mixed-citation publication-type="journal" id="brb31020-cit-0030">
+<string-name name-style="western">
+<surname>Lancaster</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lorenz</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leech</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cole</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jena</surname>, <given-names>F.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Cole</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>2018</year>). <article-title>Bayesian optimization for neuroimaging pre‐processing in brain age classification and prediction</article-title>. <source xml:lang="en">Frontiers in Aging Neuroscience</source>, <volume>10</volume>, <fpage>1</fpage>–<lpage>10</lpage>. <pub-id pub-id-type="doi">10.3389/fnagi.2018.00028</pub-id>
+<pub-id pub-id-type="pmid">29483870</pub-id><pub-id pub-id-type="pmcid">PMC5816033</pub-id></mixed-citation></ref><ref id="brb31020-bib-0031"><mixed-citation publication-type="journal" id="brb31020-cit-0031">
+<string-name name-style="western">
+<surname>Lin</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bin</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wu</surname>, <given-names>S.</given-names>
+</string-name> (<year>2016</year>). <article-title>Predicting healthy older adult's brain age based on structural connectivity networks using artificial neural networks</article-title>. <source xml:lang="en">Computer Methods and Programs in Biomedicine</source>, <volume>125</volume>, <fpage>8</fpage>–<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1016/j.cmpb.2015.11.012</pub-id>
+<pub-id pub-id-type="pmid">26718834</pub-id></mixed-citation></ref><ref id="brb31020-bib-0032"><mixed-citation publication-type="journal" id="brb31020-cit-0032">
+<string-name name-style="western">
+<surname>Liu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Shen</surname>, <given-names>D.</given-names>
+</string-name> (<year>2016</year>). <article-title>Relationship induced multi‐template learning for diagnosis of alzheimer's disease and mild cognitive impairment</article-title>. <source xml:lang="en">IEEE Transactions on Medical Imaging</source>, <volume>35</volume>, <fpage>1463</fpage>–<lpage>1474</lpage>. <pub-id pub-id-type="doi">10.1109/TMI.2016.2515021</pub-id>
+<pub-id pub-id-type="pmid">26742127</pub-id><pub-id pub-id-type="pmcid">PMC5572669</pub-id></mixed-citation></ref><ref id="brb31020-bib-0033"><mixed-citation publication-type="miscellaneous" id="brb31020-cit-0033">
+<string-name name-style="western">
+<surname>López</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ram'irez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Górriz</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Álvarez</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salas‐Gonzalez</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Segovia</surname>, <given-names>F.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Puntonet</surname>, <given-names>C. G.</given-names>
+</string-name> (<year>2009</year>). <article-title>Computer aided diagnosis of alzheimer's disease using principal component analysis and bayesian classifiers</article-title>. In The Sixth International Symposium on Neural Networks (ISNN 2009), 213–221.</mixed-citation></ref><ref id="brb31020-bib-0034"><mixed-citation publication-type="journal" id="brb31020-cit-0034">
+<string-name name-style="western">
+<surname>Luders</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cherbuin</surname>, <given-names>N.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Gaser</surname>, <given-names>C.</given-names>
+</string-name> (<year>2016</year>). <article-title>Estimating brain age using high‐resolution pattern recognition: Younger brains in long‐term meditation practitioners</article-title>. <source xml:lang="en">NeuroImage</source>, <volume>134</volume>, <fpage>508</fpage>–<lpage>513</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2016.04.007</pub-id>
+<pub-id pub-id-type="pmid">27079530</pub-id></mixed-citation></ref><ref id="brb31020-bib-0035"><mixed-citation publication-type="journal" id="brb31020-cit-0035">
+<string-name name-style="western">
+<surname>Martinez‐Murcia</surname>, <given-names>F. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Górriz</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ram'irez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ortiz</surname>, <given-names>A.</given-names>
+</string-name>; <collab collab-type="authors">For The Alzheimer's Disease Neuroimaging Initiative</collab>
+. (<year>2016</year>). <article-title>A spherical brain mapping of MR images for the detection of Alzheimer's disease</article-title>. <source xml:lang="en">Current Alzheimer Research</source>, <volume>13</volume>, <fpage>575</fpage>–<lpage>588</lpage>. <pub-id pub-id-type="doi">10.2174/1567205013666160314145158</pub-id>
+<pub-id pub-id-type="pmid">26971941</pub-id></mixed-citation></ref><ref id="brb31020-bib-0036"><mixed-citation publication-type="journal" id="brb31020-cit-0036">
+<string-name name-style="western">
+<surname>McKhann</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Drachman</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Folstein</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katzman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Price</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Stadlan</surname>, <given-names>E. M.</given-names>
+</string-name> (<year>1984</year>). <article-title>Clinical diagnosis of Alzheimer's disease report of the NINCDS‐ADRDA work group under the auspices of department of health and human services task force on Alzheimer's isease</article-title>. <source xml:lang="en">Neurology</source>, <volume>34</volume>, <fpage>939</fpage>
+<pub-id pub-id-type="doi">10.1212/WNL.34.7.939</pub-id>
+<pub-id pub-id-type="pmid">6610841</pub-id></mixed-citation></ref><ref id="brb31020-bib-0037"><mixed-citation publication-type="journal" id="brb31020-cit-0037">
+<string-name name-style="western">
+<surname>Mikhno</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Redei</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mann</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Parsey</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Accurate early Alzheimer's disease detection: Cross‐tracer validation of automated voxel‐based amyloid PET SUVR in independent datasets</article-title>. <source xml:lang="en">Alzheimer's &amp; Dementia</source>, <volume>11</volume>, <fpage>P880</fpage>
+<pub-id pub-id-type="doi">10.1016/j.jalz.2015.08.086</pub-id>
+</mixed-citation></ref><ref id="brb31020-bib-0038"><mixed-citation publication-type="journal" id="brb31020-cit-0038">
+<string-name name-style="western">
+<surname>Mohs</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosen</surname>, <given-names>W. G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Davis</surname>, <given-names>K. L.</given-names>
+</string-name> (<year>1983</year>). <article-title>The Alzheimer's disease assessment scale: An instrument for assessing treatment efficacy</article-title>. <source xml:lang="en">Psychopharmacology Bulletin</source>, <volume>19</volume>, <fpage>448</fpage>.<pub-id pub-id-type="pmid">6635122</pub-id></mixed-citation></ref><ref id="brb31020-bib-0039"><mixed-citation publication-type="journal" id="brb31020-cit-0039">
+<string-name name-style="western">
+<surname>Moradi</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hallikainen</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hänninen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tohka</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Neuroimaging</surname>, <given-names>D.</given-names>
+</string-name> (<year>2017</year>). <article-title>Rey's Auditory Verbal Learning Test scores can be predicted from whole brain MRI in Alzheimer's disease NeuroImage : Clinical</article-title>. <source xml:lang="en">NeuroImage Clinical</source>, <volume>13</volume>, <fpage>415</fpage>–<lpage>427</lpage>. <pub-id pub-id-type="doi">10.1016/j.nicl.2016.12.011</pub-id>
+<pub-id pub-id-type="pmid">28116234</pub-id><pub-id pub-id-type="pmcid">PMC5233798</pub-id></mixed-citation></ref><ref id="brb31020-bib-0040"><mixed-citation publication-type="journal" id="brb31020-cit-0040">
+<string-name name-style="western">
+<surname>Morris</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>1993</year>). <article-title>The Clinical Dementia Rating (CDR): Current version and scoring rules</article-title>. <source xml:lang="en">Neurology</source>, <volume>43</volume>(<issue>11</issue>), <fpage>2412</fpage>–<lpage>2414</lpage>. <pub-id pub-id-type="doi">10.1212/WNL.43.11.2412-a</pub-id>
+<pub-id pub-id-type="pmid">8232972</pub-id></mixed-citation></ref><ref id="brb31020-bib-0041"><mixed-citation publication-type="journal" id="brb31020-cit-0041">
+<string-name name-style="western">
+<surname>Ortiz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munilla</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Álvarez‐Illán</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Górriz</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramírez</surname>, <given-names>J.</given-names>
+</string-name>; <collab collab-type="authors">Alzheimer's Disease Neuroimaging Initiative</collab>
+(<year>2015</year>). <article-title>Exploratory graphical models of functional and structural connectivity patterns for Alzheimer's Disease diagnosis</article-title>. <source xml:lang="en">Frontiers in Computational Neuroscience</source>, <volume>9</volume>, <fpage>132</fpage>.<pub-id pub-id-type="pmid">26578945</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fncom.2015.00132</pub-id><pub-id pub-id-type="pmcid">PMC4630314</pub-id></mixed-citation></ref><ref id="brb31020-bib-0042"><mixed-citation publication-type="journal" id="brb31020-cit-0042">
+<string-name name-style="western">
+<surname>Presser</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Couper</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lessler</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rothgeb</surname>, <given-names>J. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Singer</surname>, <given-names>E.</given-names>
+</string-name> (<year>2004</year>). <article-title>Methods for testing and evaluating survey questions</article-title>. <source xml:lang="en">Public Opinion</source>, <volume>68</volume>, <fpage>109</fpage>–<lpage>130</lpage>. <pub-id pub-id-type="doi">10.1093/poq</pub-id>
+</mixed-citation></ref><ref id="brb31020-bib-0043"><mixed-citation publication-type="journal" id="brb31020-cit-0043">
+<string-name name-style="western">
+<surname>Ramírez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Górriz</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Segovia</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chaves</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salas‐Gonzalez</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>López</surname>, <given-names>M.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Padilla</surname>, <given-names>P.</given-names>
+</string-name> (<year>2010</year>). <article-title>Computer aided diagnosis system for the Alzheimer's disease based on partial least squares and random forest SPECT image classification</article-title>. <source xml:lang="en">Neuroscience Letters</source>, <volume>472</volume>, <fpage>99</fpage>–<lpage>103</lpage>. <pub-id pub-id-type="doi">10.1016/j.neulet.2010.01.056</pub-id>
+<pub-id pub-id-type="pmid">20117177</pub-id></mixed-citation></ref><ref id="brb31020-bib-0044"><mixed-citation publication-type="journal" id="brb31020-cit-0044">
+<string-name name-style="western">
+<surname>Scholkopf</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sung</surname>, <given-names>K.‐K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burges</surname>, <given-names>C. J. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Girosi</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Niyogi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poggio</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Vapnik</surname>, <given-names>V.</given-names>
+</string-name> (<year>1997</year>). <article-title>Comparing support vector machines with Gaussian kernels to radial basis function classifiers</article-title>. <source xml:lang="en">IEEE Transactions on Signal Processing</source>, <volume>45</volume>, <fpage>2758</fpage>–<lpage>2765</lpage>. <pub-id pub-id-type="doi">10.1109/78.650102</pub-id>
+</mixed-citation></ref><ref id="brb31020-bib-0045"><mixed-citation publication-type="journal" id="brb31020-cit-0045">
+<string-name name-style="western">
+<surname>Segovia</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Górriz</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramírez</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salas‐González</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Álvarez</surname>, <given-names>I.</given-names>
+</string-name> (<year>2013</year>). <article-title>Early diagnosis of Alzheimer's disease based on partial least squares and support vector machine</article-title>. <source xml:lang="en">Expert Systems with Applications</source>, <volume>40</volume>, <fpage>677</fpage>–<lpage>683</lpage>. <pub-id pub-id-type="doi">10.1016/j.eswa.2012.07.071</pub-id>
+</mixed-citation></ref><ref id="brb31020-bib-0046"><mixed-citation publication-type="journal" id="brb31020-cit-0046">
+<string-name name-style="western">
+<surname>Shen</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loewenstein</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Potter</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Appel</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Greig</surname>, <given-names>M. T.</given-names>
+</string-name>, … <string-name name-style="western">
+<surname>Duara</surname>, <given-names>R.</given-names>
+</string-name> (<year>2011</year>). <article-title>Volumetric and visual rating of magnetic resonance imaging scans in the diagnosis of amnestic mild cognitive impairment and Alzheimer's disease</article-title>. <source xml:lang="en">Alzheimer's &amp; Dementia</source>, <volume>7</volume>, <fpage>e101</fpage>–<lpage>e108</lpage>. <pub-id pub-id-type="doi">10.1016/j.jalz.2010.07.002</pub-id>
+<pub-id pub-id-type="pmcid">PMC3145968</pub-id><pub-id pub-id-type="pmid">21784342</pub-id></mixed-citation></ref><ref id="brb31020-bib-0047"><mixed-citation publication-type="journal" id="brb31020-cit-0047">
+<string-name name-style="western">
+<surname>Smola</surname>, <given-names>A. J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Schölkopf</surname>, <given-names>B.</given-names>
+</string-name> (<year>2004</year>). <article-title>A tutorial on support vector regression</article-title>. <source xml:lang="en">Statistics and Computing</source>, <volume>14</volume>, <fpage>199</fpage>–<lpage>222</lpage>. <pub-id pub-id-type="doi">10.1023/B:STCO.0000035301.49549.88</pub-id>
+</mixed-citation></ref><ref id="brb31020-bib-0048"><mixed-citation publication-type="journal" id="brb31020-cit-0048">
+<string-name name-style="western">
+<surname>Stonnington</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klöppel</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jack</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ashburner</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Frackowiak</surname>, <given-names>R. S. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Predicting clinical scores from magnetic resonance scans in Alzheimer's disease</article-title>. <source xml:lang="en">NeuroImage</source>, <volume>51</volume>, <fpage>1405</fpage>–<lpage>1413</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2010.03.051</pub-id>
+<pub-id pub-id-type="pmid">20347044</pub-id><pub-id pub-id-type="pmcid">PMC2871976</pub-id></mixed-citation></ref><ref id="brb31020-bib-0049"><mixed-citation publication-type="book" id="brb31020-cit-0049">
+<string-name name-style="western">
+<surname>Vapnik</surname>, <given-names>V.</given-names>
+</string-name> (<year>2013</year>). <source xml:lang="en">The nature of statistical learning theory</source>. <publisher-loc>New York, NY, USA</publisher-loc>: <publisher-name>Springer science &amp; business media</publisher-name>.</mixed-citation></ref><ref id="brb31020-bib-0050"><mixed-citation publication-type="miscellaneous" id="brb31020-cit-0050">
+<string-name name-style="western">
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dai</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hua</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>He</surname>, <given-names>H.</given-names>
+</string-name> (<year>2012</year>). <article-title>Human age estimation with surface‐based features from MRI images</article-title>. In International Workshop on Machine Learning in Medical Imaging, 111–118.</mixed-citation></ref><ref id="brb31020-bib-0051"><mixed-citation publication-type="book" id="brb31020-cit-0051">
+<string-name name-style="western">
+<surname>Wechsler</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Stone</surname>, <given-names>C. P.</given-names>
+</string-name> (<year>1987</year>). <source xml:lang="en">Wechsler memory scale‐revised</source>. <publisher-loc>San Antonio</publisher-loc>: <publisher-name>Psychological Corporation</publisher-name>.</mixed-citation></ref><ref id="brb31020-bib-0052"><mixed-citation publication-type="book" id="brb31020-cit-0052">
+<string-name name-style="western">
+<surname>Welling</surname>, <given-names>M.</given-names>
+</string-name> (<year>2004</year>). <source xml:lang="en">Support vector regression Toronto</source>. <publisher-loc>Toronto</publisher-loc>: <publisher-name>Department of Computer Science University</publisher-name>.</mixed-citation></ref><ref id="brb31020-bib-0053"><mixed-citation publication-type="journal" id="brb31020-cit-0053">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>D.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Shen</surname>, <given-names>D.</given-names>
+</string-name> (<year>2012</year>). <article-title>Multi‐modal multi‐task learning for joint prediction of multiple regression and classification variables in Alzheimer's disease</article-title>. <source xml:lang="en">NeuroImage</source>, <volume>59</volume>, <fpage>895</fpage>–<lpage>907</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2011.09.069</pub-id>
+<pub-id pub-id-type="pmid">21992749</pub-id><pub-id pub-id-type="pmcid">PMC3230721</pub-id></mixed-citation></ref><ref id="brb31020-bib-0054"><mixed-citation publication-type="journal" id="brb31020-cit-0054">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yuan</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shen</surname>, <given-names>D.</given-names>
+</string-name>; <collab collab-type="authors">Alzheimer's Disease Neuroimaging Initiative</collab>
+(<year>2011</year>). <article-title>Multimodal classification of Alzheimer's disease and mild cognitive impairment</article-title>. <source xml:lang="en">NeuroImage</source>, <volume>55</volume>, <fpage>856</fpage>–<lpage>867</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroimage.2011.01.008</pub-id>
+<pub-id pub-id-type="pmid">21236349</pub-id><pub-id pub-id-type="pmcid">PMC3057360</pub-id></mixed-citation></ref><ref id="brb31020-bib-0055"><mixed-citation publication-type="journal" id="brb31020-cit-0055">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>, <given-names>C.‐H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xia</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Chen</surname>, <given-names>P.</given-names>
+</string-name> (<year>2017</year>). <article-title>Optimization enhanced genetic algorithm‐support vector regression for the prediction of compound retention indices in gas chromatography</article-title>. <source xml:lang="en">Neurocomputing</source>, <volume>240</volume>, <fpage>183</fpage>–<lpage>190</lpage>. <pub-id pub-id-type="doi">10.1016/j.neucom.2016.11.070</pub-id>
+</mixed-citation></ref><ref id="brb31020-bib-0056"><mixed-citation publication-type="journal" id="brb31020-cit-0056">
+<string-name name-style="western">
+<surname>Zhou</surname>, <given-names>N.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name> (<year>2007</year>). <article-title>A modified T‐test feature selection method and its application on the hapmap genotype data</article-title>. <source xml:lang="en">Genomics, Proteomics &amp; Bioinformatics</source>, <volume>5</volume>, <fpage>242</fpage>–<lpage>249</lpage>. <pub-id pub-id-type="doi">10.1016/S1672-0229(08)60011-X</pub-id>
+<pub-id pub-id-type="pmcid">PMC5054219</pub-id><pub-id pub-id-type="pmid">18267305</pub-id></mixed-citation></ref></ref-list><app-group><app id="brb31020-app-0001" content-type="APPENDIX"><label>APPENDIX 1</label><sec id="brb31020-sec-0021"><label>1.1</label><p>The J‐ADNI was a multicenter study assessing neuroimaging in diagnosis and longitudinal monitoring that was started in 2008 in Japan by the New Energy and Industrial Technology Development Organization (NEDO) and the Ministry of Health, Labour and Welfare (MHLW). All of the participants were recruited at 38 Japanese clinical sites. They were followed up for 2–3 years using 1.5‐T MRI, positron emission tomography (PET), biological fluid analysis, and neuropsychological batteries. All of the protocols were designed to be as compatible as possible to those of the ADNI. For additional details about the J‐ADNI, see the previous article by the J‐ADNI (Iwatsubo, <xref rid="brb31020-bib-0025" ref-type="ref">2010</xref>). Participants were 60 to 84 years of age, generally healthy, spoke Japanese, lived at home, and had a study partner. Details of the J‐ADNI inclusion and exclusion criteria can be found at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://upload.umin.ac.jp/cgi-open-bin/ctr/ctr.cgi?function=brows&amp;action=brows&amp;recptno=R000001668&amp;type=summary&amp;language=E">https://upload.umin.ac.jp/cgi-open-bin/ctr/ctr.cgi?function=brows&amp;action=brows&amp;recptno=R000001668&amp;type=summary&amp;language=E</ext-link>. Briefly, the inclusion criteria for cognitively normal (CN) participants included the following: a score of 24–30 on the Mini‐Mental State Examination (MMSE) (Folstein et al., <xref rid="brb31020-bib-0015" ref-type="ref">1975</xref>), Japanese version; a global score of 0 on the CDR, Japanese version; and an education‐adjusted score above the cutoff level on the Wechsler Memory Scale‐Revised (WMS‐R) Logical Memory II (Wechsler &amp; Stone, <xref rid="brb31020-bib-0051" ref-type="ref">1987</xref>), Japanese version (education for 0–9 years was ≥3, for 10–15 years was ≥5, and for &gt;15 years was ≥9). The inclusion criteria for the MCI subjects were a score of 24–30 on the MMSE, memory disturbance identified by the study partner with or without the subjective complaint of the participant, a score of 0.5 on the CDR, and an education‐adjusted score below the cutoff level on the WMS‐R Logical Memory II (education for 0–9 years was ≤2, for 10–15 years was ≤4, and for &gt;15 years was ≤8). The inclusion criteria for AD subjects was a score of 20–26 on the MMSE score, a score of 0.5 or 1 on the CDR, and an education‐adjusted score below the cutoff level on the WMS‐R Logical Memory II (same as for MCI). AD subjects also had to meet the criteria of the NINCDS‐ADRDA (the National Institute of Neurological and Communicative Diseases and Stroke and the Alzheimer's Disease and Related Disorders Association) for probable AD (McKhann et al., <xref rid="brb31020-bib-0036" ref-type="ref">1984</xref>). Exclusion criteria included brain lesions on screening or baseline MRI, neurological and psychiatric disorders other than AD, addiction to alcohol or other drugs, and use of psychoactive drugs or warfarin.</p><p>The institutional review boards at all participating sites approved the data collection procedures and written informed consent was obtained from all participants. If participants were not capable of agreeing, their study partner signed the informed consent form in substitution. A total of 750 participants were first recruited at the 38 clinical sites in Japan. Those who provided written informed consent and passed screening based on the above inclusion/exclusion criteria were enrolled in the J‐ADNI study. Finally, 537 participants were enrolled. The 537 participants underwent brain MRI at baseline. Follow‐up MRI was performed at 6, 12, and 24 months for all participants and at 36 months only for MCI and CN participants. MCI participants additionally underwent MRI at 18 months. Clinical and cognitive assessments were also performed for all participants at the time of the baseline and follow‐up scans. These assessments included MMSE, ADAS‐Cog, and CDR‐SB. Data were used for analysis from 146 AD, 102 sMCI, 112 pMCI and 147 NC participants.</p></sec></app></app-group></back></article></pmc-articleset>

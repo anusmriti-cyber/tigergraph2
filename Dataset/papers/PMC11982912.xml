@@ -1,0 +1,1008 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz70146" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11982912</article-id><article-id pub-id-type="pmcid-ver">PMC11982912.1</article-id><article-id pub-id-type="pmcaid">11982912</article-id><article-id pub-id-type="pmcaiid">11982912</article-id><article-id pub-id-type="pmid">40207431</article-id><article-id pub-id-type="doi">10.1002/alz.70146</article-id><article-id pub-id-type="publisher-id">ALZ70146</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Early increase of the synaptic blood marker β‐synuclein in asymptomatic autosomal dominant Alzheimer's disease</article-title><alt-title alt-title-type="left-running-head">OECKL <sc>et al</sc>.</alt-title></title-group><contrib-group><contrib id="alz70146-cr-0001" contrib-type="author"><name name-style="western"><surname>Oeckl</surname><given-names initials="P">Patrick</given-names></name><xref rid="alz70146-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70146-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70146-cr-0002" contrib-type="author"><name name-style="western"><surname>Mayer</surname><given-names initials="B">Benjamin</given-names></name><xref rid="alz70146-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70146-cr-0003" contrib-type="author"><name name-style="western"><surname>Bateman</surname><given-names initials="RJ">Randall J.</given-names></name><xref rid="alz70146-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz70146-cr-0004" contrib-type="author"><name name-style="western"><surname>Day</surname><given-names initials="GS">Gregory S.</given-names></name><xref rid="alz70146-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz70146-cr-0005" contrib-type="author"><name name-style="western"><surname>Fox</surname><given-names initials="NC">Nick C.</given-names></name><xref rid="alz70146-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="alz70146-cr-0006" contrib-type="author"><name name-style="western"><surname>Huey</surname><given-names initials="ED">Edward D.</given-names></name><xref rid="alz70146-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="alz70146-cr-0007" contrib-type="author"><name name-style="western"><surname>Ibanez</surname><given-names initials="L">Laura</given-names></name><xref rid="alz70146-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="alz70146-cr-0008" contrib-type="author"><name name-style="western"><surname>Ikeuchi</surname><given-names initials="T">Takeshi</given-names></name><xref rid="alz70146-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="alz70146-cr-0009" contrib-type="author"><name name-style="western"><surname>Jucker</surname><given-names initials="M">Mathias</given-names></name><xref rid="alz70146-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref><xref rid="alz70146-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="alz70146-cr-0010" contrib-type="author"><name name-style="western"><surname>Lee</surname><given-names initials="JH">Jae‐Hong</given-names></name><xref rid="alz70146-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="alz70146-cr-0011" contrib-type="author"><name name-style="western"><surname>Levin</surname><given-names initials="J">Johannes</given-names></name><xref rid="alz70146-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref><xref rid="alz70146-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref><xref rid="alz70146-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="alz70146-cr-0012" contrib-type="author"><name name-style="western"><surname>Llibre‐Guerra</surname><given-names initials="JJ">Jorge J.</given-names></name><xref rid="alz70146-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz70146-cr-0013" contrib-type="author"><name name-style="western"><surname>Lopera</surname><given-names initials="F">Francisco</given-names></name><xref rid="alz70146-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="alz70146-cr-0014" contrib-type="author"><name name-style="western"><surname>McDade</surname><given-names initials="E">Eric</given-names></name><xref rid="alz70146-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib id="alz70146-cr-0015" contrib-type="author"><name name-style="western"><surname>Morris</surname><given-names initials="JC">John C.</given-names></name><xref rid="alz70146-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib id="alz70146-cr-0016" contrib-type="author"><name name-style="western"><surname>Niimi</surname><given-names initials="Y">Yoshiki</given-names></name><xref rid="alz70146-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref></contrib><contrib id="alz70146-cr-0017" contrib-type="author"><name name-style="western"><surname>Roh</surname><given-names initials="JH">Jee Hoon</given-names></name><xref rid="alz70146-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref></contrib><contrib id="alz70146-cr-0018" contrib-type="author"><name name-style="western"><surname>Sánchez‐Valle</surname><given-names initials="R">Raquel</given-names></name><xref rid="alz70146-aff-0021" ref-type="aff">
+<sup>21</sup>
+</xref></contrib><contrib id="alz70146-cr-0019" contrib-type="author"><name name-style="western"><surname>Schofield</surname><given-names initials="PR">Peter R.</given-names></name><xref rid="alz70146-aff-0022" ref-type="aff">
+<sup>22</sup>
+</xref><xref rid="alz70146-aff-0023" ref-type="aff">
+<sup>23</sup>
+</xref></contrib><contrib id="alz70146-cr-0020" contrib-type="author" corresp="yes"><name name-style="western"><surname>Otto</surname><given-names initials="M">Markus</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4273-4267</contrib-id><xref rid="alz70146-aff-0024" ref-type="aff">
+<sup>24</sup>
+</xref><address><email>markus.otto@uk-halle.de</email></address></contrib><contrib id="alz70146-cr-0021" contrib-type="author"><collab collab-type="authors">the Dominantly Inherited Alzheimer Network</collab></contrib></contrib-group><aff id="alz70146-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Ulm University Hospital</institution>
+<city>Ulm</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz70146-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>German Center for Neurodegenerative Diseases (DZNE) Ulm</institution>
+<city>Ulm</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz70146-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Institute for Epidemiology and Medical Biometry</named-content>
+<institution>University of Ulm</institution>
+<city>Ulm</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz70146-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Washington University School of Medicine</institution>
+<city>Saint Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70146-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Mayo Clinic in Florida</institution>
+<city>Jacksonville</city>
+<named-content content-type="country-part">Florida</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70146-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">The Dementia Research Centre</named-content>
+<named-content content-type="organisation-division">Department of Neurodegenerative Disease</named-content>
+<institution>UCL Queen Square Institute of Neurology</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz70146-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry and Human Behavior</named-content>
+<institution>Alpert Medical School of Brown University</institution>
+<city>Providence</city>
+<named-content content-type="country-part">Rhode Island</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70146-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<named-content content-type="organisation-division">and NeuroGenomics and Informatics Center</named-content>
+<institution>Washington University</institution>
+<city>Saint Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70146-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Brain Research Institute</named-content>
+<institution>Niigata University</institution>
+<city>Niigata</city>
+<country country="JP">Japan</country>
+</aff><aff id="alz70146-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<institution>German Center for Neurodegenerative Diseases (DZNE) Tübingen</institution>
+<city>Tübingen</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz70146-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Hertie‐Institute for Clinical Brain Research</named-content>
+<institution>University of Tübingen</institution>
+<city>Tübingen</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz70146-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<named-content content-type="organisation-division">Asan Medical Center</named-content>
+<institution>University of Ulsan College of Medicine</institution>
+<city>Seoul</city>
+<country country="KR">South Korea</country>
+</aff><aff id="alz70146-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>LMU University Hospital</institution>
+<institution>LMU Munich</institution>
+<city>Munich</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz70146-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<institution>German Center for Neurodegenerative Diseases (DZNE) Munich</institution>
+<city>Munich</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz70146-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<institution>Munich Cluster for Systems Neurology (SyNergy)</institution>
+<city>Munich</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz70146-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<named-content content-type="organisation-division">Neuroscience Group of Antioquia (GNA)</named-content>
+<named-content content-type="organisation-division">Medicine Faculty</named-content>
+<institution>Antioquia University</institution>
+<city>Medellín</city>
+<country country="CO">Colombia</country>
+</aff><aff id="alz70146-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Washington University School of Medicine</institution>
+<city>Saint Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70146-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology and the Knight Alzheimer Disease Research Center</named-content>
+<institution>Washington University</institution>
+<city>Saint Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70146-aff-0019">
+<label>
+<sup>19</sup>
+</label>
+<named-content content-type="organisation-division">Unit for Early and Exploratory Clinical Development</named-content>
+<institution>The University of Tokyo</institution>
+<city>Tokyo</city>
+<country country="JP">Japan</country>
+</aff><aff id="alz70146-aff-0020">
+<label>
+<sup>20</sup>
+</label>
+<named-content content-type="organisation-division">Departments of Neurology and Physiology</named-content>
+<named-content content-type="organisation-division">Korea University Anam Hospital</named-content>
+<institution>Korea University College of Medicine</institution>
+<city>Seoul</city>
+<country country="KR">South Korea</country>
+</aff><aff id="alz70146-aff-0021">
+<label>
+<sup>21</sup>
+</label>
+<named-content content-type="organisation-division">Alzheimer's Disease and Other Cognitive Disorders Unit. Hospital Clínic de Barcelona</named-content>
+<named-content content-type="organisation-division">FRCB‐IDIBAPS</named-content>
+<institution>University of Barcelona</institution>
+<city>Barcelona</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz70146-aff-0022">
+<label>
+<sup>22</sup>
+</label>
+<institution>Neuroscience Research Australia</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">New South Wales</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="alz70146-aff-0023">
+<label>
+<sup>23</sup>
+</label>
+<named-content content-type="organisation-division">School of Biomedical Sciences</named-content>
+<institution>University of New South Wales</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">New South Wales</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="alz70146-aff-0024">
+<label>
+<sup>24</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Martin‐Luther‐University Halle‐Wittenberg</institution>
+<city>Halle (Saale)</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Markus Otto, Department of Neurology, Martin‐Luther‐University Halle‐Wittenberg, Halle (Saale), Germany.<break/> Email: <email>markus.otto@uk-halle.de</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>4</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2025</year></pub-date><volume>21</volume><issue seq="290">4</issue><issue-id pub-id-type="pmc-issue-id">485818</issue-id><issue-id pub-id-type="doi">10.1002/alz.v21.4</issue-id><elocation-id>e70146</elocation-id><history><date date-type="rev-recd"><day>27</day><month>2</month><year>2025</year></date><date date-type="received"><day>28</day><month>11</month><year>2024</year></date><date date-type="accepted"><day>07</day><month>3</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>10</day><month>04</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>10</day><month>04</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-04-11 00:25:35.220"><day>11</day><month>04</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-21-e70146.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-21-e70146.pdf"/><abstract><title>Abstract</title><sec id="alz70146-sec-0010"><title>INTRODUCTION</title><p>β‐synuclein is a promising blood marker to track synaptic degeneration in Alzheimer's disease (AD) but changes in preclinical AD are unclear.</p></sec><sec id="alz70146-sec-0020"><title>METHODS</title><p>We investigated serum β‐synuclein in 69 cognitively unimpaired mutation non‐carriers, 78 cognitively unimpaired AD mutation carriers (asymptomatic AD), and 31 symptomatic mutation carriers from the Dominantly Inherited Alzheimer Network.</p></sec><sec id="alz70146-sec-0030"><title>RESULTS</title><p>β‐synuclein levels were already higher in asymptomatic AD mutation carriers compared to non‐carriers and highest in symptomatic carriers. Longitudinal trajectories and correlation analyses indicated that β‐synuclein levels start to rise after amyloid deposition preceding axonal degeneration, brain atrophy and hypometabolism, and cognitive decline. β‐synuclein levels were associated with cognitive impairment and gradually increased with declining cognition.</p></sec><sec id="alz70146-sec-0040"><title>DISCUSSION</title><p>Our study supports the use of blood β‐synuclein to track synaptic changes in preclinical AD and as a surrogate marker for cognitive impairment which might be used in early diagnosis and to support patient selection and monitoring of treatment effects in clinical trials.</p></sec><sec id="alz70146-sec-0050"><title>Highlights</title><p>
+<list list-type="bullet" id="alz70146-list-0001"><list-item><p>Blood β‐synuclein levels were already higher in asymptomatic Alzheimer's disease (AD) mutation carriers.</p></list-item><list-item><p>Blood β‐synuclein levels were highest in symptomatic AD mutation carriers.</p></list-item><list-item><p>Blood β‐synuclein levels start to rise 11 years before symptom onset.</p></list-item><list-item><p>Rise of β‐synuclein precedes axonal degeneration, brain atrophy, and cognitive decline.</p></list-item><list-item><p>β‐synuclein levels gradually increased with declining cognition.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz70146-kwd-0001">asymptomatic mutation carriers</kwd><kwd id="alz70146-kwd-0002">autosomal dominant Alzheimer´s disease</kwd><kwd id="alz70146-kwd-0003">β‐synuclein</kwd><kwd id="alz70146-kwd-0004">blood biomarker</kwd><kwd id="alz70146-kwd-0005">preclinical Alzheimer´s disease</kwd><kwd id="alz70146-kwd-0006">synaptic degeneration</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Institute on Aging
+</institution><institution-id institution-id-type="doi">10.13039/100000049</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Alzheimer's Association
+</institution><institution-id institution-id-type="doi">10.13039/100000957</institution-id></institution-wrap></funding-source><award-id>SG‐20‐690363‐DIAN</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>German Center for Neurodegenerative Diseases
+</institution><institution-id institution-id-type="doi">10.13039/501100005224</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0004"><funding-source>Raul Carrea Institute for Neurological Research</funding-source></award-group><award-group id="funding-0005"><funding-source>Research and Development Grants for Dementia from Japan Agency for Medical Research and Development</funding-source><award-id>AMED JP24dk0207066</award-id></award-group><award-group id="funding-0006"><funding-source>Korea Health Technology R&amp;D Project</funding-source></award-group><award-group id="funding-0007"><funding-source>Ministry of Health &amp; Welfare and Ministry of Science and ICT, Republic of Korea</funding-source><award-id>HI21C0066</award-id></award-group><award-group id="funding-0008"><funding-source>Spanish Institute of Health Carlos III</funding-source></award-group><award-group id="funding-0009"><funding-source>Cure Alzheimer´s Fund</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="13"/><word-count count="8760"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.4 mode:remove_FC converted:10.04.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz70146-cite-0001">
+<string-name name-style="western">
+<surname>Oeckl</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mayer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bateman</surname>
+<given-names>RJ</given-names>
+</string-name>, et al.; <collab collab-type="authors">the Dominantly Inherited Alzheimer Network</collab>
+. <article-title>Early increase of the synaptic blood marker β‐synuclein in asymptomatic autosomal dominant Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2025</year>;<volume>21</volume>:<elocation-id>e70146</elocation-id>. <pub-id pub-id-type="doi">10.1002/alz.70146</pub-id>
+<pub-id pub-id-type="pmid">40207431</pub-id>
+<pub-id pub-id-type="pmcid">PMC11982912</pub-id></mixed-citation>
+</p></notes></front><body><sec id="alz70146-sec-0060"><label>1</label><title>BACKGROUND</title><p>Synaptic degeneration is a major hallmark of Alzheimer's disease (AD) and a pathological correlate of memory impairment. Monitoring of synaptic changes in AD patients is therefore of importance for diagnosis, prognosis, and assessing disease progression. Furthermore, an essential aim in the development of disease‐modifying therapies for AD is to slow or stop synaptic degeneration. Biomarkers provide an important tool to track beneficial effects on synaptic loss in clinical trials. Due to the strong association of synaptic loss with memory impairment,<xref rid="alz70146-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> synaptic markers may also serve as surrogate markers for cognitive decline and could provide objective measures of therapeutic benefit and potentially earlier than neuropsychological tests allowing clinical trials to be conducted faster, with fewer participants, and at lower costs</p><p>Several synaptic markers have been extensively investigated in the cerebrospinal fluid (CSF) in symptomatic AD patients, including β‐synuclein, neurogranin, and synaptosomal‐associated protein, 25kDA.<xref rid="alz70146-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Indeed, recent trials of anti‐amyloid drugs that showed cognitive benefit also showed that synaptic markers in CSF improved upon treatment<xref rid="alz70146-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> thereby providing proof‐of‐concept for the use of synaptic markers in body fluids in AD trials. However, less is known about synaptic degeneration in the preclinical phase of AD. This is due to the current reliance on symptomatic diagnosis of AD making this phase less accessible for clinical research. In addition, CSF samples are more difficult to collect from preclinical AD patients and are often not available from population‐based cohort studies. The characterization of synaptic degeneration in the preclinical phase of AD is of great importance to determine its position in the sequence of pathophysiological changes such as amyloid and tau deposition, brain atrophy, and cognitive impairment. This would also help assess how it might be used in (early) diagnosis, progression, and decision making for treatment or drug monitoring.</p><p>An easily accessible synaptic marker in blood could facilitate the characterization of synaptic changes in AD and advance the field similar to the implementation of other blood biomarkers such as neurofilaments or phosphorylated tau (p‐tau) species. Blood is easier and more convenient to collect for patients enabling tighter monitoring of synaptic degeneration. It is also advantageous for early diagnosis or stratification of prospective clinical trial participants and to study synaptic degeneration in large, population‐based cohorts in which CSF is often not available. Recently, we generated strong evidence that measurement of β‐synuclein, a presynaptic protein with highly specific expression in the brain, is a promising synaptic blood biomarker filling this important gap. In several independent studies, we showed higher β‐synuclein levels in the blood of sporadic AD cases, a significant correlation with cognitive decline, brain atrophy, amyloid, and tau pathology.<xref rid="alz70146-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="alz70146-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz70146-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz70146-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Furthermore, there was evidence that β‐synuclein in the blood is already raised in preclinical AD<xref rid="alz70146-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> but as this was from cross‐sectional studies it was unclear at what time in the course of AD it starts to increase and how it relates to the trajectories of other mechanisms.</p><p>Asymptomatic autosomal dominant AD (ADAD) mutation carriers present a unique opportunity to study the preclinical phase of AD and to rank different mechanisms in the course of early AD pathophysiology.<xref rid="alz70146-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> The Dominantly Inherited Alzheimer Network (DIAN) observational study is a worldwide multicenter initiative to longitudinally study dominantly inherited AD<xref rid="alz70146-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> and substantially contributed to our understanding of the trajectories of many fluid and other biomarkers in the preclinical disease phase of AD. It provides a unique opportunity to study blood β‐synuclein levels in very early AD and assess the timing and relation of β‐synuclein changes to other pathological alterations.</p><p>The aim of the present study was to investigate serum β‐synuclein levels in asymptomatic AD mutation carriers (aMC) from the DIAN observational study compared to symptomatic mutation carriers (sMC) and mutation non‐carriers (NC) to characterize synaptic degeneration in the asymptomatic disease phase and the longitudinal trajectories compared to amyloid deposition ([<sup>11</sup>C]‐Pittsburgh compound B positron emission tomography [PiB PET]), CSF biomarkers (amyloid beta 42/40 ratio [Aβ42/40], total tau protein (t‐tau), p‐tau variants), axonal degeneration (serum neurofilament light chain [NfL]), brain atrophy (magnetic resonance imaging [MRI]) and metabolism ([<sup>18</sup>F]‐fluorodeoxyglucose [FDG] PET), and cognitive impairment (Mini‐Mental State Examination [MMSE], Clinical Dementia Rating Sum of Boxes [CDR‐SB], DIAN cognitive composite). These findings inform the ranking of synaptic degeneration in the sequence of pathophysiological mechanisms in ADAD and provide important information about the possible applications of a β‐synuclein blood test for diagnosis, prognosis, progression, and monitoring.</p></sec><sec id="alz70146-sec-0070"><label>2</label><title>METHODS</title><sec id="alz70146-sec-0080"><label>2.1</label><title>Participants</title><p>We included samples from 182 participants of the DIAN observational study, which enrolls adult children of clinically affected ADAD mutation carriers that have a 50% risk of inheriting an ADAD mutation (participants recruited between 2009 and 2015, DIAN request T2204). The design of the DIAN study has been described previously (ClinicalTrials.gov number <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT00869817">NCT00869817</ext-link>).<xref rid="alz70146-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz70146-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Four NCs were excluded because of the diagnosis of possible AD (<italic toggle="yes">n</italic> = 1) or a global CDR &gt; 0 (<italic toggle="yes">n</italic> = 3). The final cohort thus consisted of 178 participants including 69 NCs, that is, cognitively unimpaired subjects without a known AD mutation and a global CDR = 0; 78 aMC, that is, cognitively unimpaired subjects carrying an ADAD mutation and with a global CDR = 0; and 31 sMC, that is, cognitively impaired ADAD mutation carriers with a global CDR &gt; 0. All participants gave written informed consent and all procedures were approved by the institutional review board (IRB) of Washington University (Saint Louis, MO, USA) and the local IRBs of the participating sites. Characteristics of participants are described in Table <xref rid="alz70146-tbl-0001" ref-type="table">1</xref> and are based on data freeze 15 from the DIAN study.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz70146-sec-0090"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz70146-list-0002"><list-item><p>
+<bold>Systematic review</bold>: We reviewed the literature in PubMed and previous studies support higher blood β‐synuclein levels in preclinical Alzheimer's disease (AD). However, changes of blood β‐synuclein in AD mutation carriers have not been investigated before and the dynamics in the asymptomatic phase of AD and the temporal relation to other pathophysiological mechanisms is unclear.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: The study showed that serum β‐synuclein levels were already higher in asymptomatic AD. It indicated that levels became abnormal ≈ 11 years before symptom onset and represented an early marker of AD pathophysiology preceding changes in brain structure and metabolism, cognition, and axonal neurodegeneration.</p></list-item><list-item><p>
+<bold>Future directions</bold>: Our study supports the use of blood β‐synuclein to track synaptic changes in preclinical AD and as a surrogate marker for cognitive impairment. Future studies must evaluate how it can contribute to early diagnosis and whether it can support patient selection and monitoring of treatment effects in clinical trials. Longitudinal studies are needed to confirm our temporal estimates and determine that findings in asymptomatic autosomal dominant AD are generalizable to sporadic AD.</p></list-item></list>
+</p></sec></boxed-text><table-wrap position="float" id="alz70146-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Demographic and clinical characteristics of participants at baseline.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="." span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th><th align="left" rowspan="1" colspan="1">Mutation non‐carrier (NC)</th><th align="left" rowspan="1" colspan="1">Mutation carrier asymptomatic (aMC)</th><th align="left" rowspan="1" colspan="1">Mutation carrier symptomatic (sMC)</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic> (% female)</td><td align="char" rowspan="1" colspan="1">178</td><td align="char" rowspan="1" colspan="1">69 (65%)</td><td align="char" rowspan="1" colspan="1">78 (62%)</td><td align="char" rowspan="1" colspan="1">31 (52%)</td><td align="char" rowspan="1" colspan="1">0.16</td></tr><tr><td align="left" rowspan="1" colspan="1">Age (years)</td><td align="char" rowspan="1" colspan="1">178</td><td align="char" rowspan="1" colspan="1">38.4 (32.3–47)</td><td align="char" rowspan="1" colspan="1">35.4 (30.2–41.8)</td><td align="char" rowspan="1" colspan="1">46.6 (42.1–52.6)<xref rid="alz70146-tbl1-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 positive (%)</td><td align="char" rowspan="1" colspan="1">178</td><td align="char" rowspan="1" colspan="1">33</td><td align="char" rowspan="1" colspan="1">32</td><td align="char" rowspan="1" colspan="1">39</td><td align="char" rowspan="1" colspan="1">0.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Education (years)</td><td align="char" rowspan="1" colspan="1">178</td><td align="char" rowspan="1" colspan="1">15 (13–16)</td><td align="char" rowspan="1" colspan="1">14.5 (12–17)</td><td align="char" rowspan="1" colspan="1">12 (11–14)<xref rid="alz70146-tbl1-note-0005" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.0007</td></tr><tr><td align="left" rowspan="1" colspan="1">CDR‐SB</td><td align="char" rowspan="1" colspan="1">178</td><td align="char" rowspan="1" colspan="1">0 (0–0)</td><td align="char" rowspan="1" colspan="1">0 (0–0)</td><td align="char" rowspan="1" colspan="1">5.5 (5–7)<xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">MMSE</td><td align="char" rowspan="1" colspan="1">177 (69,78,30)</td><td align="char" rowspan="1" colspan="1">30 (29–30)</td><td align="char" rowspan="1" colspan="1">29 (28–30)</td><td align="char" rowspan="1" colspan="1">18 (12–21)<xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">DIAN cognitive composite (<italic toggle="yes">z</italic> score)</td><td align="char" rowspan="1" colspan="1">177 (69,78,30)</td><td align="char" rowspan="1" colspan="1">0.242 (0.07–0.449)</td><td align="char" rowspan="1" colspan="1">0.195 (−0.065–0.46)</td><td align="char" rowspan="1" colspan="1">−1.173 (−1.534–0.834)<xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Serum β‐synuclein (pg/mL)</td><td align="char" rowspan="1" colspan="1">178</td><td align="char" rowspan="1" colspan="1">5.25 (4.63–6.66)</td><td align="char" rowspan="1" colspan="1">7.29 (5.89–8.59)<xref rid="alz70146-tbl1-note-0007" ref-type="table-fn">
+<sup>e</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">14.35 (11.7–18.4)<xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Serum NfL (pg/mL)</td><td align="char" rowspan="1" colspan="1">169 (65,75,29)</td><td align="char" rowspan="1" colspan="1">18.8 (13.6–27.6)</td><td align="char" rowspan="1" colspan="1">20.2 (16.4–30.7)</td><td align="char" rowspan="1" colspan="1">73.4 (61.9–88.5)<xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF Aβ40 (pg/mL)</td><td align="char" rowspan="1" colspan="1">178</td><td align="char" rowspan="1" colspan="1">8431 (6831–10217)</td><td align="char" rowspan="1" colspan="1">8627 (6483–11113)</td><td align="char" rowspan="1" colspan="1">7487 (5967–9131)</td><td align="char" rowspan="1" colspan="1">0.18</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF Aβ42 (pg/mL)</td><td align="char" rowspan="1" colspan="1">178</td><td align="char" rowspan="1" colspan="1">777 (585–975)</td><td align="char" rowspan="1" colspan="1">554 (370–782)<xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">326 (274–375)<xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0008" ref-type="table-fn">
+<sup>f</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF tTau (pg/mL)</td><td align="char" rowspan="1" colspan="1">178</td><td align="char" rowspan="1" colspan="1">212 (180–260)</td><td align="char" rowspan="1" colspan="1">287 (220–520)<xref rid="alz70146-tbl1-note-0009" ref-type="table-fn">
+<sup>g</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">833 (586–1200)<xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF pTau181 (pg/mL)</td><td align="char" rowspan="1" colspan="1">178</td><td align="char" rowspan="1" colspan="1">25.1 (19.5–29.9)</td><td align="char" rowspan="1" colspan="1">36.3 (26.1–67.6)<xref rid="alz70146-tbl1-note-0010" ref-type="table-fn">
+<sup>h</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">139.4 (105.7–190.9)<xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF Aβ42/40 ratio</td><td align="char" rowspan="1" colspan="1">178</td><td align="char" rowspan="1" colspan="1">0.0924 (0.0878–0.0966)</td><td align="char" rowspan="1" colspan="1">0.0629 (0.0515–0.0957)<xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.0437 (0.0337–0.0598)<xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0011" ref-type="table-fn">
+<sup>i</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF pT181/T181</td><td align="char" rowspan="1" colspan="1">147 (57,65,25)</td><td align="char" rowspan="1" colspan="1">21.4 (20.2–22.3)</td><td align="char" rowspan="1" colspan="1">24.4 (22.1–29.6)<xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">35.6 (31.9–41.6)<xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0011" ref-type="table-fn">
+<sup>i</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF pT205/T205</td><td align="char" rowspan="1" colspan="1">147 (57,65,25)</td><td align="char" rowspan="1" colspan="1">0.336 (0.271–0.371)</td><td align="char" rowspan="1" colspan="1">0.42 (0.34–0.576)<xref rid="alz70146-tbl1-note-0010" ref-type="table-fn">
+<sup>h</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.14 (1.006–1.271)<xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF pT202/T202</td><td align="char" rowspan="1" colspan="1">147 (57,65,25)</td><td align="char" rowspan="1" colspan="1">3.2 (2.54–3.55)</td><td align="char" rowspan="1" colspan="1">2.83 (2.12–3.62)</td><td align="char" rowspan="1" colspan="1">2.64 (2.01–2.99)<xref rid="alz70146-tbl1-note-0012" ref-type="table-fn">
+<sup>j</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.05</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF pT217/T217</td><td align="char" rowspan="1" colspan="1">146 (57,64,25)</td><td align="char" rowspan="1" colspan="1">1.11 (0.96–1.28)</td><td align="char" rowspan="1" colspan="1">2.4 (1.28–4.95)<xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">9.6 (7.81–10.95)<xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Cortical PiB Pet SUVR</td><td align="char" rowspan="1" colspan="1">147 (60,66,21)</td><td align="char" rowspan="1" colspan="1">1.03 (0.99–1.08)</td><td align="char" rowspan="1" colspan="1">1.47 (1.11–2.38)<xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">2.81 (2.15–4.59)<xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0011" ref-type="table-fn">
+<sup>i</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Precuneus FDG PET SUVR</td><td align="char" rowspan="1" colspan="1">154 (60,71,23)</td><td align="char" rowspan="1" colspan="1">1.87 (1.79–1.96)</td><td align="char" rowspan="1" colspan="1">1.88 (1.78–2)</td><td align="char" rowspan="1" colspan="1">1.49 (1.35–1.61)<xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Cortical FDG PET SUVR</td><td align="char" rowspan="1" colspan="1">154 (60,71,23)</td><td align="char" rowspan="1" colspan="1">1.69 (1.61–1.76)</td><td align="char" rowspan="1" colspan="1">1.71 (1.6–1.82)</td><td align="char" rowspan="1" colspan="1">1.41 (1.36–1.51)<xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Precuneus thickness (mm)</td><td align="char" rowspan="1" colspan="1">165 (66,74,25)</td><td align="char" rowspan="1" colspan="1">4.77 (4.6–4.95)</td><td align="char" rowspan="1" colspan="1">4.74 (4.57–4.93)</td><td align="char" rowspan="1" colspan="1">3.71 (3.53–4)<xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr><tr><td align="left" rowspan="1" colspan="1">Hippocampal volume (mm<sup>3</sup>)</td><td align="char" rowspan="1" colspan="1">165 (66,74,25)</td><td align="char" rowspan="1" colspan="1">8769 (8089–9362)</td><td align="char" rowspan="1" colspan="1">8808 (8095–9256)</td><td align="char" rowspan="1" colspan="1">6651 (5535–7386)<xref rid="alz70146-tbl1-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref>, <xref rid="alz70146-tbl1-note-0006" ref-type="table-fn">
+<sup>d</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">&lt; 0.0001</td></tr></tbody></table><table-wrap-foot><fn id="alz70146-tbl1-note-0001"><p>
+<italic toggle="yes">Note</italic>: Data are given as median and interquartile ranges. Sex distribution and <italic toggle="yes">APOE</italic> ε4 positivity were compared with the chi‐square test; age, education, and clinical scores with Kruskal–Wallis and Dunn post hoc test; fluid and imaging biomarkers with multivariate general linear regression (log10‐transformed if not normally distributed) including age, sex, education, and <italic toggle="yes">APOE</italic> ε4 status as covariates and Sidak adjustment for multiple comparisons.</p></fn><fn id="alz70146-tbl1-note-0002"><p>Abbreviations: Aβ, amyloid beta; <italic toggle="yes">APOE</italic>, apolipoprotein E; CDR‐SB, Clinical Dementia Rating Sum of Boxes; CSF, cerebrospinal fluid; DIAN, Dominantly Inherited Alzheimer's Network; FDG, fluorodeoxyglucose; MMSE, Mini‐Mental State Examination; NfL, neurofilament light chain; PET, positron emission tomography; PiB, Pittsburgh compound B; pT, phosphorylated tau; SUVR, standardized uptake value ratio.</p></fn><fn id="alz70146-tbl1-note-0003"><label>
+<sup>a</sup>
+</label><p>
+<italic toggle="yes">p</italic> = 0.001 versus NC</p></fn><fn id="alz70146-tbl1-note-0004"><label>
+<sup>b</sup>
+</label><p>
+<italic toggle="yes">p </italic>&lt; 0.0001 versus aMC</p></fn><fn id="alz70146-tbl1-note-0005"><label>
+<sup>c</sup>
+</label><p>
+<italic toggle="yes">p</italic> = 0.0007 versus NC, <italic toggle="yes">p</italic> = 0.0027 versus aMC</p></fn><fn id="alz70146-tbl1-note-0006"><label>
+<sup>d</sup>
+</label><p>
+<italic toggle="yes">p </italic>&lt; 0.0001 versus NC</p></fn><fn id="alz70146-tbl1-note-0007"><label>
+<sup>e</sup>
+</label><p>
+<italic toggle="yes">p</italic> = 0.001 versus NC</p></fn><fn id="alz70146-tbl1-note-0008"><label>
+<sup>f</sup>
+</label><p>
+<italic toggle="yes">p</italic> = 0.011 versus aMC</p></fn><fn id="alz70146-tbl1-note-0009"><label>
+<sup>g</sup>
+</label><p>
+<italic toggle="yes">p </italic>&lt; 0.01 versus NC</p></fn><fn id="alz70146-tbl1-note-0010"><label>
+<sup>h</sup>
+</label><p>
+<italic toggle="yes">p </italic>&lt; 0.001 versus NC</p></fn><fn id="alz70146-tbl1-note-0011"><label>
+<sup>i</sup>
+</label><p>
+<italic toggle="yes">p </italic>&lt; 0.001 versus aMC</p></fn><fn id="alz70146-tbl1-note-0012"><label>
+<sup>j</sup>
+</label><p>
+<italic toggle="yes">p </italic>&lt; 0.05 versus NC</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Distribution of mutations was as follows: <italic toggle="yes">PSEN1</italic> (aMC <italic toggle="yes">n</italic> = 58, sMC <italic toggle="yes">n</italic> = 28), <italic toggle="yes">PSEN2</italic> (aMC <italic toggle="yes">n</italic> = 9), <italic toggle="yes">APP</italic> (aMC <italic toggle="yes">n</italic> = 11, sMC <italic toggle="yes">n</italic> = 3). The presence or absence of an ADAD mutation was confirmed using polymerase chain reaction–based amplification of the relevant exon, followed by Sanger sequencing. At least one follow‐up visit was available for 49 participants (NC <italic toggle="yes">n</italic> = 16, aMC <italic toggle="yes">n</italic> = 20, sMC <italic toggle="yes">n</italic> = 13) including two subjects from the aMC group that converted to the symptomatic stage during follow‐up. Follow‐up visits in DIAN are performed in intervals of 1 to 3 years.</p><p>The estimated years to symptom onset (EYO) were calculated for both MC and NC. For asymptomatic individuals and NC in DIAN, EYO is based on the difference between age at visit and the mean age of symptom onset for this specific mutation or the parental age of onset if no mutation age is available (in NCs, the mutation of the affected family member). For sMC, the DIAN EYO is calculated using the difference between the age at visit and age at appearance of first symptoms.</p></sec><sec id="alz70146-sec-0100"><label>2.2</label><title>Clinical assessment and sample collection</title><p>Participants underwent a comprehensive clinical and neuropsychological evaluation<xref rid="alz70146-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> conducted by clinicians who were blinded to the mutation status of participants and to prior evaluations. The global CDR was used to define asymptomatic (global CDR = 0) and symptomatic AD (global CDR &gt; 0). Further tests of cognitive performance that are reported in our study are the MMSE, CDR‐SB, and the DIAN cognitive composite, which is calculated as the mean of the <italic toggle="yes">z</italic> scores from four neuropsychological tests: MMSE, logical memory delayed recall (MEMUNITS), digit‐symbol substitution (WAIS), and animal naming (ANIMALS). The annual rate of change of the MMSE and CDR‐SB was calculated from the difference between the baseline and first available follow‐up visit divided by the time (in years) between these visits. CSF and blood were collected in the morning under fasting conditions by means of lumbar puncture and venipuncture.<xref rid="alz70146-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+</p></sec><sec id="alz70146-sec-0110"><label>2.3</label><title>Determination of serum β‐synuclein by IP‐MS</title><p>Serum β‐synuclein was measured by immunoprecipitation mass spectrometry (IP‐MS) as previously described.<xref rid="alz70146-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> In brief, 490µL aliquots of serum were mixed with an internal standard solution containing recombinant <sup>15</sup>N‐β‐synuclein (rPeptide) and immunoprecipitated using magnetic beads coupled with an anti‐β‐synuclein antibody (EP1537Y from Abcam). Beads were washed with 50mM triethylammonium bicarbonate/0.1% <italic toggle="yes">n</italic>‐Dodecyl‐β‐D‐maltoside using a Kingfisher Apex instrument and eluted. β‐synuclein was digested by trypsin/LysC (Promega), and two proteotypic peptides were quantified by liquid chromatography multiple reaction monitoring (MRM; aa46–58 and aa61–85) using an Eksigent MicroLC200, Agilent 1260 pump, and Sciex QTRAP6500 mass spectrometer in MRM mode. Calibrators were prepared using recombinant human full‐length β‐synuclein (without tags) from rPeptide and the exact concentration of the β‐synuclein stock solution was quantified by amino acid analysis (Alphalyse A/S). Calibration range was 2 to 30 pg/mL. Serum quality control (QC) samples (low, medium, high) were included in all four runs (intraassay coefficient of variation [CV] 0.5%–9.5%, interassay CV 2.7%–7.7%). Samples were randomly assigned to the different runs and the analysts were blinded to participant data.</p></sec><sec id="alz70146-sec-0120"><label>2.4</label><title>Determination of CSF biomarkers and serum NfL</title><p>CSF AD core biomarkers (Aβ40, Aβ42, t‐tau, p‐tau181) were measured by Lumipulse (Fujirebio) following standard procedures. CSF ratios of tau phosphorylation sites (pT181/T181, pT217/T217, pT205/T205, and pT202/T202) were measured by IP‐MS as previously described.<xref rid="alz70146-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Serum NfL was determined using Simoa (Quanterix).<xref rid="alz70146-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>
+</p></sec><sec id="alz70146-sec-0130"><label>2.5</label><title>Imaging</title><p>Imaging data available in the DIAN study were recently described.<xref rid="alz70146-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> PiB PET was used to assess amyloid plaque load in the brain and FDG ‐PET for brain glucose metabolism. FreeSurfer‐based standardized uptake value ratios (fSUVR, with the total cerebellum gray matter as reference region) were corrected for partial volume effects using a regional point spread function. For the assessment of global cortical amyloid burden (cortical PiB PET) and global cortical brain metabolism (cortical FDG PET), the mean SUVR of the precuneus, prefrontal cortex, gyrus rectus, and lateral temporal regions was used. The cut‐off value for the classification of PiB PET amyloid positivity was 1.42. PiB PET was available for 147 and FDG PET for 154 participants.</p><p>Regional brain volume and cortical thickness were assessed by MRI. Regional volumes were corrected for head size by normalization to the intracranial volume (ICV) as suggested by the DIAN Imaging Core (Normalized volume = regionalVol – [B‐weight ∗ (individual ICV − mean IC<underline underline-style="single">V)]).</underline>
+<xref rid="alz70146-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> MRI data were available for 156 participants.</p></sec><sec id="alz70146-sec-0140"><label>2.6</label><title>Statistics</title><p>Statistical analysis was performed using GraphPad Prism v8.3.0 and SPSS v29.0.0.0.</p><p>Normal distribution was tested using the Shapiro–Wilk test. Sex distribution and apolipoprotein E (<italic toggle="yes">APOE</italic>) ε4 positivity were compared with the chi‐square test. We used the Kruskal–Wallis test followed by Dunn post hoc test for group comparisons of age, education, and clinical scores. Imaging and fluid biomarker data were log10‐transformed (if not normally distributed) and groups were compared with univariate and multivariate general linear regression including age, sex, education, and <italic toggle="yes">APOE</italic> ε4 status as covariates and Sidak adjustment for multiple testing. Correlation analyses were performed using Spearman rank correlation coefficient including age and sex as covariates. Imaging data were visualized using BrainPainter software.<xref rid="alz70146-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</p><p>For longitudinal estimates, serum β‐synuclein levels and other biomarkers at baseline in NC and MC (aMC+sMC) were plotted against the DIAN EYO at baseline. The effects of DIAN EYO and mutation group on serum β‐synuclein levels were calculated using a linear mixed model including family affiliation as a random effect. For each marker and group (NC and carrier), the best regression model (linear, quadratic, cubic, exponential) was selected based on <italic toggle="yes">R</italic>‐squared. The time of change for each biomarker was defined as the point at which the 95% confidence intervals of the regression lines for NC and MC did not overlap anymore. For visualization and comparison of the longitudinal trajectories of fluid, imaging, and clinical biomarkers in MC relative to the NC group, a <italic toggle="yes">z</italic> score was calculated for each biomarker using mean and standard deviation of the NC group (standardized difference) and plotted using smoothing splines. We performed receiver operating characteristics (ROC) curve analysis to define cortical hypometabolism (based on cortical FDG PET) and hippocampal atrophy and to compare biomarkers for predicting Aβ PiB‐PET positivity, cortical hypometabolism, hippocampal atrophy, and cognitive impairment. Biomarker combinations were tested using binary logistic regression. We used linear regression models to estimate the predictive value of baseline biomarker levels (serum β‐synuclein, CSF pT217/T217) on future cognitive decline. Biomarker levels were used as the predictors and the annual rate of change of MMSE or CDR‐SB as the outcome. Age, sex, and <italic toggle="yes">APOE</italic> ε4 status were included as covariates.</p></sec></sec><sec id="alz70146-sec-0150"><label>3</label><title>RESULTS</title><sec id="alz70146-sec-0160"><label>3.1</label><title>Participants</title><p>We investigated 178 participants including 69 cognitively unimpaired NC, 78 aMC, and 31 sMC. Follow‐up data were available for 49 participants (NC = 16, aMC = 20, sMC = 13). Demographic and clinical characteristics are given in Table <xref rid="alz70146-tbl-0001" ref-type="table">1</xref>. To optimally characterize changes in the preclinical AD phase, the NC group (median 38.4 years, interquartile range [IQR] 32.3–47.0) was age‐matched to the aMC group (35.4 years, IQR 30.2–41.9, <italic toggle="yes">p</italic> = 0.13). The sMC group (46.6 years, IQR 42.1–52.6) was older than the NC (<italic toggle="yes">p</italic> = 0.001) and aMC groups (<italic toggle="yes">p </italic>&lt; 0.0001). Sex distribution (<italic toggle="yes">p</italic> = 0.16) and <italic toggle="yes">APOE</italic> ε4 positivity (<italic toggle="yes">p</italic> = 0.80) were not significantly different between the groups. The level of education and cognitive scores were lower in the sMC group compared to aMC (education <italic toggle="yes">p</italic> = 0.003; MMSE and CDR‐SB <italic toggle="yes">p </italic>&lt; 0.0001) and NC (education <italic toggle="yes">p</italic> = 0.0007; MMSE and CDR‐SB <italic toggle="yes">p </italic>&lt; 0.0001).</p></sec><sec id="alz70146-sec-0170"><label>3.2</label><title>Serum β‐synuclein levels increase during the preclinical phase</title><p>We investigated serum β‐synuclein levels in aMC subjects to study synaptic degeneration in the preclinical phase of ADAD compared to NC and sMC participants. Serum β‐synuclein levels were not associated with age in NC (<italic toggle="yes">r</italic>
+<sub>s</sub> = −0.04, <italic toggle="yes">p</italic> = 0.75). Women in the NC group (5.81 pg/mL, IQR 4.78–13.8) had slightly higher serum β‐synuclein levels than men (4.85 pg/mL, IQR 4.00–5.34, <italic toggle="yes">p</italic> = 0.014). There was no difference between <italic toggle="yes">APOE</italic> ε4 allele carriers and non‐carriers (4.90 pg/mL, IQR 3.91–6.57 vs. 5.51 pg/mL, IQR 4.66–6.87, <italic toggle="yes">p</italic> = 0.50).</p><p>Serum β‐synuclein levels were higher in aMC compared to NC subjects (<italic toggle="yes">p</italic> = 0.001, Figure <xref rid="alz70146-fig-0001" ref-type="fig">1A</xref>) indicating that synaptic degeneration begins early in ADAD. Structural and metabolic changes in AD‐typical brain regions (measured by MRI and FDG PET, Table <xref rid="alz70146-tbl-0001" ref-type="table">1</xref>) and axonal neurodegeneration (measured by NfL, Table <xref rid="alz70146-tbl-0001" ref-type="table">1</xref>) were not significantly changed in aMC subjects implying that synaptic changes begin earlier. Higher β‐synuclein levels were also observed in sMC compared to NC (<italic toggle="yes">p </italic>&lt; 0.0001) and aMC (<italic toggle="yes">p </italic>&lt; 0.0001).</p><fig position="float" fig-type="FIGURE" id="alz70146-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Serum β‐synuclein levels start to increase during the preclinical phase. A, Serum β‐synuclein levels are higher in asymptomatic (aMC, <italic toggle="yes">n</italic> = 78) and symptomatic mutation carriers (sMC, <italic toggle="yes">n</italic> = 31) compared to mutation non‐carriers (NC, <italic toggle="yes">n</italic> = 69) and in sMC versus aMC. Groups were compared by multivariate general linear regression using log10‐transformed β‐synuclein levels, including age, sex, education, and <italic toggle="yes">APOE</italic> ε4 positivity as covariates and Sidak adjustment for multiple comparisons. Boxes are median and interquartile range, whiskers are min and max. Dots are individual values. B, Scatter plot of serum β‐synuclein levels at baseline and expected years to symptom onset (DIAN EYO) in NC (<italic toggle="yes">n</italic> = 69) and MC (<italic toggle="yes">n</italic> = 109) subjects. Data were fitted using non‐linear regression and the start of β‐synuclein increase (11.2 years before onset, indicated by the dotted line) was defined at the point where the 95% confidence intervals of the regression lines diverged. Dots are individual values. The black‐rimmed dots are subjects who converted from the asymptomatic to the symptomatic state during follow‐up. C, Longitudinal changes of serum β‐synuclein levels in individual subjects during follow‐up visits are shown in NC (<italic toggle="yes">n</italic> = 16) and MC (<italic toggle="yes">n</italic> = 33) by connecting lines. B,C, According to the DIAN policy, X axis labeling is limited to +10 to –10 to limit genetic unblinding. APOE, apolipoprotein E; DIAN, Dominantly Inherited Alzheimer's Network.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-21-e70146-g002.jpg"/></fig></sec><sec id="alz70146-sec-0180"><label>3.3</label><title>Longitudinal estimates for serum β‐synuclein and other biomarker changes</title><p>We plotted serum β‐synuclein levels in NC and MC participants against DIAN EYO to estimate the longitudinal trajectories of β‐synuclein in both groups (Figure <xref rid="alz70146-fig-0001" ref-type="fig">1B,C</xref>). The DIAN EYO is a proxy to estimate years to onset considering the type of mutation and parental age of symptomatic onset. The association between serum β‐synuclein levels and DIAN EYO differed between NC and MC (<italic toggle="yes">p </italic>&lt; 0.001). β‐synuclein levels were constant in NC but increased over time in MC, beginning ≈ 11 years before EYO (Figure <xref rid="alz70146-fig-0001" ref-type="fig">1B</xref>). Two subjects in our cohort converted from asymptomatic to symptomatic AD during follow‐up and presented with elevated serum β‐synuclein levels at baseline (Figure <xref rid="alz70146-fig-0001" ref-type="fig">1B,C</xref>).</p><p>We compared the DIAN EYO–based longitudinal trajectories of serum β‐synuclein levels to other fluids (Figure <xref rid="alz70146-fig-0002" ref-type="fig">2A</xref>), imaging, and clinical biomarkers (Figure <xref rid="alz70146-fig-0002" ref-type="fig">2B</xref>). Markers of amyloid pathology change first (CSF Aβ42/40: –17.7 years; PiB PET: –16.2 years) followed by p‐tau species (pT217/T217: −16.1 years; pT181/T181: −15.3 years; pT205/T205: −12.1 years) and t‐tau in CSF (−13.0 years). This is followed by serum β‐synuclein (−11.3 years) thereby preceding the axonal degeneration marker NfL (−8.9 years) as well as cognitive decline (cognitive composite: −10.3 years; MMSE: −8.1 years), brain atrophy (precuneus thickness: −6.9 years; hippocampal volume: −1.8 years), and brain glucose metabolism (FDG PET precuneus: −3.0 years; FDG PET cortex: +0.2 years).</p><fig position="float" fig-type="FIGURE" id="alz70146-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Longitudinal trajectories of biomarkers based on expected years to symptom onset. Values of (A) fluid, (B) imaging, and clinical biomarkers of all subjects were normalized to the NC group by calculating a <italic toggle="yes">z</italic> score using the mean and SD of the NC group (standardized difference). The standardized difference of aMC and sMC subjects are plotted against the expected years to symptom onset (DIAN EYO) and the trajectories are visualized by smoothing splines. The colored dots indicate the point where biomarkers in MC start to differ from the NC group as defined by divergence of the 95% confidence interval of the regression lines. The dotted line represents symptom onset. Aβ, amyloid beta; aMC, asymptomatic mutation carriers; CSF, cerebrospinal fluid; DIAN, Dominantly Inherited Alzheimer's Network; FDG, fluorodeoxyglucose; MMSE, Mini‐Mental State Examination; NC, mutation non‐carriers; NfL, neurofilament light chain; PET, positron emission tomography; PiB, Pittsburgh compound B; pT, phosphorylated tau; SD, standard deviation; sMC, symptomatic mutation carriers; tTau, total tau.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-21-e70146-g001.jpg"/></fig></sec><sec id="alz70146-sec-0190"><label>3.4</label><title>Association of serum β‐synuclein levels with amyloid plaque load</title><p>We observed a significant correlation of serum β‐synuclein levels with global cortical amyloid plaque load measured by PiB PET (<italic toggle="yes">r</italic>
+<sub>s</sub> = 0.46, Figure <xref rid="alz70146-fig-0003" ref-type="fig">3A</xref>). After separation into different cortical and subcortical brain regions, most areas showed a significant correlation with serum β‐synuclein without a clear regional pattern (Figure <xref rid="alz70146-fig-0003" ref-type="fig">3B</xref>, Table <xref rid="alz70146-supinfo-0001" ref-type="">S1</xref> in supporting information). Diagnostic performance of serum β‐synuclein for (PiB PET–based) amyloid positivity was moderate (area under the curve [AUC] 0.75, 95% confidence interval [CI] 0.66–0.83) and similar to serum NfL (AUC 0.75, 95% CI 0.67–0.84) but considerably lower than CSF markers of amyloid pathology including Aβ42/40 and p‐tau variants (AUC ≥ 0.93, Figure <xref rid="alz70146-fig-0003" ref-type="fig">3C</xref>). Combination of CSF pT181/T181 and pT217/T217 with serum β‐synuclein by logistic regression did not improve the already high diagnostic performance of these markers for amyloid positivity (pT181/T181: AUC 0.96, 95% CI 0.92–0.99 vs. AUC 0.95, 95% CI 0.91–0.99; pT217/T217: AUC 0.99, 95% CI 0.98–1.00 vs. AUC 0.99, 95% CI 0.99–1.00, Figure <xref rid="alz70146-fig-0003" ref-type="fig">3C</xref>). We divided subjects with available PiB PET into quartiles to investigate the association of serum β‐synuclein levels with amyloid plaque load at different disease stages (Figure <xref rid="alz70146-fig-0003" ref-type="fig">3D</xref>). Higher β‐synuclein levels were observed in the third (Q3, 1.15–2.12) and fourth (Q4, 2.12–6.31) quartile of PiB PET SUVRs whereas the cut‐off defining Aβ PiB‐PET positivity (1.42) was within Q3. Separation of aMC into Aβ+ and Aβ− participants revealed significantly higher serum β‐synuclein levels already in Aβ− aMC compared to NC (Figure <xref rid="alz70146-fig-0003" ref-type="fig">3E</xref>), further supporting a very early start of synaptic degeneration in AD.</p><fig position="float" fig-type="FIGURE" id="alz70146-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Association of serum β‐synuclein levels with brain amyloid plaque load. There was a significant correlation of serum β‐synuclein levels with (A) cortical PiB PET SUVR and (B) PiB PET SUVR in different cortical and subcortical regions at baseline in the whole cohort. The scatter plot in (A) shows individual values, the dotted line is the defined threshold (1.42) for amyloid positivity, and the red line is a linear regression line including the 95% confidence interval. B, The color code shows the Spearman correlation coefficient (<italic toggle="yes">r</italic>
+<sub>s</sub>) of brain regions with a significant correlation between serum β‐synuclein and PiB PET SUVR. Correlation analysis in (A) and (B) was performed by partial Spearman correlation including age and sex as covariates and Bonferroni correction for multiple testing. C, Receiver operating characteristic (ROC) curve analysis of serum β‐synuclein levels (Ser β‐syn) and other fluid biomarkers for diagnosing PiB PET–based amyloid positivity in the whole cohort. Biomarker combinations were tested using binary logistic regression. D, Comparison of serum β‐synuclein levels in all subjects (<italic toggle="yes">n</italic> = 147) divided into PiB PET SUVR quartiles (Q1–Q4) showed the first significant changes of β‐synuclein in Q3 (PiB PET SUVR of 1.15–2.12), which also included the cut‐off defining Aβ PiB PET positivity (1.42). E, Comparison of serum β‐synuclein levels in NC, aMC, and sMC subjects to aMC subjects divided into PiB PET amyloid positive (Aβ+) and negative (Aβ−) subjects. Statistical analysis in (D) and (E) was performed by univariate general linear regression including age, sex, education and <italic toggle="yes">APOE</italic> ε4 status as covariates and Sidak adjustment for multiple testing. <italic toggle="yes">p</italic> values are indicated in the graph. Boxes are median and interquartile ranges, whiskers are minimum and maximum, and dots are individual values. Aβ, amyloid beta; aMC, asymptomatic mutation carriers; <italic toggle="yes">APOE</italic>, apolipoprotein E; AUC, area under the curve; NC, mutation non‐carriers; NfL, neurofilament light chain; PiB PET, Pittsburgh compound B positron emission tomography; pT, phosphorylated tau; sMC, symptomatic mutation carriers; SUVR, standardized uptake value ratio; tTau, total tau.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-21-e70146-g004.jpg"/></fig></sec><sec id="alz70146-sec-0200"><label>3.5</label><title>Association of serum β‐synuclein with brain metabolism and atrophy</title><p>Serum β‐synuclein levels correlated with global cortical brain metabolism as measured by FDG PET (<italic toggle="yes">r</italic>
+<sub>s</sub> = –0.34, Figure <xref rid="alz70146-fig-0004" ref-type="fig">4A</xref>). On a regional scale, there was a moderate correlation with some frontal and parietal areas (Figure <xref rid="alz70146-fig-0004" ref-type="fig">4B</xref>, Table <xref rid="alz70146-supinfo-0001" ref-type="">S1</xref>) including the precuneus but not in subcortical regions. We observed a significant correlation of serum β‐synuclein with hippocampal volume (<italic toggle="yes">r</italic>
+<sub>s</sub> = –0.38, Figure <xref rid="alz70146-fig-0004" ref-type="fig">4C</xref>) and with other temporal (entorhinal cortex), parietal (inferiorparietal, superparietal and supramarginal lobe, precuneus), occipital (cuneus, lingual gyrus) and subcortical (thalamus, accumbens, putamen) structures (Figure <xref rid="alz70146-fig-0004" ref-type="fig">4D</xref>, Table <xref rid="alz70146-supinfo-0001" ref-type="">S1</xref>). We used receiver operating characteristic (ROC) curve analysis of cortical FDG PET SUVR and hippocampal volume in NC and sMC to define cutoffs for cortical hypometabolism (FDG ‐PET SUVR  &lt; 1.537) and hippocampal atrophy (hippocampal volume  &lt; 7542mm<sup>3</sup>) using the Youden index. Serum β‐synuclein showed a moderate performance to predict hypometabolism (AUC 0.82) whereas serum NfL (AUC 0.83) and CSF pT217/T217 (AUC 0.84) performed slightly better (Figure <xref rid="alz70146-fig-0004" ref-type="fig">4E</xref>). For the prediction of hippocampal atrophy, serum β‐synuclein showed good performance (AUC 0.92) and only serum NfL performed better (AUC 0.98, Figure <xref rid="alz70146-fig-0004" ref-type="fig">4F</xref>).</p><fig position="float" fig-type="FIGURE" id="alz70146-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Association of serum β‐synuclein levels with brain volume, brain metabolism, and cognition. There was a significant correlation of serum β‐synuclein levels with brain metabolism (FDG PET) and brain volume (MRI). A, Correlation of serum β‐synuclein with cortical FDG PET SUVR and (B) FDG PET SUVR in different cortical and subcortical regions at bassline in the whole cohort. C, Correlation of serum β‐synuclein with hippocampal volume and (D) MRI‐derived normalized volume in different cortical and subcortical regions at baseline in the whole cohort. The scatter plots in (A,C) show individual values and the red line is a linear regression line including the 95% confidence interval. The color code in (B,D) shows the Spearman correlation coefficient (<italic toggle="yes">r</italic>
+<sub>s</sub>) of brain regions with a significant correlation between serum β‐synuclein and FDG PET SUVR or MRI‐derived cortical/subcortical volume. Correlation analysis in (A‐D) was performed by partial Spearman correlation including age and sex as covariates and Bonferroni correction for multiple testing. E,F, ROC analysis for the prediction of (E) cortical hypometabolism defined as a cortical FDG PET SUVR &lt; 1.537 and (F) hippocampal atrophy defined as hippocampal volume &lt; 7542mm<sup>3</sup>. G,H, Spearman correlation analysis of serum β‐synuclein levels with the (G) MMSE and (H) CDR‐SB scores. The scatter plots show individual values and the red line is a linear regression line including the 95% confidence interval. I,J, Subjects were grouped according to their cognitive performance using the (I) MMSE and (J) CDR‐SB. Serum β‐synuclein levels in MMSE/CDR‐SB groups were compared by univariate general linear regression including age, sex, education, and <italic toggle="yes">APOE</italic> ε4 status as covariates and Sidak adjustment for multiple testing. <italic toggle="yes">p</italic> values are indicated in the graph. Boxes are median and interquartile ranges, whiskers are minimum, and maximum and dots are individual values. K, ROC analysis comparing the diagnostic performance of fluid biomarkers to separate cognitively unimpaired participants (global CDR 0) from those with cognitive impairment (global CDR &gt; 0). Aβ, amyloid beta; <italic toggle="yes">APOE</italic>, apolipoprotein E; AUC, area under the curve; CDR‐SB, Clinical Dementia Rating Sum of Boxes; CSF, cerebrospinal fluid; FDG PET, fluorodeoxyglucose positron emission tomography; MMSE, Mini‐Mental State Examination; MRI, magnetic resonance imaging; NfL, neurofilament light chain; pT181/T181, pT205/T205, pT217/T217, ratio of phosphorylated and unphosphorylated tau protein at positions 181, 205, and 217; ROC, receiver operating characteristic curve; Ser, serum; SUVR, standardized uptake value ratio; tTau, total tau protein.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ALZ-21-e70146-g003.jpg"/></fig></sec><sec id="alz70146-sec-0210"><label>3.6</label><title>Association of serum β‐synuclein with fluid biomarkers and cognitive impairment</title><p>There was a strong correlation of serum β‐synuclein levels with the other fluid biomarkers including markers for axonal and general neurodegeneration (serum NfL, CSF t‐tau) and amyloid pathology (CSF Aβ42/40 and p‐tau species) except for pT202/T202 (<italic toggle="yes">r</italic>
+<sub>s</sub> = –0.32; Table <xref rid="alz70146-tbl-0002" ref-type="table">2</xref>). Strongest correlation was observed with CSF pT217/T217 (<italic toggle="yes">r</italic>
+<sub>s</sub> = 0.62) and serum NfL (<italic toggle="yes">r</italic>
+<sub>s</sub> = 0.60). A significant moderate‐to‐strong correlation of serum β‐synuclein was also observed with cognitive function (CDR‐SB, MMSE, DIAN cognitive composite) with the strongest association with the CDR‐SB (<italic toggle="yes">r</italic>
+<sub>s</sub> = 0.55, Table <xref rid="alz70146-tbl-0002" ref-type="table">2</xref>, Figure <xref rid="alz70146-fig-0004" ref-type="fig">4G,H</xref>). We divided the cohort into groups with different degrees of cognitive impairment to see how serum β‐synuclein levels reflect different stages of AD (Figure <xref rid="alz70146-fig-0004" ref-type="fig">4I,J</xref>). Grouping was done with two different scores, MMSE and CDR‐SB. A similar picture was observed in both cases with a rise of serum β‐synuclein levels with increasing decline in cognition (Figure <xref rid="alz70146-fig-0004" ref-type="fig">4I,J</xref>). Serum β‐synuclein showed a good performance in separating cognitively unimpaired participants from those with cognitive impairment (AUC 0.93, Figure 4K) whereas serum NfL (AUC 0.99) was the best‐performing fluid biomarker here.</p><table-wrap position="float" id="alz70146-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Correlation of fluid biomarkers and cognitive scores at baseline.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Serum NfL</th><th align="left" rowspan="1" colspan="1">CSF Aβ42/40 ratio</th><th align="left" rowspan="1" colspan="1">CSF tTau</th><th align="left" rowspan="1" colspan="1">CSF pT181/T181</th><th align="left" rowspan="1" colspan="1">CSF pT205/T205</th><th align="left" rowspan="1" colspan="1">CSF pT202/T202</th><th align="left" rowspan="1" colspan="1">CSF pT217/T217</th><th align="left" rowspan="1" colspan="1">CDR‐SB</th><th align="left" rowspan="1" colspan="1">MMSE</th><th align="left" rowspan="1" colspan="1">DIAN cognitive composite</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Serum β‐synuclein</td><td align="char" rowspan="1" colspan="1">0.60<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.56<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.50<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.59<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.54<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.32<xref rid="alz70146-tbl2-note-0004" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.62<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.55<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.41<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.39<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Serum NfL</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">−0.44<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.41<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.49<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.52<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.15</td><td align="char" rowspan="1" colspan="1">0.48<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.60<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.41<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.40<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF Aβ42/40 ratio</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">−0.61<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.71<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.54<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.27<xref rid="alz70146-tbl2-note-0003" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.75<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.44<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.35<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.32<xref rid="alz70146-tbl2-note-0004" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF tTau</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">0.65<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.51<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.56<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.68<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.47<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.45<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.36<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF pT181/T181</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">0.60<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.33<xref rid="alz70146-tbl2-note-0004" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.76<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.53<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.40<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.35<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF pT205/T205</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">0.04</td><td align="char" rowspan="1" colspan="1">0.60<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.55<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.45<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.42<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF pT202/T202</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">−0.44<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.14</td><td align="char" rowspan="1" colspan="1">0.23<xref rid="alz70146-tbl2-note-0003" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.23<xref rid="alz70146-tbl2-note-0003" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF pT217/T217</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">0.58<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.47<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.41<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CDR‐SB</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">−0.64<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.52<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">MMSE</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">0.67<xref rid="alz70146-tbl2-note-0005" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="alz70146-tbl2-note-0001"><p>
+<italic toggle="yes">Note</italic>: Values are Spearman correlation coefficients from partial Spearman correlation analysis including age and sex as covariates. Only individuals without missing values for any of the variables were included (<italic toggle="yes">n</italic> = 135).</p></fn><fn id="alz70146-tbl2-note-0002"><p>Abbreviations: Aβ, amyloid beta; <italic toggle="yes">APOE</italic>, apolipoprotein E; CDR‐SB, Clinical Dementia Rating Sum of Boxes; CSF, cerebrospinal fluid; DIAN, Dominantly Inherited Alzheimer's Network; FDG, fluorodeoxyglucose; MMSE, Mini‐Mental State Examination; NfL, neurofilament light chain; PET, positron emission tomography; PiB, Pittsburgh compound B; pT, phosphorylated tau; SUVR, standardized uptake value ratio; tTau, total tau protein.</p></fn><fn id="alz70146-tbl2-note-0003"><label>**</label><p>
+<italic toggle="yes">p </italic>&lt; 0.01</p></fn><fn id="alz70146-tbl2-note-0004"><label>***</label><p>
+<italic toggle="yes">p </italic>&lt; 0.001</p></fn><fn id="alz70146-tbl2-note-0005"><label>****</label><p>
+<italic toggle="yes">p </italic>&lt; 0.0001</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Follow‐up data were available for a small subset of participants only. In an exploratory approach, we estimated the predictive value of baseline serum β‐synuclein levels for future cognitive decline in MC measured by the annual rate of change of the MMSE (<italic toggle="yes">n</italic> = 24) and CDR‐SB (<italic toggle="yes">n</italic> = 25) scores (mean follow‐up time 1.89 ± 0.95 years). Serum β‐synuclein showed a significantly better prediction (MMSE: <italic toggle="yes">R</italic>
+<sup>2</sup> = 0.50, <italic toggle="yes">p </italic>&lt; 0.01; CDR‐SB: <italic toggle="yes">R</italic>
+<sup>2</sup> = 0.54, P<italic toggle="yes">p</italic> = 0.001) than the covariates‐only model (i.e., age, sex, <italic toggle="yes">APOE</italic> ε4 status; MMSE: <italic toggle="yes">R</italic>
+<sup>2</sup> = 0.17; CDR‐SB: <italic toggle="yes">R</italic>
+<sup>2</sup> = 0.17) and slightly better than CSF pT217/T217 (MMSE: <italic toggle="yes">R</italic>
+<sup>2</sup> = 0.43; CDR‐SB: <italic toggle="yes">R</italic>
+<sup>2</sup> = 0.42). Addition of serum β‐synuclein to the model with CSF pT217/T217 significantly improved prediction of future cognitive decline (MMSE: <italic toggle="yes">R</italic>
+<sup>2</sup> = 0.55, <italic toggle="yes">p</italic> = 0.046; CDR‐SB: <italic toggle="yes">R</italic>
+<sup>2</sup> = 0.56, <italic toggle="yes">p</italic> = 0.02).</p></sec></sec><sec id="alz70146-sec-0220"><label>4</label><title>DISCUSSION</title><p>We here showed that serum β‐synuclein levels are already raised in aMC and are highest in sMC. Longitudinal estimations suggest that β‐synuclein levels become abnormal 11 years before symptom onset, representing an early marker of AD pathophysiology, changing after amyloid‐related markers became positive, and preceding changes in brain structure (i.e., atrophy) and metabolism (i.e., FDG PET), cognition, and axonal neurodegeneration. These findings suggest that synaptic degeneration is one of the earliest events in ADAD pathophysiology and is indicative of a retrograde degeneration mechanism starting in the synapse.</p><p>The aim of our study was to characterize the changes in serum β‐synuclein levels, an easily accessible marker of synaptic degeneration, in the asymptomatic phase of ADAD and estimate the longitudinal trajectories in relation to other disease mechanisms. Our data showed that serum β‐synuclein rises very early in ADAD indicated by higher levels in aMC compared to controls. We observed higher β‐synuclein levels even in aMC subjects that had not reached the PiB PET cut‐off for amyloid positivity indicating that synaptic degeneration belongs to the earliest events in AD after the start of amyloid deposition. This is further supported by higher β‐synuclein levels first observed in PiB PET quartile Q3, including the cut‐off for amyloid positivity, and by the estimated biomarker trajectories based on the DIAN EYO. We could show that serum β‐synuclein levels start to increase ≈ 11 years before symptom onset. Thus, it is the first marker to rise (other than CSF t‐tau) after the amyloid‐related markers (PiB PET, CSF Aβ42/40, CSF p‐tau variants) and preceding axonal degeneration (serum NfL), cognitive decline, brain atrophy (MRI), and metabolism (FDG PET). In agreement with this, other studies in DIAN have reported a very early increase of synaptic markers in CSF of ADAD.<xref rid="alz70146-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz70146-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Based on its strong correlation with other synaptic markers in CSF including CSF β‐synuclein,<xref rid="alz70146-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> CSF t‐tau has recently been discussed to better reflect synaptic degeneration than general neurodegeneration as previously thought.<xref rid="alz70146-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> This would also better integrate into the observed temporal order of biomarkers and further support our hypothesis of the very early start of synaptic damage in AD. Serum β‐synuclein levels are also more strongly correlated with amyloid pathology (PiB PET) than with brain atrophy and metabolism, which further supports a tighter temporal proximity of synaptic degeneration to amyloid deposition. On the other hand, it is unlikely that serum β‐synuclein levels reflect just amyloid pathology because it showed only moderate performance to diagnose amyloid positivity and did not have an added value to the established markers pT217 and pT181. Thus, there are several pieces of evidence from the present and previous studies ranking synaptic degeneration to the earliest events in ADAD pathophysiology which can be detected by serum β‐synuclein measurement.</p><p>The estimated temporal order of biomarker changes in our study is very similar to previous reports from ADAD<xref rid="alz70146-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz70146-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> although the estimated number of years when changes start to appear are not identical. We ascribe this to different statistical models used to define the time of change but the fact that different models provide a similar temporal order supports the robustness of these findings. Also, the change of cognitive decline (cognitive composite and MMSE) is ranked earlier in our study compared to previous DIAN studies<xref rid="alz70146-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> which might result from the inclusion of different DIAN participants and also slightly lower sample size in our study compared to previous ones.<xref rid="alz70146-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz70146-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Within our study, we could add a marker of synaptic degeneration to this puzzle and temporally associate it with early amyloid deposition. Serum β‐synuclein levels also changed before the axonal marker NfL. It is therefore tempting to speculate that the degeneration process starts at the synapse and retrogradely progresses through the axon to the neuronal soma, although a marker for the latter is lacking so far in this cascade and must be confirmed. The synapse has been proposed as the initial site of neurodegeneration for many years and there is also evidence from other studies that it precedes axonal degeneration.<xref rid="alz70146-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="alz70146-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz70146-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Our data show that we are now able to track this processes with easily accessible blood markers in human subjects.</p><p>Our data are consistent with our previous observation in Down syndrome (DS) subjects.<xref rid="alz70146-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> DS, that is, trisomy 21, is characterized by triplication of the <italic toggle="yes">APP</italic> gene and represents a genetic form of AD. Here, we showed higher serum β‐synuclein levels in asymptomatic DS subjects without clinical signs of AD and highest levels in DS with AD, similar to our study in ADAD. Our data in ADAD are also in line with our studies in sporadic AD showing a gradual increase of β‐synuclein levels from Aβ+ but cognitively normal subjects, mild cognitive impairment AD, and AD dementia<xref rid="alz70146-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz70146-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz70146-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> indicating that the temporal estimations from ADAD are transferable to sporadic AD. Other studies also support that fluid biomarker profiles are similar in ADAD and sporadic AD whereas longitudinal clinical presentation might vary<xref rid="alz70146-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> but this must be confirmed for β‐synuclein.</p><p>Synaptic degeneration is the pathological correlate of memory impairment in AD<xref rid="alz70146-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> and synaptic markers might be used as surrogate markers to track or predict changes of cognition. We here showed a significant correlation of serum β‐synuclein levels with three different measures of cognitive function (MMSE, CDR‐SB, DIAN cognitive composite) in agreement with our previous observations in sporadic AD.<xref rid="alz70146-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz70146-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> We divided the participants according to their degree of impairment using the MMSE and CDR‐SB scores. With both scores, β‐synuclein levels strongly depended on the degree of cognitive impairment suggesting a gradual increase with declining cognitive function. Furthermore, the ROC curve analysis identified serum β‐synuclein as a good predictor of cognitive impairment. These data support the use of serum β‐synuclein as a surrogate biomarker for cognitive changes. Our exploratory data, indicating a predictive value of β‐synuclein for future cognitive decline in combination with CSF pT217/T217, are also promising but need further verification due to the small sample size.</p><p>Clinical scores are an important tool in AD drug development and usually the main outcome measure in clinical trials to show the efficacy of a drug. The recent success of anti‐amyloid drugs was demonstrated in patients with early symptomatic AD by a slower increase of the CDR‐SB score<xref rid="alz70146-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> and greater time to progression to the next stage of dementia.<xref rid="alz70146-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Surrogate markers of clinically meaningful disease processes are urgently needed to support the design and operationalization of clinical trials of putative AD‐modifying therapies at earlier stages of disease—including in asymptomatic (cognitively normal) participants in whom clinical read‐outs are impractical. Synaptic markers are promising candidates here and the estimated trajectories from our study suggest that synaptic markers such as β‐synuclein might be helpful in two ways. According to our data, synaptic degeneration is one of the earliest events in the preclinical phase after start of amyloid deposition. The monitoring of synaptic markers in amyloid‐positive subjects will indicate the time when synaptic degeneration starts. This could be an ideal point to start anti‐amyloid therapy thereby also excluding the substantial number of subjects with benign amyloid deposition that will never develop AD during their lifetime. Monitoring of synaptic markers during treatment might be an important read‐out to evaluate positive treatment effects in conjunction with amyloid‐related markers for target engagement because patients are still cognitively normal. Data from anti‐amyloid trials<xref rid="alz70146-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> also support the use of synaptic markers to monitor treatment effects. Serum β‐synuclein is a promising candidate here because it is easily accessible also for longitudinal follow‐up. In addition, it is less dependent on age compared to other blood biomarkers (e.g., NfL, GFAP) which is advantageous for longitudinal monitoring. However, data from anti‐amyloid trials are only available for CSF synaptic markers so far and correlation of CSF and blood biomarkers can vary strongly. One contributing factor here can be peripheral expression of markers interfering with brain‐derived changes, which has been shown, for example, for neurogranin.<xref rid="alz70146-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Studies to evaluate blood β‐synuclein as a read‐out in clinical trials are therefore urgently needed.</p><p>A limitation of our study could be the sample size, which is smaller than in previous DIAN studies and might explain some differences in the longitudinal estimates. However, the group differences of serum β‐synuclein are highly significant and do not require a larger sample size to increase statistical power. Cross‐sectional differences of other variables are also similar to previous DIAN studies supporting a similar composition of our cohort and comparability. We had follow‐up samples only for a subset of participants to calculate the rate of change for serum β‐synuclein which might be a better measure of longitudinal changes as suggested for other biomarkers in DIAN studies.<xref rid="alz70146-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> The investigation of serum β‐synuclein rate of change should be addressed in more detail in subsequent studies. Also, data on blood p‐tau217, the currently most promising AD blood biomarker, were not yet available in the DIAN data freeze 15 used in the present study and precluded a direct comparison to blood β‐synuclein which would be important to better estimate the added value of β‐synuclein and requires further studies.</p><p>In conclusion, our data indicate that synaptic degeneration starts early in asymptomatic ADAD. It is ranked as one of the first events after start of amyloid deposition and preceding axonal degeneration, brain atrophy, and metabolism in support of a retrograde degenerative process starting in the synapse. Serum β‐synuclein is an easily accessible biomarker to track synaptic changes and is associated with cognitive impairment and might be used in drug trials for patient selection and monitoring of treatment effects. Longitudinal studies are needed to confirm our temporal estimates and determine that findings in ADAD are generalizable to sporadic AD.</p></sec><sec id="alz70146-sec-0230"><title>AUTHOR CONTRIBUTIONS</title><p>Conception and design of the work: Patrick Oeckl, Markus Otto. Acquisition, analysis, or interpretation of data: Patrick Oeckl, Benjamin Mayer, Randall J. Bateman, Gregory S. Day, Nick C. Fox, Edward D. Huey, Laura Ibanez, Takeshi Ikeuchi, Mathias Jucker, Jae‐Hong Lee, Johannes Levin, Jorge J. Llibre‐Guerra, Francisco Lopera, Eric McDade, John C. Morris, Yoshiki Niimi, Jee Hoon Roh, Raquel Sánchez‐Valle, Peter R. Schofield, Markus Otto. Drafting of the manuscript: Patrick Oeckl, Markus Otto. All authors critically revised the work for important intellectual content, finally approved the version to be published, and agreed to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.</p></sec><sec sec-type="COI-statement" id="alz70146-sec-0250"><title>CONFLICT OF INTEREST STATEMENT</title><p>Patrick Oeckl received research support from the Alzheimer Forschung Initiative e.V. (20059CB), ALS Association/ALS Finding A Cure (24‐SGP‐691, 23‐PPG‐674‐2), Charcot Foundation (D.7090), DZNE Innovation‐to‐Application (I2A_call7_Oeckl, I2A_call9_Oeckl), consulting fees from LifeArc and Fundamental Pharma, and travel support from Biogen. Markus Otto received research support from German Federal Ministry of Education and Research (FTLDc 01GI1007A), the EU Joint Programme‐Neurodegenerative Diseases networks Genfi‐Prox (01ED2008A), the EU (MOODMARKER 01EW2008), the German Research Foundation/DFG (SFB1279), the foundation of the state Baden‐Württemberg (D.3830), Boehringer Ingelheim Ulm University BioCenter (D.5009), and the Thierry Latran Foundation. Markus Otto and Patrick Oeckl are co‐inventors of a patent application for using β‐synuclein measurement in blood (EP4014048A1, US2022283184A1). Johannes Levin reports speaker fees from Bayer Vital, Biogen, EISAI, TEVA, Esteve, Zambon, and Roche; consulting fees from Axon Neuroscience, EISAI, and Biogen; author fees from Thieme medical publishers and W. Kohlhammer GmbH medical publishers; and is inventor in a patent “Oral Phenylbutyrate for Treatment of Human 4‐Repeat Tauopathies” (EP 23 156 122.6) filed by LMU Munich. In addition, he reports compensation for serving as chief medical officer for MODAG GmbH, is beneficiary of the phantom share program of MODAG GmbH, and is inventor in a patent “Pharmaceutical Composition and Methods of Use” (EP 22 159 408.8) filed by MODAG GmbH, all activities outside the submitted work. Jorge J. Llibre‐Guerra's research is supported by NIH‐NIA (K01AG073526), the Alzheimer's Association (AARFD‐21‐851415, SG‐20‐690363), the Michael J. Fox Foundation (MJFF‐020770), the Foundation for Barnes‐Jewish Hospital, and the McDonnell Academy. Francisco Lopera has grants and support from NIA, NIH, RED‐LAT, LATAM‐Fingers, Large PD, Roche, Biogen, Tau Consortium, Alzheimer Association, and Viewmind. All other authors declare no competing interests. Author disclosures are available in the <xref rid="alz70146-supinfo-0001" ref-type="">supporting information</xref>.</p></sec><sec id="alz70146-sec-0260"><title>CONSENT STATEMENT</title><p>All participants gave written informed consent to participate in the study.</p></sec><sec id="alz70146-sec-0270"><title>COLLABORATORS OF THE DOMINANTLY INHERITED ALZHEIMER NETWORK</title><p>David Aguillon, Ricardo F. Allegri, Andrew J. Aschenbrenner, Bryce Baker, Nicolas Barthelemy, Randall Bateman, Jacob A. Bechara, Tammie Benzinger, Sarah B. Berman, William S. Brooks, David M. Cash, Allison Chen, Charles Chen, Jasmeer P. Chhatwal, Patricio Chrem Mendez, Laura Courtney, Carlos Cruchaga, Alisha J. Daniels, Gregory Day, Anne M. Fagan, Martin Farlow, Shaney Flores, Nick C. Fox, Erin Franklin, Alison M. Goate, Brian A. Gordon, Susanne Graber‐Sultan, Neill R. Graff‐Radford, Emily Gremminger, Jason Hassenstab, Elizabeth Herries, Anna Hofmann, David M. Holtzman, Russ Hornbeck, Edward D. Huey, Laura Ibanez, Takeshi Ikeuchi, Snezana Ikonomovic, Kelley Jackson, Steve Jarman, Gina Jerome, Erik C.B Johnson, Nelly Joseph‐Mathurin, Mathias Jucker, Celeste M. Karch, Kensaku Kasuga, Sarah Keefe, Deborah Koudelis, Elke Kuder‐Buletta, Christoph Laske, Jae‐Hong Lee, Yudy Milena Leon, Allan I. Levey, Johannes Levin, Yan Li, Jorge J. Llibre‐Guerra, Francisco Lopera, Ruijin Lu, Jacob Marsh, Ralph Martins, Parinaz Massoumzadeh, Colin Masters, Austin McCullough, Eric McDade, Nicole McKay, Matthew Minton, Hiroshi Mori, John C. Morris, Neelesh K. Nadkarni, Joyce Nicklaus, Yoshiki Niimi, James M. Noble, Ulrike Obermueller, Richard J. Perrin, Danielle M. Picarello, Christine Pulizos, Laura Ramirez, Alan E. Renton, John Ringman, Jacqueline Rizzo, Yvonne Roedenbeck, Jee Hoon Roh, Pedro Rosa‐Neto, Natalie S. Ryan, Edita Sabaredzovic, Stephen Salloway, Raquel Sanchez‐Valle, Peter R. Schofield, Jalen Scott, Nicholas T. Seyfried, Ashlee Simmons, Jennifer Smith, Hunter Smith, Jennifer Stauber, Sarah Stout, Charlene Supnet‐Bell, Ezequiel Surace, Silvia Vazquez, Jonathan Vöglein, Guoqiao Wang, Qing Wang, Chengie Xiong, Xiong Xu, Jinbin Xu.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz70146-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz70146-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e70146-s001.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz70146-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e70146-s002.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz70146-sec-0240"><title>ACKNOWLEDGMENTS</title><p>Data collection and sharing for this project was supported by The Dominantly Inherited Alzheimer Network (DIAN, U19AG032438) funded by the National Institute on Aging (NIA), the Alzheimer's Association (SG‐20‐690363‐DIAN), the German Center for Neurodegenerative Diseases (DZNE), Raul Carrea Institute for Neurological Research (FLENI), with partial support by the Research and Development Grants for Dementia from Japan Agency for Medical Research and Development (AMED JP24dk0207066), the Korea Health Technology R&amp;D Project through the Korea Health Industry Development Institute (KHIDI), Korea Dementia Research Center (KDRC), funded by the Ministry of Health &amp; Welfare and Ministry of Science and ICT, Republic of Korea (HI21C0066), and Spanish Institute of Health Carlos III (ISCIII). This manuscript has been reviewed by DIAN Study investigators for scientific content and consistency of data interpretation with previous DIAN Study publications. We acknowledge the altruism of the participants and their families and the contributions of the DIAN research and support staff at each of the participating sites for their contributions to this study. We thank Stephen Meier for his excellent technical assistance. The study was supported by the Cure Alzheimer´s Fund (granted to PO and MO). Funding sources were not involved in study design; in the collection, analysis, and interpretation of data; in the writing of the report; and in the decision to submit the article for publication.</p><p>Open access funding enabled and organized by Projekt DEAL.</p></ack><ref-list id="alz70146-bibl-0001"><title>REFERENCES</title><ref id="alz70146-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz70146-cite-0002">
+<string-name name-style="western">
+<surname>Mecca</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Dell</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharp</surname>
+<given-names>ES</given-names>
+</string-name>, et al. <article-title>Synaptic density and cognitive performance in Alzheimer's disease: A PET imaging study with [ 11 C]UCB‐J</article-title>. <source>Alzheimers Dement</source>. <year>2022</year>;<volume>18</volume>(<issue>12</issue>):<fpage>2527</fpage>‐<lpage>2536</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ALZ.12582</pub-id>
+<pub-id pub-id-type="pmid">35174954</pub-id>
+<pub-id pub-id-type="pmcid">PMC9381645</pub-id></mixed-citation></ref><ref id="alz70146-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz70146-cite-0003">
+<string-name name-style="western">
+<surname>Lista</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santos‐Lozano</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Emanuele</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Monitoring synaptic pathology in Alzheimer's disease through fluid and PET imaging biomarkers: a comprehensive review and future perspectives</article-title>. <source>Mol Psychiatry</source>. <year>2024</year>;<volume>29</volume>(<issue>3</issue>):<fpage>847</fpage>‐<lpage>857</lpage>. doi:<pub-id pub-id-type="doi">10.1038/S41380-023-02376-6</pub-id>
+<pub-id pub-id-type="pmid">38228892</pub-id>
+</mixed-citation></ref><ref id="alz70146-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz70146-cite-0004">
+<string-name name-style="western">
+<surname>van Dyck</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swanson</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aisen</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Lecanemab in early Alzheimer's disease</article-title>. <source>N Engl J Med</source>. <year>2023</year>;<volume>388</volume>. doi:<pub-id pub-id-type="doi">10.1056/NEJMOA2212948</pub-id>
+<pub-id pub-id-type="pmid">36449413</pub-id></mixed-citation></ref><ref id="alz70146-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz70146-cite-0005">
+<string-name name-style="western">
+<surname>Oeckl</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halbgebauer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anderl‐Straub</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Targeted mass spectrometry suggests beta‐synuclein as synaptic blood marker in Alzheimer's disease</article-title>. <source>J Proteome Res</source>. <year>2020</year>;<volume>19</volume>:<fpage>1310</fpage>‐<lpage>1318</lpage>. doi:<pub-id pub-id-type="doi">10.1021/acs.jproteome.9b00824</pub-id>
+<pub-id pub-id-type="pmid">32101007</pub-id>
+</mixed-citation></ref><ref id="alz70146-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz70146-cite-0006">
+<string-name name-style="western">
+<surname>Oeckl</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halbgebauer</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Higher plasma β‐synuclein indicates early synaptic degeneration in Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2023</year>;<volume>19</volume>:<fpage>5095</fpage>‐<lpage>5102</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13103</pub-id>
+<pub-id pub-id-type="pmid">37186338</pub-id>
+</mixed-citation></ref><ref id="alz70146-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz70146-cite-0007">
+<string-name name-style="western">
+<surname>Oeckl</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bluma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bucci</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Blood β‐synuclein is related to amyloid PET positivity in memory clinic patients</article-title>. <source>Alzheimer's Dement</source>. <year>2023</year>;<volume>19</volume>:<fpage>4896</fpage>‐<lpage>4907</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13046</pub-id>
+<pub-id pub-id-type="pmid">37052206</pub-id>
+</mixed-citation></ref><ref id="alz70146-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz70146-cite-0008">
+<string-name name-style="western">
+<surname>Oeckl</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anderl‐Straub</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Danek</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Relationship of serum beta‐synuclein with blood biomarkers and brain atrophy</article-title>. <source>Alzheimer's Dement</source>. <year>2023</year>;<volume>19</volume>:<fpage>1358</fpage>‐<lpage>1371</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12790</pub-id>
+<pub-id pub-id-type="pmid">36129098</pub-id>
+</mixed-citation></ref><ref id="alz70146-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz70146-cite-0009">
+<string-name name-style="western">
+<surname>Barthélemy</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joseph‐Mathurin</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>A soluble phosphorylated tau signature links tau, amyloid and the evolution of stages of dominantly inherited Alzheimer's disease</article-title>. <source>Nat Med</source>. <year>2020</year>;<volume>26</volume>:<fpage>398</fpage>‐<lpage>407</lpage>. doi:<pub-id pub-id-type="doi">10.1038/S41591-020-0781-Z</pub-id>
+<pub-id pub-id-type="pmid">32161412</pub-id>
+<pub-id pub-id-type="pmcid">PMC7309367</pub-id></mixed-citation></ref><ref id="alz70146-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz70146-cite-0010">
+<string-name name-style="western">
+<surname>Morris</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aisen</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bateman</surname>
+<given-names>RJ</given-names>
+</string-name>, et al. <article-title>Developing an international network for Alzheimer research: the Dominantly Inherited Alzheimer Network</article-title>. <source>Clin Investig (Lond)</source>. <year>2012</year>;<volume>2</volume>:<fpage>975</fpage>‐<lpage>984</lpage>. doi:<pub-id pub-id-type="doi">10.4155/CLI.12.93</pub-id>
+<pub-id pub-id-type="pmcid">PMC3489185</pub-id><pub-id pub-id-type="pmid">23139856</pub-id></mixed-citation></ref><ref id="alz70146-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz70146-cite-0011">
+<string-name name-style="western">
+<surname>Bateman</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiong</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benzinger</surname>
+<given-names>TLS</given-names>
+</string-name>, et al. <article-title>Clinical and biomarker changes in dominantly inherited Alzheimer's disease</article-title>. <source>N Engl J Med</source>. <year>2012</year>;<volume>367</volume>:<fpage>795</fpage>‐<lpage>804</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJMOA1202753</pub-id>
+<pub-id pub-id-type="pmid">22784036</pub-id>
+<pub-id pub-id-type="pmcid">PMC3474597</pub-id></mixed-citation></ref><ref id="alz70146-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz70146-cite-0012">
+<string-name name-style="western">
+<surname>Preische</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schultz</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Apel</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Serum neurofilament dynamics predicts neurodegeneration and clinical progression in presymptomatic Alzheimer's disease</article-title>. <source>Nat Med</source>. <year>2019</year>;<volume>25</volume>:<fpage>277</fpage>‐<lpage>283</lpage>. doi:<pub-id pub-id-type="doi">10.1038/S41591-018-0304-3</pub-id>
+<pub-id pub-id-type="pmid">30664784</pub-id>
+<pub-id pub-id-type="pmcid">PMC6367005</pub-id></mixed-citation></ref><ref id="alz70146-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz70146-cite-0013">
+<string-name name-style="western">
+<surname>McKay</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hornbeck</surname>
+<given-names>RC</given-names>
+</string-name>, et al. <article-title>Positron emission tomography and magnetic resonance imaging methods and datasets within the Dominantly Inherited Alzheimer Network (DIAN)</article-title>. <source>Nat Neurosci</source>. <year>2023</year>;<volume>26</volume>:<fpage>1449</fpage>‐<lpage>1460</lpage>. doi:<pub-id pub-id-type="doi">10.1038/S41593-023-01359-8</pub-id>
+<pub-id pub-id-type="pmid">37429916</pub-id>
+<pub-id pub-id-type="pmcid">PMC10400428</pub-id></mixed-citation></ref><ref id="alz70146-bib-0013"><label>13</label><mixed-citation publication-type="book" id="alz70146-cite-0014">
+<string-name name-style="western">
+<surname>Marinescu</surname>
+<given-names>RV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eshaghi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alexander</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Golland</surname>
+<given-names>P</given-names>
+</string-name>. <part-title>BrainPainter: A software for the visualisation of brain structures, biomarkers and associated pathological processes</part-title>. <source>Multimodal Brain Image Anal Math Found Comput Anat 4th Int Work MBIA 2019, 7th Int Work MFCA 2019</source>, Held Conjunction with MICCAI 2019, <publisher-loc>Shenzhen, China</publisher-loc>, <year>2019</year>;<volume>11846</volume>:<fpage>112</fpage>‐<lpage>120</lpage>. doi:<pub-id pub-id-type="doi">10.1007/978-3-030-33226-6_13</pub-id>
+<pub-id pub-id-type="pmcid">PMC7853665</pub-id><pub-id pub-id-type="pmid">33537683</pub-id></mixed-citation></ref><ref id="alz70146-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz70146-cite-0015">
+<string-name name-style="western">
+<surname>Schindler</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Todd</surname>
+<given-names>KW</given-names>
+</string-name>, et al. <article-title>Emerging cerebrospinal fluid biomarkers in autosomal dominant Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2019</year>;<volume>15</volume>:<fpage>655</fpage>‐<lpage>665</lpage>. doi:<pub-id pub-id-type="doi">10.1016/J.JALZ.2018.12.019</pub-id>
+<pub-id pub-id-type="pmid">30846386</pub-id>
+<pub-id pub-id-type="pmcid">PMC6511459</pub-id></mixed-citation></ref><ref id="alz70146-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz70146-cite-0016">
+<string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>ECB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haque</surname>
+<given-names>RU</given-names>
+</string-name>, et al. <article-title>Cerebrospinal fluid proteomics define the natural history of autosomal dominant Alzheimer's disease</article-title>. <source>Nat Med</source>. <year>2023</year>;<volume>29</volume>:<fpage>1979</fpage>‐<lpage>1988</lpage>. doi:<pub-id pub-id-type="doi">10.1038/S41591-023-02476-4</pub-id>
+<pub-id pub-id-type="pmid">37550416</pub-id>
+<pub-id pub-id-type="pmcid">PMC10427428</pub-id></mixed-citation></ref><ref id="alz70146-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz70146-cite-0017">
+<string-name name-style="western">
+<surname>Soares</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bellaver</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>PCL</given-names>
+</string-name>, et al. <article-title>CSF total tau is more closely associated with synaptic dysfunction than overt neurodegeneration</article-title>. <source>Alzheimer's Dement</source>. <year>2023</year>;<volume>19</volume>:<elocation-id>e079855</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/ALZ.079855</pub-id>
+</mixed-citation></ref><ref id="alz70146-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz70146-cite-0018">
+<string-name name-style="western">
+<surname>Chatterjee</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vermunt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>BA</given-names>
+</string-name>, et al. <article-title>Plasma glial fibrillary acidic protein in autosomal dominant Alzheimer's disease: associations with Aβ‐PET, neurodegeneration, and cognition</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>:<fpage>2790</fpage>‐<lpage>2804</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ALZ.12879</pub-id>
+<pub-id pub-id-type="pmid">36576155</pub-id>
+<pub-id pub-id-type="pmcid">PMC10300233</pub-id></mixed-citation></ref><ref id="alz70146-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz70146-cite-0019">
+<string-name name-style="western">
+<surname>Pereira</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ossenkoppele</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Untangling the association of amyloid‐β and tau with synaptic and axonal loss in Alzheimer's disease</article-title>. <source>Brain</source>. <year>2021</year>;<volume>144</volume>:<fpage>310</fpage>‐<lpage>324</lpage>. doi:<pub-id pub-id-type="doi">10.1093/BRAIN/AWAA395</pub-id>
+<pub-id pub-id-type="pmid">33279949</pub-id>
+<pub-id pub-id-type="pmcid">PMC8210638</pub-id></mixed-citation></ref><ref id="alz70146-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz70146-cite-0020">
+<string-name name-style="western">
+<surname>Selkoe</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Alzheimer's disease is a synaptic failure</article-title>. <source>Science</source>. <year>2002</year>;<volume>298</volume>:<fpage>789</fpage>‐<lpage>791</lpage>. doi:<pub-id pub-id-type="doi">10.1126/science.1074069</pub-id>
+<pub-id pub-id-type="pmid">12399581</pub-id>
+</mixed-citation></ref><ref id="alz70146-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz70146-cite-0021">
+<string-name name-style="western">
+<surname>Oeckl</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wagemann</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halbgebauer</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Serum beta‐synuclein Is higher in down syndrome and precedes rise of pTau181</article-title>. <source>Ann Neurol</source>. <year>2022</year>;<volume>92</volume>:<fpage>6</fpage>‐<lpage>10</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ana.26360</pub-id>
+<pub-id pub-id-type="pmid">35340050</pub-id>
+</mixed-citation></ref><ref id="alz70146-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz70146-cite-0022">
+<string-name name-style="western">
+<surname>Llibre‐Guerra</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iaccarino</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coble</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Longitudinal clinical, cognitive and biomarker profiles in dominantly inherited versus sporadic early‐onset Alzheimer's disease</article-title>. <source>Brain Commun</source>. <year>2023</year>;<volume>5</volume>:<elocation-id>fcad280</elocation-id>. doi:<pub-id pub-id-type="doi">10.1093/BRAINCOMMS/FCAD280</pub-id>
+<pub-id pub-id-type="pmid">37942088</pub-id>
+<pub-id pub-id-type="pmcid">PMC10629466</pub-id></mixed-citation></ref><ref id="alz70146-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz70146-cite-0023">
+<string-name name-style="western">
+<surname>Terry</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masliah</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salmon</surname>
+<given-names>DP</given-names>
+</string-name>, et al. <article-title>Physical basis of cognitive alterations in Alzheimer's disease: synapse loss is the major correlate of cognitive impairment</article-title>. <source>Ann Neurol</source>. <year>1991</year>;<volume>30</volume>:<fpage>572</fpage>‐<lpage>580</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ana.410300410</pub-id>
+<pub-id pub-id-type="pmid">1789684</pub-id>
+</mixed-citation></ref><ref id="alz70146-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz70146-cite-0024">
+<string-name name-style="western">
+<surname>Sims</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zimmer</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evans</surname>
+<given-names>CD</given-names>
+</string-name>, et al. <article-title>Donanemab in early symptomatic Alzheimer disease: The TRAILBLAZER‐ALZ 2 randomized clinical trial</article-title>. <source>JAMA</source>. <year>2023</year>;<volume>330</volume>:<fpage>512</fpage>‐<lpage>527</lpage>. doi:<pub-id pub-id-type="doi">10.1001/JAMA.2023.13239</pub-id>
+<pub-id pub-id-type="pmid">37459141</pub-id>
+<pub-id pub-id-type="pmcid">PMC10352931</pub-id></mixed-citation></ref><ref id="alz70146-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz70146-cite-0025">
+<string-name name-style="western">
+<surname>De Vos</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jacobs</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Struyfs</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>C‐terminal neurogranin is increased in cerebrospinal fluid but unchanged in plasma in Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2015</year>;<volume>11</volume>:<fpage>1461</fpage>‐<lpage>1469</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2015.05.012</pub-id>
+<pub-id pub-id-type="pmid">26092348</pub-id>
+</mixed-citation></ref><ref id="alz70146-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz70146-cite-0026">
+<string-name name-style="western">
+<surname>McDade</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>BA</given-names>
+</string-name>, et al. <article-title>Longitudinal cognitive and biomarker changes in dominantly inherited Alzheimer's disease</article-title>. <source>Neurology</source>. <year>2018</year>;<volume>91</volume>:<fpage>E1295</fpage>‐<lpage>E1306</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000006277</pub-id>
+<pub-id pub-id-type="pmid">30217935</pub-id>
+<pub-id pub-id-type="pmcid">PMC6177272</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

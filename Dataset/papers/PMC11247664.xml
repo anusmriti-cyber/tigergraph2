@@ -1,0 +1,944 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz13848" xml:lang="en" article-type="brief-report" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11247664</article-id><article-id pub-id-type="pmcid-ver">PMC11247664.1</article-id><article-id pub-id-type="pmcaid">11247664</article-id><article-id pub-id-type="pmcaiid">11247664</article-id><article-id pub-id-type="pmid">38809917</article-id><article-id pub-id-type="doi">10.1002/alz.13848</article-id><article-id pub-id-type="publisher-id">ALZ13848</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Short Report</subject></subj-group><subj-group subj-group-type="heading"><subject>Short Report</subject></subj-group></article-categories><title-group><article-title>Post‐GWAS multiomic functional investigation of the <italic toggle="yes">TNIP1</italic> locus in Alzheimer's disease highlights a potential role for GPX3</article-title><alt-title alt-title-type="left-running-head">PANYARD <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz13848-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Panyard</surname><given-names initials="DJ">Daniel J.</given-names></name><xref rid="alz13848-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz13848-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>dpanyard@stanford.edu</email></address></contrib><contrib id="alz13848-cr-0002" contrib-type="author"><name name-style="western"><surname>Reus</surname><given-names initials="LM">Lianne M.</given-names></name><xref rid="alz13848-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz13848-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="alz13848-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz13848-cr-0003" contrib-type="author"><name name-style="western"><surname>Ali</surname><given-names initials="M">Muhammad</given-names></name><xref rid="alz13848-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="alz13848-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="alz13848-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="alz13848-cr-0004" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="J">Jihua</given-names></name><xref rid="alz13848-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><xref rid="alz13848-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="alz13848-cr-0005" contrib-type="author"><name name-style="western"><surname>Deming</surname><given-names initials="YK">Yuetiva K.</given-names></name><xref rid="alz13848-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz13848-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><xref rid="alz13848-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="alz13848-cr-0006" contrib-type="author"><name name-style="western"><surname>Lu</surname><given-names initials="Q">Qiongshi</given-names></name><xref rid="alz13848-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><xref rid="alz13848-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="alz13848-cr-0007" contrib-type="author"><name name-style="western"><surname>Kollmorgen</surname><given-names initials="G">Gwendlyn</given-names></name><xref rid="alz13848-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="alz13848-cr-0008" contrib-type="author"><name name-style="western"><surname>Carboni</surname><given-names initials="M">Margherita</given-names></name><xref rid="alz13848-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="alz13848-cr-0009" contrib-type="author"><name name-style="western"><surname>Wild</surname><given-names initials="N">Norbert</given-names></name><xref rid="alz13848-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="alz13848-cr-0010" contrib-type="author"><name name-style="western"><surname>Visser</surname><given-names initials="PJ">Pieter J.</given-names></name><xref rid="alz13848-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz13848-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="alz13848-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref><xref rid="alz13848-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="alz13848-cr-0011" contrib-type="author"><name name-style="western"><surname>Bertram</surname><given-names initials="L">Lars</given-names></name><xref rid="alz13848-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref><xref rid="alz13848-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib id="alz13848-cr-0012" contrib-type="author"><name name-style="western"><surname>Zetterberg</surname><given-names initials="H">Henrik</given-names></name><xref rid="alz13848-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref><xref rid="alz13848-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref><xref rid="alz13848-aff-0021" ref-type="aff">
+<sup>21</sup>
+</xref><xref rid="alz13848-aff-0022" ref-type="aff">
+<sup>22</sup>
+</xref><xref rid="alz13848-aff-0023" ref-type="aff">
+<sup>23</sup>
+</xref></contrib><contrib id="alz13848-cr-0013" contrib-type="author"><name name-style="western"><surname>Blennow</surname><given-names initials="K">Kaj</given-names></name><xref rid="alz13848-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref><xref rid="alz13848-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref></contrib><contrib id="alz13848-cr-0014" contrib-type="author"><name name-style="western"><surname>Gobom</surname><given-names initials="J">Johan</given-names></name><xref rid="alz13848-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref><xref rid="alz13848-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref></contrib><contrib id="alz13848-cr-0015" contrib-type="author"><name name-style="western"><surname>Western</surname><given-names initials="D">Dan</given-names></name><xref rid="alz13848-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="alz13848-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="alz13848-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="alz13848-cr-0016" contrib-type="author"><name name-style="western"><surname>Sung</surname><given-names initials="YJ">Yun Ju</given-names></name><xref rid="alz13848-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="alz13848-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="alz13848-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="alz13848-cr-0017" contrib-type="author"><name name-style="western"><surname>Carlsson</surname><given-names initials="CM">Cynthia M.</given-names></name><xref rid="alz13848-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><xref rid="alz13848-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref><xref rid="alz13848-aff-0024" ref-type="aff">
+<sup>24</sup>
+</xref><xref rid="alz13848-aff-0025" ref-type="aff">
+<sup>25</sup>
+</xref></contrib><contrib id="alz13848-cr-0018" contrib-type="author"><name name-style="western"><surname>Johnson</surname><given-names initials="SC">Sterling C.</given-names></name><xref rid="alz13848-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><xref rid="alz13848-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref><xref rid="alz13848-aff-0024" ref-type="aff">
+<sup>24</sup>
+</xref><xref rid="alz13848-aff-0025" ref-type="aff">
+<sup>25</sup>
+</xref></contrib><contrib id="alz13848-cr-0019" contrib-type="author"><name name-style="western"><surname>Asthana</surname><given-names initials="S">Sanjay</given-names></name><xref rid="alz13848-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><xref rid="alz13848-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref><xref rid="alz13848-aff-0025" ref-type="aff">
+<sup>25</sup>
+</xref></contrib><contrib id="alz13848-cr-0020" contrib-type="author"><name name-style="western"><surname>Cruchaga</surname><given-names initials="C">Carlos</given-names></name><xref rid="alz13848-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="alz13848-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="alz13848-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="alz13848-cr-0021" contrib-type="author"><name name-style="western"><surname>Tijms</surname><given-names initials="BM">Betty M.</given-names></name><xref rid="alz13848-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz13848-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz13848-cr-0022" contrib-type="author"><name name-style="western"><surname>Engelman</surname><given-names initials="CD">Corinne D.</given-names></name><xref rid="alz13848-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz13848-cr-0023" contrib-type="author" corresp="yes"><name name-style="western"><surname>Snyder</surname><given-names initials="MP">Michael P.</given-names></name><xref rid="alz13848-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>mpsnyder@stanford.edu</email></address></contrib></contrib-group><aff id="alz13848-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Genetics</named-content>
+<institution>Stanford University School of Medicine</institution>
+<institution>Stanford University</institution>
+<city>Stanford</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz13848-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Population Health Sciences</named-content>
+<institution>University of Wisconsin‐Madison</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz13848-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Alzheimer Center Amsterdam, Neurology</named-content>
+<institution>Vrije Universiteit Amsterdam, Amsterdam UMC location VUmc</institution>
+<city>Amsterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz13848-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Amsterdam Neuroscience, Neurodegeneration</institution>
+<city>Amsterdam</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz13848-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Center for Neurobehavioral Genetics</named-content>
+<institution>University of California</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz13848-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<institution>Washington University School of Medicine</institution>
+<city>St. Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz13848-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">NeuroGenomics and Informatics Center</named-content>
+<institution>Washington University School of Medicine</institution>
+<city>St. Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz13848-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Hope Center for Neurological Disorders</named-content>
+<institution>Washington University School of Medicine</institution>
+<city>St. Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz13848-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biostatistics and Medical Informatics</named-content>
+<institution>University of Wisconsin‐Madison</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz13848-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Department of Statistics</named-content>
+<institution>University of Wisconsin‐Madison</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz13848-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Wisconsin Alzheimer's Disease Research Center</named-content>
+<institution>University of Wisconsin‐Madison</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz13848-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>University of Wisconsin‐Madison</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz13848-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<institution>Roche Diagnostics GmbH</institution>
+<city>Penzberg</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz13848-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<institution>Roche Diagnostics International Ltd</institution>
+<city>Rotkreuz</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="alz13848-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<institution>Maastricht University</institution>
+<city>Maastricht</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="alz13848-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurobiology, Care Sciences and Society, Division of Neurogeriatrics</named-content>
+<institution>Karolinska Institutet</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz13848-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<named-content content-type="organisation-division">Lübeck Interdisciplinary Platform for Genome Analytics</named-content>
+<named-content content-type="organisation-division">Institutes of Neurogenetics and Cardiogenetics</named-content>
+<institution>University of Lübeck</institution>
+<city>Lübeck</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz13848-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychology</named-content>
+<institution>University of Oslo</institution>
+<city>Oslo</city>
+<country country="NO">Norway</country>
+</aff><aff id="alz13848-aff-0019">
+<label>
+<sup>19</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Neuroscience and Physiology</named-content>
+<institution>The Sahlgrenska Academy at the University of Gothenburg</institution>
+<city>Mölndal</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz13848-aff-0020">
+<label>
+<sup>20</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Neurochemistry Laboratory</named-content>
+<institution>Sahlgrenska University Hospital</institution>
+<city>Mölndal</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz13848-aff-0021">
+<label>
+<sup>21</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurodegenerative Disease</named-content>
+<institution>UCL Institute of Neurology</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz13848-aff-0022">
+<label>
+<sup>22</sup>
+</label>
+<institution>UK Dementia Research Institute at UCL</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz13848-aff-0023">
+<label>
+<sup>23</sup>
+</label>
+<institution>Hong Kong Center for Neurodegenerative Diseases</institution>
+<city>Hong Kong</city>
+<country country="CN">China</country>
+</aff><aff id="alz13848-aff-0024">
+<label>
+<sup>24</sup>
+</label>
+<named-content content-type="organisation-division">Wisconsin Alzheimer's Institute</named-content>
+<institution>University of Wisconsin‐Madison</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz13848-aff-0025">
+<label>
+<sup>25</sup>
+</label>
+<institution>William S. Middleton Memorial Veterans Hospital</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Daniel J. Panyard, Department of Genetics, Stanford University School of Medicine, Stanford University, 3165 Porter Dr., Palo Alto, Stanford, CA 94304, USA.<break/> Email: <email>dpanyard@stanford.edu</email>
+<break/>Michael P. Snyder, Department of Genetics, Stanford University School of Medicine, Stanford University, Stanford, CA 94305, USA.<break/> Email: <email>mpsnyder@stanford.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>7</month><year>2024</year></pub-date><volume>20</volume><issue seq="520">7</issue><issue-id pub-id-type="pmc-issue-id">466779</issue-id><issue-id pub-id-type="doi">10.1002/alz.v20.7</issue-id><fpage>5044</fpage><lpage>5053</lpage><history><date date-type="rev-recd"><day>07</day><month>3</month><year>2024</year></date><date date-type="received"><day>10</day><month>10</month><year>2023</year></date><date date-type="accepted"><day>27</day><month>3</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>29</day><month>05</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>16</day><month>07</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-06-24 22:25:26.160"><day>24</day><month>06</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Authors. <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-20-5044.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-20-5044.pdf"/><abstract><title>Abstract</title><sec id="alz13848-sec-0010"><title>INTRODUCTION</title><p>Recent genome‐wide association studies (GWAS) have reported a genetic association with Alzheimer's disease (AD) at the <italic toggle="yes">TNIP1/GPX3</italic> locus, but the mechanism is unclear.</p></sec><sec id="alz13848-sec-0020"><title>METHODS</title><p>We used cerebrospinal fluid (CSF) proteomics data to test (<italic toggle="yes">n</italic> = 137) and replicate (<italic toggle="yes">n</italic> = 446) the association of glutathione peroxidase 3 (GPX3) with CSF biomarkers (including amyloid and tau) and the GWAS‐implicated variants (rs34294852 and rs871269).</p></sec><sec id="alz13848-sec-0030"><title>RESULTS</title><p>CSF GPX3 levels decreased with amyloid and tau positivity (analysis of variance <italic toggle="yes">P</italic> = 1.5 × 10<sup>−5</sup>) and higher CSF phosphorylated tau (p‐tau) levels (<italic toggle="yes">P</italic> = 9.28 × 10<sup>−7</sup>). The rs34294852 minor allele was associated with decreased GPX3 (<italic toggle="yes">P</italic> = 0.041). The replication cohort found associations of GPX3 with amyloid and tau positivity (<italic toggle="yes">P</italic> = 2.56 × 10<sup>−6</sup>) and CSF p‐tau levels (<italic toggle="yes">P</italic> = 4.38 × 10<sup>−9</sup>).</p></sec><sec id="alz13848-sec-0040"><title>DISCUSSION</title><p>These results suggest variants in the <italic toggle="yes">TNIP1</italic> locus may affect the oxidative stress response in AD via altered GPX3 levels.</p></sec><sec id="alz13848-sec-0050"><title>Highlights</title><p>
+<list list-type="bullet" id="alz13848-list-0001"><list-item><p>Cerebrospinal fluid (CSF) glutathione peroxidase 3 (GPX3) levels decreased with amyloid and tau positivity and higher CSF phosphorylated tau.</p></list-item><list-item><p>The minor allele of rs34294852 was associated with lower CSF GPX3. levels when also controlling for amyloid and tau category.</p></list-item><list-item><p>GPX3 transcript levels in the prefrontal cortex were lower in Alzheimer's disease than controls.</p></list-item><list-item><p>rs34294852 is an expression quantitative trait locus for <italic toggle="yes">GPX3</italic> in blood, neutrophils, and microglia.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz13848-kwd-0001">Alzheimer's disease</kwd><kwd id="alz13848-kwd-0002">genomics</kwd><kwd id="alz13848-kwd-0003">genome‐wide association studies</kwd><kwd id="alz13848-kwd-0004">glutathione peroxidase 3</kwd><kwd id="alz13848-kwd-0005">proteomics</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>NIA
+</institution><institution-id institution-id-type="doi">10.13039/100000049</institution-id></institution-wrap></funding-source><award-id>R01AG044546</award-id><award-id>R01AG064877</award-id><award-id>RF1AG053303</award-id><award-id>U01AG058922</award-id><award-id>R01AG064614</award-id><award-id>1RF1AG074007</award-id><award-id>P30AG066444</award-id><award-id>P01AG003991</award-id><award-id>R01AG27161</award-id><award-id>R21AG067092</award-id><award-id>R01AG037639</award-id><award-id>R01AG021155</award-id><award-id>P30AG017266</award-id><award-id>T32AG000213</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Institutes of Health
+</institution><institution-id institution-id-type="doi">10.13039/100000002</institution-id></institution-wrap></funding-source><award-id>R01AG054047</award-id><award-id>RF1AG058501</award-id><award-id>P41GM108538</award-id></award-group><award-group id="funding-0003"><funding-source>Wisconsin Alzheimer's Disease Research Center</funding-source><award-id>P50AG033514</award-id><award-id>P30AG062715</award-id></award-group><award-group id="funding-0004"><funding-source>Clinical and Translational Science Award (CTSA) program through the NIH National Center for Advancing Translational Sciences (NCATS)</funding-source><award-id>UL1TR000427</award-id></award-group><award-group id="funding-0005"><funding-source><institution-wrap><institution>University of Wisconsin‐Madison
+</institution><institution-id institution-id-type="doi">10.13039/100007015</institution-id></institution-wrap></funding-source><award-id>P2CHD047873</award-id></award-group><award-group id="funding-0006"><funding-source><institution-wrap><institution>European Commission
+</institution><institution-id institution-id-type="doi">10.13039/501100000780</institution-id></institution-wrap></funding-source><award-id>115952</award-id><award-id>806999</award-id><award-id>101034344</award-id></award-group><award-group id="funding-0007"><funding-source>Zon‐MW, Redefining Alzheimer's disease</funding-source><award-id>#733050824736</award-id></award-group><award-group id="funding-0008"><funding-source>Zon‐MW, NCDC</funding-source><award-id>#73305095005</award-id></award-group><award-group id="funding-0009"><funding-source><institution-wrap><institution>Swedish Research Council
+</institution><institution-id institution-id-type="doi">10.13039/501100004359</institution-id></institution-wrap></funding-source><award-id>#2018‐02532</award-id><award-id>#2017‐00915</award-id></award-group><award-group id="funding-0010"><funding-source><institution-wrap><institution>European Research Council
+</institution><institution-id institution-id-type="doi">10.13039/501100000781</institution-id></institution-wrap></funding-source><award-id>#101053962</award-id></award-group><award-group id="funding-0011"><funding-source>European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska'Curie</funding-source><award-id>#JPND2021‐00694</award-id></award-group><award-group id="funding-0012"><funding-source>Swedish State Support for Clinical Research</funding-source><award-id>#ALFGBG‐720931</award-id></award-group><award-group id="funding-0013"><funding-source>Alzheimer Drug Discovery Foundation</funding-source><award-id>#201809‐2016862</award-id></award-group><award-group id="funding-0014"><funding-source>Alzheimer's Association Research Fellowship</funding-source><award-id>2019‐AARF‐643973</award-id></award-group><award-group id="funding-0015"><funding-source>AD Strategic Fund and the Alzheimer's Association</funding-source><award-id>#ADSF‐21‐831376‐C</award-id><award-id>#ADSF‐21‐831381‐C</award-id><award-id>#ADSF‐21‐831377‐C</award-id></award-group><award-group id="funding-0016"><funding-source>Olav Thon Foundation</funding-source><award-id>#OT2016‐101</award-id></award-group><award-group id="funding-0017"><funding-source><institution-wrap><institution>Erling‐Persson Family Foundation
+</institution><institution-id institution-id-type="doi">10.13039/100007436</institution-id></institution-wrap></funding-source><award-id>#EP2019‐02</award-id></award-group><award-group id="funding-0018"><funding-source><institution-wrap><institution>Stiftelsen för Gamla Tjänarinnor
+</institution><institution-id institution-id-type="doi">10.13039/100010815</institution-id></institution-wrap></funding-source><award-id>#SGT2021‐09‐Zetterberg</award-id></award-group><award-group id="funding-0019"><funding-source><institution-wrap><institution>UK Dementia Research Institute
+</institution><institution-id institution-id-type="doi">10.13039/501100017510</institution-id></institution-wrap></funding-source><award-id>#UKDRI‐1003</award-id></award-group><award-group id="funding-0020"><funding-source>Swedish Alzheimer Foundation</funding-source><award-id>#AF‐930351</award-id><award-id>#AF‐939721</award-id><award-id>#AF‐968270</award-id></award-group><award-group id="funding-0021"><funding-source><institution-wrap><institution>Hjärnfonden
+</institution><institution-id institution-id-type="doi">10.13039/501100003792</institution-id></institution-wrap></funding-source><award-id>#FO2019‐0228</award-id><award-id>#FO2017‐0243</award-id><award-id>#ALZ2022‐0006</award-id></award-group><award-group id="funding-0022"><funding-source>Swedish Government and the County Councils</funding-source></award-group><award-group id="funding-0023"><funding-source>ALF‐agreement</funding-source><award-id>#ALFGBG‐715986</award-id><award-id>#ALFGBG‐965240</award-id></award-group><award-group id="funding-0024"><funding-source>Alzheimer's Association 2021 Zenith Award</funding-source><award-id>ZEN‐21‐848495</award-id></award-group><award-group id="funding-0025"><funding-source><institution-wrap><institution>Alzheimerfonden
+</institution><institution-id institution-id-type="doi">10.13039/501100008599</institution-id></institution-wrap></funding-source><award-id>#AF‐930934</award-id></award-group><award-group id="funding-0026"><funding-source>Foundation of Gamla Tjänarinnor</funding-source></award-group><award-group id="funding-0027"><funding-source>Chan Zuckerberg Initiative (CZI)</funding-source></award-group><award-group id="funding-0028"><funding-source>ZonMW Memorabel</funding-source><award-id>#733050824</award-id><award-id>10510022110012</award-id></award-group><award-group id="funding-0029"><funding-source>Innovative Medicines Inititiative Joint Undertaking under the EMIF</funding-source><award-id>#115372</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="10"/><word-count count="6132"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.5 mode:remove_FC converted:15.07.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz13848-cit-0040">
+<string-name name-style="western">
+<surname>Panyard</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reus</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ali</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Post‐GWAS multiomic functional investigation of the <italic toggle="yes">TNIP1</italic> locus in Alzheimer's disease highlights a potential role for GPX3</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>5044</fpage>–<lpage>5053</lpage>. <pub-id pub-id-type="doi">10.1002/alz.13848</pub-id>
+<pub-id pub-id-type="pmcid">PMC11247664</pub-id><pub-id pub-id-type="pmid">38809917</pub-id></mixed-citation>
+</p></notes></front><body><sec id="alz13848-sec-0060"><label>1</label><title>BACKGROUND</title><p>Genomic studies in Alzheimer's disease (AD) have identified dozens of genetic associations,<xref rid="alz13848-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="alz13848-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="alz13848-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz13848-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> but connecting variants with mechanistic pathways is challenging. Direct experimental validation to determine the consequences of mutations in implicated genes may be costly and time consuming. In recent years, AD research studies have collected a variety of multiomics data on a large scale, including proteomics, transcriptomics, and metabolomics. These molecular data sets can provide key intermediate information linking genes to AD risk.<xref rid="alz13848-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>Several recent large‐scale genome‐wide association studies (GWAS) have reported and discussed the rs871269 and rs34294852 variants as protective variants for AD<xref rid="alz13848-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz13848-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> (see <xref rid="alz13848-supitem-0001" ref-type="supplementary-material">Supplementary Note</xref> in supporting information). Here, we use proteomics data from four different AD cohorts along with existing transcriptomic and genomic annotation data to understand the biology underlying this GWAS locus, highlighting a potential connection to AD through the <italic toggle="yes">GPX3</italic> gene.</p></sec><sec id="alz13848-sec-0070"><label>2</label><title>METHODS</title><sec id="alz13848-sec-0080"><label>2.1</label><title>Glutathione peroxidase 3 proteomics</title><p>Full details on each cohort, the generation of data, and their analysis are provided in the <xref rid="alz13848-supitem-0001" ref-type="supplementary-material">Supplementary Note</xref>. The discovery proteomics, genotyping, and cerebrospinal fluid (CSF) biomarker data set came from the University of Wisconsin Alzheimer's Disease Research Center (WI ADRC)<xref rid="alz13848-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> and Wisconsin Registry for Alzheimer's Prevention (WRAP)<xref rid="alz13848-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> cohorts (<italic toggle="yes">n</italic> = 137; 915 CSF proteins quantified), which have been described in detail previously<xref rid="alz13848-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> (Figure <xref rid="alz13848-fig-0001" ref-type="fig">1</xref>). The primary replication proteomics data set came from Alzheimer Center Amsterdam related studies,<xref rid="alz13848-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> including the Amsterdam Dementia Cohort (ADC),<xref rid="alz13848-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> the 90+ Study,<xref rid="alz13848-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> and the Twin Study<xref rid="alz13848-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz13848-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> (total <italic toggle="yes">n</italic> = 446).</p><fig position="float" fig-type="FIGURE" id="alz13848-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Study overview. An overview is provided of the motivating GWAS results, the novel CSF proteomics discovery and replication analyses, and the supporting transcriptomic and functional genomic data sets and resources that were used in this study. AD, Alzheimer's disease; ADNI, Alzheimer's Disease Neuroimaging Initiative; CSF, cerebrospinal fluid; DIAN, Dominantly Inherited Alzheimer Network; EMIF‐AD MBD, European Medical Information Framework for Alzheimer's Disease Multimodal Biomarker Discovery; GWAS, genome‐wide association studies; WRAP/WI ADRC, Wisconsin Registry for Alzheimer's Prevention/Wisconsin Alzheimer's Disease Research Center.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-20-5044-g002.jpg"/></fig><p>Two additional replication proteomics cohorts were also used. One came from the European Medical Information Framework for Alzheimer's Disease Multimodal Biomarker Discovery (EMIF‐AD MBD) study (<italic toggle="yes">n</italic> = 242). The other came from the Memory and Aging Project (MAP) at the Knight Alzheimer's Disease Research Center (Knight ADRC; <italic toggle="yes">n</italic> = 948), Alzheimer's Disease Neuroimaging Initiative (ADNI; <italic toggle="yes">n</italic> = 758), the Dominantly Inherited Alzheimer Network (DIAN; <italic toggle="yes">n</italic> = 495), Pau (<italic toggle="yes">n</italic> = 232), and Ruiz (<italic toggle="yes">n</italic> = 632) studies.</p><p>All studies were approved by the relevant review board or committee, and informed consent was provided by participants (see Consent Statement).</p><p>Briefly, CSF glutathione peroxidase 3 (GPX3) levels were tested for association with amyloid and tau (AT) positivity categories using analysis of variance (ANOVA) and visualized with box plots. Linear regressions were used to test the association of CSF GPX3 levels with continuous measures of CSF amyloid and tau, and, for the discovery cohort, with a panel containing seven other biomarkers of neurodegeneration or neuroinflammation. In the discovery cohort, a simple Bonferroni correction was used to control for multiple testing of the nine total biomarkers in separate regressions. Additionally, in the discovery and primary replication cohorts, the ANOVA and linear regression models were repeated with the addition of the genotype of one of the AD GWAS variants (rs871269 or rs34294842), coded as the count of the number of minor alleles. In all analyses, age and sex were included as covariates along with additional study‐specific covariates as appropriate (<xref rid="alz13848-supitem-0001" ref-type="supplementary-material">Supplementary Note</xref>).</p></sec><sec id="alz13848-sec-0090"><label>2.2</label><title>GPX3 expression quantitative trait loci analysis</title><p>Microglia expression quantitative trait loci (eQTL) summary statistics were accessed through the European Genome–Phenome Archive (EGAD00001005736) and the Wellcome Sanger Institute Data Access Committee. All sequence data sets were aligned to human genome assembly GRCh38. Simple linear regression was used to map eQTLs with 25 principal components (PCs).<xref rid="alz13848-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The eQTL associations for <italic toggle="yes">GPX3</italic> were extracted for the analysis in this paper. Study designs and method details of the microglia eQTL mapping have been described elsewhere.<xref rid="alz13848-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The presence of eQTLs for <italic toggle="yes">GPX3</italic> in other cell types was assessed in the public databases Open Targets and FIVEx.<xref rid="alz13848-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="alz13848-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz13848-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+</p></sec></sec><sec id="alz13848-sec-0100"><label>3</label><title>RESULTS</title><sec id="alz13848-sec-0110"><label>3.1</label><title>GPX3 proteomics</title><p>Using recently generated mass spectrometry (MS) CSF proteomics data from the University of Wisconsin (UW; mean age 66.1; 59.9% female; all of European ancestry; detailed description previously reported<xref rid="alz13848-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>), we searched for evidence supporting the role of genes near the GWAS‐identified single nucleotide polymorphisms (SNPs) of rs871269 and rs34294852. Among the genes closest to these SNPs (<italic toggle="yes">TNIP1</italic> and <italic toggle="yes">GPX3</italic>), only GPX3 was identified and quantified in this discovery CSF data set; presumably, levels of TNIP1 were below the limit of detection.<xref rid="alz13848-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> We then conducted ANOVA analyses that examined the relationship of CSF GPX3 with CSF amyloid‐ and CSF tau‐defined categories of AD (total <italic toggle="yes">n</italic> = 137; 56 A–T–, 39 A+T–, and 42 A+T+; see Section 2). We used these amyloid (A) and tau (T) categories because they are the major biomarkers central to AD, where amyloid tends to change first followed by tau (note that A–T+ is generally excluded as presumably non‐AD pathology).<xref rid="alz13848-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz13848-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> After correction for age and sex (see Section 2), CSF GPX3 levels were statistically significantly different across the AD continuum from A–T– to A+T– to A+T+ (ANOVA <italic toggle="yes">P</italic> = 1.5 × 10<sup>−5</sup>) with a significant decrease between the A–T– and A+T+ categories (<italic toggle="yes">t</italic> test <italic toggle="yes">P</italic> = 1.3 × 10<sup>−5</sup>; Figure <xref rid="alz13848-fig-0002" ref-type="fig">2A</xref>). GPX3 was also significantly associated with eight of the nine tested individual markers of neurodegeneration and neuroinflammation from the NeuroToolKit panel: phosphorylated tau (p‐tau), the p‐tau/amyloid beta (Aβ)42 ratio, alpha‐synuclein, neurofilament light chain (NfL), neurogranin, chitinase‐3‐like protein (YKL‐40), and soluble TREM2 (sTREM2) were all negatively correlated with GPX3, while the Aβ42/Aβ40 ratio was positively correlated (Figure <xref rid="alz13848-fig-0002" ref-type="fig">2B</xref>, Table <xref rid="alz13848-tbl-0001" ref-type="table">1</xref>, <xref rid="alz13848-supitem-0001" ref-type="supplementary-material">Supplementary Note</xref>). The remaining biomarker, interleukin 6, was not associated with GPX3 levels.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz13848-sec-0120"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz13848-list-0002"><list-item><p>
+<bold>Systematic review</bold>: The authors reviewed the Alzheimer's disease (AD) genome‐wide association studies (GWAS) literature to examine reported results related to the <italic toggle="yes">TNIP1</italic>/<italic toggle="yes">GPX3</italic> locus. While two studies report AD associations at this locus, no clear mechanism of action nor causal genes were known.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: Our cerebrospinal fluid (CSF) proteomics analysis of glutathione peroxidase 3 (GPX3) levels and follow‐up transcriptomic, functional annotation, and expression quantitative trait locus investigation led us to hypothesize a potential mechanism of action for this observed GWAS finding: variants at the <italic toggle="yes">TNIP1</italic>/<italic toggle="yes">GPX3</italic> locus have a mediated effect on AD through altered GPX3 levels, perhaps reflecting an insufficient or deteriorating response to oxidative stress in AD.</p></list-item><list-item><p>
+<bold>Future directions</bold>: This article highlights a potential therapeutic target in AD. Specific experimental validation of this hypothesis with genetics or proteomics techniques in cell or animal models of AD is needed.</p></list-item></list>
+</p></sec></boxed-text><fig position="float" fig-type="FIGURE" id="alz13848-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Associations of CSF GPX3 with AD‐related measures in the WI ADRC and WRAP cohorts. A, CSF GPX3 levels (after regressing out the effects of age and sex) significantly decreased across amyloid and tau (AT) positivity categories (<italic toggle="yes">n</italic> = 137). B, CSF GPX3 levels were significantly associated with all CSF biomarkers of neurodegeneration and neuroinflammation except for IL‐6 (<italic toggle="yes">n</italic> = 137). In each case, GPX3 levels decreased as biomarker values indicated a worse clinical profile. C, Across the whole sample (<italic toggle="yes">n</italic> = 137), no difference in GPX3 levels were observed by genotype of either AD‐related variant alone. D, CSF GPX3 levels by both AT and genotype are shown for both relevant SNPs at the <italic toggle="yes">TNIP1</italic>/<italic toggle="yes">GPX3</italic> locus. Among participants who were A+T+ (<italic toggle="yes">n</italic> = 42), CSF GPX3 levels were significantly decreased for homozygous recessive carriers of the rs34294852 allele (10 total participants were homozygous recessive for rs34294852; <italic toggle="yes">n</italic> = 5 were A–T–; <italic toggle="yes">n</italic> = 3 were A+T–; <italic toggle="yes">n</italic> = 2 were A+T+). AD, Alzheimer's disease; CSF, cerebrospinal fluid; GPX3, glutathione peroxidase 3; GWAS, genome‐wide association studies; IL‐6, interleukin 6; SNP, single nucleotide polymorphism; WI ADRC, Wisconsin Alzheimer's Disease Research Center; WRAP, Wisconsin Registry for Alzheimer's Prevention.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-20-5044-g001.jpg"/></fig><table-wrap position="float" id="alz13848-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Association of GPX3 with CSF biomarkers of neurodegeneration and neuroinflammation.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Biomarker</th><th align="left" rowspan="1" colspan="1">Estimate</th><th align="left" rowspan="1" colspan="1">SE</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>
+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">R</italic>
+<sup>2</sup>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Aβ42/Aβ40</td><td align="char" rowspan="1" colspan="1">0.0047</td><td align="char" rowspan="1" colspan="1">0.0016</td><td align="left" rowspan="1" colspan="1">0.0050</td><td align="left" rowspan="1" colspan="1">0.057</td></tr><tr><td align="left" rowspan="1" colspan="1">P‐tau</td><td align="char" rowspan="1" colspan="1">−5.00</td><td align="char" rowspan="1" colspan="1">0.97</td><td align="left" rowspan="1" colspan="1">9.28E‐07</td><td align="left" rowspan="1" colspan="1">0.164</td></tr><tr><td align="left" rowspan="1" colspan="1">P‐tau/Aβ42</td><td align="char" rowspan="1" colspan="1">−0.0085</td><td align="char" rowspan="1" colspan="1">0.0029</td><td align="left" rowspan="1" colspan="1">0.0045</td><td align="left" rowspan="1" colspan="1">0.058</td></tr><tr><td align="left" rowspan="1" colspan="1">log10(NfL)</td><td align="char" rowspan="1" colspan="1">−0.068</td><td align="char" rowspan="1" colspan="1">0.018</td><td align="left" rowspan="1" colspan="1">0.0002</td><td align="left" rowspan="1" colspan="1">0.096</td></tr><tr><td align="left" rowspan="1" colspan="1">Alpha‐synuclein</td><td align="char" rowspan="1" colspan="1">−32.3</td><td align="char" rowspan="1" colspan="1">6.3</td><td align="left" rowspan="1" colspan="1">1.01E‐06</td><td align="left" rowspan="1" colspan="1">0.163</td></tr><tr><td align="left" rowspan="1" colspan="1">Neurogranin</td><td align="char" rowspan="1" colspan="1">−150.4</td><td align="char" rowspan="1" colspan="1">29.0</td><td align="left" rowspan="1" colspan="1">7.81E‐07</td><td align="left" rowspan="1" colspan="1">0.166</td></tr><tr><td align="left" rowspan="1" colspan="1">sTREM2</td><td align="char" rowspan="1" colspan="1">−1.21</td><td align="char" rowspan="1" colspan="1">0.20</td><td align="left" rowspan="1" colspan="1">1.08E‐08</td><td align="left" rowspan="1" colspan="1">0.216</td></tr><tr><td align="left" rowspan="1" colspan="1">log10(IL‐6)</td><td align="char" rowspan="1" colspan="1">−0.017</td><td align="char" rowspan="1" colspan="1">0.021</td><td align="left" rowspan="1" colspan="1">0.4112</td><td align="left" rowspan="1" colspan="1">0.005</td></tr><tr><td align="left" rowspan="1" colspan="1">YKL‐40</td><td align="char" rowspan="1" colspan="1">−20.6</td><td align="char" rowspan="1" colspan="1">5.3</td><td align="left" rowspan="1" colspan="1">0.0001</td><td align="left" rowspan="1" colspan="1">0.102</td></tr></tbody></table><table-wrap-foot><fn id="alz13848-tbl1-note-0001"><p>Abbreviations: Aβ, amyloid beta; CSF, cerebrospinal fluid; GPX3, glutathione peroxidase 3; IL‐6, interleukin 6; NfL, neurofilament light chain; p‐tau, phosphorylated tau; SE, standard error; sTREM2, soluble TREM2; YKL‐40, chitinase‐3‐like protein.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>We then examined genotype effects on the GPX3 trajectory. According to ANOVA and pairwise <italic toggle="yes">t</italic> tests, there were no differences in GPX3 levels by just the minor allele count of either SNP alone (ANOVA <italic toggle="yes">P</italic> values were 0.95 and 0.10, respectively, for the genotypes for rs871269 and rs34294852; Figure <xref rid="alz13848-fig-0002" ref-type="fig">2C</xref>), indicating that no differences in GPX3 level were present by genotype across the population as a whole. However, when GPX3 levels were analyzed as the outcome in a multiple linear regression with both AT category and SNP minor allele count (numeric coding) as predictors, a significant decrease in GPX3 levels per copy of the minor allele was observed (<italic toggle="yes">P</italic> = 0.041 for rs34294852; Figure <xref rid="alz13848-fig-0002" ref-type="fig">2D</xref>), suggesting a potential dose–response relationship.<xref rid="alz13848-fig-0001" ref-type="fig"> </xref>, <xref rid="alz13848-fig-0002" ref-type="fig"> </xref>
+</p><p>These associations with GPX3 levels were then assessed for replication in an independent set of MS‐based CSF proteomics measurements: the Alzheimer Center Amsterdam related studies (<italic toggle="yes">n</italic> = 446; all of European ancestry). As in the UW cohort, GPX3 was not associated with clinical diagnosis categories (controls, mild cognitive impairment, and AD‐type dementia; analysis of covariance [ANCOVA] <italic toggle="yes">P</italic> = 0.37, controlling for age at sample and sex), but GPX3 was associated with AT‐based categories (ANCOVA <italic toggle="yes">P</italic> = 2.56 × 10<sup>−6</sup>), with GPX3 levels lower on average in the A+T+ group compared to the A+T– group (Figure <xref rid="alz13848-supitem-0002" ref-type="supplementary-material">S1</xref> in supporting information), replicating what was seen in the UW data. With continuous values of the amyloid and tau (i.e., p‐tau) biomarkers, the negative association of GPX3 with CSF p‐tau levels was also replicated (<italic toggle="yes">P</italic> = 4.38 × 10<sup>−9</sup>, again controlling for age and sex), though the association with CSF amyloid levels was not replicated (<italic toggle="yes">P</italic> = 0.66). When the minor allele count of rs871269 or rs34294852 was added to the regression model (still with AT group, age, and sex as predictors), neither SNP was associated with GPX3 levels (<italic toggle="yes">P</italic> = 0.21 and <italic toggle="yes">P</italic> = 0.84 for rs871269 and rs34294852, respectively).</p><p>We also sought to replicate the CSF proteomics signal in two other population cohorts. Using MS‐based proteomics data from the EMIF‐AD MBD study (<italic toggle="yes">n</italic> = 242 participants; all of European ancestry), we performed an ANOVA to see if MS‐derived CSF GPX3 levels were different by AT category. No such difference was observed (<italic toggle="yes">P</italic> = 0.96) in this cohort, even when stratified by rs34294852 genotypes (Figure <xref rid="alz13848-supitem-0002" ref-type="supplementary-material">S2</xref> in supporting information) or controlling for age, sex, or study site. In the Knight ADRC's discovery and replication CSF proteomics data sets at Washington University in St. Louis (<italic toggle="yes">n</italic> = 1168 and 597 participants, respectively; &gt;90% of participants in each data set were of European ancestry), CSF GPX3 levels were measured using an aptamer‐based proteomics platform instead of MS. The abundance of GPX3 levels was not significantly different between A+T+ and A–T– individuals (<italic toggle="yes">P</italic> = 0.90 and <italic toggle="yes">P</italic> = 0.51, respectively; Figure <xref rid="alz13848-supitem-0002" ref-type="supplementary-material">S3</xref> in supporting information).</p></sec><sec id="alz13848-sec-0130"><label>3.2</label><title>GPX3 transcriptomics</title><p>Next, we examined transcriptomics data sets to understand the relationship of <italic toggle="yes">GPX3</italic> expression in general and in an AD cohort. Across the cell types in the Human Protein Atlas, <italic toggle="yes">GPX3</italic> is most highly expressed in the proximal tubular cells of the kidney (20125.9 nTPM) and the Müller glia cells of the eye (5019.8 nTPM). Among brain tissues, the overall expression was lower, but <italic toggle="yes">GPX3</italic> was expressed in several types of neurons, microglia (3.7 nTPM), and astrocytes (1.0 nTPM; Figure <xref rid="alz13848-supitem-0002" ref-type="supplementary-material">S4</xref> in supporting information).<xref rid="alz13848-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Within an AD cohort, in which <italic toggle="yes">GPX3</italic> might be more relevant given the heterogeneity of the microglia transcriptome,<xref rid="alz13848-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> RNA‐seq data from the prefrontal cortex from the Religious Orders Study Memory and Aging Project (ROSMAP) showed that <italic toggle="yes">GPX3</italic> transcript levels decreased in the prefrontal cortex from controls to AD diagnosis (<italic toggle="yes">P</italic> = 7 × 10<sup>−6</sup>; Figure <xref rid="alz13848-supitem-0002" ref-type="supplementary-material">S5</xref> in supporting information), but not in other brain regions.<xref rid="alz13848-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz13848-tbl-0001" ref-type="table"> </xref>
+</p><p>In terms eQTL data, variant rs34294852 is an eQTL for <italic toggle="yes">TNIP1</italic> and <italic toggle="yes">GPX3</italic> in blood, and it is also an eQTL for <italic toggle="yes">TNIP1</italic> in monocytes and neutrophils and for <italic toggle="yes">GPX3</italic> for neutrophils.<xref rid="alz13848-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="alz13848-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz13848-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> We also investigated recent eQTL data for microglia and found that rs34294852 was an eQTL for GPX3 (<italic toggle="yes">P</italic> = 0.038).<xref rid="alz13848-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+</p></sec><sec id="alz13848-sec-0140"><label>3.3</label><title>GPX3 functional genomics</title><p>We also found evidence from functional genomics supporting a relationship between rs34294852 and <italic toggle="yes">GPX3</italic> transcription. In terms of genome functional annotation, rs34294852 is located within the sixth intron of <italic toggle="yes">TNIP1</italic> and downstream of the enhancer region GH05J151051 from GeneHancer.<xref rid="alz13848-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz13848-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Variant rs34294852 is predicted to alter the binding of the transcription factor MZF1 according to FeatSNP,<xref rid="alz13848-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> which is a database that aggregates brain‐specific epigenetic data to examine the effects of genetic variants.</p></sec></sec><sec id="alz13848-sec-0150"><label>4</label><title>DISCUSSION</title><p>GPX3 is a secreted glutathione peroxidase that protects the body from oxidative damage by reducing hydroperoxides.<xref rid="alz13848-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> AD has long been linked to oxidative stress, as have aging processes in general.<xref rid="alz13848-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="alz13848-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="alz13848-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Connections between GPX activity and AD have been noted in previous studies of AD, usually finding decreased GPX activity in AD compared to healthy controls.<xref rid="alz13848-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="alz13848-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="alz13848-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="alz13848-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="alz13848-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+</p><p>Based on our results here, we developed a hypothesis regarding the GWAS signal at the <italic toggle="yes">TNIP1</italic>/<italic toggle="yes">GPX3</italic> locus (Figure <xref rid="alz13848-fig-0003" ref-type="fig">3</xref>). First, as oxidative stress rises with the preclinical pathophysiological processes of AD, the body combats that stress in part with GPX3. As AD progresses to the accumulation of tau tangles and beyond, GPX3 transcript and protein levels drop, perhaps reflecting growing disruption to normal oxidative stress protective measures, decompensation after some protective element is depleted (e.g., decreased selenium availability), or some other event.<xref rid="alz13848-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> The presence of certain genetic variants at the <italic toggle="yes">TNIP1</italic>/<italic toggle="yes">GPX3</italic> locus may affect GPX3 levels or the capacity to respond to oxidative stress through GPX3 expression by affecting enhancer activity at this genetic locus. Moreover, the data we present here might help explain some of the inconsistency in the GPX–AD associations observed in prior work if those associations are indeed affected by variants at the <italic toggle="yes">TNIP1</italic>/<italic toggle="yes">GPX3</italic> locus. Strengthening our findings here in AD is a recent study of the <italic toggle="yes">TNIP1</italic>/<italic toggle="yes">GPX3</italic> locus in amyotrophic lateral sclerosis (ALS) that also found GPX3 levels to drop in more progressed disease and with the putative risk allele,<xref rid="alz13848-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> providing further support for this proposed hypothesis and evidence that GPX3 may be a useful therapeutic target.</p><fig position="float" fig-type="FIGURE" id="alz13848-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Proposed functional mechanism of the <italic toggle="yes">TNIP1</italic>/<italic toggle="yes">GPX3</italic> locus in AD. Our hypothesis for a functional mechanism connecting the variant rs34294852 to AD outcomes is overlaid onto a map of the major types of omics data analyzed here. Major lines of post‐GWAS functional evidence supporting this hypothesis are summarized in the right‐hand list. AD, Alzheimer's disease; CSF, cerebrospinal fluid; EMIF‐AD MBD, European Medical Information Framework for Alzheimer's Disease Multimodal Biomarker Discovery; eQTL, expression quantitative trait loci; GWAS, genome‐wide association studies; ROSMAP, Religious Orders Study and Rush Memory and Aging Project; UW ADRC, University of Wisconsin Alzheimer's Disease Research Center; WRAP, Wisconsin Registry for Alzheimer's Prevention.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-20-5044-g003.jpg"/></fig><p>This hypothesized GPX3 trajectory also presents an explanation for the subtlety of the signal in the data sets examined here. Depending on the population studied, the availability of data points at different times in the trajectory of AD, and how groups are defined (by clinical diagnosis, AT group, or something else), the statistical signal of what is happening with GPX3 may be obscured. For instance, the lack of signal when looking at AD dementia cases versus controls might be due to comparing levels of GPX3 that have decreased due to pathology with cognitively healthy individuals who either do not have AD or have not yet experienced enough oxidative stress to merit a rise in GPX3 levels in the first place. Focusing on AT‐defined categories may have helped uncover this signal by differentiating between different stages of preclinical AD.</p><p>While multiple layers of omic data described here support a role of GPX3 in AD, the proteomic associations were not consistently observed across the cohorts analyzed. Beyond the issues raised above, this inconsistency at the protein level might arise from several other confounding factors. Given the rarity of the minor allele, this mechanism might be hard to detect in some cohorts (as was the case here) and perhaps then only under certain disease conditions or at specific times in the development of AD. This pathway might also be difficult to detect for other reasons: (1) the original GWAS effect was small, (2) the pathway might only be relevant to a subset of cell types, and (3) and the effect might be harder to observe for homozygous dominant or heterozygous rs34294852 genotypes. Moreover, the effect allele for rs34294852 (C) has a minor allele frequency ranging from 0.16 for East Asians on the low end to 0.25 for African/African Americans on the high end,<xref rid="alz13848-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> which would make homozygous recessive individuals relatively uncommon, as was the case in the data sets analyzed here, which could mean that direct observation of this genotype‐mediated pathway at the protein level would be more difficult. Adding to the difficulty of replicating the proteomics signal are differences in populations, proteomics technologies (MS vs. aptamer‐based),<xref rid="alz13848-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> and amyloid and tau phenotyping between the cohorts, which could also hinder replication. Finally, it is important to note that the data here supporting a role of GPX3 do not rule out an effect through TNIP1 as well; more work will be needed to examine other potential effects of these variants on AD.</p><p>Nevertheless, the observed multiomic evidence connecting variation at this locus to AD to GPX3 expression, combined with our understanding of oxidative stress in AD and GPX proteins’ role in combating such stress, provide an intriguing hypothesis for the functional mechanism of these GWAS variants in AD. Several functional experiments would be a reasonable next step in exploring this hypothesis: (1) a gene‐editing experiment to validate the impact of genetic variation at rs34294852 on <italic toggle="yes">GPX3</italic> expression, (2) proteomics analysis in brain or other relevant cell types to examine GPX3 levels in AD, and (3) a cell or organismal model of AD to assess the expression of GPX proteins in connection with oxidative stress burden and its relationship to changes in tau level. Furthermore, longitudinal observational CSF proteomics data starting from the A–T– preclinical stage of AD would help test this hypothesized mechanism as well. Nevertheless, the post‐GWAS analyses here demonstrate the utility of multiomic cohort data in the investigation of GWAS loci and their mechanisms of action, which can lead to new insights into AD with the ultimate goal of identifying new therapeutic targets.</p></sec><sec id="alz13848-sec-0160"><title>AUTHOR CONTRIBUTIONS</title><p>Daniel J. Panyard conceived the idea for the study, conducted the analyses of the various Wisconsin data sets, prepared the figures and tables, and led the writing of the manuscript. Lianne M. Reus conducted the analyses in the Alzheimer Center Amsterdam and EMIF‐AD MBD cohorts. Michael P. Snyder helped conceive the idea for the study and interpret the results. Muhammad Ali conducted the analyses in the Knight ADRC cohort. Jihua Liu and Qiongshi Lu provided the eQTL results in microglia. Yuetiva K. Deming contributed to the interpretation of the results. Henrik Zetterberg, Kaj Blennow, Gwendlyn Kollmorgen, Margherita Carboni, and Norbert Wild contributed to the generation of the University of Wisconsin NTK CSF biomarker data set. Corinne D. Engelman, Cynthia M. Carlsson, Sterling C. Johnson, Sanjay Asthana, Henrik Zetterberg, and Kaj Blennow contributed resources or funding. Cynthia M. Carlsson, Sterling C. Johnson, and Sanjay Asthana assisted with the Wisconsin Alzheimer's disease cohort studies and the data and analyses conducted there for this work. Dan Western, Yun Ju Sung, and Carlos Cruchaga assisted with the Knight ADRC cohorts and the data and analyses conducted there for this work. Pieter J. Visser, Lars Bertram, Henrik Zetterberg, Kaj Blennow, Johan Gobom, and Betty M. Tijms assisted with the EMIF‐AD MBD cohorts and the data and analyses conducted there for this work. All authors contributed to and critically reviewed the manuscript.</p></sec><sec sec-type="COI-statement" id="alz13848-sec-0180"><title>CONFLICT OF INTEREST STATEMENT</title><p>C.C. receives research support from Biogen, EISAI, Alector, GSK and Parabon; these funders of the study had no role in the collection, analysis, or interpretation of data; in the writing of the report; or in the decision to submit the paper for publication. C.C. is a member of the advisory board of Vivid Genomics, Halia Therapeutics, and ADx Healthcare. H.Z. has served at scientific advisory boards and/or as a consultant for Abbvie, Alector, Annexon, Apellis, Artery Therapeutics, AZTherapies, CogRx, Denali, Eisai, Nervgen, Novo Nordisk, Pinteon Therapeutics, Red Abbey Labs, Passage Bio, Roche, Samumed, Siemens Healthineers, Triplet Therapeutics, and Wave; has given lectures in symposia sponsored by Cellectricon, Fujirebio, Alzecure, Biogen, and Roche; and is a co‐founder of Brain Biomarker Solutions in Gothenburg AB (BBS), which is a part of the GU Ventures Incubator Program. K.B. has served as a consultant, at advisory boards, or at data monitoring committees for Abcam, Axon, BioArctic, Biogen, Julius Clinical, Lilly, MagQu, Novartis, Roche Diagnostics, and Siemens Healthineers, and is a co‐founder of Brain Biomarker Solutions in Gothenburg AB (BBS), which is a part of the GU Ventures Incubator Program. G.K. is a full‐time employee of Roche Diagnostics GmbH. M.C. is a full‐time employee and shareholder of Roche Diagnostics International Ltd. N.W. is a full‐time employee of Roche Diagnostics GmbH. S.C.J. serves as a consultant to Roche Diagnostics and receives research funding from Cerveau Technologies. M.P.S. is a cofounder and scientific advisor of Personalis, SensOmics, Qbio, January AI, Fodsel, Filtricine, Protos, RTHM, Iollo, Marble Therapeutics, Crosshair Therapeutics, NextThought, and Mirvie. He is a scientific advisor of Jupiter, Neuvivo, Swaza, Mitrix, Yuvan, TranscribeGlass, and Applied Cognition. Other authors have no competing interests to declare. Author disclosures are available in the <xref rid="alz13848-supitem-0003" ref-type="supplementary-material">supporting information</xref>.</p></sec><sec id="alz13848-sec-0210"><title>CONSENT STATEMENT</title><p>WI ADRC and WRAP cohorts: this study was performed as part of the GeneRations Of WRAP (GROW) study, which was approved by the University of Wisconsin Health Sciences Institutional Review Board; participants in the WI ADRC and WRAP studies provided written informed consent. Alzheimer Center Amsterdam cohort: All studies were approved by the Medical Ethics Committee. Informed consent, either from the patient or from the legal representative, was obtained from all participants. EMIF‐AD MBD cohort: Written informed consent was obtained from all participants or surrogates, and the procedures for this study were approved by the institutional review boards of all participating institutions (see Bos et al. for full listing and <xref rid="alz13848-supitem-0001" ref-type="supplementary-material">Supplementary Note</xref>). Knight ADRC cohort: All participants provided informed consent to allow their data and biospecimens to be included; the study was approved by an institutional review board at Washington University School of Medicine in St. Louis.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz13848-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-5044-s002.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz13848-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-5044-s001.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz13848-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-5044-s003.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz13848-sec-0170"><title>ACKNOWLEDGMENTS</title><p>We would like to thank the participants and staff of the WRAP, WI ADRC, EMIF‐AD MBD, and Knight ADRC. Without their efforts this research would not be possible. This research is supported by National Institute on Aging (NIA) grants R01AG27161 (Wisconsin Registry for Alzheimer Prevention: Biomarkers of Preclinical AD), National Institutes of Health, (NIH) grant R01AG054047 (Genomic and Metabolomic Data Integration in a Longitudinal Cohort at Risk for Alzheimer's Disease), P41GM108538 (National Center for Quantitative Biology of Complex Systems), R01AG037639 (White Matter Degeneration: Biomarkers in Preclinical Alzheimer's Disease), R01AG021155 (The Longitudinal Course of Imaging Biomarkers in People at Risk of AD), R21AG067092 (Identifying Metabolomic Risk Factors in Plasma and CSF for Alzheimer's Disease), and P50AG033514 and P30AG062715 (Wisconsin Alzheimer's Disease Research Center Grant), the Clinical and Translational Science Award (CTSA) program through the NIH National Center for Advancing Translational Sciences (NCATS) grant UL1TR000427, and the University of Wisconsin‐Madison Office of the Vice Chancellor for Research and Graduate Education with funding from the Wisconsin Alumni Research Foundation. Computational resources were supported by a core grant to the Center for Demography and Ecology at the University of Wisconsin‐Madison (P2CHD047873). We also acknowledge use of the facilities of the Center for Demography of Health and Aging at the University of Wisconsin‐Madison, funded by NIA Center grant P30AG017266. L.M.R. was funded by the Memorabel fellowship (ZonMW project number: 10510022110012). Y.K.D. was supported by a training grant from the National Institute on Aging (T32AG000213). P.J.V. was supported by grants from the European Commission, IMI (AMYPAD: 115952; RADAR‐AD: 806999; and EPND: 101034344), and the ZonMW (Redefining Alzheimer's disease, #733050824736, and NCDC, #73305095005). H.Z. is a Wallenberg Scholar supported by grants from the Swedish Research Council (#2018‐02532), the European Research Council (#101053962), Swedish State Support for Clinical Research (#ALFGBG‐720931), the Alzheimer Drug Discovery Foundation (ADDF), USA (#201809‐2016862), the Alzheimer's Association Research Fellowship (2019‐AARF‐643973), the AD Strategic Fund and the Alzheimer's Association (#ADSF‐21‐831376‐C, #ADSF‐21‐831381‐C and #ADSF‐21‐831377‐C), the Olav Thon Foundation (#OT2016‐101), the Erling‐Persson Family Foundation (#EP2019‐02), Stiftelsen för Gamla Tjänarinnor, Hjärnfonden, Sweden (#FO2019‐0228, #SGT2021‐09‐Zetterberg), the European Union's Horizon 2020 research and innovation program under the Marie Skłodowska‐Curie grant agreement No #JPND2021‐00694 (MIRIADE), and the UK Dementia Research Institute at UCL (#UKDRI‐1003). Author KB is supported by the Swedish Research Council (#2017‐00915), the Swedish Alzheimer Foundation (#AF‐930351, #AF‐939721, and #AF‐968270), Hjärnfonden, Sweden (#FO2017‐0243 and #ALZ2022‐0006), the Swedish state under the agreement between the Swedish government and the County Councils, the ALF‐agreement (#ALFGBG‐715986 and #ALFGBG‐965240), and the Alzheimer's Association 2021 Zenith Award (ZEN‐21‐848495). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. J.G. is supported by Alzheimerfonden (#AF‐930934) and the Foundation of Gamla Tjänarinnor. C.C. receives support from the Identifying Rare Variants that Increase Risk for Alzheimer‐s Disease (R01AG044546, R01AG064877, RF1AG053303, RF1AG058501, U01AG058922, R01AG064614, 1RF1AG074007), and the Chan Zuckerberg Initiative (CZI). The recruitment and clinical characterization of research participants at Washington University were supported by NIA P30AG066444, and P01AG003991. This work was supported by access to equipment made possible by the Hope Center for Neurological Disorders, the NeuroGenomics and Informatics Center (NGI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://neurogenomics.wustl.edu/" ext-link-type="uri">https://neurogenomics.wustl.edu/</ext-link>) and the Departments of Neurology and Psychiatry at Washington University School of Medicine. L.M.R., P.J.V., and B.M.T. are supported by the ZonMW Memorabel grant programma (#733050824), and P.J.V. is additionally supported by the Innovative Medicines Initiative Joint Undertaking under the EMIF grant agreement (#115372). ELECSYS, COBAS and COBAS E are trademarks of Roche. The Roche NeuroToolKit robust prototype assays are for investigational purposes only and are not approved for clinical use. We thank the University of Wisconsin Madison Biotechnology Center Gene Expression Center for providing Illumina Infinium genotyping services. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.</p></ack><sec sec-type="data-availability" id="alz13848-sec-0200"><title>DATA AVAILABILITY STATEMENT</title><p>The data sets analyzed from the WI ADRC and WRAP studies may be requested at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.adrc.wisc.edu/apply-resources" ext-link-type="uri" specific-use="software is-supplemented-by">https://www.adrc.wisc.edu/apply‐resources</ext-link>. Microglia eQTL summary statistics may be requested through the European Genome‐Phenome Archive (EGAD00001005736) and the Wellcome Sanger Institute Data Access Committee. The EMIF‐AD proteomics data may be requested from the ProteomeXchange Consortium via the PRIDE partner repository with the data set identifier <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.6019/PXD019910" ext-link-type="uri" specific-use="dataset is-supplemented-by">https://doi.org/10.6019/PXD019910</ext-link>. The Knight ADRC proteomic data are available at NIAGADS: NG00102 collection and can be interactively explored at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://ngi.pub:3838/ONTIME_Proteomics/" ext-link-type="uri" specific-use="software is-supplemented-by">http://ngi.pub:3838/ONTIME_Proteomics/</ext-link>.</p></sec><ref-list id="alz13848-bibl-0001"><title>REFERENCES</title><ref id="alz13848-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz13848-cit-0001">
+<string-name name-style="western">
+<surname>Naj</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jun</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beecham</surname>
+<given-names>GW</given-names>
+</string-name>, et al. <article-title>Common variants in MS4A4/MS4A6E, CD2uAP, CD33, and EPHA1 are associated with late‐onset Alzheimer's disease</article-title>. <source>Nat Genet</source>. <year>2011</year>;<volume>43</volume>:<fpage>436</fpage>‐<lpage>441</lpage>. doi:<pub-id pub-id-type="doi">10.1038/ng.801</pub-id>
+<pub-id pub-id-type="pmid">21460841</pub-id>
+<pub-id pub-id-type="pmcid">PMC3090745</pub-id></mixed-citation></ref><ref id="alz13848-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz13848-cit-0002">
+<string-name name-style="western">
+<surname>Lambert</surname>
+<given-names>J‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ibrahim‐Verbaas</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harold</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Meta‐analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer's disease</article-title>. <source>Nat Genet</source>. <year>2013</year>;<volume>45</volume>:<fpage>1452</fpage>‐<lpage>1458</lpage>. doi:<pub-id pub-id-type="doi">10.1038/ng.2802</pub-id>
+<pub-id pub-id-type="pmid">24162737</pub-id>
+<pub-id pub-id-type="pmcid">PMC3896259</pub-id></mixed-citation></ref><ref id="alz13848-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz13848-cit-0003">
+<string-name name-style="western">
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Savage</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Watanabe</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Genome‐wide meta‐analysis identifies new loci and functional pathways influencing Alzheimer's disease risk</article-title>. <source>Nat Genet</source>. <year>2019</year>;<volume>51</volume>:<fpage>404</fpage>‐<lpage>413</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41588-018-0311-9</pub-id>
+<pub-id pub-id-type="pmid">30617256</pub-id>
+<pub-id pub-id-type="pmcid">PMC6836675</pub-id></mixed-citation></ref><ref id="alz13848-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz13848-cit-0004">
+<string-name name-style="western">
+<surname>Kunkle</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Grenier‐Boley</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sims</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Genetic meta‐analysis of diagnosed Alzheimer's disease identifies new risk loci and implicates Aβ, tau, immunity and lipid processing</article-title>. <source>Nat Genet</source>. <year>2019</year>;<volume>51</volume>:<fpage>414</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41588-019-0358-2</pub-id>
+<pub-id pub-id-type="pmid">30820047</pub-id>
+<pub-id pub-id-type="pmcid">PMC6463297</pub-id></mixed-citation></ref><ref id="alz13848-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz13848-cit-0005">
+<string-name name-style="western">
+<surname>Odenkirk</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kyle</surname>
+<given-names>JE</given-names>
+</string-name>, et al, <article-title>Deciphering ApoE genotype‐driven proteomic and lipidomic alterations in Alzheimer's disease across distinct brain regions</article-title>. <source>J Proteome Res</source>. <year>2024</year>. doi:<pub-id pub-id-type="doi">10.1021/acs.jproteome.3c00604</pub-id>
+<pub-id pub-id-type="pmcid">PMC11255128</pub-id><pub-id pub-id-type="pmid">38236019</pub-id></mixed-citation></ref><ref id="alz13848-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz13848-cit-0006">
+<string-name name-style="western">
+<surname>Bellenguez</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Küçükali</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, et al. <article-title>New insights into the genetic etiology of Alzheimer's disease and related dementias</article-title>. <source>Nat Genet</source>. <year>2022</year>;<volume>54</volume>:<fpage>412</fpage>‐<lpage>436</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41588-022-01024-z</pub-id>
+<pub-id pub-id-type="pmid">35379992</pub-id>
+<pub-id pub-id-type="pmcid">PMC9005347</pub-id></mixed-citation></ref><ref id="alz13848-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz13848-cit-0007">
+<string-name name-style="western">
+<surname>Wightman</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jansen</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Savage</surname>
+<given-names>JE</given-names>
+</string-name>, et al, <article-title>A genome‐wide association study with 1,126,563 individuals identifies new risk loci for Alzheimer's disease</article-title>. <source>Nat Genet</source>. <year>2021</year>;<volume>53</volume>:<fpage>1276</fpage>‐<lpage>1282</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41588-021-00921-z</pub-id>
+<pub-id pub-id-type="pmid">34493870</pub-id>
+<pub-id pub-id-type="pmcid">PMC10243600</pub-id></mixed-citation></ref><ref id="alz13848-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz13848-cit-0008">
+<string-name name-style="western">
+<surname>Melah</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>SY‐F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoscheidt</surname>
+<given-names>SM</given-names>
+</string-name>, et al. <article-title>CSF markers of Alzheimer's pathology and microglial activation are associated with altered white matter microstructure in asymptomatic adults at risk for Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2016</year>;<volume>50</volume>:<fpage>873</fpage>‐<lpage>886</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-150897</pub-id>
+<pub-id pub-id-type="pmid">26836182</pub-id>
+<pub-id pub-id-type="pmcid">PMC4760877</pub-id></mixed-citation></ref><ref id="alz13848-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz13848-cit-0009">
+<string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koscik</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jonaitis</surname>
+<given-names>EM</given-names>
+</string-name>, et al. <article-title>The Wisconsin Registry for Alzheimer's Prevention: A review of findings and current directions</article-title>. <source>Alzheimers Dement</source>. <year>2017</year>;<volume>10</volume>:<fpage>130</fpage>‐<lpage>142</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.dadm.2017.11.007</pub-id>
+<pub-id pub-id-type="pmcid">PMC5755749</pub-id><pub-id pub-id-type="pmid">29322089</pub-id></mixed-citation></ref><ref id="alz13848-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz13848-cit-0010">
+<string-name name-style="western">
+<surname>Panyard</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McKetney</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deming</surname>
+<given-names>YK</given-names>
+</string-name>, et al. <article-title>Large‐scale proteome and metabolome analysis of CSF implicates altered glucose and carbon metabolism and succinylcarnitine in Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>:<fpage>5447</fpage>‐<lpage>5470</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13130</pub-id>
+<pub-id pub-id-type="pmid">37218097</pub-id>
+<pub-id pub-id-type="pmcid">PMC10663389</pub-id></mixed-citation></ref><ref id="alz13848-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz13848-cit-0011">
+<string-name name-style="western">
+<surname>Tijms</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vromen</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mjaavatten</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Cerebrospinal fluid proteomics in patients with Alzheimer's disease reveals five molecular subtypes with distinct genetic risk profiles</article-title>. <source>Nat Aging</source>. <year>2024</year>:<fpage>1</fpage>‐<lpage>15</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s43587-023-00550-7</pub-id>
+<pub-id pub-id-type="pmid">38195725</pub-id>
+<pub-id pub-id-type="pmcid">PMC10798889</pub-id></mixed-citation></ref><ref id="alz13848-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz13848-cit-0012">
+<string-name name-style="western">
+<surname>van der Flier</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scheltens</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Amsterdam Dementia Cohort: performing research to optimize care</article-title>. <source>J Alzheimer Dis</source>. <year>2018</year>;<volume>62</volume>:<fpage>1091</fpage>‐<lpage>1111</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-170850</pub-id>
+<pub-id pub-id-type="pmcid">PMC5870023</pub-id><pub-id pub-id-type="pmid">29562540</pub-id></mixed-citation></ref><ref id="alz13848-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz13848-cit-0013">
+<string-name name-style="western">
+<surname>Legdeur</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Badissi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carter</surname>
+<given-names>SF</given-names>
+</string-name>, et al. <article-title>Resilience to cognitive impairment in the oldest‐old: design of the EMIF‐AD 90+ study</article-title>. <source>BMC Geriatr</source>. <year>2018</year>;<volume>18</volume>:<fpage>289</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s12877-018-0984-z</pub-id>
+<pub-id pub-id-type="pmid">30477432</pub-id>
+<pub-id pub-id-type="pmcid">PMC6258163</pub-id></mixed-citation></ref><ref id="alz13848-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz13848-cit-0014">
+<string-name name-style="western">
+<surname>Boomsma</surname>
+<given-names>DI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geus</surname>
+<given-names>EJC</given-names>
+<suffix>de</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Vink</surname>
+<given-names>JM</given-names>
+</string-name>, et al. <article-title>Netherlands Twin Register: from twins to twin families</article-title>. <source>Twin Res Hum Genet</source>. <year>2006</year>;<volume>9</volume>:<fpage>849</fpage>‐<lpage>857</lpage>. doi:<pub-id pub-id-type="doi">10.1375/twin.9.6.849</pub-id>
+<pub-id pub-id-type="pmid">17254420</pub-id>
+</mixed-citation></ref><ref id="alz13848-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz13848-cit-0015">
+<string-name name-style="western">
+<surname>Konijnenberg</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carter</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ten Kate</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>The EMIF‐AD PreclinAD study: study design and baseline cohort overview</article-title>. <source>Alzheimers Res Ther</source>. <year>2018</year>;<volume>10</volume>:<fpage>75</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-018-0406-7</pub-id>
+<pub-id pub-id-type="pmid">30075734</pub-id>
+<pub-id pub-id-type="pmcid">PMC6091034</pub-id></mixed-citation></ref><ref id="alz13848-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz13848-cit-0016">
+<string-name name-style="western">
+<surname>Young</surname>
+<given-names>AMH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kumasaka</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Calvert</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>A map of transcriptional heterogeneity and regulatory variation in human microglia</article-title>. <source>Nat Genet</source>. <year>2021</year>;<volume>53</volume>:<fpage>861</fpage>‐<lpage>868</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41588-021-00875-2</pub-id>
+<pub-id pub-id-type="pmid">34083789</pub-id>
+<pub-id pub-id-type="pmcid">PMC7610960</pub-id></mixed-citation></ref><ref id="alz13848-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz13848-cit-0017">
+<string-name name-style="western">
+<surname>Kwong</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boughton</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>FIVEx: an interactive eQTL browser across public datasets</article-title>. <source>Bioinformatics</source>. <year>2021</year>:<elocation-id>btab614</elocation-id>. doi:<pub-id pub-id-type="doi">10.1093/bioinformatics/btab614</pub-id>
+<pub-id pub-id-type="pmcid">PMC8723151</pub-id><pub-id pub-id-type="pmid">34459872</pub-id></mixed-citation></ref><ref id="alz13848-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz13848-cit-0018">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ge</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casale</surname>
+<given-names>FP</given-names>
+</string-name>, et al. <article-title>Genetic drivers of epigenetic and transcriptional variation in human immune cells</article-title>. <source>Cell</source>. <year>2016</year>;<volume>167</volume>:<fpage>1398</fpage>‐<lpage>1414</lpage>.e24 doi:<pub-id pub-id-type="doi">10.1016/j.cell.2016.10.026</pub-id>
+<pub-id pub-id-type="pmid">27863251</pub-id>
+<pub-id pub-id-type="pmcid">PMC5119954</pub-id></mixed-citation></ref><ref id="alz13848-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz13848-cit-0019">
+<string-name name-style="western">
+<surname>Võsa</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Claringbould</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Westra</surname>
+<given-names>H‐J</given-names>
+</string-name>, et al. <article-title>Unraveling the polygenic architecture of complex traits using blood eQTL metaanalysis</article-title>. <source>bioRxiv</source>. <year>2018</year>:<elocation-id>447367</elocation-id>. doi:<pub-id pub-id-type="doi">10.1101/447367</pub-id>
+</mixed-citation></ref><ref id="alz13848-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz13848-cit-0020">
+<string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bennett</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>NIA‐AA Research Framework: toward a biological definition of Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2018</year>;<volume>14</volume>:<fpage>535</fpage>‐<lpage>562</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2018.02.018</pub-id>
+<pub-id pub-id-type="pmid">29653606</pub-id>
+<pub-id pub-id-type="pmcid">PMC5958625</pub-id></mixed-citation></ref><ref id="alz13848-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz13848-cit-0021">
+<string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Knopman</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jagust</surname>
+<given-names>WJ</given-names>
+</string-name>, et al. <article-title>Update on hypothetical model of Alzheimer's disease biomarkers</article-title>. <source>Lancet Neurol</source>. <year>2013</year>;<volume>12</volume>:<fpage>207</fpage>‐<lpage>216</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(12)70291-0</pub-id>
+<pub-id pub-id-type="pmid">23332364</pub-id>
+<pub-id pub-id-type="pmcid">PMC3622225</pub-id></mixed-citation></ref><ref id="alz13848-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz13848-cit-0022">
+<string-name name-style="western">
+<surname>Karlsson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Méar</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>A single–cell type transcriptomics map of human tissues</article-title>. <source>Sci Advances</source>. <year>2021</year>;<volume>7</volume>:<elocation-id>eabh2169</elocation-id>. doi:<pub-id pub-id-type="doi">10.1126/sciadv.abh2169</pub-id>
+<pub-id pub-id-type="pmid">34321199</pub-id>
+<pub-id pub-id-type="pmcid">PMC8318366</pub-id></mixed-citation></ref><ref id="alz13848-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz13848-cit-0023">
+<string-name name-style="western">
+<surname>Masuda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sankowski</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Staszewski</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prinz</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Microglia heterogeneity in the single‐cell era</article-title>. <source>Cell Rep</source>. <year>2020</year>;<volume>30</volume>:<fpage>1271</fpage>‐<lpage>1281</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.celrep.2020.01.010</pub-id>
+<pub-id pub-id-type="pmid">32023447</pub-id>
+</mixed-citation></ref><ref id="alz13848-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz13848-cit-0024">
+<string-name name-style="western">
+<surname>Morabito</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miyoshi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michael</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swarup</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Integrative genomics approach identifies conserved transcriptomic networks in Alzheimer's disease</article-title>. <source>Hum Mol Genet</source>. <year>2020</year>;<volume>29</volume>:<fpage>2899</fpage>‐<lpage>2919</lpage>. doi:<pub-id pub-id-type="doi">10.1093/hmg/ddaa182</pub-id>
+<pub-id pub-id-type="pmid">32803238</pub-id>
+<pub-id pub-id-type="pmcid">PMC7566321</pub-id></mixed-citation></ref><ref id="alz13848-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz13848-cit-0025">
+<string-name name-style="western">
+<surname>Fishilevich</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nudel</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rappaport</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>GeneHancer: genome‐wide integration of enhancers and target genes in GeneCards</article-title>. <source>Database</source>. <year>2017</year>;<volume>2017</volume>:<elocation-id>bax028</elocation-id>. doi:<pub-id pub-id-type="doi">10.1093/database/bax028</pub-id>
+<pub-id pub-id-type="pmid">28605766</pub-id>
+<pub-id pub-id-type="pmcid">PMC5467550</pub-id></mixed-citation></ref><ref id="alz13848-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz13848-cit-0026">
+<string-name name-style="western">
+<surname>Stelzer</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Plaschkes</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>The GeneCards Suite: from gene data mining to disease genome sequence analyses</article-title>. <source>Curr Protoc Bioinformatics</source>. <year>2016</year>;<volume>54</volume>:1.30.1‐1.30.33. doi:<pub-id pub-id-type="doi">10.1002/cpbi.5</pub-id>
+<pub-id pub-id-type="pmid">27322403</pub-id></mixed-citation></ref><ref id="alz13848-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz13848-cit-0027">
+<string-name name-style="western">
+<surname>Ma</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Madden</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gontarz</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>FeatSNP: an interactive database for brain‐specific epigenetic annotation of human SNPs</article-title>. <source>Front Genet</source>. <year>2019</year>;<volume>10</volume>:<fpage>262</fpage>.<pub-id pub-id-type="pmid">31001319</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fgene.2019.00262</pub-id><pub-id pub-id-type="pmcid">PMC6454007</pub-id></mixed-citation></ref><ref id="alz13848-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz13848-cit-0028">
+<string-name name-style="western">
+<surname>O'Leary</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wright</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brister</surname>
+<given-names>JR</given-names>
+</string-name>, et al. <article-title>Reference sequence (RefSeq) database at NCBI: current status, taxonomic expansion, and functional annotation</article-title>. <source>Nucleic Acids Res</source>. <year>2016</year>;<volume>44</volume>:<fpage>D733</fpage>‐<lpage>D745</lpage>. doi:<pub-id pub-id-type="doi">10.1093/nar/gkv1189</pub-id>
+<pub-id pub-id-type="pmid">26553804</pub-id>
+<pub-id pub-id-type="pmcid">PMC4702849</pub-id></mixed-citation></ref><ref id="alz13848-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz13848-cit-0029">
+<string-name name-style="western">
+<surname>Behl</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Alzheimer's disease and oxidative stress: implications for novel therapeutic approaches</article-title>. <source>Prog Neurobiol</source>. <year>1999</year>;<volume>57</volume>:<fpage>301</fpage>‐<lpage>323</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S0301-0082(98)00055-0</pub-id>
+<pub-id pub-id-type="pmid">10096843</pub-id>
+</mixed-citation></ref><ref id="alz13848-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz13848-cit-0030">
+<string-name name-style="western">
+<surname>Butterfield</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mattson</surname>
+<given-names>MP</given-names>
+</string-name>. <article-title>Apolipoprotein E and oxidative stress in brain with relevance to Alzheimer's disease</article-title>. <source>Neurobiol Dis.</source>. <year>2020</year>;<volume>138</volume>:<elocation-id>104795</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.nbd.2020.104795</pub-id>
+<pub-id pub-id-type="pmid">32036033</pub-id>
+<pub-id pub-id-type="pmcid">PMC7085980</pub-id></mixed-citation></ref><ref id="alz13848-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz13848-cit-0031">
+<string-name name-style="western">
+<surname>Tönnies</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trushina</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Oxidative stress, synaptic dysfunction, and Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2017</year>;<volume>57</volume>:<fpage>1105</fpage>‐<lpage>1121</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-161088</pub-id>
+<pub-id pub-id-type="pmid">28059794</pub-id>
+<pub-id pub-id-type="pmcid">PMC5409043</pub-id></mixed-citation></ref><ref id="alz13848-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz13848-cit-0032">
+<string-name name-style="western">
+<surname>García‐Blanco</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baquero</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vento</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gil</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bataller</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cháfer‐Pericás</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Potential oxidative stress biomarkers of mild cognitive impairment due to Alzheimer disease</article-title>. <source>J Neurol Sci</source>. <year>2017</year>;<volume>373</volume>:<fpage>295</fpage>‐<lpage>302</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jns.2017.01.020</pub-id>
+<pub-id pub-id-type="pmid">28131209</pub-id>
+</mixed-citation></ref><ref id="alz13848-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz13848-cit-0033">
+<string-name name-style="western">
+<surname>Vösa</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Claringbould</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Westra</surname>
+<given-names>HJ</given-names>
+</string-name>. et al. <article-title>Large‐scale <italic toggle="yes">cis‐</italic> and <italic toggle="yes">trans</italic>‐eQTL analyses identify thousands of genetic loci and polygenic scores that regulate blood gene expression</article-title>. <source>Nat Genet</source>
+<year>2021</year>;<volume>53</volume>:<fpage>1300</fpage>‐<lpage>1310</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41588-021-00913-z</pub-id>
+<pub-id pub-id-type="pmid">34475573</pub-id>
+<pub-id pub-id-type="pmcid">PMC8432599</pub-id></mixed-citation></ref><ref id="alz13848-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz13848-cit-0034">
+<string-name name-style="western">
+<surname>Puertas</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martínez‐Martos</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cobo</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carrera</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mayas</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramírez‐Expósito</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Plasma oxidative stress parameters in men and women with early stage Alzheimer type dementia</article-title>. <source>Exp Gerontol</source>. <year>2012</year>;<volume>47</volume>:<fpage>625</fpage>‐<lpage>630</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.exger.2012.05.019</pub-id>
+<pub-id pub-id-type="pmid">22664577</pub-id>
+</mixed-citation></ref><ref id="alz13848-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz13848-cit-0035">
+<string-name name-style="western">
+<surname>Torres</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quaglio</surname>
+<given-names>NB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Souza</surname>
+<given-names>GT</given-names>
+</string-name>, et al. <article-title>Peripheral oxidative stress biomarkers in mild cognitive impairment and Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2011</year>;<volume>26</volume>:<fpage>59</fpage>‐<lpage>68</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-2011-110284</pub-id>
+<pub-id pub-id-type="pmid">21593563</pub-id>
+</mixed-citation></ref><ref id="alz13848-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz13848-cit-0036">
+<string-name name-style="western">
+<surname>Zimetti</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adorni</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marsillach</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Connection between the altered HDL antioxidant and anti‐inflammatory properties and the risk to develop Alzheimer's disease: a narrative review</article-title>. <source>Oxid Med Cell Longev</source>. <year>2021</year>;<volume>2021</volume>:<elocation-id>e6695796</elocation-id>. doi:<pub-id pub-id-type="doi">10.1155/2021/6695796</pub-id>
+<pub-id pub-id-type="pmcid">PMC7811424</pub-id><pub-id pub-id-type="pmid">33505588</pub-id></mixed-citation></ref><ref id="alz13848-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz13848-cit-0037">
+<string-name name-style="western">
+<surname>Restuadi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steyn</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kabashi</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Functional characterisation of the amyotrophic lateral sclerosis risk locus GPX3/TNIP1</article-title>. <source>Genome Med</source>. <year>2022</year>;<volume>14</volume>:<fpage>7</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13073-021-01006-6</pub-id>
+<pub-id pub-id-type="pmid">35042540</pub-id>
+<pub-id pub-id-type="pmcid">PMC8767698</pub-id></mixed-citation></ref><ref id="alz13848-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz13848-cit-0038">
+<string-name name-style="western">
+<surname>Karczewski</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Francioli</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tiao</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>The mutational constraint spectrum quantified from variation in 141,456 humans</article-title>. <source>Nature</source>. <year>2020</year>;<volume>581</volume>:<fpage>434</fpage>‐<lpage>443</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41586-020-2308-7</pub-id>
+<pub-id pub-id-type="pmid">32461654</pub-id>
+<pub-id pub-id-type="pmcid">PMC7334197</pub-id></mixed-citation></ref><ref id="alz13848-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz13848-cit-0039">
+<string-name name-style="western">
+<surname>Raffield</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pratte</surname>
+<given-names>KA</given-names>
+</string-name>, et al. <article-title>Comparison of proteomic assessment methods in multiple cohort studies</article-title>. <source>Proteomics</source>. <year>2020</year>;<volume>20</volume>:<elocation-id>e1900278</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/pmic.201900278</pub-id>
+<pub-id pub-id-type="pmid">32386347</pub-id>
+<pub-id pub-id-type="pmcid">PMC7425176</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

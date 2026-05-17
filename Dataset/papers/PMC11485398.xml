@@ -1,0 +1,940 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz14154" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11485398</article-id><article-id pub-id-type="pmcid-ver">PMC11485398.1</article-id><article-id pub-id-type="pmcaid">11485398</article-id><article-id pub-id-type="pmcaiid">11485398</article-id><article-id pub-id-type="pmid">39239892</article-id><article-id pub-id-type="doi">10.1002/alz.14154</article-id><article-id pub-id-type="publisher-id">ALZ14154</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Digital cognitive assessments as low‐burden markers for predicting future cognitive decline and tau accumulation across the Alzheimer's spectrum</article-title><alt-title alt-title-type="left-running-head">VANDERLIP and STARK</alt-title></title-group><contrib-group><contrib id="alz14154-cr-0001" contrib-type="author"><name name-style="western"><surname>Vanderlip</surname><given-names initials="CR">Casey R.</given-names></name><xref rid="alz14154-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz14154-cr-0002" contrib-type="author" corresp="yes"><name name-style="western"><surname>Stark</surname><given-names initials="CEL">Craig E. L.</given-names></name><xref rid="alz14154-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>cestark@uci.edu</email></address></contrib><contrib id="alz14154-cr-0003" contrib-type="author"><collab collab-type="authors">for the Alzheimer's Disease Neuroimaging Initiative</collab></contrib></contrib-group><aff id="alz14154-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurobiology and Behavior</named-content>
+<institution>1424 Biological Sciences III Irvine, University of California Irvine</institution>
+<city>Irvine</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Craig E. L. Stark, Department of Neurobiology and Behavior, 1424 Biological Sciences III Irvine, University of California Irvine, Irvine, CA, 92697 USA.<break/> Email: <email>cestark@uci.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>9</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2024</year></pub-date><volume>20</volume><issue seq="170">10</issue><issue-id pub-id-type="pmc-issue-id">472987</issue-id><issue-id pub-id-type="doi">10.1002/alz.v20.10</issue-id><fpage>6881</fpage><lpage>6895</lpage><history><date date-type="rev-recd"><day>30</day><month>6</month><year>2024</year></date><date date-type="received"><day>09</day><month>5</month><year>2024</year></date><date date-type="accepted"><day>02</day><month>7</month><year>2024</year></date></history><pub-history><event event-type="pmc-release"><date><day>06</day><month>09</month><year>2024</year></date></event><event event-type="pmc-live"><date><day>18</day><month>10</month><year>2024</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2024-10-18 11:25:43.950"><day>18</day><month>10</month><year>2024</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-20-6881.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-20-6881.pdf"/><related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="preprint" xml:lang="en" xlink:title="research-article" journal-id="bioRxiv" journal-id-type="nlm-ta" ext-link-type="pmc" xlink:href="PMC11142177"><article-title>Digital cognitive assessments as low-burden markers for predicting future cognitive decline and tau accumulation across the Alzheimer’s spectrum</article-title><date><day>26</day><month>5</month><year>2024</year></date><elocation-id>2024.05.23.595638</elocation-id><source>bioRxiv</source><pub-id pub-id-type="doi">10.1101/2024.05.23.595638</pub-id><pub-id pub-id-type="pmcid">PMC11142177</pub-id><pub-id pub-id-type="pmid">38826456</pub-id></related-article><abstract><title>Abstract</title><sec id="alz14154-sec-0010"><title>BACKGROUND</title><p>Digital cognitive assessments, particularly those that can be done at home, present as low‐burden biomarkers for participants and patients alike, but their effectiveness in the diagnosis of Alzheimer's disease (AD) or predicting its trajectory is still unclear. Here, we assessed what utility or added value these digital cognitive assessments provide for identifying those at high risk of cognitive decline.</p></sec><sec id="alz14154-sec-0020"><title>METHODS</title><p>We analyzed &gt;500 Alzheimer's Disease Neuroimaging Initiative participants who underwent a brief digital cognitive assessment and amyloid beta (Aβ)/tau positron emission tomography scans, examining their ability to distinguish cognitive status and predict cognitive decline.</p></sec><sec id="alz14154-sec-0030"><title>RESULTS</title><p>Performance on the digital cognitive assessment was superior to both cortical Aβ and entorhinal tau in detecting mild cognitive impairment and future cognitive decline, with mnemonic discrimination deficits emerging as the most critical measure for predicting decline and future tau accumulation.</p></sec><sec id="alz14154-sec-0040"><title>DISCUSSION</title><p>Digital assessments are effective at identifying at‐risk individuals, supporting their utility as low‐burden tools for early AD detection and monitoring.</p></sec><sec id="alz14154-sec-0050"><title>Highlights</title><p>
+<list list-type="bullet" id="alz14154-list-0001"><list-item><p>Performance on digital cognitive assessments predicts progression to mild cognitive impairment at a higher proficiency compared to amyloid beta and tau.</p></list-item><list-item><p>Deficits in mnemonic discrimination are indicative of future cognitive decline.</p></list-item><list-item><p>Impaired mnemonic discrimination predicts future entorhinal and inferior temporal tau.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz14154-kwd-0001">Alzheimer's disease</kwd><kwd id="alz14154-kwd-0002">digital cognitive assessments</kwd><kwd id="alz14154-kwd-0003">early detection</kwd><kwd id="alz14154-kwd-0004">mnemonic discrimination</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Institutes of Health
+</institution><institution-id institution-id-type="doi">10.13039/100000002</institution-id></institution-wrap></funding-source><award-id>U19AG024904</award-id><award-id>R01AG066683</award-id><award-id>P30AG066519</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Institute on Aging
+</institution><institution-id institution-id-type="doi">10.13039/100000049</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="5"/><table-count count="3"/><page-count count="15"/><word-count count="9194"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.9 mode:remove_FC converted:17.10.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz14154-cit-0056">
+<string-name name-style="western">
+<surname>Vanderlip</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>CEL</given-names>
+</string-name>; <collab collab-type="authors">for the Alzheimer's Disease Neuroimaging Initiative</collab>
+. <article-title>Digital cognitive assessments as low‐burden markers for predicting future cognitive decline and tau accumulation across the Alzheimer's spectrum</article-title>. <source>Alzheimer's Dement</source>. <year>2024</year>;<volume>20</volume>:<fpage>6881</fpage>–<lpage>6895</lpage>. <pub-id pub-id-type="doi">10.1002/alz.14154</pub-id>
+<pub-id pub-id-type="pmcid">PMC11485398</pub-id><pub-id pub-id-type="pmid">39239892</pub-id></mixed-citation>
+</p></notes></front><body><sec id="alz14154-sec-0060"><label>1</label><title>INTRODUCTION</title><p>Alzheimer's disease (AD) pathologies, such as amyloid beta (Aβ) and tau tangles, develop up to 20 years before overt cognitive decline.<xref rid="alz14154-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="alz14154-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Therefore, identifying individuals before cognitive decline is essential for the treatment of this disease. While there has been substantial progress in techniques for treating these pathologies prior to cognitive decline, the development of sensitive cognitive tasks has lagged behind. Many of the common tasks currently used to assess cognitive function, such as the Mini‐Mental State Examination (MMSE) or Clinical Dementia Rating (CDR) score, are relatively unaffected until late in disease progression,<xref rid="alz14154-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="alz14154-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> with impairments on these tasks lagging years behind AD biomarkers.<xref rid="alz14154-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="alz14154-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz14154-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Therefore, it is now common to believe that cognitive decline occurs well after the buildup of pathology. While this may be the case for tests designed to measure overt cognitive impairment, there is little reason to assume that this must necessarily be the case and that pathological load could not be read out in subtle changes in cognition. If digital biomarkers can be developed and validated to reflect some aspect of AD pathology, they offer a non‐invasive, low‐burden way to predict AD risk or monitor disease or treatment progression.</p><p>Recent work has demonstrated that digital cognitive batteries that tax circuits related to AD can accurately distinguish between individuals with cognitive impairment and cognitively healthy controls.<xref rid="alz14154-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="alz14154-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz14154-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Further, longitudinal performance on these batteries is related to AD biomarkers prior to cognitive decline and is predictive of future decline on standardized cognitive tasks.<xref rid="alz14154-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="alz14154-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> However, the tasks in these batteries are not equivalent in predicting AD biomarker status and future cognitive impairment. Tasks that tax circuits most vulnerable to AD are the best predictors of future decline. Hippocampus‐dependent tasks, such as the Mnemonic Similarity Task (MST) or list‐learning paradigms, decline early in AD.<xref rid="alz14154-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="alz14154-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz14154-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Conversely, motor speed and executive function decline later in disease progression.<xref rid="alz14154-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz14154-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Further, work has shown that within cognitive batteries, memory‐based tasks are able to better predict amyloid and tau status in cognitively normal (CN) older adults.<xref rid="alz14154-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="alz14154-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> For example, one study that administered a series of cognitive tasks that included tasks of memory, attention, and psychomotor function found the strongest relationships between amyloid and memory function compared to attention and psychomotor function.<xref rid="alz14154-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+</p><p>Substantial progress has been made in understanding the neural circuits that contribute to differing cognitive functions and which circuits are particularly susceptible to AD pathologies.<xref rid="alz14154-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="alz14154-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz14154-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Specifically, the hippocampus, a region critical for memory formation, is affected (directly and indirectly) early in the disease progression.<xref rid="alz14154-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz14154-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> This vulnerability makes tasks that tax hippocampal integrity ideal candidates for detecting early cognitive changes in AD. A primary mechanism carried out in the hippocampus is pattern separation, which is used to overcome competing interference between similar representations.<xref rid="alz14154-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz14154-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="alz14154-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> To this end, it is unsurprising that one of the earliest cognitive changes in AD is the ability to differentiate between similar events.<xref rid="alz14154-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz14154-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p><p>Mnemonic discrimination tasks have been developed to tax hippocampal pattern separation, and they show promise in identifying individuals at high risk of AD.<xref rid="alz14154-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="alz14154-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Indeed, work has found that performance on these tasks is impaired in individuals with mild cognitive impairment (MCI) compared to CN older adults.<xref rid="alz14154-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="alz14154-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> Further, these tasks can identify individuals with elevated Aβ and tau prior to cognitive decline.<xref rid="alz14154-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="alz14154-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> However, it is not yet fully known if mnemonic discrimination deficits are predictive of future AD pathology and cognitive decline.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz14154-sec-0070"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz14154-list-0002"><list-item><p>
+<bold>Systematic review</bold>: Using traditional sources, such as PubMed, the authors identified studies connecting digital cognitive assessments to Alzheimer's disease (AD) risk. Prior studies demonstrated that performance on digital cognitive assessments decreases in individuals with cognitive impairment, yet the ability of these assessments to identify older adults with increased risk of future impairment remains underexplored.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: If digital cognitive assessments can predict future cognitive decline and AD pathology, they can serve as low‐burden biomarkers with prognostic value. We demonstrate that digital cognitive assessments identify individuals at risk of future cognitive decline as well as, and often reliably better than, Aβ and tau deposition. We find that deficits in mnemonic discrimination is particularly indicative of future decline.</p></list-item><list-item><p>
+<bold>Future directions</bold>: We encourage future researchers to utilize digital cognitive assessments, which include tasks that tax mnemonic discrimination, in their investigations of early pathological changes in AD.</p></list-item></list>
+</p></sec></boxed-text><p>In this study, we investigated whether subtle cognitive changes could outperform Aβ and tau at predicting future cognitive decline. We used the Cogstate Brief Battery data from the Alzheimer's Disease Neuroimaging Initiative (ADNI) as a testbed to assess the validity of digital biomarkers and demonstrated that performance on the cognitive battery better predicted conversion to MCI compared to Aβ and tau deposition. Further, we demonstrated that deficits in mnemonic discrimination drive this, suggesting that mnemonic discrimination deficits are an early marker of AD.</p></sec><sec id="alz14154-sec-0080"><label>2</label><title>METHODS</title><p>The data used here come from the ADNI database (adni.loni.usc.edu). The ADNI was launched in 2003 as a public–private partnership, led by Principal Investigator Michael W. Weiner, MD. The primary goal of ADNI has been to test whether serial magnetic resonance imaging (MRI), positron emission tomography (PET), other biological markers, and clinical and neuropsychological assessment can be combined to measure the progression of MCI and early AD. For up‐to‐date information, see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.adni-info.org" ext-link-type="uri">www.adni‐info.org</ext-link>.</p><sec id="alz14154-sec-0090"><label>2.1</label><title>Participants</title><p>Five hundred and thirty older adults who took the Cogstate Brief Battery (CBB) and underwent Aβ and tau PET imaging were included in ADNI3 (Table <xref rid="alz14154-tbl-0001" ref-type="table">1</xref>). Participants who underwent the CBB and the two PET scans within 90 days were included in the study to enable direct comparisons between the cognitive assessment and imaging biomarkers. No participants had a history of major neurological or psychiatric disorders, head trauma, or history of drug abuse or dependency. Diagnosis as CN, MCI, or AD was provided by ADNI.</p><table-wrap position="float" id="alz14154-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Demographics.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">CN</th><th align="left" rowspan="1" colspan="1">MCI</th><th align="left" rowspan="1" colspan="1">AD</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</td><td align="left" rowspan="1" colspan="1">338</td><td align="left" rowspan="1" colspan="1">185</td><td align="left" rowspan="1" colspan="1">7</td></tr><tr><td align="left" rowspan="1" colspan="1">Age</td><td align="char" rowspan="1" colspan="1">71.59 (7.07)</td><td align="char" rowspan="1" colspan="1">72.45 (8.01)</td><td align="char" rowspan="1" colspan="1">70.71 (8.64)</td></tr><tr><td align="left" rowspan="1" colspan="1">Years of education</td><td align="char" rowspan="1" colspan="1">16.78 (2.24)</td><td align="char" rowspan="1" colspan="1">15.15 (2.52)</td><td align="char" rowspan="1" colspan="1">15.14 (3.24)</td></tr><tr><td align="left" rowspan="1" colspan="1">Percentage female (%)</td><td align="left" rowspan="1" colspan="1">60.01</td><td align="left" rowspan="1" colspan="1">40.00</td><td align="left" rowspan="1" colspan="1">28.57</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Race</bold>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">White</td><td align="char" rowspan="1" colspan="1">282 (83.43%)</td><td align="char" rowspan="1" colspan="1">164 (88.65%)</td><td align="char" rowspan="1" colspan="1">5 (71.43%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Asian</td><td align="char" rowspan="1" colspan="1">12 (3.55%)</td><td align="char" rowspan="1" colspan="1">3 (1.62%)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">African American</td><td align="char" rowspan="1" colspan="1">33 (9.76%)</td><td align="char" rowspan="1" colspan="1">14 (7.57%)</td><td align="char" rowspan="1" colspan="1">2 (28.57%)</td></tr><tr><td align="left" rowspan="1" colspan="1">More than one</td><td align="char" rowspan="1" colspan="1">7 (2.07%)</td><td align="char" rowspan="1" colspan="1">2 (1.08%)</td><td align="char" rowspan="1" colspan="1">n/a</td></tr><tr><td align="left" rowspan="1" colspan="1">Other</td><td align="char" rowspan="1" colspan="1">4 (1.18%)</td><td align="char" rowspan="1" colspan="1">2 (1.08%)</td><td align="char" rowspan="1" colspan="1">n/a</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Ethnicity</bold>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Hispanic or Latino</td><td align="char" rowspan="1" colspan="1">20 (5.92%)</td><td align="char" rowspan="1" colspan="1">12 (6.49%)</td><td align="char" rowspan="1" colspan="1">n/a</td></tr><tr><td align="left" rowspan="1" colspan="1">Not Hispanic or Latino</td><td align="char" rowspan="1" colspan="1">316 (93.49%)</td><td align="char" rowspan="1" colspan="1">172 (92.97%)</td><td align="char" rowspan="1" colspan="1">7 (100%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Unknown</td><td align="char" rowspan="1" colspan="1">2 (0.59%)</td><td align="char" rowspan="1" colspan="1">n/a</td><td align="char" rowspan="1" colspan="1">n/a</td></tr></tbody></table><table-wrap-foot><fn id="alz14154-tbl1-note-0001"><p>Abbreviations: AD, Alzheimer's disease; CN, cognitively normal; MCI, mild cognitive impairment</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz14154-sec-0100"><label>2.2</label><title>Digital cognitive battery</title><p>The CBB is a brief digital cognitive battery that includes four cognitive tasks, each designed to probe separate cognitive domains.<xref rid="alz14154-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="alz14154-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Subjects completed the battery in one sitting on a computer. All tasks involve playing cards and require yes or no responses. The four tasks include a detection task (DET), an identification task (IDN), one‐back task (OBT), and the One Card Learning (OCL) task. Participants had to complete 75% of trials to be included in the study.</p><p>Descriptions of the tasks have been outlined in detail elsewhere.<xref rid="alz14154-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="alz14154-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Briefly, DET is a task that measures psychomotor speed where subjects click “Yes” when a playing card turns over. Psychomotor speed is calculated as the average reaction time over 35 valid trials. Invalid trials (anticipatory responses of less than 250 ms) were not included in the calculations, and a replacement trial was added to total 35 valid trials. IDN is a visual attention task in which either a red or black joker card flips over, and the subject responds yes if the card is red and no if it is black. The performance outcome of this task is an average reaction time over 30 valid trials. For the OBT, individuals are shown a series of playing cards and asked if the card is the same as the previous card. This task taxes working memory and performance is quantified as average reaction time over 31 trials. OCL is a task that taxes hippocampal pattern separation, which is critical for episodic memory. In this task, participants are shown a series of playing cards and are asked if they have seen the playing card previously during the task. Four cards are randomly selected to repeat eight times throughout the task. Critically, to perform this task, individuals must remember details of each playing card (ie, the conjunction of suit and number) to accurately identify these cards later in the task in the face of interference from other similar cards. For example, even though they have seen many clubs and several jacks, it is only the Jack of Clubs that are repeating. The task consists of 80 trials, and the performance outcome is accuracy.</p><p>To develop a composite score reflecting overall cognitive performance, we standardized the scores from all four tasks using <italic toggle="yes">z</italic>‐scores and inverted DET, IDN, and OBT so that more negative <italic toggle="yes">z</italic>‐scores corresponded to poorer performance. Then we calculated the average of these adjusted scores across all tasks to obtain the composite measure.</p></sec><sec id="alz14154-sec-0110"><label>2.3</label><title>PET imaging</title><p>All individuals underwent Aβ PET imaging and tau PET imaging within 90 days of administration of the CBB. Individuals either underwent flobetapir (FBP) (<italic toggle="yes">n</italic> = 295) or florbetaben (FBB) (<italic toggle="yes">n</italic> = 235) imaging to quantify Aβ standard uptake value ratio (SUVR) and flortaucepir (FTP) to quantify tau SUVR. Preprocessing of the data was handled by the ADNI PET core. Comprehensive information regarding the PET processing and acquisition techniques is available on the ADNI website at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://adni.loni.usc.edu/wp-content/uploads/2012/10/ADNI3_PET-Tech-Manual_V2.0_20161206.pdf" ext-link-type="uri">https://adni.loni.usc.edu/wp‐content/uploads/2012/10/ADNI3_PET‐Tech‐Manual_V2.0_20161206.pdf</ext-link>.</p><p>Amyloid and tau PET quantification was provided by ADNI. For amyloid, a cortical composite SUVR was calculated that included the frontal, anterior/posterior cingulate, lateral parietal, and lateral temporal regions. Individuals who had a SUVR greater than two standard deviations above young controls (FBP: &gt; 1.11, FBB: &gt; 1.08) were considered Aβ+.<xref rid="alz14154-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> For continuous measures, SUVR was converted to Centiloids to enable comparisons across tracers.<xref rid="alz14154-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+</p><p>For assessing longitudinal Aβ and tau deposition, individuals with a follow‐up PET scan after the initial scan were included. Both Aβ and tau SUVR annual percentage change (APC) was calculated by taking the difference in uptake (Centiloids for Aβ, SUVR for tau) between the initial scan and the most recent scan divided by the years between scans.</p></sec><sec id="alz14154-sec-0120"><label>2.4</label><title>Statistical analyses</title><p>All analyses were done in Python and RStudio. Logistic regressions were run using statsmodels<xref rid="alz14154-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> to predict cognitive status and conversion status. Area under the curve (AUC) measures were derived from receiver operating characteristic (ROC) curves of the logistic regressions. Random permutation tests with 1000 permutations were used to compare AUCs between models. Commonality analyses were performed using the yhat package in RStudio. To identify how each variable acted in relation to the others, we performed a 6‐choose‐3 combinatorial analysis and quantified the number of times each metric appeared in the top third of AUCs. Pearson correlations were used to assess the associations between two continuous variables. One‐way ANOVAs with Tukey's honestly significance difference (HSD) post hoc tests were used to identify within‐factor differences. For all analyses, <italic toggle="yes">p</italic> &lt; 0.05 was considered reliable.</p></sec></sec><sec id="alz14154-sec-0130"><label>3</label><title>RESULTS</title><sec id="alz14154-sec-0140"><label>3.1</label><title>Digital cognitive biomarkers perform as well as and often better than Aβ and EC tau at distinguishing between CN, MCI, and AD</title><p>Significant research has shown that Aβ and tau levels are elevated in MCI and AD compared to CN older adults. Consequently, we investigated whether digital biomarkers could also differentiate between CN, MCI, and AD statuses. As expected, our findings indicate an increase in Aβ in individuals with MCI or AD compared to CN older adults with a marginal increase between MCI and AD (Figure <xref rid="alz14154-fig-0001" ref-type="fig">1A</xref>; one‐way ANOVA: F(2) = 12.04, <italic toggle="yes">p</italic> &lt; 0.0001, Tukey's HSD: CN vs MCI: <italic toggle="yes">p</italic> &lt; 0.0001, CN vs AD: <italic toggle="yes">p</italic> &lt; 0.0001, MCI vs AD: <italic toggle="yes">p</italic> = 0.09). Similarly, EC tau was increased in MCI and further increased in AD (Figure <xref rid="alz14154-fig-0001" ref-type="fig">1B</xref>; one‐way ANOVA: F(2) = 39.39, <italic toggle="yes">p</italic> &lt; 0.0001, Tukey's HSD: CN vs MCI: <italic toggle="yes">p</italic> &lt; 0.0001, CN vs AD: <italic toggle="yes">p</italic> &lt; 0.0001, MCI vs AD: <italic toggle="yes">p</italic> &lt; 0.01). Additionally, performance on the digital cognitive battery was related to cognitive status, with CN individuals outperforming those with MCI, who in turn outperformed those with AD (Figure <xref rid="alz14154-fig-0001" ref-type="fig">1C</xref>; one‐way ANOVA: F(2) = 40.15, <italic toggle="yes">p</italic> &lt; 0.0001, Tukey's HSD: CN vs MCI: <italic toggle="yes">p</italic> &lt; 0.0001, CN vs AD: <italic toggle="yes">p</italic> &lt; 0.0001, MCI vs AD: <italic toggle="yes">p</italic> = 0.03).</p><fig position="float" fig-type="FIGURE" id="alz14154-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>AD pathologies and digital cognitive assessments differentiate by diagnosis. (A) Cortical Aβ is increased in MCI (yellow) and AD (red) compared to CN (blue) older adults. (B) EC tau SUVR is increased in MCI compared to CN and further increased in AD compared to MCI. (C) Performance on digital cognitive battery declines in MCI with further impairment in AD. Effect sizes for cortical Aβ (blue), EC tau (green), and performance on digital cognitive assessment (maroon) between (D) CN and MCI, (E) MCI and AD, and (F) CN and AD. (G) ROC curves show that AD pathologies and performance on digital cognitive assessment can each differentiate CN and MCI, but the digital cognitive assessment was reliably better than the other two measures. (H) ROC curves demonstrating that only the digital cognitive assessment and EC tau can differentiate MCI and AD. (I) Each measure reliably differentiates CN from AD.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-20-6881-g005.jpg"/></fig><p>Given that all measures could differentiate individuals based on cognitive tasks, we explored whether the degree of differences between groups varied when considering Aβ, tau, or cognitive performance. To assess this, we computed effect sizes for the differences categorized by cognitive status. We observed that cognitive performance and EC tau had roughly equivalent effect sizes for CN versus MCI and for MCI versus AD (Figure <xref rid="alz14154-fig-0001" ref-type="fig">1D</xref>) with cortical Aβ having a smaller effect size (CN vs MCI: cortical Aβ d = 0.37, confidence interval [CI] = [0.19 0.56], EC tau d = 0.72, CI = [0.53 0.90], digital cognitive battery d = 0.74, CI = [0.56 0.93]; MCI vs AD: cortical Aβ d = 0.66, CI = [−0.10 1.43], EC tau d = 0.89, CI = [0.13 1.66], digital cognitive battery d = 0.92, CI = [0.16 1.69]). Conversely, EC tau had the largest effect size for separating AD from CN (cortical Aβ d = 1.36, CI = [0.60 2.12], EC tau d = 2.64, CI = [1.86 3.41], digital cognitive battery d = 1.80, CI = [1.04 2.57]).</p><p>To better understand the sensitivity and specificity of these various markers, we next performed a set of logistic regression and ROC analyses using cortical Aβ, EC tau, and cognitive performance as variables to predict cognitive status (Figure <xref rid="alz14154-fig-0001" ref-type="fig">1G‐I</xref>). Our analysis confirmed that each of the three measures could effectively differentiate between CN and MCI (Figure <xref rid="alz14154-fig-0001" ref-type="fig">1G</xref>). However, performance on the digital cognitive battery reached a higher AUC compared to either Aβ or tau measures (cortical Aβ AUC = 0.55, <italic toggle="yes">p</italic> &lt; 0.0001, EC tau AUC = 0.65, <italic toggle="yes">p</italic> &lt; 0.0001, digital cognitive battery AUC = 0.70, <italic toggle="yes">p</italic> &lt; 0.0001).</p><p>We used a permutation test (1000 permutations) to determine whether any of these AUCs reliably differed. We found that performance on the digital cognitive battery and EC tau proved to be more predictive of diagnostic status than Aβ and performance on the digital cognitive battery was qualitatively better compared to tau, and this approached significance (digital cognitive battery vs cortical Aβ <italic toggle="yes">p</italic> &lt; 0.0001, EC tau vs cortical Aβ <italic toggle="yes">p</italic> &lt; 0.01, digital cognitive battery vs EC tau <italic toggle="yes">p</italic> = 0.07). Further, all three measures could differentiate CN versus AD (Figure <xref rid="alz14154-fig-0001" ref-type="fig">1I</xref>; cortical Aβ AUC = 0.66, <italic toggle="yes">p</italic> &lt; 0.001, EC tau AUC = 0.80, <italic toggle="yes">p</italic> &lt; 0.0001, digital cognitive battery AUC = 0.87, <italic toggle="yes">p</italic> &lt; 0.0001), with cognitive performance reaching a qualitatively higher AUC compared to both Aβ and tau, but a random permutation test (<italic toggle="yes">n</italic> = 1000) found no reliable differences between AUCs (all ps &gt; 0.15). Conversely, only EC tau and cognitive performance could reliably distinguish MCI and AD, with both measures reaching similar AUCs (Figure <xref rid="alz14154-fig-0001" ref-type="fig">1H</xref>; cortical Aβ AUC = 0.64, <italic toggle="yes">p</italic> = 0.10, EC tau AUC = 0.69, <italic toggle="yes">p</italic> = 0.04, digital cognitive battery AUC = 0.70, <italic toggle="yes">p</italic> = 0.02), with a random permutation test (<italic toggle="yes">n</italic> = 1000) finding no reliable differences between models (all ps &gt; 0.5). Thus, performance on the digital cognitive battery was at least as good as, and often reliably better than, amyloid and tau at differentiating individuals based on cognitive status.</p></sec><sec id="alz14154-sec-0150"><label>3.2</label><title>Deficits in mnemonic discrimination is the best predictor of MCI and AD</title><p>Given the high performance of the digital cognitive battery in detecting cognitive impairment, we next asked which cognitive domains were particularly informative by assessing performance on each of the four tasks separately. We found that performance on DET differed as a function of cognitive status with decreased psychomotor speed in MCI and AD compared to CN (Figure <xref rid="alz14154-fig-0002" ref-type="fig">2A</xref>). However, performance was not reliably different in individuals with AD compared to MCI (one‐way ANOVA: F(2) = 13.99, <italic toggle="yes">p</italic> &lt; 0.0001, Tukey's HSD: CN vs MCI: <italic toggle="yes">p</italic> &lt; 0.0001, CN vs AD: <italic toggle="yes">p</italic> &lt; 0.01, MCI vs AD: <italic toggle="yes">p</italic> = 0.14). Similarly, we found that visual attention, measured via IDN, was compromised in MCI and AD compared to CN, but there was no reliable difference on IDN between MCI and AD (Figure <xref rid="alz14154-fig-0002" ref-type="fig">2B</xref>; one‐way ANOVA: F(2) = 19.68, <italic toggle="yes">p</italic> &lt; 0.0001, Tukey's HSD: CN vs MCI: <italic toggle="yes">p</italic> &lt; 0.0001, CN vs AD: <italic toggle="yes">p</italic> &lt; 0.01, MCI vs AD: <italic toggle="yes">p</italic> = 0.21). Next, we found that performance on the OBT, which assesses working memory, declined in MCI and AD compared to CN, but was not reliably different between AD and MCI (Figure <xref rid="alz14154-fig-0002" ref-type="fig">2C</xref>; one‐way ANOVA: F(2) = 17.92, <italic toggle="yes">p</italic> &lt; 0.0001, Tukey's HSD: CN vs MCI: <italic toggle="yes">p</italic> &lt; 0.0001, CN vs AD: <italic toggle="yes">p</italic> &lt; 0.01, MCI vs AD: <italic toggle="yes">p</italic> = 0.21). Finally, we assessed whether OCL, which measures mnemonic discrimination, declined as a function of cognitive status. We observed that performance on OCL declined in MCI compared to CN, and this was exacerbated in AD (Figure <xref rid="alz14154-fig-0002" ref-type="fig">2D</xref>; one‐way ANOVA: F(2) = 40.65, <italic toggle="yes">p</italic> &lt; 0.0001, Tukey's HSD: CN vs MCI: <italic toggle="yes">p</italic> &lt; 0.0001, CN vs AD: <italic toggle="yes">p</italic> &lt; 0.0001, MCI vs AD: <italic toggle="yes">p</italic> = 0.048), indicating that only OCL was sensitive to the additional decline in AD.</p><fig position="float" fig-type="FIGURE" id="alz14154-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>OCL is superior to other tasks for differentiating individuals by diagnosis. Violin plots depicting performance differences on (A) DET, (B) IDN, (C) OBT, and (D) OCL tasks as a function of cognitive status. Individuals with MCI (yellow) or AD (red) are impaired on all four tasks compared to CN (blue) and individuals with AD are reliably worse on OCL compared to MCI. Effect sizes for IDN (light green), DET (light blue), OBT (orange) OCL (red) between (E) CN and MCI, (F) MCI and AD, and (G) CN and AD. (H) ROC curves show that each task can reliably differentiate CN and MCI with OCL performing reliably better than the other measures. (I) Only OCL performance can differentiate MCI and AD. (J) Performance on each task reliably differentiates CN from AD with OCL performance reaching the highest AUC.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-20-6881-g004.jpg"/></fig><p>These findings collectively imply that MCI and AD are associated with widespread cognitive deficits. However, OCL showed the greatest difference between individuals who were CN compared to those with MCI (Figure <xref rid="alz14154-fig-0002" ref-type="fig">2E</xref>) or AD (Figure <xref rid="alz14154-fig-0002" ref-type="fig">2G</xref>) based on the magnitude of effect sizes calculated for each cognitive task (CN vs MCI: DET d = 0.42, CI = [0.24 0.60], IDN d = 0.53, CI = [0.35 0.71], OBT d = 0.50, CI = [0.31 0.68], OCL d = 0.75, CI = [0.56 0.94], CN vs AD: DET d = 1.21, CI = [0.45 1.97], IDN d = 1.35, CI = [0.59 2.11], OBT d = 1.21, CI = [0.45 1.97], OCL d = 1.64, CI = [0.88 2.40]). However, OCL and DET were roughly equivalent in their effect sizes between MCI and AD (Figure <xref rid="alz14154-fig-0002" ref-type="fig">2F</xref>; DET d = 0.67, CI = [−0.09 1.43], IDN d = 0.52, CI = [−0.24 1.29], OBT d = 0.59, CI = [−0.17 1.35], OCL d = 0.95, CI = [0.19 1.72]).</p><p>To further investigate how well these tasks separate individuals based on cognitive status, we conducted separate logistic regressions using performance on each of the cognitive tasks to predict cognitive status. The results demonstrated that all tasks could differentiate CN from MCI, with OCL reaching the highest AUC (Figure <xref rid="alz14154-fig-0002" ref-type="fig">2H</xref>; DET<xref rid="alz14154-fig-0003" ref-type="fig"> </xref> AUC = 0.62, <italic toggle="yes">p</italic> &lt; 0.0001, IDN AUC = 0.63, <italic toggle="yes">p</italic> &lt; 0.0001, OBT AUC = 0.64, <italic toggle="yes">p</italic> &lt; 0.0001, OCL AUC = 0.71, <italic toggle="yes">p</italic> &lt; 0.0001). We next asked which cognitive task was the most predictive of MCI by conducting a random permutation test and found that OCL better predicted cognitive status compared to the other three tasks (OCL vs DET <italic toggle="yes">p</italic> &lt; 0.01, OCL vs IDN <italic toggle="yes">p</italic> = 0.01, OCL vs OBT <italic toggle="yes">p</italic> = 0.03). Further, the other tasks did not vary in their predictive power (all ps &gt; 0.28). This pattern held true when predicting CN versus AD, where again all tasks were effective (Figure <xref rid="alz14154-fig-0002" ref-type="fig">2J</xref>; DET AUC = 0.77, <italic toggle="yes">p</italic> &lt; 0.01, IDN AUC = 0.73, <italic toggle="yes">p</italic> &lt; 0.01, OBT AUC = 0.78, <italic toggle="yes">p</italic> &lt; 0.01, OCL AUC = 0.92, <italic toggle="yes">p</italic> &lt; 0.0001), and the models did not differ in their predictive value (all ps &gt; 0.15). However, when differentiating MCI from AD, only the OCL task showed reliable predictive capability, unlike the other tasks (Figure <xref rid="alz14154-fig-0002" ref-type="fig">2I</xref>; DET AUC = 0.67, <italic toggle="yes">p</italic> = 0.11, IDN AUC = 0.60, <italic toggle="yes">p</italic> = 0.21, OBT AUC = 0.67, <italic toggle="yes">p</italic> = 0.14, OCL AUC = 0.79, <italic toggle="yes">p</italic> &lt; 0.01). However, a random permutation test found no reliable differences between models (all ps &gt; 0.16). Given that OCL better differentiated CN and MCI compared to the other tasks, we compared the predictive capacity of OCL compared to Aβ and tau. A random permutation test (<italic toggle="yes">n</italic> = 1000) found that OCL was superior at differentiating CN and MCI compared to both cortical Aβ and EC tau (OCL vs cortical Aβ <italic toggle="yes">p</italic> &lt; 0.0001, OCL vs EC tau <italic toggle="yes">p</italic> = 0.049). This suggests that OCL, which taxes hippocampal pattern separation, is particularly vulnerable to MCI and AD.</p></sec><sec id="alz14154-sec-0160"><label>3.3</label><title>Deficits in mnemonic discrimination are the best predictor of progression to MCI, while all measures predict progression to AD</title><p>We next asked whether performance on the digital cognitive assessment could better predict conversion from CN to MCI compared to Aβ and tau. To explore this, we identified individuals who had a follow‐up visit 2 years after undergoing the digital cognitive assessment and Aβ and tau PET imaging. All individuals who had a study visit within 1 to 3 years of their digital cognitive assessment were included in this analysis. For individuals with multiple visits in this timeframe, we selected the visit closest to 2 years after the assessment. Individuals who were CN at baseline and remained CN 2 years later were called non‐converters (<italic toggle="yes">n</italic> = 219, age = 72.37 [7.09], 130F, 16.82 [2.31] years of education), while individuals who progressed to MCI within 2 years of baseline were called converters (<italic toggle="yes">n</italic> = 10, age = 72.00 [6.91], 3F, 16.10 [2.47] years of education). We next conducted logistic regressions using either baseline digital cognitive assessment scores, cortical Aβ, or EC tau to differentiate converters and non‐converters. We found that performance on the digital cognitive assessment predicted conversion over 2 years while Aβ and tau could not (Figure <xref rid="alz14154-fig-0003" ref-type="fig">3A</xref>; cortical Aβ AUC = 0.57, <italic toggle="yes">p</italic> = 0.08, EC tau AUC = 0.50, <italic toggle="yes">p</italic> = 0.24, digital cognitive battery AUC = 0.74, <italic toggle="yes">p</italic> = 0.01). A random permutation test demonstrated that the digital cognitive battery was superior to EC tau, with no reliable difference between the digital cognitive battery and cortical Aβ (digital cognitive battery vs EC tau <italic toggle="yes">p</italic> = 0.04, digital cognitive battery vs cortical Aβ <italic toggle="yes">p</italic> = 0.17, EC tau vs cortical Aβ <italic toggle="yes">p</italic> = 0.54).</p><fig position="float" fig-type="FIGURE" id="alz14154-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Predicting cognitive decline over 2 years. (A) ROC curves demonstrating that performance on the digital cognitive battery (maroon) reliably predicts future cognitive decline while cortical Aβ (blue) and EC tau (green) do not. (B) OCL performance reliably predicts future cognitive decline while IDN (light green), DET (light blue), and OBT (orange) do not. (C) OCL appears nearly twice as often in top third of models from a permutation analysis, suggesting that OCL performance is most influential in predicting future cognitive decline. (D) ROC curves demonstrate that cortical Aβ, EC tau, and the digital cognitive assessment could each predict conversion from MCI to AD. (E) None of the cognitive tasks could reliably predict conversion from MCI to AD. (F) A permutation analysis found that EC tau was the most common metric in the top third of models suggesting that this measure is important for predicting progression from MCI to AD.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-20-6881-g003.jpg"/></fig><p>To further assess whether the digital cognitive battery was superior to cortical Aβ and EC tau, we conducted a multiple logistic regression with all three measures predicting conversion status. The combined model was able to reliably predict conversion status (<italic toggle="yes">R</italic>
+<sup>2</sup> = 0.10, BIC = 95.55, <italic toggle="yes">p</italic> = 0.04), but performance on the digital cognitive battery was the only predictor that was statistically reliable after controlling for the other variables (digital cognitive battery z = ‐2.25, <italic toggle="yes">p</italic> = 0.03, EC tau z = 0.45, <italic toggle="yes">p</italic> = 0.66, cortical Aβ z = 1.15, <italic toggle="yes">p</italic> = 0.25). Further, we conducted a commonality analysis to identify which measure contributes the most to predicting conversion to MCI. We found that performance on the digital cognitive battery contributed the most to the model, explaining 56.2% of the variance. Conversely, cortical Aβ explained 18.7% and EC tau explained 1.5% of the variance (Table <xref rid="alz14154-tbl-0002" ref-type="table">2</xref>). These results suggest that the digital cognitive measures were superior to Cortical Aβ and EC tau in predicting short‐term conversion to MCI.</p><table-wrap position="float" id="alz14154-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Commonality analysis predicting conversion from cognitively normal to mild cognitive impairment.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><thead><tr><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">AD biomarkers versus digital biomarkers: cognitively normal to mild cognitive impairment</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">
+<bold>Measure</bold>
+</th><th align="left" rowspan="1" colspan="1">
+<bold>Coefficient</bold>
+</th><th align="left" rowspan="1" colspan="1">
+<bold>Percentage variance explained (%)</bold>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Cortical Aβ</td><td align="left" rowspan="1" colspan="1">0.00765</td><td align="char" rowspan="1" colspan="1">18.75</td></tr><tr><td align="left" rowspan="1" colspan="1">EC tau</td><td align="left" rowspan="1" colspan="1">0.00063</td><td align="char" rowspan="1" colspan="1">1.55</td></tr><tr><td align="left" rowspan="1" colspan="1">Digital cognitive battery</td><td align="left" rowspan="1" colspan="1">0.02295</td><td align="char" rowspan="1" colspan="1">56.25</td></tr><tr><td align="left" rowspan="1" colspan="1">Cortical Aβ and EC tau</td><td align="left" rowspan="1" colspan="1">0.00289</td><td align="char" rowspan="1" colspan="1">7.08</td></tr><tr><td align="left" rowspan="1" colspan="1">Cortical Aβ and digital cognitive battery</td><td align="left" rowspan="1" colspan="1">0.00330</td><td align="char" rowspan="1" colspan="1">8.09</td></tr><tr><td align="left" rowspan="1" colspan="1">EC tau and digital cognitive battery</td><td align="left" rowspan="1" colspan="1">0.00093</td><td align="char" rowspan="1" colspan="1">2.27</td></tr><tr><td align="left" rowspan="1" colspan="1">Cortical Aβ and EC tau and digital cognitive battery</td><td align="left" rowspan="1" colspan="1">0.00245</td><td align="char" rowspan="1" colspan="1">6.01</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">
+<bold>Digital cognitive tasks: cognitively normal to mild cognitive impairment</bold>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">
+<bold>Measure</bold>
+</th><th align="left" rowspan="1" colspan="1">
+<bold>Coefficient</bold>
+</th><th align="left" rowspan="1" colspan="1">
+<bold>Percentage variance explained (%)</bold>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">OCL</td><td align="char" rowspan="1" colspan="1">0.02195</td><td align="char" rowspan="1" colspan="1">54.34</td></tr><tr><td align="left" rowspan="1" colspan="1">OBT</td><td align="char" rowspan="1" colspan="1">0.00001</td><td align="char" rowspan="1" colspan="1">0.02</td></tr><tr><td align="left" rowspan="1" colspan="1">Identification</td><td align="char" rowspan="1" colspan="1">0.00214</td><td align="char" rowspan="1" colspan="1">5.30</td></tr><tr><td align="left" rowspan="1" colspan="1">Detection</td><td align="char" rowspan="1" colspan="1">0.00008</td><td align="char" rowspan="1" colspan="1">0.20</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and OBT</td><td align="char" rowspan="1" colspan="1">0.00003</td><td align="char" rowspan="1" colspan="1">0.08</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and Identification</td><td align="char" rowspan="1" colspan="1">0.00163</td><td align="char" rowspan="1" colspan="1">4.03</td></tr><tr><td align="left" rowspan="1" colspan="1">OBT and Identification</td><td align="char" rowspan="1" colspan="1">0.00082</td><td align="char" rowspan="1" colspan="1">2.04</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and Detection</td><td align="char" rowspan="1" colspan="1">0.00061</td><td align="char" rowspan="1" colspan="1">1.52</td></tr><tr><td align="left" rowspan="1" colspan="1">OBT and Detection</td><td align="char" rowspan="1" colspan="1">0.00001</td><td align="char" rowspan="1" colspan="1">0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Identification and Detection</td><td align="char" rowspan="1" colspan="1">0.00179</td><td align="char" rowspan="1" colspan="1">4.43</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and OBT and Identification</td><td align="char" rowspan="1" colspan="1">0.00190</td><td align="char" rowspan="1" colspan="1">4.71</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and OBT and Detection</td><td align="char" rowspan="1" colspan="1">−0.00003</td><td align="char" rowspan="1" colspan="1">−0.07</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and Identification and Detection</td><td align="char" rowspan="1" colspan="1">0.00355</td><td align="char" rowspan="1" colspan="1">8.80</td></tr><tr><td align="left" rowspan="1" colspan="1">OBT and Identification and Detection</td><td align="char" rowspan="1" colspan="1">0.00147</td><td align="char" rowspan="1" colspan="1">3.64</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and OBT and Identification and Detection</td><td align="char" rowspan="1" colspan="1">0.00442</td><td align="char" rowspan="1" colspan="1">10.95</td></tr></tbody></table><table-wrap-foot><fn id="alz14154-tbl2-note-0001"><p>Abbreviations: Aβ, amyloid beta; OBT, one‐back task; OCL, One Card Learning.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>To investigate which cognitive domains were the best indicators of conversion from CN to MCI, we conducted separate logistic regressions for each task. We found that only OCL could predict conversion to MCI over 2 years while the other tasks did not reliably predict converters (Figure <xref rid="alz14154-fig-0003" ref-type="fig">3B</xref>; Detection AUC = 0.64, <italic toggle="yes">p</italic> = 0.11, Identification AUC = 0.69, <italic toggle="yes">p</italic> = 0.06, OBT AUC = 0.63, <italic toggle="yes">p</italic> = 0.17, OCL AUC = 0.74, <italic toggle="yes">p</italic> &lt; 0.01). A random permutation test did not find any reliable differences between models (all ps &gt; 0.32). Notably, the predictive strength of OCL was comparable to the composite score of the entire digital cognitive battery.</p><p>In a post‐hoc analysis using a multiple logistic regression, we found that the overall model was modestly able to predict conversion status (<italic toggle="yes">R</italic>
+<sup>2</sup> = 0.11, Bayesian information criterion (BIC) = 100.25, <italic toggle="yes">p</italic> = 0.06). Within the model, OCL was the only statistically reliable predictor (OCL Z = −2.18, <italic toggle="yes">p</italic> = 0.03, OBT Z = 0.08, <italic toggle="yes">p</italic> = 0.94, DET Z = 0.29, <italic toggle="yes">p</italic> = 0.77, IDN Z = 0.42, <italic toggle="yes">p</italic> = 0.67), demonstrating that mnemonic discrimination was still a reliable predictor even when controlling for the other cognitive domains assessed. A commonality analysis found that OCL explained 54.3% of the variance, far more than any other task, with no other task explaining more than 5% of the variance. Importantly, only 11% of the variance was shared across all tasks, suggesting that while the tasks are somewhat related, they each individually contribute to assessing the risk of progressing from CN to MCI (Table <xref rid="alz14154-tbl-0002" ref-type="table">2</xref>). To further verify that OCL was the superior measure for predicting conversion to MCI, we performed a 6‐choose‐3 combinatorial analysis and quantified how often each measure occurred in the top third of resulting AUCs. We found that OCL appeared in all the top models and appeared nearly twice as much as any other measure (Figure <xref rid="alz14154-fig-0003" ref-type="fig">3C</xref>). These results collectively suggest that deficits in mnemonic discrimination are predictive of conversion to MCI.</p><p>We next investigated whether these measures could predict progression from MCI to AD over 2 years. To address this, we first identified individuals who were initially diagnosed with MCI and divided them into two groups: non‐converters, who remained stable with MCI (<italic toggle="yes">n</italic> = 113, age = 73.08 [8.36], 40F, 16.06 [2.69] years of education), and converters, who progressed to AD (<italic toggle="yes">n</italic> = 17, age = 74.82 [7.61], 8F, 16.76 [2.25] years of education). Employing logistic regressions for each measure, we found that EC tau, cortical Aβ, and the digital cognitive assessment were all effective predictors of progression (Figure <xref rid="alz14154-fig-0003" ref-type="fig">3D</xref>; cortical Aβ AUC = 0.76, <italic toggle="yes">p</italic> &lt; 0.01, EC tau AUC = 0.79, <italic toggle="yes">p</italic> &lt; 0.01, digital cognitive battery AUC = 0.68, <italic toggle="yes">p</italic> = 0.03). Further, we did not find any differences between the measures for predicting conversion to AD (all ps &gt; 0.28).</p><p>Interestingly, in a post hoc multiple logistic regression, we found that while the overall model was significant (<italic toggle="yes">R</italic>
+<sup>2</sup> = 0.17, BIC = 102.94, <italic toggle="yes">p</italic> &lt; 0.001), none of the measures could reliably predict conversion from MCI to AD (digital cognitive battery Z = −1.09, <italic toggle="yes">p</italic> = 0.28, cortical Aβ Z = 1.48, <italic toggle="yes">p</italic> = 0.14, EC tau Z = 2.53, <italic toggle="yes">p</italic> = 0.11). This suggests that the measures likely share variance and therefore are not individually significant after controlling for the other measures. To this end, we conducted a commonality analysis and found that nearly half the variance (49.18%) was shared between cortical Aβ and EC tau and 12.18% of the variance was explained by EC tau alone. Conversely, cortical Aβ and the digital cognitive battery each explained less than 10% of the variance (Table <xref rid="alz14154-tbl-0003" ref-type="table">3</xref>).</p><table-wrap position="float" id="alz14154-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Commonality analysis predicting conversion from mild cognitive impairment to Alzheimer's disease.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">AD biomarkers versus digital biomarkers: mild cognitive impairment to Alzheimer's disease</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">
+<bold>Measure</bold>
+</th><th align="left" rowspan="1" colspan="1">
+<bold>Coefficient</bold>
+</th><th align="left" rowspan="1" colspan="1">
+<bold>Percentage variance explained (%)</bold>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Cortical Aβ</td><td align="char" rowspan="1" colspan="1">0.01313</td><td align="char" rowspan="1" colspan="1">9.04</td></tr><tr><td align="left" rowspan="1" colspan="1">EC tau</td><td align="char" rowspan="1" colspan="1">0.02456</td><td align="char" rowspan="1" colspan="1">16.90</td></tr><tr><td align="left" rowspan="1" colspan="1">Digital cognitive battery</td><td align="char" rowspan="1" colspan="1">0.01164</td><td align="char" rowspan="1" colspan="1">8.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Cortical amyloid and EC tau</td><td align="char" rowspan="1" colspan="1">0.07165</td><td align="char" rowspan="1" colspan="1">49.31</td></tr><tr><td align="left" rowspan="1" colspan="1">Cortical Aβ and digital cognitive battery</td><td align="char" rowspan="1" colspan="1">0.00157</td><td align="char" rowspan="1" colspan="1">1.08</td></tr><tr><td align="left" rowspan="1" colspan="1">EC tau and digital cognitive battery</td><td align="char" rowspan="1" colspan="1">0.00506</td><td align="char" rowspan="1" colspan="1">3.48</td></tr><tr><td align="left" rowspan="1" colspan="1">Cortical Aβ and EC tau and digital cognitive battery</td><td align="char" rowspan="1" colspan="1">0.01770</td><td align="char" rowspan="1" colspan="1">12.18</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">
+<bold>Digital Cognitive tasks: mild cognitive impairment to Alzheimer's disease</bold>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">
+<bold>Measure</bold>
+</th><th align="left" rowspan="1" colspan="1">
+<bold>Coefficient</bold>
+</th><th align="left" rowspan="1" colspan="1">
+<bold>Percentage variance explained (%)</bold>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">OCL</td><td align="char" rowspan="1" colspan="1">0.01662</td><td align="char" rowspan="1" colspan="1">39.30</td></tr><tr><td align="left" rowspan="1" colspan="1">OBT</td><td align="char" rowspan="1" colspan="1">0.00279</td><td align="char" rowspan="1" colspan="1">6.59</td></tr><tr><td align="left" rowspan="1" colspan="1">Identification</td><td align="char" rowspan="1" colspan="1">0.00259</td><td align="char" rowspan="1" colspan="1">6.12</td></tr><tr><td align="left" rowspan="1" colspan="1">Detection</td><td align="char" rowspan="1" colspan="1">0.00067</td><td align="char" rowspan="1" colspan="1">1.59</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and OBT</td><td align="char" rowspan="1" colspan="1">0.00220</td><td align="char" rowspan="1" colspan="1">5.20</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and Identification</td><td align="char" rowspan="1" colspan="1">−0.00091</td><td align="char" rowspan="1" colspan="1">−2.15</td></tr><tr><td align="left" rowspan="1" colspan="1">OBT and Identification</td><td align="char" rowspan="1" colspan="1">0.00371</td><td align="char" rowspan="1" colspan="1">8.77</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and Detection</td><td align="char" rowspan="1" colspan="1">−0.00001</td><td align="char" rowspan="1" colspan="1">‐0.03</td></tr><tr><td align="left" rowspan="1" colspan="1">OBT and Detection</td><td align="char" rowspan="1" colspan="1">0.00050</td><td align="char" rowspan="1" colspan="1">1.19</td></tr><tr><td align="left" rowspan="1" colspan="1">Identification and Detection</td><td align="char" rowspan="1" colspan="1">0.00361</td><td align="char" rowspan="1" colspan="1">8.55</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and OBT and Identification</td><td align="char" rowspan="1" colspan="1">0.00036</td><td align="char" rowspan="1" colspan="1">0.86</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and OBT and Detection</td><td align="char" rowspan="1" colspan="1">0.00019</td><td align="char" rowspan="1" colspan="1">0.46</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and Identification and Detection</td><td align="char" rowspan="1" colspan="1">−0.00083</td><td align="char" rowspan="1" colspan="1">−1.97</td></tr><tr><td align="left" rowspan="1" colspan="1">OBT and Identification and Detection</td><td align="char" rowspan="1" colspan="1">0.01011</td><td align="char" rowspan="1" colspan="1">23.91</td></tr><tr><td align="left" rowspan="1" colspan="1">OCL and OBT and Identification and Detection</td><td align="char" rowspan="1" colspan="1">0.00068</td><td align="char" rowspan="1" colspan="1">1.61</td></tr></tbody></table><table-wrap-foot><fn id="alz14154-tbl3-note-0001"><p>Abbreviations: Aβ, amyloid beta; OBT, one‐back task; OCL, One Card Learning</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>We next asked which cognitive domains predicted conversion from MCI to AD. We conducted separate logistic regressions and found that none of the cognitive tasks could predict progression from MCI to AD (Figure <xref rid="alz14154-fig-0003" ref-type="fig">3E</xref>; DET AUC = 0.63, <italic toggle="yes">p</italic> = 0.18, IDN AUC = 0.65, <italic toggle="yes">p</italic> = 0.13, OBT AUC = 0.66, <italic toggle="yes">p</italic> = 0.10, OCL AUC = 0.66, <italic toggle="yes">p</italic> = 0.11). These measures also did not statistically differ in predicting conversion status (all ps &gt; 0.70). A post hoc multiple logistic regression was not able to differentiate converters and non‐converters (<italic toggle="yes">R</italic>
+<sup>2</sup> = 0.06, BIC = 119.36, <italic toggle="yes">p</italic> = 0.21), and none of the individual metrics were able to reliably predict converters (all ps &gt; 0.12). In a commonality analysis, 39.20% of the variance was unique to OCL, with no more than 6% of the variance being unique to any of the other tasks (Table <xref rid="alz14154-tbl-0003" ref-type="table">3</xref>). When conducting a 6‐choose‐3 combinatorial analysis with all the measures, we observed that EC tau was the most represented in the top third of models, with OCL as a distant second (Figure <xref rid="alz14154-fig-0003" ref-type="fig">3F</xref>). This underscores that while multiple measures predict progression to AD, EC tau may be particularly indicative of future decline.</p><p>In a subset of individuals, we investigated whether OCL performance could predict converters as well as standard neuropsychological tasks. For predicting those who transitioned from CN to MCI, we found that OCL performance did as well as performance on the RAVLT, a gold‐standard episodic memory task that also taxes mnemonic discrimination. Further, OCL did qualitatively better than the trail‐making task (difference in seconds between trails A and B) and the clock drawing task (Figure <xref rid="alz14154-supitem-0001" ref-type="supplementary-material">S1A</xref>; clock‐drawing AUC = 0.64, <italic toggle="yes">p</italic> = 0.24, trail‐making AUC = 0.67, <italic toggle="yes">p</italic> = 0.01, RAVLT AUC = 0.75, <italic toggle="yes">p</italic> = 0.02, OCL AUC = 0.76, <italic toggle="yes">p</italic> &lt; 0.01). For predicting those who progressed from MCI to AD, we found the OCL performance did as well as RAVLT performance and performance on both trail making and clock drawing were not reliable predictors (Figure <xref rid="alz14154-supitem-0001" ref-type="supplementary-material">S1B</xref>; clock‐drawing AUC = 0.61, <italic toggle="yes">p</italic> = 0.26, trail‐making AUC = 0.67, <italic toggle="yes">p</italic> = 0.44, RAVLT AUC = 0.76, <italic toggle="yes">p</italic> &lt; 0.01, OCL AUC = 0.70, <italic toggle="yes">p</italic> = 0.04).</p></sec><sec id="alz14154-sec-0170"><label>3.4</label><title>Mnemonic discrimination deficits predict future impairment on MMSE in CN older adults</title><p>Given that OCL was the most important measure for predicting conversion to MCI, we next asked whether performance on this task predicted cognitive changes in CN older adults. To assess this, we asked whether OCL performance, EC tau, or cortical Aβ predicted decline on the MMSE, a standard task used to quantify global cognitive ability. We calculated MMSE APC as the difference between the most recent MMSE score and the MMSE score at baseline divided by the difference in years. We found that baseline cortical Aβ and EC tau were not associated with longitudinal change on the MMSE (Figure <xref rid="alz14154-fig-0004" ref-type="fig">4A</xref>; cortical Aβ: <italic toggle="yes">r<sub>p</sub>
+</italic> = −0.07. <italic toggle="yes">p</italic> = 0.30, Figure <xref rid="alz14154-fig-0004" ref-type="fig">4B</xref>; EC tau: <italic toggle="yes">r<sub>p</sub>
+</italic> = 0.02, <italic toggle="yes">p</italic> = 0.76). Conversely, we found a reliable positive association between baseline OCL performance and MMSE APC (Figure <xref rid="alz14154-fig-0004" ref-type="fig">4C</xref>; <italic toggle="yes">r<sub>p</sub>
+</italic> = 0.25, <italic toggle="yes">p</italic> &lt; 0.0001), suggesting that impairments on OCL were related to longitudinal cognitive decline. Further, we found that there was no relationship between baseline MMSE and longitudinal changes in cortical Aβ, EC tau, or OCL performance (Figure <xref rid="alz14154-fig-0004" ref-type="fig">4D</xref>; cortical Aβ: <italic toggle="yes">r<sub>p</sub>
+</italic> = 0.08, <italic toggle="yes">p</italic> = 0.22, Figure <xref rid="alz14154-fig-0004" ref-type="fig">4E</xref>; EC tau: <italic toggle="yes">r<sub>p</sub>
+</italic> = −0.06, <italic toggle="yes">p</italic> = 0.44, Figure <xref rid="alz14154-fig-0004" ref-type="fig">4F</xref>; OCL: <italic toggle="yes">r<sub>p</sub>
+</italic> = 0.06, <italic toggle="yes">p</italic> = 0.34). This suggests that OCL performance predicts future cognitive decline in CN older adults.</p><fig position="float" fig-type="FIGURE" id="alz14154-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Only OCL performance predicts cognitive decline in CN older adults. No relationship was observed between baseline (A) cortical Aβ or (B) EC tau and longitudinal change on MMSE. (C) Positive correlation with OCL performance and annual change on MMSE suggesting that lower OCL performance is associated with longitudinal decline on MMSE. No relationship was established between baseline MMSE and longitudinal change in (D) cortical Aβ (E) EC tau or (F) OCL performance.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ALZ-20-6881-g002.jpg"/></fig></sec><sec id="alz14154-sec-0180"><label>3.5</label><title>Mnemonic discrimination performance predicts future tau accumulation in entorhinal cortex and inferior temporal cortex</title><p>Given the significance of OCL performance as an indicator of future cognitive decline, we proceeded to explore whether performance could serve as a predictor of future tau accumulation in EC and Inferior Temporal (IT) cortex. To do this, we correlated baseline performance on the OCL task with tau SUVR APC in Aβ− and Aβ+ individuals. Our findings revealed a significant negative correlation between baseline OCL performance and EC tau accumulation among Aβ+ but not Aβ− CN older adults (Figure <xref rid="alz14154-fig-0005" ref-type="fig">5A</xref>; Aβ+: <italic toggle="yes">r<sub>p</sub>
+</italic> = −0.26, <italic toggle="yes">p</italic> = 0.03, Aβ−: <italic toggle="yes">r<sub>p</sub>
+</italic> = −0.06, <italic toggle="yes">p</italic> = 0.55). Conversely, there was no association between baseline OCL and EC tau SUVR APC in subjects with MCI, regardless of Aβ status (Figure <xref rid="alz14154-fig-0005" ref-type="fig">5B</xref>; Aβ+: <italic toggle="yes">r<sub>p</sub>
+</italic> = −0.04, <italic toggle="yes">p</italic> = 0.82, Aβ−: <italic toggle="yes">r<sub>p</sub>
+</italic> = 0.17, <italic toggle="yes">p</italic> = 0.33). When investigating whether OCL related to future tau deposition in IT cortex, we found a modest relationship between baseline OCL and IT tau SUVR APC in Aβ+, but not Aβ− CN individuals (Figure <xref rid="alz14154-fig-0005" ref-type="fig">5C</xref>; Aβ+: <italic toggle="yes">r<sub>p</sub>
+</italic> = −0.23, <italic toggle="yes">p</italic> = 0.07, Aβ−: <italic toggle="yes">r<sub>p</sub>
+</italic> = −0.03, <italic toggle="yes">p</italic> = 0.76). However, we did observe a significant negative association between OCL performance and IT tau SUVR APC in Aβ+ subjects with MCI, but not Aβ− MCI individuals (Figure <xref rid="alz14154-fig-0005" ref-type="fig">5D</xref>; Aβ+: <italic toggle="yes">r<sub>p</sub>
+</italic> = −0.43, <italic toggle="yes">p</italic> = 0.01, Aβ−: <italic toggle="yes">r<sub>p</sub>
+</italic> = 0.19, <italic toggle="yes">p</italic> = 0.30).</p><fig position="float" fig-type="FIGURE" id="alz14154-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>OCL is related to future tau accumulation. (A) Lower OCL performance is associated with future EC tau in Aβ+ (red), but not Aβ− (blue) CN older adults. (B) No reliable relationship was observed between OCL performance and EC tau regardless of Aβ status in MCI. (C) No reliable correlation was observed between baseline OCL and IT tau accumulation in either Aβ+ or Aβ− CN older adults. (D) Lower baseline OCL performance is associated with increased future IT tau accumulation in Aβ+ but not Aβ− (red) MCI older adults.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ALZ-20-6881-g001.jpg"/></fig></sec></sec><sec id="alz14154-sec-0190"><label>4</label><title>DISCUSSION</title><p>There is a critical need for the development and validation of low‐burden biomarkers that identify individuals at high risk of future cognitive decline. While great strides have been made with biofluid and imaging biomarkers, less work has identified cognitive biomarkers that predict future cognitive decline. Here we used the CBB as a testbed to demonstrate that digital cognitive assessments can predict future cognitive decline. We found that the digital cognitive battery identified individuals with MCI and predicted future cognitive decline at a higher proficiency compared to Aβ and tau levels. Further, mnemonic discrimination deficits were most predictive of future cognitive decline and are also related to future tau accumulation in Aβ+ older adults. This work highlights the value of digital cognitive biomarkers for identifying those at high risk of AD.</p><sec id="alz14154-sec-0200"><label>4.1</label><title>Utility of digital cognitive batteries in identifying individuals with cognitive decline</title><p>Prior work demonstrated the ability of digital cognitive batteries to identify individuals with cognitive impairment.<xref rid="alz14154-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz14154-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Specifically, the CBB can accurately distinguish between CN and MCI states at high proficiency, with each of the four tasks differentiating between unimpaired and impaired older adults.<xref rid="alz14154-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> We replicated this in a different cohort demonstrating that all tasks can distinguish between CN and MCI. In addition, other cognitive batteries have shown promise in distinguishing between CN and MCI at high proficiency.<xref rid="alz14154-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz14154-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Specifically, a battery including multiple mnemonic discrimination tasks could identify those with increased AD biomarkers and was informative of future cognitive decline.<xref rid="alz14154-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> However, less has been done to assess how digital cognitive assessments compare to Aβ and tau pathology in distinguishing CN and MCI. We demonstrated that the digital cognitive battery was superior to both cortical Aβ and EC tau in differentiating CN from MCI, reaffirming the benefits of digital cognitive batteries. While our work suggests that digital cognitive assessments can accurately predict diagnosis, future work is needed to understand whether these assessments can aid the diagnosis process in the clinical setting.</p><p>Identifying individuals at high risk of future cognitive decline can increase the therapeutic window for currently approved therapies and can aid in clinical trial recruitment. Prior work found that Aβ and tau pathologies were predictive of future cognitive decline.<xref rid="alz14154-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> However, the lack of specificity and sensitivity of these AD biomarkers suggests that other biomarkers are also needed. We demonstrated that digital cognitive biomarkers were superior to Aβ and tau in predicting future cognitive decline. However, one limitation is the relatively short (2 years) follow‐up time between the battery and future diagnosis, resulting in a limited number of individuals who converted. The digital cognitive battery was added to ADNI recently, precluding longer follow‐up visits, but future work will need to address how early deficits emerge on digital cognitive assessments in preclinical AD.</p></sec><sec id="alz14154-sec-0210"><label>4.2</label><title>All biomarkers were predictive of progression to dementia</title><p>The digital cognitive battery was superior to Aβ and tau for predicting progression to MCI, but we did not see the same pattern in individuals progressing from MCI to AD. In these individuals, performance on the digital cognitive assessment did predict progression, but entorhinal tau was more indicative of future decline. This aligns with prior work suggesting that tau accumulation is most rapid during MCI and relates to neurodegeneration and cognitive decline in MCI.<xref rid="alz14154-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="alz14154-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> Importantly, in a commonality analysis, we found that nearly half of the variance was shared by cortical Aβ and entorhinal tau, which suggests that these pathologies are critical for progression to dementia. However, these biomarkers were not reliably better than the digital cognitive assessments at differentiating MCI from AD or predicting conversion to AD. Together, these results indicate that cognitive changes are often superior to AD biomarkers for predicting progression to MCI, but once individuals exhibit overt cognitive impairment, AD pathologies and digital assessments are both able to predict progression to dementia.</p></sec><sec id="alz14154-sec-0220"><label>4.3</label><title>Selective vulnerability of mnemonic discrimination in AD</title><p>The digital cognitive battery included tasks across multiple domains that tap into different neural circuits, so we asked whether one task was superior to the others in differentiating cognitive impairment and predicting future decline. We found that performance on the OCL task was most informative of cognitive status, reaching higher AUCs compared to the other tasks. Of note, MCI and AD were diagnosed cognitively, so it is not completely unsurprising that OCL performance decreased in MCI and AD. Critically, however, we compared this with other cognitive domains and Aβ and tau. Further, performance on the digital unsupervised tasks was not used in the diagnosis of MCI or AD. Rather, a comprehensive in‐person gold‐standard neuropsychological testing session was used for diagnosis. The OCL task requires individuals to remember details of playing cards despite accumulating interference hindering one from accurately identifying cards later in the task while rejecting similar playing cards; therefore, prima facie, it taxes hippocampal pattern separation. This design is similar to common mnemonic discrimination tasks, such as the MST, which require individuals to remember the details of everyday objects in order to identify these objects later in the task and reject similar, but not identical, lures. Both these tasks are designed based on the complementary learning systems framework, where it is proposed that the hippocampus uses pattern separation to rapidly learn details.<xref rid="alz14154-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> However, future work will need to investigate whether OCL deficits correlate with deficits on common mnemonic discrimination tasks such as the MST and whether OCL performance is impaired in individuals with compromised hippocampal integrity. Therefore, our work suggests that deficits in mnemonic discrimination were able to reliably predict impairment across the entire neuropsychological battery and at a higher proficiency than the other cognitive domains and AD biomarkers. Further, we demonstrate that OCL performance reliably predicted progression to MCI over 2 years even when controlling for performance on the other tasks. Additionally, when comparing OCL performance to performance on standard neuropsychological assessments, we found that this task did as well as RAVLT performance and was qualitatively better than the clock‐drawing and trail‐making tasks in identifying converters. The RAVLT is a gold‐standard episodic memory task that taxes mnemonic discrimination by not only leveraging a traditional list‐learning paradigm (requiring quickly learning the association between the items and the context of being on the study list) but also leveraging the need to overcome interference. However, this task is administered by a trained psychometrist in a clinic. Therefore, not only was OCL task performance capable of predicting those at risk for future cognitive decline, but it could also match the ability of traditional in‐person assessments.</p><p>We hypothesize that hippocampal pattern separation, which reduces interference between similar representations, is particularly vulnerable to AD pathology.<xref rid="alz14154-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="alz14154-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Indeed, performance on tasks that tax hippocampal pattern separation, such as the MST, declines in MCI and preclinical AD.<xref rid="alz14154-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz14154-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="alz14154-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="alz14154-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> This is likely because the hippocampus is one of the earliest areas affected (both directly and indirectly) by AD pathologies.<xref rid="alz14154-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Specifically, previous work identified age and AD‐related changes in this circuit, such as perforant path degradation and CA3 hyperexcitability.<xref rid="alz14154-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="alz14154-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="alz14154-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="alz14154-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> However, these pathologies have not been directly linked to performance on the OCL task. Future work needs to investigate whether the same hippocampal pathologies give rise to impairments on the OCL task.</p></sec><sec id="alz14154-sec-0230"><label>4.4</label><title>Hippocampal hyperexcitability as a predictor of future tau</title><p>Recent work has suggested that increasing tau deposition is a critical predictor of future cognitive decline.<xref rid="alz14154-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>, <xref rid="alz14154-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> Specifically, it has been proposed that amyloid deposition is not pathological without tau tangles; however, amyloid can drive accumulation of tau.<xref rid="alz14154-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="alz14154-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="alz14154-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="alz14154-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> While the mechanism by which this happens is not fully understood, it has been suggested that hippocampal hyperexcitability may be the mediating factor.<xref rid="alz14154-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>, <xref rid="alz14154-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> Increased hippocampal activity is negatively associated with performance on mnemonic discrimination tasks, and pharmacologically reducing this hyperexcitability increases performance.<xref rid="alz14154-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="alz14154-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Therefore, we propose that tasks that tax hippocampal pattern separation could serve as an indirect proxy for hippocampal dysfunction and, in particular, hippocampal hyperactivity. This would suggest that performance on the OCL may be predictive of future tau accumulation. We found a negative relationship between OCL performance and future EC tau accumulation in Aβ+ CN older adults. Conversely, we found that OCL was related to future IT tau accumulation in Aβ+ MCI individuals. Some research has revealed that this aligns with prior work finding that hippocampal hyperactivity was related to future tau accumulation in both regions,<xref rid="alz14154-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> but tau accumulates in EC prior to IT.<xref rid="alz14154-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz14154-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Further, the finding that this is selective to Aβ+ individuals aligns with work finding that Aβ potentiates tau accumulation. While promising, future work will be needed to understand the direct connection between OCL performance and hippocampal hyperexcitability.</p></sec></sec><sec id="alz14154-sec-0240"><label>5</label><title>CONCLUSION</title><p>In this study, we asked whether digital cognitive assessments could serve as low‐burden biomarkers in AD. We demonstrated that performance on these assessments exceeded Aβ and entorhinal tau in distinguishing between CN and MCI and predicting progression to MCI. Further, we demonstrated that deficits in mnemonic discrimination, which relies on hippocampal pattern separation, were informative of future cognitive decline and tau deposition. Our work suggests that digital cognitive assessments are important tools for predicting cognitive decline, and these assessments should include tasks that tax hippocampal pattern separation.</p></sec><sec sec-type="COI-statement" id="alz14154-sec-0260"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflicts of interest. Author disclosures are available in the <xref rid="alz14154-supitem-0002" ref-type="supplementary-material">supporting information</xref>.</p></sec><sec id="alz14154-sec-0270"><title>CONSENT STATEMENT</title><p>All human subjects provided informed consent.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz14154-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-6881-s002.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz14154-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-20-6881-s001.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz14154-sec-0250"><title>ACKNOWLEDGMENTS</title><p>Data collection and sharing for this project was funded by the Alzheimer's Disease Neuroimaging Initiative (ADNI) (National Institutes of Health Grant U01 AG024904, R01AG066683 and P30AG066519) and DOD ADNI (Department of Defense Award W81XWH‐12‐2‐0012). ADNI is funded by the National Institute on Aging, the National Institute of Biomedical Imaging and Bioengineering, and through generous contributions from the following: AbbVie, Alzheimer's Association; Alzheimer's Drug Discovery Foundation; Araclon Biotech; BioClinica, Inc.; Biogen; Bristol‐Myers Squibb Company; CereSpir, Inc.; Cogstate; Eisai Inc.; Elan Pharmaceuticals, Inc.; Eli Lilly and Company; EuroImmun; F. Hoffmann‐La Roche Ltd and its affiliated company Genentech, Inc.; Fujirebio; GE Healthcare; IXICO Ltd.;Janssen Alzheimer Immunotherapy Research &amp; Development, LLC.; Johnson &amp; Johnson Pharmaceutical Research &amp; Development LLC.; Lumosity; Lundbeck; Merck &amp; Co., Inc.; Meso Scale Diagnostics, LLC.; NeuroRx Research; Neurotrack Technologies; Novartis Pharmaceuticals Corporation; Pfizer Inc.; Piramal Imaging; Servier; Takeda Pharmaceutical Company; and Transition Therapeutics. The Canadian Institutes of Health Research provides funds to support ADNI clinical sites in Canada. Private sector contributions are facilitated by the Foundation for the National Institutes of Health (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.fnih.org" ext-link-type="uri">www.fnih.org</ext-link>). The grantee organization is the Northern California Institute for Research and Education, and the study is coordinated by the Alzheimer's Therapeutic Research Institute at the University of Southern California. ADNI data are disseminated by the Laboratory for Neuro Imaging at the University of Southern California. This research was funded in part by R01 AG066683 (CS) and P30 AG066519 (CS).</p></ack><ref-list id="alz14154-bibl-0001"><title>REFERENCES</title><ref id="alz14154-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz14154-cit-0001">
+<string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bennett</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>NIA‐AA Research Framework: toward a biological definition of Alzheimer's disease</article-title>. <source>Alzheimers Dement J Alzheimers Assoc</source>. <year>2018</year>;<volume>14</volume>(<issue>4</issue>):<fpage>535</fpage>‐<lpage>562</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2018.02.018</pub-id>
+<pub-id pub-id-type="pmcid">PMC5958625</pub-id><pub-id pub-id-type="pmid">29653606</pub-id></mixed-citation></ref><ref id="alz14154-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz14154-cit-0002">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hendrix</surname>
+<given-names>RD</given-names>
+</string-name>, et al. <article-title>Timing of biomarker changes in sporadic Alzheimer's disease in estimated years from symptom onset</article-title>. <source>Ann Neurol</source>. 2024; 95(5):951‐965. doi:<pub-id pub-id-type="doi">10.1002/ana.26891</pub-id>
+<pub-id pub-id-type="pmcid">PMC11060905</pub-id><pub-id pub-id-type="pmid">38400792</pub-id></mixed-citation></ref><ref id="alz14154-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz14154-cit-0003">
+<string-name name-style="western">
+<surname>Sperling</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aisen</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beckett</surname>
+<given-names>LA</given-names>
+</string-name>, et al. <article-title>Toward defining the preclinical stages of Alzheimer's disease: recommendations from the National Institute on Aging‐Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2011</year>;<volume>7</volume>(<issue>3</issue>):<fpage>280</fpage>‐<lpage>292</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2011.03.003</pub-id>
+<pub-id pub-id-type="pmid">21514248</pub-id>
+<pub-id pub-id-type="pmcid">PMC3220946</pub-id></mixed-citation></ref><ref id="alz14154-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz14154-cit-0004">
+<string-name name-style="western">
+<surname>Donohue</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sperling</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salmon</surname>
+<given-names>DP</given-names>
+</string-name>, et al. <article-title>The preclinical Alzheimer cognitive composite: measuring amyloid‐related decline</article-title>. <source>JAMA Neurol</source>. <year>2014</year>;<volume>71</volume>(<issue>8</issue>):<fpage>961</fpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2014.803</pub-id>
+<pub-id pub-id-type="pmid">24886908</pub-id>
+<pub-id pub-id-type="pmcid">PMC4439182</pub-id></mixed-citation></ref><ref id="alz14154-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz14154-cit-0005">
+<string-name name-style="western">
+<surname>Mormino</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Papp</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rentz</surname>
+<given-names>DM</given-names>
+</string-name>, et al. <article-title>Early and late change on the preclinical Alzheimer's cognitive composite in clinically normal older individuals with elevated amyloid β</article-title>. <source>Alzheimers Dement</source>. <year>2017</year>;<volume>13</volume>(<issue>9</issue>):<fpage>1004</fpage>‐<lpage>1012</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2017.01.018</pub-id>
+<pub-id pub-id-type="pmid">28253478</pub-id>
+<pub-id pub-id-type="pmcid">PMC5573651</pub-id></mixed-citation></ref><ref id="alz14154-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz14154-cit-0006">
+<string-name name-style="western">
+<surname>Hanseeuw</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Betensky</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jacobs</surname>
+<given-names>HIL</given-names>
+</string-name>, et al. <article-title>Association of amyloid and tau with cognition in preclinical Alzheimer disease: a longitudinal study</article-title>. <source>JAMA Neurol</source>. <year>2019</year>;<volume>76</volume>(<issue>8</issue>):<fpage>915</fpage>. doi:<pub-id pub-id-type="doi">10.1001/jamaneurol.2019.1424</pub-id>
+<pub-id pub-id-type="pmid">31157827</pub-id>
+<pub-id pub-id-type="pmcid">PMC6547132</pub-id></mixed-citation></ref><ref id="alz14154-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz14154-cit-0007">
+<string-name name-style="western">
+<surname>Alden</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pudumjee</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lundt</surname>
+<given-names>ES</given-names>
+</string-name>, et al. <article-title>Diagnostic accuracy of the Cogstate Brief Battery for prevalent MCI and prodromal AD (MCI A <sup>+</sup> T <sup>+</sup>) in a population‐based sample</article-title>. <source>Alzheimers Dement</source>. <year>2021</year>;<volume>17</volume>(<issue>4</issue>):<fpage>584</fpage>‐<lpage>594</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12219</pub-id>
+<pub-id pub-id-type="pmid">33650308</pub-id>
+<pub-id pub-id-type="pmcid">PMC8371696</pub-id></mixed-citation></ref><ref id="alz14154-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz14154-cit-0008">
+<string-name name-style="western">
+<surname>Öhman</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hassenstab</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berron</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schöll</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Papp</surname>
+<given-names>KV</given-names>
+</string-name>. <article-title>Current advances in digital cognitive assessment for preclinical Alzheimer's disease</article-title>. <source>Alzheimer's Dement Diagn Assess Dis Monit</source>. <year>2021</year>;<volume>13</volume>(<issue>1</issue>):<elocation-id>e12217</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/dad2.12217</pub-id>
+<pub-id pub-id-type="pmcid">PMC8290833</pub-id><pub-id pub-id-type="pmid">34295959</pub-id></mixed-citation></ref><ref id="alz14154-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz14154-cit-0009">
+<string-name name-style="western">
+<surname>Berron</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glanz</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clark</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>A remote digital memory composite to detect cognitive impairment in memory clinic samples in unsupervised settings using mobile devices</article-title>. <source>Npj Digit Med</source>. <year>2024</year>;<volume>7</volume>(<issue>1</issue>):<fpage>79</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41746-024-00999-9</pub-id>
+<pub-id pub-id-type="pmid">38532080</pub-id>
+<pub-id pub-id-type="pmcid">PMC10965892</pub-id></mixed-citation></ref><ref id="alz14154-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz14154-cit-0010">
+<string-name name-style="western">
+<surname>Papp</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rentz</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maruff</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>The computerized cognitive composite (C3) in A4, an Alzheimer's disease secondary prevention trial</article-title>. <source>J Prev Alzheimers Dis</source>. <year>2020</year>:8: <fpage>1</fpage>‐<lpage>9</lpage>. doi:<pub-id pub-id-type="doi">10.14283/jpad.2020.38</pub-id>. Published online.<pub-id pub-id-type="pmcid">PMC7755110</pub-id><pub-id pub-id-type="pmid">33336226</pub-id></mixed-citation></ref><ref id="alz14154-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz14154-cit-0011">
+<string-name name-style="western">
+<surname>Jutten</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rentz</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fu</surname>
+<given-names>JF</given-names>
+</string-name>, et al. <article-title>Monthly at‐home computerized cognitive testing to detect diminished practice effects in preclinical Alzheimer's disease</article-title>. <source>Front Aging Neurosci</source>. <year>2022</year>;<volume>13</volume>:<elocation-id>800126</elocation-id>. doi:<pub-id pub-id-type="doi">10.3389/fnagi.2021.800126</pub-id>
+<pub-id pub-id-type="pmid">35095476</pub-id>
+<pub-id pub-id-type="pmcid">PMC8792465</pub-id></mixed-citation></ref><ref id="alz14154-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz14154-cit-0012">
+<string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eppig</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Edmonds</surname>
+<given-names>EC</given-names>
+</string-name>, et al. <article-title>Word‐list intrusion errors predict progression to mild cognitive impairment</article-title>. <source>Neuropsychology</source>. <year>2018</year>;<volume>32</volume>(<issue>2</issue>):<fpage>235</fpage>‐<lpage>245</lpage>. doi:<pub-id pub-id-type="doi">10.1037/neu0000413</pub-id>
+<pub-id pub-id-type="pmid">29528684</pub-id>
+<pub-id pub-id-type="pmcid">PMC5851458</pub-id></mixed-citation></ref><ref id="alz14154-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz14154-cit-0013">
+<string-name name-style="western">
+<surname>Maass</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berron</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harrison</surname>
+<given-names>TM</given-names>
+</string-name>, et al. <article-title>Alzheimer's pathology targets distinct memory networks in the ageing brain</article-title>. <source>Brain</source>. <year>2019</year>;<volume>142</volume>(<issue>8</issue>):<fpage>2492</fpage>‐<lpage>2509</lpage>. doi:<pub-id pub-id-type="doi">10.1093/brain/awz154</pub-id>
+<pub-id pub-id-type="pmid">31199481</pub-id>
+<pub-id pub-id-type="pmcid">PMC6658874</pub-id></mixed-citation></ref><ref id="alz14154-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz14154-cit-0014">
+<string-name name-style="western">
+<surname>Jutten</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sikkes</surname>
+<given-names>SAM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amariglio</surname>
+<given-names>RE</given-names>
+</string-name>, et al. <article-title>Identifying sensitive measures of cognitive decline at different clinical stages of Alzheimer's disease</article-title>. <source>J Int Neuropsychol Soc</source>. <year>2021</year>;<volume>27</volume>(<issue>5</issue>):<fpage>426</fpage>‐<lpage>438</lpage>. doi:<pub-id pub-id-type="doi">10.1017/S1355617720000934</pub-id>
+<pub-id pub-id-type="pmid">33046162</pub-id>
+<pub-id pub-id-type="pmcid">PMC8041916</pub-id></mixed-citation></ref><ref id="alz14154-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz14154-cit-0015">
+<string-name name-style="western">
+<surname>Young</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mormino</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poston</surname>
+<given-names>KL</given-names>
+</string-name>, et al. <article-title>Computerized cognitive practice effects in relation to amyloid and tau in preclinical Alzheimer's disease: results from a multi‐site cohort</article-title>. <source>Alzheimers Dement Diagn Assess Dis Monit</source>. <year>2023</year>;<volume>15</volume>(<issue>1</issue>):<elocation-id>e12414</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/dad2.12414</pub-id>
+<pub-id pub-id-type="pmcid">PMC10026103</pub-id><pub-id pub-id-type="pmid">36950699</pub-id></mixed-citation></ref><ref id="alz14154-bib-0016"><label>16</label><mixed-citation publication-type="miscellaneous" id="alz14154-cit-0016">
+<string-name name-style="western">
+<surname>Papp</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rentz</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maruff</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Computerized Cognitive Composite (C3) Performance Differences between AB+ and AB‐normal older adults screened for the A4 Study. In:; 2018</article-title>.</mixed-citation></ref><ref id="alz14154-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz14154-cit-0017">
+<string-name name-style="western">
+<surname>Braak</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Braak</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Neuropathological stageing of Alzheimer‐related changes</article-title>. <source>Acta Neuropathol Berl</source>. <year>1991</year>;<volume>82</volume>(<issue>4</issue>):<fpage>239</fpage>‐<lpage>259</lpage>.<pub-id pub-id-type="pmid">1759558</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF00308809</pub-id></mixed-citation></ref><ref id="alz14154-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz14154-cit-0018">
+<string-name name-style="western">
+<surname>Small</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perera</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeLaPaz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mayeux</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stern</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Differential regional dysfunction of the hippocampal formation among elderly with memory decline and Alzheimer's disease</article-title>. <source>Ann Neurol</source>. <year>1999</year>;<volume>45</volume>(<issue>4</issue>):<fpage>466</fpage>‐<lpage>472</lpage>.<pub-id pub-id-type="pmid">10211471</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/1531-8249(199904)45:4&lt;466::aid-ana8&gt;3.0.co;2-q</pub-id></mixed-citation></ref><ref id="alz14154-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz14154-cit-0019">
+<string-name name-style="western">
+<surname>Small</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schobel</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buxton</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Witter</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barnes</surname>
+<given-names>CA</given-names>
+</string-name>. <article-title>A pathophysiological framework of hippocampal dysfunction in ageing and disease</article-title>. <source>Nat Rev Neurosci</source>. <year>2011</year>;<volume>12</volume>(<issue>10</issue>):<fpage>585</fpage>‐<lpage>601</lpage>. doi:<pub-id pub-id-type="doi">10.1038/nrn3085</pub-id>
+<pub-id pub-id-type="pmid">21897434</pub-id>
+<pub-id pub-id-type="pmcid">PMC3312472</pub-id></mixed-citation></ref><ref id="alz14154-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz14154-cit-0020">
+<string-name name-style="western">
+<surname>Mormino</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kluth</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Madison</surname>
+<given-names>CM</given-names>
+</string-name>, et al. <article-title>Episodic memory loss is related to hippocampal‐mediated beta‐amyloid deposition in elderly subjects</article-title>. <source>Brain J Neurol</source>. <year>2009</year>;<volume>132</volume>(<issue>5</issue>):<fpage>1310</fpage>‐<lpage>1323</lpage>. doi:<pub-id pub-id-type="doi">10.1093/brain/awn320</pub-id>. Pt.<pub-id pub-id-type="pmcid">PMC2677792</pub-id><pub-id pub-id-type="pmid">19042931</pub-id></mixed-citation></ref><ref id="alz14154-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz14154-cit-0021">
+<string-name name-style="western">
+<surname>Bakker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirwan</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>NI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>CEL</given-names>
+</string-name>. <article-title>Pattern separation in the human hippocampal CA3 and dentate gyrus</article-title>. <source>Science</source>. <year>2008</year>;<volume>319</volume>:<fpage>1640</fpage>‐<lpage>1642</lpage>.<pub-id pub-id-type="pmid">18356518</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1152882</pub-id><pub-id pub-id-type="pmcid">PMC2829853</pub-id></mixed-citation></ref><ref id="alz14154-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz14154-cit-0022">
+<string-name name-style="western">
+<surname>Lacy</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yassa</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muftuler</surname>
+<given-names>LT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>CE</given-names>
+</string-name>. <article-title>Distinct pattern separation related transfer functions in human CA3/dentate and CA1 revealed using high‐resolution fMRI and variable mnemonic similarity</article-title>. <source>Learn Mem</source>. <year>2011</year>;<volume>18</volume>:<fpage>15</fpage>‐<lpage>18</lpage>. doi:<pub-id pub-id-type="doi">10.1101/lm.1971111</pub-id>
+<pub-id pub-id-type="pmid">21164173</pub-id>
+<pub-id pub-id-type="pmcid">PMC3023966</pub-id></mixed-citation></ref><ref id="alz14154-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz14154-cit-0023">
+<string-name name-style="western">
+<surname>Yassa</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>CE</given-names>
+</string-name>. <article-title>Pattern separation in the hippocampus</article-title>. <source>Trends Neurosci</source>. <year>2011</year>;<volume>34</volume>:<fpage>515</fpage>‐<lpage>525</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.tins.2011.06.006</pub-id>
+<pub-id pub-id-type="pmid">21788086</pub-id>
+<pub-id pub-id-type="pmcid">PMC3183227</pub-id></mixed-citation></ref><ref id="alz14154-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz14154-cit-0024">
+<string-name name-style="western">
+<surname>Monti</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balota</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warren</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohen</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>Very mild Alzheimer׳s disease is characterized by increased sensitivity to mnemonic interference</article-title>. <source>Neuropsychologia</source>. <year>2014</year>;<volume>59</volume>:<fpage>47</fpage>‐<lpage>56</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neuropsychologia.2014.04.007</pub-id>
+<pub-id pub-id-type="pmid">24747209</pub-id>
+<pub-id pub-id-type="pmcid">PMC4096795</pub-id></mixed-citation></ref><ref id="alz14154-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz14154-cit-0025">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adams</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chappel‐Farley</surname>
+<given-names>MG</given-names>
+</string-name>, et al. <article-title>Examining the diagnostic value of the mnemonic discrimination task for classification of cognitive status and amyloid‐beta burden</article-title>. <source>Neuropsychologia</source>. <year>2023</year>;<volume>191</volume>:<elocation-id>108727</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.neuropsychologia.2023.108727</pub-id>
+<pub-id pub-id-type="pmid">37939874</pub-id>
+<pub-id pub-id-type="pmcid">PMC10764118</pub-id></mixed-citation></ref><ref id="alz14154-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz14154-cit-0026">
+<string-name name-style="western">
+<surname>Stark</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yassa</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lacy</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>CE</given-names>
+</string-name>. <article-title>A task to assess behavioral pattern separation (BPS) in humans: data from healthy aging and mild cognitive impairment</article-title>. <source>Neuropsychologia</source>. <year>2013</year>;<volume>51</volume>:<fpage>2442</fpage>‐<lpage>2449</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neuropsychologia.2012.12.014</pub-id>
+<pub-id pub-id-type="pmid">23313292</pub-id>
+<pub-id pub-id-type="pmcid">PMC3675184</pub-id></mixed-citation></ref><ref id="alz14154-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz14154-cit-0027">
+<string-name name-style="western">
+<surname>Stark</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirwan</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>CEL</given-names>
+</string-name>. <article-title>Mnemonic similarity task: a tool for assessing hippocampal integrity</article-title>. <source>Trends Cogn Sci</source>. <year>2019</year>;<volume>23</volume>(<issue>11</issue>):<fpage>938</fpage>‐<lpage>951</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.tics.2019.08.003</pub-id>
+<pub-id pub-id-type="pmid">31597601</pub-id>
+<pub-id pub-id-type="pmcid">PMC6991464</pub-id></mixed-citation></ref><ref id="alz14154-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz14154-cit-0028">
+<string-name name-style="western">
+<surname>Yassa</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bakker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Albert</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gallagher</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>CEL</given-names>
+</string-name>. <article-title>High‐resolution structural and functional MRI of hippocampal CA3 and dentate gyrus in patients with amnestic mild cognitive impairment</article-title>. <source>NeuroImage</source>. <year>2010</year>;<volume>51</volume>(<issue>3</issue>):<fpage>1242</fpage>‐<lpage>1252</lpage>.<pub-id pub-id-type="pmid">20338246</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroimage.2010.03.040</pub-id><pub-id pub-id-type="pmcid">PMC2909476</pub-id></mixed-citation></ref><ref id="alz14154-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz14154-cit-0029">
+<string-name name-style="western">
+<surname>Belliart‐Guérin</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Planche</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Mnemonic discrimination performance in a memory clinic: a pilot study</article-title>. <source>J Alzheimers Dis</source>. <year>2023</year>;<volume>94</volume>(<issue>4</issue>):<fpage>1527</fpage>‐<lpage>1534</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-230221</pub-id>
+<pub-id pub-id-type="pmid">37458033</pub-id>
+<pub-id pub-id-type="pmcid">PMC10473128</pub-id></mixed-citation></ref><ref id="alz14154-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz14154-cit-0030">
+<string-name name-style="western">
+<surname>Vanderlip</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Craig</surname>
+<given-names>EL</given-names>
+</string-name>. <article-title>Cognitive modeling of the Mnemonic Similarity Task as a digital biomarker for Alzheimer's disease</article-title>. <source>bioRxiv</source>. <year>2024</year>. Published online January 1. 2024.03.07.584012. bioRxiv. doi:<pub-id pub-id-type="doi">10.1101/2024.03.07.584012</pub-id>
+<pub-id pub-id-type="pmcid">PMC11485396</pub-id><pub-id pub-id-type="pmid">39239893</pub-id></mixed-citation></ref><ref id="alz14154-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz14154-cit-0031">
+<string-name name-style="western">
+<surname>Maruff</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lim</surname>
+<given-names>YY</given-names>
+</string-name>, et al, <collab collab-type="authors">for the AIBL Research Group</collab>
+. <article-title>Clinical utility of the CogState brief battery in identifying cognitive impairment in mild cognitive impairment and Alzheimer's disease</article-title>. <source>BMC Psychol</source>. <year>2013</year>;<volume>1</volume>(<issue>1</issue>):<fpage>30</fpage>. doi:<pub-id pub-id-type="doi">10.1186/2050-7283-1-30</pub-id>
+<pub-id pub-id-type="pmid">25566378</pub-id>
+<pub-id pub-id-type="pmcid">PMC4269990</pub-id></mixed-citation></ref><ref id="alz14154-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz14154-cit-0032">
+<string-name name-style="western">
+<surname>Lim</surname>
+<given-names>YY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ellis</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harrington</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Use of the CogState Brief Battery in the assessment of Alzheimer's disease related cognitive impairment in the Australian Imaging, Biomarkers and Lifestyle (AIBL) study</article-title>. <source>J Clin Exp Neuropsychol</source>. <year>2012</year>;<volume>34</volume>(<issue>4</issue>):<fpage>345</fpage>‐<lpage>358</lpage>. doi:<pub-id pub-id-type="doi">10.1080/13803395.2011.643227</pub-id>
+<pub-id pub-id-type="pmid">22248010</pub-id>
+</mixed-citation></ref><ref id="alz14154-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz14154-cit-0033">
+<string-name name-style="western">
+<surname>Edgar</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siemers</surname>
+<given-names>E</given-names>
+</string-name>, et al, <collab collab-type="authors">for the Alzheimer's Disease Neuroimaging Initiative</collab>
+. <article-title>Pilot evaluation of the unsupervised, at‐home CogState brief battery in ADNI‐2. Alegret M, ed</article-title>. <source>J Alzheimers Dis</source>. <year>2021</year>;<volume>83</volume>(<issue>2</issue>):<fpage>915</fpage>‐<lpage>925</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-210201</pub-id>
+<pub-id pub-id-type="pmid">34366337</pub-id>
+<pub-id pub-id-type="pmcid">PMC8543269</pub-id></mixed-citation></ref><ref id="alz14154-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz14154-cit-0034">
+<string-name name-style="western">
+<surname>Landau</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mintun</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joshi</surname>
+<given-names>AD</given-names>
+</string-name>, et al. <article-title>Amyloid deposition, hypometabolism, and longitudinal cognitive decline</article-title>. <source>Ann Neurol</source>. <year>2012</year>;<volume>72</volume>(<issue>4</issue>):<fpage>578</fpage>‐<lpage>586</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ana.23650</pub-id>
+<pub-id pub-id-type="pmid">23109153</pub-id>
+<pub-id pub-id-type="pmcid">PMC3786871</pub-id></mixed-citation></ref><ref id="alz14154-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz14154-cit-0035">
+<string-name name-style="western">
+<surname>Klunk</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koeppe</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Price</surname>
+<given-names>JC</given-names>
+</string-name>, et al. <article-title>The Centiloid Project: standardizing quantitative amyloid plaque estimation by PET</article-title>. <source>Alzheimers Dement</source>. <year>2015</year>;<volume>11</volume>(<issue>1</issue>):<fpage>1</fpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2014.07.003</pub-id>
+<pub-id pub-id-type="pmid">25443857</pub-id>
+<pub-id pub-id-type="pmcid">PMC4300247</pub-id></mixed-citation></ref><ref id="alz14154-bib-0036"><label>36</label><mixed-citation publication-type="miscellaneous" id="alz14154-cit-0036">
+<string-name name-style="western">
+<surname>Seabold</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perktold</surname>
+<given-names>J</given-names>
+</string-name>, <article-title>Statsmodels: Econometric and Statistical Modeling with Python. Published online 2010:5</article-title>.</mixed-citation></ref><ref id="alz14154-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz14154-cit-0037">
+<string-name name-style="western">
+<surname>Racine</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clark</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berman</surname>
+<given-names>SE</given-names>
+</string-name>, et al. <article-title>Associations between performance on an abbreviated CogState battery, other measures of cognitive function, and biomarkers in people at risk for Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2016</year>;<volume>54</volume>(<issue>4</issue>):<fpage>1395</fpage>‐<lpage>1408</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-160528</pub-id>
+<pub-id pub-id-type="pmid">27589532</pub-id>
+<pub-id pub-id-type="pmcid">PMC5074904</pub-id></mixed-citation></ref><ref id="alz14154-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz14154-cit-0038">
+<string-name name-style="western">
+<surname>Berron</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olsson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andersson</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Remote and unsupervised digital memory assessments can reliably detect cognitive impairment in Alzheimer's disease</article-title>. <source>Alzheimers Dements</source>. <year>2024</year>;<volume>20</volume>(<issue>7</issue>):<fpage>4775</fpage>‐<lpage>4791</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13919</pub-id>
+<pub-id pub-id-type="pmcid">PMC11247711</pub-id><pub-id pub-id-type="pmid">38867417</pub-id></mixed-citation></ref><ref id="alz14154-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz14154-cit-0039">
+<string-name name-style="western">
+<surname>Ossenkoppele</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pichet Binette</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Groot</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Amyloid and tau PET‐positive cognitively unimpaired individuals are at high risk for future cognitive decline</article-title>. <source>Nat Med</source>. <year>2022</year>;<volume>28</volume>(<issue>11</issue>):<fpage>2381</fpage>‐<lpage>2387</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41591-022-02049-x</pub-id>
+<pub-id pub-id-type="pmid">36357681</pub-id>
+<pub-id pub-id-type="pmcid">PMC9671808</pub-id></mixed-citation></ref><ref id="alz14154-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz14154-cit-0040">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Association of tau accumulation and atrophy in mild cognitive impairment: a longitudinal study</article-title>. <source>Ann Nucl Med</source>. <year>2020</year>;<volume>34</volume>(<issue>11</issue>):<fpage>815</fpage>‐<lpage>823</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s12149-020-01506-2</pub-id>
+<pub-id pub-id-type="pmid">32785820</pub-id>
+</mixed-citation></ref><ref id="alz14154-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz14154-cit-0041">
+<string-name name-style="western">
+<surname>St‐Onge</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chapleau</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Breitner</surname>
+<given-names>JCS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Villeneuve</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pichet Binette</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Tau accumulation and its spatial progression across the Alzheimer's disease spectrum</article-title>. <source>Brain Commun</source>. <year>2023</year>;<volume>6</volume>(<issue>1</issue>):<elocation-id>fcae031</elocation-id>. doi:<pub-id pub-id-type="doi">10.1093/braincomms/fcae031</pub-id>
+<pub-id pub-id-type="pmcid">PMC10896475</pub-id><pub-id pub-id-type="pmid">38410618</pub-id></mixed-citation></ref><ref id="alz14154-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz14154-cit-0042">
+<string-name name-style="western">
+<surname>McClelland</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McNaughton</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Reilly</surname>
+<given-names>RC</given-names>
+</string-name>. <article-title>Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory</article-title>. <source>Psychol Rev</source>. <year>1995</year>;<volume>102</volume>(<issue>3</issue>):<fpage>419</fpage>‐<lpage>457</lpage>.<pub-id pub-id-type="pmid">7624455</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1037/0033-295X.102.3.419</pub-id></mixed-citation></ref><ref id="alz14154-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz14154-cit-0043">
+<string-name name-style="western">
+<surname>Berron</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cardenas‐Blanco</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bittner</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Higher CSF tau levels are related to hippocampal hyperactivity and object mnemonic discrimination in older adults</article-title>. <source>J Neurosci</source>. <year>2019</year>;<volume>39</volume>(<issue>44</issue>):<fpage>8788</fpage>‐<lpage>8797</lpage>. doi:<pub-id pub-id-type="doi">10.1523/JNEUROSCI.1279-19.2019</pub-id>
+<pub-id pub-id-type="pmid">31541019</pub-id>
+<pub-id pub-id-type="pmcid">PMC6820211</pub-id></mixed-citation></ref><ref id="alz14154-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz14154-cit-0044">
+<string-name name-style="western">
+<surname>Trelle</surname>
+<given-names>AN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carr</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>EN</given-names>
+</string-name>, et al. <article-title>Association of CSF biomarkers with hippocampal‐dependent memory in preclinical Alzheimer disease</article-title>. <source>Neurology</source>. <year>2021</year>;<volume>96</volume>(<issue>10</issue>):1470‐1481. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000011477</pub-id>
+<pub-id pub-id-type="pmcid">PMC8055319</pub-id><pub-id pub-id-type="pmid">33408146</pub-id></mixed-citation></ref><ref id="alz14154-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz14154-cit-0045">
+<string-name name-style="western">
+<surname>Yassa</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mattfeld</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>CEL</given-names>
+</string-name>. <article-title>Age‐related memory deficits linked to circuit‐specific disruptions in the hippocampus</article-title>. <source>Proc Natl Acad Sci</source>. <year>2011</year>;<volume>108</volume>(<issue>21</issue>):<fpage>8873</fpage>‐<lpage>8878</lpage>. doi:<pub-id pub-id-type="doi">10.1073/pnas.1101567108</pub-id>
+<pub-id pub-id-type="pmid">21555581</pub-id>
+<pub-id pub-id-type="pmcid">PMC3102362</pub-id></mixed-citation></ref><ref id="alz14154-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz14154-cit-0046">
+<string-name name-style="western">
+<surname>Bakker</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krauss</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Albert</surname>
+<given-names>MS</given-names>
+</string-name>, et al. <article-title>Reduction of hippocampal hyperactivity improves cognition in amnestic mild cognitive impairment</article-title>. <source>Neuron</source>. <year>2012</year>;<volume>74</volume>:<fpage>467</fpage>‐<lpage>474</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neuron.2012.03.023</pub-id>
+<pub-id pub-id-type="pmid">22578498</pub-id>
+<pub-id pub-id-type="pmcid">PMC3351697</pub-id></mixed-citation></ref><ref id="alz14154-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="alz14154-cit-0047">
+<string-name name-style="western">
+<surname>Bennett</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stark</surname>
+<given-names>CEL</given-names>
+</string-name>. <article-title>Mnemonic discrimination relates to perforant path integrity: an ultra‐high resolution diffusion tensor imaging study</article-title>. <source>Neurobiol Learn Mem</source>. <year>2015</year>;<volume>129</volume>:<fpage>107</fpage>‐<lpage>112</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.nlm.2015.06.014</pub-id>
+<pub-id pub-id-type="pmid">26149893</pub-id>
+<pub-id pub-id-type="pmcid">PMC4699874</pub-id></mixed-citation></ref><ref id="alz14154-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="alz14154-cit-0048">
+<string-name name-style="western">
+<surname>Brier</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Friedrichsen</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Tau and Aβ imaging, CSF measures, and cognition in Alzheimer's disease</article-title>. <source>Sci Transl Med</source>. <year>2016</year>;<volume>8</volume>(<issue>338</issue>). doi:<pub-id pub-id-type="doi">10.1126/scitranslmed.aaf2362</pub-id>
+<pub-id pub-id-type="pmcid">PMC5267531</pub-id><pub-id pub-id-type="pmid">27169802</pub-id></mixed-citation></ref><ref id="alz14154-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="alz14154-cit-0049">
+<string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wiste</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Therneau</surname>
+<given-names>TM</given-names>
+</string-name>, et al. <article-title>Associations of amyloid, tau, and neurodegeneration biomarker profiles with rates of memory decline among individuals without dementia</article-title>. <source>JAMA</source>. <year>2019</year>;<volume>321</volume>(<issue>23</issue>):<fpage>2316</fpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2019.7437</pub-id>
+<pub-id pub-id-type="pmid">31211344</pub-id>
+<pub-id pub-id-type="pmcid">PMC6582267</pub-id></mixed-citation></ref><ref id="alz14154-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="alz14154-cit-0050">
+<string-name name-style="western">
+<surname>Huber</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yee</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>May</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dhanala</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mitchell</surname>
+<given-names>CS</given-names>
+</string-name>. <article-title>Cognitive decline in preclinical Alzheimer's disease: amyloid‐beta versus tauopathy</article-title>. <source>J Alzheimers Dis</source>. <year>2017</year>;<volume>61</volume>(<issue>1</issue>):<fpage>265</fpage>‐<lpage>281</lpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-170490</pub-id>
+<pub-id pub-id-type="pmcid">PMC5734131</pub-id><pub-id pub-id-type="pmid">29154274</pub-id></mixed-citation></ref><ref id="alz14154-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="alz14154-cit-0051">
+<string-name name-style="western">
+<surname>Leal</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lockhart</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maass</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bell</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jagust</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>Subthreshold amyloid predicts tau deposition in aging</article-title>. <source>J Neurosci</source>. <year>2018</year>;<volume>38</volume>(<issue>19</issue>):<fpage>4482</fpage>‐<lpage>4489</lpage>. doi:<pub-id pub-id-type="doi">10.1523/JNEUROSCI.0485-18.2018</pub-id>
+<pub-id pub-id-type="pmid">29686045</pub-id>
+<pub-id pub-id-type="pmcid">PMC5943976</pub-id></mixed-citation></ref><ref id="alz14154-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="alz14154-cit-0052">
+<string-name name-style="western">
+<surname>McCollum</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Das</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Oh brother, where art tau? Amyloid, neurodegeneration, and cognitive decline without elevated tau</article-title>. <source>NeuroImage Clin</source>. <year>2021</year>;<volume>31</volume>:<elocation-id>102717</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.nicl.2021.102717</pub-id>
+<pub-id pub-id-type="pmid">34119903</pub-id>
+<pub-id pub-id-type="pmcid">PMC8207301</pub-id></mixed-citation></ref><ref id="alz14154-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="alz14154-cit-0053">
+<string-name name-style="western">
+<surname>Giorgio</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adams</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maass</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jagust</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Breakspear</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Amyloid induced hyperexcitability in default mode network drives medial temporal hyperactivity and early tau accumulation</article-title>. <source>Neuron</source>. <year>2024</year>;<volume>112</volume>(<issue>4</issue>):<fpage>676</fpage>‐<lpage>686</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neuron.2023.11.014</pub-id>. e4.<pub-id pub-id-type="pmid">38096815</pub-id>
+<pub-id pub-id-type="pmcid">PMC10922797</pub-id></mixed-citation></ref><ref id="alz14154-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="alz14154-cit-0054">
+<string-name name-style="western">
+<surname>Huijbers</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schultz</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Papp</surname>
+<given-names>KV</given-names>
+</string-name>, et al. <article-title>Tau accumulation in clinically normal older adults is associated with hippocampal hyperactivity</article-title>. <source>J Neurosci</source>. <year>2019</year>;<volume>39</volume>(<issue>3</issue>):<fpage>548</fpage>‐<lpage>556</lpage>. doi:<pub-id pub-id-type="doi">10.1523/JNEUROSCI.1397-18.2018</pub-id>
+<pub-id pub-id-type="pmid">30482786</pub-id>
+<pub-id pub-id-type="pmcid">PMC6335746</pub-id></mixed-citation></ref><ref id="alz14154-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="alz14154-cit-0055">
+<string-name name-style="western">
+<surname>Adams</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harrison</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maass</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baker</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jagust</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>Distinct factors drive the spatiotemporal progression of tau pathology in older adults</article-title>. <source>J Neurosci</source>. <year>2022</year>;<volume>42</volume>(<issue>7</issue>):<fpage>1352</fpage>‐<lpage>1361</lpage>. doi:<pub-id pub-id-type="doi">10.1523/JNEUROSCI.1601-21.2021</pub-id>
+<pub-id pub-id-type="pmid">34965972</pub-id>
+<pub-id pub-id-type="pmcid">PMC8883857</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

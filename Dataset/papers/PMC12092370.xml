@@ -1,0 +1,680 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz70239" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12092370</article-id><article-id pub-id-type="pmcid-ver">PMC12092370.1</article-id><article-id pub-id-type="pmcaid">12092370</article-id><article-id pub-id-type="pmcaiid">12092370</article-id><article-id pub-id-type="pmid">40394891</article-id><article-id pub-id-type="doi">10.1002/alz.70239</article-id><article-id pub-id-type="publisher-id">ALZ70239</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Choroid plexus free‐water correlates with glymphatic function in Alzheimer's disease</article-title><alt-title alt-title-type="left-running-head">XU <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz70239-cr-0001" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="X">Xiaomeng</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1717-538X</contrib-id><xref rid="alz70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70239-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70239-cr-0002" contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="X">Xinyuan</given-names></name><xref rid="alz70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70239-cr-0003" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="J">Junfang</given-names></name><xref rid="alz70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70239-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70239-cr-0004" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="Y">Yan</given-names></name><xref rid="alz70239-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70239-cr-0005" contrib-type="author"><name name-style="western"><surname>Selim</surname><given-names initials="M">Magdy</given-names></name><xref rid="alz70239-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz70239-cr-0006" contrib-type="author"><name name-style="western"><surname>Zheng</surname><given-names initials="Y">Yingting</given-names></name><xref rid="alz70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70239-cr-0007" contrib-type="author"><name name-style="western"><surname>Shen</surname><given-names initials="R">Ruinan</given-names></name><xref rid="alz70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70239-cr-0008" contrib-type="author"><name name-style="western"><surname>Sun</surname><given-names initials="L">Lipeng</given-names></name><xref rid="alz70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70239-cr-0009" contrib-type="author"><name name-style="western"><surname>Huang</surname><given-names initials="Q">Qi</given-names></name><xref rid="alz70239-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70239-cr-0010" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="W">Wenjing</given-names></name><xref rid="alz70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70239-cr-0011" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="W">Wei</given-names></name><xref rid="alz70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70239-cr-0012" contrib-type="author"><name name-style="western"><surname>Guan</surname><given-names initials="Y">Yihui</given-names></name><xref rid="alz70239-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70239-cr-0013" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="J">Jun</given-names></name><xref rid="alz70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70239-cr-0014" contrib-type="author"><name name-style="western"><surname>Deng</surname><given-names initials="Y">Yulei</given-names></name><xref rid="alz70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70239-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70239-cr-0015" contrib-type="author" corresp="yes"><name name-style="western"><surname>Xie</surname><given-names initials="F">Fang</given-names></name><xref rid="alz70239-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>fangxie@fudan.edu.cn</email></address></contrib><contrib id="alz70239-cr-0016" contrib-type="author" corresp="yes"><name name-style="western"><surname>Li</surname><given-names initials="B">Binyin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7903-2149</contrib-id><xref rid="alz70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70239-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>libinyin@126.com</email></address></contrib><contrib id="alz70239-cr-0017" contrib-type="author"><collab collab-type="authors">the Alzheimer's Disease Neuroimaging Initiative (ADNI)</collab></contrib></contrib-group><aff id="alz70239-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology and Institute of Neurology</named-content>
+<named-content content-type="organisation-division">Ruijin Hospital</named-content>
+<institution>Shanghai Jiao Tong University School of Medicine</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><aff id="alz70239-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Neuroscience Center</named-content>
+<named-content content-type="organisation-division">Ruijin Hospital LuWan Branch</named-content>
+<institution>Shanghai Jiao Tong University School of Medicine</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><aff id="alz70239-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Nuclear Medicine and PET Center</named-content>
+<named-content content-type="organisation-division">Huashan Hospital</named-content>
+<institution>Fudan University</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><aff id="alz70239-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Stroke Division</named-content>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<named-content content-type="organisation-division">Beth Israel Deaconess Medical Center</named-content>
+<institution>Harvard Medical School</institution>
+<city>Boston</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Binyin Li, Department of Neurology and Institute of Neurology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, 197 Ruijin Second Road, Shanghai 200025, China.<break/> Email: <email>libinyin@126.com</email>
+<break/>Fang Xie, Department of Nuclear Medicine and PET Center, Huashan Hospital, Fudan University, 518 East Wuzhong Road, Shanghai 200040, China.<break/> Email: <email>fangxie@fudan.edu.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>5</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2025</year></pub-date><volume>21</volume><issue seq="310">5</issue><issue-id pub-id-type="pmc-issue-id">487648</issue-id><issue-id pub-id-type="doi">10.1002/alz.v21.5</issue-id><elocation-id>e70239</elocation-id><history><date date-type="rev-recd"><day>12</day><month>3</month><year>2025</year></date><date date-type="received"><day>09</day><month>1</month><year>2025</year></date><date date-type="accepted"><day>07</day><month>4</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>20</day><month>05</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>21</day><month>05</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-05-22 14:26:11.543"><day>22</day><month>05</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-21-e70239.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-21-e70239.pdf"/><abstract><title>Abstract</title><sec id="alz70239-sec-0010"><title>INTRODUCTION</title><p>Free‐water imaging of the choroid plexus (CP) may improve the evaluation of Alzheimer's disease (AD).</p></sec><sec id="alz70239-sec-0020"><title>METHODS</title><p>Our study investigated the role of free‐water fraction (FWf) of CP in AD among 216 participants (133 Aβ+ participants and 83 Aβ– controls) enrolled in the NeuroBank‐Dementia cohort at Ruijin Hospital (RJNB‐D). The Alzheimer's Disease Neuroimaging Initiative dataset was used for external validation.</p></sec><sec id="alz70239-sec-0030"><title>RESULTS</title><p>At baseline, Aβ+ participants showed higher CP FWf, increased white matter hyperintensity (WMH) volume, and decreased diffusion tensor image analysis along the perivascular space (DTI‐ALPS). In Aβ+ participants, DTI‐ALPS mediated the association between CP FWf and periventricular WMH. CP FWf was associated with cortical tau accumulation, synaptic loss, hippocampal and cortical atrophy, and cognitive performance. During follow‐up, CP FWf increased faster in Aβ+ participants than controls.</p></sec><sec id="alz70239-sec-0040"><title>DISCUSSION</title><p>Elevated CP FWf indicated impaired glymphatic function and AD neurodegeneration, and can be a sensitive biomarker for AD progression. The study was registered on ClinicalTrials.gov (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05623124">NCT05623124</ext-link>).</p></sec><sec id="alz70239-sec-0050"><title>Highlights</title><p>
+<list list-type="bullet" id="alz70239-list-0001"><list-item><p>This cohort study found higher free‐water fraction (FWf) of the choroid plexus (CP) in amyloid beta (Aβ)+ participants.</p></list-item><list-item><p>CP FWf was related to glymphatic function, brain atrophy, tau burden, synaptic loss, and cognition.</p></list-item><list-item><p>Aβ+ participants showed faster growth of CP FWf than Aβ– controls during follow‐up.</p></list-item><list-item><p>The growth rate of CP FWf exceeded that of white matter lesion and tau accumulation in Aβ+ participants.</p></list-item><list-item><p>CP FWf can serve as a sensitive imaging marker of glymphatic function and Alzheimer's disease progression.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz70239-kwd-0001">Alzheimer's disease</kwd><kwd id="alz70239-kwd-0002">choroid plexus</kwd><kwd id="alz70239-kwd-0003">diffusion tensor image analysis along the perivascular space</kwd><kwd id="alz70239-kwd-0004">free‐water mapping</kwd><kwd id="alz70239-kwd-0005">white matter hyperintensity</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China
+</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>82271441</award-id><award-id>82171473</award-id><award-id>81901180</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Shanghai Rising‐Star Program
+</institution><institution-id institution-id-type="doi">10.13039/501100013105</institution-id></institution-wrap></funding-source><award-id>21QA1405800</award-id></award-group><award-group id="funding-0003"><funding-source>STI2030‐Major Projects</funding-source><award-id>2022ZD0213800</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="12"/><word-count count="6764"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.6 mode:remove_FC converted:21.05.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz70239-cite-0001">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, et al.; for <collab collab-type="authors">the Alzheimer's Disease Neuroimaging Initiative (ADNI)</collab>
+. <article-title>Choroid plexus free‐water correlates with glymphatic function in Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2025</year>;<volume>21</volume>:<elocation-id>e70239</elocation-id>. <pub-id pub-id-type="doi">10.1002/alz.70239</pub-id>
+<pub-id pub-id-type="pmid">40394891</pub-id></mixed-citation>
+</p><fn-group><fn id="alz70239-note-0001"><p>The ADNI is detailed in Supplemental Acknowledgments.</p></fn><fn id="alz70239-note-0002" fn-type="equal"><p>Xiaomeng Xu, Xinyuan Yang, and Junfang Zhang contributed equally to this work.</p></fn><fn id="alz70239-note-0003"><p>FX and BL are co‐corresponding authors. BL will handle correspondence at all stages of refereeing and publication, also post‐publication</p></fn></fn-group></notes></front><body><sec id="alz70239-sec-0060"><label>1</label><title>BACKGROUND</title><p>Alzheimer's disease (AD) is a neurodegenerative disorder marked by cognitive decline, amyloid beta (Aβ) plaques, hyperphosphorylated tau, and cortical atrophy.<xref rid="alz70239-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Moreover, dysfunction in the cerebrospinal fluid (CSF) glymphatic clearance and white matter hyperintensities (WMHs) have also been identified as contributing factors.<xref rid="alz70239-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+</p><p>The choroid plexus (CP) produces CSF and regulates its dynamics.<xref rid="alz70239-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Comprising a single‐layer epithelium, fenestrated capillaries, connective tissue, and immune cells, the CP forms the blood–CSF barrier and aids immune surveillance.<xref rid="alz70239-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> However, the mechanisms behind the CP in neurodegeneration and AD are unclear. Despite this, there is a scarcity of research focusing on components of the CP. Given its role in producing CSF and its location within the ventricles, fluid is one of the predominant components within the CP structure.</p><p>Free water refers to unconstrained water molecules in fluid. Diffusion magnetic resonance imaging (MRI) techniques can measure free water in brain tissue.<xref rid="alz70239-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> A previous study showed increased free‐water fraction (FWf) in cortical and subcortical regions as neurodegeneration progresses.<xref rid="alz70239-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Given the CP's role in CSF regulation, CP FWf may be crucial for brain fluid circulation.</p><p>Furthermore, in the brain glymphatic system, CSF enters the brain parenchyma through the perivascular spaces surrounding arteries to clear interstitial fluid waste products.<xref rid="alz70239-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Prior studies using diffusion tensor image analysis along the perivascular space (DTI‐ALPS) index have shown an association between glymphatic dysfunction and the severity of WMHs.<xref rid="alz70239-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Meanwhile, a previous study revealed an association between WMH and WMH‐linked cortical AD biomarkers.<xref rid="alz70239-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> However, the relationship between CP FWf and glymphatic clearance or WMHs remains unclear.</p><p>We hypothesized that CP FWf in AD correlates with glymphatic function and neurodegeneration across the disease continuum. We undertook this study to: (1) investigate CP FWf changes in AD; (2) examine the relationships among CP FWf and glymphatic function, WMH, as well as AD pathological biomarkers; (3) explore potential mediation factors between CP FWf and cognition; and (4) validate the impact of CP FWf in AD using longitudinal data over a 12‐month follow‐up period.</p></sec><sec id="alz70239-sec-0070"><label>2</label><title>METHODS</title><sec id="alz70239-sec-0080"><label>2.1</label><title>Participants and study design</title><p>This retrospective study used consecutive collected data from the Ruijin NeuroBank of Alzheimer's Disease and Dementia (RJNB‐D) cohort between November 2021 and March 2024. The cohort is a prospective cohort for all‐cause dementia from memory clinics and cognitively normal volunteers from the community, with detailed information in our previous study.<xref rid="alz70239-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>
+</p><p>The cross‐sectional analysis included 216 participants: 133 Aβ+ individuals and 83 Aβ– controls. The Aβ+ group was further diagnosed as AD or mild cognitive impairment (MCI) according to 2016 National Institute on Aging–Alzheimer's Association criteria.<xref rid="alz70239-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> For longitudinal analysis, 76 of 216 baseline participants completed 12‐month follow‐up assessments, including repeated neuropsychological tests, multimodal MRI, and positron emission tomography (PET) scans. All follow‐up assessments were conducted within 2 weeks of the 12‐month interview.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz70239-sec-0090"><title>RESEARCH‐IN‐CONTEXT</title><p>
+<list list-type="order" id="alz70239-list-0002"><list-item><p>
+<bold>Systematic review</bold>: The authors conducted a literature review using traditional sources, such as PubMed. Although free‐water imaging of the choroid plexus (CP) has not been extensively studied, there is a growing research interest in the function of the CP. Several recent publications have explored the associations between the volumes of the CP, glymphatic function, cognition, and Alzheimer's disease (AD) pathology. These pertinent studies are appropriately cited in the article.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: Our findings demonstrated that the free‐water fraction (FWf) of the CP increased in individuals with AD pathology. Elevated CP FWf was associated with glymphatic dysfunction, brain atrophy, tau accumulation, synaptic loss, and cognitive decline. Additionally, a more rapid increase in CP FWf was observed in those with AD pathology.</p></list-item><list-item><p>
+<bold>Future directions</bold>: Prospective, longitudinal clinical and preclinical studies examining the features and functions of CP are needed to confirm the relationships among CP, glymphatic dysfunction, and neurodegeneration in AD.</p></list-item></list>
+</p></sec></boxed-text><p>For external validation, the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset was used. Participants continuously enrolled in ADNI 3 between June 2017 and June 2022 were included in the study. Apart from the ADNI enrollment criteria, the following additional exclusion criteria were applied: (1) without multi‐shell diffusion MRI scans necessary for FWf calculation; (2) lack of 18F‐florbetapir (FBP) PET scans required to determine Aβ status.</p></sec><sec id="alz70239-sec-0100"><label>2.2</label><title>Data collection</title><p>In RJNB‐D, the participants underwent multimodal MRI, PET scans, neuropsychological tests, and blood sample collection (Figure <xref rid="alz70239-supinfo-0001" ref-type="">S1A</xref> in supporting information). Multimodal MRI included 3D high‐resolution T1, fluid‐attenuated inversion recovery (FLAIR), multi‐shell diffusion MRI (dMRI), and pseudo‐continuous arterial spin labelled (pCASL) perfusion MRI (Figure <xref rid="alz70239-supinfo-0001" ref-type="">S1B, Methods S1</xref> in supporting information). PET scans included FBP for Aβ, <sup>18</sup>F‐MK‐6240 for tau, and <sup>18</sup>F‐SynVesT‐1 for synaptic density (<xref rid="alz70239-supinfo-0001" ref-type="">Methods S2</xref> in supporting information). Neuropsychological assessments included Mini‐Mental State Examination (MMSE, Chinese Version),<xref rid="alz70239-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> 20 minute Auditory Verbal Learning Test (AVLT),<xref rid="alz70239-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Clock‐Drawing Test (CDT),<xref rid="alz70239-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Boston Naming Test (BNT), Shape‐Trail Test (STT‐A and STT‐B),<xref rid="alz70239-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> and animal fluency test (AFT).<xref rid="alz70239-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Venous blood samples were used for apolipoprotein E (<italic toggle="yes">APOE</italic>) genotyping and glial fibrillary acidic protein (GFAP), neurofilament light chain (NfL), neurogranin (NRGN), and tumor necrosis factor‐α (TNF‐α; <xref rid="alz70239-supinfo-0001" ref-type="">Methods S3</xref> in supporting information).</p></sec><sec id="alz70239-sec-0110"><label>2.3</label><title>MRI acquisition and analysis</title><p>MRI data were acquired using a 3.0‐T scanner with a 64‐channel head coil (uMR 890, United Imaging Healthcare). Detailed parameters of T1‐weighted, 3D FLAIR, diffusion, and pCASL sequences are presented in <xref rid="alz70239-supinfo-0001" ref-type="">Methods S1</xref>.</p><p>Volumetric analysis was performed using FreeSurfer 7.1.1 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://surfer.nmr.mgh.harvard.edu" ext-link-type="uri">https://surfer.nmr.mgh.harvard.edu</ext-link>). WMHs were defined and segmented using Brain Intensity AbNormality Classification Algorithm (BIANCA, version 6.0, FMRIB Software Library), and further categorized into periventricular WMH (pWMH) and deep WMH (dWMH) by 10‐mm distance threshold from the ventricles.<xref rid="alz70239-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Diffusion MRI data underwent pre‐processing and tensor fitting to generate fractional anisotropy (FA) and mean diffusivity (MD), and to calculate DTI‐ALPS index using FSL (version 6.0.3, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.fmrib.ox.ac.uk/fsl" ext-link-type="uri">http://www.fmrib.ox.ac.uk/fsl</ext-link>). Free‐water imaging of CP was assessed using the neurite orientation dispersion and density imaging (NODDI) model. The CP FWf was calculated as the average of the left and right CP region of interest registered with T1‐weighted image. Cerebral blood flow (CBF) in the CP was estimated using the FSL BASIL toolbox. Detailed information of MRI analysis is presented in <xref rid="alz70239-supinfo-0001" ref-type="">Methods S1</xref>.</p></sec><sec id="alz70239-sec-0120"><label>2.4</label><title>PET MRI acquisition and analysis</title><p>The PET scans were performed using a 3T whole‐body PET/MR scanner (uPMR 790, United Imaging). Participants received intravenous FBP for Aβ, <sup>18</sup>F‐MK‐6240 for tau, and <sup>18</sup>F‐SynVesT‐1 for synaptic vesicle glycoprotein 2A (SV2A) to assess synaptic loss as previously described.<xref rid="alz70239-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p><p>An automated pipeline derived cortical standardized uptake value ratios (SUVRs) using the PETSurfer toolbox in FreeSurfer 7.1.1 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://surfer.nmr.mgh.harvard.edu" ext-link-type="uri">https://surfer.nmr.mgh.harvard.edu</ext-link>), with the cerebellum as a reference. High‐resolution segmentation from T1 images facilitated partial volume correction, followed by registration and validation of PET and anatomical images. Detailed information of PET MRI acquisition and analysis is presented in <xref rid="alz70239-supinfo-0001" ref-type="">Methods S2</xref>.</p></sec><sec id="alz70239-sec-0130"><label>2.5</label><title>Statistical analyses</title><p>Group comparisons used <italic toggle="yes">t</italic> tests for continuous variables and chi‐square tests for categorical variables. Non‐normal distributions were log‐transformed. Logistic regression was used to adjust for age, sex, and <italic toggle="yes">APOE</italic> genotype.</p><p>Within each group, correlations were assessed using Pearson or Spearman methods based on variable distribution. Multivariable linear regression analyzed CP FWf and other imaging measures, adjusted for age, sex, and <italic toggle="yes">APOE</italic> genotype. Vertex‐wise correlation analysis using generalized linear model, controlled for age and sex, demonstrated spatial correlations between CP FWf and AD markers. Permutation tests reduced false positivity rates. Bonferroni correction addressed multiple comparisons. Mediation analyses were conducted using PROCESS v3.2 for SPSS (version 25.0, IBM), adjusted for age.</p><p>Longitudinal analysis was performed using repeated‐measures analyses of variance. Alteration rates between Aβ+ participants and Aβ– controls were compared using a linear mixed model. The relationship between CP FWf and DTI‐ALPS changes was explored in the Aβ+ group. Rates of longitudinal changes in CP FWf and related metrics were compared after standardizing baseline measures. Analyses were conducted using R (version 4.3.3, The R Foundation) or SPSS (version 25.0, IBM), with significance at <italic toggle="yes">P</italic> &lt; 0.05 (two tailed). All analyses were independently performed by two authors (X.X. and X.Y.).</p></sec><sec id="alz70239-sec-0140"><label>2.6</label><title>Study approval</title><p>This study was approved by the ethics committee at Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, China. All participants or caregivers provided written informed consent. The study adhered to the 1964 Declaration of Helsinki and its amendments. The study was registered on ClinicalTrials.gov (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05623124">NCT05623124</ext-link>). Respectively, numbers of 94, 107, 120 participants of the same cohort overlapped previous publications,<xref rid="alz70239-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz70239-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz70239-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> regarding WMH‐related neurodegeneration<xref rid="alz70239-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz70239-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> and synaptic loss in AD.<xref rid="alz70239-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> This study furthered the previous findings by evaluating the influence of free water in the CP on glymphatic dysfunction and WMHs in AD.</p></sec></sec><sec id="alz70239-sec-0150"><label>3</label><title>RESULTS</title><sec id="alz70239-sec-0160"><label>3.1</label><title>Characteristics and group comparison</title><p>Table <xref rid="alz70239-tbl-0001" ref-type="table">1</xref> summarizes the baseline characteristics of all participants from our RJNB‐D cohort (<italic toggle="yes">n</italic> = 216, mean age, 69.20 years ± 8.00 [standard deviation (SD)]; 128 females). The Aβ+ group (<italic toggle="yes">n</italic> = 133) included Aβ+ MCI (<italic toggle="yes">n</italic> = 48) and AD (<italic toggle="yes">n</italic> = 85) and the Aβ– group (<italic toggle="yes">n</italic> = 83) consisted of cognitively unimpaired (CU, <italic toggle="yes">n</italic> = 64) and Aβ– MCI (<italic toggle="yes">n</italic> = 19). Table <xref rid="alz70239-tbl-0002" ref-type="table">2</xref> lists the characteristics of the 76 participants who completed 12‐month follow‐up (mean age, 70.09 years ± 7.29 [SD]; 49 females).</p><table-wrap position="float" id="alz70239-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Baseline demographic and MRI characteristics in RJNB‐D cohort(<italic toggle="yes">n</italic> = 216).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Aβ+ (<italic toggle="yes">n</italic> = 133)</th><th align="left" rowspan="1" colspan="1">Aβ– (<italic toggle="yes">n</italic> = 83)</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age</td><td align="left" rowspan="1" colspan="1">70.59 ± 7.62</td><td align="left" rowspan="1" colspan="1">66.98 ± 8.13</td><td align="char" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">77 (58%)</td><td align="left" rowspan="1" colspan="1">51 (61%)</td><td align="char" rowspan="1" colspan="1">0.605</td></tr><tr><td align="left" rowspan="1" colspan="1">Education</td><td align="left" rowspan="1" colspan="1">11.56 ± 4.08</td><td align="left" rowspan="1" colspan="1">12.16 ± 3.43</td><td align="char" rowspan="1" colspan="1">0.266</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 carrier<xref rid="alz70239-tbl1-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">67 (62%)</td><td align="left" rowspan="1" colspan="1">15 (23%)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">MMSE</td><td align="left" rowspan="1" colspan="1">21.07 ± 6.36</td><td align="left" rowspan="1" colspan="1">27.18 ± 4.02</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">CP FWf</td><td align="left" rowspan="1" colspan="1">0.78 ± 0.04</td><td align="left" rowspan="1" colspan="1">0.76 ± 0.06</td><td align="char" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" rowspan="1" colspan="1">CPV</td><td align="left" rowspan="1" colspan="1">0.98 ± 0.20</td><td align="left" rowspan="1" colspan="1">0.94 ± 0.23</td><td align="char" rowspan="1" colspan="1">0.143</td></tr><tr><td align="left" rowspan="1" colspan="1">CP FA<xref rid="alz70239-tbl1-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">−1.65 ± 0.25</td><td align="left" rowspan="1" colspan="1">−1.64 ± 0.23</td><td align="char" rowspan="1" colspan="1">0.841</td></tr><tr><td align="left" rowspan="1" colspan="1">CP MD<xref rid="alz70239-tbl1-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">−7.64 ± 0.16</td><td align="left" rowspan="1" colspan="1">−7.67 ± 0.10</td><td align="char" rowspan="1" colspan="1">0.091</td></tr><tr><td align="left" rowspan="1" colspan="1">CP CBF<xref rid="alz70239-tbl1-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">3.80 ± 0.53</td><td align="left" rowspan="1" colspan="1">3.77 ± 0.85</td><td align="char" rowspan="1" colspan="1">0.746</td></tr><tr><td align="left" rowspan="1" colspan="1">DTI‐ALPS</td><td align="left" rowspan="1" colspan="1">1.15 ± 0.17</td><td align="left" rowspan="1" colspan="1">1.23 ± 0.16</td><td align="char" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">pWMH<xref rid="alz70239-tbl1-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">−3.83 ± 1.52</td><td align="left" rowspan="1" colspan="1">−4.78 ± 1.73</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">dWMH<xref rid="alz70239-tbl1-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">−5.74 ± 1.70</td><td align="left" rowspan="1" colspan="1">−6.44 ± 1.73</td><td align="char" rowspan="1" colspan="1">0.005</td></tr></tbody></table><table-wrap-foot><fn id="alz70239-tbl1-note-0003"><p>Abbreviations: Aβ, amyloid beta; <italic toggle="yes">APOE</italic>, apolipoprotein E; CBF, cerebral blood flow; CP, choroid plexus; CPV, volume of choroid plexus; DTI‐ALPS, diffusion tensor image analysis along the perivascular space; dWMH, deep white matter hyperintensity; FA, fractional anisotropy; FWf, free‐water fraction; MD, mean diffusivity; MMSE, Mini‐Mental State Examination; MRI, magnetic resonance imaging; pWMH, periventricular white matter hyperintensity; RJNB‐D, NeuroBank‐Dementia cohort at Ruijin Hospital.</p></fn><fn id="alz70239-tbl1-note-0001"><label>
+<sup>a</sup>
+</label><p>Different sample size for <italic toggle="yes">APOE</italic> genotype: Aβ+, <italic toggle="yes">n</italic> = 108; Aβ–, <italic toggle="yes">n</italic> = 66.</p></fn><fn id="alz70239-tbl1-note-0002"><label>
+<sup>b</sup>
+</label><p>The log‐transformed values were used.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="alz70239-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Month 12 demographic and MRI characteristics in RJNB‐D cohort (<italic toggle="yes">n</italic> = 76).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Aβ+ (<italic toggle="yes">n</italic> = 46)</th><th align="left" rowspan="1" colspan="1">Aβ– (<italic toggle="yes">n </italic>= 30)</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age</td><td align="left" rowspan="1" colspan="1">72.33 ± 6.22</td><td align="left" rowspan="1" colspan="1">66.67 ± 7.59</td><td align="char" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">28 (61%)</td><td align="left" rowspan="1" colspan="1">21 (70%)</td><td align="char" rowspan="1" colspan="1">0.416</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 carrier<xref rid="alz70239-tbl2-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">27(63%)</td><td align="left" rowspan="1" colspan="1">5 (19%)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Baseline CP FWf</td><td align="left" rowspan="1" colspan="1">0.77 ± 0.04</td><td align="left" rowspan="1" colspan="1">0.75 ± 0.05</td><td align="char" rowspan="1" colspan="1">0.020</td></tr><tr><td align="left" rowspan="1" colspan="1">Month 12 CP FWf</td><td align="left" rowspan="1" colspan="1">0.80 ± 0.04</td><td align="left" rowspan="1" colspan="1">0.76 ± 0.06</td><td align="char" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">ΔCP FWf</td><td align="left" rowspan="1" colspan="1">0.03 ± 0.04</td><td align="left" rowspan="1" colspan="1">0.01 ± 0.04</td><td align="char" rowspan="1" colspan="1">0.046</td></tr><tr><td align="left" rowspan="1" colspan="1">Baseline DTI‐ALPS</td><td align="left" rowspan="1" colspan="1">1.20 ± 0.14</td><td align="left" rowspan="1" colspan="1">1.27 ± 0.15</td><td align="char" rowspan="1" colspan="1">0.081</td></tr><tr><td align="left" rowspan="1" colspan="1">Month 12 DTI‐ALPS</td><td align="left" rowspan="1" colspan="1">1.13 ± 0.18</td><td align="left" rowspan="1" colspan="1">1.23 ± 0.20</td><td align="char" rowspan="1" colspan="1">0.052</td></tr><tr><td align="left" rowspan="1" colspan="1">ΔDTI‐ALPS</td><td align="left" rowspan="1" colspan="1">−0.08 ± 0.11</td><td align="left" rowspan="1" colspan="1">−0.05 ± 0.10</td><td align="char" rowspan="1" colspan="1">0.226</td></tr><tr><td align="left" rowspan="1" colspan="1">Baseline pWMH<xref rid="alz70239-tbl2-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">−4.01 ± 1.52</td><td align="left" rowspan="1" colspan="1">−4.83 ± 1.49</td><td align="char" rowspan="1" colspan="1">0.022</td></tr><tr><td align="left" rowspan="1" colspan="1">Month 12 pWMH<xref rid="alz70239-tbl2-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">−4.07 ± 2.20</td><td align="left" rowspan="1" colspan="1">−4.82 ± 1.96</td><td align="char" rowspan="1" colspan="1">0.126</td></tr><tr><td align="left" rowspan="1" colspan="1">ΔpWMH</td><td align="left" rowspan="1" colspan="1">0.01 ± 0.03</td><td align="left" rowspan="1" colspan="1">0.00 ± 0.01</td><td align="char" rowspan="1" colspan="1">0.078</td></tr><tr><td align="left" rowspan="1" colspan="1">Baseline tau SUVR<xref rid="alz70239-tbl2-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.64 ± 0.46</td><td align="left" rowspan="1" colspan="1">−0.03 ± 0.14</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Month 12 tau SUVR<xref rid="alz70239-tbl2-note-0002" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">0.67 ± 0.51</td><td align="left" rowspan="1" colspan="1">−0.10 ± 0.16</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Baseline GFAP</td><td align="left" rowspan="1" colspan="1">153.05 ± 93.36</td><td align="left" rowspan="1" colspan="1">76.94 ± 64.01</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Month 12 GFAP</td><td align="left" rowspan="1" colspan="1">167.52 ± 84.90</td><td align="left" rowspan="1" colspan="1">128.61 ± 71.91</td><td align="char" rowspan="1" colspan="1">0.146</td></tr></tbody></table><table-wrap-foot><fn id="alz70239-tbl2-note-0003"><p>Abbreviations: Aβ, amyloid beta; <italic toggle="yes">APOE</italic>, apolipoprotein E; CP, choroid plexus; DTI‐ALPS, diffusion tensor image analysis along the perivascular space; dWMH, deep white matter hyperintensity; FWf, free‐water fraction; GFAP, glial fibrillary acidic protein; pWMH, periventricular white matter hyperintensity; RJNB‐D, NeuroBank‐Dementia cohort at Ruijin Hospital; SUVR, standardized uptake value ratio.</p></fn><fn id="alz70239-tbl2-note-0001"><label>
+<sup>a</sup>
+</label><p>Different sample size for <italic toggle="yes">APOE</italic> genotype: Aβ+, <italic toggle="yes">n</italic> = 43; Aβ–, <italic toggle="yes">n</italic> = 26.</p></fn><fn id="alz70239-tbl2-note-0002"><label>
+<sup>b</sup>
+</label><p>Nature logarithm was taken for normalization.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Compared to the Aβ– group, increased CP FWf (0.78 ± 0.04 vs. 0.76 ± 0.06, <italic toggle="yes">P</italic> = 0.002), pWMH volume (–3.83 ± 1.52 vs. –4.78 ± 1.73, <italic toggle="yes">P</italic> &lt; 0.001), dWMH volume (–5.74 ± 1.70 vs. –5.74 ± 1.70, <italic toggle="yes">P</italic> = 0.005, both log transformed), and decreased DTI‐ALPS (1.15 ± 0.17 vs. 1.23 ± 0.16, <italic toggle="yes">P</italic> = 0.001) were observed in Aβ+ participants (Table <xref rid="alz70239-tbl-0001" ref-type="table">1</xref>, Figure <xref rid="alz70239-fig-0001" ref-type="fig">1A</xref>). The FA, MD, CBF, and volumes of CP (CPV) were similar between groups (Table <xref rid="alz70239-tbl-0001" ref-type="table">1</xref>, all <italic toggle="yes">p</italic>  &gt; 0.050). A subgroup analysis of glymphatic markers between Aβ+ MCI and Aβ– MCI groups at similar cognitive stages showed no significant differences in CP FWf (0.77 ± 0.04 vs. 0.78 ± 0.04, <italic toggle="yes">p</italic>  = 0.368), pWMH volume (–4.52 ± 1.61 vs. –4.52 ± 1.46, <italic toggle="yes">p</italic>  = 0.990), dWMH volume (–6.05 ± 1.725 vs. –6.72 ± 1.857, <italic toggle="yes">p</italic> = 0.192), and DTI‐ALPS (1.19 ± 0.18 vs. 1.19 ± 0.13, <italic toggle="yes">p</italic> = 0.984).</p><fig position="float" fig-type="FIGURE" id="alz70239-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Group difference and correlation between CP FWf and glymphatic markers. A, Increased CP FWf (<italic toggle="yes">p</italic> = 0.002) and decreased DTI‐ALPS (<italic toggle="yes">p</italic> = 0.001) were observed in Aβ+ participants in RJNB‐D cohort. B, Across all participants, mediation analysis revealed a partial mediation effect of DTI‐ALPS between CP FWf and pWMH. Within the Aβ+ group, a significant partial mediation effect of DTI‐ALPS between CP FWf and pWMH was observed. The Aβ– controls displayed the trend of mediation effect of DTI‐ALPS between CP FWf and pWMH. The log‐transformed pWMH volume was used. All the mediation analysis was adjusted for age. C, Increased CP FWf (<italic toggle="yes">p</italic> = 0.006) and decreased DTI‐ALPS (<italic toggle="yes">p</italic> = 0.018) were observed in Aβ+ participants in the ADNI dataset. D, Predictive values of CP FWf alone (blue) and with age and <italic toggle="yes">APOE</italic> genotype (red) for Aβ positivity calculated by ROC. The AUCs were similar for CP FWf alone (RJNB‐D AUC = 0.623; ADNI: AUC = 0.625), and with age and <italic toggle="yes">APOE</italic> genotype (RJNB‐D: AUC = 0.770; ADNI: AUC = 0.815). Aβ, amyloid beta; ADNI, Alzheimer's Disease Neuroimaging Initiative; AUC, area under the curve; <italic toggle="yes">APOE</italic>, apolipoprotein E; CP, choroid plexus; DTI‐ALPS, diffusion tensor image analysis along the perivascular space; FWf, free‐water fraction; pWMH, periventricular white matter hyperintensity; RJNB‐D, NeuroBank‐Dementia cohort at Ruijin Hospital; ROC, receiver operating characteristic.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-21-e70239-g004.jpg"/></fig><p>After adjustment for age, sex, and <italic toggle="yes">APOE</italic> genotype, CP FWf (β = 10.02, <italic toggle="yes">p</italic> = 0.015), DTI‐ALPS (β = –3.19, <italic toggle="yes">p</italic> = 0.007), pWMH (β = 0.33, <italic toggle="yes">p</italic> = 0.007), and dWMH (β = 0.28, <italic toggle="yes">p</italic> = 0.013) independently indicated Aβ positivity (Tables <xref rid="alz70239-supinfo-0001" ref-type="">S1–S4</xref> in supporting information, respectively).</p></sec><sec id="alz70239-sec-0170"><label>3.2</label><title>The CP FWf associated with DTI‐ALPS and WMH</title><p>Among all participants, CP FWf correlated with DTI‐ALPS (<italic toggle="yes">r</italic> = –0.47, <italic toggle="yes">p</italic>  &lt; 0.001), pWMH (<italic toggle="yes">r</italic> = 0.46, <italic toggle="yes">p</italic>  &lt; 0.001), and dWMH (<italic toggle="yes">r</italic> = 0.21, <italic toggle="yes">p</italic>  = 0.003). With adjustment for age, mediation analysis showed DTI‐ALPS partially mediated the association between CP FWf and pWMH (indirect effect standardized‐β = 0.26, <italic toggle="yes">p</italic>  &lt; 0.001, mediated effect = 32.59%; Figure <xref rid="alz70239-fig-0001" ref-type="fig">1B</xref>), but not dWMH (indirect effect standardized‐β = 0.09, <italic toggle="yes">p</italic> = 0.236).</p><p>Within the Aβ+ group, CP FWf correlated with DTI‐ALPS (<italic toggle="yes">r</italic> = –0.45, <italic toggle="yes">p</italic>  &lt; 0.001) and pWMH (<italic toggle="yes">r</italic> = 0.40, <italic toggle="yes">p</italic>  &lt; 0.001), but not dWMH (<italic toggle="yes">r</italic> = 0.11, <italic toggle="yes">p</italic>  = 0.213). Partial mediation effect of DTI‐ALPS between CP FWf and pWMH was also observed (indirect effect standardized‐β = 0.25, <italic toggle="yes">p</italic> = 0.003, mediated effect = 35.76%; Figure <xref rid="alz70239-fig-0001" ref-type="fig">1C</xref>), adjusted for age.</p><p>In Aβ– controls, CP FWf was also related to DTI‐ALPS (<italic toggle="yes">r</italic> = –0.44, <italic toggle="yes">p</italic>  &lt; 0.001) and pWMH (<italic toggle="yes">r</italic> = 0.45, <italic toggle="yes">p</italic>  &lt; 0.001), yet the mediation effect of DTI‐ALPS between CP FWf and pWMH was insignificant (Figure <xref rid="alz70239-fig-0001" ref-type="fig">1D</xref>), adjusted for age.</p></sec><sec id="alz70239-sec-0180"><label>3.3</label><title>Validation of CP FWf measurements</title><p>The measurements of CP FWf were repeated with an eroded CP mask (It shrunk the CP mask by 2mm in all directions using a box‐shaped kernel) to minimize the contamination of CSF. The FWf in the eroded CP FWf was highly correlated with the original CP FWf (ρ = 0.76, <italic toggle="yes">p</italic> &lt; 0.001), as well as DTI‐ALPS (ρ = –0.35, <italic toggle="yes">p</italic>  &lt; 0.001) and pWMH (ρ = 0.18, <italic toggle="yes">p</italic>  = 0.044, Figure <xref rid="alz70239-supinfo-0001" ref-type="">S2</xref> in supporting information). We also test the FWf measurement in another non‐neuronal tissue: CSF. The distribution of FWf values in the central part of lateral ventricles was skewed, with the majority of values equaling 1 (Figure <xref rid="alz70239-supinfo-0001" ref-type="">S3</xref> in supporting information). It validated our application of FWf measurement because the main component of CSF in ventricles were free water.</p><p>External validation was further performed using the public ADNI dataset. Table <xref rid="alz70239-supinfo-0001" ref-type="">S5</xref> in supporting information summarizes the baseline characteristics of all participants (<italic toggle="yes">n</italic> = 168, mean age, 72.52 years ± 7.77 [SD]; 93 females). In the ADNI dataset, the Aβ+ group (<italic toggle="yes">n</italic> = 67) included CU (<italic toggle="yes">n</italic> = 25), MCI (<italic toggle="yes">n</italic> = 31), and AD (<italic toggle="yes">n</italic> = 11) and the Aβ– group (<italic toggle="yes">n</italic> = 101) consisted of CU (<italic toggle="yes">n</italic> = 74), MCI (<italic toggle="yes">n</italic> = 26), and dementia (<italic toggle="yes">n</italic> = 1). Consistent with our cohort, increased CP FWf (0.81 ± 0.07 vs. 0.78 ± 0.07, <italic toggle="yes">p</italic> = 0.006) and decreased DTI‐ALPS (1.08 ± 0.15 vs. 1.14 ± 0.17, <italic toggle="yes">p</italic> = 0.018) were observed in Aβ+ participants from the ADNI dataset (Figure <xref rid="alz70239-fig-0001" ref-type="fig">1C</xref>). In the ADNI dataset, CP FWf was also highly correlated with DTI‐ALPS among all the participants (r = –0.53, <italic toggle="yes">p</italic> &lt; 0.001), in the Aβ+ subgroup (r = –0.57, <italic toggle="yes">p</italic> &lt; 0.001), and in the Aβ– subgroup (r = –0.48, <italic toggle="yes">p</italic> &lt; 0.001).</p><p>In addition, predictive values of CP FWf calculated by receiver operating characteristic was similar between ADNI (area under the curve [AUC] = 0.625) and our cohort (AUC = 0.623), and the predictive values were moderately improved when adjusted for age and <italic toggle="yes">APOE</italic> genotype (ADNI: AUC = 0.815; RJNB‐D: AUC = 0.770, Figure <xref rid="alz70239-fig-0001" ref-type="fig">1D</xref>).</p></sec><sec id="alz70239-sec-0190"><label>3.4</label><title>CP FWf across the AD continuum</title><sec id="alz70239-sec-0200"><label>3.4.1</label><title>CP FWf correlated with AD imaging and blood biomarkers</title><p>In the Aβ+ group of the RJNB‐D cohort, CP FWf showed a significant relationship with AD imaging markers, including cortical tau SUVR, cortical SV2A SUVR, hippocampus volume, cortex volume, as well as MMSE score (Figure <xref rid="alz70239-fig-0002" ref-type="fig">2A</xref>, Table <xref rid="alz70239-supinfo-0001" ref-type="">S6</xref> in supporting information).</p><fig position="float" fig-type="FIGURE" id="alz70239-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>CP FWf correlated with imaging metrics and blood biomarkers in AD. A, Spearman correlation analysis between the potential imaging biomarkers of CP, glymphatic function markers, AD imaging markers, and global cognitive performance within the Aβ+ group. The CP FWf showed significant association with CP FA, CPV, DTI‐ALPS, pWMH, cortical tau SUVR, cortical SV2A SUVR, hippocampus volume, cortex volume, and MMSE. The log‐transformed pWMH volume was used. B, The vertex‐wise GLM analysis revealed a negative correlation map between CP FWf and cortical thickness, and tau SUVR exhibited a positive correlation map with CP FWf. Age and sex were included as covariates in the GLM. Only the significant clusters with corrected <italic toggle="yes">p</italic> &lt; 0.05 after permutations are colored. The color bar represents uncorrected vertex‐wise <italic toggle="yes">p</italic> values. C, CP FWf correlated with peripheral blood AD biomarkers and cognition. Within the Aβ+ group, there was a positive correlation between CP FWf and NfL (β = 3.117, <italic toggle="yes">p</italic> = 0.026), GFAP (β = 5.28, <italic toggle="yes">p</italic> &lt; 0.001), NRGN (β = 5.70, <italic toggle="yes">p</italic> = 0.028), TNF‐α (β = 10.83, <italic toggle="yes">p</italic> = 0.009), and global tau (β = 9.27, <italic toggle="yes">p</italic> = 0.002). Subgroup analysis of AD (red) and MCI (green) stages were presented by dashed line. The log‐transformed levels of blood AD biomarkers were used. Moreover, CP FWf was negatively associated with cognitive performance, including MMSE, AFT, and CDT and SV2A. All the regressions were adjusted for age, sex, and <italic toggle="yes">APOE</italic> genotype. Aβ, amyloid beta; AD, Alzheimer's disease; AFT, animal fluency test; <italic toggle="yes">APOE</italic>, apolipoprotein E; CBF, cerebral blood flow; CDT, Clock Drawing Test; CP, choroid plexus; CPV, volume of choroid plexus; DTI‐ALPS, diffusion tensor image analysis along the perivascular space; FA, fractional anisotropy; FBP, 18F‐florbetapir; FWf, free‐water fraction; GFAP, glial fibrillary acidic protein; GLM, general linear model; MCI, mild cognitive impairment; MD, mean diffusivity; MMSE, Mini‐Mental State Examination; NfL, neurofilament light chain; NRGN, neurogranin; pWMH, periventricular white matter hyperintensity; SUVR, standardized uptake value ratios; SV2A, synaptic vesicle glycoprotein 2A; TNF‐α, tumor necrosis factor‐α.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-21-e70239-g003.jpg"/></fig><p>Adjusted for age, sex, and <italic toggle="yes">APOE</italic> genotype, elevated CP FWf linked to increased cortical tau accumulation (tau SUVR, β = 9.27, <italic toggle="yes">p</italic> = 0.002, Figure <xref rid="alz70239-fig-0002" ref-type="fig">2C</xref>, Table <xref rid="alz70239-supinfo-0001" ref-type="">S7</xref> in supporting information) and decreased cortical synaptic density (SV2A SUVR, β = –3.43, <italic toggle="yes">p</italic> = 0.017, Figure <xref rid="alz70239-fig-0002" ref-type="fig">2C</xref>, Table <xref rid="alz70239-supinfo-0001" ref-type="">S8</xref> in supporting information). However, CP FWf did not influence FBP SUVR (β = 0.98, <italic toggle="yes">p</italic> = 0.103). Vertex‐wise analysis illustrated that CP FWf negatively correlated with cortical thickness in bilateral post cingulate gyrus, precuneus, temporal, and insular lobes, but positively correlated with tau SUVR in bilateral insular, temporal regions, and precuneus (Figure <xref rid="alz70239-fig-0002" ref-type="fig">2B</xref>). Moreover, CP FWf negatively correlated with SV2A SUVR in the right inferior parietal gyrus (Figure <xref rid="alz70239-supinfo-0001" ref-type="">S4</xref> in supporting information).</p><p>Within the Aβ+ group, CP FWf correlated with NfL (β = 3.12, <italic toggle="yes">p</italic> = 0.026, <italic toggle="yes">n</italic> = 92), GFAP (β = 5.28, <italic toggle="yes">p</italic> &lt; 0.001, <italic toggle="yes">n</italic> = 92), NRGN (β = 5.70, <italic toggle="yes">P </italic>= 0.028, <italic toggle="yes">n</italic> = 82), and TNF‐α (β = 10.83, <italic toggle="yes">p</italic> = 0.009, <italic toggle="yes">n</italic> = 81; Tables <xref rid="alz70239-supinfo-0001" ref-type="">S9–S12</xref> in supporting information), adjusted for age, sex, and <italic toggle="yes">APOE</italic> genotype. (Due to the different availability of adequate blood samples, the sample sizes are noted.)</p><p>Subgroup analysis (Aβ+ AD group and Aβ+ MCI group) was performed for each biomarker. As a result, the associations between CP FWf and SV2A SUVR, NfL, GFAP, NRGN remained significant in the AD stage (Figure <xref rid="alz70239-fig-0002" ref-type="fig">2C</xref>, red dashed line), whereas the associations between CP FWf and TNF‐α were significant in the MCI stage (Figure <xref rid="alz70239-fig-0002" ref-type="fig">2C</xref>, green dashed line).</p><p>On the other hand, for the Aβ– group, the associations between CP FWf and biomarkers were also analyzed. Significant association was observed between CP FWf and tau SUVR (β = 1.12, <italic toggle="yes">p</italic> = 0.025) and TNF‐α (β = 9.15, <italic toggle="yes">p</italic>  = 0.007), but not SV2A SUVR (β = –1.40, <italic toggle="yes">p</italic>  = 0.121), NfL (β = 1.97, <italic toggle="yes">p</italic>  = 0.090), GFAP (β = 1.24, <italic toggle="yes">p</italic>  = 0.345), or NRGN (β = 4.12, <italic toggle="yes">p</italic>  = 0.157).</p></sec><sec id="alz70239-sec-0210"><label>3.4.2</label><title>AD biomarkers mediated CP FWf's effect on cognition</title><p>Increased CP FWf linked to worse cognitive performance, including overall cognition (MMSE, β = –53.36, <italic toggle="yes">p</italic>  &lt; 0.001), verbal function (AFT, β = –29.83, <italic toggle="yes">p</italic>  = 0.014), and executive function (CDT, β = –35.29, <italic toggle="yes">p</italic> = 0.025) within the Aβ+ group (Figure <xref rid="alz70239-fig-0002" ref-type="fig">2C</xref>, Tables <xref rid="alz70239-supinfo-0001" ref-type="">S13–S15</xref> in supporting information), adjusted for age, sex, and <italic toggle="yes">APOE</italic> genotype.</p><p>Partial mediation effects of tau SUVR (indirect effect standardized‐β = –0.18, <italic toggle="yes">p</italic>  = 0.043, mediated effect = 40.88%, <italic toggle="yes">n</italic> = 110, Figure <xref rid="alz70239-fig-0003" ref-type="fig">3A</xref>), but not SV2A SUVR (indirect effect standardized‐β = –0.21, <italic toggle="yes">p</italic>  = 0.089, mediated effect = 21.73%, <italic toggle="yes">n</italic> = 64, Figure <xref rid="alz70239-fig-0003" ref-type="fig">3B</xref>), was observed between CP FWf and MMSE, adjusted for age. Although NfL, NRGN, and TNF‐α failed to mediate the association between CP FWf and MMSE (Figure <xref rid="alz70239-fig-0003" ref-type="fig">3D</xref>), GFAP exhibited a full mediation effect (mediated effect = 38.69%, <italic toggle="yes">n</italic> = 111, Figure <xref rid="alz70239-fig-0003" ref-type="fig">3C</xref>), adjusted for age. These findings suggested that the impact of CP FWf on cognition is mediated via tau‐ and GFAP‐related pathways.</p><fig position="float" fig-type="FIGURE" id="alz70239-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Mediation effects of AD biomarkers on the relationship between CP FWf and MMSE. We observed a partial mediation effect of tau (A), and marginal effect of SV2A (B). Notably, GFAP exhibited a full mediation effect (C). On the other hand, NfL, NRGN, and TNF‐α did not significantly mediate the association between CP FWf and MMSE (D). All the mediation analysis was adjusted for age. AD, Alzheimer's disease; CP, choroid plexus; FWf, free‐water fraction; GFAP, glial fibrillary acidic protein; MMSE, Mini‐Mental State Examination; NfL, neurofilament light chain; NRGN, neurogranin; SUVR, standardized uptake value ratios; SV2A, synaptic vesicle glycoprotein 2A; TNF‐α, tumor necrosis factor‐α.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-21-e70239-g002.jpg"/></fig></sec></sec><sec id="alz70239-sec-0220"><label>3.5</label><title>The effect of longitudinal CP FWf changes</title><p>During the 12‐month follow‐up, CP FWf increased drastically in Aβ+ participants (<italic toggle="yes">F</italic> statistic = 16.673, corrected <italic toggle="yes">p</italic> &lt; 0.001, Table <xref rid="alz70239-supinfo-0001" ref-type="">S16</xref> in supporting information). Moreover, Aβ+ participants demonstrated a faster growth rate than Aβ– controls (time × group interaction effect: <italic toggle="yes">F</italic> statistic = 4.118, corrected <italic toggle="yes">p</italic> = 0.046, Figure <xref rid="alz70239-fig-0004" ref-type="fig">4A</xref>, Table <xref rid="alz70239-supinfo-0001" ref-type="">S16</xref>). The growth rates of CP FWf did not differ between <italic toggle="yes">APOE</italic> ε4 carriers (<italic toggle="yes">n</italic> = 27) and non‐carriers (<italic toggle="yes">n</italic> = 16) in the Aβ+ group (<italic toggle="yes">F</italic> statistic = 0.004, <italic toggle="yes">P </italic>= 0.949, Figure <xref rid="alz70239-fig-0004" ref-type="fig">4B</xref>).</p><fig position="float" fig-type="FIGURE" id="alz70239-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Longitudinal changes in CP FWf indicated neurodegeneration. The linear mixed model analysis indicated that Aβ+ participants exhibited a more rapid increase in CP FWf compared to Aβ– controls. Individual changes are represented by dashed lines, while the average changes in the group are depicted by solid lines (A). In the Aβ+ group, both <italic toggle="yes">APOE</italic> ε4 carriers and non‐carriers showed similar rates of CP FWf increase (B). The annual changes in CP FWf (ΔCP FWf) were significantly associated with alterations in DTI‐ALPS (ΔDTI‐ALPS) (C). Furthermore, linear mixed models with standardized preprocessing revealed that the growth rate of CP FWf surpassed that of pWMH, tau SUVR, and GFAP (D). Aβ, amyloid beta; <italic toggle="yes">APOE</italic>, apolipoprotein E; CP, choroid plexus; DTI‐ALPS, diffusion tensor image analysis along the perivascular space; FWf, free‐water fraction; GFAP, glial fibrillary acidic protein; pWMH, periventricular white matter hyperintensity; SUVR, standardized uptake value ratio.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ALZ-21-e70239-g001.jpg"/></fig><p>In Aβ+ participants, annual changes in CP FWf, DTI‐ALPS, pWMH volume, and MMSE were calculated as ΔCP FWf, ΔDTI‐ALPS, ΔpWMH, and ΔMMSE. Spearman correlation analysis suggested ΔCP FWf paralleled ΔDTI‐ALPS (ρ = –0.42, <italic toggle="yes">p</italic> = 0.006, Figure <xref rid="alz70239-fig-0004" ref-type="fig">4C</xref>), but not ΔpWMH (ρ = 0.21, <italic toggle="yes">p</italic> = 0.173) or ΔMMSE (ρ = –0.110, <italic toggle="yes">p</italic>  = 0.482). The association between ΔCP FWf and ΔDTI‐ALPS remained significant upon adjustment for age and sex (β = –1.02, <italic toggle="yes">p</italic>  = 0.016). The growth rate of CP FWf exceeded that of pWMH (interaction effect, <italic toggle="yes">F</italic> statistic = 11.201, corrected <italic toggle="yes">p</italic> = 0.001), tau SUVR (interaction effect, <italic toggle="yes">F</italic> statistic = 6.804, corrected <italic toggle="yes">p</italic>  = 0.011) and GFAP (interaction effect, <italic toggle="yes">F</italic> statistic = 4.430, corrected <italic toggle="yes">p</italic>  = 0.039, Figure <xref rid="alz70239-fig-0004" ref-type="fig">4D</xref>).</p></sec></sec><sec id="alz70239-sec-0230"><label>4</label><title>DISCUSSION</title><p>Our study observed increased CP FWf and decreased DTI‐ALPS index at baseline in Aβ+ participants. Also, we noted elevated CP FWf exacerbates pWMH, partially mediated by the glymphatic system, revealing a potential mechanism linking CSF dynamics to white matter lesions. We also observed significant associations between CP FWf and pivotal AD imaging markers (cortical tau SUVR, cortical SV2A SUVR, hippocampus volume, cortex volume) and cognitive performance. In longitudinal analyses, we observed a significant and faster increase in CP FWf during a 12‐month follow‐up period in Aβ+ participants compared to Aβ– controls, and the rate of progression of CP FWf exceeded that of WMH and tau accumulation.</p><p>The CP is a highly vascularized structure that regulates CSF, clears neurotoxins, and plays a crucial role in the glymphatic system.<xref rid="alz70239-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz70239-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Studies in AD demonstrated that CPV was linked to cognitive impairment,<xref rid="alz70239-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz70239-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="alz70239-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70239-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> and levels of Aβ and tau in the CSF, indicating that CP may participate in the clearance of Aβ and tau.<xref rid="alz70239-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Prior results regarding the relationship between CPV and Aβ positivity were inconsistent.<xref rid="alz70239-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz70239-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70239-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> These disagreements may be attributed to the contamination of the partial volume effect of CSF in calculating CPV by traditional methods,<xref rid="alz70239-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> and also the morphological nature of CPV, which may display a relatively delayed response to Aβ deposition. Previous studies have demonstrated that CPV increased at a relatively late disease stage. Choi et al. analyzed CPV at different stages of AD in the disease spectrum, including early MCI, late MCI, and AD, and found that CPV was greater in patients at late MCI and AD stages.<xref rid="alz70239-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Similarly, using the ADNI dataset, Tadayon et al. divided the AD continuum into significant memory concern, early MCI, late MCI, and AD, and enlarged CPV was only observed in the AD stage.<xref rid="alz70239-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> The enlargement of CP is a chorionic morphological change, which may be due to a higher degree of stromal fibrosis, stromal dystrophic calcification, blood vessel thickening, or inflammation.<xref rid="alz70239-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Therefore, the change of CPV may be detected at delayed disease stages. In the current study, we view the AD continuum as a whole disease spectrum without manually dividing the disease stages, and we also failed to verify the association between CPV and Aβ positivity. However, after evaluating various novel imaging biomarkers that reflect CP microstructure, including CP FWf, CP FA, CP MD, and CP CBF, we found that CP FWf, derived from free‐water mapping, was the only index that significantly differed between Aβ+ and Aβ– groups. Free‐water mapping uses a bi‐tensor model to differentiate water diffusion in brain tissue and extracellular space, providing better microstructural insights than the traditional single‐tensor model.<xref rid="alz70239-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="alz70239-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p><p>The DTI‐ALPS index is a reliable parameter of the glymphatic system.<xref rid="alz70239-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Previous studies showed that enlarged CP and reduced DTI‐ALPS were both associated with WMH growth.<xref rid="alz70239-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="alz70239-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Moreover, DTI‐ALPS mediated the association between CP and WMH burden, suggesting that WMH growth can result from glymphatic disorder.<xref rid="alz70239-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> In our study, CP FWf showed solid correlation with DTI‐ALPS and WMHs, suggesting that CP FWf reliably indicated glymphatic function. We noticed that in Aβ+ participants CP FWf was associated with pWMH that were anatomically located nearer to the CP, but not with dWMH, and there is a partial mediating effect of DTI‐ALPS between CP FWf and pWMH.</p><p>A recent study by Jeong et al. demonstrated a positive correlation between CP enlargement and Aβ burden, but this correlation was only significant in the AD non‐dementia group,<xref rid="alz70239-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> likely due to the “ceiling effect,” as Aβ is saturated in the dementia state.<xref rid="alz70239-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Similarly, our study showed that CP FWf was significantly associated with Aβ positivity, but did not correlate with Aβ burden measured by FBP SUVR. Additionally, our subgroup analysis comparing Aβ+ MCI and Aβ– MCI groups did not reveal significant differences in CP FWf, WMH, or DTI‐ALPS. These findings suggest that CP FWf is primarily involved in non‐specific neurodegeneration rather than Aβ pathology. However, due to the limited sample size of our Aβ– MCI group, future studies should further investigate the relationship between CP FWf and non‐AD dementias.</p><p>A recent report indicated a positive correlation between global tau burden and CP enlargement in AD.<xref rid="alz70239-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> We further these findings by vertex‐wise analysis, and showed that CP FWf changed in parallel with tau accumulation primarily in bilateral insular, temporal lobes, and precuneus. Furthermore, we found that increased tau burden mediated the detrimental effects of CP FWf on cognition. This finding adds clinical evidence to a recent study indicating that glymphatic dysfunction impairs cognition through poor tau clearance in AD mouse models.<xref rid="alz70239-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>
+</p><p>In addition to the clearance of neurotoxins, the glymphatic system can also modulate neuroinflammation.<xref rid="alz70239-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> We investigated the relationship between AD‐related markers and CP FWf in the Aβ+ group through a subgroup analysis (AD and MCI). The results showed that CP FWf was significantly associated with NfL, GFAP, and NRGN in the AD stage, while its association with TNF‐α was significant in the MCI stage. However, when considering the disease continuum within the A‐T‐N framework (combining AD and MCI individuals with the same Aβ+ pathological background) CP FWf exhibited significant associations with all biomarkers, including tau, SV2A, NfL, GFAP, NRGN, and TNF‐α. Among them, GFAP correlated with CP FWf, and substantially mediated the negative impact of CP FWf on cognitive function. GFAP is a structural protein in astrocytes and is a marker of astrocyte activation related to aging.<xref rid="alz70239-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> A previous study using a PET tracer of astrocyte reactivity has further confirmed the activation of astrocytes in AD and late‐onset cognitive decline.<xref rid="alz70239-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> And recent study showed that blood GFAP correlated to impaired glymphatic function and global cognition in community‐dwelling older adults.<xref rid="alz70239-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Astrocytes are critical components of the glymphatic system by ensheathing the brain vasculature with their endfeet.<xref rid="alz70239-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz70239-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Through the aquaporin‐4 (AQP4) channels enriched on their endfeet, astrocytes actively participate in the regulation of glymphatic function and the clearance of metabolic waste, such as Aβ and tau.<xref rid="alz70239-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> The location of astrocytic AQP4 is under dynamic regulation. In the state of neurodegeneration, astrocyte activation and AQP4 mislocation was observed, and may affect the glymphatic clearance of Aβ and tau.<xref rid="alz70239-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Our findings, consistent with the previous publications, provided new evidence for involvement of an astrocyte‐related pathway in glymphatic dysfunction in AD pathology.</p><p>We have also performed an association analysis between CP FWf and biomarkers in the Aβ– group. Significant association was observed between CP FWf and tau SUVR and TNF‐α. Combined with the findings in the Aβ+ group, the results suggested that tau and neuroinflammation may be potential mechanisms underlying CP FWf alterations in the progress of neurodegeneration. However, the exact and detailed mechanisms need further experimental and clinical evidence.</p><p>The current study is the first to calculate the FWf of CP. To further validate the solidity of our measurements, the FWf values of non‐neuronal free water in lateral ventricles and eroded part of CP were extracted. Consistent with our expectations, the FWf of CSF in the lateral ventricles was approximate to 1, and the FWf of eroded CP was highly correlated to CP. Finally, the diagnostic power (AUC) of CP FWf was highly consistent in ADNI and our cohort. Although as a single parameter the CP FWf failed to present optimal AUCs, the values were moderately improved with adjustment of age and <italic toggle="yes">APOE</italic> genotype, indicating its potential value as one of the contributors in a composite predictive frame.</p><p>Our study is aimed at providing a novel imaging marker for glymphatic function. In addition to traditional glymphatic markers, CP FWf provided microstructural insights about the CP. In the AD continuum, CP FWf, but not DTI‐ALPS, WMH, or CPV, is related to tau and SV2A (Figure <xref rid="alz70239-fig-0002" ref-type="fig">2A</xref>). Our findings suggested that CP FWf may be related to multiple mechanisms of AD progression and neurodegeneration. Combined with traditional glymphatic markers like DTI‐ALPS, WMH, and CPV, we hope that CP FWf can assist the non‐invasive evaluation of glymphatic function in neurodegenerative conditions like AD.</p><p>Our study has limitations. First, the sample size of this longitudinal study is small, as the cohort is newly established with approximately half of the participants not reaching the 12‐month follow‐up. Also, this duration may be too short to observe significant changes in cognitive performance and imaging markers like pWMH volume, suggesting a longer follow‐up is warranted. However, ΔCP FWf already showed remarkable changes, indicating its sensitivity in monitoring disease progression. Additionally, the limited number of blood samples and analyses may influence the results, so findings related to blood markers should be viewed as exploratory and hypothesis generating.</p><p>In conclusion, our results indicate that CP FWF serves as a novel imaging marker that reflects various neurodegenerative features in AD, complementing structural MRI and PET imaging. By capturing the multifaceted aspects and longitudinal changes in AD, CP FWF holds potential for monitoring of disease progression, offering the possibility of personalized and timely treatment interventions.</p></sec><sec sec-type="COI-statement" id="alz70239-sec-0250"><title>CONFLICT OF INTEREST STATEMENT</title><p>Fang Xie is an associate editor of <italic toggle="yes">Alzheimer's &amp; Dementia</italic>. Other authors declare no conflicts of interest. Author disclosures are available in the <xref rid="alz70239-supinfo-0001" ref-type="">supporting information</xref>.</p></sec><sec id="alz70239-sec-0280"><p>The preprocessing codes for multimodal MR and PET are available as a Github repository (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/colorfulbrain/CP_FWf" ext-link-type="uri">https://github.com/colorfulbrain/CP_FWf</ext-link>). The R/SPSS code used for the main analysis are available from the corresponding author upon request.</p></sec><sec id="alz70239-sec-0290"><title>CONSENT STATEMENT</title><p>All human subjects provided informed consent.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz70239-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz70239-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e70239-s002.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz70239-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e70239-s001.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz70239-sec-0240"><title>ACKNOWLEDGMENTS</title><p>See <xref rid="alz70239-supinfo-0001" ref-type="">Supplemental</xref> Acknowledgments for the complete list of ADNI investigators and their affiliations. We obtained part of the data from the ADNI database in preparation for this article. The investigators within the ADNI contributed to the design and implementation of ADNI and/or provided data but did not participate in the analysis or writing of this research. We would like to thank all the researchers and participants in the ADNI initiative. The authors thank the participants and their families for their participation in this study. This study was supported by National Natural Science Foundation of China (82271441, 82171473, 81901180), Shanghai Rising‐Star Program (21QA1405800), National Key Research and Development Program of China, Scientific and technological innovation 2030 ‐ Major Projects (2022ZD0213800).</p></ack><sec sec-type="data-availability" id="alz70239-sec-0270"><title>DATA AVAILABILITY STATEMENT</title><p>For all main figures with RJNB‐D datasets, the extracted traces from the raw image files are available on Figshare (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://figshare.com/articles/dataset/Choroid_Plexus_Free-Water_Correlates_with_Glymphatic_Dysfunction_and_Tracks_Neurodegeneration_in_Alzheimer_s_Disease_The_RJNB-D_Study/26043871" ext-link-type="uri" specific-use="software is-supplemented-by">https://figshare.com/articles/dataset/Choroid_Plexus_Free‐Water_Correlates_with_Glymphatic_Dysfunction_and_Tracks_Neurodegeneration_in_Alzheimer_s_Disease_The_RJNB‐D_Study/26043871</ext-link>). Values for all data points in graphs are reported in the Supporting Data Values file.</p></sec><ref-list id="alz70239-bibl-0001"><title>REFERENCES</title><ref id="alz70239-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz70239-cite-0002">
+<string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bennett</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blennow</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>A/T/N: an unbiased descriptive classification scheme for Alzheimer disease biomarkers</article-title>. <source>Neurology</source>. <year>2016</year>;<volume>87</volume>(<issue>5</issue>):<fpage>539</fpage>‐<lpage>547</lpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000002923</pub-id>
+<pub-id pub-id-type="pmid">27371494</pub-id>
+<pub-id pub-id-type="pmcid">PMC4970664</pub-id></mixed-citation></ref><ref id="alz70239-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz70239-cite-0003">
+<string-name name-style="western">
+<surname>Garnier‐Crussard</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cotton</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krolak‐Salmon</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chételat</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>White matter hyperintensities in Alzheimer's disease: beyond vascular contribution</article-title>. <source>Alzheimers Dement</source>. <year>2023</year>;<volume>19</volume>(<issue>8</issue>):<fpage>3738</fpage>‐<lpage>3748</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13057</pub-id>
+<pub-id pub-id-type="pmid">37027506</pub-id>
+</mixed-citation></ref><ref id="alz70239-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz70239-cite-0004">
+<string-name name-style="western">
+<surname>Choi</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moon</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yim</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moon</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>Choroid Plexus Volume and Permeability at Brain MRI within the Alzheimer Disease Clinical Spectrum</article-title>. <source>Radiology</source>. <year>2022</year>;<volume>304</volume>(<issue>3</issue>):<fpage>635</fpage>‐<lpage>645</lpage>. doi:<pub-id pub-id-type="doi">10.1148/radiol.212400</pub-id>
+<pub-id pub-id-type="pmid">35579521</pub-id>
+</mixed-citation></ref><ref id="alz70239-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz70239-cite-0005">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haldar</surname>
+<given-names>JP</given-names>
+</string-name>, et al. <article-title>Quantification of increased cellularity during inflammatory demyelination</article-title>. <source>Brain</source>. <year>2011</year>;<volume>134</volume>(<issue>Pt 12</issue>):<fpage>3590</fpage>‐<lpage>3601</lpage>. doi:<pub-id pub-id-type="doi">10.1093/brain/awr307</pub-id>
+<pub-id pub-id-type="pmid">22171354</pub-id>
+<pub-id pub-id-type="pmcid">PMC3235568</pub-id></mixed-citation></ref><ref id="alz70239-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz70239-cite-0006">
+<string-name name-style="western">
+<surname>Chiu</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>WE</given-names>
+</string-name>, et al. <article-title>Longitudinal Free‐Water Changes in Dementia with Lewy Bodies</article-title>. <source>Mov Disord</source>. <year>2024</year>;<volume>39</volume>(<issue>5</issue>):<fpage>836</fpage>‐<lpage>846</lpage>. doi:<pub-id pub-id-type="doi">10.1002/mds.29763</pub-id>
+<pub-id pub-id-type="pmid">38477399</pub-id>
+<pub-id pub-id-type="pmcid">PMC11102324</pub-id></mixed-citation></ref><ref id="alz70239-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz70239-cite-0007">
+<string-name name-style="western">
+<surname>Hablitz</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nedergaard</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The glymphatic system</article-title>. <source>Curr Biol</source>. <year>2021</year>;<volume>31</volume>(<issue>20</issue>):<fpage>R1371</fpage>‐<lpage>R1375</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.cub.2021.08.026</pub-id>
+<pub-id pub-id-type="pmid">34699796</pub-id>
+</mixed-citation></ref><ref id="alz70239-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz70239-cite-0008">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhong</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Choroid Plexus Enlargement Exacerbates White Matter Hyperintensity Growth through Glymphatic Impairment</article-title>. <source>Ann Neurol</source>. <year>2023</year>;<volume>94</volume>(<issue>1</issue>):<fpage>182</fpage>‐<lpage>195</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ana.26648</pub-id>
+<pub-id pub-id-type="pmid">36971336</pub-id>
+</mixed-citation></ref><ref id="alz70239-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz70239-cite-0009">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Linking white matter hyperintensities to regional cortical thinning, amyloid deposition, and synaptic density loss in Alzheimer's disease</article-title>. <source>Alzheimers Dement</source>. <year>2024</year>;<volume>20</volume>(<issue>6</issue>):<fpage>3931</fpage>‐<lpage>3942</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13845</pub-id>. Published online April 22, 2024.<pub-id pub-id-type="pmid">38648354</pub-id>
+<pub-id pub-id-type="pmcid">PMC11180938</pub-id></mixed-citation></ref><ref id="alz70239-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz70239-cite-0010">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Loss of synaptic density in nucleus basalis of meynert indicates distinct neurodegeneration in Alzheimer's disease: the RJNB‐D study</article-title>. <source>Eur J Nucl Med Mol Imaging</source>. <year>2024</year>;<volume>52</volume>(<issue>1</issue>):<fpage>134</fpage>‐<lpage>144</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00259-024-06862-z</pub-id>. Published online August 8, 2024.<pub-id pub-id-type="pmid">39112615</pub-id>
+</mixed-citation></ref><ref id="alz70239-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz70239-cite-0011">
+<string-name name-style="western">
+<surname>Cummings</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The National Institute on Aging‐Alzheimer's Association Framework on Alzheimer's disease: application to clinical trials</article-title>. <source>Alzheimers Dement</source>. <year>2019</year>;<volume>15</volume>(<issue>1</issue>):<fpage>172</fpage>‐<lpage>178</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2018.05.006</pub-id>
+<pub-id pub-id-type="pmid">29936146</pub-id>
+<pub-id pub-id-type="pmcid">PMC6417790</pub-id></mixed-citation></ref><ref id="alz70239-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz70239-cite-0012">
+<string-name name-style="western">
+<surname>Katzman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>null</surname>
+<given-names>Ouang‐Ya‐Qu</given-names>
+</string-name>, et al. <article-title>A Chinese version of the Mini‐Mental State Examination; impact of illiteracy in a Shanghai dementia survey</article-title>. <source>J Clin Epidemiol</source>. <year>1988</year>;<volume>41</volume>(<issue>10</issue>):<fpage>971</fpage>‐<lpage>978</lpage>. doi:<pub-id pub-id-type="doi">10.1016/0895-4356(88)90034-0</pub-id>
+<pub-id pub-id-type="pmid">3193141</pub-id>
+</mixed-citation></ref><ref id="alz70239-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz70239-cite-0013">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lv</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hong</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>Short‐term delayed recall of auditory verbal learning test is equivalent to long‐term delayed recall for identifying amnestic mild cognitive impairment</article-title>. <source>PLoS One</source>. <year>2012</year>;<volume>7</volume>(<issue>12</issue>):<elocation-id>e51157</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0051157</pub-id>
+<pub-id pub-id-type="pmid">23236445</pub-id>
+<pub-id pub-id-type="pmcid">PMC3517417</pub-id></mixed-citation></ref><ref id="alz70239-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz70239-cite-0014">
+<string-name name-style="western">
+<surname>Mendez</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ala</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Underwood</surname>
+<given-names>KL</given-names>
+</string-name>. <article-title>Development of scoring criteria for the clock drawing task in Alzheimer's disease</article-title>. <source>J Am Geriatr Soc</source>. <year>1992</year>;<volume>40</volume>(<issue>11</issue>):<fpage>1095</fpage>‐<lpage>1099</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1532-5415.1992.tb01796.x</pub-id>
+<pub-id pub-id-type="pmid">1401692</pub-id>
+</mixed-citation></ref><ref id="alz70239-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz70239-cite-0015">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hong</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Clustering and switching during a semantic verbal fluency test contribute to differential diagnosis of cognitive impairment</article-title>. <source>Neurosci Bull</source>. <year>2013</year>;<volume>29</volume>(<issue>1</issue>):<fpage>75</fpage>‐<lpage>82</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s12264-013-1301-7</pub-id>
+<pub-id pub-id-type="pmid">23322003</pub-id>
+<pub-id pub-id-type="pmcid">PMC5561862</pub-id></mixed-citation></ref><ref id="alz70239-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz70239-cite-0016">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>In vivo synaptic density loss correlates with impaired functional and related structural connectivity in Alzheimer's disease</article-title>. <source>J Cereb Blood Flow Metab</source>. <year>2023</year>;<volume>43</volume>(<issue>6</issue>):<fpage>977</fpage>‐<lpage>988</lpage>. doi:<pub-id pub-id-type="doi">10.1177/0271678X231153730</pub-id>
+<pub-id pub-id-type="pmid">36718002</pub-id>
+<pub-id pub-id-type="pmcid">PMC10196742</pub-id></mixed-citation></ref><ref id="alz70239-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz70239-cite-0017">
+<string-name name-style="western">
+<surname>Dai</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>The aging of glymphatic system in human brain and its correlation with brain charts and neuropsychological functioning</article-title>. <source>Cereb Cortex</source>. <year>2023</year>;<volume>33</volume>(<issue>12</issue>):<fpage>7896</fpage>‐<lpage>7903</lpage>. doi:<pub-id pub-id-type="doi">10.1093/cercor/bhad086</pub-id>
+<pub-id pub-id-type="pmid">36928180</pub-id>
+</mixed-citation></ref><ref id="alz70239-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz70239-cite-0018">
+<string-name name-style="western">
+<surname>Čarna</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Onyango</surname>
+<given-names>IG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katina</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Pathogenesis of Alzheimer's disease: involvement of the choroid plexus</article-title>. <source>Alzheimer's &amp; Dementia</source>. <year>2023</year>;<volume>19</volume>(<issue>8</issue>):<fpage>3537</fpage>‐<lpage>3554</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12970</pub-id>
+<pub-id pub-id-type="pmcid">PMC10634590</pub-id><pub-id pub-id-type="pmid">36825691</pub-id></mixed-citation></ref><ref id="alz70239-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz70239-cite-0019">
+<string-name name-style="western">
+<surname>Tadayon</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pascual‐Leone</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Press</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santarnecchi</surname>
+<given-names>E</given-names>
+</string-name>, <collab collab-type="authors">Alzheimer's Disease Neuroimaging Initiative</collab>
+. <article-title>Choroid plexus volume is associated with levels of CSF proteins: relevance for Alzheimer's and Parkinson's disease</article-title>. <source>Neurobiol Aging</source>. <year>2020</year>;<volume>89</volume>:<fpage>108</fpage>‐<lpage>117</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2020.01.005</pub-id>
+<pub-id pub-id-type="pmid">32107064</pub-id>
+<pub-id pub-id-type="pmcid">PMC9094632</pub-id></mixed-citation></ref><ref id="alz70239-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz70239-cite-0020">
+<string-name name-style="western">
+<surname>Hong</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hong</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>The relationship between amyloid pathology, cerebral small vessel disease, glymphatic dysfunction, and cognition: a study based on Alzheimer's disease continuum participants</article-title>. <source>Alzheimers Res Ther</source>. <year>2024</year>;<volume>16</volume>(<issue>1</issue>):<fpage>43</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-024-01407-w</pub-id>
+<pub-id pub-id-type="pmid">38378607</pub-id>
+<pub-id pub-id-type="pmcid">PMC10877805</pub-id></mixed-citation></ref><ref id="alz70239-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz70239-cite-0021">
+<string-name name-style="western">
+<surname>Jeong</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cha</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Choroid Plexus Volume, Amyloid Burden, and Cognition in the Alzheimer's Disease Continuum</article-title>. <source>Aging Dis</source>. <year>2024</year>;<volume>16</volume>(<issue>1</issue>):<fpage>552</fpage>‐<lpage>564</lpage>. doi:<pub-id pub-id-type="doi">10.14336/AD.2024.0118</pub-id>. Published online January 23, 2024.<pub-id pub-id-type="pmid">38300638</pub-id>
+<pub-id pub-id-type="pmcid">PMC11745423</pub-id></mixed-citation></ref><ref id="alz70239-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz70239-cite-0022">
+<string-name name-style="western">
+<surname>Saito</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kamagata</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uchida</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takabayashi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aoki</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The partial volume effect of choroid plexus in pathogenesis of Alzheimer's disease</article-title>. <source>Alzheimer's &amp; Dementia</source>. <year>2023</year>;<volume>19</volume>(<issue>10</issue>):<fpage>4756</fpage>‐<lpage>4757</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13123</pub-id>
+<pub-id pub-id-type="pmid">37235538</pub-id></mixed-citation></ref><ref id="alz70239-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz70239-cite-0023">
+<string-name name-style="western">
+<surname>Pasternak</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sochen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gur</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Intrator</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Assaf</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Free water elimination and mapping from diffusion MRI</article-title>. <source>Magn Reson Med</source>. <year>2009</year>;<volume>62</volume>(<issue>3</issue>):<fpage>717</fpage>‐<lpage>730</lpage>. doi:<pub-id pub-id-type="doi">10.1002/mrm.22055</pub-id>
+<pub-id pub-id-type="pmid">19623619</pub-id>
+</mixed-citation></ref><ref id="alz70239-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz70239-cite-0024">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Increased free water in the substantia nigra in idiopathic REM sleep behaviour disorder</article-title>. <source>Brain</source>. <year>2021</year>;<volume>144</volume>(<issue>5</issue>):<fpage>1488</fpage>‐<lpage>1497</lpage>. doi:<pub-id pub-id-type="doi">10.1093/brain/awab039</pub-id>
+<pub-id pub-id-type="pmid">33880500</pub-id>
+</mixed-citation></ref><ref id="alz70239-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz70239-cite-0025">
+<string-name name-style="western">
+<surname>Butler</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ozsahin</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Glymphatic clearance estimated using diffusion tensor imaging along perivascular spaces is reduced after traumatic brain injury and correlates with plasma neurofilament light, a biomarker of injury severity</article-title>. <source>Brain Commun</source>. <year>2023</year>;<volume>5</volume>(<issue>3</issue>):<elocation-id>fcad134</elocation-id>. doi:<pub-id pub-id-type="doi">10.1093/braincomms/fcad134</pub-id>
+<pub-id pub-id-type="pmid">37188222</pub-id>
+<pub-id pub-id-type="pmcid">PMC10176239</pub-id></mixed-citation></ref><ref id="alz70239-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz70239-cite-0026">
+<string-name name-style="western">
+<surname>Bjorkli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sandvig</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sandvig</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Bridging the Gap Between Fluid Biomarkers for Alzheimer's Disease, Model Systems, and Patients</article-title>. <source>Front Aging Neurosci</source>. <year>2020</year>;<volume>12</volume>:<fpage>272</fpage>. doi:<pub-id pub-id-type="doi">10.3389/fnagi.2020.00272</pub-id>
+<pub-id pub-id-type="pmid">32982716</pub-id>
+<pub-id pub-id-type="pmcid">PMC7492751</pub-id></mixed-citation></ref><ref id="alz70239-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz70239-cite-0027">
+<string-name name-style="western">
+<surname>Ota</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sato</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakaya</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Relationship between the tau protein and choroid plexus volume in Alzheimer's disease</article-title>. <source>Neuroreport</source>. <year>2023</year>;<volume>34</volume>(<issue>11</issue>):<fpage>546</fpage>‐<lpage>550</lpage>. doi:<pub-id pub-id-type="doi">10.1097/WNR.0000000000001923</pub-id>
+<pub-id pub-id-type="pmid">37384934</pub-id>
+</mixed-citation></ref><ref id="alz70239-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz70239-cite-0028">
+<string-name name-style="western">
+<surname>Lopes</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wells</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Glymphatic inhibition exacerbates tau propagation in an Alzheimer's disease model</article-title>. <source>Alzheimer's Research &amp; Therapy</source>. <year>2024</year>;<volume>16</volume>(<issue>1</issue>):<fpage>71</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13195-024-01439-2</pub-id>
+<pub-id pub-id-type="pmcid">PMC10996277</pub-id><pub-id pub-id-type="pmid">38576025</pub-id></mixed-citation></ref><ref id="alz70239-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz70239-cite-0029">
+<string-name name-style="western">
+<surname>Mogensen</surname>
+<given-names>FLH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delle</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nedergaard</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The Glymphatic System (En)during Inflammation</article-title>. <source>Int J Mol Sci</source>. <year>2021</year>;<volume>22</volume>(<issue>14</issue>):<fpage>7491</fpage>. doi:<pub-id pub-id-type="doi">10.3390/ijms22147491</pub-id>
+<pub-id pub-id-type="pmid">34299111</pub-id>
+<pub-id pub-id-type="pmcid">PMC8305763</pub-id></mixed-citation></ref><ref id="alz70239-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz70239-cite-0030">
+<string-name name-style="western">
+<surname>Sabbatini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barili</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bronzetti</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zaccheo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Amenta</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Age‐related changes of glial fibrillary acidic protein immunoreactive astrocytes in the rat cerebellar cortex</article-title>. <source>Mech Ageing Dev</source>. <year>1999</year>;<volume>108</volume>(<issue>2</issue>):<fpage>165</fpage>‐<lpage>172</lpage>. doi:<pub-id pub-id-type="doi">10.1016/s0047-6374(99)00008-1</pub-id>
+<pub-id pub-id-type="pmid">10400309</pub-id>
+</mixed-citation></ref><ref id="alz70239-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz70239-cite-0031">
+<string-name name-style="western">
+<surname>Calsolaro</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matthews</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Donat</surname>
+<given-names>CK</given-names>
+</string-name>, et al. <article-title>Astrocyte reactivity with late‐onset cognitive impairment assessed in vivo using 11C‐BU99008 PET and its relationship with amyloid load</article-title>. <source>Mol Psychiatry</source>. <year>2021</year>;<volume>26</volume>(<issue>10</issue>):<fpage>5848</fpage>‐<lpage>5855</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41380-021-01193-z</pub-id>
+<pub-id pub-id-type="pmid">34267329</pub-id>
+<pub-id pub-id-type="pmcid">PMC8758500</pub-id></mixed-citation></ref><ref id="alz70239-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz70239-cite-0032">
+<string-name name-style="western">
+<surname>Wei</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsu</surname>
+<given-names>CCH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>WY</given-names>
+</string-name>, et al. <article-title>Vascular risk factors and astrocytic marker for the glymphatic system activity</article-title>. <source>Radiol Med</source>. <year>2023</year>;<volume>128</volume>(<issue>9</issue>):<fpage>1148</fpage>‐<lpage>1161</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s11547-023-01675-w</pub-id>
+<pub-id pub-id-type="pmid">37462887</pub-id>
+<pub-id pub-id-type="pmcid">PMC10474179</pub-id></mixed-citation></ref><ref id="alz70239-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz70239-cite-0033">
+<string-name name-style="western">
+<surname>Das</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dhamija</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sarkar</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The role of astrocytes in the glymphatic network: a narrative review</article-title>. <source>Metab Brain Dis</source>. <year>2024</year>;<volume>39</volume>(<issue>3</issue>):<fpage>453</fpage>‐<lpage>465</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s11011-023-01327-y</pub-id>
+<pub-id pub-id-type="pmid">38008886</pub-id>
+</mixed-citation></ref></ref-list></back></article></pmc-articleset>

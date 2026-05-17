@@ -1,0 +1,582 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="brb32834" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Brain Behav</journal-id><journal-id journal-id-type="iso-abbrev">Brain Behav</journal-id><journal-id journal-id-type="pmc-domain-id">1650</journal-id><journal-id journal-id-type="pmc-domain">brb</journal-id><journal-id journal-id-type="publisher-id">BRB3</journal-id><journal-title-group><journal-title>Brain and Behavior</journal-title></journal-title-group><issn pub-type="epub">2162-3279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9847601</article-id><article-id pub-id-type="pmcid-ver">PMC9847601.1</article-id><article-id pub-id-type="pmcaid">9847601</article-id><article-id pub-id-type="pmcaiid">9847601</article-id><article-id pub-id-type="pmid">36479845</article-id><article-id pub-id-type="doi">10.1002/brb3.2834</article-id><article-id pub-id-type="publisher-id">BRB32834</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Working status and risk of Alzheimer's disease: A Mendelian randomization study</article-title><alt-title alt-title-type="left-running-head">ZHAO et al.</alt-title></title-group><contrib-group><contrib id="brb32834-cr-0001" contrib-type="author"><name name-style="western"><surname>Zhao</surname><given-names initials="J">Jiaxi</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1322-6781</contrib-id><xref rid="brb32834-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb32834-cr-0002" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="K">Kaixin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1945-1077</contrib-id><xref rid="brb32834-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="brb32834-cr-0003" contrib-type="author" corresp="yes"><name name-style="western"><surname>Liao</surname><given-names initials="X">Xiaoyang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4409-9674</contrib-id><xref rid="brb32834-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>liaoxiaoyang@wchscu.cn</email></address></contrib></contrib-group><aff id="brb32834-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of General Practice, General Practice Medical Center, West China Hospital, West China School of Medicine</named-content>
+<institution>Sichuan University</institution>
+<city>Chengdu</city>
+<named-content content-type="country-part">Sichuan</named-content>
+<country country="CN">China</country>
+</aff><aff id="brb32834-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Nephrology</named-content>
+<institution>Huadong Hospital Affiliated to Fudan University</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Xiaoyang Liao, Department of General Practice, General Practice Medical Center, West China Hospital, West China School of Medicine, Sichuan University, Chengdu, Sichuan, China.<break/>
+Email: 
+<email>liaoxiaoyang@wchscu.cn</email>
+.
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>07</day><month>12</month><year>2022</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2023</year></pub-date><volume>13</volume><issue seq="200">1</issue><issue-id pub-id-type="pmc-issue-id">426755</issue-id><issue-id pub-id-type="doi">10.1002/brb3.v13.1</issue-id><elocation-id>e2834</elocation-id><history><date date-type="rev-recd"><day>09</day><month>11</month><year>2022</year></date><date date-type="received"><day>18</day><month>10</month><year>2022</year></date><date date-type="accepted"><day>10</day><month>11</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>07</day><month>12</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>24</day><month>01</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-01-25 00:10:16.767"><day>25</day><month>01</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Brain and Behavior</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="BRB3-13-e2834.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:BRB3-13-e2834.pdf"/><abstract><title>Abstract</title><sec id="brb32834-sec-0010"><title>Background</title><p>Alzheimer's disease (AD) has become a common illness affecting the elderly, adding to society's social and financial burden. We used two‐sample Mendelian randomization (MR) in this study to determine the association between working status and AD.</p></sec><sec id="brb32834-sec-0020"><title>Methods</title><p>We performed a two‐sample MR analysis. The genetic associations were derived from the UK Biobank (<italic toggle="yes">n</italic> = 263,615) and the International Genomics of Alzheimer's Project (<italic toggle="yes">n</italic> = 63,926). Inverse variance weighted (IVW), MR‐Egger, and weighted median were used in the MR analysis. The funnel plot, Cochran's <italic toggle="yes">Q</italic> test, MR‐Egger intercept test, and leave‐one‐out analysis were used in sensitivity analyses. Further risk factor analyses were carried out to look into the potential mediators.</p></sec><sec id="brb32834-sec-0030"><title>Results</title><p>Jobs involve heavy manual or physical work (OR = 2.13, 95%CI 1.36–3.36; <italic toggle="yes">p</italic> = .0011), job involves mainly walking or standing (OR = 1.74, 95%CI 1.19–2.54; <italic toggle="yes">p</italic> = .004), and job involves shift work (OR = 2.78, 95%CI 1.14–6.80; <italic toggle="yes">p</italic> = .02) increased the risk of AD in the IVW analysis. There was no heterogeneity and no horizontal pleiotropy in the sensitivity analysis. Risk factor analysis suggested that each of the above association may be mediated by different risk factors.</p></sec><sec id="brb32834-sec-0040"><title>Conclusion</title><p>Our study adds to the evidence that the development of AD is associated with the working status (job involves heavy manual or physical work, job involves mainly walking or standing, and job involves shift work) by using extensive human genetic data.</p></sec></abstract><abstract id="brb32834-abs-0001" abstract-type="graphical"><p>
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="BRB3-13-e2834-g004.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="brb32834-kwd-0001">Alzheimer's disease</kwd><kwd id="brb32834-kwd-0002">job involves heavy manual or physical work</kwd><kwd id="brb32834-kwd-0003">job involves mainly walking or standing</kwd><kwd id="brb32834-kwd-0004">job involves shift work</kwd><kwd id="brb32834-kwd-0005">Mendelian randomization</kwd></kwd-group><counts><fig-count count="4"/><table-count count="2"/><page-count count="8"/><word-count count="4904"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.3 mode:remove_FC converted:18.01.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="brb32834-cit-0037">
+<string-name name-style="western">
+<surname>Zhao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>K.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Liao</surname>, <given-names>X.</given-names>
+</string-name> (<year>2023</year>). <article-title>Working status and risk of Alzheimer's disease: A Mendelian randomization study</article-title>. <source>Brain and Behavior</source>, <volume>13</volume>, <elocation-id>e2834</elocation-id>. <pub-id pub-id-type="doi">10.1002/brb3.2834</pub-id>
+<pub-id pub-id-type="pmcid">PMC9847601</pub-id><pub-id pub-id-type="pmid">36479845</pub-id></mixed-citation>
+</p></notes></front><body><sec id="brb32834-sec-0050"><label>1</label><title>INTRODUCTION</title><p>With a rising incidence, Alzheimer's disease (AD) has become a frequent illness affecting the elderly, adding to the disease's social and financial burden (GBD 2019 Dementia Forecasting Collaborators, <xref rid="brb32834-bib-0012" ref-type="bibr">2022</xref>; Prince et al., <xref rid="brb32834-bib-0029" ref-type="bibr">2016</xref>). However, the available data revealed that there were no effective therapy options. Additionally, it was difficult to identify and diagnose AD in its early stage. Therefore, finding preventative strategies is especially important. Previous epidemiological studies have pointed out some potentially modifiable risk factors as preventive measures to reduce the incidence of AD (Larsson et al., <xref rid="brb32834-bib-0019" ref-type="bibr">2017</xref>; Slomski, <xref rid="brb32834-bib-0031" ref-type="bibr">2022</xref>). These factors include type 2 diabetes (T2D), hypertension, dyslipidemia, obesity, depressive status, physical inactivity, smoking, and low education. However, there were no studies on the association between working status and AD.</p><p>The growth of the modern economy has increased people's work‐related stress, which may be harmful to their physical and mental health (Eng et al., <xref rid="brb32834-bib-0009" ref-type="bibr">2022</xref>; Lasalvia &amp; Tansella, <xref rid="brb32834-bib-0020" ref-type="bibr">2011</xref>). For instance, high job intensity and stress may increase employees’ risk of depression (Almroth et al., <xref rid="brb32834-bib-0001" ref-type="bibr">2021</xref>), and work‐related stress might increase the risk of cardiovascular disease (CVD) (Popovic et al., <xref rid="brb32834-bib-0028" ref-type="bibr">2022</xref>). Studies on the link between work and disease are, however, exceedingly scarce because neither working stress nor working status could be precisely assessed due to individual subjectivity. To date, working status and AD development have not been thoroughly explored, and the causal relationship between working status and AD development remains unclear.</p><p>Potential confounding and reverse causation have an impact on traditional observational studies’ capacity to infer causality (Davey &amp; Hemani, <xref rid="brb32834-bib-0008" ref-type="bibr">2014</xref>). Mendelian randomization (MR) is the process of identifying and measuring the causal link between exposure and outcome by using genetic variation as an instrumental variable (IV) (Carter et al., <xref rid="brb32834-bib-0006" ref-type="bibr">2021</xref>). The MR study utilized summary statistics from genome‐wide association studies (GWASs) rather than individual‐level data.</p><p>Using the statistics of working status and AD from GWAS, we employed a two‐sample MR in this study to determine the causal link between working status and AD.</p></sec><sec id="brb32834-sec-0060"><label>2</label><title>METHODS</title><sec id="brb32834-sec-0070"><label>2.1</label><title>Study design and basic assumptions of MR</title><p>This is a two‐sample MR study to investigate the causal relationship between three work‐related phenotypes and AD.</p><p>MR requires three strict assumptions to be satisfied. First, these IVs are strongly correlated with working status. Second, the IVs is independent of the confounding factor between working status and AD. Third, the IVs has no direct effect on AD, it only affects the outcome through working status.</p></sec><sec id="brb32834-sec-0080"><label>2.2</label><title>Work‐related phenotypes</title><p>The GWAS of work‐related phenotypes were derived from the UK Biobank, which is a large biomedical database of 500,000 UK participants, accessible globally to approved researchers (Sudlow et al., <xref rid="brb32834-bib-0032" ref-type="bibr">2015</xref>). The work‐related phenotypes were job involves heavy manual or physical work (sample size = 263,615), job involves mainly walking or standing (sample size = 263,556), and job involves shift work (sample size = 263,315). These phenotypes were all self‐reported categorical variables. We identified single‐nucleotide polymorphisms (SNPs) that were associated with each work‐related phenotype, and genome‐wide significance was defied as <italic toggle="yes">p</italic> &lt; 5 × 10<sup>−8</sup>. We identified 25 SNPs associated with job involves heavy manual or physical work, 16 SNPs with job involves mainly walking or standing, and six SNPs with job involves shift work. None of the SNPs were in linkage disequilibrium in any of the phenotypes (<italic toggle="yes">r</italic>
+<sup>2</sup> &lt; 0.001). Then, to guarantee the strength of the genetic instruments and mitigate the potential effects of weak instrument bias, we filtered SNPs with <italic toggle="yes">F</italic>‐statistics &gt; 10. And we excluded ambiguous and palindromic SNPs by the harmonizing process. Finally, 20, 14, and six SNPs were used as IVs for job involves heavy manual or physical work, job involves mainly walking or standing, and job involves shift work, respectively. The overview of GWAS datasets for work‐related phenotypes and corresponding SNPs were listed in <xref rid="brb32834-supitem-0001" ref-type="supplementary-material">Additional Files S1 and S3–S5</xref>. And the data source can be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.medrxiv.org/content/10.1101/2021.06.28.21259622v1.full" ext-link-type="uri">https://www.medrxiv.org/content/10.1101/2021.06.28.21259622v1.full</ext-link>.</p></sec><sec id="brb32834-sec-0090"><label>2.3</label><title>Alzheimer's disease</title><p>A large GWAS meta‐analysis of non‐Hispanic Whites (21,982 cases, 41,944 cognitively normal controls) from the International Genomics of Alzheimer's Project (IGAP) revealed genetic associations with AD. IGAP was composed of four consortia: Alzheimer Disease Genetics Consortium, Cohorts for Heart and Aging Research in Genomic Epidemiology Consortium, The European Alzheimer's Disease Initiative, and Genetic and Environmental Risk in AD/Defining Genetic, Polygenic and Environmental Risk for Alzheimer's Disease Consortium. The GWAS data and the detail were published elsewhere(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.1038/s41588-019-0358-2" ext-link-type="uri">https://doi.org/10.1038/s41588‐019‐0358‐2</ext-link>). The overview of GWAS datasets for AD was listed in <xref rid="brb32834-supitem-0001" ref-type="supplementary-material">Additional File S2</xref>. The genome‐wide summary statistics (registration number NG00075) were obtained by applying to the National Institute of Alzheimer's Disease Genetics of Aging Data Storage Site (NIAGADS).</p></sec><sec id="brb32834-sec-0100"><label>2.4</label><title>MR analyses</title><p>After harmonization of the effect alleles across the GWASs of working status and AD, we used three MR analysis methods in this study to assess the causal effect of working status on AD. As the primary analysis, we used standard inverse variance weighted (IVW) estimates (Burgess &amp; Thompson, <xref rid="brb32834-bib-0005" ref-type="bibr">2017</xref>), because this analysis assumes that the tool can only affect the results through exposure and not through any other means. In order to maintain the robustness of the results, MR‐Egger regression and weighted median were used as supplements to IVW (Bowden et al., <xref rid="brb32834-bib-0004" ref-type="bibr">2015</xref>). MR‐Egger regression and weighted median can be used in a wider range of scenarios, but are less efficient (CIs are wider).</p></sec><sec id="brb32834-sec-0110"><label>2.5</label><title>Sensitivity analysis</title><p>The Cochran's <italic toggle="yes">Q</italic> statistics, funnel plots, leave‐one‐out analyses, and MR‐Egger intercept tests were performed in the sensitivity analysis. Heterogeneity was present if the <italic toggle="yes">p</italic> value &lt; .05 in Cochran's Q statistic and the results was visualized by the funnel plots. In the leave‐one‐out analysis, we discarded one exposure‐related SNP at a time and repeated the IVW analysis to assess the robustness of the results. Horizontal pleiotropy is a condition in which IVs associated with the exposure (working status) influence the outcome (AD) via multiple factors other than the exposure. To avoid this, we performed the MR‐Egger intercept tests to assess the impact of potential pleiotropic effects. Heterogeneity was present if the <italic toggle="yes">p</italic> value &lt; .05.</p></sec><sec id="brb32834-sec-0120"><label>2.6</label><title>Risk factors analysis</title><p>We used MR methods to assess the association between working status and currently known risk factors for AD in order to further investigate potential intermediate mediators between working status and increased AD risk. These potential risk factors include T2D, hypertension, obesity, dyslipidemia, smoking, depression (Larsson et al., <xref rid="brb32834-bib-0019" ref-type="bibr">2017</xref>; Slomski, <xref rid="brb32834-bib-0031" ref-type="bibr">2022</xref>). MR was used, with working status as the exposure factor and the potential risk factors listed above as the outcome. <italic toggle="yes">p</italic> &lt; .05 for IVW was considered significant. The overview of the GWAS data for the above risk factors was listed in <xref rid="brb32834-supitem-0001" ref-type="supplementary-material">Additional File S6</xref>.</p></sec><sec id="brb32834-sec-0130"><label>2.7</label><title>Statistical analysis</title><p>The MR estimates were represented by odds ratios (ORs) and corresponding 95% confidence intervals (CIs), as well as the estimated change in the relative risk of AD for each standard deviation (SD) increase in working status. All statistical analyses were performed using TwoSampleMR package (version 0.5.6) in R (2022.02.3) (Hemani et al., <xref rid="brb32834-bib-0013" ref-type="bibr">2018</xref>).</p></sec></sec><sec id="brb32834-sec-0140"><label>3</label><title>RESULTS</title><sec id="brb32834-sec-0150"><label>3.1</label><title>MR analyses</title><p>According to IVW analysis, jobs involve heavy manual or physical work increased the risk of AD (OR = 2.13, 95%CI 1.36–3.36; <italic toggle="yes">p</italic> = .0011). In weighted median methods, it also increased the risk of AD (OR = 2.89, 95%CI 1.48–5.63; <italic toggle="yes">p</italic> = .0018). MR‐Egger showed a consistent direction, but not significant results. Job involves mainly walking or standing was significantly associated with an increased risk of AD (OR = 1.74, 95%CI 1.19–2.54; <italic toggle="yes">p</italic> = .004) in the IVW analysis. Results from weighted median and MR‐Egger methods were in the same direction with IVW, but not statistically significant. Job involves shift work was significantly associated with an increased risk of AD (OR = 2.78, 95%CI 1.14–6.80; <italic toggle="yes">p</italic> = .02) in the IVW analysis and weighted median methods(OR = 4.12, 95%CI 1.27–13.30; <italic toggle="yes">p</italic> = .02), respectively. MR‐Egger showed no significant results (<xref rid="brb32834-supitem-0001" ref-type="supplementary-material">Additional File S7</xref>). The results remained statistically significant adjusted for intelligence and education level (<xref rid="brb32834-supitem-0001" ref-type="supplementary-material">Additional File F2</xref>).</p></sec><sec id="brb32834-sec-0160"><label>3.2</label><title>Sensitivity analysis</title><p>We further conducted funnel pot, Cochran's <italic toggle="yes">Q</italic> test, leave‐one‐out analyses, and MR‐Egger intercept tests in the sensitivity analyses. For job involves heavy manual or physical work, job involves mainly walking or standing, and job involves shift work, all <italic toggle="yes">p</italic> values for the Cochran's <italic toggle="yes">Q</italic> test analysis were more than 0.05, indicating no heterogeneity (Table <xref rid="brb32834-tbl-0001" ref-type="table">1</xref>). The funnel pot was shown in the Additional File S1. All <italic toggle="yes">p</italic> values for the MR‐Egger intercept test were more than 0.05, indicating no horizontal pleiotropy (Figure <xref rid="brb32834-fig-0001" ref-type="fig">1</xref>). The leave‐one‐out analyses showed the robustness of the results (Figure <xref rid="brb32834-fig-0002" ref-type="fig">2</xref>).</p><table-wrap position="float" id="brb32834-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Sensitivity analysis of the causal association between working status and the risk of Alzheimer's disease</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th rowspan="2" align="left" colspan="1">Exposure</th><th align="left" rowspan="2" colspan="1">Outcome</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Cochran <italic toggle="yes">Q</italic> test</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" rowspan="1">MR‐Egger</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Q</italic> value</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> Value</th><th align="left" rowspan="1" colspan="1">Intercept</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Job involves heavy manual or physical work</td><td align="left" rowspan="3" colspan="1">Alzheimer's disease</td><td align="left" rowspan="1" colspan="1">20.98</td><td align="left" rowspan="1" colspan="1">.338</td><td align="left" rowspan="1" colspan="1">−0.0188</td><td align="left" rowspan="1" colspan="1">.384</td></tr><tr><td align="left" rowspan="1" colspan="1">Job involves mainly walking or standing</td><td align="left" rowspan="1" colspan="1">8.30</td><td align="left" rowspan="1" colspan="1">.823</td><td align="left" rowspan="1" colspan="1">−0.0083</td><td align="left" rowspan="1" colspan="1">.701</td></tr><tr><td align="left" rowspan="1" colspan="1">Job involves shift work</td><td align="left" rowspan="1" colspan="1">3.42</td><td align="left" rowspan="1" colspan="1">.635</td><td align="left" rowspan="1" colspan="1">−0.0103</td><td align="left" rowspan="1" colspan="1">.749</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="FIGURE" id="brb32834-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Causal relationships between working status phenotypes and Alzheimer's disease in scatterplots. (A) Jobs involve heavy manual or physical work and Alzheimer's disease. (B) Jobs involve mainly working or standing and Alzheimer's disease. (C) Jobs involve shift work and Alzheimer's disease.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="BRB3-13-e2834-g002.jpg"/></fig><fig position="float" fig-type="FIGURE" id="brb32834-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Forest plots of SNPs associated with working status phenotypes and risk of Alzheimer's disease. SNP, single‐nucleotide polymorphism.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="BRB3-13-e2834-g001.jpg"/></fig></sec><sec id="brb32834-sec-0170"><label>3.3</label><title>Risk factor analysis</title><p>To further explore potential mediators linking working status to an increased risk of AD, we set working status as exposures and various risk factors as outcomes. Dyslipidemia (OR = 1.00, 95%CI = 1.00–1.01, <italic toggle="yes">p</italic> = .017), smoking(OR = 1.14, 95%CI = 1.08–1.21, <italic toggle="yes">p</italic> = 2.993× 10<sup>−6</sup>) and age at completion of full‐time education (OR = 0.59, 95%CI = 0.54–0.63, <italic toggle="yes">p</italic> = 6.333× 10<sup>−46</sup>) might be responsible for job involves heavy manual or physical work‐linked AD susceptibility. Furthermore, job involves mainly walking or standing were associated with dyslipidemia (OR = 1.01, 95%CI = 1.00–1.02, <italic toggle="yes">p</italic> = .032), smoking (OR = 1.07, 95%CI = 1.01–1.13, <italic toggle="yes">p</italic> = .017) and age at completion of full‐time education (OR = 0.69, 95%CI = 0.64–0.75, <italic toggle="yes">p</italic> = 6.361×10<sup>−18</sup>). And hypertension (OR = 1.03, 95%CI = 0.99–1.06, <italic toggle="yes">p</italic> = .113) and age at completion of full‐time education (OR = 0.51, 95%CI = 0.42– 0.62, <italic toggle="yes">p</italic> = 1.040× 10<sup>−11</sup>) might be responsible for job involves shift work‐linked AD susceptibility (Table <xref rid="brb32834-tbl-0002" ref-type="table">2</xref> and Figure <xref rid="brb32834-fig-0003" ref-type="fig">3</xref>).</p><table-wrap position="float" id="brb32834-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Risk factor analysis of working status and currently known risk factors for Alzheimer's disease</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">Exposure</th><th align="left" rowspan="1" colspan="1">Outcome</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" rowspan="1">IVW</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Cochran <italic toggle="yes">Q</italic> test</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" rowspan="1">MR‐Egger</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">OR(95%CI)</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> Value</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Q</italic> value</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> Value</th><th align="left" rowspan="1" colspan="1">Intercept</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Job involves heavy manual or physical work</td><td align="left" rowspan="1" colspan="1">Type 2 diabetes</td><td align="left" rowspan="1" colspan="1">0.71(0.24–2.03)</td><td align="left" rowspan="1" colspan="1">.519</td><td align="left" rowspan="1" colspan="1">27.01</td><td align="left" rowspan="1" colspan="1">.255</td><td align="left" rowspan="1" colspan="1">0.0413</td><td align="left" rowspan="1" colspan="1">.402</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Hypertension</td><td align="left" rowspan="1" colspan="1">1.03(0.99–1.07)</td><td align="left" rowspan="1" colspan="1">.053</td><td align="left" rowspan="1" colspan="1">86.58</td><td align="left" rowspan="1" colspan="1">2.653× 10<sup>−9</sup>
+</td><td align="left" rowspan="1" colspan="1">0.0002</td><td align="left" rowspan="1" colspan="1">.899</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Obesity</td><td align="left" rowspan="1" colspan="1">1.00(0.99–1.01)</td><td align="left" rowspan="1" colspan="1">.616</td><td align="left" rowspan="1" colspan="1">57.12</td><td align="left" rowspan="1" colspan="1">5.893× 10<sup>−5</sup>
+</td><td align="left" rowspan="1" colspan="1">0.0002</td><td align="left" rowspan="1" colspan="1">.525</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Dyslipidemia</td><td align="left" rowspan="1" colspan="1">1.00(1.00–1.01)</td><td align="left" rowspan="1" colspan="1">.017*</td><td align="left" rowspan="1" colspan="1">35.42</td><td align="left" rowspan="1" colspan="1">.025</td><td align="left" rowspan="1" colspan="1">−0.0005</td><td align="left" rowspan="1" colspan="1">.099</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Smoking</td><td align="left" rowspan="1" colspan="1">1.14(1.08–1.21)</td><td align="left" rowspan="1" colspan="1">2.993× 10<sup>−6</sup>
+</td><td align="left" rowspan="1" colspan="1">75.69</td><td align="left" rowspan="1" colspan="1">1.559× 10<sup>−7</sup>
+</td><td align="left" rowspan="1" colspan="1">0.0008</td><td align="left" rowspan="1" colspan="1">.731</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Depression</td><td align="left" rowspan="1" colspan="1">1.01(0.99–1.02)</td><td align="left" rowspan="1" colspan="1">.545</td><td align="left" rowspan="1" colspan="1">37.14</td><td align="left" rowspan="1" colspan="1">.032</td><td align="left" rowspan="1" colspan="1">−0.0002</td><td align="left" rowspan="1" colspan="1">.831</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Age at completion of full‐time education</td><td align="left" rowspan="1" colspan="1">0.59(0.54–0.63)</td><td align="left" rowspan="1" colspan="1">6.333× 10<sup>−46</sup>*</td><td align="left" rowspan="1" colspan="1">41.11</td><td align="left" rowspan="1" colspan="1">.012</td><td align="left" rowspan="1" colspan="1">−0.0045</td><td align="left" rowspan="1" colspan="1">.145</td></tr><tr><td align="left" rowspan="1" colspan="1">Job involves mainly walking or standing</td><td align="left" rowspan="1" colspan="1">Type 2 diabetes</td><td align="left" rowspan="1" colspan="1">1.25(0.43–3.66)</td><td align="left" rowspan="1" colspan="1">.682</td><td align="left" rowspan="1" colspan="1">18.50</td><td align="left" rowspan="1" colspan="1">.185</td><td align="left" rowspan="1" colspan="1">−0.0032</td><td align="left" rowspan="1" colspan="1">.960</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Hypertension</td><td align="left" rowspan="1" colspan="1">1.02(0.98–1.06)</td><td align="left" rowspan="1" colspan="1">.293</td><td align="left" rowspan="1" colspan="1">64.48</td><td align="left" rowspan="1" colspan="1">1.894× 10<sup>−8</sup>
+</td><td align="left" rowspan="1" colspan="1">0.0005</td><td align="left" rowspan="1" colspan="1">.796</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Obesity</td><td align="left" rowspan="1" colspan="1">1.00(0.99–1.02)</td><td align="left" rowspan="1" colspan="1">.204</td><td align="left" rowspan="1" colspan="1">39.95</td><td align="left" rowspan="1" colspan="1">7.323× 10<sup>−5</sup>
+</td><td align="left" rowspan="1" colspan="1">−8.4245× 10<sup>−5</sup>
+</td><td align="left" rowspan="1" colspan="1">.901</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Dyslipidemia</td><td align="left" rowspan="1" colspan="1">1.01(1.00–1.02)</td><td align="left" rowspan="1" colspan="1">.032*</td><td align="left" rowspan="1" colspan="1">30.92</td><td align="left" rowspan="1" colspan="1">.002</td><td align="left" rowspan="1" colspan="1">−0.0005</td><td align="left" rowspan="1" colspan="1">.288</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Smoking</td><td align="left" rowspan="1" colspan="1">1.07(1.01–1.13)</td><td align="left" rowspan="1" colspan="1">.017*</td><td align="left" rowspan="1" colspan="1">49.37</td><td align="left" rowspan="1" colspan="1">7.793× 10<sup>−6</sup>
+</td><td align="left" rowspan="1" colspan="1">0.0015</td><td align="left" rowspan="1" colspan="1">.596</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Depression</td><td align="left" rowspan="1" colspan="1">0.99(0.98–1.01)</td><td align="left" rowspan="1" colspan="1">.557</td><td align="left" rowspan="1" colspan="1">18.51</td><td align="left" rowspan="1" colspan="1">.185</td><td align="left" rowspan="1" colspan="1">−0.0007</td><td align="left" rowspan="1" colspan="1">.344</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Age at completion of full‐time education</td><td align="left" rowspan="1" colspan="1">0.69(0.64–0.75)</td><td align="left" rowspan="1" colspan="1">6.361× 10<sup>−18</sup>*</td><td align="left" rowspan="1" colspan="1">34.97</td><td align="left" rowspan="1" colspan="1">.001</td><td align="left" rowspan="1" colspan="1">−0.0013</td><td align="left" rowspan="1" colspan="1">.767</td></tr><tr><td align="left" rowspan="1" colspan="1">Job involves shift work</td><td align="left" rowspan="1" colspan="1">Type 2 diabetes</td><td align="left" rowspan="1" colspan="1">4.27(0.39–0.47)</td><td align="left" rowspan="1" colspan="1">.234</td><td align="left" rowspan="1" colspan="1">3.65</td><td align="left" rowspan="1" colspan="1">.455</td><td align="left" rowspan="1" colspan="1">−0.1211</td><td align="left" rowspan="1" colspan="1">.442</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Hypertension</td><td align="left" rowspan="1" colspan="1">1.05(1.01–1.10)</td><td align="left" rowspan="1" colspan="1">.027*</td><td align="left" rowspan="1" colspan="1">6.329</td><td align="left" rowspan="1" colspan="1">.275</td><td align="left" rowspan="1" colspan="1">0.0002</td><td align="left" rowspan="1" colspan="1">.925</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Obesity</td><td align="left" rowspan="1" colspan="1">1.01(0.98–1.03)</td><td align="left" rowspan="1" colspan="1">.677</td><td align="left" rowspan="1" colspan="1">15.01</td><td align="left" rowspan="1" colspan="1">.005</td><td align="left" rowspan="1" colspan="1">0.0003</td><td align="left" rowspan="1" colspan="1">.879</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Dyslipidemia</td><td align="left" rowspan="1" colspan="1">1.01(0.99–1.04)</td><td align="left" rowspan="1" colspan="1">.298</td><td align="left" rowspan="1" colspan="1">21.33</td><td align="left" rowspan="1" colspan="1">2.726× 10<sup>−4</sup>
+</td><td align="left" rowspan="1" colspan="1">0.0011</td><td align="left" rowspan="1" colspan="1">.578</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Smoking</td><td align="left" rowspan="1" colspan="1">1.03(0.96–1.10)</td><td align="left" rowspan="1" colspan="1">.448</td><td align="left" rowspan="1" colspan="1">3.44</td><td align="left" rowspan="1" colspan="1">.633</td><td align="left" rowspan="1" colspan="1">0.0015</td><td align="left" rowspan="1" colspan="1">.564</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Depression</td><td align="left" rowspan="1" colspan="1">1.03(0.99–1.06)</td><td align="left" rowspan="1" colspan="1">.113</td><td align="left" rowspan="1" colspan="1">6.99</td><td align="left" rowspan="1" colspan="1">.222</td><td align="left" rowspan="1" colspan="1">0.0010</td><td align="left" rowspan="1" colspan="1">.475</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Age at completion of full‐time education</td><td align="left" rowspan="1" colspan="1">0.51(0.42–0.62)</td><td align="left" rowspan="1" colspan="1">1.040× 10<sup>−11</sup>*</td><td align="left" rowspan="1" colspan="1">0.11</td><td align="left" rowspan="1" colspan="1">.736</td><td align="left" rowspan="1" colspan="1">0.0012</td><td align="left" rowspan="1" colspan="1">.456</td></tr></tbody></table><table-wrap-foot><fn id="brb32834-tbl2-note-0001"><p>IVW, inverse variance weighted; OR, odds ratio; 95%CI, 95% confidence interval.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="FIGURE" id="brb32834-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Overview of the MR and risk factor analysis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="BRB3-13-e2834-g003.jpg"/></fig></sec></sec><sec id="brb32834-sec-0180"><label>4</label><title>DISCUSSION</title><p>This study utilized large‐scale GWAS data from the UK Biobank and the International Genomics of Alzheimer's Project. And our study employed multiple MR methods to explore the possible association between working status and AD susceptibility. It was found that job involves heavy manual or physical work, job involves mainly walking or standing, and job involves shift work increased the risk of AD. AD is a high‐incidence disease with insidious onset, and lack of prevention and treatment options, and our study offers fresh insights towards lowering the risk of AD by stressing the link between working status and AD.</p><p>With the increased emphasis on health in modern times, understanding how to maintain a healthy lifestyle is important, and these modifiable lifestyles influence whether or not each of us suffers from the disease (Jin, <xref rid="brb32834-bib-0014" ref-type="bibr">2022</xref>; Kucuk, <xref rid="brb32834-bib-0018" ref-type="bibr">2022</xref>). Many aspects of lifestyle are discussed, including eating habits, physical activities, smoking, and drinking alcohol. However, because of the work's high flexibility and the relatively low feasibility of relevant clinical trials, less attention has been paid to the health effects of work on people. A meta‐analysis of Li et al. (<xref rid="brb32834-bib-0022" ref-type="bibr">2021</xref>) showed that working stress was an important risk factor for T2DM, especially in women. The most important mechanism might be neuroendocrine dysregulation, which includes sympathetic nerve activation and dysregulation of the hypothalamic–pituitary–adrenal axis (HPA) (Mcewen, <xref rid="brb32834-bib-0024" ref-type="bibr">2006</xref>, <xref rid="brb32834-bib-0025" ref-type="bibr">2008</xref>). According to Eshak et al. (<xref rid="brb32834-bib-0010" ref-type="bibr">2022</xref>), jobs involving physical labor were associated with lower colon cancer risk compared with office work, and moving regularly during work was associated with a lower risk of rectal cancer compared with sitting. Furthermore, working status and stress were linked to an increased risk of cardiovascular and cerebrovascular diseases, but there was currently no research on the relationship between working status and AD. Ours was the first study to use MR methods to investigate the association between working status and AD.</p><p>Although the mechanism by which working status increases AD susceptibility remains unknown, dyslipidemia, smoking, hypertension, and education level are known risk factors for AD. High cholesterol levels may be linked to an increased risk of AD (Xue‐Shan et al., <xref rid="brb32834-bib-0034" ref-type="bibr">2016</xref>), and higher total cholesterol and LDL‐C concentrations are associated with faster cognitive decline in AD patients (Kao et al., <xref rid="brb32834-bib-0015" ref-type="bibr">2020</xref>). Previous research has suggested that taking statins early and for a long time might protect against dementia, particularly vascular dementia (Kim et al., <xref rid="brb32834-bib-0016" ref-type="bibr">2021</xref>). The mechanisms linking dyslipidemia to AD include changes in the gut‐brain axis, mitochondrial dysfunction, oxidative stress, and inflammation, all of which lead to synaptic loss and, eventually, cognitive decline (Kao et al., <xref rid="brb32834-bib-0015" ref-type="bibr">2020</xref>). A recent meta‐analysis of prospective studies showed that current smokers have a higher risk of developing AD than never smokers, implying that smoking is a risk factor for AD (Peters et al., <xref rid="brb32834-bib-0027" ref-type="bibr">2008</xref>). However, early reports suggested that smoking might be protective against AD due to nicotine's neuroprotective effects (Salomon et al., <xref rid="brb32834-bib-0030" ref-type="bibr">1996</xref>), though this association may be due to some bias. Hypertension is considered a risk factor for AD (Barnes &amp; Yaffe, <xref rid="brb32834-bib-0002" ref-type="bibr">2011</xref>). However, this association remains uncertain and may be complicated by misclassification of AD from other forms of dementia. Some findings suggest that high blood pressure in midlife is associated with a higher risk of AD, but others suggest that AD may be protected by high blood pressure later in life (Launer et al., <xref rid="brb32834-bib-0021" ref-type="bibr">2000</xref>; Malik et al., <xref rid="brb32834-bib-0023" ref-type="bibr">2021</xref>). As for the association between education level and AD, previous research results were controversial. A 2011 cross‐sectional study showed that the higher the education level, the lower the risk of AD (Barnes &amp; Yaffe, <xref rid="brb32834-bib-0003" ref-type="bibr">2011</xref>). A 2015 MR analysis did not find the causal association (Ostergaard et al., <xref rid="brb32834-bib-0026" ref-type="bibr">2015</xref>).</p><p>Whether job involves heavy manual or physical work, job involves mainly walking or standing, or job involves shift work have an effect on working pressure, and each has its characteristics, for example, job involves heavy manual or physical work might involve a lot of anaerobic exercise. Although physical activity and exercise have been shown to be effective strategies for the prevention and treatment of dyslipidemia (Kruger et al., <xref rid="brb32834-bib-0017" ref-type="bibr">2022</xref>), the negative health effects of mental stress may be more pronounced because work requires both physical and mental commitment. A previous study found that working stress increased risk of dyslipidemia by affecting the HPA (Zhang et al., <xref rid="brb32834-bib-0035" ref-type="bibr">2021</xref>), and chronic cortisol elevation increases glucocorticoid synthesis and glucose utilization, increases visceral fat deposition, and accelerates lipolysis, resulting in dyslipidemia (Kao et al., <xref rid="brb32834-bib-0015" ref-type="bibr">2020</xref>). Additionally, working stress also affects smoking habits, a cross‐sectional study of the Asian population showed that working stress was significantly associated with smoking((OR = 1.45, 95%CI = 1.17–1.80) (Cheng et al., <xref rid="brb32834-bib-0007" ref-type="bibr">2022</xref>). Shift work is the basic form of enterprise working time organization, which refers to the formation of work groups of different shifts within the working day, in the same work place for the production process. A meta‐analysis of five cohort studies showed that a 5‐year increase in shift work was associated with a 5% increased risk of CVD (Wang et al., <xref rid="brb32834-bib-0033" ref-type="bibr">2018</xref>). A cohort study among nurses found that those with 10 or more night shifts per month were significantly more likely to have high blood pressure (Zhao et al., <xref rid="brb32834-bib-0036" ref-type="bibr">2021</xref>), the potential mechanism might be that shift work leads to circadian disruption, systemic inflammation, and decreased melatonin production (Folkard, <xref rid="brb32834-bib-0011" ref-type="bibr">2008</xref>). It is generally known that the different job is affected by the education level. Those with high education level are more likely to engage in intellectual work, while those with low education level are more likely to engage in physical work. However, the mechanism of working status’ impact on education level is unknown.</p><p>However, this study still has several limitations. First, the GWAS data for this study were derived from participants of European ancestry and so generalization to other populations with different cultural traditions and lifestyles is limited. Second, there was some subjectivity in the working status, and there were differences in different people's understanding of working status and intensity, which could have an impact on the research results. Third, given the limitations of the UK Biobank data, future studies should delve deeper into causal relationships and underlying mechanisms, which are essential for clinical application. Furthermore, the exact biological function of many genetic variants remains unknown. And there are still some risk factors for AD that need to be identified. The pathophysiology of the relationship between working status and AD needs to be further studied. In the future, more intervention and cross‐sectional studies are needed to explore the relationship between working status and AD in the real world.</p><p>In conclusion, using large‐scale human genetic data, our study further strengthens the evidence that working status is linked to the development of AD. Further research is needed to explore the underlying mechanisms between working status and AD. In view of the difficulty of prevention and treatment of AD, more attention should be paid to discover modifiable risk factors to reduce the susceptibility of AD.</p></sec><sec id="brb32834-sec-0190"><title>AUTHOR CONTRIBUTION</title><p>
+<italic toggle="yes">Conceptualization, methodology, formal analysis, writing, and visualization</italic>: Jiaxi Zhao. <italic toggle="yes">Validation, data curation, and visualization</italic>: Kaixin Li. <italic toggle="yes">Supervision and project administration</italic>: Xiaoyang Liao.</p></sec><sec sec-type="COI-statement" id="brb32834-sec-0200"><title>CONFLICT OF INTEREST</title><p>The authors declared that they have no conflicts of interest to this work. We declare that we do not have any commercial or associative interest that represents a conflict of interest in connection with the work submitted.</p></sec><sec id="brb32834-sec-0210"><sec disp-level="2" id="brb32834-sec-0230"><title>RESOURCE IDENTIFICATION</title><p>We used GWAS data from UK Biobank (UK Biobank, RRID: SCR_012815) and we used GWAS data from NIAGADS (NIAGADS, RRID: SCR_007314).</p><p>Alzheimer's disease. A large GWAS meta‐analysis of non‐Hispanic Whites (NHW) (21,982 cases, 41,944 cognitively normal controls) from the International Genomics of Alzheimer's Project (IGAP) revealed genetic associations with AD. IGAP was composed of four consortia: Alzheimer Disease Genetics Consortium, Cohorts for Heart and Aging Research in Genomic Epidemiology Consortium, The European Alzheimer's Disease Initiative, and Genetic and Environmental Risk in AD/Defining Genetic, Polygenic and Environmental Risk for Alzheimer.s Disease Consortium. The GWAS data and the detail were published elsewhere (doi: 10.1038/s41588‐019‐0358‐2). The overview of GWAS datasets for Alzheimer's disease was listed in Additional file S2. The genome‐wide summary statistics (registration number NG00075, RRID: SCR_007314) were obtained by applying to the National Institute of Alzheimer's Disease Genetics of Aging Data Storage Site (NIAGADS).</p></sec><sec disp-level="2" id="brb32834-sec-0240"><title>PEER REVIEW</title><p>The peer review history for this article is available at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://publons.com/publon/10.1002/brb3.2834" ext-link-type="uri">https://publons.com/publon/10.1002/brb3.2834</ext-link>.</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="brb32834-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting material</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BRB3-13-e2834-s001.xlsx" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><sec sec-type="data-availability" id="brb32834-sec-0220"><title>DATA AVAILABILITY STATEMENT</title><p>All data in the article can be obtained by sending an email to the author.</p></sec><ref-list id="brb32834-bibl-0001"><title>REFERENCES</title><ref id="brb32834-bib-0001"><mixed-citation publication-type="journal" id="brb32834-cit-0001">
+<string-name name-style="western">
+<surname>Almroth</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hemmingsson</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sörberg Wallin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kjellberg</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burström</surname>, <given-names>B. O.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Falkstedt</surname>, <given-names>D.</given-names>
+</string-name> (<year>2021</year>). <article-title>Psychosocial working conditions and the risk of diagnosed depression: A swedish register‐based study[J]</article-title>. <source>Psychological Medicine</source>, <fpage>1</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1017/S003329172100060X</pub-id>
+<pub-id pub-id-type="pmcid">PMC9772906</pub-id><pub-id pub-id-type="pmid">33682646</pub-id></mixed-citation></ref><ref id="brb32834-bib-0002"><mixed-citation publication-type="journal" id="brb32834-cit-0002">
+<string-name name-style="western">
+<surname>Barnes</surname>, <given-names>D. E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Yaffe</surname>, <given-names>K.</given-names>
+</string-name> (<year>2011</year>). <article-title>The projected effect of risk factor reduction on Alzheimer's disease prevalence[J]</article-title>. <source>Lancet Neurology</source>, <volume>10</volume>(<issue>9</issue>), <fpage>819</fpage>–<lpage>828</lpage>. <pub-id pub-id-type="doi">10.1016/S1474-4422(11)70072-2</pub-id>
+<pub-id pub-id-type="pmid">21775213</pub-id><pub-id pub-id-type="pmcid">PMC3647614</pub-id></mixed-citation></ref><ref id="brb32834-bib-0003"><mixed-citation publication-type="journal" id="brb32834-cit-0003">
+<string-name name-style="western">
+<surname>Barnes</surname>, <given-names>D. E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Yaffe</surname>, <given-names>K.</given-names>
+</string-name> (<year>2011</year>). <article-title>The projected effect of risk factor reduction on Alzheimer's disease prevalence</article-title>. <source>Lancet Neurology</source>, <volume>10</volume>, <fpage>819</fpage>–<lpage>828</lpage>. <pub-id pub-id-type="doi">10.1016/S1474-4422(11)70072-2</pub-id>
+<pub-id pub-id-type="pmid">21775213</pub-id><pub-id pub-id-type="pmcid">PMC3647614</pub-id></mixed-citation></ref><ref id="brb32834-bib-0004"><mixed-citation publication-type="journal" id="brb32834-cit-0004">
+<string-name name-style="western">
+<surname>Bowden</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davey Smith</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Burgess</surname>, <given-names>S.</given-names>
+</string-name> (<year>2015</year>). <article-title>Mendelian randomization with invalid instruments: Effect estimation and bias detection through egger regression[J]</article-title>. <source>International Journal of Epidemiology</source>, <volume>44</volume>(<issue>2</issue>), <fpage>512</fpage>–<lpage>525</lpage>. <pub-id pub-id-type="doi">10.1093/ije/dyv080</pub-id>
+<pub-id pub-id-type="pmid">26050253</pub-id><pub-id pub-id-type="pmcid">PMC4469799</pub-id></mixed-citation></ref><ref id="brb32834-bib-0005"><mixed-citation publication-type="journal" id="brb32834-cit-0005">
+<string-name name-style="western">
+<surname>Burgess</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Thompson</surname>, <given-names>S. G.</given-names>
+</string-name> (<year>2017</year>). <article-title>Interpreting findings from mendelian randomization using the MR‐Egger method[J]</article-title>. <source>European Journal of Epidemiology</source>, <volume>32</volume>(<issue>5</issue>), <fpage>377</fpage>–<lpage>389</lpage>. <pub-id pub-id-type="doi">10.1007/s10654-017-0255-x</pub-id>
+<pub-id pub-id-type="pmid">28527048</pub-id><pub-id pub-id-type="pmcid">PMC5506233</pub-id></mixed-citation></ref><ref id="brb32834-bib-0006"><mixed-citation publication-type="journal" id="brb32834-cit-0006">
+<string-name name-style="western">
+<surname>Carter</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sanderson</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hammerton</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richmond</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davey Smith</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heron</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Taylor</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davies</surname>, <given-names>N. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Howe</surname>, <given-names>L. D.</given-names>
+</string-name> (<year>2021</year>). <article-title>Mendelian randomisation for mediation analysis: Current methods and challenges for implementation[J]</article-title>. <source>European Journal of Epidemiology</source>, <volume>36</volume>(<issue>5</issue>), <fpage>465</fpage>–<lpage>478</lpage>. <pub-id pub-id-type="doi">10.1007/s10654-021-00757-1</pub-id>
+<pub-id pub-id-type="pmid">33961203</pub-id><pub-id pub-id-type="pmcid">PMC8159796</pub-id></mixed-citation></ref><ref id="brb32834-bib-0007"><mixed-citation publication-type="journal" id="brb32834-cit-0007">
+<string-name name-style="western">
+<surname>Cheng</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>B. O.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>, <given-names>J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Pikhart</surname>, <given-names>H.</given-names>
+</string-name> (<year>2022</year>). <article-title>Association between work stress and health behaviours in Korean and Japanese ageing studies: A cross‐sectional study[J]</article-title>. <source>BMJ Open</source>, <volume>12</volume>(<issue>8</issue>), <elocation-id>e063538</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2022-063538</pub-id>
+<pub-id pub-id-type="pmcid">PMC9422816</pub-id><pub-id pub-id-type="pmid">36008063</pub-id></mixed-citation></ref><ref id="brb32834-bib-0008"><mixed-citation publication-type="journal" id="brb32834-cit-0008">
+<string-name name-style="western">
+<surname>Davey Smith</surname>, <given-names>G.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Hemani</surname>, <given-names>G.</given-names>
+</string-name> (<year>2014</year>). <article-title>Mendelian randomization: Genetic anchors for causal inference in epidemiological studies[J]</article-title>. <source>Human Molecular Genetics</source>, <volume>23</volume>(<issue>R1</issue>), <fpage>R89</fpage>–<lpage>R98</lpage>. <pub-id pub-id-type="doi">10.1093/hmg/ddu328</pub-id>
+<pub-id pub-id-type="pmid">25064373</pub-id><pub-id pub-id-type="pmcid">PMC4170722</pub-id></mixed-citation></ref><ref id="brb32834-bib-0009"><mixed-citation publication-type="journal" id="brb32834-cit-0009">
+<string-name name-style="western">
+<surname>Eng</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Denison</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Corbin</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barnes</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>'T Mannetje</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mclean</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jackson</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laird</surname>, <given-names>I.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Douwes</surname>, <given-names>J.</given-names>
+</string-name> (<year>2022</year>). <article-title>Long working hours, sedentary work, noise, night shifts and risk of ischaemic heart disease[J]</article-title>. <source>Heart</source>, <pub-id pub-id-type="doi">10.1136/heartjnl-2022-320999</pub-id>
+<pub-id pub-id-type="doi">10.1136/heartjnl-2022-320999</pub-id>
+<pub-id pub-id-type="pmid">35940858</pub-id></mixed-citation></ref><ref id="brb32834-bib-0010"><mixed-citation publication-type="journal" id="brb32834-cit-0010">
+<string-name name-style="western">
+<surname>Eshak</surname>, <given-names>E. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Noda</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tamakoshi</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Iso</surname>, <given-names>H.</given-names>
+</string-name> (<year>2022</year>). <article-title>Walking time, sports activity, job type, and body posture during work in relation to incident colorectal cancer: The JACC prospective cohort study[J]</article-title>. <source>Cancer Causes &amp; Control</source>, <volume>33</volume>(<issue>3</issue>), <fpage>473</fpage>–<lpage>481</lpage>. <pub-id pub-id-type="doi">10.1007/s10552-021-01542-x</pub-id>
+<pub-id pub-id-type="pmid">35048204</pub-id></mixed-citation></ref><ref id="brb32834-bib-0011"><mixed-citation publication-type="journal" id="brb32834-cit-0011">
+<string-name name-style="western">
+<surname>Folkard</surname>, <given-names>S.</given-names>
+</string-name> (<year>2008</year>). <article-title>Do permanent night workers show circadian adjustment? A review based on the endogenous melatonin rhythm[J]</article-title>. <source>Chronobiology International</source>, <volume>25</volume>(<issue>2</issue>), <fpage>215</fpage>–<lpage>224</lpage>. <pub-id pub-id-type="doi">10.1080/07420520802106835</pub-id>
+<pub-id pub-id-type="pmid">18533325</pub-id></mixed-citation></ref><ref id="brb32834-bib-0012"><mixed-citation publication-type="journal" id="brb32834-cit-0012">
+<collab collab-type="authors">GBD 2019 Dementia Forecasting Collaborators</collab>
+. (<year>2022</year>). <article-title>Estimation of the global prevalence of dementia in 2019 and forecasted prevalence in 2050: An analysis for the global burden of disease study 2019[J]</article-title>. <source>Lancet Public Health</source>, <volume>7</volume>(<issue>2</issue>), <fpage>e105</fpage>–<lpage>e125</lpage>. <pub-id pub-id-type="doi">10.1016/S2468-2667(21)00249-8</pub-id>
+<pub-id pub-id-type="pmid">34998485</pub-id><pub-id pub-id-type="pmcid">PMC8810394</pub-id></mixed-citation></ref><ref id="brb32834-bib-0013"><mixed-citation publication-type="journal" id="brb32834-cit-0013">
+<string-name name-style="western">
+<surname>Hemani</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elsworth</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wade</surname>, <given-names>K. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haberland</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baird</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laurin</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burgess</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bowden</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langdon</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>, <given-names>V. Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yarmolinsky</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shihab</surname>, <given-names>H. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Timpson</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evans</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Relton</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davey Smith</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gaunt</surname>, <given-names>T. R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Haycock</surname>, <given-names>P. C.</given-names>
+</string-name> (<year>2018</year>). <article-title>The MR‐Base platform supports systematic causal inference across the human phenome[J]</article-title>. <source>Elife</source>, <fpage>7</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.7554/eLife.34408</pub-id><pub-id pub-id-type="pmcid">PMC5976434</pub-id><pub-id pub-id-type="pmid">29846171</pub-id></mixed-citation></ref><ref id="brb32834-bib-0014"><mixed-citation publication-type="journal" id="brb32834-cit-0014">
+<string-name name-style="western">
+<surname>Jin</surname>, <given-names>J.</given-names>
+</string-name> (<year>2022</year>). <article-title>Behavioral counseling interventions to promote a healthy diet and physical activity to prevent CVD in adults without risk Factors[J]</article-title>. <source>Jama</source>, <volume>328</volume>(<issue>4</issue>), <fpage>404</fpage>. <pub-id pub-id-type="doi">10.1001/jama.2022.11667</pub-id>
+<pub-id pub-id-type="pmid">35881120</pub-id></mixed-citation></ref><ref id="brb32834-bib-0015"><mixed-citation publication-type="journal" id="brb32834-cit-0015">
+<string-name name-style="western">
+<surname>Kao</surname>, <given-names>Y.‐C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ho</surname>, <given-names>P. ‐C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tu</surname>, <given-names>Y. ‐K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jou</surname>, <given-names>I. ‐M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Tsai</surname>, <given-names>K. ‐J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Lipids and Alzheimer's disease[J]</article-title>. <source>International Journal of Molecular Sciences</source>, <fpage>1505</fpage>, <volume>21</volume>(<issue>4</issue>). <pub-id pub-id-type="doi">10.3390/ijms21041505</pub-id>
+<pub-id pub-id-type="pmid">32098382</pub-id><pub-id pub-id-type="pmcid">PMC7073164</pub-id></mixed-citation></ref><ref id="brb32834-bib-0016"><mixed-citation publication-type="journal" id="brb32834-cit-0016">
+<string-name name-style="western">
+<surname>Kim</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>, <given-names>H. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wee</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>, <given-names>Y. H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Min</surname>, <given-names>C. Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yoo</surname>, <given-names>D. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Choi</surname>, <given-names>H. G.</given-names>
+</string-name> (<year>2021</year>). <article-title>Association between previous statin use and alzheimer's disease: A nested case‐control study using a National Health Screening Cohort[J]</article-title>. <source>Brain Sci</source>, <fpage>396</fpage>, <volume>11</volume>(<issue>3</issue>). <pub-id pub-id-type="doi">10.3390/brainsci11030396</pub-id>
+<pub-id pub-id-type="pmid">33804752</pub-id><pub-id pub-id-type="pmcid">PMC8003839</pub-id></mixed-citation></ref><ref id="brb32834-bib-0017"><mixed-citation publication-type="journal" id="brb32834-cit-0017">
+<string-name name-style="western">
+<surname>Kruger</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tirekoglou</surname>, <given-names>P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Weyh</surname>, <given-names>C.</given-names>
+</string-name> (<year>2022</year>). <article-title>Immunological mechanisms of exercise therapy in dyslipidemia[J]</article-title>. <source>Front Physiol</source>, <volume>13</volume>, <elocation-id>903713</elocation-id>. <pub-id pub-id-type="doi">10.3389/fphys.2022.903713</pub-id>
+<pub-id pub-id-type="pmid">36003652</pub-id><pub-id pub-id-type="pmcid">PMC9393246</pub-id></mixed-citation></ref><ref id="brb32834-bib-0018"><mixed-citation publication-type="journal" id="brb32834-cit-0018">
+<string-name name-style="western">
+<surname>Kucuk</surname>, <given-names>O.</given-names>
+</string-name> (<year>2022</year>). <article-title>Walk more, eat less, don't Stress[J]</article-title>. <source>Cancer Epidemiology and Prevention Biomarkers</source>, <volume>31</volume>(<issue>9</issue>), <fpage>1673</fpage>–<lpage>1674</lpage>. <pub-id pub-id-type="doi">10.1158/1055-9965.EPI-22-0609</pub-id>
+<pub-id pub-id-type="pmid">36052489</pub-id></mixed-citation></ref><ref id="brb32834-bib-0019"><mixed-citation publication-type="journal" id="brb32834-cit-0019">
+<string-name name-style="western">
+<surname>Larsson</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Traylor</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Malik</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dichgans</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burgess</surname>, <given-names>S.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Markus</surname>, <given-names>H. S.</given-names>
+</string-name> (<year>2017</year>). <article-title>Modifiable pathways in Alzheimer's disease: Mendelian randomisation analysis[J]</article-title>. <source>Bmj</source>, <volume>359</volume>, <elocation-id>j5375</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.j5375</pub-id>
+<pub-id pub-id-type="pmid">29212772</pub-id><pub-id pub-id-type="pmcid">PMC5717765</pub-id></mixed-citation></ref><ref id="brb32834-bib-0020"><mixed-citation publication-type="journal" id="brb32834-cit-0020">
+<string-name name-style="western">
+<surname>Lasalvia</surname>, <given-names>A.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Tansella</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>). <article-title>Occupational stress and job burnout in mental health[J]</article-title>. <source>Epidemiol Psychiatr Sci</source>, <volume>20</volume>(<issue>4</issue>), <fpage>279</fpage>–<lpage>285</lpage>. <pub-id pub-id-type="doi">10.1017/S2045796011000576</pub-id>
+<pub-id pub-id-type="pmid">22201203</pub-id></mixed-citation></ref><ref id="brb32834-bib-0021"><mixed-citation publication-type="journal" id="brb32834-cit-0021">
+<string-name name-style="western">
+<surname>Launer</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ross</surname>, <given-names>G. W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Petrovitch</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masaki</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foley</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>White</surname>, <given-names>L. R.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Havlik</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2000</year>). <article-title>Midlife blood pressure and dementia: The honolulu‐asia aging study[J]</article-title>. <source>Neurobiology of Aging</source>, <volume>21</volume>(<issue>1</issue>), <fpage>49</fpage>–<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1016/S0197-4580(00)00096-8</pub-id>
+<pub-id pub-id-type="pmid">10794848</pub-id></mixed-citation></ref><ref id="brb32834-bib-0022"><mixed-citation publication-type="journal" id="brb32834-cit-0022">
+<string-name name-style="western">
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yi</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dai</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruan</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>, <given-names>Z.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wang</surname>, <given-names>D.</given-names>
+</string-name> (<year>2021</year>). <article-title>Is job strain associated with a higher risk of type 2 diabetes mellitus? A systematic review and meta‐analysis of prospective cohort studies[J]</article-title>. <source>Scandinavian Journal of Work, Environment &amp; Health</source>, <volume>47</volume>(<issue>4</issue>), <fpage>249</fpage>–<lpage>257</lpage>. <pub-id pub-id-type="doi">10.5271/sjweh.3938</pub-id>
+<pub-id pub-id-type="pmcid">PMC8091067</pub-id><pub-id pub-id-type="pmid">33404062</pub-id></mixed-citation></ref><ref id="brb32834-bib-0023"><mixed-citation publication-type="journal" id="brb32834-cit-0023">
+<string-name name-style="western">
+<surname>Malik</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Georgakis</surname>, <given-names>M. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neitzel</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rannikmã¤E</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ewers</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seshadri</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sudlow</surname>, <given-names>C. L. M.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Dichgans</surname>, <given-names>M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Midlife vascular risk factors and risk of incident dementia: Longitudinal cohort and mendelian randomization analyses in the UK Biobank[J]</article-title>. <source>Alzheimers Dement</source>, <volume>17</volume>(<issue>9</issue>), <fpage>1422</fpage>–<lpage>1431</lpage>. <pub-id pub-id-type="doi">10.1002/alz.12320</pub-id>
+<pub-id pub-id-type="pmid">33749976</pub-id></mixed-citation></ref><ref id="brb32834-bib-0024"><mixed-citation publication-type="journal" id="brb32834-cit-0024">
+<string-name name-style="western">
+<surname>Mcewen</surname>, <given-names>B. S.</given-names>
+</string-name> (<year>2006</year>). <article-title>Protective and damaging effects of stress mediators: Central role of the brain[J]</article-title>. <source>Dialogues Clin Neurosci</source>, <volume>8</volume>(<issue>4</issue>), <fpage>367</fpage>–<lpage>381</lpage>. <pub-id pub-id-type="doi">10.31887/DCNS.2006.8.4/bmcewen</pub-id>
+<pub-id pub-id-type="pmid">17290796</pub-id><pub-id pub-id-type="pmcid">PMC3181832</pub-id></mixed-citation></ref><ref id="brb32834-bib-0025"><mixed-citation publication-type="journal" id="brb32834-cit-0025">
+<string-name name-style="western">
+<surname>Mcewen</surname>, <given-names>B. S.</given-names>
+</string-name> (<year>2008</year>). <article-title>Central effects of stress hormones in health and disease: Understanding the protective and damaging effects of stress and stress mediators[J]</article-title>. <source>European Journal of Pharmacology</source>, <volume>583</volume>(<issue>2‐3</issue>), <fpage>174</fpage>–<lpage>185</lpage>. <pub-id pub-id-type="doi">10.1016/j.ejphar.2007.11.071</pub-id>
+<pub-id pub-id-type="pmid">18282566</pub-id><pub-id pub-id-type="pmcid">PMC2474765</pub-id></mixed-citation></ref><ref id="brb32834-bib-0026"><mixed-citation publication-type="journal" id="brb32834-cit-0026">
+<string-name name-style="western">
+<surname>Østergaard</surname>, <given-names>S. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mukherjee</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharp</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Proitsi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lotta</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Day</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perry</surname>, <given-names>J. R. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boehme</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Walter</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kauwe</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gibbons</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Larson</surname>, <given-names>E. B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Powell</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langenberg</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crane</surname>, <given-names>P. K.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wareham</surname>, <given-names>N. J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Scott</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Associations between potentially modifiable risk factors and Alzheimer disease: A mendelian randomization Study[J]</article-title>. <source>Plos Medicine</source>, <volume>12</volume>(<issue>6</issue>), <elocation-id>e1001841</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pmed.1001841</pub-id>
+<pub-id pub-id-type="pmid">26079503</pub-id><pub-id pub-id-type="pmcid">PMC4469461</pub-id></mixed-citation></ref><ref id="brb32834-bib-0027"><mixed-citation publication-type="journal" id="brb32834-cit-0027">
+<string-name name-style="western">
+<surname>Peters</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poulter</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Warner</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beckett</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burch</surname>, <given-names>L.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Bulpitt</surname>, <given-names>C.</given-names>
+</string-name> (<year>2008</year>). <article-title>Smoking, dementia and cognitive decline in the elderly, a systematic review[J]</article-title>. <source>BMC Geriatr</source>, <volume>8</volume>, <fpage>36</fpage>. <pub-id pub-id-type="doi">10.1186/1471-2318-8-36</pub-id>
+<pub-id pub-id-type="pmid">19105840</pub-id><pub-id pub-id-type="pmcid">PMC2642819</pub-id></mixed-citation></ref><ref id="brb32834-bib-0028"><mixed-citation publication-type="journal" id="brb32834-cit-0028">
+<string-name name-style="western">
+<surname>Popovic</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bjelobrk</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tesic</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Seman</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jayasinghe</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hills</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Babu</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jakovljevic</surname>, <given-names>D. G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stoner</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ozemek</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bond</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Faghy</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pronk</surname>, <given-names>N. P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lavie</surname>, <given-names>C. J.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Arena</surname>, <given-names>R.</given-names>
+</string-name> (<year>2022</year>). <article-title>Defining the importance of stress reduction in managing cardiovascular disease ‐ the role of exercise[J]</article-title>. <source>Progress in Cardiovascular Diseases</source>, <volume>70</volume>, <fpage>84</fpage>–<lpage>93</lpage>. <pub-id pub-id-type="doi">10.1016/j.pcad.2022.01.008</pub-id>
+<pub-id pub-id-type="pmid">35131232</pub-id></mixed-citation></ref><ref id="brb32834-bib-0029"><mixed-citation publication-type="journal" id="brb32834-cit-0029">
+<string-name name-style="western">
+<surname>Prince</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ali</surname>, <given-names>G. ‐C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guerchet</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prina</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Albanese</surname>, <given-names>E.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Wu</surname>, <given-names>Y.‐T.</given-names>
+</string-name> (<year>2016</year>). <article-title>Recent global trends in the prevalence and incidence of dementia, and survival with dementia[J]</article-title>. <source>Alzheimers Res Ther</source>, <volume>8</volume>(<issue>1</issue>), <fpage>23</fpage>. <pub-id pub-id-type="doi">10.1186/s13195-016-0188-8</pub-id>
+<pub-id pub-id-type="pmid">27473681</pub-id><pub-id pub-id-type="pmcid">PMC4967299</pub-id></mixed-citation></ref><ref id="brb32834-bib-0030"><mixed-citation publication-type="journal" id="brb32834-cit-0030">
+<string-name name-style="western">
+<surname>Salomon</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marcinowski</surname>, <given-names>K. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Friedland</surname>, <given-names>R. P.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Zagorski</surname>, <given-names>M. G.</given-names>
+</string-name> (<year>1996</year>). <article-title>Nicotine inhibits amyloid formation by the beta‐peptide[J]</article-title>. <source>Biochemistry</source>, <volume>35</volume>(<issue>42</issue>), <fpage>13568</fpage>–<lpage>13578</lpage>. <pub-id pub-id-type="doi">10.1021/bi9617264</pub-id>
+<pub-id pub-id-type="pmid">8885836</pub-id></mixed-citation></ref><ref id="brb32834-bib-0031"><mixed-citation publication-type="journal" id="brb32834-cit-0031">
+<string-name name-style="western">
+<surname>Slomski</surname>, <given-names>A.</given-names>
+</string-name> (<year>2022</year>). <article-title>Obesity is now the top modifiable dementia risk factor in the US[J]</article-title>. <source>Jama</source>, <volume>328</volume>(<issue>1</issue>), <fpage>10</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2022.11058</pub-id><pub-id pub-id-type="pmid">35788805</pub-id></mixed-citation></ref><ref id="brb32834-bib-0032"><mixed-citation publication-type="journal" id="brb32834-cit-0032">
+<string-name name-style="western">
+<surname>Sudlow</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gallacher</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Allen</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beral</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burton</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Danesh</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Downey</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elliott</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Green</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Landray</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matthews</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ong</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pell</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silman</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Young</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sprosen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peakman</surname>, <given-names>T.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Collins</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>). <article-title>UK Biobank: An open access resource for identifying the causes of a wide range of complex diseases of middle and old age[J]</article-title>. <source>Plos Medicine</source>, <volume>12</volume>(<issue>3</issue>), <elocation-id>e1001779</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pmed.1001779</pub-id>
+<pub-id pub-id-type="pmid">25826379</pub-id><pub-id pub-id-type="pmcid">PMC4380465</pub-id></mixed-citation></ref><ref id="brb32834-bib-0033"><mixed-citation publication-type="journal" id="brb32834-cit-0033">
+<string-name name-style="western">
+<surname>Wang</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruan</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peng</surname>, <given-names>Y.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name> (<year>2018</year>). <article-title>Shift work and risk of cardiovascular disease morbidity and mortality: A dose‐response meta‐analysis of cohort studies[J]</article-title>. <source>Eur J Prev Cardiol</source>, <volume>25</volume>(<issue>12</issue>), <fpage>1293</fpage>–<lpage>1302</lpage>. <pub-id pub-id-type="doi">10.1177/2047487318783892</pub-id>
+<pub-id pub-id-type="pmid">29929393</pub-id></mixed-citation></ref><ref id="brb32834-bib-0034"><mixed-citation publication-type="journal" id="brb32834-cit-0034">
+<string-name name-style="western">
+<surname>Xue‐Shan</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Juan</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qi</surname>, <given-names>W. U.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhong</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li‐Hong</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhi‐Han</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhi‐Sheng</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gui‐Xue</surname>, <given-names>W.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Lu‐Shan</surname>, <given-names>L.</given-names>
+</string-name> (<year>2016</year>). <article-title>Imbalanced cholesterol metabolism in Alzheimer's disease[J]</article-title>. <source>Clinica Chimica Acta</source>, <volume>456</volume>, <fpage>107</fpage>–<lpage>114</lpage>. <pub-id pub-id-type="doi">10.1016/j.cca.2016.02.024</pub-id>
+<pub-id pub-id-type="pmid">26944571</pub-id></mixed-citation></ref><ref id="brb32834-bib-0035"><mixed-citation publication-type="journal" id="brb32834-cit-0035">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shao</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>, <given-names>X. D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheng</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ovlyakulov</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>B. B.</given-names>
+</string-name>, &amp; <string-name name-style="western">
+<surname>Chen</surname>, <given-names>K. Y.</given-names>
+</string-name> (<year>2021</year>). <article-title>A cross‐sectional survey on occupational stress and associated dyslipidemia among medical staff in tertiary public hospitals in Wenzhou, China[J]</article-title>. <source>Brain Behav</source>, <volume>11</volume>(<issue>3</issue>), <elocation-id>e2014</elocation-id>. <pub-id pub-id-type="doi">10.1002/brb3.2014</pub-id>
+<pub-id pub-id-type="pmcid">PMC7994692</pub-id><pub-id pub-id-type="pmid">33369267</pub-id></mixed-citation></ref><ref id="brb32834-bib-0036"><mixed-citation publication-type="journal" id="brb32834-cit-0036">
+<string-name name-style="western">
+<surname>Zhao</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feng</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zuo</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jia</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yuan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cui</surname>, <given-names>J.</given-names>
+</string-name>, …, <string-name name-style="western">
+<surname>Cui</surname>, <given-names>W.</given-names>
+</string-name> (<year>2021</year>). <article-title>Effect of frequency and pattern of night shift on hypertension risk in female nurses: A cross‐sectional study[J]</article-title>. <source>Journal of Hypertension</source>, <volume>39</volume>(<issue>6</issue>), <fpage>1170</fpage>–<lpage>1176</lpage>. <pub-id pub-id-type="doi">10.1097/HJH.0000000000002755</pub-id>
+<pub-id pub-id-type="pmid">33323913</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

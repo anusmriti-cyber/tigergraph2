@@ -1,0 +1,1531 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz70502" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12314543</article-id><article-id pub-id-type="pmcid-ver">PMC12314543.1</article-id><article-id pub-id-type="pmcaid">12314543</article-id><article-id pub-id-type="pmcaiid">12314543</article-id><article-id pub-id-type="pmid">40747577</article-id><article-id pub-id-type="doi">10.1002/alz.70502</article-id><article-id pub-id-type="publisher-id">ALZ70502</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Early microglial and astrocyte reactivity in preclinical Alzheimer's disease</article-title><alt-title alt-title-type="left-running-head">FERNÁNDEZ‐MATARRUBIA <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz70502-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Fernández‐Matarrubia</surname><given-names initials="M">Marta</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6732-2691</contrib-id><xref rid="alz70502-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70502-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>martafmatarrubia@gmail.com</email></address></contrib><contrib id="alz70502-cr-0002" contrib-type="author"><name name-style="western"><surname>Valera‐Barrero</surname><given-names initials="A">Andrea</given-names></name><xref rid="alz70502-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz70502-cr-0003" contrib-type="author"><name name-style="western"><surname>Renuncio‐García</surname><given-names initials="M">Mónica</given-names></name><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70502-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz70502-cr-0004" contrib-type="author"><name name-style="western"><surname>Aguilella</surname><given-names initials="M">Marcos</given-names></name><xref rid="alz70502-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70502-cr-0005" contrib-type="author"><name name-style="western"><surname>Lage</surname><given-names initials="C">Carmen</given-names></name><xref rid="alz70502-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70502-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz70502-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz70502-cr-0006" contrib-type="author"><name name-style="western"><surname>López‐García</surname><given-names initials="S">Sara</given-names></name><xref rid="alz70502-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70502-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70502-cr-0007" contrib-type="author"><name name-style="western"><surname>Ocejo‐Vinyals</surname><given-names initials="JG">J Gonzalo</given-names></name><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70502-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz70502-cr-0008" contrib-type="author"><name name-style="western"><surname>Martínez‐Dubarbie</surname><given-names initials="F">Francisco</given-names></name><xref rid="alz70502-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70502-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz70502-cr-0009" contrib-type="author"><name name-style="western"><surname>Molfetta</surname><given-names initials="GD">Guglielmo Di</given-names></name><xref rid="alz70502-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="alz70502-cr-0010" contrib-type="author"><name name-style="western"><surname>Pozueta‐Cantudo</surname><given-names initials="A">Ana</given-names></name><xref rid="alz70502-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70502-cr-0011" contrib-type="author"><name name-style="western"><surname>García‐Martínez</surname><given-names initials="M">María</given-names></name><xref rid="alz70502-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70502-cr-0012" contrib-type="author"><name name-style="western"><surname>Corrales‐Pardo</surname><given-names initials="A">Andrea</given-names></name><xref rid="alz70502-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70502-cr-0013" contrib-type="author"><name name-style="western"><surname>Bravo</surname><given-names initials="M">María</given-names></name><xref rid="alz70502-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz70502-cr-0014" contrib-type="author"><name name-style="western"><surname>López‐Hoyos</surname><given-names initials="M">Marcos</given-names></name><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70502-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="alz70502-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="alz70502-cr-0015" contrib-type="author"><name name-style="western"><surname>Irure‐Ventura</surname><given-names initials="J">Juan</given-names></name><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70502-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz70502-cr-0016" contrib-type="author"><name name-style="western"><surname>Blennow</surname><given-names initials="K">Kaj</given-names></name><xref rid="alz70502-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="alz70502-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="alz70502-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><xref rid="alz70502-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="alz70502-cr-0017" contrib-type="author"><name name-style="western"><surname>Ashton</surname><given-names initials="NJ">Nicholas J</given-names></name><xref rid="alz70502-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="alz70502-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><xref rid="alz70502-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref><xref rid="alz70502-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="alz70502-cr-0018" contrib-type="author"><name name-style="western"><surname>Zetterberg</surname><given-names initials="H">Henrik</given-names></name><xref rid="alz70502-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="alz70502-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="alz70502-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref><xref rid="alz70502-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref><xref rid="alz70502-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref><xref rid="alz70502-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib id="alz70502-cr-0019" contrib-type="author"><name name-style="western"><surname>Sánchez‐Juan</surname><given-names initials="P">Pascual</given-names></name><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70502-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib id="alz70502-cr-0020" contrib-type="author"><name name-style="western"><surname>Rodríguez‐Rodríguez</surname><given-names initials="E">Eloy</given-names></name><xref rid="alz70502-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="alz70502-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="alz70502-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz70502-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref></contrib></contrib-group><aff id="alz70502-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Neurology Service</named-content>
+<institution>Marqués de Valdecilla University Hospital</institution>
+<city>Santander</city>
+<named-content content-type="country-part">Cantabria</named-content>
+<country country="ES">Spain</country>
+</aff><aff id="alz70502-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Institute for Research Marqués de Valdecilla (IDIVAL)</institution>
+<city>Santander</city>
+<named-content content-type="country-part">Cantabria</named-content>
+<country country="ES">Spain</country>
+</aff><aff id="alz70502-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">CIBERNED, Network Center for Biomedical Research in Neurodegenerative Diseases</named-content>
+<institution>National Institute of Health Carlos III</institution>
+<city>Madrid</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz70502-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Immunology Department</named-content>
+<institution>Marqués de Valdecilla University Hospital</institution>
+<city>Santander</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz70502-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Atlantic Fellow for Equity in Brain health, Global Brain Health Institute</named-content>
+<institution>University of California</institution>
+<city>San Francisco</city>
+<country country="US">USA</country>
+</aff><aff id="alz70502-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology</named-content>
+<institution>The Sahlgrenska Academy at the University of Gothenburg</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz70502-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Molecular Biology Department</named-content>
+<institution>University of Cantabria</institution>
+<city>Santander</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz70502-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Clinical Neurochemistry Laboratory</named-content>
+<institution>Sahlgrenska University Hospital</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="alz70502-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Paris Brain Institute, ICM, Pitié‐Salpêtrière Hospital</named-content>
+<institution>Sorbonne University</institution>
+<city>Paris</city>
+<country country="FR">France</country>
+</aff><aff id="alz70502-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Neurodegenerative Disorder Research Center, Division of Life Sciences and Medicine, and Department of Neurology, Institute on Aging and Brain Disorders</named-content>
+<institution>University of Science and Technology of China and First Affiliated Hospital of USTC</institution>
+<city>Hefei</city>
+<country country="CN">P.R. China</country>
+</aff><aff id="alz70502-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Centre for Age‐Related Medicine</named-content>
+<institution>Stavanger University Hospital</institution>
+<city>Stavanger</city>
+<country country="NO">Norway</country>
+</aff><aff id="alz70502-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Psychiatry, Psychology and Neuroscience, Maurice Wohl Clinical Neuroscience Institute</named-content>
+<institution>King's College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz70502-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<institution>NIHR Biomedical Research Centre for Mental Health and Biomedical Research Unit for Dementia at South London and Maudsley NHS Foundation</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz70502-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurodegenerative Disease</named-content>
+<institution>UCL Institute of Neurology</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz70502-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<institution>UK Dementia Research Institute at UCL</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="alz70502-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<institution>Hong Kong Center for Neurodegenerative Diseases</institution>
+<city>Hong Kong</city>
+<country country="CN">China</country>
+</aff><aff id="alz70502-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<named-content content-type="organisation-division">Wisconsin Alzheimer's Disease Research Center, University of Wisconsin School of Medicine and Public Health</named-content>
+<institution>University of Wisconsin‐Madison</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz70502-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<institution>Alzheimer's Centre Reina Sofia‐CIEN Foundation‐ISCIII</institution>
+<city>Madrid</city>
+<country country="ES">Spain</country>
+</aff><aff id="alz70502-aff-0019">
+<label>
+<sup>19</sup>
+</label>
+<named-content content-type="organisation-division">Deparment of Medicine and Psychiatry</named-content>
+<institution>University of Cantabria</institution>
+<city>Santander</city>
+<country country="ES">Spain</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Marta Fernández‐Matarrubia, Neurology Service, Marqués de Valdecilla University Hospital, Avda. de Valdecilla 25, 39008, Santander, Cantabria, Spain.<break/> Email: <email>martafmatarrubia@gmail.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>8</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2025</year></pub-date><volume>21</volume><issue seq="240">8</issue><issue-id pub-id-type="pmc-issue-id">494038</issue-id><issue-id pub-id-type="doi">10.1002/alz.v21.8</issue-id><elocation-id>e70502</elocation-id><history><date date-type="rev-recd"><day>29</day><month>5</month><year>2025</year></date><date date-type="received"><day>26</day><month>2</month><year>2025</year></date><date date-type="accepted"><day>21</day><month>6</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>01</day><month>08</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>01</day><month>08</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-08-02 00:25:36.617"><day>02</day><month>08</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-21-e70502.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-21-e70502.pdf"/><abstract><title>Abstract</title><sec id="alz70502-sec-0010"><title>INTRODUCTION</title><p>The role of neuroinflammation in preclinical Alzheimer's disease (AD) remains unclear.</p></sec><sec id="alz70502-sec-0020"><title>METHODS</title><p>We assessed changes in microglial and astrocytic biomarkers in a well‐characterized cohort of 211 cognitively unimpaired individuals. Structural equation modeling was used to simultaneously assess all relationships among microglial and astrocytic responses and AD pathological events.</p></sec><sec id="alz70502-sec-0030"><title>RESULTS</title><p>Plasma glial fibrillary acidic protein (GFAP) and cerebrospinal fluid (CSF) soluble triggering receptor expressed on myeloid cells 2 (sTREM2) were increased in preclinical AD. Plasma GFAP showed an inverse bidirectional relationship with CSF amyloid beta (Aβ)42/40. CSF sTREM2 directly influenced CSF phosphorylated tau‐181 (p‐tau181) and neurogranin, and correlated with CSF S100 calcium‐binding protein beta (S100β). CSF chitinase‐3‐like protein 1 (YKL‐40) mediated the association between CSF p‐tau181 and total tau (t‐tau), whereas CSF S100β and neurofilament light showed mutual influence.</p></sec><sec id="alz70502-sec-0040"><title>DISCUSSION</title><p>Our findings suggest that microglial and astrocyte reactivity, measured through fluid biomarkers, occur early and impact the amyloid cascade on the preclinical Alzheimer´s continuum. Specifically, GFAP influences amyloid accumulation, sTREM2 promotes tau pathology, and YKL‐40 and S100β contribute to the progression of downstream neurodegenerative changes.</p></sec><sec id="alz70502-sec-0050"><title>Highlights</title><p>
+<list list-type="bullet" id="alz70502-list-0001"><list-item><p>Preclinical Alzheimer's disease (AD) showed increased levels of plasma glial fibrillary acidic protein (GFAP) and soluble triggering receptor expressed on myeloid cells 2 (sTREM2) compared to cerebrospinal fluid (CSF) in healthy subjects.</p></list-item><list-item><p>Higher plasma GFAP levels was directly associated with lower CSF amyloid beta (Aβ)42/Aβ40.</p></list-item><list-item><p>Higher CSF sTREM2 concentrations increased CSF phosphorylated tau‐181.</p></list-item><list-item><p>Chitinase‐3‐like protein 1 (YKL‐40) mediated tau‐induced neurodegeneration.</p></list-item><list-item><p>S100 calcium‐binding protein beta (S100β) was directly linked to higher neurofilament light (NfL) and showed a mutual relationship with sTREM2.</p></list-item></list>
+</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz70502-kwd-0001">astrocyte</kwd><kwd id="alz70502-kwd-0002">biomarkers</kwd><kwd id="alz70502-kwd-0003">chitinase‐3‐like protein 1 (YKL‐40)</kwd><kwd id="alz70502-kwd-0004">glial fibrillary acidic protein (GFAP)</kwd><kwd id="alz70502-kwd-0005">microglia</kwd><kwd id="alz70502-kwd-0006">preclinical Alzheimer´s disease</kwd><kwd id="alz70502-kwd-0007">S‐100 calcium‐binding protein beta (S100β)</kwd><kwd id="alz70502-kwd-0008">soluble triggering receptor expressed on myeloid cells 2 (sTREM2)</kwd><kwd id="alz70502-kwd-0009">structural equation modeling</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Institute for Research Marqués de Valdecilla (IDIVAL) Foundation</institution></institution-wrap>
+</funding-source><award-id>NVAL22/07</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="5"/><page-count count="17"/><word-count count="9966"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.9 mode:remove_FC converted:01.08.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz70502-cite-0001">
+<string-name name-style="western">
+<surname>Fernández‐Matarrubia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Valera‐Barrero</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Renuncio‐García</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Early microglial and astrocyte reactivity in preclinical Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2025</year>;<volume>21</volume>:<elocation-id>e70502</elocation-id>. <pub-id pub-id-type="doi">10.1002/alz.70502</pub-id>
+<pub-id pub-id-type="pmid">40747577</pub-id>
+<pub-id pub-id-type="pmcid">PMC12314543</pub-id></mixed-citation>
+</p><fn-group><fn id="alz70502-note-0001" fn-type="equal"><p>Pascual Sánchez‐Juan and Eloy Rodríguez‐Rodríguez contributed equally to this study.</p></fn></fn-group></notes></front><body><sec id="alz70502-sec-0060"><label>1</label><title>BACKGROUND</title><p>The contribution of neuroinflammation in Alzheimer´s disease (AD) pathogenesis has gained attention in recent years. Characterized by a mixed cellular response to brain pathological stimuli, primarily involving reactive microglia and astrocytes, neuroinflammation appears early in the course of AD—even before neurodegeneration and symptoms emerge.<xref rid="alz70502-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Many genetic loci associated with AD encode proteins related to glial function,<xref rid="alz70502-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> supporting that neuroinflammation plays a key role in disease progression and represents an interesting therapeutic target.</p><p>Microglia are the resident macrophages and key components of the brain´s innate immunity. Triggering receptor expressed on myeloid cells 2 (TREM2) is expressed in microglia, and regulates their shift from a homeostatic to a disease‐associated state.<xref rid="alz70502-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> The soluble form of TREM2 (sTREM2), detectable in cerebrospinal fluid (CSF) and plasma, is a well‐established biomarker of microglial reactivity in AD.<xref rid="alz70502-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> However, studies show inconsistent results, with some reporting reduced CSF sTREM2 levels in mild cognitive impairment (MCI) or AD dementia compared to cognitively unimpaired (CU) individuals,<xref rid="alz70502-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> whereas others find increased<xref rid="alz70502-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz70502-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz70502-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz70502-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="alz70502-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> or unchanged levels.<xref rid="alz70502-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz70502-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="alz70502-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="alz70502-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> It has been suggested that sTREM2 levels fluctuate across clinical AD stages, peaking before the onset of dementia.<xref rid="alz70502-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz70502-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz70502-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Research on autosomal dominant AD shows that CSF sTREM2 levels rise about 5 years before symptom onset,<xref rid="alz70502-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> with similar findings observed in preclinical AD.<xref rid="alz70502-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz70502-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="alz70502-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz70502-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> The role of TREM2 in AD remains controversial, and further investigation is needed.</p><p>Astrocytes respond to AD pathology by becoming reactive—undergoing molecular, functional, and morphological changes.<xref rid="alz70502-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Alterations in protein expression, such as glial fibrillary acidic protein (GFAP), chitinase‐3‐like protein 1 (YKL‐40), and S100 calcium‐binding protein β (S100β) are commonly observed.<xref rid="alz70502-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz70502-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> Multiple astrocyte phenotypes likely exist, offering promising targets for biomarker and drug development.<xref rid="alz70502-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> CSF GFAP and YKL‐40 are consistently elevated in patients with AD compared to controls.<xref rid="alz70502-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz70502-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70502-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Of interest, CSF GFAP levels are strongly replicated in blood, and plasma GFAP consistently outperforms CSF GFAP as a biomarker of amyloid beta (Aβ) pathology in CU individuals.<xref rid="alz70502-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70502-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> Recent studies suggest that astrocytic changes appear early in AD, showing an upregulation of GFAP and YKL‐40 levels in Aβ‐positive CU individuals.<xref rid="alz70502-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70502-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="alz70502-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="alz70502-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz70502-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> In fact, astrogliosis may precede amyloid plaque formation, as confirmed by post‐mortem studies in MCI or preclinical AD<xref rid="alz70502-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> and animal models.<xref rid="alz70502-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> S100β is concentrated mainly in astrocytes. Elevated CSF S100β concentrations have been reported in AD and frontotemporal dementia compared to controls.<xref rid="alz70502-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="alz70502-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> In AD animal models, overexpression of S100β increased brain Aβ deposits<xref rid="alz70502-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> and Aβ42 levels in the hippocampus and frontal cortex.<xref rid="alz70502-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Conversely, inhibiting S100β reduced gliosis and amyloid pathology,<xref rid="alz70502-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> whereas gene polymorphisms that increase its expression raised AD risk.<xref rid="alz70502-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+</p><p>The microglial and astrocyte response may influence critical processes of the amyloid cascade, including Aβ aggregation, tau pathology, neuronal injury, and cognitive decline. However, its specific impact on key early AD pathological events remains unclear. The glial response to AD is complex, and it remains unclear whether it plays a beneficial or detrimental role depending on factors such as disease stage or brain region, among others.<xref rid="alz70502-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="alz70502-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> To date, most studies investigating glial biomarkers in preclinical AD focus specifically on either microglial or astrocytic biomarkers, but do not address both simultaneously, for a comprehensive and multidimensional approach.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz70502-sec-0070"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz70502-list-0002"><list-item><p>
+<bold>Systematic review</bold>: We conducted a literature review using PubMed and previously published reviews. Recent works on microglial and astrocytic experimental models, post‐mortem studies, neuroimaging, and fluid biomarker research are cited throughout the article.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: Our findings support that microglial and astrocytic responses emerge early, during asymptomatic stages of Alzheimer's disease (AD). We observed that glial fibrillary acidic protein (GFAP)–related astrogliosis is triggered and also influences amyloid beta (Aβ) deposition in preclinical AD. soluble triggering receptor expressed on myeloid cells 2 (sTREM2)–related microglial response promotes tau pathology, whereas increased astrocyte reactivity, as measured by CSF YKL‐40 and CSF S100β, is associated with downstream neurodegenerative changes in the earliest stages of the Alzheimer´s continuum.</p></list-item><list-item><p>
+<bold>Future directions</bold>: Longitudinal studies across the entire Alzheimer's continuum, combining fluid and imaging biomarkers of microglial and astrocyte reactivity, are needed to clarify how different glial phenotypes impact AD progression at each disease stage and in specific brain regions.</p></list-item></list>
+</p></sec></boxed-text><p>Therefore, our aim was to assess changes in microglial (CSF sTREM2) and astroglia‐related (plasma and CSF GFAP, CSF YKL‐40, CSF S100β) biomarkers in the preclinical Alzheimer´s continuum in a well‐characterized cohort of CU individuals. Moreover, we sought to investigate the relationships between these glial biomarkers and early amyloid cascade events, including amyloid pathology (CSF Aβ42/40), tau pathology (CSF phosphorylated tau‐181 [p‐tau181]), synaptic dysfunction (CSF neurogranin), neuronal damage (CSF total tau [t‐tau] and neurofilament light [NfL]), and cognitive performance. We aimed to model the sequence of biomarker changes in preclinical AD. Using structural equation modeling, we sought to simultaneously analyze the complex interactions among these biomarkers, and investigate how glial cells influence these relationships in the earliest stages of AD.</p></sec><sec id="alz70502-sec-0080"><label>2</label><title>METHODS</title><sec id="alz70502-sec-0090"><label>2.1</label><title>Study participants</title><p>The study was performed with volunteers from the “Valdecilla Cohort for the Study of Memory and Brain Aging” at the Memory Unit of Marqués de Valdecilla University Hospital (Santander, Spain), and it was approved by the hospital's ethics committee (Internal code: 2018.111). The project has been described in previous publications.<xref rid="alz70502-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> In brief, it is a cohort designed to longitudinally study the preclinical phases of AD. The cohort consists of Caucasian CU individuals age 55 or older who have provided written informed consent for the collection and storage of biological samples. Exclusion criteria include the presence of any degree of cognitive impairment, defined by a Clinical Dementia Rating (CDR)<xref rid="alz70502-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> &gt;0; major psychiatric or systemic illness; sensory impairments that hinder the performance of cognitive tests; and any contraindication to performing complementary tests (e.g., claustrophobia or anticoagulation therapy).</p><p>At baseline, all participants undergo a lumbar puncture (LP)—to measure Aβ42, Aβ40, p‐tau181, and t‐tau—as well as a blood draw. In the first assessment, cranial magnetic resonance imaging (MRI), fluorodeoxyglucose–PET (FDG‐PET), and a comprehensive neuropsychological exam are also performed. Annual follow‐up assessments include a new blood draw and longitudinal neuropsychological evaluations.</p><p>Regarding the detailed participant selection process, 328 subjects responded to an open call in the media in our community. Of those 328 individuals, 60 participants are still awaiting their first evaluation. Among the remaining 268, a total of 26 were excluded due to unavailability (schedule conflicts and changes in residence), 13 were excluded because they were unable to undergo MRI or LP, 8 were excluded due to systemic or psychiatric conditions, 3 because of imaging findings (such as space‐occupying lesions or major stroke), and 7 were excluded because they had a score &gt;0 on the CDR scale. In total, 211 subjects were included for analysis of CSF and plasma biomarkers (Figure <xref rid="alz70502-supinfo-0001" ref-type="">S1</xref>).</p></sec><sec id="alz70502-sec-0100"><label>2.2</label><title>Cognitive assessment</title><p>The neuropsychological assessment consists of a battery of tests that evaluate all cognitive domains. The details have been described in a previous work.<xref rid="alz70502-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> The Mini‐Mental State Examination (MMSE)<xref rid="alz70502-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> is used for global cognitive assessment and the global CDR score is used to establish the degree of dementia based on both functionality and cognition.</p><p>In this study a modified version of the Preclinical Alzheimer Cognitive Composite (PACC) score, known as the PACC5,<xref rid="alz70502-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> was used. The PACC5 consists of the MMSE,<xref rid="alz70502-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> the Logical Memory test from the Wechsler Memory Scale (total delayed recall),<xref rid="alz70502-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> the Free and Cued Selective Reminding Test (Free + Total Recall),<xref rid="alz70502-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> the Symbol Digit Modality Test,<xref rid="alz70502-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> and the semantic fluency task (animals within 1 min).<xref rid="alz70502-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> All raw test scores were standardized into <italic toggle="yes">z</italic>‐scores using the mean and standard deviation (SD) of CU participants as a reference, and then averaged into a composite score.</p></sec><sec id="alz70502-sec-0110"><label>2.3</label><title>
+<italic toggle="yes">APOE</italic> status determination</title><p>We studied the apolipoprotein E (<italic toggle="yes">APOE</italic>) genotype using the TaqMan single nucleotide polymorphism genotyping assay (Applied Biosystems, Foster City, CA, United States). Subjects carrying ≥1 copy of the ε4 allele were classified as ε4+, whereas the remaining participants were placed in the ε4– group.</p></sec><sec id="alz70502-sec-0120"><label>2.4</label><title>Sample collection and pre‐analysis</title><p>Our institution participates in the Alzheimer's Association Quality Control program and follows international recommendations for sample collection and storage.<xref rid="alz70502-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="alz70502-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> CSF and plasma samples are collected on the same day in all participants, between 9:00 am and 10:00 am, with less than a 30‐min interval and with the subjects fasting. LPs are performed using a standard 22G needle, between the L3 and L5 spaces, with the patient in the lateral decubitus position. The CSF is collected into polypropylene tubes of 15 mL and then centrifuged at room temperature (2000 <italic toggle="yes">g</italic> for 10 min). The supernatant is aliquoted in 500 µL volumes into 1 mL tubes and frozen at −80°C until analysis in the immunology laboratory of our hospital.</p><p>Plasma samples are obtained according to the standardized operating procedures detailed in previous work.<xref rid="alz70502-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Blood is collected in 10 mL ethylenediaminetetraacetic acid (EDTA) tubes and kept cold until processed, which occurs within 3 h of collection. The samples are centrifuged (10 min at 1800 <italic toggle="yes">g</italic>). The resulting supernatant is stored in 500 µL aliquots in polypropylene tubes and frozen at −80°C until laboratory analysis.</p></sec><sec id="alz70502-sec-0130"><label>2.5</label><title>CSF and plasma biomarkers</title><p>CSF Aβ40, Aβ42, p‐tau181, t‐tau, and NfL levels were measured in all participants using the automated immunoassay analyzer Lumipulse G600 II<xref rid="alz70502-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> (Fujirebio Diagnostics, Malvern, PA, United States). The following kits were used: Lumipulse G β‐Amyloid 1‐40, Lumipulse G β‐Amyloid 1‐42, Lumipulse G p‐tau181, Lumipulse G t‐tau, and Lumipulse G NfL. Aβ42 and Aβ40 were used to calculate the Aβ42/Aβ40 ratio.</p><p>To establish the CSF cutoff points of Aβ42/Aβ42 ratio and p‐tau181, we applied an unbiased Gaussian mixture modeling approach<xref rid="alz70502-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> based on a cohort of 578 subjects, which includes both CU and cognitively impaired subjects. Based on this model, we defined Aβ‐positive (A+) as CSF Aβ42/40 ratio &lt;0.067, and tau‐positive (T+) as CSF p‐tau181 &gt;55.0 pg/mL.</p><p>According to the biomarker profile, participants were divided into four groups: A−T−, A+T−, A+T+, and A−T+. Based on this classification, all individuals with abnormal Aβ values (A+T−, A+T+) were considered to be within the Alzheimer´s continuum. In addition, participants were further categorized into A+ and A− groups. A−T+ participants were excluded for the analyses based on amyloid status. According to the revised criteria for diagnosing and staging of AD of the Alzheimer´s Association,<xref rid="alz70502-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> t‐tau was not considered as the “<italic toggle="yes">N</italic>” biomarker in terms of ATN classification due to its high correlation with p‐tau, particularly in preclinical stages. Nevertheless, given that t‐tau has been used widely as a marker of neurodegeneration in the existing literature, we retained it in this role—along with NfL—in subsequent analyses, including the structural equation modeling, with appropriate consideration of its interpretative limitations. Including both t‐tau and NfL in the same pathway analyses allows for a more comprehensive assessment of neurodegenerative processes, as the markers likely capture distinct yet complementary aspects of neuronal damage.</p><p>CSF levels of sTREM2, YKL40, S100β, and neurogranin were measured in all participants by using the Luminex 200 platform with a magnetic system (MILLIPLEX Human Neurodegenerative Disease) and analyzed with the Belysa Immunoassay Curve‐Fitting Software (both from Merck Life Science S.L.U., Madrid, Spain). The multiplex immunoassay was performed in 96‐well plates, which includes the following MILLIPLEX kits: HNS2MAG‐95K‐02 for sTREM2 and neurogranin, HCYP4MAG‐64K‐01 for YKL40, and HNDG4MAG‐36K‐01 for S100β.</p><p>In a subset of participants, plasma (<italic toggle="yes">n</italic> = 143) and CSF (<italic toggle="yes">n</italic> = 137) GFAP levels were measured using an in‐house ultrasensitive Single molecule array (Simoa) assay on an HD‐X Analyzer (Quanterix, Billerica, MA, USA) at the Clinical Neurochemistry Laboratory, University of Gothenburg, Sweden.</p><p>All CSF and plasma biomarker measurements described were performed using the same batch of reagents within their respective laboratories, in order to ensure analytical consistency across participants.</p></sec><sec id="alz70502-sec-0140"><label>2.6</label><title>Statistical analysis</title><p>The Kolmogorov–Smirnoff test was used to assess the distribution of the variables. Non‐normally distributed CSF and plasma biomarkers were log10 transformed. According to these results, they have been described by mean and SD or median and interquartile range (IQR), as applicable.</p><p>To compare sample characteristics between groups we used analysis of variance (ANOVA) or Kruskal–Wallis test for quantitative variables and chi‐square test or Fisher's exact test for qualitative variables. We assessed the overall differences in glial biomarker levels between the biomarker‐defined groups using ANOVA. If statistically significant differences were found, a post hoc analysis was further performed to analyze the pairwise group differences, with the Bonferroni correction applied to adjust for multiple comparisons.</p><p>The Student´s <italic toggle="yes">t</italic>‐test was used to analyze differences in neuroinflammatory markers between A+ and A− subjects. In addition, general linear models (GLMs) were performed to assess differences in neuroinflammatory markers between groups, including age, sex, and <italic toggle="yes">APOE</italic> ε4 status as covariates. For each analysis, we considered the glial marker as the dependent variable, whereas the biomarker‐defined group (A−T−, A+T−, A+T−, A+T+) or the amyloid (A+ or A−) status served as independent variables, with age, sex, and <italic toggle="yes">APOE</italic> ε4 carriership as covariates. These comparisons were followed by Bonferroni corrected post hoc pairwise comparisons.</p><p>We used Pearson's correlation coefficient to analyze the raw correlations between CSF Aβ42/40 ratio, p‐tau181, t‐tau, NfL, and neurogranin levels with plasma GFAP, CSF GFAP, CSF sTREM2, CSF YKL‐40, and CSF S100β.</p><p>To investigate the association between glial and neuroinflammatory biomarkers and other markers of the AD cascade, we conducted linear regression analysis using neuroinflammatory biomarkers as predictors and core AD and neurodegeneration biomarkers as dependent variables. Age, sex, and <italic toggle="yes">APOE</italic> ε4 status were included as covariates in these models.</p><p>To explore relationships between core AD and glial biomarkers, we applied a Bayesian Network (BN) approach without imposing prior restrictions, enabling the visualization of conditional dependencies and probabilistic relationships without assuming causality. The Fast.iamb structure‐learning algorithm was used with 1000 bootstrap resampling iterations via the bnlearn package in R. Arcs with strength values &gt;0.75, indicating that these connections appeared in at least 75% of the bootstrapped networks, were retained, providing moderate‐to‐high confidence in the identified relationships. Although the BN approach captured complex, multivariate dependencies and revealed data‐driven associations, it lacks <italic toggle="yes">p</italic>‐values and may be challenging to interpret for statistical inference. To address this, we used the BN‐derived relationships as a foundation for structural equation modeling, which allowed for enhanced interpretability, statistical significance testing, and the assessment of both direct and indirect effects.</p><p>To verify structural equation modeling assumptions, we examined multivariate normality using the MVN package in R and assessed linearity by inspecting scatterplot matrices for linearity. Model parameters were estimated using the Maximum Likelihood Robust (MLR) estimator within the lavaan package. Missing data were handled using the Maximum Likelihood (ML) method, assuming data were missing at random (MAR).</p><p>Our model was hypothesized based on both BN findings and the existing literature on the amyloid cascade in AD. We explored the potential mediating roles of reactive astrogliosis (elevated plasma GFAP, CSF YKL‐40, and S100β) and microglial reactivity (sTREM2) in AD biomarker progression, such as changes in amyloid, p‐tau, t‐tau, and neurodegeneration markers. To avoid redundancy, CSF GFAP was not included in this model in favor of plasma GFAP, which has demonstrated superior performance in detecting Aβ pathology in CU individuals.<xref rid="alz70502-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70502-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> A hierarchical model with six levels was constructed: (I) covariates age, sex, and <italic toggle="yes">APOE</italic> ε4 status; (II) CSF Aβ42/40 ratio as the initial pathological event; (III) astrocytic and microglial biomarkers as potential mediators; (IV) CSF p‐tau181 level, representing soluble tau pathology; (V) CSF t‐tau and NfL concentrations, indicating neurodegeneration, along with neurogranin for synaptic dysfunction; and (VI) global cognitive performance measured by the PACC5.</p><p>Relationships with clear directionality from the BN analysis were modeled as proposed, whereas those with undefined directionality were represented bidirectionally in the structural equation modeling framework. The model coefficients reflect both direct and indirect effects among biomarkers, quantifying complex multivariate relationships simultaneously in a single analysis. All biomarker data were standardized using <italic toggle="yes">z</italic>‐score scaling to ensure consistency across variables, facilitating direct comparison and reducing potential biases due to differences in variable scales. The 95% confidence intervals (CIs) for parameter estimates were calculated using MLR. Model fit was evaluated using multiple indices sensitive to overfitting, including the chi‐square to degrees of freedom ratio (χ<sup>2</sup>/df), the Root Mean Square Error of Approximation (RMSEA), the Standardized Root Mean Square Residual (SRMR), the Tucker‐Lewis Index (TLI), and the Comparative Fit Index (CFI). These indices strongly support the adequacy of the model, with values indicating good to excellent model fit (χ<sup>2</sup>/df = 1.5; RMSEA = 0.050, 90% CI: 0.016–0.076, p‐close = 0.477; SRMR = 0.038; TLI = 0.957, and CFI = 0.980).</p><p>For all the analyses, we applied a false discovery rate (FDR) multiple comparison correction following the Benjamini–Hochberg procedure. <italic toggle="yes">p</italic>‐Values ≤ 0.05 were considered as statistically significant. All statistical analyses were conducted using SPSS IBM version 25.0, R software version 4.4.1 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.r-project.org/" ext-link-type="uri">http://www.r‐project.org/</ext-link>) and Python (version 3.9.18). Figures were created with Python (version 3.9.18) and Canva (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.canva.com/" ext-link-type="uri">https://www.canva.com/</ext-link>).</p></sec></sec><sec id="alz70502-sec-0150"><label>3</label><title>RESULTS</title><sec id="alz70502-sec-0160"><label>3.1</label><title>Sample description</title><p>Our sample consisted of 211 CU volunteers, including 137 females (64.9%) and 74 males (35.1%). The median age was 64 years (IQR 60–69) and 63 participants (30.4%) were carriers of at least one <italic toggle="yes">APOE</italic> ε4 allele. The median score on the MMSE (0–30) was 29 (IQR 28–30). Table <xref rid="alz70502-tbl-0001" ref-type="table">1</xref> summarizes the main demographic and clinical characteristics, CSF AD biomarker values, and the distribution of subjects across the AT groups.</p><table-wrap position="float" id="alz70502-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Participant characteristics.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Characteristic</th><th align="left" rowspan="1" colspan="1">Total (<italic toggle="yes">N</italic> = 211)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Female (%)</td><td align="char" rowspan="1" colspan="1">137 (64.9%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age, median (IQR)</td><td align="char" rowspan="1" colspan="1">64 (60–69)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 carrier, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">63 (30.4%)</td></tr><tr><td align="left" rowspan="1" colspan="1">MMSE (0–30), median (IQR)</td><td align="char" rowspan="1" colspan="1">29 (28–30)</td></tr><tr><td colspan="2" align="left" rowspan="1">
+<bold>CSF AD biomarkers</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Aβ40, mean (SD), pg/mL</td><td align="char" rowspan="1" colspan="1">10868.4 (3215.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Aβ42, median (IQR), pg/mL</td><td align="char" rowspan="1" colspan="1">820.0 (578.0–1040.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Aβ42/40 ratio, median (IQR)</td><td align="char" rowspan="1" colspan="1">0.084 (0.064–0.093)</td></tr><tr><td align="left" rowspan="1" colspan="1">t‐tau, median (IQR), pg/mL</td><td align="char" rowspan="1" colspan="1">318.0 (241.0–400.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">p‐tau181, median (IQR), pg/mL</td><td align="char" rowspan="1" colspan="1">37.6 (30.4–54.4)</td></tr><tr><td colspan="2" align="left" rowspan="1">
+<bold>AT group, <italic toggle="yes">n</italic> (%)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">A–T–</td><td align="char" rowspan="1" colspan="1">142 (67.3%)</td></tr><tr><td align="left" rowspan="1" colspan="1">A+T–</td><td align="char" rowspan="1" colspan="1">19 (9.0%)</td></tr><tr><td align="left" rowspan="1" colspan="1">A+T+</td><td align="char" rowspan="1" colspan="1">39 (18.5%)</td></tr><tr><td align="left" rowspan="1" colspan="1">A–T+</td><td align="char" rowspan="1" colspan="1">11 (5.2%)</td></tr><tr><td colspan="2" align="left" rowspan="1">
+<bold>Physiological variables and comorbidities</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">eGFR, median (IQR), mL/min/1.73m<sup>2</sup>
+</td><td align="char" rowspan="1" colspan="1">93.7 (86.7–98.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index, mean (SD), kg/m<sup>2</sup>
+</td><td align="char" rowspan="1" colspan="1">26.3 (23.9–29.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypertension, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">82 (38.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes mellitus, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">17 (8.0)</td></tr></tbody></table><table-wrap-foot><fn id="alz70502-tbl1-note-0001"><p>
+<italic toggle="yes">Note</italic>: Sample characteristics.</p></fn><fn id="alz70502-tbl1-note-0002"><p>Abbreviations: A, amyloid; <italic toggle="yes">APOE</italic>, apolipoprotein E; Aβ, amyloid beta; CSF, cerebrospinal fluid; eGFR, estimated glomerular filtration rate; IQR, interquartile range; MMSE, Mini‐Mental State Examination; <italic toggle="yes">n</italic>, number of subjects; p‐tau181, phosphorylated tau‐181; SD, standard deviation; T, tau; t‐tau, total tau.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz70502-sec-0170"><label>3.2</label><title>Differences in microglial and astrocytic biomarkers across biomarker‐defined groups</title><p>Table <xref rid="alz70502-tbl-0002" ref-type="table">2</xref> presents the main demographic and clinical characteristics of the sample, along with microglial and astrocyte‐related biomarker levels in each AT group.</p><table-wrap position="float" id="alz70502-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Differences in main characteristics and levels of glial markers across AT groups.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="." span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Characteristic / biomarker</th><th align="left" rowspan="1" colspan="1">A−T−</th><th align="left" rowspan="1" colspan="1">A+T−</th><th align="left" rowspan="1" colspan="1">A+T+</th><th align="left" rowspan="1" colspan="1">A−T+</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Female, <italic toggle="yes">n</italic> (%)</td><td align="char" rowspan="1" colspan="1">97 (68.3%)</td><td align="char" rowspan="1" colspan="1">16 (84.2%)</td><td align="char" rowspan="1" colspan="1">18 (47.2%)</td><td align="char" rowspan="1" colspan="1">6 (54.5%)</td><td align="char" rowspan="1" colspan="1">
+<bold>0.016</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Age, median (IQR)</td><td align="char" rowspan="1" colspan="1">63 (59–68)</td><td align="char" rowspan="1" colspan="1">64 (62–70)</td><td align="char" rowspan="1" colspan="1">69 (64–72)</td><td align="char" rowspan="1" colspan="1">65 (61–75)</td><td align="char" rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+<sup>*</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI, median (IQR), kg/m<sup>2</sup>
+</td><td align="char" rowspan="1" colspan="1">26.4 (24.2–29.1)</td><td align="char" rowspan="1" colspan="1">29.0 (28.0–30.0)</td><td align="char" rowspan="1" colspan="1">29.0 (28.0–30.0)</td><td align="char" rowspan="1" colspan="1">29.0 (29.0–30.0)</td><td align="char" rowspan="1" colspan="1">
+<bold>0.706</bold>
+<sup>*</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">MMSE (0–30), median (IQR)</td><td align="char" rowspan="1" colspan="1">29 (29–30)</td><td align="char" rowspan="1" colspan="1">29 (28–30)</td><td align="char" rowspan="1" colspan="1">29 (28–30)</td><td align="char" rowspan="1" colspan="1">29 (29–30)</td><td align="char" rowspan="1" colspan="1">
+<bold>0.248</bold>
+<sup>*</sup>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Aβ40, mean (SD), pg/mL</td><td align="char" rowspan="1" colspan="1">10092.6 (2861.2)</td><td align="char" rowspan="1" colspan="1">10570.5 (2748.6)</td><td align="char" rowspan="1" colspan="1">12236.4 (2932.1)</td><td align="char" rowspan="1" colspan="1">16547.5 (1975.8)</td><td align="char" rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Aβ42, median (IQR), pg/mL</td><td align="char" rowspan="1" colspan="1">905.2 (280.5)</td><td align="char" rowspan="1" colspan="1">596.4 (145.7)</td><td align="char" rowspan="1" colspan="1">522.4 (169.8)</td><td align="char" rowspan="1" colspan="1">1390.2 (831.9)</td><td align="char" rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Aβ42/40 ratio, median (IQR)</td><td align="char" rowspan="1" colspan="1">0.089 (0.010)</td><td align="char" rowspan="1" colspan="1">0.057 (0.008)</td><td align="char" rowspan="1" colspan="1">0.043 (0.009)</td><td align="char" rowspan="1" colspan="1">0.084 (0.013)</td><td align="char" rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">t‐tau, median (IQR), pg/mL</td><td align="char" rowspan="1" colspan="1">279.7 (81.0)</td><td align="char" rowspan="1" colspan="1">313.8 (71.5)</td><td align="char" rowspan="1" colspan="1">559.8 (215.3)</td><td align="char" rowspan="1" colspan="1">479.1 (75.3)</td><td align="char" rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">p‐tau181, median (IQR), pg/mL</td><td align="char" rowspan="1" colspan="1">33.5 (9.4)</td><td align="char" rowspan="1" colspan="1">40.4 (9.2)</td><td align="char" rowspan="1" colspan="1">92.3 (4.4)</td><td align="char" rowspan="1" colspan="1">62.84 (7.3)</td><td align="char" rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF GFAP, median (IQR), pg/mL</td><td align="char" rowspan="1" colspan="1">484.50 (329.00–615.25)</td><td align="char" rowspan="1" colspan="1">490.00 (342.00–622.50)</td><td align="char" rowspan="1" colspan="1">678.00 (512.5–773.00)</td><td align="char" rowspan="1" colspan="1">520.00 (414.00–812.00)</td><td align="char" rowspan="1" colspan="1">
+<bold>0.027</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Plasma GFAP, median (IQR), pg/mL</td><td align="char" rowspan="1" colspan="1">97.80 (72.70–120.00)</td><td align="char" rowspan="1" colspan="1">102.00 (87.45–159.00)</td><td align="char" rowspan="1" colspan="1">141.00 (107.05–243.50)</td><td align="char" rowspan="1" colspan="1">101.75 (78.43–135.00)</td><td align="char" rowspan="1" colspan="1">
+<bold>&lt;0.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF sTREM2, median (IQR), pg/mL</td><td align="char" rowspan="1" colspan="1">1464.52 (1026.47–1897.16)</td><td align="char" rowspan="1" colspan="1">1540.38 (1104.71–2100.02)</td><td align="char" rowspan="1" colspan="1">1779.81 (1147.07–2385.17)</td><td align="char" rowspan="1" colspan="1">1444.44 (1348.31–1974.14)</td><td align="char" rowspan="1" colspan="1">
+<bold>0.025</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF YKL‐40, median (IQR), pg/mL</td><td align="char" rowspan="1" colspan="1">311.47 (225.19–434.54)</td><td align="char" rowspan="1" colspan="1">310.68 (143.33–473.18)</td><td align="char" rowspan="1" colspan="1">420.14 (265.80–561.82)</td><td align="char" rowspan="1" colspan="1">698.84 (223.58–1637.60)</td><td align="char" rowspan="1" colspan="1">
+<bold>0.003</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF S100β, median (IQR), pg/mL</td><td align="char" rowspan="1" colspan="1">1122.13 (840.84–1452.59)</td><td align="char" rowspan="1" colspan="1">1100.08 (939.01–1385.84)</td><td align="char" rowspan="1" colspan="1">1320.31 (1031.39–1707.97)</td><td align="char" rowspan="1" colspan="1">1156.98 (874.60–1537.44)</td><td align="char" rowspan="1" colspan="1">0.571</td></tr></tbody></table><table-wrap-foot><fn id="alz70502-tbl2-note-0001"><p>
+<italic toggle="yes">Note</italic>: Data presented as the median (IQR) or as the <italic toggle="yes">n</italic> (%). Statistical significance was considered when <italic toggle="yes">p</italic>‐value ≤ 0.05 (ANOVA or Kruskal Wallis* test for quantitative variables; chi‐square test or Fisher's exact test for qualitative variables). <italic toggle="yes">p</italic>‐values ≤  0.05 are indicated in bold. <italic toggle="yes">N</italic> = 211. (Plasma GFAP, <italic toggle="yes">n</italic> = 143; CSF GFAP, <italic toggle="yes">n</italic> = 137.) Abbreviations: A, amyloid; ANOVA, analysis of variance; CSF, cerebrospinal fluid; GFAP, glial fibrillary acidic protein; IQR, interquartile range; MMSE, Mini‐Mental State Examination; <italic toggle="yes">n</italic>, number of subjects; S100β, S‐100 calcium‐binding protein beta; sTREM2, soluble triggering receptor expressed on myeloid cells 2; T, tau; YKL‐40, chitinase‐3‐like protein 1.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Significant differences were observed in plasma and CSF GFAP, CSF sTREM2, and CSF YKL‐40 across biomarker‐defined groups (Figure <xref rid="alz70502-fig-0001" ref-type="fig">1</xref>). Specifically, CSF and plasma GFAP and CSF sTREM2 were significantly higher in the A+T+ compared to the normal (A−T−) group. CSF YKL‐40 levels were elevated in the A−T+ compared to the A−T− group (Figure <xref rid="alz70502-fig-0001" ref-type="fig">1A</xref>).</p><fig position="float" fig-type="FIGURE" id="alz70502-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Differences in glial biomarkers according to AT group and amyloid status. The figure shows box‐and‐whisker plots of plasma and CSF GFAP, CSF sTREM2, CSF YKL‐40, and CSF S100β by AT group (1A) and amyloid status (1B). The x‐axis represents the different groups, whereas the y‐axis shows the concentrations of each glial biomarker, expressed in pg/mL, except for YKL‐40, which is in ng/mL. Outliers beyond the 95th and 5th percentiles were filtered prior to plotting. The boxes represent the IQR, with the upper boundary at Q3 and the lower boundary at Q1. The line inside the box indicates the median of the sample, and the whiskers show the most extreme data points within 1.5 times the IQR. Dots represent individual values. Significant differences are indicated by a horizontal line with one (<italic toggle="yes">p</italic> ≤ 0.05), two (<italic toggle="yes">p</italic> ≤ 0.01), or three (<italic toggle="yes">p</italic> ≤ 0.001) asterisks between the boxes. CSF, cerebrospinal fluid; GFAP, glial fibrillary acidic protein; sTREM2, soluble triggering receptor expressed on myeloid cells 2; YKL‐40, Chitinase‐3‐like protein 1; S100β, S100 calcium‐binding protein beta; A, amyloid; T, tau.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-21-e70502-g002.jpg"/></fig><p>After adjusting for age, sex, and <italic toggle="yes">APOE</italic> ε4, differences between AT groups in plasma GFAP (<italic toggle="yes">F</italic>(3, 136) = 6.26, <italic toggle="yes">p</italic>‐value: 0.001), CSF sTREM2 (<italic toggle="yes">F</italic>(3, 197) = 3.41, <italic toggle="yes">p</italic>‐value: 0.018), and CSF YKL‐40 levels (<italic toggle="yes">F</italic>(3, 198) = 5.29, <italic toggle="yes">p</italic>‐value: 0.002) remained significant (Table <xref rid="alz70502-tbl-0003" ref-type="table">3</xref>). No significant differences were found in CSF GFAP (<italic toggle="yes">F</italic>(3, 130) = 0.04, <italic toggle="yes">p</italic>‐value: 0.989) or S100β (<italic toggle="yes">F</italic>(3, 198) = 0.41, <italic toggle="yes">p</italic>‐value: 0.743) after adjustments for age, sex, and <italic toggle="yes">APOE</italic> ε4 carriership.</p><table-wrap position="float" id="alz70502-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Influence of AT group and amyloid status on plasma GFAP, CSF GFAP, CSF sTREM2, CSF YKL‐40, and S100β.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Group</th><th align="left" rowspan="1" colspan="1">Plasma GFAP</th><th align="left" rowspan="1" colspan="1">CSF GFAP</th><th align="left" rowspan="1" colspan="1">CSF sTREM2</th><th align="left" rowspan="1" colspan="1">CSF YKL‐40</th><th align="left" rowspan="1" colspan="1">CSF S100β</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic> (df<sub>M,</sub> df<sub>R</sub>)</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic> (df<sub>M,</sub> df<sub>R</sub>)</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic> (df<sub>M,</sub> df<sub>R</sub>)</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic> (df<sub>M,</sub> df<sub>R</sub>)</td><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">F</italic> (df<sub>M,</sub> df<sub>R</sub>)</td></tr><tr><td align="left" rowspan="1" colspan="1">AT</td><td align="left" rowspan="1" colspan="1">6.26<xref rid="alz70502-tbl3-note-0005" ref-type="table-fn">
+<sup>***</sup>
+</xref> (3, 136)</td><td align="left" rowspan="1" colspan="1">0.04 (3, 130)</td><td align="left" rowspan="1" colspan="1">3.41<xref rid="alz70502-tbl3-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref> (3, 197)</td><td align="left" rowspan="1" colspan="1">5.29<xref rid="alz70502-tbl3-note-0004" ref-type="table-fn">
+<sup>**</sup>
+</xref> (3, 198)</td><td align="left" rowspan="1" colspan="1">0.41 (3, 198)</td></tr><tr><td align="left" rowspan="1" colspan="1">Amyloid</td><td align="left" rowspan="1" colspan="1">7.74<xref rid="alz70502-tbl3-note-0004" ref-type="table-fn">
+<sup>**</sup>
+</xref> (1, 130)</td><td align="left" rowspan="1" colspan="1">0.02 (1, 125)</td><td align="left" rowspan="1" colspan="1">8.50<xref rid="alz70502-tbl3-note-0004" ref-type="table-fn">
+<sup>**</sup>
+</xref> (1, 189)</td><td align="left" rowspan="1" colspan="1">0.10 (1, 189)</td><td align="left" rowspan="1" colspan="1">0.20 (1, 189)</td></tr></tbody></table><table-wrap-foot><fn id="alz70502-tbl3-note-0001"><p>
+<italic toggle="yes">Note</italic>: All models included age, sex, and <italic toggle="yes">APOE</italic> ε4 allele status as covariates. <italic toggle="yes">N</italic> = 211. (Plasma GFAP, <italic toggle="yes">n</italic> = 143; CSF GFAP, <italic toggle="yes">n</italic> = 137.)</p></fn><fn id="alz70502-tbl3-note-0002"><p>Abbreviations: A, amyloid; GFAP, glial fibrillary filament protein; S100β, S‐100 protein β chain; sTREM2, soluble triggering receptor expressed on myeloid cells 2; T, tau;. CSF, cerebrospinal fluid; YKL‐40, chitinase‐3‐like protein 1.</p></fn><fn id="alz70502-tbl3-note-0003"><label>*</label><p>
+<italic toggle="yes">p</italic>‐value ≤  0.05.</p></fn><fn id="alz70502-tbl3-note-0004"><label>**</label><p>
+<italic toggle="yes">p</italic>‐value ≤  0.01.</p></fn><fn id="alz70502-tbl3-note-0005"><label>***</label><p>
+<italic toggle="yes">p</italic>‐value ≤  0.001.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Post hoc analysis revealed that A+T+ subjects had significantly higher plasma GFAP levels than A+T− subjects (mean difference = 58.62 pg/mL, adjusted <italic toggle="yes">p</italic>‐value: 0.039; 95% CI: 115.38–1.86) and A−T− participants (mean difference = 64.76 pg/mL, adjusted <italic toggle="yes">p</italic>‐value: 0.001; 95% CI: 107.48–22.04).</p><p>CSF sTREM2 levels were higher in A+T+ compared to A−T− subjects (mean difference = 541.28 pg/mL, adjusted <italic toggle="yes">p‐</italic>value: 0.010; 95% CI 994.39–88.17). However, no differences in CSF sTREM2 levels were found between A+T+ and A+T− subjects (adjusted <italic toggle="yes">p‐</italic>value: 0.636) or between A+T+ and A−T+ subjects (adjusted <italic toggle="yes">p</italic>‐value: 0.618). Neither plasma GFAP or CSF sTREM2 differed between A+T− and A−T− individuals (adjusted <italic toggle="yes">p‐</italic>values: 1.000 and 0.875, respectively), or between A−T+ and A−T− participants (adjusted <italic toggle="yes">p‐</italic>values: 0.990 and 0.995, respectively).</p><p>A−T+ subjects had significantly higher CSF YKL40 levels compared to A−T− (mean difference = 422.54 ng/mL, adjusted <italic toggle="yes">p</italic>‐value: 0.001; 95% CI: 716.17–128.91), A+T+ (mean difference = 399.83 ng/mL, adjusted <italic toggle="yes">p‐</italic>value: 0.008; 95% CI 74.66–725.00) and A+T− subjects (mean difference = 483.05 ng/mL, adjusted <italic toggle="yes">p</italic>‐value: 0.002; 95% CI 128.72–837.38). No differences in CSF YKL40 were found between A+T+ or A+T− and A−T− subjects after adjusting for multiple comparisons (adjusted <italic toggle="yes">p‐</italic>values: 1.000 and 0.982, respectively).</p></sec><sec id="alz70502-sec-0180"><label>3.3</label><title>Differences in microglial and astrocytic biomarkers by amyloid status</title><p>We conducted GLMs to assess differences in mean microglial and astrocytic marker levels between A+ and A− subjects, adjusting for age, sex, and <italic toggle="yes">APOE</italic> ε4 carriership.</p><p>A significant influence of the amyloid status was observed on plasma GFAP (F(1, 130) = 7.74, <italic toggle="yes">p</italic>‐value: 0.006) and CSF sTREM2 (F(1, 189) = 8.50, <italic toggle="yes">p</italic>‐value: 0.004), independent of age, sex, and <italic toggle="yes">APOE</italic> ε4 carriership, so a group analysis was performed. Plasma GFAP (142.84 pg/mL vs 104.41 pg/mL; mean difference: 38.43, <italic toggle="yes">p‐</italic>value &lt; 0.0001, 95% CI: 11.10–65.76) and CSF sTREM2 (1855.32 pg/mL vs 1429.52 pg/mL; mean difference = 425.80, <italic toggle="yes">p‐</italic>value: 0.03, 95% CI 137.71–713.88) were significantly higher in A+ subjects compared to A− individuals (Figure <xref rid="alz70502-fig-0001" ref-type="fig">1B</xref>, Table <xref rid="alz70502-tbl-0003" ref-type="table">3</xref>). In contrast, amyloid status did not significantly influence CSF GFAP (F(1, 125) = 0.02, <italic toggle="yes">p</italic>‐value: 0.881), CSF YKL‐40 (F(1, 189) = 0.10, <italic toggle="yes">p‐</italic>value: 0.759), or CSF S100β levels (F(1, 189) = 0.20, <italic toggle="yes">p</italic>‐value: 0.887).</p></sec><sec id="alz70502-sec-0190"><label>3.4</label><title>Correlation between microglia and astrocyte biomarkers and CSF Aβ, tau, synaptic, and neurodegeneration biomarkers</title><p>We examined the correlations between plasma and CSF GFAP levels, CSF sTREM2, CSF YKL40, and CSF S100β with CSF biomarkers of the main pathogenic events described in AD (Figure <xref rid="alz70502-fig-0002" ref-type="fig">2</xref>; Table <xref rid="alz70502-supinfo-0001" ref-type="">S1</xref>). All neuroinflammatory biomarkers showed statistically significant correlations with CSF p‐tau, t‐tau, and NfL levels after adjusting for multiple comparisons. In addition, CSF sTREM2 and S100β were significantly correlated with CSF neurogranin levels. Plasma and CSF GFAP levels were the only markers that showed significant correlations with the CSF Aβ42/40 ratio.</p><fig position="float" fig-type="FIGURE" id="alz70502-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Correlation between each microglial and astrocytic biomarker and CSF pathological AD biomarkers. The plots show Pearson´s correlation coefficient between each glial marker and CSF Aβ42/Aβ40 ratio, p‐tau181, t‐tau, NfL, and neurogranin. The y‐axis represents the log10 values of CSF AD pathological biomarkers, whereas the x‐axis represents the log10 values of microglial and astrocytic biomarkers, expressed in pg/mL, except for YKL‐40, which is in ng/mL, and the amyloid ratio, which has no units. Dots represent paired values of both variables for each observation. The red line indicates the regression line, and the shaded area represents the 95% confidence interval. CSF, cerebrospinal fluid; AD, Alzheimer´s disease; p‐tau181, phosphorylated tau 181; t‐tau, total tau; NfL, neurofilament light; Aβ, amyloid beta; GFAP, glial fibrillary acidic protein; sTREM2, soluble triggering receptor expressed on myeloid cells 2; YKL‐40, Chitinase‐3‐like protein 1; S100β, S100 calcium binding protein beta.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-21-e70502-g001.jpg"/></fig><p>We performed linear regression analysis of the individual associations of glial and neuroinflammatory biomarkers with other markers of the AD cascade, considering age, sex and <italic toggle="yes">APOE</italic> ε4 carriership as covariates (Table <xref rid="alz70502-tbl-0004" ref-type="table">4</xref>). Higher plasma GFAP was associated with lower CSF Aβ42/40 ratio (β: −0.209, <italic toggle="yes">p</italic>‐value: 0.0002). Both plasma (β: 0.240, <italic toggle="yes">p</italic>‐value: 0.006) and CSF GFAP (β: 0.270, <italic toggle="yes">p‐</italic>value: 0.001) were positively associated with higher CSF p‐tau181 levels, and CSF GFAP was also associated with higher CSF NfL levels (β: 0.354, <italic toggle="yes">p‐</italic>value &lt; 0.0001). Higher CSF sTREM2 levels were correlated with increased p‐tau181 (β: 0.384, <italic toggle="yes">p</italic>‐value &lt; 0.0001), t‐tau (β: 0.246, <italic toggle="yes">p</italic>‐value &lt; 0.0001), NfL (β: 0.284, <italic toggle="yes">p‐</italic>value &lt; 0.0001), and neurogranin (β: 1.982, <italic toggle="yes">p‐</italic>value &lt; 0.0001). CSF YKL‐40 was positively associated with <italic toggle="yes">p</italic>‐tau181 (β: 0.184, <italic toggle="yes">p</italic>‐value: 0.0004), t‐tau (β: 0.199, <italic toggle="yes">p</italic>‐value &lt; 0.0001), and neurogranin (β: 0.631, <italic toggle="yes">p</italic>‐value: 0.04). Higher CSF S100β levels were associated with higher p‐tau181 (β: 0.190, <italic toggle="yes">p</italic>‐value: 0.008), NfL (β: 0.255, <italic toggle="yes">p</italic>‐value &lt; 0.0001), and neurogranin (β: 1.226, <italic toggle="yes">p</italic>‐value: 0.03). No significant associations were found between any neuroinflammatory markers and cognitive performance on the PACC5 (Table <xref rid="alz70502-tbl-0004" ref-type="table">4</xref>).</p><table-wrap position="float" id="alz70502-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>Linear regression analysis: Individual associations between plasma GFAP, CSF GFAP, CSF sTREM2, CSF YKL‐40, and S100β with AD cascade biomarkers</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">Plasma GFAP</th><th align="left" rowspan="1" colspan="1">CSF GFAP</th><th align="left" rowspan="1" colspan="1">CSF sTREM2</th><th align="left" rowspan="1" colspan="1">CSF YKL‐40</th><th align="left" rowspan="1" colspan="1">CSF S100β</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Aβ42/Aβ40</td><td align="char" rowspan="1" colspan="1">−0.209<xref rid="alz70502-tbl4-note-0005" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">−0.044</td><td align="char" rowspan="1" colspan="1">−0.068</td><td align="char" rowspan="1" colspan="1">−0.036</td><td align="char" rowspan="1" colspan="1">−0.026</td></tr><tr><td align="left" rowspan="1" colspan="1">P‐tau181</td><td align="char" rowspan="1" colspan="1">0.240<xref rid="alz70502-tbl4-note-0004" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.270<xref rid="alz70502-tbl4-note-0005" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.384<xref rid="alz70502-tbl4-note-0006" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.184<xref rid="alz70502-tbl4-note-0005" ref-type="table-fn">
+<sup>***</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.190<xref rid="alz70502-tbl4-note-0004" ref-type="table-fn">
+<sup>**</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">T‐tau</td><td align="char" rowspan="1" colspan="1">0.101</td><td align="char" rowspan="1" colspan="1">0.074</td><td align="char" rowspan="1" colspan="1">0.246<xref rid="alz70502-tbl4-note-0006" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.199<xref rid="alz70502-tbl4-note-0006" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.121</td></tr><tr><td align="left" rowspan="1" colspan="1">NfL</td><td align="char" rowspan="1" colspan="1">0.127</td><td align="char" rowspan="1" colspan="1">0.354<xref rid="alz70502-tbl4-note-0006" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.284<xref rid="alz70502-tbl4-note-0006" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.116</td><td align="char" rowspan="1" colspan="1">0.255<xref rid="alz70502-tbl4-note-0006" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Neurogranin</td><td align="char" rowspan="1" colspan="1">0.036</td><td align="char" rowspan="1" colspan="1">0.624</td><td align="char" rowspan="1" colspan="1">1.982<xref rid="alz70502-tbl4-note-0006" ref-type="table-fn">
+<sup>****</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">0.631<xref rid="alz70502-tbl4-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="char" rowspan="1" colspan="1">1.226<xref rid="alz70502-tbl4-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">PACC5</td><td align="char" rowspan="1" colspan="1">−0.394</td><td align="char" rowspan="1" colspan="1">0.042</td><td align="char" rowspan="1" colspan="1">0.097</td><td align="char" rowspan="1" colspan="1">0.290</td><td align="char" rowspan="1" colspan="1">−0.195</td></tr></tbody></table><table-wrap-foot><fn id="alz70502-tbl4-note-0001"><p>
+<italic toggle="yes">Note</italic>: Data are presented as unstandardized beta coefficients. All models included age, sex, and <italic toggle="yes">APOE</italic> ε4 allele status as covariates. <italic toggle="yes">N</italic> = 211. (Plasma GFAP, <italic toggle="yes">n</italic> = 143; CSF GFAP, <italic toggle="yes">n</italic> = 137).</p></fn><fn id="alz70502-tbl4-note-0002"><p>Abbreviations: Aβ, amyloid beta; CSF, cerebrospinal fluid; GFAP, glial fibrillary acidic protein; NFL, neurofilament light; PACC5, Preclinical Alzheimer Cognitive Composite 5; p‐tau, phosphorylated tau; S100β, S‐100 calcium‐binding protein beta; sTREM2, soluble triggering receptor expressed on myeloid cells 2; YKL‐40, chitinase‐3‐like protein 1.</p></fn><fn id="alz70502-tbl4-note-0003"><label>*</label><p>
+<italic toggle="yes">p</italic>‐value ≤  0.05.</p></fn><fn id="alz70502-tbl4-note-0004"><label>**</label><p>
+<italic toggle="yes">p</italic>‐value ≤  0.01.</p></fn><fn id="alz70502-tbl4-note-0005"><label>***</label><p>
+<italic toggle="yes">p</italic>‐value ≤  0.001.</p></fn><fn id="alz70502-tbl4-note-0006"><label>****</label><p>
+<italic toggle="yes">p</italic>‐value ≤  0.0001.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz70502-sec-0200"><label>3.5</label><title>Bayesian networks and structural equation model</title><p>The BN analysis replicated the theoretical AD cascade pathway and established several probabilistic relationships between neuroinflammatory markers and the pathological hallmarks of AD. These results are depicted in Figure <xref rid="alz70502-supinfo-0001" ref-type="">S2</xref>. Briefly, the data supported the amyloid cascade model, with CSF Aβ42/40 associated with CSF p‐tau181, which was subsequently linked to CSF t‐tau and NfL. A strong association was observed between plasma GFAP and CSF Aβ, as well as between CSF sTREM2 and both CSF p‐tau181 and CSF neurogranin. In addition, CSF YKL40 was related to CSF t‐tau, and CSF S100β to CSF sTREM2. These findings, together with the existing literature, informed the hypothesized causal pathways that were later tested using structural equation modeling.</p><p>The results of our structural equation modeling analysis are shown in Figure <xref rid="alz70502-fig-0003" ref-type="fig">3</xref>, where all significant direct associations between biomarkers are indicated with arrows. Table <xref rid="alz70502-tbl-0005" ref-type="table">5</xref> displays all associations (both significant and non‐significant) along with their corresponding estimates and 95% CIs.</p><fig position="float" fig-type="FIGURE" id="alz70502-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Structural equation model. Path analysis showing the impact of plasma GFAP, CSF TREM2, CSF YKL‐40, and S100β on amyloid, tau, synaptic dysfunction, neurodegeneration, and cognition. Cognition was measured by the PACC5 score. Arrows show the direct effects of significant associations at <italic toggle="yes">p</italic> ≤ 0.05 FDR‐corrected between all biomarker relationships (<italic toggle="yes">z</italic>‐score) from the structural equation model. The β estimates represent the unique contribution of a specific variable to the change in a dependent variable after controlling for the effects of age, sex, and <italic toggle="yes">APOE</italic> status and the rest of variables specified in each level of the model. CSF, cerebrospinal fluid; GFAP, glial fibrillary acidic protein; sTREM2, soluble triggering receptor expressed on myeloid cells 2; NRG, neurogranin; YKL‐40, chitinase‐3‐like protein 1; S100β, S100 calcium‐binding protein beta; PACC5, Preclinical Alzheimer Cognitive Composite 5.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-21-e70502-g003.jpg"/></fig><table-wrap position="float" id="alz70502-tbl-0005" content-type="TABLE" orientation="portrait"><label>TABLE 5</label><caption><p>Structural equation model coefficients showing all direct (directional and bidirectional relationships) and indirect effects of the path model.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="." span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Biomarker</th><th align="left" rowspan="1" colspan="1">β (95% CI)</th><th align="left" rowspan="1" colspan="1">Adjusted‐<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">CSF Aβ42/40</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Age</td><td align="char" rowspan="1" colspan="1">−0.044 (−0.063 to −0.024)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 carrier</td><td align="char" rowspan="1" colspan="1">−0.892 (−1.175 to −0.609)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Sex, female</td><td align="char" rowspan="1" colspan="1">0.192 (−0.07 to 0.455)</td><td align="char" rowspan="1" colspan="1">0.213</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>Correlation with plasma GFAP</bold>
+</td><td align="char" rowspan="1" colspan="1">−<bold>0.236 (</bold>−<bold>0.362 to</bold> −<bold>0.11)</bold>
+</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Plasma GFAP</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Age</td><td align="char" rowspan="1" colspan="1">0.082 (0.059 to 0.105)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 carrier</td><td align="char" rowspan="1" colspan="1">0.188 (−0.115 to 0.492)</td><td align="char" rowspan="1" colspan="1">0.286</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Sex, female</td><td align="char" rowspan="1" colspan="1">0.368 (0.083 to 0.653)</td><td align="char" rowspan="1" colspan="1">0.019</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>Correlation with CSF Aβ42/40</bold>
+</td><td align="char" rowspan="1" colspan="1">−<bold>0.236 (</bold>−<bold>0.362 to</bold> −<bold>0.11)</bold>
+</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF sTREM2</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Age</td><td align="char" rowspan="1" colspan="1">0.025 (0.005 to 0.044)</td><td align="char" rowspan="1" colspan="1">0.021</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 carrier</td><td align="char" rowspan="1" colspan="1">−0.158 (−0.447 to 0.132)</td><td align="char" rowspan="1" colspan="1">0.347</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Sex, female</td><td align="char" rowspan="1" colspan="1">−0.101 (−0.376 to 0.174)</td><td align="char" rowspan="1" colspan="1">0.546</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>Correlation with CSF S100β</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>0.293 (0.155 to 0.432)</bold>
+</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF p‐tau181</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Age</td><td align="char" rowspan="1" colspan="1">0.028 (0.013 to 0.043)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 carrier</td><td align="char" rowspan="1" colspan="1">0.017 (−0.237 to 0.271)</td><td align="char" rowspan="1" colspan="1">0.925</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Sex, female</td><td align="char" rowspan="1" colspan="1">−0.23 (−0.413 to −0.046)</td><td align="char" rowspan="1" colspan="1">0.022</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>CSF Aβ42/40</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>−0.552 (−0.667 to −0.437)</bold>
+</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>CSF sTREM2</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>0.335 (0.243 to 0.426)</bold>
+</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF YKL40</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Age</td><td align="char" rowspan="1" colspan="1">0.048 (0.025 to 0.071)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 carrier</td><td align="char" rowspan="1" colspan="1">−0.332 (−0.603 to −0.06)</td><td align="char" rowspan="1" colspan="1">0.026</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Sex, female</td><td align="char" rowspan="1" colspan="1">−0.054 (−0.328 to 0.22)</td><td align="char" rowspan="1" colspan="1">0.761</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>CSF p‐tau181</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>0.253 (0.104 to 0.402)</bold>
+</td><td align="char" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF t‐tau</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Age</td><td align="char" rowspan="1" colspan="1">0.006 (−0.006 to 0.019)</td><td align="char" rowspan="1" colspan="1">0.395</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 carrier</td><td align="char" rowspan="1" colspan="1">0.061 (−0.115 to 0.237)</td><td align="char" rowspan="1" colspan="1">0.560</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Sex, female</td><td align="char" rowspan="1" colspan="1">0.044 (−0.099 to 0.186)</td><td align="char" rowspan="1" colspan="1">0.606</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>CSF p‐tau181</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>0.791 (0.687 to 0.894)</bold>
+</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>Mediated by CSF YKL40</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>0.091 (0.027 to 0.156)</bold>
+</td><td align="char" rowspan="1" colspan="1">0.009</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>CSF YKL40</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>0.116 (0.029 to 0.202)</bold>
+</td><td align="char" rowspan="1" colspan="1">0.016</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF S100β</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Age</td><td align="char" rowspan="1" colspan="1">0.026 (0.004 to 0.048)</td><td align="char" rowspan="1" colspan="1">0.029</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 carrier</td><td align="char" rowspan="1" colspan="1">0.015 (−0.29 to 0.32)</td><td align="char" rowspan="1" colspan="1">0.925</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Sex, female</td><td align="char" rowspan="1" colspan="1">−0.016 (−0.299 to 0.268)</td><td align="char" rowspan="1" colspan="1">0.925</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>Correlation with CSF NfL</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>0.121 (0.036 to 0.207)</bold>
+</td><td align="char" rowspan="1" colspan="1">0.009</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>Correlation with CSF sTREM2</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>0.293 (0.155 to 0.432)</bold>
+</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF NfL</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Age</td><td align="char" rowspan="1" colspan="1">0.053 (0.035 to 0.071)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 carrier</td><td align="char" rowspan="1" colspan="1">−0.148 (−0.354 to 0.057)</td><td align="char" rowspan="1" colspan="1">0.216</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Sex, female</td><td align="char" rowspan="1" colspan="1">0.494 (0.703 to 0.285)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>CSF p‐tau181</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>0.433 (0.317 to 0.548)</bold>
+</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>Correlation with CSF S100β</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>0.121 (0.036 to 0.207)</bold>
+</td><td align="char" rowspan="1" colspan="1">0.009</td></tr><tr><td align="left" rowspan="1" colspan="1">CSF neurogranin</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Age</td><td align="char" rowspan="1" colspan="1">−0.002 (−0.024 to 0.02)</td><td align="char" rowspan="1" colspan="1">0.920</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 carrier</td><td align="char" rowspan="1" colspan="1">0.207 (−0.056 to 0.469)</td><td align="char" rowspan="1" colspan="1">0.179</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Sex, female</td><td align="char" rowspan="1" colspan="1">0.156 (−0.123 to 0.434)</td><td align="char" rowspan="1" colspan="1">0.340</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>CSF sTREM2</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>0.308 (0.191 to 0.426)</bold>
+</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">PACC5</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Age</td><td align="char" rowspan="1" colspan="1">−0.069 (−0.091 to −0.048)</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<italic toggle="yes">APOE</italic> ε4 carrier</td><td align="char" rowspan="1" colspan="1">0.199 (−0.088 to 0.487)</td><td align="char" rowspan="1" colspan="1">0.234</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Sex, female</td><td align="char" rowspan="1" colspan="1">0.151 (−0.09 to 0.393)</td><td align="char" rowspan="1" colspan="1">0.286</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">
+<bold>CSF Aβ42/40</bold>
+</td><td align="char" rowspan="1" colspan="1">
+<bold>0.222 (0.078 to 0.366)</bold>
+</td><td align="char" rowspan="1" colspan="1">0.006</td></tr></tbody></table><table-wrap-foot><fn id="alz70502-tbl5-note-0001"><p>
+<italic toggle="yes">Note</italic>: Structural equation model showing standardized coefficients with 95% confidence intervals calculated using the Maximum Likelihood Robust estimator. Model shown in Figure 4. <italic toggle="yes">N</italic> = 211 (Plasma GFAP, <italic toggle="yes">n</italic> = 143). <italic toggle="yes">p</italic>‐values adjusted for multiple comparisons using false discovery rate were considered significant at <italic toggle="yes">p</italic>‐value ≤ 0.05.</p></fn><fn id="alz70502-tbl5-note-0002"><p>Abbreviations: <italic toggle="yes">APOE</italic>, apolipoprotein E; Aβ, amyloid beta; CI, confidence interval; CSF, cerebrospinal fluid; GFAP, glial fibrillary acidic protein; NfL, neurofilament light; PACC5, Preclinical Alzheimer Cognitive Composite 5; p‐tau, phosphorylated tau; S100β, S‐100 calcium‐binding protein beta; sTREM2, soluble triggering receptor expressed on myeloid cells 2; t‐tau: total tau; YKL‐40, chitinase‐3‐like protein 1.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>We observed that older age (β = −0.044; 95% CI: −0.063 to −0.024) and particularly <italic toggle="yes">APOE</italic> ε4 carriership (β = −0.892; 95% CI: −1.175 to −0.609) showed a direct significant association with lower CSF Aβ42/40 ratio. Moreover, older age (β = 0.082; 95% CI: 0.059–0.105), female sex (β = 0.368; 95% CI: 0.083–0.653), and early Aβ pathology, as indicated by lower CSF Aβ42/40 ratio (β = −0.236; 95% CI: −0.362 to −0.11), were directly related to increased plasma GFAP. The inverse relationship between CSF Aβ42/40 ratio and plasma GFAP was bidirectional, so the estimates of the covariance are shown.</p><p>Furthermore, older age (β = 0.028; 95% CI: 0.014–0.043) and lower CSF Aβ42/40 ratio (β = −0.552; 95% CI: 0.668–0.437), showed a direct significant association with higher CSF p‐tau181 level. In addition, higher CSF sTREM2 showed a direct significant effect on elevated p‐tau181 (β = 0.355; 95% CI: 0.244–0.427). Increased CSF sTREM2 was also directly associated with elevated CSF neurogranin (β = 0.308; 95% CI: 0.191–0.426) and showed a bidirectional relationship with S100β (β = 0.293; 95% CI: 0.155–0.432).</p><p>In turn, higher p‐tau 181 showed a direct significant effect on increased CSF t‐tau (β = 0.823; 95% CI: 0.728–0.918) and CSF NfL levels (β = 0.432; 95% CI:  0.316–0.547). NfL levels were also influenced by older age (β = 0.053; 95% CI: 0.035–0.071) and male sex (β = −0.494; 95% CI: −0.703 to −0.285). Higher CSF YKL‐40 was significantly associated with older age (β = 0.048; 95% CI: 0.025–0.071), <italic toggle="yes">APOE</italic> ε4 (−) genotype (β = −0.332; 95% CI: −0.603 to −0.06), and higher CSF p‐tau (β = 0.253; 95% CI: −0.104 to 0.402). Besides, CSF YKL‐40 showed a significant effect on CSF t‐tau (β = 0.116; 95% CI: 0.029–0.202). CSF S100β and CSF NfL also showed a mutual influence (β = 0.122; 95% CI: 0.036–0.207). Finally, older age (β = −0.069; 95% CI: −0.091 to −0.048) and lower CSF Aβ42/40 ratio (β = 0.222; 95% CI: 0.078–0.366) were the only variables directly associated with worse cognitive performance, as measured by the PACC5.</p></sec><sec id="alz70502-sec-0210"><label>3.6</label><title>Mediation effects</title><p>We observed that part of the relationship between CSF p‐tau181 and t‐tau could be explained by CSF YKL‐40 (Figure <xref rid="alz70502-fig-0003" ref-type="fig">3</xref>), with a proportion mediated of 9% (β = 0.09; 95% CI: 0.027–0.156). Despite the direct effect of sTREM2 on p‐tau181, no direct association between CSF Aβ42/40 and sTREM2 was observed. Thus, no CSF Aβ42/40–induced mediation by CSF sTREM2 on other biomarkers in the cascade was present. Similarly, plasma GFAP showed no direct relationship with CSF p‐tau181, and therefore no mediating effect of GFAP on the relationship between CSF Aβ42/40 and CSF p‐tau181 was found. Likewise, S100β did not show a direct association with CSF p‐tau181, and consequently, no induced mediation by S100β on the effect of CSF p‐tau181 on NfL was found.</p></sec></sec><sec id="alz70502-sec-0220"><label>4</label><title>DISCUSSION</title><p>In this cross‐sectional biomarker study, we assessed the correlates of early microglial and astrocytic responses in preclinical AD and their effects on downstream changes in the amyloid cascade, including soluble CSF p‐tau181, neurogranin, t‐tau, and NfL. To our knowledge, this study represents the first preclinical investigation in humans to simultaneously examine the interactions of both microglial and various astrocytic fluid biomarkers with AD pathology biomarkers, providing new insights into the complex interplay of glial cells in AD.<xref rid="alz70502-tbl-0005" ref-type="table"> </xref>
+</p><p>According to previous studies,<xref rid="alz70502-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="alz70502-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> we observed higher plasma GFAP and CSF sTREM2 in preclinical AD compared to normal subjects. Moreover, we observed elevated CSF YKL‐40 concentrations in A−T+ subjects but not in those within the Alzheimer´s continuum, suggesting that YKL‐40 may be involved in a non–amyloid‐related pathway. Although consistent with previous reports showing elevated CSF YKL‐40 in CU A+T+ and A−T+, but not in A+T− individuals<xref rid="alz70502-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="alz70502-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, the limit size of our A‐T+ group warrants cautious interpretation.</p><p>Plasma GFAP was the only glial marker that correlated with Aβ. Accordingly, previous studies have demonstrated a strong relationship between GFAP and Aβ.<xref rid="alz70502-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70502-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz70502-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz70502-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> CSF sTREM2 was not associated with Aβ but did correlate with p‐tau181. These results align with previous work,<xref rid="alz70502-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="alz70502-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> which also found no association between CSF Aβ and sTREM2. Both plasma and CSF GFAP, along with CSF sTREM2, YKL‐40, and S100β correlated, with downstream markers of synaptic dysfunction and/or neurodegeneration, suggesting a less specific involvement of sustained glial response in these pathological processes.</p><p>Our structural equation modeling analysis supported that plasma GFAP, CSF sTREM2, CSF YKL‐40, and CSF S100β significantly influence key events in the AD cascade at preclinical stages. Notably, we observed an inverse bidirectional relationship between CSF Aβ42/40 and plasma GFAP. Decreased CSF Aβ42/40 triggered an upregulation of plasma GFAP and, conversely, plasma GFAP decreased the CSF Aβ42/40. This mutual relationship suggests a close, reciprocal link between early amyloid deposition and GFAP‐related astrogliosis, reinforcing the notion of a tightly coordinated interaction between glial responses and amyloid pathology in the early stages of AD. In contrast, we found no association between plasma GFAP and tau pathology. Our results are consistent with a recent work that reported an influence of plasma GFAP on Aβ insoluble aggregates, but not on soluble tau, in CU subjects.<xref rid="alz70502-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> Similarly, several studies observed that plasma GFAP correlated with amyloid‐PET, even in CU subjects.<xref rid="alz70502-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70502-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz70502-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> However, a recent work by Sánchez‐Juan et al. demonstrated an association between serum GFAP and post‐mortem tau pathology in advanced AD dementia.<xref rid="alz70502-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> These findings suggest that GFAP‐related astrogliosis may be more directly involved with amyloid than tau pathology, at least in preclinical AD, supporting GFAP as a biomarker for early amyloid deposition. In late phases of AD, when amyloid has reached a plateau, GFAP could be more associated with tau and serve as a biomarker for disease monitoring.</p><p>In contrast to GFAP, the astrocytic biomarkers YKL‐40 and S100β were not associated with Aβ. Of interest, YKL‐40 and S100β release into the CSF occurred apparently later in the AD pathological cascade and was related with tau‐induced axonal damage. CSF YKL‐40 was associated with p‐tau181 and t‐tau, and partially mediated the relation between tau pathology and neuronal injury, as shown by Pelkmans et al.<xref rid="alz70502-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> Although the role of t‐tau as a neurodegeneration marker is debated due to its correlation with p‐tau, our results suggest that YKL‐40 exerts an independent effect on t‐tau and mediates its association with p‐tau, supporting a contribution of YKL‐40–related astrogliosis to tau‐induced neuronal injury.</p><p>Consistent with our findings, in vivo studies have shown that CSF YKL‐40 correlates with tau pathophysiology in preclinical stages.<xref rid="alz70502-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz70502-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz70502-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Growing evidence demonstrates a positive association of CSF YKL‐40 with markers of neuronal injury, including cortical atrophy, CSF t‐tau, and NfL in early AD stages.<xref rid="alz70502-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz70502-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz70502-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> These findings suggest that CSF YKL‐40 is closely tied to tau pathology and neuronal damage, highlighting the potential role of reactive astrocytes in impairing neuronal function.</p><p>CSF S100β was associated with axonal damage, as measured by CSF NfL. Prior studies reported a correlation between CSF S100β and neuronal degeneration markers, such as brain cortical atrophy, in AD.<xref rid="alz70502-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> Experimental models demonstrated that S100β overexpression causes neurotoxicity, reduces neurogenesis, and increases tau phosphorylation.<xref rid="alz70502-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> In addition to these findings, we suggest that in vivo CSF S100β may have influence on CSF NfL, as a marker of neuronal injury, in AD early stages. Of interest, we also observed a bidirectional relationship between CSF S100β and sTREM2, which may reflect the cross‐talk between astrocytes and microglia.<xref rid="alz70502-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>
+</p><p>Our SEM analysis supports that sTREM2‐related microglial response is an early event of the amyloid cascade in preclinical AD, tightly associated with p‐tau181 increases. This aligns with a recent post‐mortem study in which reactive microglia partially mediates the relationship between Aβ and tau.<xref rid="alz70502-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> Likewise, another biomarker study in patients with MCI and AD dementia found that sTREM2 levels were higher in the T+ groups compared to T− groups, regardless of amyloid or cognitive status.<xref rid="alz70502-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> Similarly, evidence from experimental models and PET studies supports that reactive microglia promote tau phosphorylation<xref rid="alz70502-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>, <xref rid="alz70502-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> and spread of tau deposits in AD.<xref rid="alz70502-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> CSF sTREM2 also influences synaptic dysfunction, consistent with a recent study<xref rid="alz70502-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> showing that sTREM2 mediates synaptic loss independently before tau accumulation becomes apparent. Conversely, other studies report protective effects of sTREM2 in reducing neurodegeneration and symptom progression in AD,<xref rid="alz70502-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref>, <xref rid="alz70502-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref> and TREM2 loss‐of‐function mutations are linked to higher AD risk<xref rid="alz70502-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref> and enhanced Aβ‐associated tau seeding in AD mice.<xref rid="alz70502-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref>, <xref rid="alz70502-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref>
+</p><p>Consistent with previous studies, older age directly influenced YKL‐40 and plasma GFAP,<xref rid="alz70502-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz70502-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="alz70502-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="alz70502-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="alz70502-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> whereas <italic toggle="yes">APOE</italic> ε4 status showed no relationship with glial biomarkers.<xref rid="alz70502-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="alz70502-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="alz70502-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz70502-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> We did not find a contribution of sex on glial biomarkers, except for plasma GFAP, which exhibited higher concentrations in women. As described previously, CSF NfL was higher in men.<xref rid="alz70502-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref> Older age and lower CSF Aβ42/40 were the only variables directly related to cognitive performance. These results align with Pelkmans et al.,<xref rid="alz70502-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> who found no direct relationship between GFAP and YKL‐40 and cognition in CU individuals, but differ from other studies reporting such an association.<xref rid="alz70502-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref>, <xref rid="alz70502-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref> The lack of relationship between glial markers and cognition may be due several factors: the limited test score variability due to the early disease stage, the cross‐sectional design, or the cognitive measure used, which is a composite of five tests but does not capture the full scope of neuropsychological assessment.</p><p>Our findings, together with those of the previous literature, suggest that reactive microglia and astrogliosis play a crucial role in the pathogenesis of AD through multiple pathways, detectable in the early asymptomatic stages of the disease. Glial responses likely occur at different points within the molecular AD cascade, including Aβ deposition, tau aggregation, synaptic dysfunction and neuronal degeneration. We hypothesize that astrocyte reactivity is triggered early by Aβ aggregates, with certain reactive astrocyte phenotypes expressing GFAP potentially contributing to Aβ accumulation. Aβ deposition and sustained microglial reactivity, with overexpression of sTREM2 and a continuous release of inflammatory mediators, may then promote tau hyperphosphorylation and neurofibrillary tangle formation. Misfolded Aβ and p‐tau perpetuate a persistent sterile type of immune reaction, which eventually impairs the function and structure of bystander neurons, leading to synaptic dysfunction and neurodegenerative changes. Certain astrocyte phenotypes expressing YKL‐40 and S100β may emerge later in the AD pathological cascade and contribute to downstream neurodegenerative changes, independently of amyloid pathology.</p><p>This study has some limitations. First, the data were collected cross‐sectionally, meaning we lack longitudinal data on neuroinflammatory markers. Second, our sample included only CU individuals, and thus the full clinical AD spectrum is not represented. Longitudinal studies spanning the entire AD continuum are necessary to explore how the relationship between neuroinflammatory and core AD biomarkers evolves over time. This is particularly important, as the immune response appears to follow a non‐linear trajectory, and the roles of reactive microglia and astrocytes in disease progression likely vary across disease stages.<xref rid="alz70502-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref>, <xref rid="alz70502-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref> Third, our path model offers a simplified view of the AD pathological cascade but does not fully capture the complexity of the disease. Fourth, we lack additional microglial biomarkers beyond sTREM2 to capture the full range of reactive microglial states. Despite these limitations, the study has notable strengths. We include a very well‐characterized cohort of CU subjects, and the use of the structural equation modeling approach enabled us to assess all direct and indirect effects on each variable within a single model, rather than analyzing each relationship separately. Moreover, to the best of our knowledge, this is the first preclinical AD study to simultaneously examine the interactions of both microglial and various astrocytic fluid biomarkers with AD pathology biomarkers. This integrated approach is crucial in understanding Alzheimer's as a multifactorial disease, in which a complex cascade of interconnected events ultimately contributes to its progression.</p><p>In conclusion, we provide compelling evidence that microglial and astrocyte biomarkers increase early on the AD continuum and have a significant influence on key pathogenic events at this stage. These results reinforce the idea that reactive microglia and astrocytes, in response to AD pathology, are crucial contributors to the progression of downstream neurodegenerative changes.</p></sec><sec sec-type="COI-statement" id="alz70502-sec-0240"><title>CONFLICT OF INTEREST STATEMENT</title><p>K.B. has served on scientific advisory boards and/or as a consultant for Abbvie, AC Immune, ALZPath, AriBio, Beckman Coulter, BioArctic, Biogen, Eisai, Lilly, Neurimmune, Ono Pharma, Prothena, Roche Diagnostics, Sanofi, and Siemens Healthineers; has served on data‐monitoring committees for Julius Clinical and Novartis; has given lectures, produced educational materials, and participated in educational programs for Biogen, Eisai, and Roche Diagnostics; and is a co‐founder of Brain Biomarker Solutions in Gothenburg AB (BBS), which is a part of the GU Ventures Incubator Program, outside the work presented in this article. H.Z. has served on scientific advisory boards and/or as a consultant for Abbvie, Acumen, Alector, Alzinova, Alzinova, ALZPath, Amylyx, Annexon, Apellis, Artery Therapeutics, AZTherapies, Cognito Therapeutics, CogRx, Denali, Eisai, Enigma, LabCorp, Merck Sharp &amp; Dohme, Merry Life, Nervgen, Novo Nordisk, Optoceutics, Passage Bio, Pinteon Therapeutics, Prothena, Quanterix, Red Abbey Labs, reMYND, Roche, Samumed, ScandiBio Therapeutics AB, Siemens Healthineers, Triplet Therapeutics, and Wave; has given lectures in symposia sponsored by Alzecure, BioArctic, Biogen, Cellectricon, Fujirebio, LabCorp, Lilly, Novo Nordisk, Oy Medix Biochemica AB, Roche, and WebMD; and is a co‐founder of Brain Biomarker Solutions in Gothenburg AB (BBS), which is a part of the GU Ventures Incubator Program (outside the submitted work). The other authors report no conflicts of interest. The author disclosures are to be found in the <xref rid="alz70502-supinfo-0001" ref-type="">Supplementary Information</xref>.</p></sec><sec id="alz70502-sec-0250"><title>CONSENT STATEMENT</title><p>All subjects provided signed informed consent to participate in the study.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz70502-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz70502-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e70502-s003.pptx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz70502-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e70502-s001.pptx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz70502-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e70502-s002.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz70502-supitem-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-21-e70502-s004.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz70502-sec-0230"><title>ACKNOWLEDGMENTS</title><p>We would like to thank the participants of the Valdecilla Cohort for their selfless contribution and collaboration in research on neurodegenerative diseases. We would especially like to acknowledge the patients and the Valdecilla Biobank (PT20/00067) within the Spanish Biobank Network for their collaboration. The present work has been funded by the Institute for Research Marqués de Valdecilla (IDIVAL) Foundation through the 2022 Call for Biosanitary Research Promotion Programs, within the Emerging Researchers Support Program (Project NVAL22/07).</p></ack><ref-list id="alz70502-bibl-0001"><title>REFERENCES</title><ref id="alz70502-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz70502-cite-0002">
+<string-name name-style="western">
+<surname>Heneka</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van der Flier</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jessen</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Neuroinflammation in Alzheimer disease</article-title>. <source>Nat Rev Immunol</source>. <year>2024</year>;<volume>25</volume>:<fpage>321</fpage>–<lpage>352</lpage>.<pub-id pub-id-type="pmid">39653749</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41577-024-01104-7</pub-id></mixed-citation></ref><ref id="alz70502-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz70502-cite-0003">
+<string-name name-style="western">
+<surname>Novikova</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kapoor</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tcw</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Integration of Alzheimer's disease genetics and myeloid genomics identifies disease risk regulatory elements and genes</article-title>. <source>Nat Commun</source>. <year>2021</year>;<volume>12</volume>(<issue>1</issue>):<fpage>1610</fpage>.<pub-id pub-id-type="pmid">33712570</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-021-21823-y</pub-id><pub-id pub-id-type="pmcid">PMC7955030</pub-id></mixed-citation></ref><ref id="alz70502-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz70502-cite-0004">
+<string-name name-style="western">
+<surname>Suárez‐Calvet</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kleinberger</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>MÁ</surname>
+<given-names>AraqueCaballero</given-names>
+</string-name>, et al. <article-title>sTREM2 cerebrospinal fluid levels are a potential biomarker for microglia activity in early‐stage Alzheimer's disease and associate with neuronal injury markers</article-title>. <source>EMBO Mol Med</source>. <year>2016</year>;<volume>8</volume>(<issue>5</issue>):<fpage>466</fpage>–<lpage>476</lpage>.<pub-id pub-id-type="pmid">26941262</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.15252/emmm.201506123</pub-id><pub-id pub-id-type="pmcid">PMC5120370</pub-id></mixed-citation></ref><ref id="alz70502-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz70502-cite-0005">
+<string-name name-style="western">
+<surname>Kleinberger</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yamanishi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suárez‐Calvet</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>TREM2 mutations implicated in neurodegeneration impair cell surface transport and phagocytosis</article-title>. <source>Sci Transl Med</source>. <year>2014</year>;<volume>6</volume>(<issue>243</issue>):<elocation-id>243ra86</elocation-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.3009093</pub-id><pub-id pub-id-type="pmid">24990881</pub-id></mixed-citation></ref><ref id="alz70502-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz70502-cite-0006">
+<string-name name-style="western">
+<surname>Piccio</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deming</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del‐Águila</surname>
+<given-names>JL</given-names>
+</string-name>, et al. <article-title>Cerebrospinal fluid soluble TREM2 is higher in Alzheimer disease and associated with mutation status</article-title>. <source>Acta Neuropathol</source>. <year>2016</year>;<volume>131</volume>(<issue>6</issue>):<fpage>925</fpage>–<lpage>933</lpage>.<pub-id pub-id-type="pmid">26754641</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00401-016-1533-5</pub-id><pub-id pub-id-type="pmcid">PMC4867123</pub-id></mixed-citation></ref><ref id="alz70502-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz70502-cite-0007">
+<string-name name-style="western">
+<surname>Heslegrave</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heywood</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paterson</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Increased cerebrospinal fluid soluble TREM2 concentration in Alzheimer's disease</article-title>. <source>Mol Neurodegener</source>. <year>2016</year>;<volume>11</volume>:<fpage>3</fpage>.<pub-id pub-id-type="pmid">26754172</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13024-016-0071-x</pub-id><pub-id pub-id-type="pmcid">PMC4709982</pub-id></mixed-citation></ref><ref id="alz70502-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz70502-cite-0008">
+<string-name name-style="western">
+<surname>Nordengen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kirsebom</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henjum</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Glial activation and inflammation along the Alzheimer's disease continuum</article-title>. <source>J Neuroinflammation</source>. <year>2019</year>;<volume>16</volume>(<issue>1</issue>):<fpage>46</fpage>.<pub-id pub-id-type="pmid">30791945</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12974-019-1399-2</pub-id><pub-id pub-id-type="pmcid">PMC6383268</pub-id></mixed-citation></ref><ref id="alz70502-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz70502-cite-0009">
+<string-name name-style="western">
+<surname>Suárez‐Calvet</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>MÁA</surname>
+<given-names>Caballero</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kleinberger</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Early changes in CSF sTREM2 in dominantly inherited Alzheimer's disease occur after amyloid deposition and neuronal injury</article-title>. <source>Sci Transl Med</source>. <year>2016</year>;<volume>8</volume>(<issue>369</issue>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.aag1767</pub-id><pub-id pub-id-type="pmcid">PMC5385711</pub-id><pub-id pub-id-type="pmid">27974666</pub-id></mixed-citation></ref><ref id="alz70502-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz70502-cite-0010">
+<string-name name-style="western">
+<surname>Gispert</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monté</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suárez‐Calvet</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>The APOE ε4 genotype modulates CSF YKL‐40 levels and their structural brain correlates in the continuum of Alzheimer's disease but not those of sTREM2</article-title>. <source>Alzheimers Dement</source>. <year>2017</year>;<volume>6</volume>:<fpage>50</fpage>–<lpage>59</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.dadm.2016.12.002</pub-id><pub-id pub-id-type="pmcid">PMC5266482</pub-id><pub-id pub-id-type="pmid">28149943</pub-id></mixed-citation></ref><ref id="alz70502-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz70502-cite-0011">
+<string-name name-style="western">
+<surname>Henjum</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almdahl</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Årskog</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Cerebrospinal fluid soluble TREM2 in aging and Alzheimer's disease</article-title>. <source>Alzheimers Res Ther</source>. <year>2016</year>;<volume>8</volume>(<issue>1</issue>):<fpage>17</fpage>.<pub-id pub-id-type="pmid">27121148</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-016-0182-1</pub-id><pub-id pub-id-type="pmcid">PMC4848774</pub-id></mixed-citation></ref><ref id="alz70502-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz70502-cite-0012">
+<string-name name-style="western">
+<surname>Knapskog</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henjum</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Idland</surname>
+<given-names>AV</given-names>
+</string-name>, et al. <article-title>Cerebrospinal fluid sTREM2 in Alzheimer's disease: comparisons between clinical presentation and AT classification</article-title>. <source>Sci Rep</source>. <year>2020</year>;<volume>10</volume>(<issue>1</issue>):<elocation-id>15886</elocation-id>.<pub-id pub-id-type="pmid">32985583</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-020-72878-8</pub-id><pub-id pub-id-type="pmcid">PMC7522273</pub-id></mixed-citation></ref><ref id="alz70502-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz70502-cite-0013">
+<string-name name-style="western">
+<surname>Van Hulle</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jonaitis</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Betthauser</surname>
+<given-names>TJ</given-names>
+</string-name>, et al. <article-title>An examination of a novel multipanel of CSF biomarkers in the Alzheimer's disease clinical and pathological continuum</article-title>. <source>Alzheimers Dement</source>. <year>2021</year>;<volume>17</volume>(<issue>3</issue>):<fpage>431</fpage>–<lpage>445</lpage>.<pub-id pub-id-type="pmid">33336877</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12204</pub-id><pub-id pub-id-type="pmcid">PMC8016695</pub-id></mixed-citation></ref><ref id="alz70502-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz70502-cite-0014">
+<string-name name-style="western">
+<surname>Liu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Soluble TREM2 changes during the clinical course of Alzheimer's disease: a meta‐analysis</article-title>. <source>Neurosci Lett</source>. <year>2018</year>;<volume>686</volume>:<fpage>10</fpage>–<lpage>16</lpage>.<pub-id pub-id-type="pmid">30171911</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neulet.2018.08.038</pub-id></mixed-citation></ref><ref id="alz70502-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz70502-cite-0015">
+<string-name name-style="western">
+<surname>Suárez‐Calvet</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morenas‐Rodríguez</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kleinberger</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Early increase of CSF sTREM2 in Alzheimer's disease is associated with tau related‐neurodegeneration but not with amyloid‐β pathology</article-title>. <source>Mol Neurodegener</source>. <year>2019</year>;<volume>14</volume>(<issue>1</issue>):<fpage>1</fpage>.<pub-id pub-id-type="pmid">30630532</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13024-018-0301-5</pub-id><pub-id pub-id-type="pmcid">PMC6327425</pub-id></mixed-citation></ref><ref id="alz70502-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz70502-cite-0016">
+<string-name name-style="western">
+<surname>Ma</surname>
+<given-names>LZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bi</surname>
+<given-names>YL</given-names>
+</string-name>, et al. <article-title>Dynamic changes of CSF sTREM2 in preclinical Alzheimer's disease: the CABLE study</article-title>. <source>Mol Neurodegener</source>. <year>2020</year>;<volume>15</volume>(<issue>1</issue>):<fpage>25</fpage>.<pub-id pub-id-type="pmid">32276587</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13024-020-00374-8</pub-id><pub-id pub-id-type="pmcid">PMC7149923</pub-id></mixed-citation></ref><ref id="alz70502-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz70502-cite-0017">
+<string-name name-style="western">
+<surname>Querol‐Vilaseca</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Colom‐Cadena</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pegueroles</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>YKL‐40 (Chitinase 3‐like I) is expressed in a subset of astrocytes in Alzheimer's disease and other tauopathies</article-title>. <source>J. Neuroinflammation</source>. <year>2017</year>;<volume>14</volume>:<fpage>118</fpage>.<pub-id pub-id-type="pmid">28599675</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12974-017-0893-7</pub-id><pub-id pub-id-type="pmcid">PMC5466718</pub-id></mixed-citation></ref><ref id="alz70502-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz70502-cite-0018">
+<string-name name-style="western">
+<surname>Serrano‐Pozo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mielke</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gómez‐Isla</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Reactive glia not only associates with plaques but also parallels tangles in Alzheimer's disease</article-title>. <source>Am. J. Pathol</source>. <year>2011</year>;<volume>179</volume>(<issue>3</issue>):<fpage>1373</fpage>–<lpage>1384</lpage>.<pub-id pub-id-type="pmid">21777559</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajpath.2011.05.047</pub-id><pub-id pub-id-type="pmcid">PMC3157187</pub-id></mixed-citation></ref><ref id="alz70502-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz70502-cite-0019">
+<string-name name-style="western">
+<surname>Serrano‐Pozo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Astrocyte transcriptomic changes along the spatiotemporal progression of Alzheimer's disease</article-title>. <source>Nat Neurosci</source>. <year>2024</year>;<volume>27</volume>(<issue>12</issue>):<fpage>2384</fpage>–<lpage>2400</lpage>.<pub-id pub-id-type="pmid">39528672</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41593-024-01791-4</pub-id><pub-id pub-id-type="pmcid">PMC11614739</pub-id></mixed-citation></ref><ref id="alz70502-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz70502-cite-0020">
+<string-name name-style="western">
+<surname>Benedet</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Milà‐Alomà</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vrillon</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Differences between plasma and cerebrospinal fluid glial fibrillary acidic protein levels across the Alzheimer disease continuum</article-title>. <source>JAMA Neurol</source>. <year>2021</year>;<volume>78</volume>(<issue>12</issue>):<fpage>1</fpage>–<lpage>13</lpage>.<pub-id pub-id-type="pmid">34661615</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaneurol.2021.3671</pub-id><pub-id pub-id-type="pmcid">PMC8524356</pub-id></mixed-citation></ref><ref id="alz70502-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz70502-cite-0021">
+<string-name name-style="western">
+<surname>Craig‐Schapiro</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perrin</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roe</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiong</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carter</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cairns</surname>
+<given-names>NJ</given-names>
+</string-name>, et al. <article-title>YKL‐40: a novel prognostic fluid biomarker for preclinical Alzheimer's disease</article-title>. <source>Biol Psychiatry</source>. <year>2010</year>;<volume>68</volume>(<issue>10</issue>):<fpage>903</fpage>–<lpage>912</lpage>.<pub-id pub-id-type="pmid">21035623</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopsych.2010.08.025</pub-id><pub-id pub-id-type="pmcid">PMC3011944</pub-id></mixed-citation></ref><ref id="alz70502-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz70502-cite-0022">
+<string-name name-style="western">
+<surname>Pereira</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Plasma GFAP is an early marker of amyloid‐β but not tau pathology in Alzheimer's disease</article-title>. <source>Brain</source>. <year>2021</year>;<volume>144</volume>(<issue>11</issue>):<fpage>3505</fpage>–<lpage>3516</lpage>.<pub-id pub-id-type="pmid">34259835</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awab223</pub-id><pub-id pub-id-type="pmcid">PMC8677538</pub-id></mixed-citation></ref><ref id="alz70502-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz70502-cite-0023">
+<string-name name-style="western">
+<surname>Alcolea</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martínez‐Lage</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sánchez‐Juan</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Amyloid precursor protein metabolism and inflammation markers in preclinical Alzheimer disease</article-title>. <source>Neurology</source>. <year>2015</year>;<volume>85</volume>(<issue>7</issue>):<fpage>626</fpage>‐<lpage>633</lpage>.<pub-id pub-id-type="pmid">26180139</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0000000000001859</pub-id></mixed-citation></ref><ref id="alz70502-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz70502-cite-0024">
+<string-name name-style="western">
+<surname>Chatterjee</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pedrini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stoops</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Plasma glial fibrillary acidic protein is elevated in cognitively normal older adults at risk of Alzheimer's disease</article-title>. <source>Transl Psychiatry</source>. <year>2021</year>;<volume>11</volume>(<issue>1</issue>):<fpage>27</fpage>.<pub-id pub-id-type="pmid">33431793</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41398-020-01137-1</pub-id><pub-id pub-id-type="pmcid">PMC7801513</pub-id></mixed-citation></ref><ref id="alz70502-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz70502-cite-0025">
+<string-name name-style="western">
+<surname>Janelidze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mattsson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stomrud</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>CSF biomarkers of neuroinflammation and cerebrovascular dysfunction in early Alzheimer disease</article-title>. <source>Neurology</source>. <year>2018</year>;<volume>91</volume>(<issue>9</issue>):<fpage>e867</fpage>–<lpage>e877</lpage>.<pub-id pub-id-type="pmid">30054439</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0000000000006082</pub-id><pub-id pub-id-type="pmcid">PMC6133624</pub-id></mixed-citation></ref><ref id="alz70502-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz70502-cite-0026">
+<string-name name-style="western">
+<surname>Milà‐Alomà</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salvadó</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gispert</surname>
+<given-names>JD</given-names>
+</string-name>, et al. <article-title>Amyloid beta</article-title>. <source>Dementia</source>. <year>2020</year>;<volume>16</volume>(<issue>10</issue>):<fpage>1358</fpage>–<lpage>1371</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12131</pub-id><pub-id pub-id-type="pmcid">PMC7586814</pub-id><pub-id pub-id-type="pmid">32573951</pub-id></mixed-citation></ref><ref id="alz70502-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz70502-cite-0027">
+<string-name name-style="western">
+<surname>Viejo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Noori</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Merrill</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Das</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hyman</surname>
+<given-names>BT</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Serrano‐Pozo</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Systematic review of human post‐mortem immunohistochemical studies and bioinformatics analyses unveil the complexity of astrocyte reaction in Alzheimer's disease</article-title>. <source>Neuropathol Appl Neurobiol</source>. <year>2022</year>;<volume>48</volume>(<issue>1</issue>):<elocation-id>e12753</elocation-id>.<pub-id pub-id-type="pmid">34297416</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/nan.12753</pub-id><pub-id pub-id-type="pmcid">PMC8766893</pub-id></mixed-citation></ref><ref id="alz70502-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz70502-cite-0028">
+<string-name name-style="western">
+<surname>Petzold</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jenkins</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Watt</surname>
+<given-names>HC</given-names>
+</string-name>, et al. <article-title>Cerebrospinal fluid S100B correlates with brain atrophy in Alzheimer's disease</article-title>. <source>Neurosci Lett</source>. <year>2003</year>;<volume>336</volume>(<issue>3</issue>):<fpage>167</fpage>–<lpage>170</lpage>.<pub-id pub-id-type="pmid">12505619</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0304-3940(02)01257-0</pub-id></mixed-citation></ref><ref id="alz70502-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz70502-cite-0029">
+<string-name name-style="western">
+<surname>Peskind</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Griffin</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akama</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raskind</surname>
+<given-names>MA</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Van Eldik</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Cerebrospinal fluid S100B is elevated in the earlier stages of Alzheimer's disease</article-title>. <source>Neurochem Int</source>. <year>2001</year>;<volume>39</volume>(<issue>5‐6</issue>):<fpage>409</fpage>–<lpage>413</lpage>.<pub-id pub-id-type="pmid">11578776</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0197-0186(01)00048-1</pub-id></mixed-citation></ref><ref id="alz70502-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz70502-cite-0030">
+<string-name name-style="western">
+<surname>Mori</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koyama</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arendash</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horikoshi‐Sakuraba</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tan</surname>
+<given-names>J</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Town</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Overexpression of human S100B exacerbates cerebral amyloidosis and gliosis in the Tg2576 mouse model of Alzheimer's disease</article-title>. <source>Glia</source>. <year>2010</year>;<volume>58</volume>(<issue>3</issue>):<fpage>300</fpage>–<lpage>314</lpage>.<pub-id pub-id-type="pmid">19705461</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/glia.20924</pub-id><pub-id pub-id-type="pmcid">PMC2795105</pub-id></mixed-citation></ref><ref id="alz70502-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz70502-cite-0031">
+<string-name name-style="western">
+<surname>Wartchow</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rodrigues</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swierzy</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Amyloid‐β processing in aged S100B transgenic mice is sex dependent</article-title>. <source>Int J Mol Sci</source>. <year>2021</year>;<volume>22</volume>(<issue>19</issue>):<elocation-id>10823</elocation-id>.<pub-id pub-id-type="pmid">34639161</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms221910823</pub-id><pub-id pub-id-type="pmcid">PMC8509484</pub-id></mixed-citation></ref><ref id="alz70502-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz70502-cite-0032">
+<string-name name-style="western">
+<surname>Cirillo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Capoccia</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iuvone</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>S100B inhibitor pentamidine attenuates reactive gliosis and reduces neuronal loss in a mouse model of Alzheimer's disease</article-title>. <source>Biomed Res Int</source>. <year>2015</year>;<volume>2015</volume>:<elocation-id>508342</elocation-id>.<pub-id pub-id-type="pmid">26295040</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2015/508342</pub-id><pub-id pub-id-type="pmcid">PMC4532807</pub-id></mixed-citation></ref><ref id="alz70502-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz70502-cite-0033">
+<string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>S100B gene polymorphisms are associated with the S100B level and Alzheimer's disease risk by altering the miRNA binding capacity</article-title>. <source>Aging</source>. <year>2021</year>;<volume>13</volume>(<issue>10</issue>):<fpage>13954</fpage>–<lpage>13967</lpage>.<pub-id pub-id-type="pmid">33982673</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/aging.203005</pub-id><pub-id pub-id-type="pmcid">PMC8202836</pub-id></mixed-citation></ref><ref id="alz70502-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz70502-cite-0034">
+<string-name name-style="western">
+<surname>Ferrari‐Souza</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>PCL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bellaver</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Astrocyte biomarker signatures of amyloid‐β and tau pathologies in Alzheimer's disease</article-title>. <source>Mol Psychiatry</source>. <year>2022</year>;<volume>27</volume>(<issue>11</issue>):<fpage>4781</fpage>–<lpage>4789</lpage>.<pub-id pub-id-type="pmid">35948658</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41380-022-01716-2</pub-id><pub-id pub-id-type="pmcid">PMC9734046</pub-id></mixed-citation></ref><ref id="alz70502-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz70502-cite-0035">
+<string-name name-style="western">
+<surname>Schott</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fox</surname>
+<given-names>NC</given-names>
+</string-name>. <article-title>Inflammatory changes in very early Alzheimer's disease: friend, foe, or don't know?</article-title>. <source>Brain</source>. <year>2016</year>;<volume>139</volume>(<issue>3</issue>):<fpage>647</fpage>–<lpage>650</lpage>.<pub-id pub-id-type="pmid">26917584</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awv405</pub-id><pub-id pub-id-type="pmcid">PMC5839600</pub-id></mixed-citation></ref><ref id="alz70502-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz70502-cite-0036">
+<string-name name-style="western">
+<surname>Martínez‐Dubarbie</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guerra‐Ruiz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>López‐García</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Irure‐Ventura</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lage</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernández‐Matarrubia</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Influence of physiological variables and comorbidities on plasma aβ40, aβ42, and p‐tau181 levels in cognitively unimpaired individuals</article-title>. <source>Int J Mol Sci</source>. <year>2024</year>;<volume>25</volume>(<issue>3</issue>):<fpage>1481</fpage>.<pub-id pub-id-type="pmid">38338759</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms25031481</pub-id><pub-id pub-id-type="pmcid">PMC10855058</pub-id></mixed-citation></ref><ref id="alz70502-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz70502-cite-0037">
+<string-name name-style="western">
+<surname>Morris</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>The Clinical Dementia Rating (CDR): current version and scoring rules</article-title>. <source>Neurology</source>. <year>1993</year>;<volume>43</volume>(<issue>11</issue>):<fpage>2412</fpage>–<lpage>2414</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/wnl.43.11.2412-a</pub-id><pub-id pub-id-type="pmid">8232972</pub-id></mixed-citation></ref><ref id="alz70502-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz70502-cite-0038">
+<string-name name-style="western">
+<surname>García‐Martínez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pozueta‐Cantudo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lage</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martínez‐Dubarbie</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Test: a new cognitive marker for early detection in preclinical Alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2024</year>;<volume>100</volume>(<issue>3</issue>):<fpage>1039</fpage>–<lpage>1053</lpage>.<pub-id pub-id-type="pmid">38943389</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-240067</pub-id></mixed-citation></ref><ref id="alz70502-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz70502-cite-0039">
+<string-name name-style="western">
+<surname>Folstein</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Folstein</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McHugh</surname>
+<given-names>PR</given-names>
+</string-name>. <article-title>Mini‐mental state». A practical method for grading the cognitive state of patients for the clinician</article-title>. <source>J Psychiatr Res</source>. <year>1975</year>;<volume>12</volume>(<issue>3</issue>):<fpage>189</fpage>–<lpage>198</lpage>.<pub-id pub-id-type="pmid">1202204</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0022-3956(75)90026-6</pub-id></mixed-citation></ref><ref id="alz70502-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz70502-cite-0040">
+<string-name name-style="western">
+<surname>Papp</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rentz</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orlovsky</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sperling</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mormino</surname>
+<given-names>EC</given-names>
+</string-name>. <article-title>Optimizing the preclinical Alzheimer's cognitive composite with semantic processing: the PACC5</article-title>. <source>Alzheimers Dement</source>. <year>2017</year>;<volume>3</volume>(<issue>4</issue>):<fpage>668</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.trci.2017.10.004</pub-id><pub-id pub-id-type="pmcid">PMC5726754</pub-id><pub-id pub-id-type="pmid">29264389</pub-id></mixed-citation></ref><ref id="alz70502-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz70502-cite-0041">
+<string-name name-style="western">
+<surname>Wechsler</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>A standardized memory scale for clinical use</article-title>. <source>J. Psychol</source>. <year>1945</year>;<volume>19</volume>(<issue>1</issue>):<fpage>87</fpage>–<lpage>95</lpage>.</mixed-citation></ref><ref id="alz70502-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz70502-cite-0042">
+<string-name name-style="western">
+<surname>Peña‐Casanova</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gramunt‐Fombuena</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quiñones‐Ubeda</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Spanish Multicenter Normative Studies (NEURONORMA Project): norms for the Rey‐Osterrieth complex figure (copy and memory), and free and cued selective reminding test</article-title>. <source>Arch Clin Neuropsychol</source>. <year>2009</year>;<volume>24</volume>(<issue>4</issue>):<fpage>371</fpage>–<lpage>393</lpage>.<pub-id pub-id-type="pmid">19661107</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/arclin/acp041</pub-id></mixed-citation></ref><ref id="alz70502-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz70502-cite-0043">
+<string-name name-style="western">
+<surname>Tamayo</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casals‐Coll</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sánchez‐Benavides</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Spanish normative studies in a young adult population (NEURONORMA young adults project): norms for the verbal span, visuospatial span, letter‐number sequencing, trail making test and symbol digit modalities test]</article-title>. <source>Neurologia</source>. <year>2012</year>;<volume>27</volume>(<issue>6</issue>):<fpage>319</fpage>–<lpage>329</lpage>.<pub-id pub-id-type="pmid">22405214</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.nrl.2011.12.020</pub-id></mixed-citation></ref><ref id="alz70502-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz70502-cite-0044">
+<string-name name-style="western">
+<surname>Casals‐Coll</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sánchez‐Benavides</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quintana</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Spanish normative studies in young adults (NEURONORMA young adults project): norms for verbal fluency tests</article-title>. <source>Neurologia</source>. <year>2013</year>;<volume>28</volume>(<issue>1</issue>):<fpage>33</fpage>‐<lpage>40</lpage>.<pub-id pub-id-type="pmid">22652141</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.nrl.2012.02.010</pub-id></mixed-citation></ref><ref id="alz70502-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz70502-cite-0045">
+<string-name name-style="western">
+<surname>Mattsson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andreasson</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Persson</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The Alzheimer's association external quality control program for cerebrospinal fluid biomarkers</article-title>. <source>Alzheimers Dement</source>. <year>2011</year>;<volume>7</volume>(<issue>4</issue>):<fpage>386</fpage>–<lpage>395</lpage>.<pub-id pub-id-type="pmid">21784349</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2011.05.2243</pub-id><pub-id pub-id-type="pmcid">PMC3710290</pub-id></mixed-citation></ref><ref id="alz70502-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz70502-cite-0046">
+<string-name name-style="western">
+<surname>Teunissen</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tumani</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Engelborghs</surname>
+<given-names>S</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Mollenhauer</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Biobanking of CSF: international standardization to optimize biomarker development</article-title>. <source>Clin Biochem</source>. <year>2014</year>;<volume>47</volume>(<issue>4‐5</issue>):<fpage>288</fpage>‐<lpage>292</lpage>.<pub-id pub-id-type="pmid">24389077</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.clinbiochem.2013.12.024</pub-id></mixed-citation></ref><ref id="alz70502-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz70502-cite-0047">
+<string-name name-style="western">
+<surname>Verberk</surname>
+<given-names>IMW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Misdorp</surname>
+<given-names>EO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koelewijn</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Characterization of pre‐analytical sample handling effects on a panel of Alzheimer's disease‐related blood‐based biomarkers: results from the standardization of Alzheimer's blood biomarkers (SABB) working group</article-title>. <source>Alzheimers Dement</source>. <year>2022</year>;<volume>18</volume>(<issue>8</issue>):<fpage>1484</fpage>–<lpage>1497</lpage>.<pub-id pub-id-type="pmid">34845818</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12510</pub-id><pub-id pub-id-type="pmcid">PMC9148379</pub-id></mixed-citation></ref><ref id="alz70502-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="alz70502-cite-0048">
+<string-name name-style="western">
+<surname>Gobom</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parnetti</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosa‐Neto</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Validation of the LUMIPULSE automated immunoassay for the measurement of core AD biomarkers in cerebrospinal fluid</article-title>. <source>Clin Chem Lab Med</source>. <year>2022</year>;<volume>60</volume>(<issue>2</issue>):<fpage>207</fpage>–<lpage>219</lpage>.<pub-id pub-id-type="pmid">34773730</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1515/cclm-2021-0651</pub-id></mixed-citation></ref><ref id="alz70502-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="alz70502-cite-0049">
+<string-name name-style="western">
+<surname>De Meyer</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shapiro</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vanderstichele</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Diagnosis‐independent Alzheimer disease biomarker signature in cognitively normal elderly people</article-title>. <source>Arch Neurol</source>. <year>2010</year>;<volume>67</volume>(<issue>8</issue>):<fpage>949</fpage>–<lpage>956</lpage>.<pub-id pub-id-type="pmid">20697045</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archneurol.2010.179</pub-id><pub-id pub-id-type="pmcid">PMC2963067</pub-id></mixed-citation></ref><ref id="alz70502-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="alz70502-cite-0050">
+<string-name name-style="western">
+<surname>Jack</surname>
+<suffix>Jr.</suffix>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Andrews</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beach</surname>
+<given-names>TG</given-names>
+</string-name>, et al. <article-title>Revised criteria for diagnosis and staging of Alzheimer's disease: Alzheimer's association workgroup</article-title>. <source>Alzheimers Dement</source>. <year>2024</year>;<volume>20</volume>(<issue>8</issue>):<fpage>5143</fpage>–<lpage>5169</lpage>.<pub-id pub-id-type="pmid">38934362</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.13859</pub-id><pub-id pub-id-type="pmcid">PMC11350039</pub-id></mixed-citation></ref><ref id="alz70502-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="alz70502-cite-0051">
+<string-name name-style="western">
+<surname>Oeckl</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halbgebauer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anderl‐Straub</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>glial fibrillary acidic protein in serum is increased in Alzheimer's disease and correlates with cognitive impairment</article-title>. <source>J Alzheimers Dis</source>. <year>2019</year>;<volume>67</volume>(<issue>2</issue>):<fpage>481</fpage>–<lpage>488</lpage>.<pub-id pub-id-type="pmid">30594925</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-180325</pub-id></mixed-citation></ref><ref id="alz70502-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="alz70502-cite-0052">
+<string-name name-style="western">
+<surname>Biel</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suárez‐Calvet</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hager</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>
+<sc>strem2</sc> is associated with amyloid‐related p‐tau increases and glucose hypermetabolism in Alzheimer's disease</article-title>. <source>EMBO Mol Med</source>. <year>2023</year>;<volume>15</volume>(<issue>2</issue>):<elocation-id>e16987</elocation-id>.<pub-id pub-id-type="pmid">36620941</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.15252/emmm.202216987</pub-id><pub-id pub-id-type="pmcid">PMC9906389</pub-id></mixed-citation></ref><ref id="alz70502-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="alz70502-cite-0053">
+<string-name name-style="western">
+<surname>Pelkmans</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shekari</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brugulat‐Serrat</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Astrocyte biomarkers GFAP and YKL‐40 mediate early Alzheimer's disease progression</article-title>. <source>Alzheimers Dement</source>. <year>2024</year>;<volume>20</volume>(<issue>1</issue>):<fpage>483</fpage>–<lpage>493</lpage>.<pub-id pub-id-type="pmid">37690071</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.13450</pub-id><pub-id pub-id-type="pmcid">PMC10917053</pub-id></mixed-citation></ref><ref id="alz70502-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="alz70502-cite-0054">
+<string-name name-style="western">
+<surname>Sánchez‐Juan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Valeriano‐Lorenzo</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruiz‐González</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Serum GFAP levels correlate with astrocyte reactivity, post‐mortem brain atrophy and neurofibrillary tangles</article-title>. <source>Brain</source>. <year>2024</year>;<volume>147</volume>(<issue>5</issue>):<fpage>1667</fpage>–<lpage>1679</lpage>.<pub-id pub-id-type="pmid">38634687</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awae035</pub-id><pub-id pub-id-type="pmcid">PMC11068326</pub-id></mixed-citation></ref><ref id="alz70502-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="alz70502-cite-0055">
+<string-name name-style="western">
+<surname>Esposito</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scuderi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>S100B induces tau protein hyperphosphorylation via Dickopff‐1 up‐regulation and disrupts the Wnt pathway in human neural stem cells</article-title>. <source>J Cell Mol Med</source>. <year>2008</year>;<volume>12</volume>(<issue>3</issue>):<fpage>914</fpage>–<lpage>927</lpage>.<pub-id pub-id-type="pmid">18494933</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1582-4934.2008.00159.x</pub-id><pub-id pub-id-type="pmcid">PMC3538024</pub-id></mixed-citation></ref><ref id="alz70502-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="alz70502-cite-0056">
+<string-name name-style="western">
+<surname>Jha</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>JH</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Suk</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Microglia‐astrocyte crosstalk: an intimate molecular conversation</article-title>. <source>Neuroscientist</source>. <year>2019</year>;<volume>25</volume>(<issue>3</issue>):<fpage>227</fpage>–<lpage>240</lpage>.<pub-id pub-id-type="pmid">29931997</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1073858418783959</pub-id></mixed-citation></ref><ref id="alz70502-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="alz70502-cite-0057">
+<string-name name-style="western">
+<surname>Casaletto</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nichols</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aslanyan</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Sex‐specific effects of microglial activation on Alzheimer's disease proteinopathy in older adults</article-title>. <source>Brain</source>. <year>2022</year>;<volume>145</volume>(<issue>10</issue>):<fpage>3536</fpage>–<lpage>3545</lpage>.<pub-id pub-id-type="pmid">35869598</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awac257</pub-id><pub-id pub-id-type="pmcid">PMC10233295</pub-id></mixed-citation></ref><ref id="alz70502-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="alz70502-cite-0058">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lyu</surname>
+<given-names>DY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>FQ</given-names>
+</string-name>. <article-title>Alzheimer's disease neuroimaging initiative. cerebrospinal fluid sTREM2 in Alzheimer's disease is associated with both amyloid and tau pathologies but not with cognitive status</article-title>. <source>J Alzheimers Dis</source>. <year>2022</year>;<volume>90</volume>(<issue>3</issue>):<fpage>1123</fpage>–<lpage>1138</lpage>.<pub-id pub-id-type="pmid">36213998</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-220598</pub-id></mixed-citation></ref><ref id="alz70502-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="alz70502-cite-0059">
+<string-name name-style="western">
+<surname>Ising</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Venegas</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>NLRP3 inflammasome activation drives tau pathology</article-title>. <source>Nature</source>. <year>2019</year>;<volume>575</volume>(<issue>7784</issue>):<fpage>669</fpage>–<lpage>673</lpage>.<pub-id pub-id-type="pmid">31748742</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-019-1769-z</pub-id><pub-id pub-id-type="pmcid">PMC7324015</pub-id></mixed-citation></ref><ref id="alz70502-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="alz70502-cite-0060">
+<string-name name-style="western">
+<surname>Maphis</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kokiko‐Cochran</surname>
+<given-names>ON</given-names>
+</string-name>, et al. <article-title>Reactive microglia drive tau pathology and contribute to the spreading of pathological tau in the brain</article-title>. <source>Brain</source>. <year>2015</year>;<volume>138</volume>:<fpage>1738</fpage>–<lpage>1755</lpage>.<pub-id pub-id-type="pmid">25833819</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awv081</pub-id><pub-id pub-id-type="pmcid">PMC4542622</pub-id></mixed-citation></ref><ref id="alz70502-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="alz70502-cite-0061">
+<string-name name-style="western">
+<surname>Pascoal</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benedet</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ashton</surname>
+<given-names>NJ</given-names>
+</string-name>, et al. <article-title>Microglial activation and tau propagate jointly across Braak stages</article-title>. <source>Nat Med</source>. <year>2021</year>;<volume>27</volume>(<issue>9</issue>):<fpage>1592</fpage>–<lpage>1599</lpage>.<pub-id pub-id-type="pmid">34446931</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-021-01456-w</pub-id></mixed-citation></ref><ref id="alz70502-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="alz70502-cite-0062">
+<string-name name-style="western">
+<surname>Woo</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nilsson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Therriault</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>14‐3‐3‐reported early synaptic injury in Alzheimer's disease is independently mediated by sTREM2</article-title>. <source>J Neuroinflammation</source>. <year>2023</year>;<volume>20</volume>(<issue>1</issue>):<fpage>278</fpage>.<pub-id pub-id-type="pmid">38001539</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12974-023-02962-z</pub-id><pub-id pub-id-type="pmcid">PMC10675887</pub-id></mixed-citation></ref><ref id="alz70502-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="alz70502-cite-0063">
+<string-name name-style="western">
+<surname>Ewers</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Franzmeier</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suárez‐Calvet</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Increased soluble TREM2 in cerebrospinal fluid is associated with reduced cognitive and clinical decline in Alzheimer's disease</article-title>. <source>Sci Transl Med</source>. <year>2019</year>;<volume>11</volume>(<issue>507</issue>):<elocation-id>eaav6221</elocation-id>.<pub-id pub-id-type="pmid">31462511</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/scitranslmed.aav6221</pub-id><pub-id pub-id-type="pmcid">PMC7050285</pub-id></mixed-citation></ref><ref id="alz70502-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="alz70502-cite-0064">
+<string-name name-style="western">
+<surname>Ewers</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Biechele</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suárez‐Calvet</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Higher CSF sTREM2 and microglia activation are associated with slower rates of beta‐amyloid accumulation</article-title>. <source>EMBO Mol Med</source>. <year>2020</year>;<volume>12</volume>(<issue>9</issue>):<elocation-id>e12308</elocation-id>.<pub-id pub-id-type="pmid">32790063</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.15252/emmm.202012308</pub-id><pub-id pub-id-type="pmcid">PMC7507349</pub-id></mixed-citation></ref><ref id="alz70502-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="alz70502-cite-0065">
+<string-name name-style="western">
+<surname>Benitez</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jin</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guerreiro</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Missense variant in TREML2 protects against Alzheimer's disease</article-title>. <source>Neurobiol Aging</source>. <year>2014</year>;<volume>35</volume>(<issue>6</issue>).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neurobiolaging.2013.12.010</pub-id><pub-id pub-id-type="pmcid">PMC3961557</pub-id><pub-id pub-id-type="pmid">24439484</pub-id></mixed-citation></ref><ref id="alz70502-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="alz70502-cite-0066">
+<string-name name-style="western">
+<surname>Leyns</surname>
+<given-names>CEG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ulrich</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Finn</surname>
+<given-names>MB</given-names>
+</string-name>, et al. <article-title>TREM2 deficiency attenuates neuroinflammation and protects against neurodegeneration in a mouse model of tauopathy</article-title>. <source>Proc Natl Acad Sci</source>. <year>2017</year>;<volume>114</volume>(<issue>43</issue>):<fpage>11524</fpage>–<lpage>11529</lpage>.<pub-id pub-id-type="pmid">29073081</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1710311114</pub-id><pub-id pub-id-type="pmcid">PMC5663386</pub-id></mixed-citation></ref><ref id="alz70502-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="alz70502-cite-0067">
+<string-name name-style="western">
+<surname>Gratuze</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parhizkar</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Activated microglia mitigate Aβ‐associated tau seeding and spreading</article-title>. <source>J Exp Med</source>. <year>2021</year>;<volume>218</volume>(<issue>8</issue>):<elocation-id>e20210542</elocation-id>.<pub-id pub-id-type="pmid">34100905</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1084/jem.20210542</pub-id><pub-id pub-id-type="pmcid">PMC8190588</pub-id></mixed-citation></ref><ref id="alz70502-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="alz70502-cite-0068">
+<string-name name-style="western">
+<surname>Gómez‐Tortosa</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agüero‐Rabes</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruiz‐González</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Plasma neurodegenerative biomarkers in cognitively preserved nonagenarians</article-title>. <source>Aging Dis</source>. <year>2024</year>. <pub-id pub-id-type="doi">10.14336/AD.2024.1260</pub-id>
+<pub-id pub-id-type="pmcid">PMC12339176</pub-id><pub-id pub-id-type="pmid">39571163</pub-id></mixed-citation></ref><ref id="alz70502-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="alz70502-cite-0069">
+<string-name name-style="western">
+<surname>Mielke</surname>
+<given-names>MM</given-names>
+</string-name>. <article-title>Consideration of sex differences in the measurement and interpretation of Alzheimer disease‐related biofluid‐based biomarkers</article-title>. <source>J Appl Lab Med</source>. <year>2020</year>;<volume>5</volume>(<issue>1</issue>):<fpage>158</fpage>–<lpage>169</lpage>.<pub-id pub-id-type="pmid">31811073</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1373/jalm.2019.030023</pub-id><pub-id pub-id-type="pmcid">PMC7246149</pub-id></mixed-citation></ref><ref id="alz70502-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="alz70502-cite-0070">
+<string-name name-style="western">
+<surname>Verberk</surname>
+<given-names>IMW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laarhuis</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van den Bosch</surname>
+<given-names>KA</given-names>
+</string-name>, et al. <article-title>Serum markers glial fibrillary acidic protein and neurofilament light for prognosis and monitoring in cognitively normal older people: a prospective memory clinic‐based cohort study</article-title>. <source>Lancet Healthy Longev</source>. <year>2021</year>;<volume>2</volume>(<issue>2</issue>):<fpage>e87</fpage>–<lpage>95</lpage>.<pub-id pub-id-type="pmid">36098162</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2666-7568(20)30061-1</pub-id></mixed-citation></ref><ref id="alz70502-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="alz70502-cite-0071">
+<string-name name-style="western">
+<surname>Sánchez‐Benavides</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Milà‐Alomà</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suarez‐Calvet</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Higher levels of the astrocytic marker CSF YKL40 are associated with better memory performance only in amyloid‐positive individuals with subjective cognitive decline</article-title>. <source>Alzheimers Dement</source>. <year>2021</year>;<volume>17</volume>(<issue>S6</issue>):<elocation-id>e053463</elocation-id>.</mixed-citation></ref><ref id="alz70502-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="alz70502-cite-0072">
+<string-name name-style="western">
+<surname>Rodriguez‐Vieitez</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saint‐Aubert</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carter</surname>
+<given-names>SF</given-names>
+</string-name>, et al. <article-title>Diverging longitudinal changes in astrocytosis and amyloid PET in autosomal dominant Alzheimer's disease</article-title>. <source>Brain</source>. <year>2016</year>;<volume>139</volume>(<issue>3</issue>):<fpage>922</fpage>–<lpage>936</lpage>.<pub-id pub-id-type="pmid">26813969</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/brain/awv404</pub-id><pub-id pub-id-type="pmcid">PMC4766380</pub-id></mixed-citation></ref><ref id="alz70502-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="alz70502-cite-0073">
+<string-name name-style="western">
+<surname>Asken</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elahi</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>La Joie</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strom</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Staffaroni</surname>
+<given-names>AM</given-names>
+</string-name>, and <string-name name-style="western">
+<surname>Lindbergh</surname>
+<given-names>CA</given-names>
+</string-name>. <article-title>Plasma glial fibrillary acidic protein levels differ along the spectra of amyloid burden and clinical disease stage1</article-title>. <source>JAD</source>. <year>2020</year>;<volume>78</volume>(<issue>1</issue>):<fpage>265</fpage>–<lpage>276</lpage>.<pub-id pub-id-type="pmid">32986672</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-200755</pub-id><pub-id pub-id-type="pmcid">PMC7727314</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

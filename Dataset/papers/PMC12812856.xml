@@ -1,0 +1,1327 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz71103" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12812856</article-id><article-id pub-id-type="pmcid-ver">PMC12812856.1</article-id><article-id pub-id-type="pmcaid">12812856</article-id><article-id pub-id-type="pmcaiid">12812856</article-id><article-id pub-id-type="pmid">41549404</article-id><article-id pub-id-type="doi">10.1002/alz.71103</article-id><article-id pub-id-type="publisher-id">ALZ71103</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Brain volume trajectories in Down syndrome and autosomal dominant Alzheimer's disease</article-title><alt-title alt-title-type="left-running-head">KENNEDY <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz71103-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Kennedy</surname><given-names initials="JT">James T.</given-names></name><xref rid="alz71103-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>jtkennedy@wustl.edu</email></address></contrib><contrib id="alz71103-cr-0002" contrib-type="author"><name name-style="western"><surname>Wisch</surname><given-names initials="JK">Julie K.</given-names></name><xref rid="alz71103-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71103-cr-0003" contrib-type="author"><name name-style="western"><surname>Boerwinkle</surname><given-names initials="AH">Anna H.</given-names></name><xref rid="alz71103-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz71103-cr-0004" contrib-type="author"><name name-style="western"><surname>Millar</surname><given-names initials="PR">Peter R.</given-names></name><xref rid="alz71103-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71103-cr-0005" contrib-type="author"><name name-style="western"><surname>McKay</surname><given-names initials="NS">Nicole S.</given-names></name><xref rid="alz71103-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz71103-cr-0006" contrib-type="author"><name name-style="western"><surname>Brickman</surname><given-names initials="AM">Adam M.</given-names></name><xref rid="alz71103-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="alz71103-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz71103-cr-0007" contrib-type="author"><name name-style="western"><surname>Chhatwal</surname><given-names initials="JP">Jasmeer P.</given-names></name><xref rid="alz71103-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="alz71103-cr-0008" contrib-type="author"><name name-style="western"><surname>Mendez</surname><given-names initials="PC">Patricio Chrem</given-names></name><xref rid="alz71103-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="alz71103-cr-0009" contrib-type="author"><name name-style="western"><surname>Christian</surname><given-names initials="BT">Bradley T.</given-names></name><xref rid="alz71103-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="alz71103-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="alz71103-cr-0010" contrib-type="author"><name name-style="western"><surname>Cohen</surname><given-names initials="A">Anne</given-names></name><xref rid="alz71103-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="alz71103-cr-0011" contrib-type="author"><name name-style="western"><surname>Cruchaga</surname><given-names initials="C">Carlos</given-names></name><xref rid="alz71103-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref><xref rid="alz71103-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="alz71103-cr-0012" contrib-type="author"><name name-style="western"><surname>Daniels</surname><given-names initials="A">Alisha</given-names></name><xref rid="alz71103-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71103-cr-0013" contrib-type="author"><name name-style="western"><surname>Flores</surname><given-names initials="S">Shaney</given-names></name><xref rid="alz71103-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz71103-cr-0014" contrib-type="author"><name name-style="western"><surname>Handen</surname><given-names initials="BL">Benjamin L.</given-names></name><xref rid="alz71103-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="alz71103-cr-0015" contrib-type="author"><name name-style="western"><surname>Hartley</surname><given-names initials="SL">Sigan L.</given-names></name><xref rid="alz71103-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="alz71103-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="alz71103-cr-0016" contrib-type="author"><name name-style="western"><surname>Head</surname><given-names initials="E">Elizabeth</given-names></name><xref rid="alz71103-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref><xref rid="alz71103-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="alz71103-cr-0017" contrib-type="author"><name name-style="western"><surname>Ibanez</surname><given-names initials="L">Laura</given-names></name><xref rid="alz71103-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="alz71103-cr-0018" contrib-type="author"><name name-style="western"><surname>Krisnsky‐McHale</surname><given-names initials="SJ">Sharon J.</given-names></name><xref rid="alz71103-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="alz71103-cr-0019" contrib-type="author"><name name-style="western"><surname>la Fougere</surname><given-names initials="C">Christian</given-names></name><xref rid="alz71103-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib id="alz71103-cr-0020" contrib-type="author"><name name-style="western"><surname>Lai</surname><given-names initials="F">Florence</given-names></name><xref rid="alz71103-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="alz71103-cr-0021" contrib-type="author"><name name-style="western"><surname>Laymon</surname><given-names initials="CM">Charles M.</given-names></name><xref rid="alz71103-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib id="alz71103-cr-0022" contrib-type="author"><name name-style="western"><surname>Lee</surname><given-names initials="JH">Joseph H.</given-names></name><xref rid="alz71103-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="alz71103-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref></contrib><contrib id="alz71103-cr-0023" contrib-type="author"><name name-style="western"><surname>Lee</surname><given-names initials="JH">Jae‐Hong</given-names></name><xref rid="alz71103-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref></contrib><contrib id="alz71103-cr-0024" contrib-type="author"><name name-style="western"><surname>Levin</surname><given-names initials="J">Johannes</given-names></name><xref rid="alz71103-aff-0021" ref-type="aff">
+<sup>21</sup>
+</xref><xref rid="alz71103-aff-0022" ref-type="aff">
+<sup>22</sup>
+</xref><xref rid="alz71103-aff-0023" ref-type="aff">
+<sup>23</sup>
+</xref></contrib><contrib id="alz71103-cr-0025" contrib-type="author"><name name-style="western"><surname>Llibre‐Guerra</surname><given-names initials="J">Jorge</given-names></name><xref rid="alz71103-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="alz71103-cr-0026" contrib-type="author"><name name-style="western"><surname>Aguillon</surname><given-names initials="DF">David F.</given-names></name><xref rid="alz71103-aff-0024" ref-type="aff">
+<sup>24</sup>
+</xref></contrib><contrib id="alz71103-cr-0027" contrib-type="author"><name name-style="western"><surname>Lott</surname><given-names initials="IT">Ira T.</given-names></name><xref rid="alz71103-aff-0025" ref-type="aff">
+<sup>25</sup>
+</xref></contrib><contrib id="alz71103-cr-0028" contrib-type="author"><name name-style="western"><surname>Mapstone</surname><given-names initials="M">Mark</given-names></name><xref rid="alz71103-aff-0026" ref-type="aff">
+<sup>26</sup>
+</xref></contrib><contrib id="alz71103-cr-0029" contrib-type="author"><name name-style="western"><surname>McDade</surname><given-names initials="E">Eric</given-names></name><xref rid="alz71103-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71103-cr-0030" contrib-type="author"><name name-style="western"><surname>Morris</surname><given-names initials="J">John</given-names></name><xref rid="alz71103-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71103-cr-0031" contrib-type="author"><name name-style="western"><surname>O'Bryant</surname><given-names initials="SE">Sid E.</given-names></name><xref rid="alz71103-aff-0027" ref-type="aff">
+<sup>27</sup>
+</xref></contrib><contrib id="alz71103-cr-0032" contrib-type="author"><name name-style="western"><surname>Price</surname><given-names initials="JC">Julie C.</given-names></name><xref rid="alz71103-aff-0028" ref-type="aff">
+<sup>28</sup>
+</xref></contrib><contrib id="alz71103-cr-0033" contrib-type="author"><name name-style="western"><surname>Rafii</surname><given-names initials="MS">Michael S.</given-names></name><xref rid="alz71103-aff-0029" ref-type="aff">
+<sup>29</sup>
+</xref></contrib><contrib id="alz71103-cr-0034" contrib-type="author"><name name-style="western"><surname>Roh</surname><given-names initials="JH">Jee Hoon</given-names></name><xref rid="alz71103-aff-0030" ref-type="aff">
+<sup>30</sup>
+</xref></contrib><contrib id="alz71103-cr-0035" contrib-type="author"><name name-style="western"><surname>Rosas</surname><given-names initials="HD">H. Diana</given-names></name><xref rid="alz71103-aff-0031" ref-type="aff">
+<sup>31</sup>
+</xref></contrib><contrib id="alz71103-cr-0036" contrib-type="author"><name name-style="western"><surname>Schupf</surname><given-names initials="N">Nicole</given-names></name><xref rid="alz71103-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="alz71103-cr-0037" contrib-type="author"><name name-style="western"><surname>Supnet‐Bell</surname><given-names initials="C">Charlene</given-names></name><xref rid="alz71103-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71103-cr-0038" contrib-type="author"><name name-style="western"><surname>Xiong</surname><given-names initials="C">Chengjie</given-names></name><xref rid="alz71103-aff-0032" ref-type="aff">
+<sup>32</sup>
+</xref></contrib><contrib id="alz71103-cr-0039" contrib-type="author"><name name-style="western"><surname>Zaman</surname><given-names initials="S">Shahid</given-names></name><xref rid="alz71103-aff-0033" ref-type="aff">
+<sup>33</sup>
+</xref></contrib><contrib id="alz71103-cr-0040" contrib-type="author"><name name-style="western"><surname>Benzinger</surname><given-names initials="TLS">Tammie L. S.</given-names></name><xref rid="alz71103-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz71103-cr-0041" contrib-type="author"><name name-style="western"><surname>Gordon</surname><given-names initials="BA">Brian A.</given-names></name><xref rid="alz71103-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="alz71103-aff-0034" ref-type="aff">
+<sup>34</sup>
+</xref></contrib><contrib id="alz71103-cr-0042" contrib-type="author"><name name-style="western"><surname>Ances</surname><given-names initials="BM">Beau M.</given-names></name><xref rid="alz71103-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71103-cr-0043" contrib-type="author"><collab collab-type="authors">the Alzheimer's Brain Consortium – Down Syndrome, and the Dominantly Inherited Alzheimer's Network</collab></contrib></contrib-group><aff id="alz71103-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Washington University School of Medicine in St. Louis</institution>
+<city>St. Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">McGovern Medical School</named-content>
+<institution>University of Texas in Houston</institution>
+<city>Houston</city>
+<named-content content-type="country-part">Texas</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology</named-content>
+<institution>Washington University School of Medicine in St. Louis</institution>
+<city>St. Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Columbia University</institution>
+<city>New York</city>
+<named-content content-type="country-part">New York</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Gertrude H. Sergievsky Center and Taub Institute for Research on Alzheimer's Disease and the Aging Brain</named-content>
+<institution>Columbia University</institution>
+<city>New York</city>
+<named-content content-type="country-part">New York</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<named-content content-type="organisation-division">Harvard Medical School</named-content>
+<institution>Massachusetts General Hospital</institution>
+<city>Charlestown</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<institution>Centro de Memoria y Envejecimiento</institution>
+<city>Buenos Aires</city>
+<country country="AR">Argentina</country>
+</aff><aff id="alz71103-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Waisman Center</named-content>
+<institution>University of Wisconsin‐Madison</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Department of Medical Physics</named-content>
+<institution>University of Wisconsin‐Madison</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<institution>University of Pittsburgh</institution>
+<city>Pittsburgh</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<institution>Washington University in St Louis</institution>
+<city>St Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Hope Center for Neurological Disorders</named-content>
+<institution>Washington University in St Louis</institution>
+<city>St Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<named-content content-type="organisation-division">Department of Human Development &amp; Family Studies</named-content>
+<institution>University of Wisconsin‐Madison</institution>
+<city>Madison</city>
+<named-content content-type="country-part">Wisconsin</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pathology and Laboratory Medicine</named-content>
+<institution>University of California</institution>
+<city>Irvine</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurobiology and Behavior</named-content>
+<institution>University of California</institution>
+<city>Irvine</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychology</named-content>
+<institution>New York State Institute for Basic Research in Developmental Disabilities</institution>
+<city>New York</city>
+<named-content content-type="country-part">New York</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<named-content content-type="organisation-division">Department of Nuclear Medicine and Molecular Imaging</named-content>
+<institution>Eberhard Karls University Hospital</institution>
+<city>Tübingen</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz71103-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology</named-content>
+<institution>University of Pittsburgh</institution>
+<city>Pittsburgh</city>
+<named-content content-type="country-part">Pennsylvania</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0019">
+<label>
+<sup>19</sup>
+</label>
+<named-content content-type="organisation-division">Department of Epidemiology</named-content>
+<institution>Columbia University Irving Medical Center</institution>
+<city>New York</city>
+<named-content content-type="country-part">New York</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0020">
+<label>
+<sup>20</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>University of Ulsan College of Medicine</institution>
+<institution>Asian Medical Center</institution>
+<city>Seoul</city>
+<country country="KR">South Korea</country>
+</aff><aff id="alz71103-aff-0021">
+<label>
+<sup>21</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>LMU University Hospital</institution>
+<institution>LMU Munich</institution>
+<city>Munich</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz71103-aff-0022">
+<label>
+<sup>22</sup>
+</label>
+<institution>German Center for Neurodegenerative Diseases, site Munich</institution>
+<city>Munich</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz71103-aff-0023">
+<label>
+<sup>23</sup>
+</label>
+<institution>Munich Cluster for Systems Neurology</institution>
+<city>Munich</city>
+<country country="DE">Germany</country>
+</aff><aff id="alz71103-aff-0024">
+<label>
+<sup>24</sup>
+</label>
+<named-content content-type="organisation-division">Grupo de Neurociencias de Antioquia</named-content>
+<named-content content-type="organisation-division">Facultad de Medicina</named-content>
+<institution>Universidad de Antioquia</institution>
+<city>Medellín</city>
+<country country="CO">Colombia</country>
+</aff><aff id="alz71103-aff-0025">
+<label>
+<sup>25</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pediatrics</named-content>
+<institution>University of California Irvine School of Medicine</institution>
+<city>Irvine</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0026">
+<label>
+<sup>26</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>University of California Irvine School of Medicine</institution>
+<city>Irvine</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0027">
+<label>
+<sup>27</sup>
+</label>
+<named-content content-type="organisation-division">Institute for Translational Research Department of Pharmacology and Neuroscience</named-content>
+<institution>University of North Texas Health Science Center</institution>
+<city>Fort Worth</city>
+<named-content content-type="country-part">Texas</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0028">
+<label>
+<sup>28</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology</named-content>
+<named-content content-type="organisation-division">Harvard Medical School</named-content>
+<institution>Massachusetts General Hospital</institution>
+<city>Charlestown</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0029">
+<label>
+<sup>29</sup>
+</label>
+<named-content content-type="organisation-division">Alzheimer's Therapeutic Research Institute</named-content>
+<institution>Keck School of Medicine of USC</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0030">
+<label>
+<sup>30</sup>
+</label>
+<named-content content-type="organisation-division">Departments of Physiology and Neurology</named-content>
+<institution>Korea University College of Medicine</institution>
+<city>Seoul</city>
+<country country="KR">South Korea</country>
+</aff><aff id="alz71103-aff-0031">
+<label>
+<sup>31</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology</named-content>
+<named-content content-type="organisation-division">Harvard Medical School</named-content>
+<institution>Massasschusetts General Hospital</institution>
+<city>Charlestown</city>
+<named-content content-type="country-part">Massachusetts</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0032">
+<label>
+<sup>32</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biostatistics</named-content>
+<institution>Washington University in St Louis</institution>
+<city>St Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71103-aff-0033">
+<label>
+<sup>33</sup>
+</label>
+<named-content content-type="organisation-division">Cambridge Intellectual and Developmental Disabilities Research Group</named-content>
+<institution>University of Cambridge</institution>
+<city>Cambridge</city>
+<country country="GB">UK</country>
+</aff><aff id="alz71103-aff-0034">
+<label>
+<sup>34</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychological &amp; Brain Sciences</named-content>
+<institution>Washington University in St. Louis</institution>
+<city>St. Louis</city>
+<named-content content-type="country-part">Missouri</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>James Kennedy, Department of Neurology, Washington University in Saint Louis School of Medicine, Campus Box 8111, 660 South Euclid Avenue, St. Louis, MO 63110, USA.<break/> Email: <email>jtkennedy@wustl.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>1</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2026</year></pub-date><volume>22</volume><issue seq="530">1</issue><issue-id pub-id-type="pmc-issue-id">503538</issue-id><issue-id pub-id-type="doi">10.1002/alz.v22.1</issue-id><elocation-id>e71103</elocation-id><history><date date-type="rev-recd"><day>10</day><month>11</month><year>2025</year></date><date date-type="received"><day>27</day><month>8</month><year>2025</year></date><date date-type="accepted"><day>19</day><month>11</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>18</day><month>01</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>20</day><month>01</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-01-20 09:25:13.633"><day>20</day><month>01</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-22-e71103.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-22-e71103.pdf"/><abstract><title>Abstract</title><sec id="alz71103-sec-0010"><title>INTRODUCTION</title><p>It is unknown if neurodegeneration trajectories differ between Down syndrome (DS) and autosomal dominant Alzheimer's disease (ADAD), both of which are genetic forms of Alzheimer's disease (AD).</p></sec><sec id="alz71103-sec-0020"><title>METHODS</title><p>We compared brain volumes in DS, ADAD, and unaffected family members serving as controls. Participants underwent magnetic resonance imaging (MRI) and amyloid positron emission tomography (PET), deriving volumetric and amyloid burden, respectively. Nonlinear associations between regional volumes and estimated years to clinical symptom onset (EYO) were evaluated using generalized additive mixed‐models.</p></sec><sec id="alz71103-sec-0030"><title>RESULTS</title><p>Longitudinal data from 267 controls, 341 participants with DS, and 358 participants with ADAD were included, totaling 1908 scans. DS volumes were lower than ADAD and controls initially and dropped linearly. ADAD had similar volumes to controls until diverging, beginning at EYO ‐7. Amyloid was negatively associated with volume, with similar slopes in DS and ADAD.</p></sec><sec id="alz71103-sec-0040"><title>DISCUSSION</title><p>ADAD and DS demonstrate distinct patterns of brain volume decline prior to symptom onset despite being similarly affected by amyloid.</p></sec></abstract><abstract abstract-type="highlights"><title>Highlights</title><p>
+<list list-type="bullet" id="alz71103-list-0001"><list-item><p>Volume declines before Alzheimer's pathology in Down syndrome.</p></list-item><list-item><p>Volume declines shortly before symptom onset in autosomal dominant Alzheimer's.</p></list-item><list-item><p>Down syndrome and autosomal dominant Alzheimer's are similarly affected by amyloid.</p></list-item><list-item><p>Estimated years to onset of decline outpredicts volume relative to Centiloid.</p></list-item></list>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz71103-kwd-0001">amyloid</kwd><kwd id="alz71103-kwd-0002">MRI</kwd><kwd id="alz71103-kwd-0003">volume</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>National Institute for Child Health and Human Development</institution></institution-wrap>
+</funding-source><award-id>U01 AG051406</award-id><award-id>U01 AG051412</award-id><award-id>U19 AG068054)</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>National Institutes of Health Programs: The Alzheimer's Disease Research Centers Program</institution></institution-wrap>
+</funding-source><award-id>P50 AG008702</award-id><award-id>P30 AG062421</award-id><award-id>P50 AG16537</award-id><award-id>P50 AG005133</award-id><award-id>P50 AG005681</award-id><award-id>P30 AG062715</award-id><award-id>P30 AG066519</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Eunice Kennedy Shriver Intellectual and Developmental Disabilities Research Centers Program</institution></institution-wrap>
+</funding-source><award-id>U54 HD090256</award-id><award-id>U54 HD087011</award-id><award-id>P50 HD105353</award-id></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>National Center for Advancing Translational Sciences</institution><institution-id institution-id-type="doi">10.13039/100006108</institution-id></institution-wrap>
+</funding-source><award-id>UL1 TR001873</award-id><award-id>UL1 TR002373</award-id><award-id>UL1 TR001414</award-id><award-id>UL1 TR001857</award-id><award-id>UL1 TR002345</award-id></award-group><award-group id="funding-0005"><funding-source>
+<institution-wrap><institution>National Centralized Repository for Alzheimer Disease and Related Dementias</institution></institution-wrap>
+</funding-source><award-id>U24 AG21886</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="1"/><page-count count="13"/><word-count count="8533"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.8 mode:remove_FC converted:19.01.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz71103-cite-0001">
+<string-name name-style="western">
+<surname>Kennedy</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wisch</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boerwinkle</surname>
+<given-names>AH</given-names>
+</string-name>, et al. <article-title>Brain volume trajectories in Down syndrome and autosomal dominant Alzheimer's disease</article-title>. <source>Alzheimer's Dement</source>. <year>2026</year>;<volume>22</volume>:<elocation-id>e71103</elocation-id>. <pub-id pub-id-type="doi">10.1002/alz.71103</pub-id>
+<pub-id pub-id-type="pmid">41549404</pub-id></mixed-citation>
+</p></notes></front><body><sec id="alz71103-sec-0050"><label>1</label><title>BACKGROUND</title><p>Alzheimer's disease (AD) is the leading cause of dementia worldwide, affecting more than 55 million people and costing more than $1.3 trillion per year.<xref rid="alz71103-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> AD is marked by the presence of amyloid plaques and tau tangles, followed by neurodegeneration and cognitive impairment.<xref rid="alz71103-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Rare genetic forms of AD account for ∼1%–2% of AD prevalence with almost 100% penetrance, leading to cognitive impairment at younger ages than typically seen for late onset AD.<xref rid="alz71103-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz71103-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="alz71103-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Genetic forms of AD include Down syndrome AD (DSAD) and autosomal dominant AD (ADAD). In individuals with DS, triplication of chromosome 21 results in an additional copy of the amyloid precursor protein (APP) gene responsible for overproduction of amyloid‐β,<xref rid="alz71103-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz71103-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> leading to cognitive impairment developing in their early 50s.<xref rid="alz71103-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Similarly, individuals possessing ADAD‐specific mutations, which occur in the APP, presenilin 1 (PSEN1), or presenilin 2 (PSEN2) genes, also exhibit excess amyloid. This leads to dementia at a younger, highly predictable age,<xref rid="alz71103-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> that can be predicted based on mutation type and parental age of onset.<xref rid="alz71103-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Unlike ADAD, where affected individuals are similar to the unaffected until disease onset, people with DS have a distinct phenotype that includes accelerated aging related to early cell senescence.<xref rid="alz71103-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Given that DSAD and ADAD are associated with highly reliable age of symptom onsets specific to their underlying mutation, pathological changes in both forms of AD can be staged as a function of estimated years to onset (EYO) of clinical symptoms.</p><p>Neuroimaging studies have previously compared DS and ADAD using amyloid<xref rid="alz71103-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz71103-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz71103-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> and tau positron emission tomography (PET).<xref rid="alz71103-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="alz71103-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Overall, both groups have a similar sequence of pathological events with initial amyloid deposition, followed by tau accumulation, then cognitive impairment. However, the timing of these events differs between ADAD and DS.<xref rid="alz71103-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz71103-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Amyloid accumulates earlier relative to cognitive impairment in ADAD compared to DS, though the rate of change in amyloid is greater for DS than ADAD. By the onset of dementia, amyloid levels are similar for both groups.<xref rid="alz71103-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Tau has been shown to accumulate soon after amyloid onset and to be higher for a given amount of amyloid in DS compared to ADAD.<xref rid="alz71103-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="alz71103-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p><p>In general, brain volumes decrease with increasing AD pathology,<xref rid="alz71103-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> serving as a biomarker of neurodegeneration, and predicting future cognitive impairment.<xref rid="alz71103-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> The temporal and spatial changes in volumetric with regards to EYO have not been well studied in DS; subsequently, its usefulness as a biomarker remains uncertain. Changes in brain volumes in DS are complicated by developmental differences. Brain structure is different from birth in DS<xref rid="alz71103-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> with smaller intracranial volumes,<xref rid="alz71103-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> thicker cortices due to reduced gyrification,<xref rid="alz71103-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> smaller hippocampi, and larger putamen observed.<xref rid="alz71103-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Brain volumes continue to decline with aging,<xref rid="alz71103-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz71103-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz71103-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71103-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="alz71103-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> though a recent paper found inflections in medial temporal volumes between the ages of 38 and 45 years old.<xref rid="alz71103-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> In contrast, brain structure for ADAD is similar to healthy controls until later in the disease course.<xref rid="alz71103-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz71103-sec-0060"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz71103-list-0002"><list-item><p>
+<bold>Systematic review</bold>: The authors reviewed the literature using PubMed. Previous research has explored autosomal dominant Alzheimer's disease (ADAD) volume changes, typically using a single inflection changepoint model in cross‐sectional analyses. Down syndrome (DS) volume has also been investigated, typically as a linear model or in a limited set of regions of interest (ROIs). Differences in volume changes in both groups have not been examined.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: Our findings point to independent neurodegenerative patterns in DS and ADAD despite both groups being similarly affected by amyloid. DS volumes are lower initially than controls and decrease prior to Alzheimer's disease (AD) pathology. Volumetric decline does not accelerate following amyloid accumulation. ADAD volumes are similar to controls until rapidly decreasing, beginning up to 7 years prior to symptom onset.</p></list-item><list-item><p>
+<bold>Future directions</bold>: Future direction include applying this approach to other neurodegenerative biomarkers (e.g., plasma neurofilament light chain [NfL], cortical thickness). AD drug trials may use these normative volume estimates to evaluate the effects of anti‐amyloid therapies on brain volumes.</p></list-item></list>
+</p></sec></boxed-text><p>Due to their predictable symptom onset, ADAD and DS can help identify early AD‐related changes in a reliable manner over a shorter period of time. This differs from sporadic AD, where individuals may have decades of pathology before the onset of symptoms.<xref rid="alz71103-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Understanding the expected trajectory of volumetric change over AD progression may be particularly important as new anti‐amyloid therapies may exacerbate volume loss.<xref rid="alz71103-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Insights into the timing and regional pattern of brain volumetric changes due to AD is necessary to evaluate the impact of new treatments in these two genetic forms of AD. The goal of these analyses is to identify the timing and location of brain volume changes in ADAD and DS, both before and after the onset of cognitive impairment, and to determine whether these changes are similar or different in these conditions.</p></sec><sec id="alz71103-sec-0070"><label>2</label><title>METHODS</title><sec id="alz71103-sec-0080"><label>2.1</label><title>Participants</title><p>Participants were from two ongoing multisite longitudinal studies: the Alzheimer Biomarker Consortium—Down Syndrome (ABC‐DS) study and the Dominantly Inherited Alzheimer Network (DIAN). ABC‐DS enrolls participants with DS and sibling controls 25 years and older. DIAN recruits ADAD mutation carriers and familial controls who are at least 18 years old. See Supplemental Methods for how genetic status was determined.</p></sec><sec id="alz71103-sec-0090"><label>2.2</label><title>Standard protocol approvals, registrations, and patient consents</title><p>Written informed consent or assent was obtained from all participants, or if individuals are incapable of providing consent, from their legally authorized representatives. All protocols were approved by the institutional review boards at the ABC‐DS and DIAN sites and conform to the ethical standards of the 1964 Declaration of Helsinki and its later amendments.</p></sec><sec id="alz71103-sec-0100"><label>2.3</label><title>Genetics</title><p>All DIAN participants underwent genetic testing for an ADAD‐causing mutation in the APP, PSEN1, or PSEN2 genes. ABC‐DS participants had their medical records checked for karyotype or underwent genetic testing to confirm DS. Apolipoprotein E (APOE) ε4 status was established using a TaqMan genotyping assay (Applied Biosystems [Waltham, MA, USA]) for DIAN participants and a KASP assay (LGC Genomics [Beverly, MA, USA]) for ABC‐DS. The presence of at least one APOE ε4 allele was deemed as APOE ε4 positive.</p></sec><sec id="alz71103-sec-0110"><label>2.4</label><title>EYO determination</title><p>For the ADAD group, EYO was calculated individually based on mutation‐specific age of onset and actual age of onset of dementia.<xref rid="alz71103-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> For ABC‐DS the estimated age of onset was defined as 52.5 years old based on previous literature.<xref rid="alz71103-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz71103-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> By using EYO we are able to directly compare DS and ADAD. EYO for familial controls was identical to their affected relatives. Our approach to EYO was consistent with previous analyses comparing ADAD and DSAD.<xref rid="alz71103-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz71103-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="alz71103-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="alz71103-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="alz71103-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+</p></sec><sec id="alz71103-sec-0120"><label>2.5</label><title>Imaging</title><p>All participants had a T1‐weighted scan performed on a 3T magnetic resonance imaging (MRI) scanner. Scans were processed using FreeSurfer<xref rid="alz71103-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> v5.3 and v7.3 for a subset of the ABC‐DS participants (<italic toggle="yes">N</italic> = 143; a comparison of versions is included as Table <xref rid="alz71103-supinfo-0001" ref-type="">S1</xref>). Brain volumes were summed across hemispheres for each individual region, generating 34 unique cortical and 10 unique subcortical gray matter regions. Regional volumes were corrected for intracranial volume using a linear mixed effect‐based residual approach<xref rid="alz71103-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> and converted to a <italic toggle="yes">z</italic>‐score to simplify comparisons across regions using two approaches: normalizing using all participants so that change across regions is on the same scale while preserving group differences or normalizing groups separately using the amyloid negative members of each cohort. The first approach allows for comparison of the actual volume of each group while the second removes the developmental offset observed in DS. All cohorts had the same processing and quality control to allow for direct comparison between groups.</p></sec><sec id="alz71103-sec-0130"><label>2.6</label><title>Amyloid PET imaging</title><p>The majority of participants underwent amyloid PET scans using [11C]‐Pittsburgh compound B (PiB) for DIAN and PiB or [18F]‐AV45 (florbetapir) for ABC‐DS. PET data from 50–70 min after bolus injection was used for ABC‐DS for both tracers and 40‐70 min for DIAN. PET scans were processed using a PET Unified Pipeline<xref rid="alz71103-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> that aligns the PET scan with the FreeSurfer segmentations and applies partial volume correction using a regional spread function.<xref rid="alz71103-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Regional standardized uptake value ratios (SUVRs) were calculated using the cerebellum as the reference region. To harmonize across PET tracers, Centiloid values<xref rid="alz71103-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> were calculated from the SUVRs based on a cortical summary measure.<xref rid="alz71103-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> All PET processing was identical for ABC‐DS and DIAN data. Amyloid positive (Centiloid ≥ 16.4)<xref rid="alz71103-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> controls were omitted from analyses.</p></sec><sec id="alz71103-sec-0140"><label>2.7</label><title>Clinical assessment</title><p>All participants were evaluated for dementia. In ABC‐DS, this was accomplished by a committee with experience in evaluating dementia in DS.<xref rid="alz71103-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> The committee used neuropsychological evaluations designed for people with DS, medical and psychiatric histories, and interviews with caregivers or informants to derive a consensus diagnosis of cognitively unimpaired, mild cognitive impairment (MCI), or dementia due to AD. For some participants with DS, a consensus was not reached, and they were designated as uncertain. Cognitive status in DIAN participants was established using the Clinical Dementia Rating (CDR) scale, which rates participants as either cognitively unimpaired (0), very mild dementia (0.5), mild dementia (1), moderate dementia (2), or severe dementia (3). Cognitive status in both groups was binarized, either cognitively unimpaired or showing signs of cognitive impairment (MCI or dementia) for ABC‐DS or CDR &gt; 0 for DIAN. While there is some heterogeneity in clinical presentation in MCI,<xref rid="alz71103-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> the early onset, high penetrance, and symptom homogeneity of AD in DS and ADAD meant any cognitive impairment was interpreted as indicative of AD.</p></sec><sec id="alz71103-sec-0150"><label>2.8</label><title>Statistics</title><p>All analyses were completed in R v4.41.<xref rid="alz71103-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> Group differences in demographics were analyzed using chi‐squared tests for categorical variables and independent sample t‐tests for continuous variables. Results are reported as uncorrected for multiple comparisons for demographics only. The effects of amyloid accumulation and impairment on regional brain volumes were calculated in linear mixed effect (LME) models, comparing volumes of controls against cognitively unimpaired amyloid negative (CU‐), cognitively unimpaired amyloid positive (CU+), and cognitively impaired amyloid positive (IMP+) participants with DS or ADAD mutations. All models controlled for the effects of sex, APOE e4 status, and FreeSurfer version and treated individual nested under family as random effects. Group difference effects were considered significant if they survived a false discovery rate (FDR) corrected <italic toggle="yes">p</italic> ≤0.05 applied to a Tukey correction for number of group comparisons in each analysis (21).</p><p>We also compared brain volumes trajectories between groups through generalized additive mixed‐models (GAMMs) in the R mgcv package.<xref rid="alz71103-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> GAMMs do not assume a consistent relationship between two measures, instead allowing the direction and shape (linear or nonlinear) of the relationship to vary over segments of the slope, or splines. GAMMs find the model that accounts for the most variance while penalizing for model complexity to avoid overfitting. Slope shape was summarized with the estimated degrees of freedom (EDF), where 1 indicates a linear relationship and values greater than 1 indicate increasingly nonlinear relationships. The shape of a relationship can significantly differ between groups that have linear relationships due to differences in slope steepness.</p><p>Group‐specific relationships between brain volume and EYO were evaluated using GAMMs. GAMMs allow for slopes to vary by group and included sex, APOE e4 status, and FreeSurfer version as covariates, and treated individual nested under family as a random effect. Differences between DS, ADAD, and controls were examined with regards to main effect differences in brain volumes between groups (offset), differences in the shape of the relationship with EYO between groups, and the EYO ranges where groups significantly diverged. A group‐specific amyloid negative normalization was performed to allow for divergence analyses for DS as significant developmental effects are present.<xref rid="alz71103-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz71103-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="alz71103-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> Differences in group offset and shape were extracted from the model summary. EYO‐specific group divergences were calculated by examining when the estimate for one group no longer fell within the spline‐based confidence interval for another and vice‐versa. Correction for multiple comparisons was performed by applying an FDR correction for tests of group main effects and interactive effects with EYO and a Bonferroni correction for ranges of group divergences. Multiple comparison corrections were applied separately for the analyses using group‐specific normalized data. Analyses were repeated using amyloid in Centiloids,<xref rid="alz71103-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> excluding controls due to limited range.</p><p>To examine whether brain volumes were better predicted by EYO or Centiloid, analyses compared the Akaike Information Criterion (AIC) for volumes predicted by EYO or by Centiloid. AIC is a measure of model fit, where lower values indicate better model performance. As AICs depend on sample size and number of parameters, they cannot be compared across groups. These analyses examined groups separately, using only participants with both an EYO and Centiloid. As the EYO and Centiloid models have the same degrees of freedom, region‐specific comparisons in an analysis of variance (ANOVA) were not feasible. Instead, a paired t‐test was performed on the AICs of the EYO and Centiloid models.</p><p>Analyses were conducted to test for group‐specific inflection points in the linear relationship between intracranial volume‐corrected volume and EYO. A group‐specific piecewise LME model was calculated, allowing for a single inflection point for each region, and compared against an inflectionless model. Inflection methods and results are detailed in the supplementary materials.</p><p>Volumetric results are described at a summary level (e.g., cortical or subcortical) in the main text. When demonstrating group slopes we used three regions implicated in the pathogenesis of genetic AD pathology: the hippocampus, precuneus, and nucleus accumbens.<xref rid="alz71103-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz71103-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="alz71103-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="alz71103-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="alz71103-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> A more detailed regional description of trajectory differences by group can be found in the supplemental results. Videos of volume estimates and group differences between EYOs ‐20 to 10 and Centiloids 0 to 150 can be found in the supplement, with and without correcting for developmental offset (Supplemental Videos <xref rid="alz71103-supinfo-0001" ref-type="">1–6</xref>). Individual region volume‐EYO/Centiloid plots can also be found in the supplemental materials (Supplemental Plots <xref rid="alz71103-supinfo-0001" ref-type="">1‐8</xref>).</p><p>Analyses examining gene‐specific effects in ADAD are detailed in the supplement.</p></sec></sec><sec id="alz71103-sec-0160"><label>3</label><title>RESULTS</title><sec id="alz71103-sec-0170"><label>3.1</label><title>Participants</title><p>Participants consisted of 267 controls combined over both cohorts, 341 adults with DS, and 358 individuals with an ADAD mutation, with 576, 472, and 860 longitudinal MRIs, respectively, for a total of 1908 scans. There were 106 unique mutations in the ADAD sample. Participants with DS (mean age[SD] = 42.8[9.4] at baseline) were significantly older than ADAD (37.4[10.8]; <italic toggle="yes">p &lt;</italic> 0.001) and controls (37.6[11.2]; <italic toggle="yes">p &lt;</italic> 0.001). Age was not included as a covariate in the model to control for this group difference due to its high collinearity with EYO, especially for DS. EYO was only significantly different between ADAD (−8.7[9.4]) and controls (−11.2[11.5]; DS ‐9.7[9.4]). A higher proportion of DS participants were male (55.1%) compared to controls (39.0%; <italic toggle="yes">p &lt;</italic> 0.001) or ADAD (43.3%; <italic toggle="yes">p = </italic>0.002). Participants with ADAD were significantly more likely to be impaired relative to DS (33.2% vs 19.1%, <italic toggle="yes">p &lt;</italic> 0.001). The presence of an APOE e4 allele did not significantly differ between groups. Amyloid PET (in Centiloids) was significantly different between all groups at baseline—ADAD (40.7[48.8]), DS (28.0[37.3]), and controls (−0.7[3.4]), all <italic toggle="yes">p's </italic>&lt; 0.001. However, for those individuals with cognitive impairment, Centiloid did not differ between ADAD and DS (81.3[54.5] and 79.6[41.4], respectively; <italic toggle="yes">p = </italic>0.85). See Table <xref rid="alz71103-tbl-0001" ref-type="table">1</xref> for a description of groups by sex, mutation type, APOE e4, age, EYO, and Centiloid. See Supplemental Results and Table <xref rid="alz71103-supinfo-0001" ref-type="">S2</xref> for ADAD gene‐specific demographics.</p><table-wrap position="float" id="alz71103-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Demographics.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th rowspan="2" align="left" colspan="1">Parameter</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Baseline</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">All</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Control</th><th align="left" rowspan="1" colspan="1">DS</th><th align="left" rowspan="1" colspan="1">ADAD</th><th align="left" rowspan="1" colspan="1">Control</th><th align="left" rowspan="1" colspan="1">DS</th><th align="left" rowspan="1" colspan="1">ADAD</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">N (male)</td><td align="left" rowspan="1" colspan="1">267 (104)</td><td align="left" rowspan="1" colspan="1">341 (188)<xref rid="alz71103-tbl1-note-0002" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">358 (155)</td><td align="left" rowspan="1" colspan="1">576 (231)</td><td align="left" rowspan="1" colspan="1">472 (258)</td><td align="left" rowspan="1" colspan="1">860 (373)</td></tr><tr><td align="left" rowspan="1" colspan="1">No. Impaired</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">65</td><td align="left" rowspan="1" colspan="1">119<xref rid="alz71103-tbl1-note-0002" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">100</td><td align="left" rowspan="1" colspan="1">294</td></tr><tr><td align="left" rowspan="1" colspan="1">No. of amyloid scans</td><td align="left" rowspan="1" colspan="1">246</td><td align="left" rowspan="1" colspan="1">238</td><td align="left" rowspan="1" colspan="1">314</td><td align="left" rowspan="1" colspan="1">493</td><td align="left" rowspan="1" colspan="1">318</td><td align="left" rowspan="1" colspan="1">688</td></tr><tr><td align="left" rowspan="1" colspan="1">APOE E4 prevalence</td><td align="left" rowspan="1" colspan="1">28%</td><td align="left" rowspan="1" colspan="1">23%</td><td align="left" rowspan="1" colspan="1">28%</td><td align="left" rowspan="1" colspan="1">29%</td><td align="left" rowspan="1" colspan="1">24%</td><td align="left" rowspan="1" colspan="1">30%</td></tr><tr><td align="left" rowspan="1" colspan="1">Age (SD)</td><td align="left" rowspan="1" colspan="1">37.6 (11.2)</td><td align="left" rowspan="1" colspan="1">42.8 (9.4)<xref rid="alz71103-tbl1-note-0002" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">37.4 (10.8)</td><td align="left" rowspan="1" colspan="1">39.0 (10.3)</td><td align="left" rowspan="1" colspan="1">43.8 (9.4)</td><td align="left" rowspan="1" colspan="1">39.4 (10.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">EYO (SD)</td><td align="left" rowspan="1" colspan="1">−11.2 (11.5)</td><td align="left" rowspan="1" colspan="1">−9.7 (9.4)</td><td align="left" rowspan="1" colspan="1">−8.7 (11.4)<xref rid="alz71103-tbl1-note-0002" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">−9.5 (10.4)</td><td align="left" rowspan="1" colspan="1">−8.7 (9.4)</td><td align="left" rowspan="1" colspan="1">−7.0 (10.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Centiloid (SD)</td><td align="left" rowspan="1" colspan="1">−0.7 (3.4)</td><td align="left" rowspan="1" colspan="1">28.0 (37.3)<xref rid="alz71103-tbl1-note-0002" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">40.7 (48.8)<xref rid="alz71103-tbl1-note-0002" ref-type="table-fn">
+<sup>*</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">−1.0 (3.4)</td><td align="left" rowspan="1" colspan="1">30.3 (38.8)</td><td align="left" rowspan="1" colspan="1">44.7 (50.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Impaired Centiloid (SD)</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">79.6 (41.4)</td><td align="left" rowspan="1" colspan="1">81.3 (55.4)</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">79.6 (43.7)</td><td align="left" rowspan="1" colspan="1">85.0 (54.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">N Tri/Mos/Trns/Unk</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">308/12/14/7</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">428/16/19/9</td><td align="left" rowspan="1" colspan="1">–</td></tr><tr><td align="left" rowspan="1" colspan="1">N APP/PSEN1/PSEN2</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">65/266/27</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">191/603/66</td></tr></tbody></table><table-wrap-foot><fn id="alz71103-tbl1-note-0001"><p>
+<italic toggle="yes">Note</italic>: Characteristics of each genetic Alzheimer group and controls.</p></fn><fn id="alz71103-tbl1-note-0002"><label>*</label><p>: Group was significantly different from another for this metric, see Results for more information.</p></fn><fn id="alz71103-tbl1-note-0003"><p>Abbreviations: ADAD, participants with an autosomal dominant mutation; APP, amyloid precursor protein; APOE, apolipoprotein E; DS, participants with Down syndrome; EYO, estimated years until onset of cognitive impairment; Mos, mosaicism; PSEN, presenilin; SD, standard deviation; Tri, trisomy 21; Trns, translocation; Unk, unknown.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz71103-sec-0180"><label>3.2</label><title>Effects of amyloid and cognitive impairment at the group level</title><p>LME analyses of the influence of amyloid and cognitive impairment on brain volume found that escalating AD pathology was associated with significantly smaller brain volumes in most regions. Amyloid accumulation in ADAD was associated with smaller volumes in primarily striatal subcortical, and inferior temporal, parietal, and occipital cortical regions. Progression to cognitive impairment in ADAD resulted in smaller brain volumes in almost all regions. In DS, amyloid accumulation was associated with smaller volumes in frontal, inferior/medial parietotemporal, and subcortical regions. Cognitive impairment was linked to greater brain volume loss in these regions, which was more significant than the loss caused by amyloid accumulation in ADAD. Between group analyses found that brain volumes in controls were similar to CU‐ ADAD carriers while CU‐ DS were typically smaller than either group. Figure <xref rid="alz71103-fig-0001" ref-type="fig">1</xref> shows significant between and within group (control/ADAD/DS) and stage (CU‐/CU+/IMP+) differences in volume across all group and stage comparisons. Prior to amyloid accumulation, volumes were similar for ADAD and controls but were already lower for DS. Both DS and ADAD volumes decrease with progressive AD stage. Sex effects were seen for most regions for all groups, with smaller volumes observed for females relative to males. APOE e4 did not have a significant effect on brain volumes. See Supplemental Table <xref rid="alz71103-supinfo-0001" ref-type="">3</xref> for the full LME results.</p><fig position="float" fig-type="FIGURE" id="alz71103-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Group‐specific volume differences. Volumes presented as differences in <italic toggle="yes">z</italic>‐scores calculated across all groups after an intracranial volume‐correction. <italic toggle="yes">z</italic>‐scores thresholded at ± 2. Groups were divided based on stage of AD pathology. (A) Comparisons between controls and all groups. (B) Within‐group ADAD comparisons. (C) Within‐group DS comparisons. (D) ADAD and DS comparisons. Red indicates the first group listed was significantly smaller than the second, blue indicates the second group was significantly smaller than the first. Gray regions not significantly different. All significant values survived an FDR for the number of regions analyzed (44) applied to a Tukey corrected group difference for number of comparisons (21). AD, Alzheimer's disease; ADAD, autosomal‐dominant Alzheimer's disease; CU−, cognitively unimpaired amyloid negative; CU+, cognitively unimpaired amyloid positive; DS, Down syndrome; FDR, false discovery rate; IMP+, cognitively impaired amyloid positive</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-22-e71103-g005.jpg"/></fig></sec><sec id="alz71103-sec-0190"><label>3.3</label><title>GAMM Analyses</title><sec id="alz71103-sec-0200"><label>3.3.1</label><title>Volume loss with increasing EYO</title><p>Volumes decreased with increasing EYO for all groups. Parametric effects resemble those described in the LME analyses. Slope trajectory and group differences in slope are demonstrated in Figure <xref rid="alz71103-fig-0002" ref-type="fig">2</xref>. Figure <xref rid="alz71103-fig-0002" ref-type="fig">2A</xref> shows that the EYO‐volume relationship is linear (EDF ∼1) for both DS and controls but is nonlinear for ADAD (EDF &gt; 1) in most regions, rapidly declining around EYO ‐7. This was consistent with inflection point analyses which observed significant inflections in almost all brain regions in ADAD (see Table <xref rid="alz71103-supinfo-0001" ref-type="">S4</xref>). An inflection was seen in relatively few regions for DS but was observed for a few regions relevant to AD including the amygdala and hippocampus. For these two regions inflections were seen at EYO −18 to −19, respectively, with negative slopes seen before the inflection. Figure <xref rid="alz71103-fig-0002" ref-type="fig">2B</xref> shows that slope shape is significantly different between ADAD compared to DS or controls (white‐blue regions indicating significant differences in slope between groups, darker colors indicating greater differences in slope complexity). While DS and controls had linear slopes, negative slopes were steeper in DS (light colors indicating steepness differences in similar slopes) in subcortical, parietal, and temporal regions implicated in AD pathology.<xref rid="alz71103-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="alz71103-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="alz71103-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> Full statistics can be found in Table <xref rid="alz71103-supinfo-0001" ref-type="">S5</xref>.</p><fig position="float" fig-type="FIGURE" id="alz71103-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Nonlinearity of the relationship between volume and EYO. Nonlinearity, measured by EDF, of the relationship between volume and EYO (A) for DS, ADAD, and sibling CON and (B) group differences in linearity for the volume relationship with regards to EYO. An EDF = 1 (white regions) represents a linear relationship while an EDF &gt; 1 indicated a nonlinear relationship (red/blue regions). A max EDF of 9 was chosen to capture the full range of EDFs reported (1 to 8.42). Darker colors indicate a more nonlinear relationship, gray indicating no significant relationship with EYO (A) or no shape difference between groups (B). (B) A white region indicates that, while both groups have the same slope complexity, one group's slope is significantly steeper than the other. ADAD, autosomal dominant Alzheimer disease; CON, controls; DS, Down syndrome; EDF, estimated degrees of freedom; EYO, estimated years to onset of cognitive impairment</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-22-e71103-g001.jpg"/></fig><fig position="float" fig-type="FIGURE" id="alz71103-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Group differences in volume over time. (A) Z value of time‐specific significant group differences in regional volume at different EYOs from ‐20 to +10. Red indicates the first group listed has a significantly higher volume than the second, blue the opposite. Darker colors indicate a greater difference. Gray indicates no significant difference between groups at a particular time interval. ADJDS‐CON compares volumes between DS and controls after adjusting for developmental offset in DS. Plots show early volume deficits in DS expanding over time while ADAD volume does not begin to diverge until near EYO 0, affecting most of the brain by EYO +10 and with smaller volumes than in DS after EYO 0. Adjusting for developmental differences limits DS volume deficits to primarily temporal and subcortical regions. (B) Standardized volumetric change over time (with regards to EYO) for certain regions of interest in each group with ranges of significant group divergences noted at the top of the plots. EYO‐specific estimate patterns show the relatively linear DS slopes and the inflected ADAD trajectories. Actual: <italic toggle="yes">z</italic>‐score calculated across all participants, Adjusted: <italic toggle="yes">z</italic>‐scores adjusted to account for the developmental effect in DS. ADAD, autosomal dominant mutation carriers; CON, controls; DS, Down syndrome; EYO, estimated years until onset of cognitive impairment</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALZ-22-e71103-g004.jpg"/></fig><p>Group differences in volumes at 10‐year intervals in EYO are shown in Figure <xref rid="alz71103-fig-0003" ref-type="fig">3A</xref>. DS volumes were typically smaller than controls initially, with the number of regions and the difference between group volumes increasing over time. Adjusting for developmental effects removed most differences between DS and controls. Significantly smaller volumes in DS (outside of the cerebellum) appeared only at EYO 0 in subcortical and occipital regions, spreading temporally and parietally by EYO +10. Volume differences between ADAD and controls were not observed at EYO ‐10 but were apparent at EYO 0 and widespread by EYO +10. By EYO +10 ADAD volumes were generally smaller than DS despite ADAD volumes declining later. Figure <xref rid="alz71103-fig-0003" ref-type="fig">3B</xref> shows estimated volume slopes in ROIs for each group, before and after accounting for developmental differences with DS. Due to the linear decline present before amyloid accumulation, normalizing the DS cohort to the amyloid negative subset leads to the youngest participants being shifted above the mean, while the oldest participants fall below the line. The results for ADAD based on specific genetic mutations can be found in the Supplemental Results and Table <xref rid="alz71103-supinfo-0001" ref-type="">S6</xref>. The slopes in regions of interest for specific ADAD mutations can be visualized in Figure <xref rid="alz71103-supinfo-0001" ref-type="">S1</xref>. Videos showing volume estimates and group divergences for DS, ADAD, and controls between EYOs ‐20 to +10, with and without adjusting for developmental effects, can be found in Supplemental Videos <xref rid="alz71103-supinfo-0001" ref-type="">1–4</xref> (unadjusted group estimates SV1, unadjusted group differences SV2, adjusted group estimates SV3, and adjusted group differences SV4). Plots showing the volume‐EYO relationship for each region can be found in Supplemental Files <xref rid="alz71103-supinfo-0001" ref-type="">1–4</xref>.</p></sec><sec id="alz71103-sec-0210"><label>3.3.2</label><title>Amyloid models and fit relative to EYO</title><p>Analyses examining the relationship between Centiloid and volume found similar negative relationships in DS and ADAD in almost all brain regions. Relationships were nonlinear in subcortical and frontoparietal regions, including key regions like the hippocampus. Slope differences were mainly seen in subcortical regions, where DS showed greater volume loss than ADAD for the same Centiloid levels. The similarity in slopes can be visualized in Figure <xref rid="alz71103-fig-0004" ref-type="fig">4</xref> for DS and ADAD and Figure <xref rid="alz71103-supinfo-0001" ref-type="">S1</xref> for DS, APP, PSEN1, and PSEN2. Full GAMM model results can be found in Supplemental Table <xref rid="alz71103-supinfo-0001" ref-type="">7</xref> while results from models that allow slopes to vary according to affected ADAD gene can be found in Table <xref rid="alz71103-supinfo-0001" ref-type="">S8</xref>, and inflection points for group‐specific relationships between Centiloid and volume can be found in Table <xref rid="alz71103-supinfo-0001" ref-type="">S9</xref>. Videos showing the estimated volumes and group differences between Centiloids 0 and 150, with and without controlling for developmental differences, can be found in Supplemental Videos <xref rid="alz71103-supinfo-0001" ref-type="">5–6</xref> (unadjusted SV5, adjusted SV6) and region‐specific volume–Centiloid plots found in Supplemental Files <xref rid="alz71103-supinfo-0001" ref-type="">5–8</xref>.</p><fig position="float" fig-type="FIGURE" id="alz71103-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Relationship between Centiloid and volume. (A) Nonlinearity, measured by EDF, of the relationship between volume and Centiloid for DS and ADAD and (B) group differences in linearity for the volume–Centiloid relationship. EDF of 1 = linear, &gt; 1 more nonlinear. Darker colors indicate a more nonlinear relationship, gray indicating no significant relationship with Centiloid (A) or no shape difference between groups (B). Volume–Centiloid slopes are typically linear and similar in both groups, outside subcortical regions. (C) Volumetric estimates across Centiloids in regions of interest in DS (red) and ADAD (blue), ranges of significant group divergences are noted in purple. Plots show similar relationship between volume and Centiloid in both groups, though DS is more affected in the hippocampus between Centiloids of 40 and 90. Actual: volume <italic toggle="yes">z</italic>‐score after normalizing across all participants. Adjusted: volume <italic toggle="yes">z</italic>‐score adjusted to account for developmental offset in DS. ADAD, autosomal dominant mutation carriers; EDF, estimated degrees of freedom; DS, Down syndrome</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="ALZ-22-e71103-g002.jpg"/></fig><p>Comparing model fits, EYO better explained brain volume changes in ADAD and controls than Centiloid levels (paired t‐tests of EYO and Centiloid AICs: <italic toggle="yes">p</italic> &lt; 0.001 for controls and ADAD, <italic toggle="yes">p</italic> = 0.321 for DS). Parietal and hippocampal regions strongly favored an EYO model in ADAD, and parietal regions slightly favored a Centiloid model in DS. Detailed results for the model fit comparisons can be visualized in Figure <xref rid="alz71103-fig-0005" ref-type="fig">5</xref> and found in Table <xref rid="alz71103-supinfo-0001" ref-type="">S10</xref>.</p><fig position="float" fig-type="FIGURE" id="alz71103-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Ratio of EYO to Centiloid AIC. The model fit by a group and region‐specific EYO GAMM model divided by the fit of the Centiloid model. Lower values (blue) indicate the EYO model accounted for more variance than Centiloid, higher values (red) indicate Centiloid accounted for more variance than EYO. White indicates both models performed similarly. AIC, Akaike Information Criterion; EYO, estimated years to onset; GAMM, generalized additive mixed‐models</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="ALZ-22-e71103-g003.jpg"/></fig></sec></sec></sec><sec id="alz71103-sec-0220"><label>4</label><title>DISCUSSION</title><p>Our analyses found an inverse relationship between EYO and amyloid with brain volume. DS typically exhibited smaller brain volumes than controls or ADAD. EYO‐volume relationships were nonlinear in ADAD and linear in DS and controls. Volumetric declines were more pronounced in DS compared to controls, especially in posterior and subcortical regions. ADAD volumes followed a similar trajectory to controls until decreasing significantly about 7 years before cognitive impairment onset. Differences in EYO‐volume were earliest in subcortical regions for both groups. In ADAD, cortical divergence appeared first in parietal regions, while in DS, it began in the lateral occipital regions and spread to temporal areas near impairment onset. Volume‐Centiloid slopes were generally linear and similar in DS and ADAD, but associations occurred at lower Centiloid levels in DS. Model comparisons indicated that EYO is a better predictor of volume changes than amyloid in ADAD.</p><p>Non‐linear relationships were observed between volume and EYO in ADAD. Divergences began in regions associated with ADAD (e.g., precuneus, hippocampus)<xref rid="alz71103-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz71103-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> and expanded to most of the brain by an EYO +10 (Figure <xref rid="alz71103-fig-0003" ref-type="fig">3</xref>). Changes were seen within areas typically spared in LOAD (e.g., occipital),<xref rid="alz71103-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> with only the insula and medial prefrontal unaffected. Since volume loss occurred shortly before symptom onset, tracking these changes may provide a marker of incipient impairment in ADAD. A particular area of interest is the striatum, where volume first diverged and which has been implicated as an area of early AD pathology in ADAD and DSAD.<xref rid="alz71103-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> This is in contrast to more cortical regions like the precuneus that have been implicated in LOAD.<xref rid="alz71103-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="alz71103-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="alz71103-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> Our divergence timings differ from previous studies, which reported divergence more than a decade before impairment. This discrepancy may reflect differences in the modality (thickness) and EYO approach.<xref rid="alz71103-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz71103-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="alz71103-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> Our changepoint analyses place hippocampal inflections at the same EYO as previous research (see supplement).<xref rid="alz71103-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+</p><p>The EYO–volume relationship was primarily linear for DS and controls, with developmental effects typically resulting in smaller volumes in DS. Decline was faster in DS in subcortical, parietal, and temporal regions compared to controls<xref rid="alz71103-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> and preceded AD pathology.<xref rid="alz71103-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz71103-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> This suggests volume loss independent of AD, as slopes largely did not change with amyloid conversion.<xref rid="alz71103-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> Inflections were observed in a few subcortical regions, consistent with previous work.<xref rid="alz71103-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> We detected inflections in DS in the hippocampus and amygdala around the time of amyloid accumulation, though slopes pre‐inflection were still negative. This suggests that, while the onset of AD pathology may be associated with accelerated volume loss in key regions, loss is already occurring in DS.</p><p>Interestingly, precuneus volumes did not conform to this overall pattern. Instead, volumetric decline in the precuneus of individuals with DS more closely resembled the pattern seen in ADAD. There were no early differences in precuneus volume between controls and individuals with DS. Individuals with DS exhibited a nonlinear decline in precuneus volume, initially matching controls and ADAD before diverging from controls at EYO ‐3, 1 year before the ADAD‐control divergence. Although these patterns were similar, the post‐divergence slope was greater in ADAD. Previous research in DS has identified precuneus thickness as an excellent classifier of AD stage.<xref rid="alz71103-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> Other work has identified precuneus atrophy as an early marker of neurodegeneration in both ADAD<xref rid="alz71103-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> and APOE ε44 carriers.<xref rid="alz71103-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> Our findings in conjunction with existing evidence suggest that the precuneus may display unique vulnerability to genetically‐associated AD.</p><p>The non‐AD volume loss observed in DS may reflect two factors: accelerated aging and DYRK1A overexpression. Brain‐cell derived epigenetic age has been shown to be 11.5 years older than chronological age in DS.<xref rid="alz71103-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> MRI‐based estimates of brain age found a 5.3‐year brain–age gap, indicating accelerated aging in DS detectable using neuroimaging.<xref rid="alz71103-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> DYRK1A is a gene on the 21<sup>st</sup> chromosome involved in neurogenesis and astrocyte reactivity.<xref rid="alz71103-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> DYRK1A overexpression disrupts both factors, resulting in malformed dendrites and axons, reduced synaptogenesis, and impaired excitotoxic glutamate clearance by astrocytes. The linear decline observed in most brain regions may reflect accelerated aging or excitotoxic cell death, while the inflection point decline reported in certain regions may represent additional effects of AD. Why these effects are observed in several temporal‐parietal regions affected in AD is unclear.</p><p>The association between amyloid and volume was similar for both DS and ADAD. The largely linear and negative relationship observed in both groups suggest atrophy correlates with increasing disease severity. Although this association was present, EYO accounted for more variance in volumes in ADAD but not DS. The reasons for this are likely two‐fold: (1) as the rate of change for Centiloid is largely consistent once amyloid accumulation begins<xref rid="alz71103-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> and volume is continuously decreasing and typically unaffected by amyloid in DS, then Centiloid is effectively another temporal marker in DS and, like EYO, exhibits a linear association with volume. (2) In contrast, in ADAD, EYO is a relatively precise temporal marker of disease stage, as it is anchored to the predictable age of symptom onset within families which, along with ADAD time course,<xref rid="alz71103-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> can vary significantly by mutation.<xref rid="alz71103-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> Because EYO in ADAD closely reflects proximity to symptom onset, it aligns more tightly with the period of rapid volumetric loss. This can be visualized in Figures <xref rid="alz71103-fig-0002" ref-type="fig">2</xref> and <xref rid="alz71103-fig-0005" ref-type="fig">5</xref>, where the regions that have the greatest volume loss are also the regions where the difference in variance accounted for by the EYO and Centiloid models was greatest. The intrasubject variability is poorly accounted for by Centiloid in ADAD, resulting in weaker models and less accurate slopes where the inflection has been smoothed out. Thus, while both groups show similar patterns of amyloid‐related atrophy, differences in disease pacing and the precision of EYO as a staging metric likely explain the different EYO–volume association observed between DS and ADAD. It is worth noting that in DSAD an individualized measure of AD progression accounted for as much variance as a measure based on a groupwide impairment estimate subtracted from age.</p><p>Our current results align with our recent fluorodeoxyglucose (FDG) ‐PET research conducted on a subset of participants from ABC‐DS and DIAN.<xref rid="alz71103-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> FDG‐PET, which measures glucose metabolism and serves as a proxy for neurodegeneration, showed a nonlinear relationship with EYO for ADAD, diverging from controls around EYO ‐7. DS FDG‐PET started lower than ADAD and controls and declined linearly. The observed decline for DS was more rapid than controls. For both DS and ADAD, FDG‐PET declined with increasing Centiloid. Overall, both FDG‐PET and MRI results in DS indicate a linear decline in neurodegeneration markers that precedes amyloid and tau changes, suggesting these changes are largely unaffected by AD pathology. These neurodegenerative changes may be linked to developmental alterations in key brain structures due to chromosomal triplication, starting at birth and progressing with age.<xref rid="alz71103-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>
+</p><p>Understanding regional volume trajectories in genetic forms of AD is important as new AD treatments that target amyloid and slow the course of the disease have also been shown to cause volume loss.<xref rid="alz71103-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> Clinicians will need to be familiar with typical patterns of change due to aging compared to anti‐amyloid therapy. Providing regional volume‐EYO trajectories for both ADAD and DS gives group‐specific templates to compare volumetric change against when examining treatment efficacy and potential side effects. Several clinical trials have been performed in ADAD, with an upcoming study administering anti‐amyloid therapies before participants become amyloid positive.<xref rid="alz71103-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> Only recently have anti‐amyloid therapies been considered in DS.<xref rid="alz71103-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>
+</p><sec id="alz71103-sec-0230"><label>4.1</label><title>Limitations and future directions</title><p>There are some limitations with this study. The use of different amyloid tracers in ABC‐DS meant that we had to use a summary Centiloid measure and could not examine the effect of regional amyloid on volume. Centiloid was based on regions involved in late onset AD<xref rid="alz71103-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> rather than regions affected in DSAD or ADAD. The prevalence of cognitive decline was significantly lower in DS compared to ADAD. There is heterogeneity in DS dementia onset<xref rid="alz71103-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> that may influence volume trajectories. However, our analyses and previous pathological studies have shown that amyloid and tau are stereotypically seen by age 40. The acquisition of more longitudinal amyloid and cognitive data will allow us to estimate individual conversion points using techniques like amyloid chronicity.<xref rid="alz71103-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> Future directions include expanding to other imaging modalities (e.g., cortical thickness) and other biomarker modalities (e.g., plasma/cerebrospinal fluid [CSF]).</p></sec></sec><sec id="alz71103-sec-0240"><label>5</label><title>CONCLUSIONS</title><p>Brain volume was inversely related to EYO and PET amyloid in most regions for both DS and ADAD. In ADAD, volume changes were similar to controls until sharply decreasing around EYO ‐7. DS volumes showed a more linear decline, suggesting AD‐independent volume loss. Despite differing temporal patterns, the amyloid‐volume relationship was similar for both DS and ADAD. Initially, DS participants had lower brain volumes than controls, with both groups experiencing linear declines; however, DS showed faster declines in posterior and subcortical regions. Conversely, ADAD exhibited inflection points where volume declined faster than DS once it began. Divergence from controls occurred earliest in subcortical regions for both groups, while cortical effects appeared in ADAD before cognitive impairment onset, mainly in the parietal lobe, and were most prominent in DS in the temporal lobe after onset. These findings may shed light on aging effects compared to new anti‐amyloid therapies related to volumetric declines.</p></sec><sec sec-type="COI-statement" id="alz71103-sec-0260"><title>CONFLICTS OF INTEREST STATEMENT</title><p>The authors report no conflicts.</p></sec><sec id="alz71103-sec-0270"><title>CONSENT STATEMENT</title><p>All participants and their legally authorized caregivers provided informed assent or consent.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz71103-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz71103-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s003.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s009.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s005.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s012.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0005" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s018.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0006" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s002.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0007" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s007.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0008" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s017.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0009" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s011.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0010" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s015.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0011" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s014.pdf" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0012" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s010.mp4" mimetype="video" mime-subtype="mp4" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0013" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s004.mp4" mimetype="video" mime-subtype="mp4" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0014" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s016.mp4" mimetype="video" mime-subtype="mp4" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0015" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s006.mp4" mimetype="video" mime-subtype="mp4" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0016" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s013.mp4" mimetype="video" mime-subtype="mp4" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0017" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s008.mp4" mimetype="video" mime-subtype="mp4" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71103-supitem-0018" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71103-s001.xlsx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz71103-sec-0250"><title>ACKNOWLEDGMENTS</title><p>The authors are grateful to the ABC‐DS and DIAN study participants, their families and care providers, and the ABC‐DS and DIAN research and support staff for their contributions to this study. This manuscript has been reviewed by ABC‐DS and DIAN investigators for scientific content and consistency of data interpretation with previous ABC‐DS and DIAN study publications. The content is solely the responsibility of the authors and does not necessarily represent the official views of others. The Alzheimer's Biomarkers Consortium–Down Syndrome (ABC‐DS) is funded by the National Institute on Aging and the National Institute for Child Health and Human Development (U01 AG051406, U01 AG051412, U19 AG068054). The work contained in this publication was also supported through the following National Institutes of Health Programs: The Alzheimer's Disease Research Centers Program (P50 AG008702, P30 AG062421, P50 AG16537, P50 AG005133, P50 AG005681, P30 AG062715, and P30 AG066519), the Eunice Kennedy Shriver Intellectual and Developmental Disabilities Research Centers Program (U54 HD090256, U54 HD087011, and P50 HD105353), the National Center for Advancing Translational Sciences (UL1 TR001873, UL1 TR002373, UL1 TR001414, UL1 TR001857, UL1 TR002345), the National Centralized Repository for Alzheimer Disease and Related Dementias (U24 AG21886), and DS‐Connect (The Down Syndrome Registry) supported by the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD). In Cambridge, UK this research was supported by the NIHR Cambridge Biomedical Research Centre and the Windsor Research Unit, CPFT, Fulbourn Hospital Cambridge, UK. Data collection and sharing for this project was supported by The Dominantly Inherited Alzheimer Network (DIAN, U19AG032438) funded by the National Institute on Aging (NIA), the Alzheimer's Association (SG‐20‐690363‐DIAN), the German Center for Neurodegenerative Diseases (DZNE), Raul Carrea Institute for Neurological Research (FLENI), Partial support by the Research and Development Grants for Dementia from Japan Agency for Medical Research and Development (AMED), the Korea Health Technology R&amp;D Project through the Korea Health Industry Development Institute (KHIDI), Korea Dementia Research Center (KDRC), funded by the Ministry of Health &amp; Welfare and Ministry of Science and ICT, Republic of Korea (HI21C0066), and Spanish Institute of Health Carlos III (ISCIII). This manuscript has been reviewed by DIAN Study investigators for scientific content and consistency of data interpretation with previous DIAN Study publications. The views expressed in this article are those of the authors and not necessarily those of the National Institute for Health and Care Research or the Department of Health and Social Care. We also acknowledge the additional support provided by the Paula and Rodger O. Riney fund, and the Daniel J Brennan MD fund.</p></ack><ref-list id="alz71103-bibl-0001"><title>REFERENCES</title><ref id="alz71103-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz71103-cite-0002">
+<article-title>2024 Alzheimer's disease facts and figures</article-title>. <source>Alzheimers Dement J Alzheimers Assoc</source>. <year>2024</year>;<volume>20</volume>(<issue>5</issue>):<fpage>3708</fpage>‐<lpage>3821</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13809</pub-id>
+<pub-id pub-id-type="pmcid">PMC11095490</pub-id><pub-id pub-id-type="pmid">38689398</pub-id></mixed-citation></ref><ref id="alz71103-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz71103-cite-0003">
+<string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knopman</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jagust</surname>
+<given-names>WJ</given-names>
+</string-name>, et al. <article-title>Tracking pathophysiological processes in Alzheimer's disease: an updated hypothetical model of dynamic biomarkers</article-title>. <source>Lancet Neurol</source>. <year>2013</year>;<volume>12</volume>(<issue>2</issue>):<fpage>207</fpage>‐<lpage>216</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(12)70291-0</pub-id>
+<pub-id pub-id-type="pmid">23332364</pub-id>
+<pub-id pub-id-type="pmcid">PMC3622225</pub-id></mixed-citation></ref><ref id="alz71103-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz71103-cite-0004">
+<string-name name-style="western">
+<surname>Fortea</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zaman</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hartley</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rafii</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Head</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carmona‐Iragui</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Down syndrome‐associated Alzheimer's disease: a genetic form of dementia</article-title>. <source>Lancet Neurol</source>. <year>2021</year>;<volume>20</volume>(<issue>11</issue>):<fpage>930</fpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(21)00245-3</pub-id>
+<pub-id pub-id-type="pmid">34687637</pub-id>
+<pub-id pub-id-type="pmcid">PMC9387748</pub-id></mixed-citation></ref><ref id="alz71103-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz71103-cite-0005">
+<string-name name-style="western">
+<surname>Lott</surname>
+<given-names>IT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Head</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Dementia in Down syndrome: unique insights for Alzheimer disease research</article-title>. <source>Nat Rev Neurol</source>. <year>2019</year>;<volume>15</volume>(<issue>3</issue>):<fpage>135</fpage>‐<lpage>147</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41582-018-0132-6</pub-id>
+<pub-id pub-id-type="pmid">30733618</pub-id>
+<pub-id pub-id-type="pmcid">PMC8061428</pub-id></mixed-citation></ref><ref id="alz71103-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz71103-cite-0006">
+<string-name name-style="western">
+<surname>Bateman</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xiong</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benzinger</surname>
+<given-names>TLS</given-names>
+</string-name>, et al. <article-title>Clinical and Biomarker Changes in Dominantly Inherited Alzheimer's Disease</article-title>. <source>N Engl J Med</source>. <year>2012</year>;<volume>367</volume>(<issue>9</issue>):<fpage>795</fpage>‐<lpage>804</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJMoa1202753</pub-id>
+<pub-id pub-id-type="pmid">22784036</pub-id>
+<pub-id pub-id-type="pmcid">PMC3474597</pub-id></mixed-citation></ref><ref id="alz71103-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz71103-cite-0007">
+<string-name name-style="western">
+<surname>Ryman</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Acosta‐Baena</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aisen</surname>
+<given-names>PS</given-names>
+</string-name>, et al. <article-title>Symptom onset in autosomal dominant Alzheimer disease: a systematic review and meta‐analysis</article-title>. <source>Neurology</source>. <year>2014</year>;<volume>83</volume>(<issue>3</issue>):<fpage>253</fpage>. doi:<pub-id pub-id-type="doi">10.1212/WNL.0000000000000596</pub-id>
+<pub-id pub-id-type="pmid">24928124</pub-id>
+<pub-id pub-id-type="pmcid">PMC4117367</pub-id></mixed-citation></ref><ref id="alz71103-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz71103-cite-0008">
+<string-name name-style="western">
+<surname>Peng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baradar</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aguado</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolvetang</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Cellular senescence and premature aging in Down Syndrome</article-title>. <source>Mech Ageing Dev</source>. <year>2023</year>;<volume>212</volume>:<elocation-id>111824</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.mad.2023.111824</pub-id>
+<pub-id pub-id-type="pmid">37236373</pub-id>
+</mixed-citation></ref><ref id="alz71103-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz71103-cite-0009">
+<string-name name-style="western">
+<surname>Boerwinkle</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wisch</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Comparison of amyloid burden in individuals with Down syndrome versus autosomal dominant Alzheimer's disease: a cross‐sectional study</article-title>. <source>Lancet Neurol</source>. <year>2023</year>;<volume>22</volume>(<issue>1</issue>):<fpage>55</fpage>‐<lpage>65</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(22)00408-2</pub-id>
+<pub-id pub-id-type="pmid">36517172</pub-id>
+<pub-id pub-id-type="pmcid">PMC9979840</pub-id></mixed-citation></ref><ref id="alz71103-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz71103-cite-0010">
+<string-name name-style="western">
+<surname>Zammit</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laymon</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Betthauser</surname>
+<given-names>TJ</given-names>
+</string-name>, et al. <article-title>Amyloid accumulation in Down syndrome measured with amyloid load</article-title>. <source>Alzheimers Dement Amst Neth</source>. <year>2020</year>;<volume>12</volume>(<issue>1</issue>):<elocation-id>e12020</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/dad2.12020</pub-id>
+<pub-id pub-id-type="pmcid">PMC7233422</pub-id><pub-id pub-id-type="pmid">32435686</pub-id></mixed-citation></ref><ref id="alz71103-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz71103-cite-0011">
+<string-name name-style="western">
+<surname>Zammit</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tudorascu</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laymon</surname>
+<given-names>CM</given-names>
+</string-name>, et al. <article-title>PET measurement of longitudinal amyloid load identifies the earliest stages of amyloid‐beta accumulation during Alzheimer's disease progression in Down syndrome</article-title>. <source>NeuroImage</source>. <year>2021</year>;<volume>228</volume>:<elocation-id>117728</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.neuroimage.2021.117728</pub-id>
+<pub-id pub-id-type="pmid">33421595</pub-id>
+<pub-id pub-id-type="pmcid">PMC7953340</pub-id></mixed-citation></ref><ref id="alz71103-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz71103-cite-0012">
+<string-name name-style="western">
+<surname>Wisch</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McKay</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boerwinkle</surname>
+<given-names>AH</given-names>
+</string-name>, et al. <article-title>Comparison of tau spread in people with Down syndrome versus autosomal‐dominant Alzheimer's disease: a cross‐sectional study</article-title>. <source>Lancet Neurol</source>. <year>2024</year>;<volume>23</volume>(<issue>5</issue>):<fpage>500</fpage>‐<lpage>510</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(24)00084-X</pub-id>
+<pub-id pub-id-type="pmid">38631766</pub-id>
+<pub-id pub-id-type="pmcid">PMC11209765</pub-id></mixed-citation></ref><ref id="alz71103-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz71103-cite-0013">
+<string-name name-style="western">
+<surname>Zammit</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Betthauser</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McVea</surname>
+<given-names>AK</given-names>
+</string-name>, et al. <article-title>Characterizing the emergence of amyloid and tau burden in Down syndrome</article-title>. <source>Alzheimers Dement J Alzheimers Assoc</source>. <year>2024</year>;<volume>20</volume>(<issue>1</issue>):<fpage>388</fpage>‐<lpage>398</lpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.13444</pub-id>
+<pub-id pub-id-type="pmcid">PMC10843570</pub-id><pub-id pub-id-type="pmid">37641577</pub-id></mixed-citation></ref><ref id="alz71103-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz71103-cite-0014">
+<string-name name-style="western">
+<surname>Mattsson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tosun</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Insel</surname>
+<given-names>PS</given-names>
+</string-name>, et al. <article-title>Association of brain amyloid‐β with cerebral perfusion and structure in Alzheimer's disease and mild cognitive impairment</article-title>. <source>Brain</source>. <year>2014</year>;<volume>137</volume>(<issue>5</issue>):<fpage>1550</fpage>. doi:<pub-id pub-id-type="doi">10.1093/brain/awu043</pub-id>
+<pub-id pub-id-type="pmid">24625697</pub-id>
+<pub-id pub-id-type="pmcid">PMC3999717</pub-id></mixed-citation></ref><ref id="alz71103-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz71103-cite-0015">
+<string-name name-style="western">
+<surname>den Heijer</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geerlings</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoebeek</surname>
+<given-names>FE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hofman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koudstaal</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Breteler</surname>
+<given-names>MMB</given-names>
+</string-name>. <article-title>Use of hippocampal and Amygdalar volumes on magnetic resonance imaging to predict dementia in cognitively intact elderly people</article-title>. <source>Arch Gen Psychiatry</source>. <year>2006</year>;<volume>63</volume>(<issue>1</issue>):<fpage>57</fpage>‐<lpage>62</lpage>. doi:<pub-id pub-id-type="doi">10.1001/archpsyc.63.1.57</pub-id>
+<pub-id pub-id-type="pmid">16389197</pub-id>
+</mixed-citation></ref><ref id="alz71103-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz71103-cite-0016">
+<string-name name-style="western">
+<surname>Fukami‐Gartner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baburamani</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dimitrova</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Comprehensive volumetric phenotyping of the neonatal brain in Down syndrome</article-title>. <source>Cereb Cortex N Y N 1991</source>. <year>2023</year>;<volume>33</volume>(<issue>14</issue>):<fpage>8921</fpage>‐<lpage>8941</lpage>. doi:<pub-id pub-id-type="doi">10.1093/cercor/bhad171</pub-id>
+<pub-id pub-id-type="pmcid">PMC10350827</pub-id><pub-id pub-id-type="pmid">37254801</pub-id></mixed-citation></ref><ref id="alz71103-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz71103-cite-0017">
+<string-name name-style="western">
+<surname>Anderson</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nielsen</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferguson</surname>
+<given-names>MA</given-names>
+</string-name>, et al. <article-title>Abnormal brain synchrony in Down Syndrome</article-title>. <source>NeuroImage Clin</source>. <year>2013</year>;<volume>2</volume>:<fpage>703</fpage>‐<lpage>715</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.nicl.2013.05.006</pub-id>
+<pub-id pub-id-type="pmid">24179822</pub-id>
+<pub-id pub-id-type="pmcid">PMC3778249</pub-id></mixed-citation></ref><ref id="alz71103-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz71103-cite-0018">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adeyemi</surname>
+<given-names>EI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lin</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Dissociations in cortical morphometry in youth with down syndrome: evidence for reduced surface area but increased thickness</article-title>. <source>Cereb Cortex N Y N 1991</source>. <year>2016</year>;<volume>26</volume>(<issue>7</issue>):<fpage>2982</fpage>‐<lpage>2990</lpage>. doi:<pub-id pub-id-type="doi">10.1093/cercor/bhv107</pub-id>
+<pub-id pub-id-type="pmcid">PMC4898663</pub-id><pub-id pub-id-type="pmid">26088974</pub-id></mixed-citation></ref><ref id="alz71103-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz71103-cite-0019">
+<string-name name-style="western">
+<surname>Annus</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>LR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Acosta‐Cabronero</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>The Down syndrome brain in the presence and absence of fibrillar β‐amyloidosis</article-title>. <source>Neurobiol Aging</source>. <year>2017</year>;<volume>53</volume>:<fpage>11</fpage>‐<lpage>19</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2017.01.009</pub-id>
+<pub-id pub-id-type="pmid">28192686</pub-id>
+<pub-id pub-id-type="pmcid">PMC5391869</pub-id></mixed-citation></ref><ref id="alz71103-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz71103-cite-0020">
+<string-name name-style="western">
+<surname>Aranha</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iulita</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Montal</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>Changes of basal forebrain volume along the Alzheimer's disease continuum in down syndrome</article-title>. <volume>19</volume>; <year>2023</year>. doi:<pub-id pub-id-type="doi">10.1002/alz.067239</pub-id>
+<pub-id pub-id-type="pmid">37021589</pub-id></mixed-citation></ref><ref id="alz71103-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz71103-cite-0021">
+<string-name name-style="western">
+<surname>Teipel</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alexander</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schapiro</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Möller</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rapoport</surname>
+<given-names>SI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hampel</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Age‐related cortical grey matter reductions in non‐demented Down's syndrome adults determined by MRI with voxel‐based morphometry</article-title>. <source>Brain</source>. <year>2004</year>;<volume>127</volume>(<issue>4</issue>):<fpage>811</fpage>‐<lpage>824</lpage>. doi:<pub-id pub-id-type="doi">10.1093/brain/awh101</pub-id>
+<pub-id pub-id-type="pmid">14985261</pub-id>
+</mixed-citation></ref><ref id="alz71103-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz71103-cite-0022">
+<string-name name-style="western">
+<surname>Teipel</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schapiro</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alexander</surname>
+<given-names>GE</given-names>
+</string-name>, et al. <article-title>Relation of corpus callosum and hippocampal size to age in nondemented adults with down's syndrome</article-title>. <source>Am J Psychiatry</source>. <year>2003</year>;<volume>160</volume>(<issue>10</issue>):<fpage>1870</fpage>‐<lpage>1878</lpage>. doi:<pub-id pub-id-type="doi">10.1176/appi.ajp.160.10.1870</pub-id>
+<pub-id pub-id-type="pmid">14514503</pub-id>
+</mixed-citation></ref><ref id="alz71103-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz71103-cite-0023">
+<string-name name-style="western">
+<surname>Krasuski</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alexander</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horwitz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rapoport</surname>
+<given-names>SI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schapiro</surname>
+<given-names>MB</given-names>
+</string-name>. <article-title>Relation of medial temporal lobe volumes to age and memory function in nondemented adults with down's syndrome: implications for the prodromal phase of Alzheimer's disease</article-title>. <source>Am J Psychiatry</source>. <year>2002</year>;<volume>159</volume>(<issue>1</issue>):<fpage>74</fpage>‐<lpage>81</lpage>. doi:<pub-id pub-id-type="doi">10.1176/appi.ajp.159.1.74</pub-id>
+<pub-id pub-id-type="pmid">11772693</pub-id>
+</mixed-citation></ref><ref id="alz71103-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz71103-cite-0024">
+<string-name name-style="western">
+<surname>Aylward</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Honeycutt</surname>
+<given-names>NA</given-names>
+</string-name>, et al. <article-title>MRI volumes of the hippocampus and amygdala in adults with down's syndrome with and without dementia</article-title>. <source>Am J Psychiatry</source>. <year>1999</year>;<volume>156</volume>(<issue>4</issue>):<fpage>564</fpage>‐<lpage>568</lpage>. doi:<pub-id pub-id-type="doi">10.1176/ajp.156.4.564</pub-id>
+<pub-id pub-id-type="pmid">10200735</pub-id>
+</mixed-citation></ref><ref id="alz71103-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz71103-cite-0025">
+<string-name name-style="western">
+<surname>Buehner</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morcillo‐Nieto</surname>
+<given-names>AO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zsadanyi</surname>
+<given-names>SE</given-names>
+</string-name>, et al. <article-title>Medial temporal lobe atrophy in Down syndrome along the Alzheimer's disease continuum</article-title>. <source>Brain</source>. <year>2025</year>:<elocation-id>awaf133</elocation-id>. doi:<pub-id pub-id-type="doi">10.1093/brain/awaf133</pub-id>
+<pub-id pub-id-type="pmcid">PMC12233512</pub-id><pub-id pub-id-type="pmid">40243675</pub-id></mixed-citation></ref><ref id="alz71103-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz71103-cite-0026">
+<string-name name-style="western">
+<surname>Benzinger</surname>
+<given-names>TLS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blazey</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jack</surname>
+<given-names>CR</given-names>
+</string-name>, et al. <article-title>Regional variability of imaging biomarkers in autosomal dominant Alzheimer's disease</article-title>. <source>Proc Natl Acad Sci U S A</source>. <year>2013</year>;<volume>110</volume>(<issue>47</issue>):<fpage>E4502</fpage>‐<lpage>4509</lpage>. doi:<pub-id pub-id-type="doi">10.1073/pnas.1317918110</pub-id>
+<pub-id pub-id-type="pmid">24194552</pub-id>
+<pub-id pub-id-type="pmcid">PMC3839740</pub-id></mixed-citation></ref><ref id="alz71103-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz71103-cite-0027">
+<string-name name-style="western">
+<surname>Belder</surname>
+<given-names>CRS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boche</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicoll</surname>
+<given-names>JAR</given-names>
+</string-name>, et al. <article-title>Brain volume change following anti‐amyloid β immunotherapy for Alzheimer's disease: amyloid‐removal‐related pseudo‐atrophy</article-title>. <source>Lancet Neurol</source>. <year>2024</year>;<volume>23</volume>(<issue>10</issue>):<fpage>1025</fpage>‐<lpage>1034</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(24)00335-1</pub-id>
+<pub-id pub-id-type="pmid">39304242</pub-id>
+</mixed-citation></ref><ref id="alz71103-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz71103-cite-0028">
+<string-name name-style="western">
+<surname>Abdelmoity</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wisch</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kennedy</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Cross‐Sectional FDG in down syndrome and autosomal dominant Alzheimer disease</article-title>. <source>Ann Neurol</source>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.78002</pub-id><pub-id pub-id-type="pmcid">PMC12903563</pub-id><pub-id pub-id-type="pmid">40977577</pub-id></mixed-citation></ref><ref id="alz71103-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz71103-cite-0029">
+<string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>ECB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haque</surname>
+<given-names>RU</given-names>
+</string-name>, et al. <article-title>Cerebrospinal fluid proteomics define the natural history of autosomal dominant Alzheimer's disease</article-title>. <source>Nat Med</source>. <year>2023</year>;<volume>29</volume>(<issue>8</issue>):<fpage>1979</fpage>‐<lpage>1988</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41591-023-02476-4</pub-id>
+<pub-id pub-id-type="pmid">37550416</pub-id>
+<pub-id pub-id-type="pmcid">PMC10427428</pub-id></mixed-citation></ref><ref id="alz71103-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz71103-cite-0030">
+<string-name name-style="western">
+<surname>Montoliu‐Gaya</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dammer</surname>
+<given-names>EB</given-names>
+</string-name>, et al. <article-title>Proteomic analysis of Down syndrome cerebrospinal fluid compared to late‐onset and autosomal dominant Alzheimer´s disease</article-title>. <source>Nat Commun</source>. <year>2025</year>;<volume>16</volume>:<fpage>6003</fpage>. doi:<pub-id pub-id-type="doi">10.1038/s41467-025-61054-z</pub-id>
+<pub-id pub-id-type="pmid">40595720</pub-id>
+<pub-id pub-id-type="pmcid">PMC12214755</pub-id></mixed-citation></ref><ref id="alz71103-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz71103-cite-0031">
+<string-name name-style="western">
+<surname>Dale</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fischl</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sereno</surname>
+<given-names>MI</given-names>
+</string-name>. <article-title>Cortical surface‐based analysis: I. segmentation and surface reconstruction</article-title>. <source>NeuroImage</source>. <year>1999</year>;<volume>9</volume>(<issue>2</issue>):<fpage>179</fpage>‐<lpage>194</lpage>. doi:<pub-id pub-id-type="doi">10.1006/nimg.1998.0395</pub-id>
+<pub-id pub-id-type="pmid">9931268</pub-id>
+</mixed-citation></ref><ref id="alz71103-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz71103-cite-0032">
+<string-name name-style="western">
+<surname>Buckner</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Head</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parker</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>A unified approach for morphometric and functional data analysis in young, old, and demented adults using automated atlas‐based head size normalization: reliability and validation against manual measurement of total intracranial volume</article-title>. <source>NeuroImage</source>. <year>2004</year>;<volume>23</volume>(<issue>2</issue>):<fpage>724</fpage>‐<lpage>738</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neuroimage.2004.06.018</pub-id>
+<pub-id pub-id-type="pmid">15488422</pub-id>
+</mixed-citation></ref><ref id="alz71103-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="alz71103-cite-0033">
+<string-name name-style="western">
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Angelo</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vlassenko</surname>
+<given-names>AG</given-names>
+</string-name>, et al. <article-title>Quantitative analysis of PiB‐PET with FreeSurfer ROIs</article-title>. <source>PloS One</source>. <year>2013</year>;<volume>8</volume>(<issue>11</issue>):<elocation-id>e73377</elocation-id>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0073377</pub-id>
+<pub-id pub-id-type="pmid">24223109</pub-id>
+<pub-id pub-id-type="pmcid">PMC3819320</pub-id></mixed-citation></ref><ref id="alz71103-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="alz71103-cite-0034">
+<string-name name-style="western">
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blazey</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Snyder</surname>
+<given-names>AZ</given-names>
+</string-name>, et al. <article-title>Partial volume correction in quantitative amyloid imaging</article-title>. <source>NeuroImage</source>. <year>2014</year>;<volume>107</volume>:<fpage>55</fpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neuroimage.2014.11.058</pub-id>
+<pub-id pub-id-type="pmid">25485714</pub-id>
+<pub-id pub-id-type="pmcid">PMC4300252</pub-id></mixed-citation></ref><ref id="alz71103-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="alz71103-cite-0035">
+<string-name name-style="western">
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Flores</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hornbeck</surname>
+<given-names>RC</given-names>
+</string-name>, et al. <article-title>Utilizing the centiloid scale in cross‐sectional and longitudinal PiB PET studies</article-title>. <source>NeuroImage Clin</source>. <year>2018</year>;<volume>19</volume>:<fpage>406</fpage>. doi:<pub-id pub-id-type="doi">10.1016/j.nicl.2018.04.022</pub-id>
+<pub-id pub-id-type="pmid">30035025</pub-id>
+<pub-id pub-id-type="pmcid">PMC6051499</pub-id></mixed-citation></ref><ref id="alz71103-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="alz71103-cite-0036">
+<string-name name-style="western">
+<surname>Handen</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lott</surname>
+<given-names>IT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Christian</surname>
+<given-names>BT</given-names>
+</string-name>, et al. <article-title>The Alzheimer's biomarker consortium‐down syndrome: rationale and methodology</article-title>. <source>Alzheimers Dement Diagn Assess Dis Monit</source>. <year>2020</year>;<volume>12</volume>(<issue>1</issue>):<elocation-id>e12065</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/dad2.12065</pub-id>
+<pub-id pub-id-type="pmcid">PMC7396809</pub-id><pub-id pub-id-type="pmid">32775597</pub-id></mixed-citation></ref><ref id="alz71103-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz71103-cite-0037">
+<string-name name-style="western">
+<surname>Asken</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cid</surname>
+<given-names>REC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crocco</surname>
+<given-names>EA</given-names>
+</string-name>, et al. <article-title>Informing etiological heterogeneity of mild cognitive impairment and risk for progression to dementia with plasma p‐tau217</article-title>. <source>J Prev Alzheimers Dis</source>. <year>2025</year>;<volume>12</volume>(<issue>1</issue>):<elocation-id>100011</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.tjpad.2024.100011</pub-id>
+<pub-id pub-id-type="pmid">39800468</pub-id>
+<pub-id pub-id-type="pmcid">PMC11955927</pub-id></mixed-citation></ref><ref id="alz71103-bib-0037"><label>37</label><mixed-citation publication-type="miscellaneous" id="alz71103-cite-0038">
+<collab collab-type="authors">R Core Team</collab>
+. <article-title>R: A Language and Environment for Statistical Computing</article-title>. R Foundation for Statistical Computing, Vienna, Austria. URL <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.R-project.org/" ext-link-type="uri">https://www.R‐project.org/</ext-link>. Published online 2024.</mixed-citation></ref><ref id="alz71103-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz71103-cite-0039">
+<string-name name-style="western">
+<surname>Wood</surname>
+<given-names>SN</given-names>
+</string-name>. <article-title>Fast stable restricted maximum likelihood and marginal likelihood estimation of semiparametric generalized linear models</article-title>. <source>J R Stat Soc Ser B Stat Methodol</source>. <year>2011</year>;<volume>73</volume>(<issue>1</issue>):<fpage>3</fpage>‐<lpage>36</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1467-9868.2010.00749.x</pub-id>
+</mixed-citation></ref><ref id="alz71103-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz71103-cite-0040">
+<string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blazey</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Su</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Spatial patterns of neuroimaging biomarker change in individuals from families with autosomal dominant Alzheimer's disease: a longitudinal study</article-title>. <source>Lancet Neurol</source>. <year>2018</year>;<volume>17</volume>(<issue>3</issue>):<fpage>241</fpage>‐<lpage>250</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(18)30028-0</pub-id>
+<pub-id pub-id-type="pmid">29397305</pub-id>
+<pub-id pub-id-type="pmcid">PMC5816717</pub-id></mixed-citation></ref><ref id="alz71103-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz71103-cite-0041">
+<string-name name-style="western">
+<surname>Cohen</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDade</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Christian</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Early striatal amyloid deposition distinguishes Down syndrome and autosomal dominant Alzheimer's disease from late‐onset amyloid deposition</article-title>. <source>Alzheimers Dement J Alzheimers Assoc</source>. <year>2018</year>;<volume>14</volume>(<issue>6</issue>):<fpage>743</fpage>‐<lpage>750</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2018.01.002</pub-id>
+<pub-id pub-id-type="pmcid">PMC5994364</pub-id><pub-id pub-id-type="pmid">29477284</pub-id></mixed-citation></ref><ref id="alz71103-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz71103-cite-0042">
+<string-name name-style="western">
+<surname>Dincer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hari‐Raj</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Comparing cortical signatures of atrophy between late‐onset and autosomal dominant Alzheimer disease</article-title>. <source>NeuroImage Clin</source>. <year>2020</year>;<volume>28</volume>:<elocation-id>102491</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.nicl.2020.102491</pub-id>
+<pub-id pub-id-type="pmid">33395982</pub-id>
+<pub-id pub-id-type="pmcid">PMC7689410</pub-id></mixed-citation></ref><ref id="alz71103-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz71103-cite-0043">
+<string-name name-style="western">
+<surname>Kennedy</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wisch</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dincer</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Decoding brain structure to stage Alzheimer's disease pathology in Down syndrome</article-title>. <source>Alzheimers Dement</source>. <year>2025</year>;<volume>21</volume>(<issue>2</issue>):<elocation-id>e14519</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/alz.14519</pub-id>
+<pub-id pub-id-type="pmid">39807622</pub-id>
+<pub-id pub-id-type="pmcid">PMC11848172</pub-id></mixed-citation></ref><ref id="alz71103-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz71103-cite-0044">
+<string-name name-style="western">
+<surname>Green</surname>
+<given-names>ZD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vidoni</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Swerdlow</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burns</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morris</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Honea</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Increased functional connectivity of the precuneus in individuals with a family history of alzheimer's disease</article-title>. <source>J Alzheimers Dis</source>. <year>2023</year>;<volume>91</volume>(<issue>2</issue>):<fpage>559</fpage>. doi:<pub-id pub-id-type="doi">10.3233/JAD-210326</pub-id>
+<pub-id pub-id-type="pmid">36463439</pub-id>
+<pub-id pub-id-type="pmcid">PMC9912732</pub-id></mixed-citation></ref><ref id="alz71103-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz71103-cite-0045">
+<string-name name-style="western">
+<surname>Luckett</surname>
+<given-names>PH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McCullough</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>BA</given-names>
+</string-name>, et al. <article-title>Modeling autosomal dominant Alzheimer's disease with machine learning</article-title>. <source>Alzheimers Dement J Alzheimers Assoc</source>. <year>2021</year>;<volume>17</volume>(<issue>6</issue>):<fpage>1005</fpage>. doi:<pub-id pub-id-type="doi">10.1002/alz.12259</pub-id>
+<pub-id pub-id-type="pmcid">PMC8195816</pub-id><pub-id pub-id-type="pmid">33480178</pub-id></mixed-citation></ref><ref id="alz71103-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz71103-cite-0046">
+<string-name name-style="western">
+<surname>Millar</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wisch</surname>
+<given-names>JK</given-names>
+</string-name>, et al. <article-title>Advanced structural brain aging in preclinical autosomal dominant Alzheimer disease</article-title>. <source>Mol Neurodegener</source>. <year>2023</year>;<volume>18</volume>(<issue>1</issue>):<fpage>98</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s13024-023-00688-3</pub-id>
+<pub-id pub-id-type="pmid">38111006</pub-id>
+<pub-id pub-id-type="pmcid">PMC10729487</pub-id></mixed-citation></ref><ref id="alz71103-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz71103-cite-0047">
+<string-name name-style="western">
+<surname>Kinnunen</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cash</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poole</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Presymptomatic atrophy in autosomal dominant Alzheimer's disease: a serial magnetic resonance imaging study</article-title>. <source>Alzheimers Dement</source>. <year>2018</year>;<volume>14</volume>(<issue>1</issue>):<fpage>43</fpage>‐<lpage>53</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jalz.2017.06.2268</pub-id>
+<pub-id pub-id-type="pmid">28738187</pub-id>
+<pub-id pub-id-type="pmcid">PMC5751893</pub-id></mixed-citation></ref><ref id="alz71103-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="alz71103-cite-0048">
+<string-name name-style="western">
+<surname>Pletnikova</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kageyama</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rudow</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>The spectrum of preclinical Alzheimer's disease pathology and its modulation by ApoE genotype</article-title>. <source>Neurobiol Aging</source>. <year>2018</year>;<volume>71</volume>:<fpage>72</fpage>‐<lpage>80</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2018.07.007</pub-id>
+<pub-id pub-id-type="pmid">30099348</pub-id>
+</mixed-citation></ref><ref id="alz71103-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="alz71103-cite-0049">
+<string-name name-style="western">
+<surname>Horvath</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garagnani</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bacalini</surname>
+<given-names>MG</given-names>
+</string-name>, et al. <article-title>Accelerated epigenetic aging in Down syndrome</article-title>. <source>Aging Cell</source>. <year>2015</year>;<volume>14</volume>(<issue>3</issue>):<fpage>491</fpage>‐<lpage>495</lpage>. doi:<pub-id pub-id-type="doi">10.1111/acel.12325</pub-id>
+<pub-id pub-id-type="pmid">25678027</pub-id>
+<pub-id pub-id-type="pmcid">PMC4406678</pub-id></mixed-citation></ref><ref id="alz71103-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="alz71103-cite-0050">
+<string-name name-style="western">
+<surname>Cole</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Annus</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>LR</given-names>
+</string-name>, et al. <article-title>Brain‐predicted age in Down syndrome is associated with beta amyloid deposition and cognitive decline</article-title>. <source>Neurobiol Aging</source>. <year>2017</year>;<volume>56</volume>:<fpage>41</fpage>‐<lpage>49</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2017.04.006</pub-id>
+<pub-id pub-id-type="pmid">28482213</pub-id>
+<pub-id pub-id-type="pmcid">PMC5476346</pub-id></mixed-citation></ref><ref id="alz71103-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="alz71103-cite-0051">
+<string-name name-style="western">
+<surname>Cisternas</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ashfeld</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zartman</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>DYRK1A in the physiology and pathology of the neuron‐astrocyte axis</article-title>. <source>Front Neurosci</source>. <year>2025</year>;<volume>19</volume>. doi:<pub-id pub-id-type="doi">10.3389/fnins.2025.1626062</pub-id>
+<pub-id pub-id-type="pmcid">PMC12580109</pub-id><pub-id pub-id-type="pmid">41189746</pub-id></mixed-citation></ref><ref id="alz71103-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="alz71103-cite-0052">
+<string-name name-style="western">
+<surname>Chhatwal</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schultz</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McDade</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Variant‐dependent heterogeneity in amyloid β burden in autosomal dominant Alzheimer's disease: cross‐sectional and longitudinal analyses of an observational study</article-title>. <source>Lancet Neurol</source>. <year>2022</year>;<volume>21</volume>(<issue>2</issue>):<fpage>140</fpage>‐<lpage>152</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S1474-4422(21)00375-6</pub-id>
+<pub-id pub-id-type="pmid">35065037</pub-id>
+<pub-id pub-id-type="pmcid">PMC8956209</pub-id></mixed-citation></ref><ref id="alz71103-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="alz71103-cite-0053">
+<string-name name-style="western">
+<surname>McCann</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levman</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baumer</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Structural magnetic resonance imaging demonstrates volumetric brain abnormalities in down syndrome: newborns to young adults</article-title>. <source>NeuroImage Clin</source>. <year>2021</year>;<volume>32</volume>:<elocation-id>102815</elocation-id>. doi:<pub-id pub-id-type="doi">10.1016/j.nicl.2021.102815</pub-id>
+<pub-id pub-id-type="pmid">34520978</pub-id>
+<pub-id pub-id-type="pmcid">PMC8441087</pub-id></mixed-citation></ref><ref id="alz71103-bib-0053"><label>53</label><mixed-citation publication-type="miscellaneous" id="alz71103-cite-0054">
+<collab collab-type="authors">PACE: DIAN‐TU Primary Prevention – Alzheimer's Association</collab>
+. <article-title>StepUpThePace</article-title>. Accessed November 15, 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.alz.org/stepupthepace/diantu-primary.asp" ext-link-type="uri">https://www.alz.org/stepupthepace/diantu‐primary.asp</ext-link>
+</mixed-citation></ref><ref id="alz71103-bib-0054"><label>54</label><mixed-citation publication-type="miscellaneous" id="alz71103-cite-0055">
+<string-name name-style="western">
+<surname>LuMind</surname>
+<given-names>IDSC</given-names>
+</string-name>. <article-title>Down syndrome population will see a clinical trial of new Alzheimer's drug</article-title>. <year>2024</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://lumindidsc.org/downsyndrome-clinical-trial-for-alzheimers" ext-link-type="uri">https://lumindidsc.org/downsyndrome‐clinical‐trial‐for‐alzheimers</ext-link>
+</mixed-citation></ref><ref id="alz71103-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="alz71103-cite-0056">
+<string-name name-style="western">
+<surname>Boyle</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koops</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ances</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Resistance and resilience to Alzheimer's disease in Down syndrome</article-title>. <source>Alzheimers Dement</source>. <year>2025</year>;<volume>21</volume>(<issue>4</issue>):<elocation-id>e70151</elocation-id>. doi:<pub-id pub-id-type="doi">10.1002/alz.70151</pub-id>
+<pub-id pub-id-type="pmid">40289889</pub-id>
+<pub-id pub-id-type="pmcid">PMC12035553</pub-id></mixed-citation></ref><ref id="alz71103-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="alz71103-cite-0057">
+<string-name name-style="western">
+<surname>Betthauser</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bilgel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koscik</surname>
+<given-names>RL</given-names>
+</string-name>, et al. <article-title>Multi‐method investigation of factors influencing amyloid onset and impairment in three cohorts</article-title>. <source>Brain</source>. <year>2022</year>;<volume>145</volume>(<issue>11</issue>):<fpage>4065</fpage>‐<lpage>4079</lpage>. doi:<pub-id pub-id-type="doi">10.1093/brain/awac213</pub-id>
+<pub-id pub-id-type="pmid">35856240</pub-id>
+<pub-id pub-id-type="pmcid">PMC9679170</pub-id></mixed-citation></ref></ref-list><app-group><app id="alz71103-app-0001" content-type="APPENDIX"><label>APPENDIX 1</label><sec id="alz71103-sec-0280"><label>1.1</label><p>ABC‐DS and DIAN collaborators are indexed online at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nia.nih.gov/research/abc-ds#sites" ext-link-type="uri">https://www.nia.nih.gov/research/abc‐ds#sites</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://dian.wustl.edu/our-research/observational-study/dian-observational-study-sites/" ext-link-type="uri">https://dian.wustl.edu/our‐research/observational‐study/dian‐observational‐study‐sites/</ext-link>
+</p></sec></app></app-group></back></article></pmc-articleset>

@@ -22,5 +22,5 @@ EXPOSE 7860
 ENV HOST=0.0.0.0
 ENV PORT=7860
 
-# Run the app
-CMD ["uvicorn", "backend.api:app", "--host", "0.0.0.0", "--port", "7860"]
+# Run the app dynamically on the port injected by Cloud Run or Hugging Face
+CMD uvicorn backend.api:app --host 0.0.0.0 --port ${PORT:-8080}
